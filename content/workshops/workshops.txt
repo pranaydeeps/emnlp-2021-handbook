@@ -1,56 +1,91 @@
-W1, SemEval
-9th International Workshop on Semantic Evaluations.
-Preslav Nakov, Torsten Zesch
+W1, ECONLP
+Workshop on Economics and Natural Language Processing
+Udo Hahn, Veronique Hoste and Amanda Stent
 
-W2, ArgMining
+W2, LAW-DMR
 2nd Workshop on Argumentation Mining
 Claire Cardie, Nancy Green, Iryna Gurevych, Graeme Hirst, Diane Litman, Smaranda Muresan, Georgios Petasis, Manfred Stede, Marilyn Walker, Janyce Wiebe
 
-W3, BEA
-The 10th Workshop on Innovative Use of NLP for Building Educational Applications
-Joel Tetreault, Jill Burstein, Claudia Leacock
+W3, NLP4ConvAI
+3rd Workshop on Conversational AI
+Alexandros Papangelis, Paweł Budzianowski, Elnaz Nouri, Bing Liu, Abhinav Rastogi and Yun-Nung Chen
 
-W4, CLFL
-Fourth Workshop on Computational Linguistics for Literature
-Anna Feldman, Anna Kazantseva, Stan Szpakowicz
+W4, NILLI
+Novel Ideas in Learning-to-Learn through Interaction
+Prasanna Parthasarathi, Koustuv Sinha, Kalesha Bullard, Adina Williams, Marc-Alexandre Côté, Sarath Chandar and Joelle Pineau
 
-W5, CMCL
-Cognitive Modeling and Computational Linguistics
-Timothy J. O’Donnell, Marten van Schijndel
+W5, Eval4NLP
+Evaluation and Comparison of NLP Systems
+Steffen Eger, Yang Gao, Wei Zhao, Piyawat Lertvittayakumjorn and Marina Fomicheva
 
-W6, Event
-The 3rd Workshop on EVENTS: Definition, Detection, Coreference, and Representation
-Eduard Hovy, Teruko Mitamura, Martha Palmer
+W6, CI+NLP
+First Workshop on Causal Inference in NLP
+Jacob Eisenstein, Amir Feder, Justin Grimmer, Katherine Keith, Emaad Manzoor, Reid Pryzant, Roi Reichart, Molly Roberts, Uri Shalit, Dhanya Sridhar, Brandon Stewart, Victor Veitch, Zach Wood-Doughty and Diyi Yang
 
-W7, MWE
-The 11th Workshop on Multiword Expressions.
-Valia Kordoni, Markus Egg, Kostadin Cholakov, Stella Markantonatou, Shuly Wintner
+W7, W-NUT
+7th Workshop on Noisy User-generated Text
+Wei Xu, Afshin Rahimi, Alan Ritter and Timothy Baldwin
 
-W8, SSST
-Ninth Workshop on Syntax, Semantics and Structure in Statistical Translation
-Dekai Wu, Marine Carpuat, Eneko Agirre, Nora Aranberri
+W8, LaTeCH-CLfl
+The 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature
+Stefania Degaetano-Ortlieb, Anna Kazantseva, Nils Reiter and Stan Szpakowicz
 
-W9, CLPsych
-Computational Linguistics and Clinical Psychology — From Linguistic Signal to Clinical Reality
-Margaret Mitchell, Glen Coppersmith, Kristy Hollingshead
+W9, ArgMining
+8th International Workshop on Argument Mining
+Khalid Al Khatib, Yufang Hou and Manfred Stede
 
-W10, ExProM
-Extra-Propositional Aspects of Meaning in Computational Linguistics
-Eduardo Blanco, Roser Morante, Caroline Sporleder
+W10, INRNLP
+The Second Workshop on Insights from Negative Results in NLP
+João Sedoc, Anna Rogers, Anna Rumshisky and Shabnam Tafreshi
 
-W11, LAW
-The 9th Linguistic Annotation Workshop
-Adam Meyers, Ines Rehbein, Heike Zinsmeister
+W11, WMT
+Sixth Conference on Machine Translation
+Barry Haddow, Philipp Koehn, Christof Monz, Ondřej Bojar, Yvette Graham, Matthias Huck and Christian Federmann
 
-W12, Metaphor
-The Third Workshop on Metaphor in NLP
-Ekaterina Shutova, Beata Beigman Klebanov, Patricia Lichtenstein
+W12, MRQA
+The 3rd Workshop on Machine Reading for Question Answering
+Adam Fisch, Alon Talmor, Danqi Chen, Eunsol Choi, Minjoon Seo, Patrick Lewis, Robin Jia and Sewon Min
 
-W13, SocialNLP
-Third International Workshop on Natural Language Processing for Social Media
-Shou-De Lin, Lun-Wei Ku, Cheng-Te Li, Erik Cambria
+W13, MRL
+The 1st Workshop on Multi-lingual Representation Learning
+Duygu Ataman, Alexandra Birch, Alexis Conneau, Orhan Firat, Sebastian Ruder and Gözde Gül Şahin
 
-W14, VSM–NLP
-Vector Space Modeling for NLP
-Phil Blunsom, Shay Cohen, Paramveer Dhillon, Percy Liang
+W14, WiNLP
+The Fifth Widening NLP Workshop
+Khyathi Raghavi Chandu, Antonios Anastasopoulos, Erika Doggett, Tirthankar Ghosal, Haley Lepp, Sabrina J. Mielke, Surangika Ranathunga, Alexandra Schofield, Ryan Georgi and Alicia Tsai
 
+W15, NLLP
+Workshop on Natural Legal Language Processing
+Nikolaos Aletras, Ion Androutsopoulos, Leslie Barrett, Catalina Goanta and Daniel Preotiuc-Pietro
+
+W16, CODI
+2nd Workshop on Computational Approaches to Discourse
+Chloé Braud, Christian Hardmeier, Junyi Jessy Li, Annie Louis, Michael Strube and Amir Zeldes
+
+W17, EANCS
+Workshop on Evaluations and Assessments of Neural Conversation Systems
+Wei Wei, Bo Dai, Tuo Zhao, Lihong Li, Diyi Yang, Yun-Nung Chen, Y-Lan Boureau, Asli Celikyilmaz, Alborz Geramifard, Aman Ahuja, and Haoming Jiang
+
+W18, SustaiNLP
+The Second Workshop on Simple and Efficient Natural Language Processing
+Angela Fan, Iryna Gurevych, Yufang Hou, Zornitsa Kozareva, Ana Marasović, Nafise Sadat Moosavi, Sujith Ravi, and Thomas Wolf
+
+W19, CRAC
+Fourth Workshop on Computational Models of Reference, Anaphora and Coreference
+Maciej Ogrodniczuk, Massimo Poesio, Sameer Pradhan, Yulia Grishina and Vincent Ng
+
+W20, FEVER
+Fourth Workshop on Fact Extraction and VERification
+Rami Aly, Oana Cocarascu, Christos Christodoulopoulos, James Thorne, Andreas Vlachos and Arpit Mittal
+
+W21, NewSum
+Third Workshop on New Frontiers in Summarization
+Lu Wang, Giuseppe Carenini, Jackie Chi Kit Cheung, Fei Liu and Yue Dong
+
+W22, CoNLL
+The SIGNLL Conference on Computational Natural Language Learning
+Omri Abend, Arianna Bisazza, Afra Alishahi and Julia Hockenmaier
+
+W23, BlackboxNLP
+Analyzing and interpreting neural networks for NLP
+Dieuwke Hupkes, Yonatan Belinkov, Emmanuel Dupoux, Jasmijn Bastings, Mario Giulianelli, Yuval Pinter and Hassan Sajjad
