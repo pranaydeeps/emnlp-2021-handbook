@@ -9,10 +9,10 @@
 \newunicodechar{ș}{\cb{s}}
 \newunicodechar{ț}{\cb{t}}
 
-\usepackage{fontspec,xunicode,xltxtra}
-\setromanfont[Mapping=tex-text]{Times}
-\setsansfont[Mapping=tex-text]{Lucida Grande} 
-\setmonofont{Courier New}
+%% \usepackage{fontspec,xunicode,xltxtra}
+%% \setromanfont[Mapping=tex-text]{Times}
+%% \setsansfont[Mapping=tex-text]{Lucida Grande}
+%% \setmonofont{Courier New}
 
 \usepackage{pdfpages}
 
@@ -20,8 +20,8 @@
 % should have a document class for conference handbooks where A5
 % vs. letter-halved is a class option
 \usepackage[
-  paperheight=8.5in, 
-  paperwidth=5.5in, 
+  paperheight=8.5in,
+  paperwidth=5.5in,
   inner=.75in,
   outer=.5in,
   bottom=.75in,
@@ -29,8 +29,8 @@
   twoside]{geometry}
 
 % Lots of macros
-\input{content/special/preamble} 
-\input{content/special/macros}    
+\input{content/special/preamble}
+\input{content/special/macros}
 
 \input{content/setup/venues}    % macros for event locations
 \input{content/setup/sessions}  % session titles and venues
@@ -88,8 +88,9 @@
 \cleardoublepage
 \thispagestyle{empty}
 \vspace*{6in}
-\noindent\emph{Cover design by Aurelia Bunescu}\\\index{Bunescu, Aurelia}
-\noindent\emph{Handbook assembled by Matt Post}\\\index{Post, Matt}
+\emph{Cover by Nathan Cornille}\index{Cornille, Nathan}
+%\emph{Deep gratitude to Joachim Bingel for invaluable advice with creating this handbook}\index{Bingel, Joachim}
+    \emph{Handbook assembled by Els Lefever, Pranaydeep Singh and Loic De Langhe}\index{Lefever, Els}\index{Singh, Pranaydeep}\index{De Langhe, Loic}
 \emph{Printing by Omnipress of Madison, Wisconsin}
 
 \newpage
@@ -143,8 +144,11 @@
 
 %% TUTORIALS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\setdaydateyear{Sunday}{May 31}{2015}
-\input{content/tutorials/tutorials-overview}
+\setdaydateyear{Wednesday}{November 10}{2021}
+\input{content/tutorials/tutorials-overview-1}
+
+\setdaydateyear{Thursday}{November 11}{2021}
+\input{content/tutorials/tutorials-overview-2}
 
 %% Welcome reception %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -153,13 +157,13 @@
 
 %% MAIN CONFERENCE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\setdaydateyear{Monday}{June 1}{2015}
+\setdaydateyear{Sunday}{November 7}{2021}
 \input{content/day1/day1}
 
-\setdaydateyear{Tuesday}{June 2}{2015}
+\setdaydateyear{Monday}{November 8}{2021}
 \input{content/day2/day2}
 
-\setdaydateyear{Wednesday}{June 3}{2015}
+\setdaydateyear{Tuesday}{November 9}{2021}
 \input{content/day3/day3}
 
 %% Cultural event %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -170,12 +174,12 @@
 
 %% *SEM% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\setdaydateyear{Thursday--Friday}{June 4--5}{2015}
-\input{content/colocated/overview}
+%\setdaydateyear{Thursday--Friday}{June 4--5}{2015}
+%\input{content/colocated/overview}
 
 %% WORKSHOPS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\setdaydateyear{Thursday--Friday}{June 4--5}{2015}
+\setdaydateyear{Thursday--Friday}{November 10--11}{2021}
 \input{content/workshops/workshops}
 
 %% MISC %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
