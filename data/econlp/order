@@ -1,0 +1,24 @@
+* Thursday, November 11, 2021
+! 09:00--09:30 Opening remarks and status report on economics & NLP %by Udo Hahn
+= 09:30--10:40 Session 1: datasets for economic NLP
+5 9:30--10:00  # A Fine-Grained Annotated Corpus for Target-Based Opinion Analysis of Economic and Financial Narratives
+3 10:00--10:20  # EDGAR-CORPUS: Billions of Tokens Make The World Go Round
+11 10:20--10:40  # The Global Banking Standards QA Dataset (GBS-QA)
+= 10:40--10:50 Short break
+= 10:50--12:00 Session 2: transformer-based methodologies in economic NLP
+4 10:50--11:20  # Corporate Bankruptcy Prediction with BERT Model
+13 11:20--11:40  # Is Domain Adaptation Worth Your Investment? Comparing BERT and FinBERT on Financial Tasks
+18 11:40--12:00  # From Stock Prediction to Financial Relevance: Repurposing Attention Weights to Assess News Relevance Without Manual Annotations
+! 12:00--12:45 Keynote: %by Gerard Hoberg
+= 12:45--14:00 Lunch Break
+= 14:00--15:10 Session 3: applications in economic NLP
+1 14:00--14:30  # Extracting Economic Signals from Central Bank Speeches
+8 14:30--14:50  # Privacy enabled Financial Text Classification using Differential Privacy and Federated Learning
+9 14:50--15:10  # Using Word Embedding to Reveal Monetary Policy Explanation Changes
+= 15:10--15:40 Coffee Break
+= 15:40--17:00 Session 4: applications in economic NLP
+12 15:40--16:10  # Effective Use of Graph Convolution Network and Contextual Sub-Tree for Commodity News Event Extraction
+16 16:10--16:40  # Cryptocurrency Day Trading and Framing Prediction in Microblog Discourse
+17 16:40--17:00  # To What Extent Can English-as-a-Second Language Learners Read Economic News Texts?
++ 17:00--17:45 Discussion Round: Planning for an ECONLP Challenge Competition
++ 17:45--18:00 Concluding remarks
