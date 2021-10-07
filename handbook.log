@@ -1,0 +1,3922 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.30)  30 SEP 2021 15:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**handbook.tex
+(./handbook.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/combelow/combelow.sty
+Package: combelow 2010/05/02 v0.99f comma below command
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count184
+\l__color_backend_stack_int=\count185
+\g__color_backend_stack_int=\count186
+\g__graphics_track_int=\count187
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count188
+\g__pdf_backend_annotation_int=\count189
+\g__pdf_backend_link_int=\count190
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex)))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count191
+\l__fontspec_language_int=\count192
+\l__fontspec_strnum_int=\count193
+\l__fontspec_tmp_int=\count194
+\l__fontspec_tmpa_int=\count195
+\l__fontspec_tmpb_int=\count196
+\l__fontspec_tmpc_int=\count197
+\l__fontspec_em_int=\count198
+\l__fontspec_emdef_int=\count199
+\l__fontspec_strong_int=\count266
+\l__fontspec_strongdef_int=\count267
+\l__fontspec_tmpa_dim=\dimen139
+\l__fontspec_tmpb_dim=\dimen140
+\l__fontspec_tmpc_dim=\dimen141
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+*** you should *not* be loading the inputenc package
+*** XeTeX expects the source to be in UTF8 encoding
+*** some features of other encodings may conflict, resulting in poor output.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+\tipaTiiicode=\count268
+\tipasavetokens=\toks17
+\tipachecktokens=\toks18
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+))
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
+\subsupersep=\dimen144
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks20
+\xl@@everylogo=\toks21
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box48
+\l__xetex_show_hyphens_temp_box=\box49
+\l__xetex_show_hyphens_final_box=\box50
+\g__xetex_show_hyphens_word_box=\box51
+)
+
+Package fontspec Info: Font family 'Times(0)' created for font 'Times' with
+(fontspec)             options [Ligatures=TeX,Mapping=tex-text].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Times/AAT:mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Times/B/AAT:mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Times/I/AAT:mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Times/BI/AAT:mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "Lucida Grande/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'LucidaGrande(0)' created for font 'Lucida
+(fontspec)             Grande' with options [Ligatures=TeX,Mapping=tex-text].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Lucida
+(fontspec)             Grande/AAT:mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Lucida
+(fontspec)             Grande/B/AAT:mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Lucida
+(fontspec)             Grande/BI/AAT:mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count269
+\calc@Bcount=\count270
+\calc@Adimen=\dimen145
+\calc@Bdimen=\dimen146
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count271
+\calc@Cskip=\skip51
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen147
+\ESO@tempdimb=\dimen148
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen149
+\AM@pageheight=\dimen150
+\AM@fboxrule=\dimen151
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2021/03/06 v0.5t Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count272
+\AM@pagebox=\box52
+\AM@global@opts=\toks22
+\AM@pagecnt=\count273
+\AM@toc@title=\toks23
+\c@AM@survey=\count274
+\AM@templatesizebox=\box53
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks24
+)
+(./content/special/preamble.tex
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+Times(0) on input li
+ne 112.
+LaTeX Font Info:    No file T1Times(0).fd. on input line 112.
+
+
+LaTeX Font Warning: Font shape `T1/Times(0)/m/n' undefined
+(Font)              using `T1/cmr/m/n' instead on input line 112.
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen160
+\Hy@linkcounter=\count278
+\Hy@pagecounter=\count279
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count280
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc-greekbasic.def
+File: puenc-greekbasic.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (
+greek block) (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count281
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen161
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count282
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count283
+\c@Item=\count284
+\c@Hfootnote=\count285
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box54
+\c@Hy@AnnotLevel=\count286
+\HyField@AnnotCount=\count287
+\Fld@listcount=\count288
+\c@bookmark@seq@number=\count289
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen164
+\ar@mcellbox=\box55
+\extrarowheight=\dimen165
+\NC@list=\toks25
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box56
+)
+\everycr=\toks26
+\minrowclearance=\skip55
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip56
+\f@nch@O@elh=\skip57
+\f@nch@O@erh=\skip58
+\f@nch@O@olh=\skip59
+\f@nch@O@orh=\skip60
+\f@nch@O@elf=\skip61
+\f@nch@O@erf=\skip62
+\f@nch@O@olf=\skip63
+\f@nch@O@orf=\skip64
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fncychap/fncychap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip65
+\mylen=\skip66
+\myhi=\skip67
+\px=\skip68
+\py=\skip69
+\pyy=\skip70
+\pxx=\skip71
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip72
+\LTright=\skip73
+\LTpre=\skip74
+\LTpost=\skip75
+\LTchunksize=\count290
+\LTcapwidth=\dimen166
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@cols=\count291
+\LT@rows=\count292
+\c@LT@tables=\count293
+\c@LT@chunks=\count294
+\LT@p@ftn=\toks27
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen167
+\TX@old@table=\dimen168
+\TX@old@col=\dimen169
+\TX@target=\dimen170
+\TX@delta=\dimen171
+\TX@cols=\count295
+\TX@ftn=\toks28
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+)
+\csq@reset=\count297
+\csq@gtype=\count298
+\csq@glevel=\count299
+\csq@qlevel=\count300
+\csq@maxlvl=\count301
+\csq@tshold=\count302
+\csq@ltx@everypar=\toks29
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count303
+\U@D=\dimen172
+\l@babelnohyphens=\language87
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count304
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/american.ldf
+Language: american 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count305
+\mult@box=\box61
+\multicol@leftmargin=\dimen173
+\c@unbalance=\count306
+\c@collectmore=\count307
+\doublecol@number=\count308
+\multicoltolerance=\count309
+\multicolpretolerance=\count310
+\full@width=\dimen174
+\page@free=\dimen175
+\premulticols=\dimen176
+\postmulticols=\dimen177
+\multicolsep=\skip76
+\multicolbaselineskip=\skip77
+\partial@page=\box62
+\last@line=\box63
+\maxbalancingoverflow=\dimen178
+\mult@rightbox=\box64
+\mult@grightbox=\box65
+\mult@gfirstbox=\box66
+\mult@firstbox=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\c@minrows=\count311
+\c@columnbadness=\count312
+\c@finalcolumnbadness=\count313
+\last@try=\dimen179
+\multicolovershoot=\dimen180
+\multicolundershoot=\dimen181
+\mult@nat@firstbox=\box105
+\colbreak@box=\box106
+\mc@col@check@num=\count314
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip78
+\multirow@cntb=\count315
+\multirow@dima=\skip79
+\bigstrutjot=\dimen182
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count316
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count317
+\c@listtotal=\count318
+\c@listcount=\count319
+\c@liststart=\count320
+\c@liststop=\count321
+\c@citecount=\count322
+\c@citetotal=\count323
+\c@multicitecount=\count324
+\c@multicitetotal=\count325
+\c@instcount=\count326
+\c@maxnames=\count327
+\c@minnames=\count328
+\c@maxitems=\count329
+\c@minitems=\count330
+\c@citecounter=\count331
+\c@maxcitecounter=\count332
+\c@savedcitecounter=\count333
+\c@uniquelist=\count334
+\c@uniquename=\count335
+\c@refsection=\count336
+\c@refsegment=\count337
+\c@maxextratitle=\count338
+\c@maxextratitleyear=\count339
+\c@maxextraname=\count340
+\c@maxextradate=\count341
+\c@maxextraalpha=\count342
+\c@abbrvpenalty=\count343
+\c@highnamepenalty=\count344
+\c@lownamepenalty=\count345
+\c@maxparens=\count346
+\c@parenlevel=\count347
+\blx@tempcnta=\count348
+\blx@tempcntb=\count349
+\blx@tempcntc=\count350
+\blx@maxsection=\count351
+\blx@maxsegment@0=\count352
+\blx@notetype=\count353
+\blx@parenlevel@text=\count354
+\blx@parenlevel@foot=\count355
+\blx@sectionciteorder@0=\count356
+\blx@entrysetcounter=\count357
+\blx@biblioinstance=\count358
+\labelnumberwidth=\skip80
+\labelalphawidth=\skip81
+\biblabelsep=\skip82
+\bibitemsep=\skip83
+\bibnamesep=\skip84
+\bibinitsep=\skip85
+\bibparsep=\skip86
+\bibhang=\skip87
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language88
+\c@mincomprange=\count359
+\c@maxcomprange=\count360
+\c@mincompwidth=\count361
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count362
+\c@savedafterword=\count363
+\c@annotator=\count364
+\c@savedannotator=\count365
+\c@author=\count366
+\c@savedauthor=\count367
+\c@bookauthor=\count368
+\c@savedbookauthor=\count369
+\c@commentator=\count370
+\c@savedcommentator=\count371
+\c@editor=\count372
+\c@savededitor=\count373
+\c@editora=\count374
+\c@savededitora=\count375
+\c@editorb=\count376
+\c@savededitorb=\count377
+\c@editorc=\count378
+\c@savededitorc=\count379
+\c@foreword=\count380
+\c@savedforeword=\count381
+\c@holder=\count382
+\c@savedholder=\count383
+\c@introduction=\count384
+\c@savedintroduction=\count385
+\c@namea=\count386
+\c@savednamea=\count387
+\c@nameb=\count388
+\c@savednameb=\count389
+\c@namec=\count390
+\c@savednamec=\count391
+\c@translator=\count392
+\c@savedtranslator=\count393
+\c@shortauthor=\count394
+\c@savedshortauthor=\count395
+\c@shorteditor=\count396
+\c@savedshorteditor=\count397
+\c@labelname=\count398
+\c@savedlabelname=\count399
+\c@institution=\count400
+\c@savedinstitution=\count401
+\c@lista=\count402
+\c@savedlista=\count403
+\c@listb=\count404
+\c@savedlistb=\count405
+\c@listc=\count406
+\c@savedlistc=\count407
+\c@listd=\count408
+\c@savedlistd=\count409
+\c@liste=\count410
+\c@savedliste=\count411
+\c@listf=\count412
+\c@savedlistf=\count413
+\c@location=\count414
+\c@savedlocation=\count415
+\c@organization=\count416
+\c@savedorganization=\count417
+\c@origlocation=\count418
+\c@savedoriglocation=\count419
+\c@origpublisher=\count420
+\c@savedorigpublisher=\count421
+\c@publisher=\count422
+\c@savedpublisher=\count423
+\c@language=\count424
+\c@savedlanguage=\count425
+\c@origlanguage=\count426
+\c@savedoriglanguage=\count427
+\c@pageref=\count428
+\c@savedpageref=\count429
+\shorthandwidth=\skip88
+\shortjournalwidth=\skip89
+\shortserieswidth=\skip90
+\shorttitlewidth=\skip91
+\shortauthorwidth=\skip92
+\shorteditorwidth=\skip93
+\locallabelnumberwidth=\skip94
+\locallabelalphawidth=\skip95
+\localshorthandwidth=\skip96
+\localshortjournalwidth=\skip97
+\localshortserieswidth=\skip98
+\localshorttitlewidth=\skip99
+\localshortauthorwidth=\skip100
+\localshorteditorwidth=\skip101
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count430
+\c@textcitetotal=\count431
+\c@textcitemaxnames=\count432
+\c@biburlbigbreakpenalty=\count433
+\c@biburlbreakpenalty=\count434
+\c@biburlnumpenalty=\count435
+\c@biburlucpenalty=\count436
+\c@biburllcpenalty=\count437
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count438
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count439
+\c@bbx:relatedtotal=\count440
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+
+Package biblatex Warning: 'babel' option is deprecated.
+(biblatex)                Please use 'autolang' instead.
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2020/06/11 v0.70 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+)
+\XKV@depth=\count441
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count442
+\pstFP@xia=\count443
+\pstFP@xib=\count444
+\pstFP@xfa=\count445
+\pstFP@xfb=\count446
+\pstFP@rega=\count447
+\pstFP@regb=\count448
+\pstFP@regs=\count449
+\pstFP@times=\count450
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen183
+\pgfutil@tempdimb=\dimen184
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks35
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Loading pgffor.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen185
+\pgf@xa=\dimen186
+\pgf@xb=\dimen187
+\pgf@xc=\dimen188
+\pgf@y=\dimen189
+\pgf@ya=\dimen190
+\pgf@yb=\dimen191
+\pgf@yc=\dimen192
+\c@pgf@counta=\count451
+\c@pgf@countb=\count452
+\c@pgf@countc=\count453
+\c@pgf@countd=\count454
+\pgfutil@tempcnta=\count455
+\pgfutil@tempcntb=\count456
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen193
+\pgfmath@count=\count457
+\pgfmath@box=\box107
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count458
+))
+\pgffor@iter=\dimen194
+\pgffor@skip=\dimen195
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+)
+\psLoopIndex=\count459
+
+`PSTricks' v3.01  <2020/09/18> (tvz,hv)
+\pst@dima=\dimen196
+\pst@dimb=\dimen197
+\pst@dimc=\dimen198
+\pst@dimd=\dimen199
+\pst@dimg=\dimen256
+\pst@dimh=\dimen257
+\pst@dimm=\dimen258
+\pst@dimn=\dimen259
+\pst@dimo=\dimen260
+\pst@dimp=\dimen261
+\pst@hbox=\box108
+\pst@ibox=\box109
+\pst@boxg=\box110
+\pst@cnta=\count460
+\pst@cntb=\count461
+\pst@cntc=\count462
+\pst@cntd=\count463
+\pst@cntg=\count464
+\pst@cnth=\count465
+\pst@cntm=\count466
+\pst@cntn=\count467
+\pst@cnto=\count468
+\pst@cntp=\count469
+\@zero=\count470
+\pst@toks=\toks41
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg))
+\psunit=\dimen262
+\psxunit=\dimen263
+\psyunit=\dimen264
+\pst@C@@rType=\count471
+\pslinewidth=\dimen265
+\psk@startLW=\dimen266
+\psk@endLW=\dimen267
+\pst@customdefs=\toks42
+\pslinearc=\dimen268
+\pst@symbolStep=\dimen269
+\pst@symbolWidth=\dimen270
+\pst@symbolLinewidth=\dimen271
+\everypsbox=\toks43
+\psframesep=\dimen272
+\pslabelsep=\dimen273
+\sh@wgridXunit=\dimen274
+\sh@wgridYunit=\dimen275
+\pst@shift=\dimen276
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
+Using PSTricks configuration for XeTeX+xdvipdfmx
+)))
+File: pstricks.tex 2020/09/18 v3.01 `PSTricks' (tvz,hv)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2020/09/18 v3.01 `PST-fp' (hv)
+
+>>> Loading XeTeX special macros
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count472
+\rotFPtop=\skip102
+\rotFPbot=\skip103
+\rot@float@box=\box111
+\rot@mess@toks=\toks44
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/marginnote/marginnote.sty
+Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count473
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty)
+)
+\CenteringLeftskip=\skip104
+\RaggedLeftLeftskip=\skip105
+\RaggedRightLeftskip=\skip106
+\CenteringRightskip=\skip107
+\RaggedLeftRightskip=\skip108
+\RaggedRightRightskip=\skip109
+\CenteringParfillskip=\skip110
+\RaggedLeftParfillskip=\skip111
+\RaggedRightParfillskip=\skip112
+\JustifyingParfillskip=\skip113
+\CenteringParindent=\skip114
+\RaggedLeftParindent=\skip115
+\RaggedRightParindent=\skip116
+\JustifyingParindent=\skip117
+)
+\@indexfile=\write4
+\openout4 = `handbook.idx'.
+
+
+Writing index file handbook.idx
+\mycolumnwidth=\skip118
+) (./content/special/macros.tex
+\w=\skip119
+\tsl=\skip120
+\en=\skip121
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   6
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.154   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   6
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.167   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   3
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   3
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   3
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   6
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   3
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.180   \usebibmacro{name:andothers}}
+                                     
+? 
+\c@WorkshopCounter=\count474
+\c@TutorialCounter=\count475
+) (./content/setup/venues.tex) (./content/setup/sessions.tex)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 75
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+
+LaTeX Warning: Unused global option(s):
+    [makeidx].
+
+(./handbook.aux)
+\openout1 = `handbook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
+5.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 75.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 75
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 75.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 75.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 75.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 75.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 75.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 75.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 75.
+LaTeX Font Info:    Redeclaring math accent \check on input line 75.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 75.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 75.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 75.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 75.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/ptm/m/n on input line 75.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/m/n on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/ptm/m/n --> TU/ptm/m/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/ptm/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/ptm/b/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/phv/m/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/m/n on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/ptm/m/n --> TU/ptm/b/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/ptm/b/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/phv/b/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/pcr/b/n on input line 75.
+
+*** you should *not* be loading the inputenc package
+*** XeTeX expects the source to be in UTF8 encoding
+*** some features of other encodings may conflict, resulting in poor output.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(54.2025pt, 307.14749pt, 36.135pt)
+* v-part:(T,H,B)=(54.2025pt, 505.89pt, 54.2025pt)
+* \paperwidth=397.48499pt
+* \paperheight=614.295pt
+* \textwidth=307.14749pt
+* \textheight=505.89pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-36.135pt
+* \topmargin=-48.13498pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 75.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count476
+)
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
+ (./handbook.out) (./handbook.out)
+\@outlinefile=\write5
+\openout5 = `handbook.out'.
+
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-02-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `handbook.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'handbook.bbl' not found.
+
+No file handbook.bbl.
+Package biblatex Info: Reference section=0 on input line 75.
+Package biblatex Info: Reference segment=0 on input line 75.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 75.
+File: content/fmatter/cover.pdf Graphic file (type pdf)
+<use content/fmatter/cover.pdf>
+File: content/fmatter/cover.pdf Graphic file (type pdf)
+<use content/fmatter/cover.pdf>
+File: content/fmatter/cover.pdf Graphic file (type pdf)
+<use content/fmatter/cover.pdf, page 1>
+File: content/fmatter/cover.pdf Graphic file (type pdf)
+<use content/fmatter/cover.pdf, page 1>
+File: content/fmatter/cover.pdf Graphic file (type pdf)
+<use content/fmatter/cover.pdf, page 1>
+File: content/fmatter/cover.pdf Graphic file (type pdf)
+<use content/fmatter/cover.pdf, page 1>
+File: content/fmatter/cover.pdf Graphic file (type pdf)
+<use content/fmatter/cover.pdf, page 1>
+ [1
+
+] (./content/maps.tex
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 5.
+
+LaTeX Font Info:    No file TUptm.fd. on input line 5.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 5.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+File: content/hotel-map-1.pdf Graphic file (type pdf)
+<use content/hotel-map-1.pdf>
+File: content/hotel-map-2.pdf Graphic file (type pdf)
+<use content/hotel-map-2.pdf>
+
+Overfull \vbox (25.66368pt too high) has occurred while \output is active []
+
+
+[2]) [3
+
+] [4
+
+]
+LaTeX Font Info:    Trying to load font information for TU+phv on input line 11
+3.
+LaTeX Font Info:    No file TUphv.fd. on input line 113.
+
+
+LaTeX Font Warning: Font shape `TU/phv/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 113.
+
+
+LaTeX Font Warning: Font shape `TU/phv/b/n' undefined
+(Font)              using `TU/phv/m/n' instead on input line 113.
+
+(./handbook.toc)
+\tf@toc=\write6
+\openout6 = `handbook.toc'.
+
+ [1
+
+
+] [2
+
+] (./content/ads/ads.tex
+File: content/ads/gold/goldman_sachs.pdf Graphic file (type pdf)
+<use content/ads/gold/goldman_sachs.pdf>
+File: content/ads/bronze/yahoo_labs.pdf Graphic file (type pdf)
+<use content/ads/bronze/yahoo_labs.pdf>
+File: content/ads/silver/sdl_research.pdf Graphic file (type pdf)
+<use content/ads/silver/sdl_research.pdf>
+ [1
+
+]
+File: content/ads/platinum/Bloomberg.pdf Graphic file (type pdf)
+<use content/ads/platinum/Bloomberg.pdf>
+) [2
+
+]
+Chapter 1.
+LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 1
+26.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1pzc.fd
+File: ot1pzc.fd 2020/03/25 font definitions for OT1/pzc.
+)
+LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
+(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 126.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 126--126
+[][][][][][][][][]  
+ []
+
+(./content/fmatter/preface-chair.tex [3
+
+]) [4] (./content/fmatter/preface-pc.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+]
+File: content/fmatter/easteregg.pdf Graphic file (type pdf)
+<use content/fmatter/easteregg.pdf>
+)
+[6] (./content/fmatter/committee.tex [7
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8
+
+])
+[9] (./content/meal-info.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)) [10
+
+]
+(./content/tutorials/tutorials-overview.tex
+Chapter 2.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
+[][][][][][][][][]  
+ []
+
+
+LaTeX Warning: Citation 'tutorial-final-014' on page 11 undefined on input line
+ 25.
+
+
+LaTeX Warning: Citation 'tutorial-final-014' on page 11 undefined on input line
+ 26.
+
+
+LaTeX Warning: Citation 'tutorial-final-021' on page 11 undefined on input line
+ 28.
+
+
+LaTeX Warning: Citation 'tutorial-final-021' on page 11 undefined on input line
+ 29.
+
+
+LaTeX Warning: Citation 'tutorial-final-025' on page 11 undefined on input line
+ 31.
+
+
+LaTeX Warning: Citation 'tutorial-final-025' on page 11 undefined on input line
+ 32.
+
+
+LaTeX Warning: Citation 'tutorial-final-019' on page 11 undefined on input line
+ 43.
+
+
+LaTeX Warning: Citation 'tutorial-final-019' on page 11 undefined on input line
+ 44.
+
+
+LaTeX Warning: Citation 'tutorial-final-009' on page 11 undefined on input line
+ 46.
+
+
+LaTeX Warning: Citation 'tutorial-final-009' on page 11 undefined on input line
+ 47.
+
+
+LaTeX Warning: Citation 'tutorial-final-022' on page 11 undefined on input line
+ 49.
+
+
+LaTeX Warning: Citation 'tutorial-final-022' on page 11 undefined on input line
+ 50.
+
+[11
+
+
+] (./content/tutorials/tutorials-001.tex
+
+LaTeX Warning: Citation 'tutorial-final-014' on page 12 undefined on input line
+ 15.
+
+
+LaTeX Warning: Citation 'tutorial-final-014' on page 12 undefined on input line
+ 15.
+
+) [12
+
+] (./content/tutorials/tutorials-002.tex
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 3.
+
+LaTeX Font Info:    No file TUpcr.fd. on input line 3.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 3.
+
+
+LaTeX Warning: Citation 'placeholder' on page 13 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'placeholder' on page 13 undefined on input line 13.
+
+) [13
+
+] (./content/tutorials/tutorials-003.tex) [14
+
+]
+(./content/tutorials/tutorials-004.tex
+
+LaTeX Warning: Citation 'tutorial-final-019' on page 15 undefined on input line
+ 17.
+
+
+LaTeX Warning: Citation 'tutorial-final-019' on page 15 undefined on input line
+ 17.
+
+) [15
+
+] (./content/tutorials/tutorials-005.tex) [16
+
+]
+(./content/tutorials/tutorials-006.tex
+
+LaTeX Warning: Citation 'tutorial-final-022' on page 17 undefined on input line
+ 12.
+
+
+LaTeX Warning: Citation 'tutorial-final-022' on page 17 undefined on input line
+ 12.
+
+)) (./content/tutorials/welcome_reception.tex [17
+
+]) (./content/day1/day1.tex
+[18
+
+]
+Chapter 3.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+(./auto/papers/Monday-overview.tex
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\T1/ptm/m/n/8 Semantics (Long Pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\T1/ptm/m/n/8 Tagging, Chunk-ing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+\T1/ptm/m/n/8 Syn-tax and Pars-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[]|\T1/ptm/m/n/8 Information Re-trieval,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\T1/ptm/m/n/8 Text Cat-e-go-riza-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\T1/ptm/m/n/8 Topic Mod-el-ing (Long
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\T1/ptm/m/n/8 Generation and Sum-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\T1/ptm/m/n/8 Language and Vi-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]|\T1/ptm/m/n/8 NLP for Web, So-cial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\T1/ptm/m/n/8 Me-dia and So-cial Sci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\T1/ptm/m/n/8 Generation and Sum-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\T1/ptm/m/n/8 Information Ex-trac-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\T1/ptm/m/n/8 and Ques-tion An-swer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]|\T1/ptm/m/n/8 Machine Learn-ing for
+ []
+
+[19
+
+]) (./content/day1/invited-talk.tex
+Missing character: There is no “ ("201C) in font ptmr8t!
+Missing character: There is no ” ("201D) in font ptmr8t!
+Missing character: There is no ’ ("2019) in font ptmr8t!
+Missing character: There is no ’ ("2019) in font ptmr8t!
+Missing character: There is no ’ ("2019) in font ptmr8t!
+Missing character: There is no “ ("201C) in font ptmr8t!
+Missing character: There is no ” ("201D) in font ptmr8t!
+ [20])
+(./auto/papers/Monday-parallel-session-1.tex
+Package marginnote Info: Margin note 27.1 is on absolute page 27 on input line 
+7.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 7.
+
+
+LaTeX Warning: Citation 'papers-455' on page 21 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-455' on page 21 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-560' on page 21 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-560' on page 21 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-533' on page 21 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-533' on page 21 undefined on input line 8.
+
+Package marginnote Info: Margin note 27.2 is on absolute page 27 on input line 
+11.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 11.
+
+LaTeX Warning: Citation 'papers-550' on page 21 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-550' on page 21 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-136' on page 21 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-136' on page 21 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-634' on page 21 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-634' on page 21 undefined on input line 12.
+
+Package marginnote Info: Margin note 27.3 is on absolute page 27 on input line 
+15.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 15.
+
+LaTeX Warning: Citation 'papers-670' on page 21 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-670' on page 21 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-540' on page 21 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-540' on page 21 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-353' on page 21 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-353' on page 21 undefined on input line 16.
+
+Package marginnote Info: Margin note 27.4 is on absolute page 27 on input line 
+19.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 19.
+
+LaTeX Warning: Citation 'papers-411' on page 21 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-411' on page 21 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'tacl-488' on page 21 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'tacl-488' on page 21 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-073' on page 21 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-073' on page 21 undefined on input line 20.
+
+[21
+
+]
+
+LaTeX Warning: Citation 'papers-455' on page 22 undefined on input line 28.
+
+
+LaTeX Warning: Citation 'papers-455' on page 22 undefined on input line 28.
+
+(./auto/abstracts/papers-455.tex)
+
+LaTeX Warning: Citation 'papers-550' on page 22 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'papers-550' on page 22 undefined on input line 29.
+
+(./auto/abstracts/papers-550.tex)
+
+LaTeX Warning: Citation 'papers-670' on page 22 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'papers-670' on page 22 undefined on input line 30.
+
+(./auto/abstracts/papers-670.tex)
+
+LaTeX Warning: Citation 'papers-411' on page 22 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'papers-411' on page 22 undefined on input line 31.
+
+(./auto/abstracts/papers-411.tex) [22]
+
+LaTeX Warning: Citation 'papers-560' on page 23 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'papers-560' on page 23 undefined on input line 35.
+
+(./auto/abstracts/papers-560.tex)
+
+LaTeX Warning: Citation 'papers-136' on page 23 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'papers-136' on page 23 undefined on input line 36.
+
+(./auto/abstracts/papers-136.tex
+Missing character: There is no ‘ ("2018) in font ptmr8t!
+)
+
+LaTeX Warning: Citation 'papers-540' on page 23 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'papers-540' on page 23 undefined on input line 37.
+
+(./auto/abstracts/papers-540.tex)
+
+LaTeX Warning: Citation 'tacl-488' on page 23 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'tacl-488' on page 23 undefined on input line 38.
+
+(./auto/abstracts/tacl-488.tex) [23
+
+]
+
+LaTeX Warning: Citation 'papers-533' on page 24 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'papers-533' on page 24 undefined on input line 42.
+
+(./auto/abstracts/papers-533.tex)
+
+LaTeX Warning: Citation 'papers-634' on page 24 undefined on input line 43.
+
+
+LaTeX Warning: Citation 'papers-634' on page 24 undefined on input line 43.
+
+(./auto/abstracts/papers-634.tex)
+
+LaTeX Warning: Citation 'papers-353' on page 24 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'papers-353' on page 24 undefined on input line 44.
+
+(./auto/abstracts/papers-353.tex)
+
+LaTeX Warning: Citation 'papers-073' on page 24 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'papers-073' on page 24 undefined on input line 45.
+
+(./auto/abstracts/papers-073.tex) [24
+
+]) (./content/day1/student-lunch.tex)
+(./auto/papers/Monday-parallel-session-2.tex [25
+
+
+]
+Package marginnote Info: Margin note 32.1 is on absolute page 32 on input line 
+7.
+Package marginnote Info: xpos seems to be 44.07742pt on input line 7.
+
+
+LaTeX Warning: Citation 'papers-055' on page 26 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-055' on page 26 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-182' on page 26 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-182' on page 26 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-039' on page 26 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-039' on page 26 undefined on input line 8.
+
+Package marginnote Info: Margin note 32.2 is on absolute page 32 on input line 
+11.
+Package marginnote Info: xpos seems to be 44.07742pt on input line 11.
+
+LaTeX Warning: Citation 'papers-087' on page 26 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-087' on page 26 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-356' on page 26 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-356' on page 26 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-524' on page 26 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-524' on page 26 undefined on input line 12.
+
+Package marginnote Info: Margin note 32.3 is on absolute page 32 on input line 
+15.
+Package marginnote Info: xpos seems to be 44.07742pt on input line 15.
+
+LaTeX Warning: Citation 'papers-278' on page 26 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-278' on page 26 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-420' on page 26 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-420' on page 26 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-575' on page 26 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-575' on page 26 undefined on input line 16.
+
+[26
+
+]
+
+LaTeX Warning: Citation 'papers-055' on page 27 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-055' on page 27 undefined on input line 24.
+
+(./auto/abstracts/papers-055.tex)
+
+LaTeX Warning: Citation 'papers-087' on page 27 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'papers-087' on page 27 undefined on input line 25.
+
+(./auto/abstracts/papers-087.tex)
+
+LaTeX Warning: Citation 'papers-278' on page 27 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'papers-278' on page 27 undefined on input line 26.
+
+(./auto/abstracts/papers-278.tex) [27]
+
+LaTeX Warning: Citation 'papers-182' on page 28 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'papers-182' on page 28 undefined on input line 30.
+
+(./auto/abstracts/papers-182.tex)
+
+LaTeX Warning: Citation 'papers-356' on page 28 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'papers-356' on page 28 undefined on input line 31.
+
+(./auto/abstracts/papers-356.tex)
+
+LaTeX Warning: Citation 'papers-420' on page 28 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'papers-420' on page 28 undefined on input line 32.
+
+(./auto/abstracts/papers-420.tex) [28
+
+]
+
+LaTeX Warning: Citation 'papers-039' on page 29 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'papers-039' on page 29 undefined on input line 36.
+
+(./auto/abstracts/papers-039.tex)
+
+LaTeX Warning: Citation 'papers-524' on page 29 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'papers-524' on page 29 undefined on input line 37.
+
+(./auto/abstracts/papers-524.tex)
+
+LaTeX Warning: Citation 'papers-575' on page 29 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'papers-575' on page 29 undefined on input line 38.
+
+(./auto/abstracts/papers-575.tex) [29
+
+])
+(./auto/papers/Monday-parallel-session-3.tex
+Package marginnote Info: Margin note 36.1 is on absolute page 36 on input line 
+7.
+Package marginnote Info: xpos seems to be 44.07742pt on input line 7.
+
+
+LaTeX Warning: Citation 'papers-032' on page 30 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-032' on page 30 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-664' on page 30 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-664' on page 30 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-227' on page 30 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-227' on page 30 undefined on input line 8.
+
+Package marginnote Info: Margin note 36.2 is on absolute page 36 on input line 
+11.
+Package marginnote Info: xpos seems to be 44.07742pt on input line 11.
+
+LaTeX Warning: Citation 'papers-477' on page 30 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-477' on page 30 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-446' on page 30 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-446' on page 30 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-631' on page 30 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-631' on page 30 undefined on input line 12.
+
+Package marginnote Info: Margin note 36.3 is on absolute page 36 on input line 
+15.
+Package marginnote Info: xpos seems to be 44.07742pt on input line 15.
+
+LaTeX Warning: Citation 'papers-570' on page 30 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-570' on page 30 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-674' on page 30 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-674' on page 30 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-689' on page 30 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-689' on page 30 undefined on input line 16.
+
+[30
+
+
+]
+
+LaTeX Warning: Citation 'papers-032' on page 31 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-032' on page 31 undefined on input line 24.
+
+(./auto/abstracts/papers-032.tex)
+
+LaTeX Warning: Citation 'papers-477' on page 31 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'papers-477' on page 31 undefined on input line 25.
+
+(./auto/abstracts/papers-477.tex)
+
+LaTeX Warning: Citation 'papers-570' on page 31 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'papers-570' on page 31 undefined on input line 26.
+
+(./auto/abstracts/papers-570.tex) [31]
+
+LaTeX Warning: Citation 'papers-664' on page 32 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'papers-664' on page 32 undefined on input line 30.
+
+(./auto/abstracts/papers-664.tex)
+
+LaTeX Warning: Citation 'papers-446' on page 32 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'papers-446' on page 32 undefined on input line 31.
+
+(./auto/abstracts/papers-446.tex)
+
+LaTeX Warning: Citation 'papers-674' on page 32 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'papers-674' on page 32 undefined on input line 32.
+
+(./auto/abstracts/papers-674.tex) [32
+
+]
+
+LaTeX Warning: Citation 'papers-227' on page 33 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'papers-227' on page 33 undefined on input line 36.
+
+(./auto/abstracts/papers-227.tex)
+
+LaTeX Warning: Citation 'papers-631' on page 33 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'papers-631' on page 33 undefined on input line 37.
+
+(./auto/abstracts/papers-631.tex)
+
+LaTeX Warning: Citation 'papers-689' on page 33 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'papers-689' on page 33 undefined on input line 38.
+
+(./auto/abstracts/papers-689.tex) [33
+
+])
+(./auto/papers/Monday-Poster-session-1A.tex
+
+LaTeX Warning: Citation 'papers-069' on page 34 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'papers-069' on page 34 undefined on input line 5.
+
+(./auto/abstracts/papers-069.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+LaTeX Warning: Citation 'papers-123' on page 34 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'papers-123' on page 34 undefined on input line 6.
+
+(./auto/abstracts/papers-123.tex)
+
+LaTeX Warning: Citation 'papers-125' on page 34 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'papers-125' on page 34 undefined on input line 7.
+
+(./auto/abstracts/papers-125.tex)
+
+LaTeX Warning: Citation 'papers-167' on page 34 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-167' on page 34 undefined on input line 8.
+
+(./auto/abstracts/papers-167.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34
+
+
+]
+
+LaTeX Warning: Citation 'papers-169' on page 35 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'papers-169' on page 35 undefined on input line 9.
+
+(./auto/abstracts/papers-169.tex)
+
+LaTeX Warning: Citation 'papers-205' on page 35 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'papers-205' on page 35 undefined on input line 10.
+
+(./auto/abstracts/papers-205.tex
+Missing character: There is no — ("2014) in font ptmr8t!
+Missing character: There is no — ("2014) in font ptmr8t!
+Missing character: There is no — ("2014) in font ptmr8t!
+Missing character: There is no — ("2014) in font ptmr8t!
+)
+
+LaTeX Warning: Citation 'papers-229' on page 35 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'papers-229' on page 35 undefined on input line 11.
+
+(./auto/abstracts/papers-229.tex)
+
+LaTeX Warning: Citation 'papers-232' on page 35 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-232' on page 35 undefined on input line 12.
+
+(./auto/abstracts/papers-232.tex)
+
+LaTeX Warning: Citation 'papers-243' on page 35 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'papers-243' on page 35 undefined on input line 13.
+
+(./auto/abstracts/papers-243.tex)
+
+LaTeX Warning: Citation 'papers-263' on page 35 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'papers-263' on page 35 undefined on input line 14.
+
+(./auto/abstracts/papers-263.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+
+LaTeX Warning: Citation 'papers-315' on page 36 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'papers-315' on page 36 undefined on input line 15.
+
+(./auto/abstracts/papers-315.tex)
+
+LaTeX Warning: Citation 'papers-367' on page 36 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-367' on page 36 undefined on input line 16.
+
+(./auto/abstracts/papers-367.tex)
+
+LaTeX Warning: Citation 'papers-379' on page 36 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'papers-379' on page 36 undefined on input line 17.
+
+(./auto/abstracts/papers-379.tex)
+
+LaTeX Warning: Citation 'papers-421' on page 36 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'papers-421' on page 36 undefined on input line 18.
+
+(./auto/abstracts/papers-421.tex)
+
+LaTeX Warning: Citation 'papers-497' on page 36 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'papers-497' on page 36 undefined on input line 19.
+
+(./auto/abstracts/papers-497.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+
+LaTeX Warning: Citation 'papers-521' on page 37 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-521' on page 37 undefined on input line 20.
+
+(./auto/abstracts/papers-521.tex)
+
+LaTeX Warning: Citation 'papers-525' on page 37 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'papers-525' on page 37 undefined on input line 21.
+
+(./auto/abstracts/papers-525.tex)
+
+LaTeX Warning: Citation 'papers-529' on page 37 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'papers-529' on page 37 undefined on input line 22.
+
+(./auto/abstracts/papers-529.tex)
+
+LaTeX Warning: Citation 'papers-531' on page 37 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'papers-531' on page 37 undefined on input line 23.
+
+(./auto/abstracts/papers-531.tex)
+
+LaTeX Warning: Citation 'papers-541' on page 37 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-541' on page 37 undefined on input line 24.
+
+(./auto/abstracts/papers-541.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+
+LaTeX Warning: Citation 'papers-557' on page 38 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'papers-557' on page 38 undefined on input line 25.
+
+(./auto/abstracts/papers-557.tex)
+
+LaTeX Warning: Citation 'papers-589' on page 38 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'papers-589' on page 38 undefined on input line 26.
+
+(./auto/abstracts/papers-589.tex)
+
+LaTeX Warning: Citation 'papers-591' on page 38 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'papers-591' on page 38 undefined on input line 27.
+
+(./auto/abstracts/papers-591.tex)
+
+LaTeX Warning: Citation 'papers-595' on page 38 undefined on input line 28.
+
+
+LaTeX Warning: Citation 'papers-595' on page 38 undefined on input line 28.
+
+(./auto/abstracts/papers-595.tex)
+
+LaTeX Warning: Citation 'papers-605' on page 38 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'papers-605' on page 38 undefined on input line 29.
+
+(./auto/abstracts/papers-605.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+
+LaTeX Warning: Citation 'papers-617' on page 39 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'papers-617' on page 39 undefined on input line 30.
+
+(./auto/abstracts/papers-617.tex)
+
+LaTeX Warning: Citation 'papers-697' on page 39 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'papers-697' on page 39 undefined on input line 31.
+
+(./auto/abstracts/papers-697.tex)
+
+LaTeX Warning: Citation 'papers-699' on page 39 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'papers-699' on page 39 undefined on input line 32.
+
+(./auto/abstracts/papers-699.tex)
+
+LaTeX Warning: Citation 'papers-701' on page 39 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'papers-701' on page 39 undefined on input line 33.
+
+(./auto/abstracts/papers-701.tex)
+
+LaTeX Warning: Citation 'tacl-255' on page 39 undefined on input line 34.
+
+
+LaTeX Warning: Citation 'tacl-255' on page 39 undefined on input line 34.
+
+(./auto/abstracts/tacl-255.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+
+LaTeX Warning: Citation 'tacl-371' on page 40 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'tacl-371' on page 40 undefined on input line 35.
+
+(./auto/abstracts/tacl-371.tex)
+
+LaTeX Warning: Citation 'tacl-381' on page 40 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'tacl-381' on page 40 undefined on input line 36.
+
+(./auto/abstracts/tacl-381.tex)
+
+LaTeX Warning: Citation 'tacl-385' on page 40 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'tacl-385' on page 40 undefined on input line 37.
+
+(./auto/abstracts/tacl-385.tex)
+
+LaTeX Warning: Citation 'tacl-403' on page 40 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'tacl-403' on page 40 undefined on input line 38.
+
+(./auto/abstracts/tacl-403.tex)
+
+LaTeX Warning: Citation 'tacl-429' on page 40 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'tacl-429' on page 40 undefined on input line 39.
+
+(./auto/abstracts/tacl-429.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+
+LaTeX Warning: Citation 'tacl-485' on page 41 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'tacl-485' on page 41 undefined on input line 40.
+
+(./auto/abstracts/tacl-485.tex)) (./auto/papers/Monday-Poster-session-1B.tex
+
+LaTeX Warning: Citation 'papers-056' on page 41 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'papers-056' on page 41 undefined on input line 5.
+
+(./auto/abstracts/papers-056.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+LaTeX Warning: Citation 'papers-090' on page 41 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'papers-090' on page 41 undefined on input line 6.
+
+(./auto/abstracts/papers-090.tex)
+
+LaTeX Warning: Citation 'papers-116' on page 41 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'papers-116' on page 41 undefined on input line 7.
+
+(./auto/abstracts/papers-116.tex)
+
+LaTeX Warning: Citation 'papers-150' on page 41 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-150' on page 41 undefined on input line 8.
+
+(./auto/abstracts/papers-150.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+
+LaTeX Warning: Citation 'papers-172' on page 42 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'papers-172' on page 42 undefined on input line 9.
+
+(./auto/abstracts/papers-172.tex)
+
+LaTeX Warning: Citation 'papers-178' on page 42 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'papers-178' on page 42 undefined on input line 10.
+
+(./auto/abstracts/papers-178.tex)
+
+LaTeX Warning: Citation 'papers-196' on page 42 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'papers-196' on page 42 undefined on input line 11.
+
+(./auto/abstracts/papers-196.tex)
+
+LaTeX Warning: Citation 'papers-218' on page 42 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-218' on page 42 undefined on input line 12.
+
+(./auto/abstracts/papers-218.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+
+LaTeX Warning: Citation 'papers-222' on page 43 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'papers-222' on page 43 undefined on input line 13.
+
+(./auto/abstracts/papers-222.tex)
+
+LaTeX Warning: Citation 'papers-226' on page 43 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'papers-226' on page 43 undefined on input line 14.
+
+(./auto/abstracts/papers-226.tex)
+
+LaTeX Warning: Citation 'papers-274' on page 43 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'papers-274' on page 43 undefined on input line 15.
+
+(./auto/abstracts/papers-274.tex)
+
+LaTeX Warning: Citation 'papers-296' on page 43 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-296' on page 43 undefined on input line 16.
+
+(./auto/abstracts/papers-296.tex)
+
+LaTeX Warning: Citation 'papers-298' on page 43 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'papers-298' on page 43 undefined on input line 17.
+
+(./auto/abstracts/papers-298.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+
+LaTeX Warning: Citation 'papers-306' on page 44 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'papers-306' on page 44 undefined on input line 18.
+
+(./auto/abstracts/papers-306.tex)
+
+LaTeX Warning: Citation 'papers-322' on page 44 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'papers-322' on page 44 undefined on input line 19.
+
+(./auto/abstracts/papers-322.tex)
+
+LaTeX Warning: Citation 'papers-336' on page 44 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-336' on page 44 undefined on input line 20.
+
+(./auto/abstracts/papers-336.tex)
+
+LaTeX Warning: Citation 'papers-404' on page 44 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'papers-404' on page 44 undefined on input line 21.
+
+(./auto/abstracts/papers-404.tex)
+
+LaTeX Warning: Citation 'papers-428' on page 44 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'papers-428' on page 44 undefined on input line 22.
+
+(./auto/abstracts/papers-428.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+
+LaTeX Warning: Citation 'papers-438' on page 45 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'papers-438' on page 45 undefined on input line 23.
+
+(./auto/abstracts/papers-438.tex)
+
+LaTeX Warning: Citation 'papers-448' on page 45 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-448' on page 45 undefined on input line 24.
+
+(./auto/abstracts/papers-448.tex)
+
+LaTeX Warning: Citation 'papers-460' on page 45 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'papers-460' on page 45 undefined on input line 25.
+
+(./auto/abstracts/papers-460.tex)
+
+LaTeX Warning: Citation 'papers-552' on page 45 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'papers-552' on page 45 undefined on input line 26.
+
+(./auto/abstracts/papers-552.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+
+LaTeX Warning: Citation 'papers-578' on page 46 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'papers-578' on page 46 undefined on input line 27.
+
+(./auto/abstracts/papers-578.tex)
+
+LaTeX Warning: Citation 'papers-586' on page 46 undefined on input line 28.
+
+
+LaTeX Warning: Citation 'papers-586' on page 46 undefined on input line 28.
+
+(./auto/abstracts/papers-586.tex)
+
+LaTeX Warning: Citation 'papers-590' on page 46 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'papers-590' on page 46 undefined on input line 29.
+
+(./auto/abstracts/papers-590.tex)
+
+LaTeX Warning: Citation 'papers-648' on page 46 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'papers-648' on page 46 undefined on input line 30.
+
+(./auto/abstracts/papers-648.tex)
+
+LaTeX Warning: Citation 'tacl-452' on page 46 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'tacl-452' on page 46 undefined on input line 31.
+
+(./auto/abstracts/tacl-452.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+
+LaTeX Warning: Citation 'tacl-472' on page 47 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'tacl-472' on page 47 undefined on input line 32.
+
+(./auto/abstracts/tacl-472.tex)) (./auto/papers/Monday-SRW-Poster-Session.tex
+
+LaTeX Warning: Citation 'srw-004' on page 47 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'srw-004' on page 47 undefined on input line 5.
+
+(./auto/abstracts/srw-004.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+LaTeX Warning: Citation 'srw-007' on page 47 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'srw-007' on page 47 undefined on input line 6.
+
+(./auto/abstracts/srw-007.tex)
+
+LaTeX Warning: Citation 'srw-011' on page 47 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'srw-011' on page 47 undefined on input line 7.
+
+(./auto/abstracts/srw-011.tex)
+
+LaTeX Warning: Citation 'srw-012' on page 47 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'srw-012' on page 47 undefined on input line 8.
+
+(./auto/abstracts/srw-012.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
+
+LaTeX Warning: Citation 'srw-013' on page 48 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'srw-013' on page 48 undefined on input line 9.
+
+(./auto/abstracts/srw-013.tex)
+
+LaTeX Warning: Citation 'srw-017' on page 48 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'srw-017' on page 48 undefined on input line 10.
+
+(./auto/abstracts/srw-017.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+)
+
+LaTeX Warning: Citation 'srw-023' on page 48 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'srw-023' on page 48 undefined on input line 11.
+
+(./auto/abstracts/srw-023.tex)
+
+LaTeX Warning: Citation 'srw-024' on page 48 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'srw-024' on page 48 undefined on input line 12.
+
+(./auto/abstracts/srw-024.tex)
+
+LaTeX Warning: Citation 'srw-028' on page 48 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'srw-028' on page 48 undefined on input line 13.
+
+(./auto/abstracts/srw-028.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
+
+LaTeX Warning: Citation 'srw-029' on page 49 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'srw-029' on page 49 undefined on input line 14.
+
+(./auto/abstracts/srw-029.tex)
+
+LaTeX Warning: Citation 'srw-030' on page 49 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'srw-030' on page 49 undefined on input line 15.
+
+(./auto/abstracts/srw-030.tex)
+
+LaTeX Warning: Citation 'srw-031' on page 49 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'srw-031' on page 49 undefined on input line 16.
+
+(./auto/abstracts/srw-031.tex)
+
+LaTeX Warning: Citation 'srw-040' on page 49 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'srw-040' on page 49 undefined on input line 17.
+
+(./auto/abstracts/srw-040.tex)
+
+LaTeX Warning: Citation 'srw-043' on page 49 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'srw-043' on page 49 undefined on input line 18.
+
+(./auto/abstracts/srw-043.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49]
+
+LaTeX Warning: Citation 'srw-047' on page 50 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'srw-047' on page 50 undefined on input line 19.
+
+(./auto/abstracts/srw-047.tex)
+
+LaTeX Warning: Citation 'srw-049' on page 50 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'srw-049' on page 50 undefined on input line 20.
+
+(./auto/abstracts/srw-049.tex)
+
+LaTeX Warning: Citation 'srw-051' on page 50 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'srw-051' on page 50 undefined on input line 21.
+
+(./auto/abstracts/srw-051.tex)
+
+LaTeX Warning: Citation 'srw-053' on page 50 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'srw-053' on page 50 undefined on input line 22.
+
+(./auto/abstracts/srw-053.tex)
+
+LaTeX Warning: Citation 'srw-056' on page 50 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'srw-056' on page 50 undefined on input line 23.
+
+(./auto/abstracts/srw-056.tex)
+Overfull \hbox (3.42569pt too wide) in paragraph at lines 23--23
+\T1/ptm/m/n/7 This pa-per sug-gests an ar-chi-tec-tural ap-proach of rep-re-sen
+t-ing knowl-edge graph for com-plex question-answering.
+ []
+
+
+LaTeX Warning: Citation 'srw-058' on page 50 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'srw-058' on page 50 undefined on input line 24.
+
+(./auto/abstracts/srw-058.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50]
+
+LaTeX Warning: Citation 'srw-059' on page 51 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'srw-059' on page 51 undefined on input line 25.
+
+(./auto/abstracts/srw-059.tex)
+
+LaTeX Warning: Citation 'srw-060' on page 51 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'srw-060' on page 51 undefined on input line 26.
+
+(./auto/abstracts/srw-060.tex)
+
+LaTeX Warning: Citation 'srw-062' on page 51 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'srw-062' on page 51 undefined on input line 27.
+
+(./auto/abstracts/srw-062.tex))) (./content/day2/day2.tex [51] [52
+
+]
+Chapter 4.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+(./auto/papers/Tuesday-overview.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\T1/ptm/m/n/8 Dialogue and Spo-ken
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\T1/ptm/m/n/8 Lan-guage Pro-cess-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+[]|\T1/ptm/m/n/8 Machine Learn-ing for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]|\T1/ptm/m/n/8 Phonology, Mor-phol-ogy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+\T1/ptm/m/n/8 and Word Seg-men-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\T1/ptm/m/n/8 Semantics (Short Pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]|\T1/ptm/m/n/8 Machine Trans-la-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[]|\T1/ptm/m/n/8 Morphology, Syn-tax,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\T1/ptm/m/n/8 Mul-ti-lin-gual-ity, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\T1/ptm/m/n/8 Ap-pli-ca-tions (Short
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\T1/ptm/m/n/8 Generation and Sum-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\T1/ptm/m/n/8 Discourse and Coref-er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]|\T1/ptm/m/n/8 Information Ex-trac-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\T1/ptm/m/n/8 and Ques-tion An-swer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\T1/ptm/m/n/8 Semantics (Long +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\T1/ptm/m/n/8 Information Ex-trac-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/ptm/m/n/8 and Ques-tion An-swer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/ptm/m/n/8 ing (Long + TACL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]|\T1/ptm/m/n/8 Machine Trans-la-tion
+ []
+
+[53]) [54] (./auto/papers/Tuesday-parallel-session-4.tex
+Package marginnote Info: Margin note 61.1 is on absolute page 61 on input line 
+7.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 7.
+
+
+LaTeX Warning: Citation 'papers-490' on page 55 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-490' on page 55 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-288' on page 55 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-288' on page 55 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-688' on page 55 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-688' on page 55 undefined on input line 8.
+
+Package marginnote Info: Margin note 61.2 is on absolute page 61 on input line 
+11.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 11.
+
+LaTeX Warning: Citation 'papers-661' on page 55 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-661' on page 55 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-407' on page 55 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-407' on page 55 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-452' on page 55 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-452' on page 55 undefined on input line 12.
+
+Package marginnote Info: Margin note 61.3 is on absolute page 61 on input line 
+15.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 15.
+
+LaTeX Warning: Citation 'papers-082' on page 55 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-082' on page 55 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-156' on page 55 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-156' on page 55 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-671' on page 55 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-671' on page 55 undefined on input line 16.
+
+Package marginnote Info: Margin note 61.4 is on absolute page 61 on input line 
+19.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 19.
+
+LaTeX Warning: Citation 'papers-089' on page 55 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-089' on page 55 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-176' on page 55 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-176' on page 55 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-453' on page 55 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-453' on page 55 undefined on input line 20.
+
+[55
+
+]
+
+LaTeX Warning: Citation 'papers-490' on page 56 undefined on input line 28.
+
+
+LaTeX Warning: Citation 'papers-490' on page 56 undefined on input line 28.
+
+(./auto/abstracts/papers-490.tex)
+
+LaTeX Warning: Citation 'papers-661' on page 56 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'papers-661' on page 56 undefined on input line 29.
+
+(./auto/abstracts/papers-661.tex)
+
+LaTeX Warning: Citation 'papers-082' on page 56 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'papers-082' on page 56 undefined on input line 30.
+
+(./auto/abstracts/papers-082.tex)
+
+LaTeX Warning: Citation 'papers-089' on page 56 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'papers-089' on page 56 undefined on input line 31.
+
+(./auto/abstracts/papers-089.tex) [56]
+
+LaTeX Warning: Citation 'papers-288' on page 57 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'papers-288' on page 57 undefined on input line 35.
+
+(./auto/abstracts/papers-288.tex)
+
+LaTeX Warning: Citation 'papers-407' on page 57 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'papers-407' on page 57 undefined on input line 36.
+
+(./auto/abstracts/papers-407.tex)
+
+LaTeX Warning: Citation 'papers-156' on page 57 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'papers-156' on page 57 undefined on input line 37.
+
+(./auto/abstracts/papers-156.tex)
+
+LaTeX Warning: Citation 'papers-176' on page 57 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'papers-176' on page 57 undefined on input line 38.
+
+(./auto/abstracts/papers-176.tex) [57
+
+]
+
+LaTeX Warning: Citation 'papers-688' on page 58 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'papers-688' on page 58 undefined on input line 42.
+
+(./auto/abstracts/papers-688.tex)
+
+LaTeX Warning: Citation 'papers-452' on page 58 undefined on input line 43.
+
+
+LaTeX Warning: Citation 'papers-452' on page 58 undefined on input line 43.
+
+(./auto/abstracts/papers-452.tex)
+
+LaTeX Warning: Citation 'papers-671' on page 58 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'papers-671' on page 58 undefined on input line 44.
+
+(./auto/abstracts/papers-671.tex)
+
+LaTeX Warning: Citation 'papers-453' on page 58 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'papers-453' on page 58 undefined on input line 45.
+
+(./auto/abstracts/papers-453.tex) [58
+
+])
+(./auto/papers/Tuesday-parallel-session-5.tex
+Package marginnote Info: Margin note 65.1 is on absolute page 65 on input line 
+7.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 7.
+
+
+LaTeX Warning: Citation 'papers-281' on page 59 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-281' on page 59 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-207' on page 59 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-207' on page 59 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-647' on page 59 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-647' on page 59 undefined on input line 8.
+
+Package marginnote Info: Margin note 65.2 is on absolute page 65 on input line 
+11.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 11.
+
+LaTeX Warning: Citation 'papers-050' on page 59 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-050' on page 59 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-262' on page 59 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-262' on page 59 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-508' on page 59 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-508' on page 59 undefined on input line 12.
+
+Package marginnote Info: Margin note 65.3 is on absolute page 65 on input line 
+15.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 15.
+
+LaTeX Warning: Citation 'papers-558' on page 59 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-558' on page 59 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-275' on page 59 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-275' on page 59 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-513' on page 59 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-513' on page 59 undefined on input line 16.
+
+Package marginnote Info: Margin note 65.4 is on absolute page 65 on input line 
+19.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 19.
+
+LaTeX Warning: Citation 'papers-577' on page 59 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-577' on page 59 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-255' on page 59 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-255' on page 59 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-582' on page 59 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'papers-582' on page 59 undefined on input line 20.
+
+Package marginnote Info: Margin note 65.5 is on absolute page 65 on input line 
+23.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 23.
+
+LaTeX Warning: Citation 'papers-607' on page 59 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-607' on page 59 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-418' on page 59 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-418' on page 59 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-350' on page 59 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-350' on page 59 undefined on input line 24.
+
+[59
+
+
+]
+
+LaTeX Warning: Citation 'papers-281' on page 60 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'papers-281' on page 60 undefined on input line 32.
+
+(./auto/abstracts/papers-281.tex)
+
+LaTeX Warning: Citation 'papers-050' on page 60 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'papers-050' on page 60 undefined on input line 33.
+
+(./auto/abstracts/papers-050.tex)
+
+LaTeX Warning: Citation 'papers-558' on page 60 undefined on input line 34.
+
+
+LaTeX Warning: Citation 'papers-558' on page 60 undefined on input line 34.
+
+(./auto/abstracts/papers-558.tex)
+
+LaTeX Warning: Citation 'papers-577' on page 60 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'papers-577' on page 60 undefined on input line 35.
+
+(./auto/abstracts/papers-577.tex)
+
+LaTeX Warning: Citation 'papers-607' on page 60 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'papers-607' on page 60 undefined on input line 36.
+
+(./auto/abstracts/papers-607.tex) [60]
+
+LaTeX Warning: Citation 'papers-207' on page 61 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'papers-207' on page 61 undefined on input line 40.
+
+(./auto/abstracts/papers-207.tex)
+
+LaTeX Warning: Citation 'papers-262' on page 61 undefined on input line 41.
+
+
+LaTeX Warning: Citation 'papers-262' on page 61 undefined on input line 41.
+
+(./auto/abstracts/papers-262.tex)
+
+LaTeX Warning: Citation 'papers-275' on page 61 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'papers-275' on page 61 undefined on input line 42.
+
+(./auto/abstracts/papers-275.tex)
+
+LaTeX Warning: Citation 'papers-255' on page 61 undefined on input line 43.
+
+
+LaTeX Warning: Citation 'papers-255' on page 61 undefined on input line 43.
+
+(./auto/abstracts/papers-255.tex)
+
+LaTeX Warning: Citation 'papers-418' on page 61 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'papers-418' on page 61 undefined on input line 44.
+
+(./auto/abstracts/papers-418.tex) [61
+
+]
+Overfull \hbox (3.15958pt too wide) in paragraph at lines 46--47
+[]\T1/ptm/b/n/10 Session 5C: Mor-phol-ogy, Syn-tax, Mul-ti-lin-gual-ity, and Ap
+-pli-ca-tions (Short
+ []
+
+
+LaTeX Warning: Citation 'papers-647' on page 62 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'papers-647' on page 62 undefined on input line 48.
+
+(./auto/abstracts/papers-647.tex)
+
+LaTeX Warning: Citation 'papers-508' on page 62 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'papers-508' on page 62 undefined on input line 49.
+
+(./auto/abstracts/papers-508.tex)
+
+LaTeX Warning: Citation 'papers-513' on page 62 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'papers-513' on page 62 undefined on input line 50.
+
+(./auto/abstracts/papers-513.tex)
+
+LaTeX Warning: Citation 'papers-582' on page 62 undefined on input line 51.
+
+
+LaTeX Warning: Citation 'papers-582' on page 62 undefined on input line 51.
+
+(./auto/abstracts/papers-582.tex)
+
+LaTeX Warning: Citation 'papers-350' on page 62 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'papers-350' on page 62 undefined on input line 52.
+
+(./auto/abstracts/papers-350.tex) [62
+
+])
+(./auto/papers/Tuesday-parallel-session-6.tex
+Package marginnote Info: Margin note 69.1 is on absolute page 69 on input line 
+7.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 7.
+
+
+LaTeX Warning: Citation 'papers-565' on page 63 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-565' on page 63 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-036' on page 63 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-036' on page 63 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-476' on page 63 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-476' on page 63 undefined on input line 8.
+
+Package marginnote Info: Margin note 69.2 is on absolute page 69 on input line 
+11.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 11.
+
+LaTeX Warning: Citation 'papers-254' on page 63 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-254' on page 63 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-673' on page 63 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-673' on page 63 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-047' on page 63 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-047' on page 63 undefined on input line 12.
+
+Package marginnote Info: Margin note 69.3 is on absolute page 69 on input line 
+15.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 15.
+
+LaTeX Warning: Citation 'papers-567' on page 63 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-567' on page 63 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-535' on page 63 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-535' on page 63 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-317' on page 63 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-317' on page 63 undefined on input line 16.
+
+[63
+
+
+]
+
+LaTeX Warning: Citation 'papers-565' on page 64 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-565' on page 64 undefined on input line 24.
+
+(./auto/abstracts/papers-565.tex)
+
+LaTeX Warning: Citation 'papers-254' on page 64 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'papers-254' on page 64 undefined on input line 25.
+
+(./auto/abstracts/papers-254.tex)
+
+LaTeX Warning: Citation 'papers-567' on page 64 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'papers-567' on page 64 undefined on input line 26.
+
+(./auto/abstracts/papers-567.tex) [64]
+
+LaTeX Warning: Citation 'papers-036' on page 65 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'papers-036' on page 65 undefined on input line 30.
+
+(./auto/abstracts/papers-036.tex)
+
+LaTeX Warning: Citation 'papers-673' on page 65 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'papers-673' on page 65 undefined on input line 31.
+
+(./auto/abstracts/papers-673.tex)
+
+LaTeX Warning: Citation 'papers-535' on page 65 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'papers-535' on page 65 undefined on input line 32.
+
+(./auto/abstracts/papers-535.tex) [65
+
+]
+
+LaTeX Warning: Citation 'papers-476' on page 66 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'papers-476' on page 66 undefined on input line 36.
+
+(./auto/abstracts/papers-476.tex)
+
+LaTeX Warning: Citation 'papers-047' on page 66 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'papers-047' on page 66 undefined on input line 37.
+
+(./auto/abstracts/papers-047.tex)
+
+LaTeX Warning: Citation 'papers-317' on page 66 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'papers-317' on page 66 undefined on input line 38.
+
+(./auto/abstracts/papers-317.tex) [66
+
+])
+(./auto/papers/Tuesday-parallel-session-7.tex
+Package marginnote Info: Margin note 73.1 is on absolute page 73 on input line 
+7.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 7.
+
+
+LaTeX Warning: Citation 'papers-573' on page 67 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-573' on page 67 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-369' on page 67 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-369' on page 67 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-071' on page 67 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'papers-071' on page 67 undefined on input line 8.
+
+Package marginnote Info: Margin note 73.2 is on absolute page 73 on input line 
+11.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 11.
+
+LaTeX Warning: Citation 'tacl-398' on page 67 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'tacl-398' on page 67 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'tacl-494' on page 67 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'tacl-494' on page 67 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-293' on page 67 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'papers-293' on page 67 undefined on input line 12.
+
+Package marginnote Info: Margin note 73.3 is on absolute page 73 on input line 
+15.
+Package marginnote Info: xpos seems to be 62.14493pt on input line 15.
+
+LaTeX Warning: Citation 'tacl-457' on page 67 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'tacl-457' on page 67 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'tacl-412' on page 67 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'tacl-412' on page 67 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-532' on page 67 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'papers-532' on page 67 undefined on input line 16.
+
+[67
+
+
+]
+
+LaTeX Warning: Citation 'papers-573' on page 68 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'papers-573' on page 68 undefined on input line 24.
+
+(./auto/abstracts/papers-573.tex)
+
+LaTeX Warning: Citation 'tacl-398' on page 68 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'tacl-398' on page 68 undefined on input line 25.
+
+(./auto/abstracts/tacl-398.tex)
+
+LaTeX Warning: Citation 'tacl-457' on page 68 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'tacl-457' on page 68 undefined on input line 26.
+
+(./auto/abstracts/tacl-457.tex) [68]
+
+LaTeX Warning: Citation 'papers-369' on page 69 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'papers-369' on page 69 undefined on input line 30.
+
+(./auto/abstracts/papers-369.tex)
+
+LaTeX Warning: Citation 'tacl-494' on page 69 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'tacl-494' on page 69 undefined on input line 31.
+
+(./auto/abstracts/tacl-494.tex)
+
+LaTeX Warning: Citation 'tacl-412' on page 69 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'tacl-412' on page 69 undefined on input line 32.
+
+(./auto/abstracts/tacl-412.tex) [69
+
+]
+
+LaTeX Warning: Citation 'papers-071' on page 70 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'papers-071' on page 70 undefined on input line 36.
+
+(./auto/abstracts/papers-071.tex)
+
+LaTeX Warning: Citation 'papers-293' on page 70 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'papers-293' on page 70 undefined on input line 37.
+
+(./auto/abstracts/papers-293.tex)
+
+LaTeX Warning: Citation 'papers-532' on page 70 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'papers-532' on page 70 undefined on input line 38.
+
+(./auto/abstracts/papers-532.tex) [70
+
+])
+(./auto/papers/Tuesday-Demo-Session-A.tex
+
+LaTeX Warning: Citation 'demos-011' on page 71 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'demos-011' on page 71 undefined on input line 5.
+
+(./auto/abstracts/demos-011.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+LaTeX Warning: Citation 'demos-012' on page 71 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'demos-012' on page 71 undefined on input line 6.
+
+(./auto/abstracts/demos-012.tex)
+
+LaTeX Warning: Citation 'demos-016' on page 71 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'demos-016' on page 71 undefined on input line 7.
+
+(./auto/abstracts/demos-016.tex)
+
+LaTeX Warning: Citation 'demos-028' on page 71 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'demos-028' on page 71 undefined on input line 8.
+
+(./auto/abstracts/demos-028.tex)
+
+LaTeX Warning: Citation 'demos-029' on page 71 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'demos-029' on page 71 undefined on input line 9.
+
+(./auto/abstracts/demos-029.tex)
+
+LaTeX Warning: Citation 'demos-031' on page 71 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'demos-031' on page 71 undefined on input line 10.
+
+(./auto/abstracts/demos-031.tex)
+
+LaTeX Warning: Citation 'demos-034' on page 71 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'demos-034' on page 71 undefined on input line 11.
+
+(./auto/abstracts/demos-034.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71
+
+]
+
+LaTeX Warning: Citation 'demos-035' on page 72 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'demos-035' on page 72 undefined on input line 12.
+
+(./auto/abstracts/demos-035.tex)
+
+LaTeX Warning: Citation 'demos-038' on page 72 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'demos-038' on page 72 undefined on input line 13.
+
+(./auto/abstracts/demos-038.tex)
+
+LaTeX Warning: Citation 'demos-040' on page 72 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'demos-040' on page 72 undefined on input line 14.
+
+(./auto/abstracts/demos-040.tex)
+
+LaTeX Warning: Citation 'demos-046' on page 72 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'demos-046' on page 72 undefined on input line 15.
+
+(./auto/abstracts/demos-046.tex)
+
+LaTeX Warning: Citation 'demos-059' on page 72 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'demos-059' on page 72 undefined on input line 16.
+
+(./auto/abstracts/demos-059.tex)
+
+LaTeX Warning: Citation 'demos-061' on page 72 undefined on input 
