@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#PoliWAM: An Exploration of a Large Scale Corpus of Political Discussions on WhatsApp Messenger
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Vivek Srivastava
+JobTitle#==#
+Organization#==#
+Abstract#==#WhatsApp Messenger is one of the most popular channels for spreading information with a current reach of more than 180 countries and 2 billion people. Its widespread usage has made it one of the most popular media for information propagation among the masses during any socially engaging event. In the recent past, several countries have witnessed its effectiveness and influence in political and social campaigns. We observe a high surge in information and propaganda flow during election campaigning. In this paper, we explore a high-quality large-scale user-generated dataset curated from WhatsApp comprising of 281 groups, 31,078 unique users, and 223,404 messages shared before, during, and after the Indian General Elections 2019, encompassing all major Indian political parties and leaders. In addition to the raw noisy user-generated data, we present a fine-grained annotated dataset of 3,848 messages that will be useful to understand the various dimensions of WhatsApp political campaigning. We present several complementary insights into the investigative and sensational news stories from the same period. Exploratory data analysis and experiments showcase several exciting results and future research opportunities. To facilitate reproducible research, we make the anonymized datasets available in the public domain.
+Author{1}{Firstname}#=%=#Vivek
+Author{1}{Lastname}#=%=#Srivastava
+Author{1}{Username}#=%=#vivekiitgn
+Author{1}{Email}#=%=#vivek.srivastava@alumni.iitgn.ac.in
+Author{1}{Affiliation}#=%=#TCS Research
+Author{2}{Firstname}#=%=#Mayank
+Author{2}{Lastname}#=%=#Singh
+Author{2}{Username}#=%=#mayank_singh
+Author{2}{Email}#=%=#singh.mayank@iitgn.ac.in
+Author{2}{Affiliation}#=%=#IIT Gandhinagar
+
+==========

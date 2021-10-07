@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=#ConQuest: Contextual Question Paraphrasing through Answer-Aware Synthetic Question Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Mostafa Mirshekari
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite excellent performance on tasks such as question answering, Transformer-based architectures remain sensitive to syntactic and contextual ambiguities. Question Paraphrasing (QP) offers a promising solution as a means to augment existing datasets. The main challenges of current QP models include lack of training data and difficulty in generating diverse and natural questions. In this paper, we present Conquest, a framework for generating synthetic datasets for contextual question paraphrasing. To this end, Conquest first employs an answer-aware question generation (QG) model to create a question-pair dataset and then uses this data to train a contextualized question paraphrasing model. We extensively evaluate Conquest and show its ability to produce more diverse and fluent question pairs than existing approaches. Our contextual paraphrase model also establishes a strong baseline for end-to-end contextual paraphrasing. Further, We find that context can improve BLEU-1 score on contextual compression and expansion by 4.3 and 11.2 respectively, compared to a non-contextual model.
+Author{1}{Firstname}#=%=#Mostafa
+Author{1}{Lastname}#=%=#Mirshekari
+Author{1}{Username}#=%=#mostafamirshekari
+Author{1}{Email}#=%=#mostafa@searchable.ai
+Author{1}{Affiliation}#=%=#searchable.ai
+Author{2}{Firstname}#=%=#Jing
+Author{2}{Lastname}#=%=#Gu
+Author{2}{Username}#=%=#jinggu
+Author{2}{Email}#=%=#jkgu@ucdavis.edu
+Author{2}{Affiliation}#=%=#University of California, Davis
+Author{3}{Firstname}#=%=#Aaron
+Author{3}{Lastname}#=%=#Sisto
+Author{3}{Username}#=%=#asisto
+Author{3}{Email}#=%=#aaron@searchable.ai
+Author{3}{Affiliation}#=%=#Searchable.ai
+
+==========

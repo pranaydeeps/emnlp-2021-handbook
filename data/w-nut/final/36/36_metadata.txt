@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#Changes in Twitter geolocations: Insights and suggestions for future usage
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Anna Kruspe
+JobTitle#==#
+Organization#==#
+Abstract#==#Twitter data has become established as a valuable source of data for various application scenarios in the past years. For many such applications, it is necessary to know where Twitter posts (tweets) were sent from or what location they refer to. Researchers have frequently used exact coordinates provided in a small percentage of tweets, but Twitter removed the option to share these coordinates in mid-2019. Moreover, there is reason to suspect that a large share of the provided coordinates did not correspond to GPS coordinates of the user even before that.
+In this paper, we explain the situation and the 2019 policy change and shed light on the various options of still obtaining location information from tweets. We provide usage statistics including changes over time, and analyze what the removal of exact coordinates means for various common research tasks performed with Twitter data. Finally, we make suggestions for future research requiring geolocated tweets.
+Author{1}{Firstname}#=%=#Anna
+Author{1}{Lastname}#=%=#Kruspe
+Author{1}{Username}#=%=#akruspe
+Author{1}{Email}#=%=#anna.kruspe@tum.de
+Author{1}{Affiliation}#=%=#Technical University of Munich
+Author{2}{Firstname}#=%=#Matthias
+Author{2}{Lastname}#=%=#Häberle
+Author{2}{Username}#=%=#matze1337
+Author{2}{Email}#=%=#matthias.haeberle@dlr.de
+Author{2}{Affiliation}#=%=#Signal Processing in Earth Observation (SiPEO), Technical University Munich (TUM)
+Author{3}{Firstname}#=%=#Eike J.
+Author{3}{Lastname}#=%=#Hoffmann
+Author{3}{Email}#=%=#eike.jens.hoffmann@tum.de
+Author{3}{Affiliation}#=%=#Technical University of Munich (TUM)
+Author{4}{Firstname}#=%=#Samyo
+Author{4}{Lastname}#=%=#Rode-Hasinger
+Author{4}{Email}#=%=#samyo.rode@tum.de
+Author{4}{Affiliation}#=%=#Technical University of Munich (TUM)
+Author{5}{Firstname}#=%=#Karam
+Author{5}{Lastname}#=%=#Abdulahhad
+Author{5}{Email}#=%=#karam.abdulahhad@dlr.de
+Author{5}{Affiliation}#=%=#German Aerospace Center (DLR)
+Author{6}{Firstname}#=%=#Xiao Xiang
+Author{6}{Lastname}#=%=#Zhu
+Author{6}{Username}#=%=#xiaoxiang.zhu
+Author{6}{Email}#=%=#xiaoxiang.zhu@dlr.de
+Author{6}{Affiliation}#=%=#DLR & TUM
+
+==========

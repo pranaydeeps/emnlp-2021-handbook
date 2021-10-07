@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Fine-grained Temporal Relation Extraction with Ordered-Neuron LSTM and Graph Convolutional Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Thien Huu Nguyen
+JobTitle#==#
+Organization#==#University of Oregon
+1585 E 13th Ave.
+Eugene, OR 97403, USA
+Abstract#==#Fine-grained temporal relation extraction (FineTempRel) aims to recognize the durations and timeline of event mentions in text. A missing part in the current deep learning models for FineTempRel is their failure to exploit the syntactic structures of the input sentences to enrich the representation vectors. In this work, we propose to fill this gap by introducing novel methods to integrate the syntactic structures into the deep learning models for FineTempRel. The proposed model focuses on two types of syntactic information from the dependency trees, i.e., the syntax-based importance scores for representation learning of the words and the syntactic connections to identify important context words for the event mentions. We also present two novel techniques to facilitate the knowledge transfer between the subtasks of FineTempRel, leading to a novel model with the state-of-the-art performance for this task.
+Author{1}{Firstname}#=%=#Minh
+Author{1}{Lastname}#=%=#Tran Phu
+Author{1}{Username}#=%=#tranphuminhbkhn
+Author{1}{Email}#=%=#v.minhtp@vinai.io
+Author{1}{Affiliation}#=%=#VinAI Research
+Author{2}{Firstname}#=%=#Minh Van
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Username}#=%=#minhgl96
+Author{2}{Email}#=%=#minhnv@cs.uoregon.edu
+Author{2}{Affiliation}#=%=#University of Oregon
+Author{3}{Firstname}#=%=#Thien Huu
+Author{3}{Lastname}#=%=#Nguyen
+Author{3}{Username}#=%=#anoperson
+Author{3}{Email}#=%=#thien@cs.uoregon.edu
+Author{3}{Affiliation}#=%=#University of Oregon
+
+==========

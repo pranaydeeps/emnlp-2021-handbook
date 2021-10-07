@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#When does Further Pre-training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#朱祺
+JobTitle#==#
+Organization#==#Tsinghua University, Beijing, China
+Abstract#==#Further pre-training language models on in-domain data (domain-adaptive pre-training, DAPT) or task-relevant data (task-adaptive pre-training, TAPT) before fine-tuning has been shown to improve downstream tasks' performances. However, in task-oriented dialog modeling, we observe that further pre-training MLM does not always boost the performance on a downstream task. We find that DAPT is beneficial in the low-resource setting, but as the fine-tuning data size grows, DAPT becomes less beneficial or even useless, and scaling the size of DAPT data does not help. Through Representational Similarity Analysis, we conclude that more data for fine-tuning yields greater change of the model's representations and thus reduces the influence of initialization.
+Author{1}{Firstname}#=%=#Qi
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Username}#=%=#zhuqi
+Author{1}{Email}#=%=#zhuq96@gmail.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Yuxian
+Author{2}{Lastname}#=%=#Gu
+Author{2}{Username}#=%=#gyxthu
+Author{2}{Email}#=%=#gu-yx17@mails.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Lingxiao
+Author{3}{Lastname}#=%=#Luo
+Author{3}{Username}#=%=#function2
+Author{3}{Email}#=%=#luolx17@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Bing
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#libing125
+Author{4}{Email}#=%=#1801213687@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Cheng
+Author{5}{Lastname}#=%=#LI
+Author{5}{Username}#=%=#lczgwh
+Author{5}{Email}#=%=#licheng81@huawei.com
+Author{5}{Affiliation}#=%=#Huawei Technology
+Author{6}{Firstname}#=%=#Wei
+Author{6}{Lastname}#=%=#Peng
+Author{6}{Username}#=%=#wpeng_wmt19
+Author{6}{Email}#=%=#peng.wei1@huawei.com
+Author{6}{Affiliation}#=%=#Artificial Intelligence Application Research Center, Huawei Technologies
+Author{7}{Firstname}#=%=#Minlie
+Author{7}{Lastname}#=%=#Huang
+Author{7}{Username}#=%=#aihuang
+Author{7}{Email}#=%=#huangminlie@126.com
+Author{7}{Affiliation}#=%=#Tsinghua University
+Author{8}{Firstname}#=%=#Xiaoyan
+Author{8}{Lastname}#=%=#Zhu
+Author{8}{Username}#=%=#zxy
+Author{8}{Email}#=%=#zxy-dcs@tsinghua.edu.cn
+Author{8}{Affiliation}#=%=#Tsinghua University
+
+==========

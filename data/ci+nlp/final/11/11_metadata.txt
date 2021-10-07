@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Sensitivity Analysis for Causal Mediation through Text: an Application to Political Polarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Graham Tierney
+JobTitle#==#
+Organization#==#Duke University
+415 Chapel Drive, Box 90065
+Durham, NC 27708
+Abstract#==#We introduce a procedure to examine a text-as-mediator problem from a novel randomized experiment that studied the effect of conversations on political polarization. In this randomized experiment, Americans from the Democratic and Republican parties were either randomly paired with one-another to have an anonymous conversation about politics or alternatively not assigned to a conversation — change in political polarization over time was measured for all participants. This paper analyzes the text of the conversations to identify potential mediators of depolarization and is faced with a unique challenge, necessitated by the primary research hypothesis, that individuals in the control condition do not have conversations and so lack observed text data. We highlight the importance of using domain knowledge to perform dimension reduction on the text data, and describe a procedure to characterize indirect effects via text when the text is only observed in one arm of the experiment.
+Author{1}{Firstname}#=%=#Graham
+Author{1}{Lastname}#=%=#Tierney
+Author{1}{Username}#=%=#graham.tierney
+Author{1}{Email}#=%=#graham.tierney@duke.edu
+Author{1}{Affiliation}#=%=#Duke University
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Lastname}#=%=#Volfovsky
+Author{2}{Username}#=%=#volfovsky
+Author{2}{Email}#=%=#alexander.volfovsky@duke.edu
+Author{2}{Affiliation}#=%=#Duke University
+
+==========

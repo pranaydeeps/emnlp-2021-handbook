@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#To What Extent Can English-as-a-Second Language Learners Read Economic News Texts?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yo Ehara
+JobTitle#==#
+Organization#==#
+Abstract#==#In decision making in the economic field, an especially important requirement is to rapidly understand news to absorb ever-changing economic situations. Given that most economic news is written in English, the ability to read such information without waiting for a translation is particularly valuable in economics in contrast to other fields. In consideration of this issue, this research investigated the extent to which non-native English speakers are able to read economic news to make decisions accordingly -- an issue that has been rarely addressed in previous studies. Using an existing standard dataset as training data, we created a classifier that automatically evaluates the readability of text with high accuracy for English learners. Our assessment of the readability of an economic news corpus revealed that most news texts can be read by intermediate English learners. We also found that in some cases, readability varies considerably depending on the knowledge of certain words specific to the economic field.
+Author{1}{Firstname}#=%=#Yo
+Author{1}{Lastname}#=%=#Ehara
+Author{1}{Username}#=%=#yeut
+Author{1}{Email}#=%=#i@yoehara.com
+Author{1}{Affiliation}#=%=#Tokyo Gakugei University
+
+==========

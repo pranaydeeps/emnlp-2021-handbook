@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#68
+FinalPaperTitle#=%=#BERTweetFR : Domain Adaptation of Pre-Trained Language Models for French Tweets
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yanzhu Guo
+JobTitle#==#
+Organization#==#École Polytechnique, France & Shanghai Jiao Tong University, China
+Abstract#==#We introduce BERTweetFR, the first large-scale pre-trained language model for French tweets. Our model is initialised using a general-domain French language model CamemBERT which follows the base architecture of BERT. Experiments show that BERTweetFR outperforms all previous general-domain French language models on two downstream Twitter NLP tasks of offensiveness identification and named entity recognition. The dataset used in the offensiveness detection task is first created and annotated by our team, filling in the gap of such analytic datasets in French. We make our model publicly available in the transformers library with the aim of promoting future research in analytic tasks for French tweets.
+Author{1}{Firstname}#=%=#Yanzhu
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Username}#=%=#vanessea
+Author{1}{Email}#=%=#yanzhu.guo@polytechnique.edu
+Author{1}{Affiliation}#=%=#École Polytechnique & Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Virgile
+Author{2}{Lastname}#=%=#Rennard
+Author{2}{Email}#=%=#virgile@rennard.org
+Author{2}{Affiliation}#=%=#École Polytechnique
+Author{3}{Firstname}#=%=#Christos
+Author{3}{Lastname}#=%=#Xypolopoulos
+Author{3}{Username}#=%=#cxypolop
+Author{3}{Email}#=%=#ksipos@windowslive.com
+Author{3}{Affiliation}#=%=#Ecole Polytechnique
+Author{4}{Firstname}#=%=#Michalis
+Author{4}{Lastname}#=%=#Vazirgiannis
+Author{4}{Username}#=%=#mvazirg
+Author{4}{Email}#=%=#mvazirg@lix.polytechnique.fr
+Author{4}{Affiliation}#=%=#Ecole Polytechnique
+
+==========

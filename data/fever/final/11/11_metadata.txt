@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Automatic Fact-Checking with Document-level Annotations using BERT and Multiple Instance Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Aalok Sathe
+JobTitle#==#Researcher
+Organization#==#Massachusetts Institute of Technology
+77 Mass. Ave., Cambridge, MA 02139
+Abstract#==#Automatic fact-checking is crucial for recognizing misinformation spreading on the internet.
+Most existing fact-checkers break down the process into several subtasks, one of which determines candidate evidence sentences that can potentially support or refute the claim to be verified;
+typically, evidence sentences with gold-standard labels are needed for this. In a more realistic setting, however, such sentence-level annotations are not available.
+In this paper, we tackle the natural language inference (NLI) subtask---given a document and a (sentence) claim, determine whether the document supports or refutes the claim---only using document-level annotations. 
+Using fine-tuned BERT and multiple instance learning, we achieve 81.9% accuracy, significantly outperforming the existing results on the WikiFactCheck-English dataset.
+Author{1}{Firstname}#=%=#Aalok
+Author{1}{Lastname}#=%=#Sathe
+Author{1}{Username}#=%=#aalok.sathe
+Author{1}{Email}#=%=#aalok.sathe@richmond.edu
+Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{2}{Firstname}#=%=#Joonsuk
+Author{2}{Lastname}#=%=#Park
+Author{2}{Username}#=%=#jpark
+Author{2}{Email}#=%=#park@joonsuk.org
+Author{2}{Affiliation}#=%=#University of Richmond
+
+==========

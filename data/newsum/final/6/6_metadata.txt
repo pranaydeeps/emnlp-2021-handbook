@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mehwish Fatima
+JobTitle#==#
+Organization#==#Heidelberg Institute for Theoretical Studies gGmbH, Heidelberg, Germany
+Abstract#==#Cross-lingual summarization is a challenging task for which there are no cross-lingual scientific resources currently available. To overcome the lack of a high-quality resource, we present a new dataset for monolingual and cross-lingual summarization considering the English-German pair. We collect high-quality, real-world cross-lingual data from Spektrum der Wissenschaft, which publishes human-written German scientific summaries of English science articles on various subjects. The generated Spektrum dataset is small; therefore, we harvest a similar dataset from the Wikipedia Science Portal to complement it. The Wikipedia dataset consists of English and German articles, which can be used for monolingual and cross-lingual summarization. Furthermore, we present a quantitative analysis of the datasets and results of empirical experiments with several existing extractive and abstractive summarization models. The results suggest the viability and usefulness of the proposed dataset for monolingual and cross-lingual summarization.
+Author{1}{Firstname}#=%=#Mehwish
+Author{1}{Lastname}#=%=#Fatima
+Author{1}{Username}#=%=#mehwish_fatima
+Author{1}{Email}#=%=#mehwish.fatima@h-its.org
+Author{1}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies (HITS gGmbH)
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Strube
+Author{2}{Username}#=%=#strube
+Author{2}{Email}#=%=#michael.strube@h-its.org
+Author{2}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+
+==========

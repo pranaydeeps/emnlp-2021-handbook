@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Modeling Entity Knowledge for Fact Verification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yang Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Fact verification is a challenging task of identifying the truthfulness of  given claims based on the retrieval of relevant evidence texts. Many claims require understanding and reasoning over external entity information for precise verification. In this paper, we propose a novel fact verification model using entity knowledge to enhance its performance. We retrieve descriptive text from Wikipedia for each entity, and then encode these descriptions by a smaller lightweight network to be fed into the main verification model. Furthermore, we boost model performance by adopting and predicting the relatedness between the claim and each evidence as additional signals. We demonstrate experimentally on a large-scale benchmark dataset FEVER that our framework  achieves competitive results with a FEVER score of 72.89% on the test set.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#pku7yang
+Author{1}{Email}#=%=#yaliu10@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft
+Author{2}{Firstname}#=%=#Chenguang
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Username}#=%=#zcgzcgzcg
+Author{2}{Email}#=%=#zcg.cs60@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Cognitive Services Research Group
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Zeng
+Author{3}{Username}#=%=#nzeng
+Author{3}{Email}#=%=#nzeng@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Corp
+
+==========

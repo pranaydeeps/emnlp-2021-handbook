@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Effective Use of Graph Convolution Network and Contextual Sub-Tree for Commodity News Event Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Meisin Lee
+JobTitle#==#
+Organization#==#Monash University, Jalan Lagoon Selatan, Bandar Sunway, 47500 Subang Jaya, Selangor, Malaysia
+Abstract#==#Event extraction in commodity news is a less researched area as compared to generic event extraction.    However,  accurate  event  extraction  from  commodity  news  is  useful  in  abroad  range  of  applications  such  as  under-standing event chains and learning event-event relations,  which  can  then  be  used  for  commodity  price  prediction. The  events  found in commodity news exhibit characteristics different  from  generic  events,  hence  posing  a unique challenge in event extraction using existing  methods.    This  paper  proposes  an  effective use of Graph Convolutional Networks(GCN)  with  a  pruned  dependency  parse  tree, termed contextual sub-tree, for better event ex-traction  in  commodity  news.   The  event  ex-traction model is trained using feature embed-dings from ComBERT, a BERT-based masked language  model  that  was  produced  through domain-adaptive pre-training on a commodity news  corpus.   Experimental  results  show  the efficiency of the proposed solution, which out-performs existing methods with F1 scores as high as 0.90. Furthermore, our pre-trained language model outperforms GloVe by 23%, and BERT and RoBERTa by 7% in terms of argument  roles  classification.   For  the  goal  of  re-producibility, the code and trained models are made publicly available.
+Author{1}{Firstname}#=%=#Meisin
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#meisin
+Author{1}{Email}#=%=#mei.lee@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Lay-Ki
+Author{2}{Lastname}#=%=#Soon
+Author{2}{Email}#=%=#soon.layki@monash.edu
+Author{2}{Affiliation}#=%=#Monash University
+Author{3}{Firstname}#=%=#Eu-Gene
+Author{3}{Lastname}#=%=#Siew
+Author{3}{Email}#=%=#siew.eu-gene@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+
+==========

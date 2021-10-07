@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Measuring Similarity of Opinion-bearing Sentences
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wenyi Tay
+JobTitle#==#
+Organization#==#
+Abstract#==#For many NLP applications of online reviews, comparison of two opinion-bearing sentences is key.  We argue that, while general purpose text similarity metrics have been applied for this purpose,  there has been limited exploration of their applicability to opinion texts. We address this gap in the literature, studying: (1) how humans judge the similarity of pairs of opinion-bearing sentences; and, (2) the degree to which existing text similarity metrics,  particularly embedding-based ones, correspond to human judgments.  We crowdsourced annotations for opinion sentence pairs and our main findings are:  (1) annotators tend to agree on whether or not opinion sentences are similar or different; and (2) embedding-based metrics capture human judgments of “opinion similarity” but not “opinion difference". Based on our analysis,  we identify areas where the current metrics should be improved.  We further propose to learn a  similarity metric for opinion similarity via fine-tuning the Sentence-BERT sentence-embedding network based on review text and weak supervision by review ratings. Experiments show that our learned metric outperforms existing text similarity metrics and especially show significantly higher correlations with human annotations for differing opinions.
+Author{1}{Firstname}#=%=#Wenyi
+Author{1}{Lastname}#=%=#Tay
+Author{1}{Username}#=%=#s3642603
+Author{1}{Email}#=%=#s3642603@student.rmit.edu.au
+Author{1}{Affiliation}#=%=#RMIT University
+Author{2}{Firstname}#=%=#Xiuzhen
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#xiuzhen.zhang
+Author{2}{Email}#=%=#xiuzhen.zhang@rmit.edu.au
+Author{2}{Affiliation}#=%=#RMIT University
+Author{3}{Firstname}#=%=#Stephen
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Username}#=%=#stephen.wan
+Author{3}{Email}#=%=#stephen.wan@csiro.au
+Author{3}{Affiliation}#=%=#CSIRO
+Author{4}{Firstname}#=%=#Sarvnaz
+Author{4}{Lastname}#=%=#Karimi
+Author{4}{Username}#=%=#sarvnaz
+Author{4}{Email}#=%=#sarvnaz.karimi@csiro.au
+Author{4}{Affiliation}#=%=#CSIRO
+
+==========

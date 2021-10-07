@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Counterfactual Matters: Intrinsic Probing For Dialogue State Tracking
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yi Huang
+JobTitle#==#
+Organization#==#China Mobile Research, Beijing, China
+Abstract#==#A Dialogue State Tracker (DST) is a core component of modular task-oriented dialogue systems. Tremendous research progress has been made in past ten years to improve performance of DSTs especially on benchmark datasets. However, their generalization to novel and realistic scenarios beyond the held-out conversations is limited. In this paper, we design experimental studies to answer: 1) How does the distribution of dialogue data affect the performance of DSTs? 2) What are effective ways to probe counterfactual matter for DSTs? Our findings are: the performance variance of generative DSTs is not only due to the model structure itself, but can be attributed to the distribution of cross-domain values. Evaluating iconic generative DST models on MultiWOZ dataset with counterfactuals results in a significant performance drop of up to 34.64% (from 50.91% to 16.27%) in absolute joint goal accuracy. It is believed that our experimental results can guide the future work to better understand the intrinsic core of DST and rethink the suitable way for specific tasks given the application property.
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#hyderbit
+Author{1}{Email}#=%=#huangyi1009@126.com
+Author{1}{Affiliation}#=%=#China Mobile Research Institute
+Author{2}{Firstname}#=%=#Junlan
+Author{2}{Lastname}#=%=#Feng
+Author{2}{Username}#=%=#fjlan
+Author{2}{Email}#=%=#fengjunlan@chinamobile.com
+Author{2}{Affiliation}#=%=#China Mobile Research Institute
+Author{3}{Firstname}#=%=#Xiaoting
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Username}#=%=#wuxiaoting
+Author{3}{Email}#=%=#wuxiaoting@chinamobile.com
+Author{3}{Affiliation}#=%=#China Mobile Research Institute
+Author{4}{Firstname}#=%=#Xiaoyu
+Author{4}{Lastname}#=%=#Du
+Author{4}{Username}#=%=#duxiaoyu
+Author{4}{Email}#=%=#duxiaoyu@chinamobile.com
+Author{4}{Affiliation}#=%=#China Mobile Research Institute
+
+==========

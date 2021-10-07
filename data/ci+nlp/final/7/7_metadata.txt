@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Enhancing Model Robustness and Fairness with Causality: A Regularization Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhao Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent work has raised concerns on the risk of spurious correlations and unintended biases in statistical machine learning models that threaten model robustness and fairness. In this paper, we propose a simple and intuitive regularization approach to integrate causal knowledge during model training and build a robust and fair model by emphasizing causal features and de-emphasizing spurious features. Specifically, we first manually identify causal and spurious features with principles inspired from the counterfactual framework of causal inference. Then, we propose a regularization approach to penalize causal and spurious features separately. By adjusting the strength of the penalty for each type of feature, we build a predictive model that relies more on causal features and less on non-causal features. We conduct experiments to evaluate model robustness and fairness on three datasets with multiple metrics. Empirical results show that the new models built with causal awareness significantly improve model robustness with respect to counterfactual texts and model fairness with respect to sensitive attributes.
+Author{1}{Firstname}#=%=#Zhao
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#zwang185
+Author{1}{Email}#=%=#zwang13@uchicago.edu
+Author{1}{Affiliation}#=%=#The University of Chicago
+Author{2}{Firstname}#=%=#Kai
+Author{2}{Lastname}#=%=#Shu
+Author{2}{Username}#=%=#skpaopao
+Author{2}{Email}#=%=#kshu@iit.edu
+Author{2}{Affiliation}#=%=#Illinois Institute of Technology
+Author{3}{Firstname}#=%=#Aron
+Author{3}{Lastname}#=%=#Culotta
+Author{3}{Username}#=%=#a-culotta
+Author{3}{Email}#=%=#aronwc@gmail.com
+Author{3}{Affiliation}#=%=#Tulane University
+
+==========

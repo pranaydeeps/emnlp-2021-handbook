@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Google-trickers, Yaminjeongeum, and Leetspeak: An Empirical Taxonomy for Intentionally Noisy User-Generated Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Won Ik Cho
+JobTitle#==#
+Organization#==#Seoul National University
+Abstract#==#WARNING: This article contains contents that may offend the readers.
+
+Strategies that insert intentional noise into text when posting it are commonly observed in the online space, and sometimes they aim to let only certain community users understand the genuine semantics. In this paper, we explore the purpose of such actions by categorizing them into tricks, memes, fillers, and codes, and organize the linguistic strategies that are used for each purpose. Through this, we identify that such strategies can be conducted by authors for multiple purposes, regarding the presence of stakeholders such as `Peers' and `Others'. We finally analyze how these strategies appear differently in each circumstance, along with the unified taxonomy accompanying examples.
+Author{1}{Firstname}#=%=#Won Ik
+Author{1}{Lastname}#=%=#Cho
+Author{1}{Username}#=%=#wicho
+Author{1}{Email}#=%=#wicho@hi.snu.ac.kr
+Author{1}{Affiliation}#=%=#Department of Electrical and Computer Engineering and INMC, Seoul National University
+Author{2}{Firstname}#=%=#Soomin
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Username}#=%=#soominkim
+Author{2}{Email}#=%=#soominkim@snu.ac.kr
+Author{2}{Affiliation}#=%=#Seoul National University
+
+==========

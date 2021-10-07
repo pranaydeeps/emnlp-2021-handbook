@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#On the Difficulty of Segmenting Words with Attention
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Ramon Sanabria
+JobTitle#==#PhD candidate
+Organization#==#The University Of Edinburgh
+Abstract#==#Word segmentation, the problem of finding word boundaries in speech, is of interest for a range of tasks. Previous papers have suggested that for sequence-to-sequence models trained on tasks such as speech translation or speech recognition, attention can be used to locate and segment the words.
+We show, however, that even on monolingual data this approach is brittle. In our experiments with different input types, data sizes, and segmentation algorithms, only models trained to predict phones from words succeed in the task. Models trained to predict words from either phones or speech (i.e., the opposite direction needed to generalize to new data), yield much worse results, suggesting that attention-based segmentation is only useful in limited scenarios.
+Author{1}{Firstname}#=%=#Ramon
+Author{1}{Lastname}#=%=#Sanabria
+Author{1}{Username}#=%=#ramonsanabria
+Author{1}{Email}#=%=#r.sanabria@ed.ac.uk
+Author{1}{Affiliation}#=%=#The University Of Edinburgh
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Tang
+Author{2}{Username}#=%=#haotang
+Author{2}{Email}#=%=#hao.tang@ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Sharon
+Author{3}{Lastname}#=%=#Goldwater
+Author{3}{Username}#=%=#sgwater
+Author{3}{Email}#=%=#sgwater@inf.ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+
+==========

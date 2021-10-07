@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Privacy enabled Financial Text Classification using Differential Privacy and Federated Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Priyam Basu
+JobTitle#==#NA
+Organization#==#Manipal Institute of Technology
+Abstract#==#Privacy is of primary importance when it comes to the Financial Domain as the data is highly confidential and no third party can be having access to it. Natural Language Processing (NLP) techniques can be applied for text classification and entity detection  purposes in financial domains like customer feedback sentiment analysis, invoice entity detection, categorisation of financial documents by type etc. Due to the sensitive nature of such data, privacy measures need to be taken for handling and training large models with such data. In this work, we propose a contextualized transformer (BERT and RoBERTa) based text classification model integrated with privacy features like Differential Privacy (DP) and Federated Learning (FL). We present how to privately train NLP models and desirable privacy utility trade-offs and evaluate it on the Financial Phrase Bank dataset.
+Author{1}{Firstname}#=%=#Priyam
+Author{1}{Lastname}#=%=#Basu
+Author{1}{Username}#=%=#whopriyam
+Author{1}{Email}#=%=#priyambasu16@gmail.com
+Author{1}{Affiliation}#=%=#Manipal
+Author{2}{Firstname}#=%=#Tiasa Singha
+Author{2}{Lastname}#=%=#Roy
+Author{2}{Email}#=%=#tiasa.singharoy@gmail.com
+Author{2}{Affiliation}#=%=#Manipal Institute of Technology
+Author{3}{Firstname}#=%=#Rakshit
+Author{3}{Lastname}#=%=#Naidu
+Author{3}{Email}#=%=#rnemakal@andrew.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Zumrut
+Author{4}{Lastname}#=%=#Muftuoglu
+Author{4}{Email}#=%=#zumrutmuftuoglu@gmail.com
+Author{4}{Affiliation}#=%=#Yıldız Teknik Üniversitesi
+
+==========

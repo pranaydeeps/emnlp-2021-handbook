@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#DreamDrug - A crowdsourced NER dataset for detecting drugs in darknet markets
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Gabor Recski
+JobTitle#==#
+Organization#==#
+Abstract#==#We present DreamDrug, a crowdsourced dataset for detecting mentions of drugs in noisy user-generated item listings from darknet markets. Our dataset contains nearly 15,000 manually annotated drug entities in over 3,500 item listings scraped from the darknet market platform "DreamMarket" in 2017. We also train and evaluate baseline models for detecting these entities, using contextual language models fine-tuned in a few-shot setting and on the full dataset, and examine the effect of pretraining on in-domain unannotated corpora.
+Author{1}{Firstname}#=%=#Johannes
+Author{1}{Lastname}#=%=#Bogensperger
+Author{1}{Email}#=%=#JBogen@gmx.at
+Author{1}{Affiliation}#=%=#AIT Austrian Institute of Technology
+Author{2}{Firstname}#=%=#Sven
+Author{2}{Lastname}#=%=#Schlarb
+Author{2}{Email}#=%=#Sven.Schlarb@ait.ac.at
+Author{2}{Affiliation}#=%=#AIT Austrian Institute of Technology
+Author{3}{Firstname}#=%=#Allan
+Author{3}{Lastname}#=%=#Hanbury
+Author{3}{Username}#=%=#hanbury
+Author{3}{Email}#=%=#allan.hanbury@tuwien.ac.at
+Author{3}{Affiliation}#=%=#TU Wien
+Author{4}{Firstname}#=%=#Gábor
+Author{4}{Lastname}#=%=#Recski
+Author{4}{Username}#=%=#recski
+Author{4}{Email}#=%=#gabor.recski@tuwien.ac.at
+Author{4}{Affiliation}#=%=#TU Wien
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#40
+FinalPaperTitle#=%=#SpanAlign: Efficient Sequence Tagging Annotation Projection into Translated Data applied to Cross-Lingual Opinion Mining
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Geraldine Damnati
+JobTitle#==#
+Organization#==#
+Abstract#==#Following the increasing performance of neural machine translation systems, the paradigm of using automatically translated data for cross-lingual adaptation is now studied in several applicative domains. The capacity to accurately project annotations remains however an issue for sequence tagging tasks where annotation must be projected with correct spans. Additionally, when the task implies noisy user-generated text, the quality of translation and annotation projection can be affected. In this paper we propose to tackle multilingual sequence tagging with a new span alignment method and apply it to opinion target extraction from customer reviews. We show that provided suitable heuristics, translated data with automatic span-level annotation projection can yield improvements both for cross-lingual adaptation compared to zero-shot transfer, and data augmentation compared to a multilingual baseline.
+Author{1}{Firstname}#=%=#Léo
+Author{1}{Lastname}#=%=#Jacqmin
+Author{1}{Username}#=%=#jacqle
+Author{1}{Email}#=%=#jacqmin.leo@gmail.com
+Author{1}{Affiliation}#=%=#Orange Labs
+Author{2}{Firstname}#=%=#Gabriel
+Author{2}{Lastname}#=%=#Marzinotto
+Author{2}{Email}#=%=#gabriel.marzinotto@gmail.com
+Author{2}{Affiliation}#=%=#Orange Labs
+Author{3}{Firstname}#=%=#Justyna
+Author{3}{Lastname}#=%=#Gromada
+Author{3}{Email}#=%=#justyna.gromada@orange.com
+Author{3}{Affiliation}#=%=#Orange Labs
+Author{4}{Firstname}#=%=#Ewelina
+Author{4}{Lastname}#=%=#Szczekocka
+Author{4}{Email}#=%=#ewelina.szczekocka@orange.com
+Author{4}{Affiliation}#=%=#Orange Labs
+Author{5}{Firstname}#=%=#Robert
+Author{5}{Lastname}#=%=#Kołodyński
+Author{5}{Email}#=%=#robert.kolodynski@orange.com
+Author{5}{Affiliation}#=%=#Orange Labs
+Author{6}{Firstname}#=%=#Géraldine
+Author{6}{Lastname}#=%=#Damnati
+Author{6}{Username}#=%=#damnati
+Author{6}{Email}#=%=#geraldine.damnati@orange.com
+Author{6}{Affiliation}#=%=#Orange Labs
+
+==========

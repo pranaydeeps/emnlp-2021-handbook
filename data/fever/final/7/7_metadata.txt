@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Stance Detection in German News Articles
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Laura Mascarell
+JobTitle#==#
+Organization#==#
+Abstract#==#The widespread use of the Internet and the rapid dissemination of information poses the challenge of identifying the veracity of its content. Stance detection, which is the task of predicting the position of a text in regard to a specific target (e.g. claim or debate question), has been used to determine the veracity of information in tasks such as rumor classification and fake news detection. While most of the work and available datasets for stance detection address short texts snippets extracted from textual dialogues, social media platforms, or news headlines with a strong focus on the English language, there is a lack of resources targeting long texts in other languages. Our contribution in this paper is twofold. First, we present a German dataset of debate questions and news articles  that is manually annotated for stance and emotion detection. Second, we leverage the dataset to tackle the supervised task of classifying the stance of a news article with regards to a debate question and provide baseline models as a reference for future work on stance detection in German news articles.
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Mascarell
+Author{1}{Username}#=%=#lmascarell
+Author{1}{Email}#=%=#lmascarell@inf.ethz.ch
+Author{1}{Affiliation}#=%=#ETH Zurich
+Author{2}{Firstname}#=%=#Tatyana
+Author{2}{Lastname}#=%=#Ruzsics
+Author{2}{Username}#=%=#tsoldatova
+Author{2}{Email}#=%=#tatiana.ruzsics@inf.ethz.ch
+Author{2}{Affiliation}#=%=#ETH Zurich
+Author{3}{Firstname}#=%=#Christian
+Author{3}{Lastname}#=%=#Schneebeli
+Author{3}{Email}#=%=#christian.schneebeli@inf.ethz.ch
+Author{3}{Affiliation}#=%=#ETH Zurich
+Author{4}{Firstname}#=%=#Philippe
+Author{4}{Lastname}#=%=#Schlattner
+Author{4}{Email}#=%=#philippe.schlattner@inf.ethz.ch
+Author{4}{Affiliation}#=%=#ETH Zurich
+Author{5}{Firstname}#=%=#Luca
+Author{5}{Lastname}#=%=#Campanella
+Author{5}{Email}#=%=#luca.campanella@inf.ethz.ch
+Author{5}{Affiliation}#=%=#ETH Zurich
+Author{6}{Firstname}#=%=#Severin
+Author{6}{Lastname}#=%=#Klingler
+Author{6}{Username}#=%=#kseverin
+Author{6}{Email}#=%=#kseverin@ethz.ch
+Author{6}{Affiliation}#=%=#ETH Zurich
+Author{7}{Firstname}#=%=#Cristina
+Author{7}{Lastname}#=%=#Kadar
+Author{7}{Email}#=%=#cristina.kadar@nzz.ch
+Author{7}{Affiliation}#=%=#Neue Zürcher Zeitung
+
+==========

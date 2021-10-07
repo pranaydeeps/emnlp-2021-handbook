@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Improving Punctuation Restoration for Speech Transcripts via External Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Xue-Yong Fu
+JobTitle#==#
+Organization#==#Name: Dialpad Canada Inc. 
+Address: 1100 Melville St #400, Vancouver, BC V6E 4A6
+Abstract#==#Automatic Speech Recognition (ASR) systems generally do not produce punctuated transcripts. To make transcripts more readable and follow the expected input format for downstream language models, it is necessary to add punctuation marks. In this paper, we tackle the punctuation restoration problem specifically for the noisy text (e.g., phone conversation scenarios). To leverage the available written text datasets, we introduce a data sampling technique based on an n-gram language model to sample more training data that are similar to our in-domain data. Moreover, we propose a two-stage fine-tuning approach that utilizes the sampled external data as well as our in-domain dataset for models based on BERT. Extensive experiments show that the proposed approach outperforms the baseline with an improvement of 1.12% F1 score.
+Author{1}{Firstname}#=%=#Xue-Yong
+Author{1}{Lastname}#=%=#Fu
+Author{1}{Username}#=%=#firstpaper
+Author{1}{Email}#=%=#xue-yong@dialpad.com
+Author{1}{Affiliation}#=%=#Dialpad Inc
+Author{2}{Firstname}#=%=#Cheng
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#cchen@dialpad.com
+Author{2}{Affiliation}#=%=#Dialpad Inc
+Author{3}{Firstname}#=%=#Md Tahmid Rahman
+Author{3}{Lastname}#=%=#Laskar
+Author{3}{Username}#=%=#tahmedge
+Author{3}{Email}#=%=#tahmid.rahman@dialpad.com
+Author{3}{Affiliation}#=%=#Dialpad Inc
+Author{4}{Firstname}#=%=#Shashi
+Author{4}{Lastname}#=%=#Bhushan
+Author{4}{Email}#=%=#sbhushan@dialpad.com
+Author{4}{Affiliation}#=%=#Dialpad Inc
+Author{5}{Firstname}#=%=#Simon
+Author{5}{Lastname}#=%=#Corston-Oliver
+Author{5}{Email}#=%=#scorston-oliver@dialpad.com
+Author{5}{Affiliation}#=%=#Dialpad Inc
+
+==========

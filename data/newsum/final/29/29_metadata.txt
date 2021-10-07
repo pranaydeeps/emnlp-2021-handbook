@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Rewards with Negative Examples for Reinforced Topic-Focused Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Khalil Mrini
+JobTitle#==#
+Organization#==#University of California San Diego
+9500 Gilman Dr, La Jolla, CA 92093
+Abstract#==#We consider the problem of topic-focused abstractive summarization, where the goal is to generate an abstractive summary focused on a particular topic, a phrase of one or multiple words. We hypothesize that the task of generating topic-focused summaries can be improved by showing the model what it must not focus on. We introduce a deep reinforcement learning approach to topic-focused abstractive summarization, trained on rewards with a novel negative example baseline. We define the input in this problem as the source text preceded by the topic. We adapt the CNN-Daily Mail and New York Times summarization datasets for this task. We then show through experiments on existing rewards that the use of a negative example baseline can outperform the use of a self-critical baseline, in Rouge, BERTScore, and human evaluation metrics.
+Author{1}{Firstname}#=%=#Khalil
+Author{1}{Lastname}#=%=#Mrini
+Author{1}{Username}#=%=#khalilmrini
+Author{1}{Email}#=%=#Khalil@ucsd.edu
+Author{1}{Affiliation}#=%=#University of California, San Diego
+Author{2}{Firstname}#=%=#Can
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liuca@amazon.com
+Author{2}{Affiliation}#=%=#Amazon.com
+Author{3}{Firstname}#=%=#Markus
+Author{3}{Lastname}#=%=#Dreyer
+Author{3}{Username}#=%=#mdreyer
+Author{3}{Email}#=%=#markus.dreyer@gmail.com
+Author{3}{Affiliation}#=%=#Amazon.com
+
+==========

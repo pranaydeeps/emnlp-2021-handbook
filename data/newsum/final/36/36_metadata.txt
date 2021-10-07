@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#Exploring Multitask Learning for Low-Resource Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ahmed Magooda
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper explores the effect of using multitask learning for abstractive summarization in the context of small training corpora. In particular, we incorporate four different tasks (extractive summarization, language modeling, concept detection, and paraphrase detection) both individually and in combination, with the goal of enhancing the target task of abstractive summarization via multitask learning. We show that for many task combinations, a model trained in a multitask setting  outperforms  a model trained only for abstractive summarization, with no additional summarization data introduced. Additionally, we do a comprehensive search and find that certain tasks (e.g. paraphrase detection) consistently benefit abstractive summarization, not only when combined with other tasks but also when using different architectures and training corpora.
+Author{1}{Firstname}#=%=#Ahmed
+Author{1}{Lastname}#=%=#Magooda
+Author{1}{Username}#=%=#ahmed.ezzat.gawad
+Author{1}{Email}#=%=#aem132@pitt.edu
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Diane
+Author{2}{Lastname}#=%=#Litman
+Author{2}{Username}#=%=#litman
+Author{2}{Email}#=%=#dlitman@pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+Author{3}{Firstname}#=%=#mohamed
+Author{3}{Lastname}#=%=#elaraby
+Author{3}{Username}#=%=#a-mohsa
+Author{3}{Email}#=%=#mhmd.sl.elhady@gmail.com
+Author{3}{Affiliation}#=%=#University of Pittsburgh
+
+==========

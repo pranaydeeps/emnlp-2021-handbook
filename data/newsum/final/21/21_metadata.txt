@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Evaluation of Abstractive Summarisation Models with Machine Translation in Deliberative Processes
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Miguel Arana-Catania
+JobTitle#==#
+Organization#==#
+Abstract#==#We present work on summarising deliberative processes for non-English languages. Unlike commonly studied datasets, such as news articles, this deliberation dataset reflects difficulties of combining multiple narratives, mostly of poor grammatical quality, in a single text. We report an extensive evaluation of a wide range of abstractive summarisation models in combination with an off-the-shelf machine translation model. Texts are translated into English, summarised, and translated back to the original language. We obtain promising results regarding the fluency, consistency and relevance of the summaries produced. Our approach is easy to implement for many languages for production purposes by simply changing the translation model.
+Author{1}{Firstname}#=%=#Miguel
+Author{1}{Lastname}#=%=#Arana-Catania
+Author{1}{Username}#=%=#cronopioelectronico
+Author{1}{Email}#=%=#miguel.arana-catania@warwick.ac.uk
+Author{1}{Affiliation}#=%=#University of Warwick
+Author{2}{Firstname}#=%=#Rob
+Author{2}{Lastname}#=%=#Procter
+Author{2}{Username}#=%=#robprocter
+Author{2}{Email}#=%=#rob.procter@warwick.ac.uk
+Author{2}{Affiliation}#=%=#University of Warwick
+Author{3}{Firstname}#=%=#Yulan
+Author{3}{Lastname}#=%=#He
+Author{3}{Username}#=%=#yulanhe
+Author{3}{Email}#=%=#yulan.he@warwick.ac.uk
+Author{3}{Affiliation}#=%=#University of Warwick
+Author{4}{Firstname}#=%=#Maria
+Author{4}{Lastname}#=%=#Liakata
+Author{4}{Username}#=%=#liakata
+Author{4}{Email}#=%=#maria.liakata@gmail.com
+Author{4}{Affiliation}#=%=#Queen Mary University of London
+
+==========

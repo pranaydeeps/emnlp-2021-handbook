@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#61
+FinalPaperTitle#=%=#Co-training for Commit Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jian Yi David Lee
+JobTitle#==#
+Organization#==#DSO National Laboratories
+Abstract#==#Commits in version control systems (e.g. Git) track changes in a software project. Commits comprise noisy user-generated natural language and code patches. Automatic commit classification (CC) has been used to determine the type of code maintenance activities performed, as well as to detect bug fixes in code repositories. Much prior work occurs in the fully-supervised setting -- a setting that can be a stretch in resource-scarce situations presenting difficulties in labeling commits. In this paper, we apply co-training, a semi-supervised learning method, to take advantage of the two views available -- the commit message (natural language) and the code changes (programming language) -- to improve commit classification.
+Author{1}{Firstname}#=%=#Jian Yi David
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#davidleejy
+Author{1}{Email}#=%=#davidlee@u.nus.edu
+Author{1}{Affiliation}#=%=#DSO National Laboratories
+Author{2}{Firstname}#=%=#Hai Leong
+Author{2}{Lastname}#=%=#Chieu
+Author{2}{Username}#=%=#chaileon
+Author{2}{Email}#=%=#chaileon@dso.org.sg
+Author{2}{Affiliation}#=%=#DSO National Laboratories
+
+==========

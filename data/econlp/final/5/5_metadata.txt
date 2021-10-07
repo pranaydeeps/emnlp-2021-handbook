@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#A Fine-Grained Annotated Corpus for Target-Based Opinion Analysis of Economic and Financial Narratives
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jiahui HU
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper about aspect-based sentiment analysis (ABSA), we present the first version of a fine-grained annotated corpus for target-based opinion analysis (TBOA) to analyze economic activities or financial markets. 
+We have annotated, at an intra-sentential level, a corpus of sentences extracted from documents representative of financial analysts' most-read materials by considering how financial actors communicate about the evolution of event trends and analyze related publications (news, official communications, etc.). Since we focus on identifying the expressions of opinions related to the economy and financial markets, we annotated the sentences that contain at least one subjective expression about a domain-specific term. Candidate sentences for annotations were randomly chosen from texts of specialized press and professional information channels over a period ranging from 1986 to 2021.
+
+Our annotation scheme relies on various linguistic markers like domain-specific vocabulary, syntactic structures, and rhetorical relations to explicitly describe the author's subjective stance. We investigated and evaluated the recourse to automatic pre-annotation with existing natural language processing technologies to alleviate the annotation workload. Our aim is to propose a corpus usable on the one hand as training material for the automatic detection of the opinions expressed on an extensive range of domain-specific aspects and on the other hand as a gold standard for evaluation TBOA.
+
+In this paper, we present our pre-annotation models and evaluations of their performance, introduce our annotation scheme and report on the main characteristics of our corpus.
+Author{1}{Firstname}#=%=#Jiahui
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Username}#=%=#sophie_hu
+Author{1}{Email}#=%=#jiahui.hu@lri.fr
+Author{1}{Affiliation}#=%=#CentraleSupélec, LISN, Natixis CIB
+Author{2}{Firstname}#=%=#Patrick
+Author{2}{Lastname}#=%=#Paroubek
+Author{2}{Username}#=%=#pap
+Author{2}{Email}#=%=#pap@limsi.fr
+Author{2}{Affiliation}#=%=#University Paris-Saclay - CNRS - LISN
+
+==========

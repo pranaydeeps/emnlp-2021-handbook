@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#51
+FinalPaperTitle#=%=#Detection of Puffery on the English Wikipedia
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Amanda Bertsch
+JobTitle#==#
+Organization#==#
+Abstract#==#On Wikipedia, an online crowdsourced encyclopedia, volunteers enforce the encyclopedia's editorial policies.
+Wikipedia's policy on maintaining a neutral point of view has inspired recent research on bias detection, including "weasel words" and "hedges". Yet to date, little work has been done on identifying "puffery," phrases that are overly positive without a verifiable source. We demonstrate that collecting training data for this task requires some care, and construct a dataset by combining Wikipedia editorial annotations and information retrieval techniques. We compare several approaches to predicting puffery, and achieve 0.963 f1 score by incorporating citation features into a RoBERTa model. Finally, we demonstrate how to integrate our model with Wikipedia's public infrastructure to give back to the Wikipedia editor community.
+Author{1}{Firstname}#=%=#Amanda
+Author{1}{Lastname}#=%=#Bertsch
+Author{1}{Username}#=%=#abertsch
+Author{1}{Email}#=%=#abertsch@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Steven
+Author{2}{Lastname}#=%=#Bethard
+Author{2}{Username}#=%=#steven.bethard
+Author{2}{Email}#=%=#bethard@arizona.edu
+Author{2}{Affiliation}#=%=#University of Arizona
+
+==========

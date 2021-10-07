@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Understanding the Impact of UGC Specificities on Translation Quality
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#José Rosales
+JobTitle#==#
+Organization#==#
+Abstract#==#This work takes a critical look at the evaluation of user-generated content automatic translation, the well-known specificities of which raise many challenges for MT. Our analyses show that measuring the average-case performance using a standard metric on a UGC test set falls far short of giving a reliable image of the UGC translation quality. That is why we introduce a new data set for the evaluation of UGC translation in which UGC specificities have been manually annotated using a fine-grained typology. Using this data set, we conduct several experiments to measure the impact of different kinds of UGC specificities on translation quality, more precisely than previously possible.
+Author{1}{Firstname}#=%=#José Carlos
+Author{1}{Lastname}#=%=#Rosales Núñez
+Author{1}{Username}#=%=#jose.rosales
+Author{1}{Email}#=%=#josecar25@gmail.com
+Author{1}{Affiliation}#=%=#Université Paris-Saclay, CNRS, LISN, Inria
+Author{2}{Firstname}#=%=#Djamé
+Author{2}{Lastname}#=%=#Seddah
+Author{2}{Username}#=%=#djame
+Author{2}{Email}#=%=#djame.seddah@gmail.com
+Author{2}{Affiliation}#=%=#Inria
+Author{3}{Firstname}#=%=#Guillaume
+Author{3}{Lastname}#=%=#Wisniewski
+Author{3}{Username}#=%=#gwisniewski
+Author{3}{Email}#=%=#guillaume.wisniewski@u-paris.fr
+Author{3}{Affiliation}#=%=#Université Paris and LLF
+
+==========

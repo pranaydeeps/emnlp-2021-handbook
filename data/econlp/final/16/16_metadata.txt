@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Cryptocurrency Day Trading and Framing Prediction in Microblog Discourse
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Anna Paula Pawlicka Maule
+JobTitle#==#
+Organization#==#
+Abstract#==#With 56 million people actively trading and investing in cryptocurrency online and globally in 2020, there is an increasing need for automatic social media analysis tools to help understand trading discourse and behavior. In this work, we present a dual natural language modeling pipeline which leverages language and social network behaviors for the prediction of cryptocurrency day trading actions and their associated framing patterns. This pipeline first predicts if tweets can be used to guide day trading behavior, specifically if a cryptocurrency investor should buy, sell, or hold their cryptocurrencies in order to make a profit. Next, tweets are input to an unsupervised deep clustering approach to automatically detect trading framing patterns. Our contributions include the modeling pipeline for this novel task, a new Cryptocurrency Tweets Dataset compiled from influential accounts, and a Historical Price Dataset. Our experiments show that our approach achieves an 88.78% accuracy for day trading behavior prediction and reveals framing fluctuations prior to and during the COVID-19 pandemic that could be used to guide investment actions.
+Author{1}{Firstname}#=%=#Anna Paula
+Author{1}{Lastname}#=%=#Pawlicka Maule
+Author{1}{Username}#=%=#apmaule
+Author{1}{Email}#=%=#apmaule@gmail.com
+Author{1}{Affiliation}#=%=#Michigan State University
+Author{2}{Firstname}#=%=#Kristen
+Author{2}{Lastname}#=%=#Johnson
+Author{2}{Username}#=%=#kjohnson
+Author{2}{Email}#=%=#kristenj@msu.edu
+Author{2}{Affiliation}#=%=#Michigan State University
+
+==========

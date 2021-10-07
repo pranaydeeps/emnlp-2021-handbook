@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Knowledge and Keywords Augmented Abstractive Sentence Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Shuo Guan
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we study the abstractive sentence summarization.
+There are two essential information features that can influence the quality of news summarization, which are topic keywords and the knowledge structure of the news text.
+Besides, the existing knowledge encoder has poor performance on sparse sentence knowledge structure. 
+Considering these, we propose KAS, a novel Knowledge and Keywords Augmented Abstractive Sentence Summarization framework.
+Tri-encoders are utilized to integrate contexts of original text, knowledge structure and keywords topic simultaneously, with a special linearized knowledge structure.
+Automatic and human evaluations demonstrate that KAS achieves the best performances.
+Author{1}{Firstname}#=%=#Shuo
+Author{1}{Lastname}#=%=#Guan
+Author{1}{Username}#=%=#seanguan
+Author{1}{Email}#=%=#shuo.guan@cs.nyu.edu
+Author{1}{Affiliation}#=%=#NYU Courant
+
+==========

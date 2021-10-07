@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Hierarchical Character Tagger for Short Text Spelling Error Correction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Mengyi Gao
+JobTitle#==#
+Organization#==#eBay Inc.
+88 Keyuan Road, Shanghai, China
+Abstract#==#State-of-the-art approaches to spelling error correction problem include Transformer-based Seq2Seq models, which require large training sets and suffer from slow inference time; and sequence labeling models based on Transformer encoders like BERT, which involve token-level label space and therefore a large pre-defined vocabulary dictionary. In this paper we present a Hierarchical Character Tagger model, or HCTagger, for short text spelling error correction. We use a pre-trained language model at the character level as a text encoder, and then predict character-level edits to transform the original text into its error-free form with a much smaller label space. For decoding, we propose a hierarchical multi-task approach to alleviate the issue of long-tail label distribution without introducing extra model parameters. Experiments on two public misspelling correction datasets demonstrate that HCTagger is an accurate and much faster approach than many existing models.
+Author{1}{Firstname}#=%=#Mengyi
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Username}#=%=#menggao
+Author{1}{Email}#=%=#menggao@ebay.com
+Author{1}{Affiliation}#=%=#eBay Inc.
+Author{2}{Firstname}#=%=#Canran
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Username}#=%=#schelotto
+Author{2}{Email}#=%=#canranxu@gmail.com
+Author{2}{Affiliation}#=%=#eBay Inc
+Author{3}{Firstname}#=%=#Peng
+Author{3}{Lastname}#=%=#Shi
+Author{3}{Username}#=%=#pshi
+Author{3}{Email}#=%=#pshi@ebay.com
+Author{3}{Affiliation}#=%=#eBay Inc.
+
+==========

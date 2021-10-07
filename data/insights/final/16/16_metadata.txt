@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Zero-Shot Cross-Lingual Transfer is a Hard Baseline to Beat in German Fine-Grained Entity Typing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sabine Weber
+JobTitle#==#
+Organization#==#University of Edinburgh
+South Bridge
+Edinburgh EH8 9YL
+Abstract#==#The training of NLP models often requires large amounts of labelled training data, which makes it difficult to expand existing models to new languages. While zero-shot cross-lingual transfer relies on multilingual word embeddings to apply a model trained on one language to another, Yarowski and Ngai (2001) propose the method of annotation projection to generate training data without manual annotation. This method was successfully used for the tasks of named entity recognition and coarse-grained entity typing, but we show that it is outperformed by zero-shot cross-lingual transfer when applied to the similar task of fine-grained entity typing. In our study of fine-grained entity typing with the FIGER type ontology for German, we show that annotation projection amplifies the English model's tendency to underpredict level 2 labels and is beaten by zero-shot cross-lingual transfer on three novel test sets.
+Author{1}{Firstname}#=%=#Sabine
+Author{1}{Lastname}#=%=#Weber
+Author{1}{Username}#=%=#webersab
+Author{1}{Email}#=%=#s.weber@sms.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Steedman
+Author{2}{Username}#=%=#steedman
+Author{2}{Email}#=%=#steedman@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

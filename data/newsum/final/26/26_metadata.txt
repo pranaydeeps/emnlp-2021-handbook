@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Are We Summarizing the Right Way? A Survey of Dialogue Summarization Data Sets
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Don Tuggener
+JobTitle#==#
+Organization#==#ZHAW School of Engineering
+Centre for Artificial Intelligence
+Technikumstrasse 71
+8400 Winterthur
+Switzerland
+Abstract#==#Dialogue summarization is a long-standing task in the field of NLP, and several data sets with dialogues and associated human-written summaries of different styles exist. However, it is unclear for which type of dialogue which type of summary is most appropriate. For this reason, we apply a linguistic model of dialogue types to derive matching summary items and NLP tasks. This allows us to map existing dialogue summarization data sets into this model and identify gaps and potential directions for future work. As part of this process, we also provide an extensive overview of existing dialogue summarization data sets.
+Author{1}{Firstname}#=%=#Don
+Author{1}{Lastname}#=%=#Tuggener
+Author{1}{Username}#=%=#dtuggener
+Author{1}{Email}#=%=#don.tuggener@gmail.com
+Author{1}{Affiliation}#=%=#Zurich University of Applied Sciences
+Author{2}{Firstname}#=%=#Margot
+Author{2}{Lastname}#=%=#Mieskes
+Author{2}{Username}#=%=#mieskes
+Author{2}{Email}#=%=#margot.mieskes@h-da.de
+Author{2}{Affiliation}#=%=#University of Applied Sciences, Darmstadt
+Author{3}{Firstname}#=%=#Jan
+Author{3}{Lastname}#=%=#Deriu
+Author{3}{Username}#=%=#deri22
+Author{3}{Email}#=%=#deri@zhaw.ch
+Author{3}{Affiliation}#=%=#Zurich University of Applied Sciences
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Cieliebak
+Author{4}{Username}#=%=#cieliebak
+Author{4}{Email}#=%=#ciel@zhaw.ch
+Author{4}{Affiliation}#=%=#Zurich University of Applied Sciences
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Katherine Keith
+JobTitle#==#
+Organization#==#
+Abstract#==#Using observed language to understand interpersonal interactions is important in high-stakes decision making. We propose a causal research design for observational (non-experimental) data to estimate the natural direct and indirect effects of social group signals (e.g. race or gender) on speakers’ responses with separate aspects of language as causal mediators. We illustrate the promises and challenges of this framework via a theoretical case study of the effect of an advocate’s gender on interruptions from justices during U.S. Supreme Court oral arguments. We also discuss challenges conceptualizing and operationalizing causal variables such as gender and language that comprise of many components, and we articulate technical open challenges such as temporal dependence between language mediators in conversational settings.
+Author{1}{Firstname}#=%=#Katherine
+Author{1}{Lastname}#=%=#Keith
+Author{1}{Username}#=%=#kkeith
+Author{1}{Email}#=%=#kkeith@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{2}{Firstname}#=%=#Douglas
+Author{2}{Lastname}#=%=#Rice
+Author{2}{Email}#=%=#drrice@umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Brendan
+Author{3}{Lastname}#=%=#O'Connor
+Author{3}{Username}#=%=#brenocon
+Author{3}{Email}#=%=#brenocon@cs.umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
+
+==========

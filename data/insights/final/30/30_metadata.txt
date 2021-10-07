@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Learning Data Augmentation Schedules for Natural Language Processing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Daphné Chopard
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite its proven efficiency in other fields, data augmentation is less popular in the context of natural language processing (NLP) due to its complexity and limited results. A recent study (Longpre et al., 2020) showed for example that task-agnostic data augmentations fail to consistently boost the performance of pretrained transformers even in low data regimes. In this paper, we investigate whether data-driven augmentation scheduling and the integration of a wider set of transformations can lead to improved performance where fixed and limited policies were unsuccessful. Our results suggest that, while this approach can help the training process in some settings, the improvements are unsubstantial. This negative result is meant to help researchers better understand the limitations of data augmentation for NLP.
+Author{1}{Firstname}#=%=#Daphné
+Author{1}{Lastname}#=%=#Chopard
+Author{1}{Username}#=%=#dchopard
+Author{1}{Email}#=%=#chopardda@cardiff.ac.uk
+Author{1}{Affiliation}#=%=#Cardiff University
+Author{2}{Firstname}#=%=#Matthias S.
+Author{2}{Lastname}#=%=#Treder
+Author{2}{Email}#=%=#trederm@cardiff.ac.uk
+Author{2}{Affiliation}#=%=#Cardiff University
+Author{3}{Firstname}#=%=#Irena
+Author{3}{Lastname}#=%=#Spasić
+Author{3}{Email}#=%=#spasici@cardiff.ac.uk
+Author{3}{Affiliation}#=%=#Cardiff University
+
+==========

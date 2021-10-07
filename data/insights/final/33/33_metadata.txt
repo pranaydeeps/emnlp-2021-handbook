@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#{A}n {I}nvestigation into the {C}ontribution of {L}ocally {A}ggregated {D}escriptors to {F}igurative {L}anguage {I}dentification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sina Mahdipour Saravani
+JobTitle#==#
+Organization#==#Colorado State University, Fort Collins, Colorado 80523 USA
+Abstract#==#In natural language understanding, topics that touch upon figurative language and pragmatics are notably difficult. We probe a novel use of locally aggregated descriptors -- specifically, an architecture called NeXtVLAD -- motivated by its accomplishments in computer vision, achieve tremendous success in the FigLang2020 sarcasm detection task. The reported F1 score of 93.1% is 14% higher than the next best result. We specifically investigate the extent to which the novel architecture is responsible for this boost, and find that it does not provide statistically significant benefits. Deep learning approaches are expensive, and we hope our insights highlighting the lack of benefits from introducing a resource-intensive component will aid future research to distill the effective elements from long and complex pipelines, thereby providing a boost to the wider research community.
+Author{1}{Firstname}#=%=#Sina Mahdipour
+Author{1}{Lastname}#=%=#Saravani
+Author{1}{Email}#=%=#sinamps@colostate.edu
+Author{1}{Affiliation}#=%=#Colorado State University
+Author{2}{Firstname}#=%=#Ritwik
+Author{2}{Lastname}#=%=#Banerjee
+Author{2}{Username}#=%=#rbanerjee
+Author{2}{Email}#=%=#rbanerjee@cs.stonybrook.edu
+Author{2}{Affiliation}#=%=#Stony Brook University
+Author{3}{Firstname}#=%=#Indrakshi
+Author{3}{Lastname}#=%=#Ray
+Author{3}{Email}#=%=#indrakshi.ray@colostate.edu
+Author{3}{Affiliation}#=%=#Colorado State University
+
+==========

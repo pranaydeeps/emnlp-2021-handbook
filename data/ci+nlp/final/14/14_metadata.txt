@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Identifying Causal Influences on Publication Trends and Behavior: A Case Study of the Computational Linguistics Community
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Drawing causal conclusions from observational real-world data is a very much desired but a challenging task. In this paper we present mixed-method analyses to investigate causal influences of publication trends and behavior on the adoption, persistence and retirement of certain research foci -- methodologies, materials, and tasks that are of interest to the computational linguistics (CL) community. Our key findings highlight evidence of the transition to rapidly emerging methodologies in the research community (e.g., adoption of bidirectional LSTMs influencing the retirement of LSTMs), the persistent engagement with trending tasks and techniques (e.g., deep learning, embeddings, generative, and language models), the effect of scientist location from outside the US e.g., China on propensity of researching languages beyond English, and the potential impact of funding for large-scale research programs. We anticipate this work to provide useful insights about publication trends and behavior and raise the awareness about the potential for causal inference in the computational linguistics and a broader scientific community.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Glenski
+Author{1}{Username}#=%=#mglenski
+Author{1}{Email}#=%=#maria.glenski@pnnl.gov
+Author{1}{Affiliation}#=%=#Pacific Northwest National Laboratory
+Author{2}{Firstname}#=%=#Svitlana
+Author{2}{Lastname}#=%=#Volkova
+Author{2}{Username}#=%=#svitlana
+Author{2}{Email}#=%=#svitlana.volkova@pnnl.gov
+Author{2}{Affiliation}#=%=#Pacific Northwest National Laboratory
+
+==========

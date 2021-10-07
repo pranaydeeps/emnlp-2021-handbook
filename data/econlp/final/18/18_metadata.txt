@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#From Stock Prediction to Financial Relevance: Repurposing Attention Weights to Assess News Relevance Without Manual Annotations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Luciano Del Corro
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a method to automatically identify financially relevant news using stock price movements and news headlines as input. The method repurposes the attention weights of a neural network initially trained to predict stock prices to assign a relevance score to each headline, eliminating the need for manually labeled training data. Our experiments on the four most relevant US stock indices and 1.5M news headlines show that the method ranks relevant news highly, positively correlated with the accuracy of the initial stock price prediction task.
+Author{1}{Firstname}#=%=#Luciano
+Author{1}{Lastname}#=%=#Del Corro
+Author{1}{Username}#=%=#lucianodelcorro
+Author{1}{Email}#=%=#luciano@delcorro.ai
+Author{1}{Affiliation}#=%=#Goldman Sachs
+Author{2}{Firstname}#=%=#Johannes
+Author{2}{Lastname}#=%=#Hoffart
+Author{2}{Username}#=%=#jhoffart
+Author{2}{Email}#=%=#johannes@hoffart.ai
+Author{2}{Affiliation}#=%=#Goldman Sachs
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Learning to Rank Question Answer Pairs with Bilateral Contrastive Data Augmentation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#N/A
+JobTitle#==#
+Organization#==#
+Abstract#==#In this work, we propose a novel and easy-to-apply data augmentation strategy, namely \textbf{Bi}lateral \textbf{G}eneration (\textbf{BiG}), with a contrastive training objective for improving the performance of ranking question answer pairs with existing labeled data. In specific, we synthesize pseudo-positive QA pairs in contrast to the original negative QA pairs with two pre-trained generation models, one for question generation, the other for answer generation, which are fine-tuned on the limited positive QA pairs from the original dataset. With the augmented dataset, we design a contrastive training objective for learning to rank question answer pairs. Experimental results on three benchmark datasets show that our method significantly improves the performance of ranking models by making full use of existing labeled data and can be easily applied to  different ranking models.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Deng
+Author{1}{Username}#=%=#d123y456
+Author{1}{Email}#=%=#ydeng@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Wenxuan
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#wxzhang
+Author{2}{Email}#=%=#wxzhang@se.cuhk.edu.hk
+Author{2}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{3}{Firstname}#=%=#Wai
+Author{3}{Lastname}#=%=#Lam
+Author{3}{Username}#=%=#wlam
+Author{3}{Email}#=%=#wlam@se.cuhk.edu.hk
+Author{3}{Affiliation}#=%=#The Chinese University of Hong Kong
+
+==========

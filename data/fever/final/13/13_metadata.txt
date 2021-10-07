@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Neural Re-rankers for Evidence Retrieval in the FEVEROUS Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Mohammed SAEED
+JobTitle#==#
+Organization#==#EURECOM Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
+Abstract#==#Computational fact-checking has gained a lot of traction in the machine learning and natural language processing communities. A plethora of solutions have been developed, but methods which leverage both structured and unstructured information to detect misinformation are of particular relevance. In this paper, we tackle the FEVEROUS (Fact Extraction and VERification Over Unstructured and Structured information) challenge which consists of an open source baseline system together with a benchmark dataset containing 87,026 verified claims. We extend this baseline model by improving the evidence retrieval module yielding the best evidence F1 score among the competitors in the challenge leaderboard while obtaining an overall FEVEROUS score of 0.20 (5th best ranked system).
+Author{1}{Firstname}#=%=#Mohammed
+Author{1}{Lastname}#=%=#Saeed
+Author{1}{Username}#=%=#mhmd_saeed
+Author{1}{Email}#=%=#saeedm@eurecom.fr
+Author{1}{Affiliation}#=%=#Eurecom
+Author{2}{Firstname}#=%=#Giulio
+Author{2}{Lastname}#=%=#Alfarano
+Author{2}{Username}#=%=#giulio_alfarano
+Author{2}{Email}#=%=#giulio.alfarano@studenti.polito.it
+Author{2}{Affiliation}#=%=#Polito
+Author{3}{Firstname}#=%=#Khai
+Author{3}{Lastname}#=%=#nguyen
+Author{3}{Username}#=%=#nguyenk
+Author{3}{Email}#=%=#nguyenk@eurecom.fr
+Author{3}{Affiliation}#=%=#EURECOM
+Author{4}{Firstname}#=%=#Duc
+Author{4}{Lastname}#=%=#Pham
+Author{4}{Username}#=%=#minhduc0711
+Author{4}{Email}#=%=#phamminhduc0711@gmail.com
+Author{4}{Affiliation}#=%=#EURECOM
+Author{5}{Firstname}#=%=#Raphael
+Author{5}{Lastname}#=%=#Troncy
+Author{5}{Username}#=%=#troncy
+Author{5}{Email}#=%=#raphael.troncy@eurecom.fr
+Author{5}{Affiliation}#=%=#EURECOM
+Author{6}{Firstname}#=%=#Paolo
+Author{6}{Lastname}#=%=#Papotti
+Author{6}{Username}#=%=#papotti
+Author{6}{Email}#=%=#papotti@eurecom.fr
+Author{6}{Affiliation}#=%=#EURECOM
+
+==========

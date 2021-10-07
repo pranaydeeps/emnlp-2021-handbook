@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=#Mitigating Data Scarceness through Data Synthesis, Augmentation and Curriculum for Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ahmed Magooda
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper explores three simple data manipulation techniques (synthesis, augmentation, curriculum) for improving abstractive summarization models without the need for any additional data. We introduce a method of data synthesis with paraphrasing, a data augmentation technique with sample mixing, and curriculum learning with two new difficulty metrics based on specificity and abstractiveness. We conduct experiments to show that these three techniques can help improve abstractive summarization across two summarization models and two different small datasets. Furthermore, we show that these techniques can improve performance when applied in isolation and when combined.
+Author{1}{Firstname}#=%=#Ahmed
+Author{1}{Lastname}#=%=#Magooda
+Author{1}{Username}#=%=#ahmed.ezzat.gawad
+Author{1}{Email}#=%=#aem132@pitt.edu
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Diane
+Author{2}{Lastname}#=%=#Litman
+Author{2}{Username}#=%=#litman
+Author{2}{Email}#=%=#dlitman@pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Anna Rogers
+JobTitle#==#
+Organization#==#
+Abstract#==#Much of recent progress in NLU was shown to be due to models' learning dataset-specific heuristics. We conduct a case study of generalization in NLI (from MNLI to the adversarially constructed HANS dataset) in a range of BERT-based architectures (adapters, Siamese Transformers, HEX debiasing), as well as with subsampling the data and increasing the model size. We report 2 successful and 3 unsuccessful strategies, all providing insights into how Transformer-based models learn to generalize.
+Author{1}{Firstname}#=%=#Prajjwal
+Author{1}{Lastname}#=%=#Bhargava
+Author{1}{Username}#=%=#prajjwal
+Author{1}{Email}#=%=#prajjwalgo@gmail.com
+Author{1}{Affiliation}#=%=#University of Texas at Dallas
+Author{2}{Firstname}#=%=#Aleksandr
+Author{2}{Lastname}#=%=#Drozd
+Author{2}{Username}#=%=#blackbird
+Author{2}{Email}#=%=#alexander.drozd@gmail.com
+Author{2}{Affiliation}#=%=#RIKEN Center for Computational Science
+Author{3}{Firstname}#=%=#Anna
+Author{3}{Lastname}#=%=#Rogers
+Author{3}{Username}#=%=#anna_gld
+Author{3}{Email}#=%=#anna.gld@gmail.com
+Author{3}{Affiliation}#=%=#University of Copenhagen
+
+==========

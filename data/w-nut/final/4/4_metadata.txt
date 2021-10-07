@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Finding the needle in a haystack: Extraction of Informative COVID-19 Danish Tweets
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Benjamin Ahrentløv Olsen
+JobTitle#==#
+Organization#==#
+Abstract#==#Finding informative COVID-19 posts in a stream of tweets is very useful to monitor health-related updates. Prior work focused on a balanced data setup and on English, but informative tweets are rare, and English is only one of the many languages spoken in the world. In this work, we introduce a new dataset of 5,000 tweets for finding informative COVID-19 tweets for Danish. In contrast to prior work, which balances the label distribution, we model the problem by keeping its natural distribution.
+We examine how well a simple probabilistic model and a convolutional neural network (CNN)  perform on this task. We find a weighted CNN to work well but it is sensitive to embedding and hyperparameter choices. We hope the contributed dataset is a starting point for further work in this direction.
+Author{1}{Firstname}#=%=#Benjamin
+Author{1}{Lastname}#=%=#Olsen
+Author{1}{Username}#=%=#benjaminolsen
+Author{1}{Email}#=%=#beao@itu.dk
+Author{1}{Affiliation}#=%=#IT University of Copenhagen
+Author{2}{Firstname}#=%=#Barbara
+Author{2}{Lastname}#=%=#Plank
+Author{2}{Username}#=%=#bplank
+Author{2}{Email}#=%=#bplank@gmail.com
+Author{2}{Affiliation}#=%=#IT University of Copenhagen
+
+==========

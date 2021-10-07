@@ -1,0 +1,20 @@
+1   # Corrected CBOW Performs as well as Skip-gram
+3   # Does Commonsense help in detecting Sarcasm?
+4   # BERT Cannot Align Characters
+6   # Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation
+11   # Finetuning Pretrained Transformers into Variational Autoencoders
+14   # Are BERTs Sensitive to Native Interference in L2 Production?
+16   # Zero-Shot Cross-Lingual Transfer is a Hard Baseline to Beat in German Fine-Grained Entity Typing
+17   # Comparing Euclidean and Hyperbolic Embeddings on the WordNet Nouns Hypernymy Graph
+19   # When does Further Pre-training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-training
+22   # Recurrent Attention for the Transformer
+24   # On the Difficulty of Segmenting Words with Attention
+27   # The Highs and Lows of Simple Lexical Domain Adaptation Approaches for Neural Machine Translation
+29   # Backtranslation in Neural Morphological Inflection
+30   # Learning Data Augmentation Schedules for Natural Language Processing
+33   # {A}n {I}nvestigation into the {C}ontribution of {L}ocally {A}ggregated {D}escriptors to {F}igurative {L}anguage {I}dentification
+34   # Blindness to Modality Helps Entailment Graph Mining
+35   # Investigating the Effect of Natural Language Explanations on Out-of-Distribution Generalization in Few-shot NLI
+36   # Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics
+38   # Challenging the Semi-Supervised VAE Framework for Text Classification
+40   # Active Learning for Argument Strength Estimation

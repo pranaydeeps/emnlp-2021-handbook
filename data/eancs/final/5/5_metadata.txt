@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#GCDF1: A Goal- and Context- Driven F-Score for Evaluating User Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Alexandru Coca
+JobTitle#==#
+Organization#==#University of Cambridge
+Department of Engineering 
+Trumpington Street
+CB2 1PZ
+Abstract#==#The evaluation of dialogue systems in interaction with simulated users has been proposed to improve turn-level, corpus-based metrics which can only evaluate test cases encountered in a corpus and cannot measure system's ability to sustain multi-turn interactions. Recently, little emphasis was put on automatically assessing the quality of the user model itself, so unless correlations with human studies are measured, the reliability of user model based evaluation is unknown. We propose GCDF1, a simple but effective measure of the quality of  semantic-level conversations between a goal-driven user agent and a system agent. In contrast with previous approaches we measure the F-score at dialogue level and consider user and system behaviours to improve recall and precision estimation. We facilitate scores interpretation by providing a rich hierarchical structure with information about conversational patterns present in the test data and tools to efficiently query the conversations generated. We apply our framework to assess the performance and weaknesses of a Convlab2 user model.
+Author{1}{Firstname}#=%=#Alexandru
+Author{1}{Lastname}#=%=#Coca
+Author{1}{Username}#=%=#acoca
+Author{1}{Email}#=%=#ac2123@cam.ac.uk
+Author{1}{Affiliation}#=%=#University Cambridge
+Author{2}{Firstname}#=%=#Bo-Hsiang
+Author{2}{Lastname}#=%=#Tseng
+Author{2}{Username}#=%=#andy194673
+Author{2}{Email}#=%=#bht26@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Bill
+Author{3}{Lastname}#=%=#Byrne
+Author{3}{Username}#=%=#wjb31
+Author{3}{Email}#=%=#bill.byrne@eng.cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

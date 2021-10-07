@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Does It Happen? Multi-hop Path Structures for Event Factuality Prediction with Graph Transformer Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Thien Huu Nguyen
+JobTitle#==#
+Organization#==#University of Oregon
+1585 E 13th Ave.
+Eugene, OR 97403, USA
+Abstract#==#The goal of Event Factuality Prediction (EFP) is to determine the factual degree of an event mention, representing how likely the event mention has happened in text. Current deep learning models has demonstrated the importance of syntactic and semantic structures of the sentences to identify important context words for EFP. However, the major problem with these EFP models is that they only encode the one-hop paths between the words (i.e., the direct connections) to form the sentence structures. In this work, we show that the multi-hop paths between the words are also necessary to compute the sentence structures for EFP. To this end, we introduce a novel deep learning model for EFP that explicitly considers multi-hop paths with both syntax-based and semantic-based edges between the words to obtain sentence structures for representation learning in EFP. We demonstrate the effectiveness of the proposed model via the extensive experiments in this work.
+Author{1}{Firstname}#=%=#Duong
+Author{1}{Lastname}#=%=#Le
+Author{1}{Username}#=%=#duonglm38
+Author{1}{Email}#=%=#v.duonglm1@vinai.io
+Author{1}{Affiliation}#=%=#VinAI Research, Vietnam
+Author{2}{Firstname}#=%=#Thien Huu
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Username}#=%=#anoperson
+Author{2}{Email}#=%=#thien@cs.uoregon.edu
+Author{2}{Affiliation}#=%=#University of Oregon
+
+==========

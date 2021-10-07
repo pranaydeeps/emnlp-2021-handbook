@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#69
+FinalPaperTitle#=%=#To What Extent Does Lexical Normalization Help English-as-a-Second Language Learners to Read Noisy English Texts?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yo Ehara
+JobTitle#==#
+Organization#==#Tokyo Gakugei University, 4-1-1 Nukuikita-machi, Koganei-shi, Tokyo 184-8501 Japan
+Abstract#==#How difficult is it for English-as-a-second language (ESL) learners to read noisy English texts? Do ESL learners need lexical normalization to read noisy English texts?
+These questions may also affect community formation on social networking sites where differences can be attributed to ESL learners and native English speakers.
+However, few studies have addressed these questions.
+To this end, we built highly accurate readability assessors to evaluate the readability of texts for ESL learners. We then applied these assessors to noisy English texts to further assess the readability of the texts.
+The experimental results showed that although intermediate-level ESL learners can read most noisy English texts in the first place, lexical normalization significantly improves the readability of noisy English texts for ESL learners.
+Author{1}{Firstname}#=%=#Yo
+Author{1}{Lastname}#=%=#Ehara
+Author{1}{Username}#=%=#yeut
+Author{1}{Email}#=%=#i@yoehara.com
+Author{1}{Affiliation}#=%=#Tokyo Gakugei University
+
+==========

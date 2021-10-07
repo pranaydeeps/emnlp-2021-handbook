@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Corrected CBOW Performs as well as Skip-gram
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Mikolov et al. (2013a) observed that continuous bag-of-words (CBOW) word embeddings tend to underperform Skip-gram (SG) embeddings, and this finding has been reported in subsequent works. We find that these observations are driven not by fundamental differences in their training objectives, but more likely on faulty negative sampling CBOW implementations in popular libraries such as the official implementation, word2vec.c, and Gensim. We show that after correcting a bug in the CBOW gradient update, one can learn CBOW word embeddings that are fully competitive with SG on various intrinsic and extrinsic tasks, while being many times faster to train.
+Author{1}{Firstname}#=%=#Ozan
+Author{1}{Lastname}#=%=#İrsoy
+Author{1}{Username}#=%=#oirsoy
+Author{1}{Email}#=%=#oirsoy@bloomberg.net
+Author{1}{Affiliation}#=%=#Bloomberg LP
+Author{2}{Firstname}#=%=#Adrian
+Author{2}{Lastname}#=%=#Benton
+Author{2}{Username}#=%=#adrianb
+Author{2}{Email}#=%=#abenton10@bloomberg.net
+Author{2}{Affiliation}#=%=#Bloomberg
+Author{3}{Firstname}#=%=#Karl
+Author{3}{Lastname}#=%=#Stratos
+Author{3}{Username}#=%=#stratos
+Author{3}{Email}#=%=#karlstratos@gmail.com
+Author{3}{Affiliation}#=%=#Rutgers University
+
+==========

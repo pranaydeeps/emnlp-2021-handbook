@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#62
+FinalPaperTitle#=%=#Study of Manifestation of Civil Unrest on Twitter
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Alexandra DeLucia
+JobTitle#==#
+Organization#==#
+Abstract#==#Twitter is commonly used for civil unrest detection and forecasting tasks, but there is a lack of work in evaluating \textit{how} civil unrest manifests on Twitter across countries and events. 
+We present two in-depth case studies for two specific large-scale events, one in a country with high (English) Twitter usage (Johannesburg riots in South Africa) and one in a country with low Twitter usage (Burayu massacre protests in Ethiopia). 
+We show that while there is event signal during the events, there is little signal leading up to the events.
+In addition to the case studies, we train Ngram-based models on a larger set of Twitter civil unrest data across time, events, and countries and use machine learning explainability tools (SHAP) to identify important features. The models were able to find words indicative of civil unrest that generalized across countries. The 42 countries span Africa, Middle East, and Southeast Asia and the events range occur between 2014 and 2019.
+Author{1}{Firstname}#=%=#Abhinav
+Author{1}{Lastname}#=%=#Chinta
+Author{1}{Email}#=%=#achinta3@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Jingyu
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#jzhan237@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Alexandra
+Author{3}{Lastname}#=%=#DeLucia
+Author{3}{Username}#=%=#aadelucia
+Author{3}{Email}#=%=#aadelucia@jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Dredze
+Author{4}{Username}#=%=#mdredze
+Author{4}{Email}#=%=#mdredze@cs.jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+Author{5}{Firstname}#=%=#Anna L.
+Author{5}{Lastname}#=%=#Buczak
+Author{5}{Email}#=%=#Anna.Buczak@jhuapl.edu
+Author{5}{Affiliation}#=%=#Johns Hopkins University Applied Physics Laboratory
+
+==========

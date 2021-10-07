@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#FANG-COVID: A New Large-Scale Benchmark Dataset for Fake News Detection in German
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Justus Mattern
+JobTitle#==#
+Organization#==#
+Abstract#==#As the world continues to fight the COVID-19 pandemic, it is simultaneously fighting an ‘infodemic' -- a flood of disinformation and spread of conspiracy theories leading to health threats and the division of society. To combat this infodemic, there is an urgent need for benchmark datasets that can help researchers develop and evaluate models geared towards automatic detection of disinformation. While there are increasing efforts to create adequate, open-source benchmark datasets for English, comparable resources are virtually unavailable for German, leaving research for the German language lagging significantly behind. In this paper, we introduce the new benchmark dataset FANG-COVID consisting of 28,056 real and 13,186 fake German news articles related to the COVID-19 pandemic as well as data on their propagation on Twitter. Furthermore, we propose an explainable textual- and social context-based model for fake news detection, compare its performance to "black-box" models and perform feature ablation to assess the relative importance of human-interpretable features in distinguishing fake news from authentic news.
+Author{1}{Firstname}#=%=#Justus
+Author{1}{Lastname}#=%=#Mattern
+Author{1}{Username}#=%=#justusmattern
+Author{1}{Email}#=%=#justus.mattern@rwth-aachen.de
+Author{1}{Affiliation}#=%=#RWTH Aachen
+Author{2}{Firstname}#=%=#Yu
+Author{2}{Lastname}#=%=#Qiao
+Author{2}{Username}#=%=#yu_qiao
+Author{2}{Email}#=%=#yu.qiao@rwth-aachen.de
+Author{2}{Affiliation}#=%=#RWTH-Achen
+Author{3}{Firstname}#=%=#Elma
+Author{3}{Lastname}#=%=#Kerz
+Author{3}{Username}#=%=#ek
+Author{3}{Email}#=%=#elma.kerz@ifaar.rwth-aachen.de
+Author{3}{Affiliation}#=%=#RWTH Aachen University
+Author{4}{Firstname}#=%=#Daniel
+Author{4}{Lastname}#=%=#Wiechmann
+Author{4}{Username}#=%=#danpirelli
+Author{4}{Email}#=%=#d.wiechmann@uva.nl
+Author{4}{Affiliation}#=%=#Institute for Logic Language and Computation
+Author{5}{Firstname}#=%=#Markus
+Author{5}{Lastname}#=%=#Strohmaier
+Author{5}{Email}#=%=#markus.strohmaier@cssh.rwth-aachen.de
+Author{5}{Affiliation}#=%=#RWTH Aachen University
+
+==========

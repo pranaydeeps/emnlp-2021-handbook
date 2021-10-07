@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Modeling Endorsement for Multi-Document Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#FEI LIU
+JobTitle#==#
+Organization#==#
+Abstract#==#A crucial difference between single- and multi-document summarization is how salient content manifests itself in the document(s). While such content may appear at the beginning of a single document, essential information is frequently reiterated in a set of documents related to a particular topic, resulting in an endorsement effect that increases information salience. In this paper, we model the cross-document endorsement effect and its utilization in multiple document summarization. Our method generates a synopsis from each document, which serves as an endorser to identify salient content from other documents. Strongly endorsed text segments are used to enrich a neural encoder-decoder model to consolidate them into an abstractive summary. The method has a great potential to learn from fewer examples to identify salient content, which alleviates the need for costly retraining when the set of documents is dynamically adjusted. Through extensive experiments on benchmark multi-document summarization datasets, we demonstrate the effectiveness of our proposed method over strong published baselines. Finally, we shed light on future research directions and discuss broader challenges of this task using a case study.
+Author{1}{Firstname}#=%=#Logan
+Author{1}{Lastname}#=%=#Lebanoff
+Author{1}{Username}#=%=#loganlebanoff
+Author{1}{Email}#=%=#logan.lebanoff@soartech.com
+Author{1}{Affiliation}#=%=#Soar Technology, Inc.
+Author{2}{Firstname}#=%=#Bingqing
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wbqtac
+Author{2}{Email}#=%=#wbqtac@gmail.com
+Author{2}{Affiliation}#=%=#Bosch Research & Technology Center North America
+Author{3}{Firstname}#=%=#Zhe
+Author{3}{Lastname}#=%=#Feng
+Author{3}{Username}#=%=#fengzhe
+Author{3}{Email}#=%=#zhe.feng2@us.bosch.com
+Author{3}{Affiliation}#=%=#Bosch
+Author{4}{Firstname}#=%=#Fei
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#feiliu
+Author{4}{Email}#=%=#feiliu@cs.ucf.edu
+Author{4}{Affiliation}#=%=#University of Central Florida
+
+==========

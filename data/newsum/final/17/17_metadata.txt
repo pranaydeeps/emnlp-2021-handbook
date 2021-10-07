@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Template-aware Attention Model for Earnings Call Report Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yangchen Huang
+JobTitle#==#
+Organization#==#
+Abstract#==#Earning calls are among important resources for investors and analysts for updating their price targets. Firms usually publish corresponding transcripts soon after earnings events. However, raw transcripts are often too long and miss the coherent structure. To enhance the clarity, analysts write well-structured reports for some important earnings call events by analyzing them, requiring time and effort. In this paper, we propose TATSum (Template-Aware aTtention model for Summarization), a generalized neural summarization approach for structured report generation, and evaluate its performance in the earnings call domain. We build a large corpus with thousands of transcripts and reports using historical earnings events. We first generate a candidate set of reports from the corpus as potential soft templates which do not impose actual rules on the output. Then, we employ an encoder model with margin-ranking loss to rank the candidate set and select the best quality template. Finally, the transcript and the selected soft template are used as input in a seq2seq framework for report generation. Empirical results on the earnings call dataset show that our model significantly outperforms state-of-the-art models in terms of informativeness and structure.
+Author{1}{Firstname}#=%=#Yangchen
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#yangchen_huang
+Author{1}{Email}#=%=#yangchen.huang@jpmchase.com
+Author{1}{Affiliation}#=%=#JP Morgan Chase & Company
+Author{2}{Firstname}#=%=#Prashant K.
+Author{2}{Lastname}#=%=#Dhingra
+Author{2}{Email}#=%=#prashant.k.dhingra@jpmchase.com
+Author{2}{Affiliation}#=%=#JP Morgan Chase & Company
+Author{3}{Firstname}#=%=#Seyed Danial
+Author{3}{Lastname}#=%=#Mohseni Taheri
+Author{3}{Email}#=%=#seyeddanial.mohsenitaheri@jpmchase.com
+Author{3}{Affiliation}#=%=#JP Morgan Chase & Company
+
+==========

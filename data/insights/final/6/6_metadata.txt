@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chanjun Park
+JobTitle#==#Author
+Organization#==#Korea University
+Abstract#==#In the field of natural language processing, ensembles are broadly known to be effective in improving performance. This paper analyzes how ensemble of neural machine translation (NMT) models affect performance improvement by designing various experimental setups (i.e., intra-, inter-ensemble, and non-convergence ensemble). To an in-depth examination, we analyze each ensemble method with respect to several aspects such as different attention models and vocab strategies. Experimental results show that ensembling is not always resulting in performance increases and give noteworthy negative findings.
+Author{1}{Firstname}#=%=#chanjun
+Author{1}{Lastname}#=%=#park
+Author{1}{Username}#=%=#chanjun.park
+Author{1}{Email}#=%=#bcj1210@naver.com
+Author{1}{Affiliation}#=%=#korea university
+Author{2}{Firstname}#=%=#Sungjin
+Author{2}{Lastname}#=%=#Park
+Author{2}{Username}#=%=#ecpark
+Author{2}{Email}#=%=#ec_park@korea.ac.kr
+Author{2}{Affiliation}#=%=#Korea University
+Author{3}{Firstname}#=%=#Seolhwa
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#seolhwa
+Author{3}{Email}#=%=#whiteldark@korea.ac.kr
+Author{3}{Affiliation}#=%=#University of Copenhagen
+Author{4}{Firstname}#=%=#Taesun
+Author{4}{Lastname}#=%=#Whang
+Author{4}{Username}#=%=#taesunwhang
+Author{4}{Email}#=%=#taesunwhang@gmail.com
+Author{4}{Affiliation}#=%=#Wisenut Inc.
+Author{5}{Firstname}#=%=#Heuiseok
+Author{5}{Lastname}#=%=#Lim
+Author{5}{Username}#=%=#limhseok
+Author{5}{Email}#=%=#limhseok@korea.ac.kr
+Author{5}{Affiliation}#=%=#Korea University
+
+==========

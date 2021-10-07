@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#65
+FinalPaperTitle#=%=#Can Character-based Language Models Improve Downstream Task Performances In Low-Resource And Noisy Language Scenarios?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#seddah
+JobTitle#==#
+Organization#==#Inria Paris, 2 rue Simone Iff, 75012 Paris
+Abstract#==#Recent impressive improvements in NLP, largely based on the success of contextual neural language models, have been mostly demonstrated on at most a couple dozen high- resource languages. Building language mod- els and, more generally, NLP systems for non- standardized and low-resource languages remains a challenging task. In this work, we fo- cus on North-African colloquial dialectal Arabic written using an extension of the Latin script, called NArabizi, found mostly on social media and messaging communication. In this low-resource scenario with data display- ing a high level of variability, we compare the downstream performance of a character-based language model on part-of-speech tagging and dependency parsing to that of monolingual and multilingual models. We show that a character-based model trained on only 99k sentences of NArabizi and fined-tuned on a small treebank of this language leads to performance close to those obtained with the same architecture pre- trained on large multilingual and monolingual models. Confirming these results a on much larger data set of noisy French user-generated content, we argue that such character-based language models can be an asset for NLP in low-resource and high language variability set- tings.
+Author{1}{Firstname}#=%=#Arij
+Author{1}{Lastname}#=%=#riabi
+Author{1}{Username}#=%=#arij
+Author{1}{Email}#=%=#arij.riabi@inria.fr
+Author{1}{Affiliation}#=%=#Inria
+Author{2}{Firstname}#=%=#Benoît
+Author{2}{Lastname}#=%=#Sagot
+Author{2}{Username}#=%=#benoit.sagot
+Author{2}{Email}#=%=#benoit.sagot@inria.fr
+Author{2}{Affiliation}#=%=#Inria
+Author{3}{Firstname}#=%=#Djamé
+Author{3}{Lastname}#=%=#Seddah
+Author{3}{Username}#=%=#djame
+Author{3}{Email}#=%=#djame.seddah@gmail.com
+Author{3}{Affiliation}#=%=#Inria
+
+==========

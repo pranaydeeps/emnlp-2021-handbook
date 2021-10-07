@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Are BERTs Sensitive to Native Interference in L2 Production?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zixin Tang
+JobTitle#==#
+Organization#==#
+Abstract#==#With the essays part from The International Corpus Network of Asian Learners of English (ICNALE) and the TOEFL11 corpus, we fine-tuned neural language models based on BERT to predict English learners' native languages. Results showed neural models can learn to represent and detect such native language impacts, but multilingually trained models have no advantage in doing so.
+Author{1}{Firstname}#=%=#Zixin
+Author{1}{Lastname}#=%=#Tang
+Author{1}{Username}#=%=#zxtang
+Author{1}{Email}#=%=#zqt5035@psu.edu
+Author{1}{Affiliation}#=%=#Penn State University
+Author{2}{Firstname}#=%=#Prasenjit
+Author{2}{Lastname}#=%=#Mitra
+Author{2}{Email}#=%=#pmitra@psu.edu
+Author{2}{Affiliation}#=%=#Penn State University
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Reitter
+Author{3}{Email}#=%=#reitter@google.com
+Author{3}{Affiliation}#=%=#Google Research
+
+==========

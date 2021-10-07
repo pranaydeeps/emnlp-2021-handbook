@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#EDGAR-CORPUS: Billions of Tokens Make The World Go Round
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lefteris Loukas
+JobTitle#==#
+Organization#==#EY AI Centre of Excellence in Document Intelligence, NCSR "Demokritos''
+Abstract#==#We release EDGAR-CORPUS, a novel corpus comprising annual reports from all the publicly traded companies in the US spanning a period of more than 25 years. To the best of our knowledge, EDGAR-CORPUS is the largest financial NLP corpus available to date. All the reports are downloaded, split into their corresponding items (sections), and provided in a clean, easy-to-use JSON format. We use EDGAR-CORPUS to train and release EDGAR-W2V, which are WORD2VEC embeddings for the financial domain. We employ these embeddings in a battery of financial NLP tasks and showcase their superiority over generic GloVe embeddings and other existing financial word embeddings. We also open-source EDGAR-CRAWLER, a toolkit that facilitates downloading and extracting future annual reports.
+Author{1}{Firstname}#=%=#Lefteris
+Author{1}{Lastname}#=%=#Loukas
+Author{1}{Username}#=%=#eloukas-iit
+Author{1}{Email}#=%=#eloukas@iit.demokritos.gr
+Author{1}{Affiliation}#=%=#Institute of Informatics & Telecommunications, NCSR "Demokritos" // Athens University of Economics and Business
+Author{2}{Firstname}#=%=#Manos
+Author{2}{Lastname}#=%=#Fergadiotis
+Author{2}{Username}#=%=#fergadiotis
+Author{2}{Email}#=%=#fergadiotis@aueb.gr
+Author{2}{Affiliation}#=%=#Athens University of Economics and Business
+Author{3}{Firstname}#=%=#Ion
+Author{3}{Lastname}#=%=#Androutsopoulos
+Author{3}{Username}#=%=#ionandr
+Author{3}{Email}#=%=#IONANDR@GMAIL.COM
+Author{3}{Affiliation}#=%=#Athens University of Economics and Business
+Author{4}{Firstname}#=%=#Prodromos
+Author{4}{Lastname}#=%=#Malakasiotis
+Author{4}{Username}#=%=#rulller
+Author{4}{Email}#=%=#rulller@gmail.com
+Author{4}{Affiliation}#=%=#Institute of Informatics & Telecommunications, NCSR "Demokritos", Athens University of Economics and Business Informatics Department
+
+==========

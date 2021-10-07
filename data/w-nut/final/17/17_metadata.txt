@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Perceived and Intended Sarcasm Detection with Graph Attention Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Joan Plepi
+JobTitle#==#
+Organization#==#
+Abstract#==#Existing sarcasm detection systems focus on exploiting linguistic markers, context, or user-level priors. However, social studies suggest that the relationship between the author and the audience can be equally relevant for the sarcasm usage and interpretation. In this work, we propose a framework jointly leveraging (1) a user context from their historical tweets together with (2) the social information from a user's conversational neighborhood in an interaction graph, to contextualize the interpretation of the post. We use graph attention networks (GAT) over users and tweets in a conversation thread, combined with dense user history representations. Apart from achieving state-of-the-art results on the recently published dataset of 19k Twitter users with 30K labeled tweets, adding 10M unlabeled tweets as context, our results indicate that the model contributes to interpreting the sarcastic intentions of an author more than to predicting the sarcasm perception by others.
+Author{1}{Firstname}#=%=#Joan
+Author{1}{Lastname}#=%=#Plepi
+Author{1}{Username}#=%=#jplepi
+Author{1}{Email}#=%=#joanplepi@gmail.com
+Author{1}{Affiliation}#=%=#CAISA Lab, Faculty of Mathematics and Informatics, Philipps University of Marburg
+Author{2}{Firstname}#=%=#Lucie
+Author{2}{Lastname}#=%=#Flek
+Author{2}{Username}#=%=#flekova
+Author{2}{Email}#=%=#lucie.flek@uni-marburg.de
+Author{2}{Affiliation}#=%=#CAISA Lab, Faculty of Mathematics and Informatics, Philipps University of Marburg
+
+==========

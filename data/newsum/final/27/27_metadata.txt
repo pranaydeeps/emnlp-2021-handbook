@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#TLDR9+: A Large Scale Resource for Extreme Summarization of Social Media Posts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sajad Sotudeh
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent models in developing summarization systems consist of millions of parameters and the model performance is highly dependent on the abundance of training data. While most existing summarization corpora contain data in the order of thousands to one million, generation of large-scale summarization datasets in order of couple of millions is yet to be explored. Practically, more data is better at generalizing the training patterns to unseen data. In this paper, we introduce TLDR9+ --a large-scale summarization dataset-- containing over 9 million training instances extracted from Reddit discussion forum ([HTTP]). This dataset is specifically gathered to perform \textit{extreme} summarization (i.e., generating one-sentence summary in high compression and abstraction) and is more than twice larger than the previously proposed dataset. We go one step further and with the help of human annotations, we distill a more fine-grained dataset by sampling High-Quality instances from TLDR9+ and call it TLDRHQ dataset. We further pinpoint different state-of-the-art summarization models on our proposed datasets.
+Author{1}{Firstname}#=%=#Sajad
+Author{1}{Lastname}#=%=#Sotudeh
+Author{1}{Username}#=%=#sajastu
+Author{1}{Email}#=%=#sajad@ir.cs.georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Hanieh
+Author{2}{Lastname}#=%=#Deilamsalehy
+Author{2}{Email}#=%=#deilamsa@adobe.com
+Author{2}{Affiliation}#=%=#Adobe Research
+Author{3}{Firstname}#=%=#Franck
+Author{3}{Lastname}#=%=#Dernoncourt
+Author{3}{Username}#=%=#franck.dernoncourt
+Author{3}{Email}#=%=#franck.dernoncourt@adobe.com
+Author{3}{Affiliation}#=%=#Adobe Research
+Author{4}{Firstname}#=%=#Nazli
+Author{4}{Lastname}#=%=#Goharian
+Author{4}{Username}#=%=#nazli
+Author{4}{Email}#=%=#nazli@ir.cs.georgetown.edu
+Author{4}{Affiliation}#=%=#Georgetown University
+
+==========

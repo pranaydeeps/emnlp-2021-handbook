@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Verdict Inference with Claim and Retrieved Elements Using RoBERTa
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#In-Zu Gi
+JobTitle#==#
+Organization#==#
+Abstract#==#Automatic fact verification has attracted recent research attention as the increasing dissemination of disinformation on social media platforms. The FEVEROUS shared task introduces a benchmark for fact verification, in which a system is challenged to verify the given claim using the extracted evidential elements from Wikipedia documents. In this paper, we propose our 3rd place three-stage system consisting of document retrieval, element retrieval, and verdict inference for the FEVEROUS shared task. By considering the context relevance in the fact extraction and verification task, our system achieves 0.29 FEVEROUS score on the development set and 0.25 FEVEROUS score on the blind test set, both outperforming the FEVEROUS baseline.
+Author{1}{Firstname}#=%=#In-Zu
+Author{1}{Lastname}#=%=#Gi
+Author{1}{Username}#=%=#ginaaunchat
+Author{1}{Email}#=%=#inzugi0910@g.ncu.edu.tw
+Author{1}{Affiliation}#=%=#Intelligent Information Service Research Lab, Department of Computer Science and Information Engineering, National Central University, Taiwan
+Author{2}{Firstname}#=%=#Ting-Yu
+Author{2}{Lastname}#=%=#Fang
+Author{2}{Email}#=%=#maple3142@g.ncu.edu.tw
+Author{2}{Affiliation}#=%=#Intelligent Information Service Research Lab, Department of Computer Science and Information Engineering, National Central University, Taiwan
+Author{3}{Firstname}#=%=#Richard Tzong-Han
+Author{3}{Lastname}#=%=#Tsai
+Author{3}{Email}#=%=#thtsai@g.ncu.edu.tw
+Author{3}{Affiliation}#=%=#Center for GIS, Research Center for Humanities and Social Sciences, Academia Sinica, Taiwan
+
+==========

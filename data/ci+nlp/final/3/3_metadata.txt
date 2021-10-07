@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Causal Augmentation for Causal Sentence Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Fiona Anting Tan
+JobTitle#==#
+Organization#==#Institute of Data Science, National University of Singapore
+3 Research Link, #04-06, Singapore 117602
+Abstract#==#Scarcity of annotated causal texts leads to poor robustness when training state-of-the-art language models for causal sentence classification. In particular, we found that models misclassify on augmented sentences that have been negated or strengthened with respect to its causal meaning. This is worrying since minor linguistic differences in causal sentences can have disparate meanings. Therefore, we propose the generation of counterfactual causal sentences by creating contrast sets (Gardner et al., 2020) to be included during model training. We experimented on two model architectures and predicted on two out-of-domain corpora. While our strengthening schemes proved useful in improving model performance, for negation, regular edits were insufficient. Thus, we also introduce heuristics like shortening or multiplying root words of a sentence. By including a mixture of edits when training, we achieved performance improvements beyond the baseline across both models, and within and out of corpus' domain, suggesting that our proposed augmentation can also help models generalize.
+Author{1}{Firstname}#=%=#Fiona Anting
+Author{1}{Lastname}#=%=#Tan
+Author{1}{Username}#=%=#tanfiona
+Author{1}{Email}#=%=#tan.f@u.nus.edu
+Author{1}{Affiliation}#=%=#Institute of Data Science, National University of Singapore
+Author{2}{Firstname}#=%=#Devamanyu
+Author{2}{Lastname}#=%=#Hazarika
+Author{2}{Username}#=%=#devamanyu
+Author{2}{Email}#=%=#hazarika@comp.nus.edu.sg
+Author{2}{Affiliation}#=%=#National University of Singapore
+Author{3}{Firstname}#=%=#See-Kiong
+Author{3}{Lastname}#=%=#Ng
+Author{3}{Username}#=%=#seekiong
+Author{3}{Email}#=%=#seekiong@nus.edu.sg
+Author{3}{Affiliation}#=%=#National University of Singapore
+Author{4}{Firstname}#=%=#Soujanya
+Author{4}{Lastname}#=%=#Poria
+Author{4}{Username}#=%=#soujanyaporia
+Author{4}{Email}#=%=#soujanya.poria@gmail.com
+Author{4}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{5}{Firstname}#=%=#Roger
+Author{5}{Lastname}#=%=#Zimmermann
+Author{5}{Username}#=%=#regorz00
+Author{5}{Email}#=%=#rogerz@comp.nus.edu.sg
+Author{5}{Affiliation}#=%=#National University of Singapore
+
+==========

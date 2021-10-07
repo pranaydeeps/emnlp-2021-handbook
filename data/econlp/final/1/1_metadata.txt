@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Extracting Economic Signals from Central Bank Speeches
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#22
+CopyrightSigned#=%=#Maximilian Ahrens
+JobTitle#==#
+Organization#==#University of Oxford,
+Eagle House
+25 Walton Well Rd
+Oxford OX2 6ED
+Abstract#==#Estimating the effects of monetary policy is one of the fundamental research questions in monetary economics. Many economies are facing ultra-low interest rate environments ever since the global financial crisis of 2007-9. The Covid pandemic recently reinforced this situation. In the US and Europe, interest rates are close to (or even below) zero, which limits the scope of traditional monetary policy measures for central banks. Dedicated central bank communication has hence become an increasingly important tool to steer and control market expectations these days. However, incorporating central bank language directly as features into economic models is still a very nascent research area. In particular, the content and effect of central bank speeches has been mostly neglected from monetary policy modelling so far.
+With our paper, we aim to provide to the research community a novel, monetary policy shock series based on central bank speeches. We use a supervised topic modeling approach that can deal with text as well as numeric covariates to estimate a monetary policy signal dispersion index along three key economic dimensions: GDP, CPI and unemployment. This "dispersion shock" series is not only more frequent than series that classically focus on policy announcement dates, it also opens up the possibility of answering new questions that have up until now been difficult to analyse. For example, do markets form different expectations when facing a "cacophony of policy voices"? Our initial findings for the US point towards the fact that more dispersed or incongruent monetary policy stance communication in the build up to Federal Open Market Committee (FOMC) meetings might be associated with stronger subsequent market surprises at FOMC policy announcement time.
+Author{1}{Firstname}#=%=#Maximilian
+Author{1}{Lastname}#=%=#Ahrens
+Author{1}{Username}#=%=#maximilianahrens
+Author{1}{Email}#=%=#maximilian.ahrens@eng.ox.ac.uk
+Author{1}{Affiliation}#=%=#Oxford University
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#McMahon
+Author{2}{Email}#=%=#michael.mcmahon@economics.ox.ac.uk
+Author{2}{Affiliation}#=%=#Oxford University
+
+==========

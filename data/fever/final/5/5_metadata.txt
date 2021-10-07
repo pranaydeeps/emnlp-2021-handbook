@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Team Papelo at FEVEROUS: Multi-hop Evidence Pursuit
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Christopher Malon
+JobTitle#==#
+Organization#==#NEC Laboratories America
+4 Independence Way
+Princeton, NJ 08540
+USA
+Abstract#==#We develop a system for the FEVEROUS fact extraction and verification task that ranks an initial set of potential evidence and then pursues missing evidence in subsequent hops by trying to generate it, with a "next hop prediction module" whose output is matched against page elements in a predicted article.  Seeking evidence with the next hop prediction module continues to improve FEVEROUS score for up to seven hops.  Label classification is trained on possibly incomplete extracted evidence chains, utilizing hints that facilitate numerical comparison.  The system achieves .281 FEVEROUS score and .658 label accuracy on the development set, and finishes in second place with .259 FEVEROUS score and .576 label accuracy on the test set.
+Author{1}{Firstname}#=%=#Christopher
+Author{1}{Lastname}#=%=#Malon
+Author{1}{Username}#=%=#malon
+Author{1}{Email}#=%=#malon@nec-labs.com
+Author{1}{Affiliation}#=%=#NEC Laboratories America
+
+==========

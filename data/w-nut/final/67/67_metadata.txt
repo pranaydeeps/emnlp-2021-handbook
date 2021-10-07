@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#67
+FinalPaperTitle#=%=#"Something Something Hota Hai!" An Explainable Approach towards Sentiment Analysis on Indian Code-Mixed Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Aman Priyanshu
+JobTitle#==#
+Organization#==#Manipal Institute of Technology, Manipal Academy of Higher Education,
+Udupi - Karkala Rd, Eshwar Nagar, Manipal, Karnataka - 576104, India
+Abstract#==#The increasing use of social media sites in countries like India has given rise to large volumes of code-mixed data. Sentiment analysis of this data can provide integral insights into people's perspectives and opinions. Code-mixed data is often noisy in nature due to multiple spellings for the same word, lack of definite order of words in a sentence, and random abbreviations. Thus, working with code-mixed data is more challenging than monolingual data. Interpreting a model's predictions allows us to determine the robustness of the model against different forms of noise.  In this paper, we propose a methodology to integrate explainable approaches into code-mixed sentiment analysis. By interpreting the predictions of sentiment analysis models we evaluate how well the model is able to adapt to the implicit noises present in code-mixed data.
+Author{1}{Firstname}#=%=#Aman
+Author{1}{Lastname}#=%=#Priyanshu
+Author{1}{Username}#=%=#amanpriyanshu
+Author{1}{Email}#=%=#amanpriyanshusms2001@gmail.com
+Author{1}{Affiliation}#=%=#Manipal Institute of Technology
+Author{2}{Firstname}#=%=#Aleti
+Author{2}{Lastname}#=%=#Vardhan
+Author{2}{Username}#=%=#vardhanaleti
+Author{2}{Email}#=%=#vardhanaleti2001@gmail.com
+Author{2}{Affiliation}#=%=#Manipal Institute of Technology
+Author{3}{Firstname}#=%=#Sudarshan
+Author{3}{Lastname}#=%=#Sivakumar
+Author{3}{Username}#=%=#sudarshan2001
+Author{3}{Email}#=%=#sudarshansivakumar@gmail.com
+Author{3}{Affiliation}#=%=#Manipal Institute of Technology
+Author{4}{Firstname}#=%=#Supriti
+Author{4}{Lastname}#=%=#Vijay
+Author{4}{Username}#=%=#supritivijay
+Author{4}{Email}#=%=#supriti.vijay@gmail.com
+Author{4}{Affiliation}#=%=#Manipal Institute Of Technology
+Author{5}{Firstname}#=%=#Nipuna
+Author{5}{Lastname}#=%=#Chhabra
+Author{5}{Username}#=%=#nipunachhabra
+Author{5}{Email}#=%=#nipuna.chhabra@learner.manipal.edu
+Author{5}{Affiliation}#=%=#Manipal Institute of Tecnology
+
+==========

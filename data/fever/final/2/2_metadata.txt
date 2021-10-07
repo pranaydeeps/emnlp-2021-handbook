@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Evidence Selection as a Token-Level Prediction Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Dominik Stammbach
+JobTitle#==#
+Organization#==#Center for Law & Economics
+IFW D 31.1
+Haldeneggsteig 4 
+8092 Zürich
+Abstract#==#In Automated Claim Verification, we retrieve evidence from a knowledge base to determine the veracity of a claim. Intuitively, the retrieval of the correct evidence plays a crucial role in this process. Often, evidence selection is tackled as a pairwise sentence classification task, i.e., we train a model to predict for each sentence individually whether it is evidence for a claim. In this work, we fine-tune document level transformers to extract all evidence from a Wikipedia document at once. We show that this approach performs better than a comparable model classifying sentences individually on all relevant evidence selection metrics in FEVER. Our complete pipeline building on this evidence selection procedure produces a new state-of-the-art result on FEVER, a popular claim verification benchmark.
+Author{1}{Firstname}#=%=#Dominik
+Author{1}{Lastname}#=%=#Stammbach
+Author{1}{Username}#=%=#dominiks
+Author{1}{Email}#=%=#dominik.stammbach@bluewin.ch
+Author{1}{Affiliation}#=%=#ETH Zürich
+
+==========

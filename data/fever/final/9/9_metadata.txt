@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#FaBULOUS: Fact-checking Based on Understanding of Language Over Unstructured and Structured information
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Legal
+JobTitle#==#Legal Attorney
+Organization#==#Buster.Ai - 47, Boulevard de Courcelles, 75008 PARIS
+Abstract#==#As part of the FEVEROUS shared task, we developed a robust and finely tuned architecture to handle the joint retrieval and entailment on text data as well as structured data like tables. We proposed two training schemes to tackle the hurdles inherent to multi-hop multi-modal datasets. The first one allows having a robust retrieval of full evidence sets, while the second one enables entailment to take full advantage of noisy evidence inputs. In addition, our work has revealed important insights and potential avenue of research for future improvement on this kind of dataset. In preliminary evaluation on the FEVEROUS shared task test set, our system achieves 0.271 FEVEROUS score, with 0.4258 evidence recall and 0.5607 entailment accuracy.
+Author{1}{Firstname}#=%=#Mostafa
+Author{1}{Lastname}#=%=#BOUZIANE
+Author{1}{Username}#=%=#mostafa_b
+Author{1}{Email}#=%=#mostafa@buster.ai
+Author{1}{Affiliation}#=%=#Buster.Ai
+Author{2}{Firstname}#=%=#Hugo
+Author{2}{Lastname}#=%=#Perrin
+Author{2}{Username}#=%=#hugop
+Author{2}{Email}#=%=#hugo@buster.ai
+Author{2}{Affiliation}#=%=#Buster.ai
+Author{3}{Firstname}#=%=#Amine
+Author{3}{Lastname}#=%=#Sadeq
+Author{3}{Email}#=%=#amine@buster.ai
+Author{3}{Affiliation}#=%=#Buster.Ai
+Author{4}{Firstname}#=%=#Thanh
+Author{4}{Lastname}#=%=#Nguyen
+Author{4}{Email}#=%=#thanh@buster.ai
+Author{4}{Affiliation}#=%=#Buster.Ai
+Author{5}{Firstname}#=%=#Aurélien
+Author{5}{Lastname}#=%=#Cluzeau
+Author{5}{Email}#=%=#aurelien@buster.ai
+Author{5}{Affiliation}#=%=#Buster.Ai
+Author{6}{Firstname}#=%=#Julien
+Author{6}{Lastname}#=%=#Mardas
+Author{6}{Email}#=%=#julien@buster.ai
+Author{6}{Affiliation}#=%=#Buster.Ai
+
+==========

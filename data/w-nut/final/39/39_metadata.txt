@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#NADE: A Benchmark for Robust Adverse Drug Events Extraction in Face of Negations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Beatrice Portelli
+JobTitle#==#
+Organization#==#University of Udine - Department of Mathematics, Computer Science and Physics, via delle Scienze 206, Udine (UD) - Italy
+Abstract#==#Adverse Drug Event (ADE) extraction models can rapidly examine large collections of social media texts, detecting mentions of drug-related adverse reactions and trigger medical investigations.
+However, despite the recent advances in NLP, it is currently unknown if such models are robust in face of negation, which is pervasive across language varieties.
+
+In this paper we evaluate three state-of-the-art systems,
+showing their fragility against negation, and then we introduce two possible strategies to increase the robustness of these models: a pipeline approach, relying on a specific component for negation detection; an augmentation of an ADE extraction dataset to  artificially create negated samples and further train the models.
+
+We show that both strategies bring significant increases in performance, lowering the number of spurious entities predicted by the models.
+Our dataset and code will be publicly released to encourage research on the topic.
+Author{1}{Firstname}#=%=#Simone
+Author{1}{Lastname}#=%=#Scaboro
+Author{1}{Username}#=%=#simonescaboro
+Author{1}{Email}#=%=#scaboro.simone@gmail.com
+Author{1}{Affiliation}#=%=#University of Udine
+Author{2}{Firstname}#=%=#Beatrice
+Author{2}{Lastname}#=%=#Portelli
+Author{2}{Username}#=%=#bportelli
+Author{2}{Email}#=%=#portelli.beatrice@gmail.com
+Author{2}{Affiliation}#=%=#University of Udine
+Author{3}{Firstname}#=%=#Emmanuele
+Author{3}{Lastname}#=%=#Chersoni
+Author{3}{Username}#=%=#manuandoscar
+Author{3}{Email}#=%=#emmanuelechersoni@gmail.com
+Author{3}{Affiliation}#=%=#Hong Kong Polytechnic University
+Author{4}{Firstname}#=%=#Enrico
+Author{4}{Lastname}#=%=#Santus
+Author{4}{Username}#=%=#esantus
+Author{4}{Email}#=%=#enrico.santus@bayer.com
+Author{4}{Affiliation}#=%=#Bayer
+Author{5}{Firstname}#=%=#Giuseppe
+Author{5}{Lastname}#=%=#Serra
+Author{5}{Username}#=%=#giuseppe.serra
+Author{5}{Email}#=%=#giuseppe.serra@uniud.it
+Author{5}{Affiliation}#=%=#University of Udine
+
+==========

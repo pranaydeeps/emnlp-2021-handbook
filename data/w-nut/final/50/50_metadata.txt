@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#50
+FinalPaperTitle#=%=#Detecting Cross-Geographic Biases in Toxicity Modeling on Social Media
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Sayan Ghosh
+JobTitle#==#
+Organization#==#
+Abstract#==#Online social media platforms increasingly rely on Natural Language Processing (NLP) techniques to detect abusive content at scale in order to mitigate the harms it causes to their users. However, these techniques suffer from various sampling and association biases present in training data, often resulting in sub-par performance on content relevant to marginalized groups, potentially furthering disproportionate harms towards them. Studies on such biases so far have focused on only a handful of axes of disparities and subgroups that have annotations/lexicons available. Consequently, biases concerning non-Western contexts are largely ignored in the literature. In this paper, we introduce a weakly supervised method to robustly detect lexical biases in broader geo-cultural contexts. Through a case study on a publicly available toxicity detection model, we demonstrate that our method identifies salient groups of cross-geographic errors, and, in a follow up, demonstrate that these groupings reflect human judgments of offensive and inoffensive language in those geographic contexts. We also conduct analysis of a model trained on a dataset with ground truth labels to better understand these biases, and present preliminary mitigation experiments.
+Author{1}{Firstname}#=%=#Sayan
+Author{1}{Lastname}#=%=#Ghosh
+Author{1}{Username}#=%=#sayghosh
+Author{1}{Email}#=%=#sayghosh@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Dylan
+Author{2}{Lastname}#=%=#Baker
+Author{2}{Email}#=%=#dylanbaker@google.com
+Author{2}{Affiliation}#=%=#Google Researach
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Jurgens
+Author{3}{Username}#=%=#davidjurgens
+Author{3}{Email}#=%=#jurgens@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+Author{4}{Firstname}#=%=#Vinodkumar
+Author{4}{Lastname}#=%=#Prabhakaran
+Author{4}{Username}#=%=#vinodkpg
+Author{4}{Email}#=%=#vinodkpg@google.com
+Author{4}{Affiliation}#=%=#Google
+
+==========

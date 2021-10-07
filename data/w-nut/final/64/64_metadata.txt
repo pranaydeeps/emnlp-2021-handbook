@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#64
+FinalPaperTitle#=%=#Character Transformations for Non-Autoregressive GEC Tagging
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Milan Straka
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a character-based non-autoregressive GEC approach, with automatically generated character transformations. Recently, per-word classification of correction edits has proven an efficient, parallelizable alternative to current encoder-decoder GEC systems. We show that word replacement edits may be suboptimal and lead to explosion of rules for spelling, diacritization and errors in morphologically rich languages, and propose a method for generating character transformations from GEC corpus. Finally, we train character transformation models for Czech, German and Russian, reaching solid results and dramatic speedup compared to autoregressive systems. The source code is released at https://github.com/ufal/wnut2021_character_transformations_gec.
+Author{1}{Firstname}#=%=#Milan
+Author{1}{Lastname}#=%=#Straka
+Author{1}{Username}#=%=#straka.milan
+Author{1}{Email}#=%=#straka@ufal.mff.cuni.cz
+Author{1}{Affiliation}#=%=#Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics
+Author{2}{Firstname}#=%=#Jakub
+Author{2}{Lastname}#=%=#Náplava
+Author{2}{Username}#=%=#naplava
+Author{2}{Email}#=%=#naplava@ufal.mff.cuni.cz
+Author{2}{Affiliation}#=%=#Charles University,  Institute of Formal and Applied Linguistics
+Author{3}{Firstname}#=%=#Jana
+Author{3}{Lastname}#=%=#Straková
+Author{3}{Username}#=%=#strakova
+Author{3}{Email}#=%=#strakova@ufal.mff.cuni.cz
+Author{3}{Affiliation}#=%=#Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics
+
+==========

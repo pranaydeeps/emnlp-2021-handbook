@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#48
+FinalPaperTitle#=%=#Knowledge Distillation with Noisy Labels for Natural Language Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Abbas Ghaddar
+JobTitle#==#
+Organization#==#Huawei Noah's Ark Lab, Montreal Research Center, Canada
+
+7101 Park Ave
+Montreal, QC H3N 1X9
+Canada
+Abstract#==#Knowledge Distillation (KD) is extensively used to compress and deploy large pre-trained language models on edge devices for real-world applications. However, one neglected area of research is the impact of noisy (corrupted) labels on KD. We present, to the best of our knowledge, the first study on KD with noisy labels in Natural Language Understanding (NLU). We document the scope of the problem and present two methods to mitigate the impact of label noise. Experiments on the GLUE benchmark show that our methods are effective even under high noise levels. Nevertheless, our results indicate that more research is necessary to cope with label noise under the KD.
+Author{1}{Firstname}#=%=#Shivendra
+Author{1}{Lastname}#=%=#Bhardwaj
+Author{1}{Username}#=%=#bhardwajs
+Author{1}{Email}#=%=#shivendra.bhardwaj@gmail.com
+Author{1}{Affiliation}#=%=#University of Montreal
+Author{2}{Firstname}#=%=#Abbas
+Author{2}{Lastname}#=%=#Ghaddar
+Author{2}{Username}#=%=#ghaddara
+Author{2}{Email}#=%=#abbas.ghaddar@huawei.com
+Author{2}{Affiliation}#=%=#Huawei Noah's Ark Lab, Montreal Research Center
+Author{3}{Firstname}#=%=#Ahmad
+Author{3}{Lastname}#=%=#Rashid
+Author{3}{Username}#=%=#ahmadrashid
+Author{3}{Email}#=%=#ahmad.rashid@huawei.com
+Author{3}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{4}{Firstname}#=%=#Khalil
+Author{4}{Lastname}#=%=#Bibi
+Author{4}{Username}#=%=#khalilbibi
+Author{4}{Email}#=%=#khalil.bibi@gmail.com
+Author{4}{Affiliation}#=%=#Huawei
+Author{5}{Firstname}#=%=#Chengyang
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#edwardli9908
+Author{5}{Email}#=%=#c455li@uwaterloo.ca
+Author{5}{Affiliation}#=%=#University of Waterloo
+Author{6}{Firstname}#=%=#Ali
+Author{6}{Lastname}#=%=#Ghodsi
+Author{6}{Username}#=%=#aghodsib
+Author{6}{Email}#=%=#ali.ghodsi@uwaterloo.ca
+Author{6}{Affiliation}#=%=#University of Waterloo
+Author{7}{Firstname}#=%=#Phillippe
+Author{7}{Lastname}#=%=#Langlais
+Author{7}{Username}#=%=#felipe
+Author{7}{Email}#=%=#felipe@iro.umontreal.ca
+Author{7}{Affiliation}#=%=#Université de Montréal
+Author{8}{Firstname}#=%=#Mehdi
+Author{8}{Lastname}#=%=#Rezagholizadeh
+Author{8}{Username}#=%=#mrgzadeh
+Author{8}{Email}#=%=#mehdi.rezagholizadeh@gmail.com
+Author{8}{Affiliation}#=%=#Noah's Ark Lab Huawei
+
+==========

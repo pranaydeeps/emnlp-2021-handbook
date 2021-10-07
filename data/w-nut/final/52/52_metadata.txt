@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#52
+FinalPaperTitle#=%=#Robustness and Sensitivity of BERT Models Predicting Alzheimer's Disease from Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jekaterina Novikova
+JobTitle#==#
+Organization#==#
+Abstract#==#Understanding robustness and sensitivity of BERT models predicting Alzheimer's disease from text is important for both developing better classification models and for understanding their capabilities and limitations. In this paper, we analyze how a controlled amount of desired and undesired text alterations impacts performance of BERT. We show that BERT is robust to natural linguistic variations in text. On the other hand, we show that BERT is not sensitive to removing clinically important information from text.
+Author{1}{Firstname}#=%=#Jekaterina
+Author{1}{Lastname}#=%=#Novikova
+Author{1}{Username}#=%=#jek_nov
+Author{1}{Email}#=%=#novikova.jekaterina@gmail.com
+Author{1}{Affiliation}#=%=#Winterlight Labs
+
+==========

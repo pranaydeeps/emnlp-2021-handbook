@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Comparing Grammatical Theories of Code-Mixing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Adithya Pratapa
+JobTitle#==#
+Organization#==#
+Abstract#==#Code-mixed text generation systems have found applications in many downstream tasks, including speech recognition, translation and dialogue. A paradigm of these generation systems relies on well-defined grammatical theories of code-mixing, and there is a lack of comparison of these theories. We present a large-scale human evaluation of two popular grammatical theories, Matrix-Embedded Language (ML) and Equivalence Constraint (EC). We compare them against three heuristic-based models and quantitatively demonstrate the effectiveness of the two grammatical theories.
+Author{1}{Firstname}#=%=#Adithya
+Author{1}{Lastname}#=%=#Pratapa
+Author{1}{Username}#=%=#adithyapratapa
+Author{1}{Email}#=%=#adithyapratapa@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Monojit
+Author{2}{Lastname}#=%=#Choudhury
+Author{2}{Username}#=%=#monojit
+Author{2}{Email}#=%=#monojitc@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+
+==========

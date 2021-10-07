@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#34
+FinalPaperTitle#=%=#Blindness to Modality Helps Entailment Graph Mining
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Liane Guillou
+JobTitle#==#
+Organization#==#School of Informatics, University of Edinburgh
+Informatics Forum
+10 Crichton Street
+Edinburgh
+EH8 9AB
+UK
+Abstract#==#Understanding linguistic modality is widely seen as important for downstream tasks such as Question Answering and Knowledge Graph Population. Entailment Graph learning might also be expected to benefit from attention to modality. We build Entailment Graphs using a news corpus filtered with a modality parser, and show that stripping modal modifiers from predicates in fact increases performance. This suggests that for some tasks, the pragmatics of modal modification of predicates allows them to contribute as evidence of entailment.
+Author{1}{Firstname}#=%=#Liane
+Author{1}{Lastname}#=%=#Guillou
+Author{1}{Username}#=%=#s1052008
+Author{1}{Email}#=%=#lguillou@inf.ed.ac.uk
+Author{1}{Affiliation}#=%=#The University of Edinburgh
+Author{2}{Firstname}#=%=#Sander
+Author{2}{Lastname}#=%=#Bijl de Vroe
+Author{2}{Username}#=%=#sanderbdv
+Author{2}{Email}#=%=#sander.bijldevroe@gmail.com
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Johnson
+Author{3}{Username}#=%=#mark.johnson
+Author{3}{Email}#=%=#Mark.Johnson@MQ.edu.au
+Author{3}{Affiliation}#=%=#Oracle Corporation
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Steedman
+Author{4}{Username}#=%=#steedman
+Author{4}{Email}#=%=#steedman@inf.ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+
+==========

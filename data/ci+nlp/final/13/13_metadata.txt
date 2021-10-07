@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#A Survey of Online Hate Speech through the Causal Lens
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Antigoni Founta
+JobTitle#==#
+Organization#==#Imperial College, London, United Kingdom
+Abstract#==#The societal issue of digital hostility has previously attracted a lot of attention. The topic counts an ample body of literature, yet remains prominent and challenging as ever due to its subjective nature. We posit that a better understanding of this problem will require the use of causal inference frameworks. This survey summarises the relevant research that revolves around estimations of causal effects related to online hate speech. Initially, we provide an argumentation as to why re-establishing the exploration of hate speech in causal terms is of the essence. Following that, we give an overview of the leading studies classified with respect to the direction of their outcomes, as well as an outline of all related research, and a summary of open research problems that can influence future work on the topic.
+Author{1}{Firstname}#=%=#Antigoni
+Author{1}{Lastname}#=%=#Founta
+Author{1}{Username}#=%=#amfounta
+Author{1}{Email}#=%=#a.founta20@imperial.ac.uk
+Author{1}{Affiliation}#=%=#Imperial College
+Author{2}{Firstname}#=%=#Lucia
+Author{2}{Lastname}#=%=#Specia
+Author{2}{Username}#=%=#l.specia
+Author{2}{Email}#=%=#l.specia@imperial.ac.uk
+Author{2}{Affiliation}#=%=#Imperial College London
+
+==========

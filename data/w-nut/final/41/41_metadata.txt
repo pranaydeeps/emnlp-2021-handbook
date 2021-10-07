@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#A Novel Framework for Detecting Important Subevents from Crisis Events via Dynamic Semantic Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Evangelia Spiliopoulou
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Social media is an essential tool to share information about crisis events, such as natural disasters. Event Detection aims at extracting information in the form of an event, but considers each event in isolation, without combining information across sentences or events. Many posts in Crisis NLP contain repetitive or complementary information which needs to be aggregated (e.g., the number of trapped people and their location) for disaster response. Although previous approaches in Crisis NLP aggregate information across posts, they only use shallow representations of the content (e.g., keywords), which cannot adequately represent the semantics of a crisis event and its sub-events. In this work, we propose a novel framework to extract critical sub-events from a large-scale crisis event by combining important information across relevant tweets. Our framework first converts all the tweets from a crisis event into a temporally-ordered set of graphs. Then it extracts sub-graphs that represent semantic relationships connecting verbs and nouns in 3 to 6 node sub-graphs. It does this by learning edge weights via Dynamic Graph Convolutional Networks (DGCNs) and extracting smaller, relevant sub-graphs. Our experiments show that our extracted structures (1) are semantically meaningful sub-events and (2) contain information important for the large crisis-event. Furthermore, we show that our approach significantly outperforms event detection baselines, highlighting the importance of aggregating information across tweets for our task.
+Author{1}{Firstname}#=%=#Evangelia
+Author{1}{Lastname}#=%=#Spiliopoulou
+Author{1}{Username}#=%=#espiliop
+Author{1}{Email}#=%=#espiliop@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Tanay Kumar
+Author{2}{Lastname}#=%=#Saha
+Author{2}{Username}#=%=#tksaha
+Author{2}{Email}#=%=#tsaha@dataminr.com
+Author{2}{Affiliation}#=%=#Dataminr
+Author{3}{Firstname}#=%=#Joel
+Author{3}{Lastname}#=%=#Tetreault
+Author{3}{Username}#=%=#tetreaul
+Author{3}{Email}#=%=#tetreaul@gmail.com
+Author{3}{Affiliation}#=%=#Dataminr
+Author{4}{Firstname}#=%=#Alejandro
+Author{4}{Lastname}#=%=#Jaimes
+Author{4}{Username}#=%=#ajaimes
+Author{4}{Email}#=%=#aj27@caa.columbia.edu
+Author{4}{Affiliation}#=%=#Dataminr
+
+==========

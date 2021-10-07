@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#A Fact Checking and Verification System for FEVEROUS Using a Zero-Shot Learning Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Orkun Temiz
+JobTitle#==#
+Organization#==#Middle East Technical University
+Abstract#==#In this paper, we propose a novel fact checking and verification system to check claims against Wikipedia content. Our system retrieves relevant Wikipedia pages using Anserini, uses BERT-large-cased question answering model to select correct evidence, and verifies claims using XLNET natural language inference model by comparing it with the evidence. Table cell evidence is obtained through looking for entity-matching cell values and TAPAS table question answering model. The pipeline
+utilizes zero-shot capabilities of existing models and all the models used in the pipeline requires no additional training. Our system got a FEVEROUS score of 0.06 and a label accuracy of 0.39 in FEVEROUS challenge.
+Author{1}{Firstname}#=%=#Orkun
+Author{1}{Lastname}#=%=#Temiz
+Author{1}{Username}#=%=#orkuntemiz
+Author{1}{Email}#=%=#orkuntemiz94@gmail.com
+Author{1}{Affiliation}#=%=#Middle East Technical University
+Author{2}{Firstname}#=%=#Özgün Ozan
+Author{2}{Lastname}#=%=#Kılıç
+Author{2}{Email}#=%=#ozank@metu.edu.tr
+Author{2}{Affiliation}#=%=#Middle East Technical University
+Author{3}{Firstname}#=%=#Arif Ozan
+Author{3}{Lastname}#=%=#Kızıldağ
+Author{3}{Email}#=%=#arifozan@metu.edu.tr
+Author{3}{Affiliation}#=%=#Middle East Technical University
+Author{4}{Firstname}#=%=#Tuğba
+Author{4}{Lastname}#=%=#Taşkaya Temizel
+Author{4}{Email}#=%=#ttemizel@metu.edu.tr
+Author{4}{Affiliation}#=%=#Middle East Technical University
+
+==========

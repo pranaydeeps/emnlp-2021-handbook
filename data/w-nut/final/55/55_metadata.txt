@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#55
+FinalPaperTitle#=%=#CIDEr-R: Robust Consensus-based Image Description Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#GABRIEL OLIVEIRA DOS SANTOS
+JobTitle#==#
+Organization#==#Institute of Computing, University of Campinas, Brazil
+Abstract#==#This paper shows that CIDEr-D, a traditional evaluation metric for image description, does not work properly on datasets where the number of words in the sentence is significantly greater than those in the MS COCO Captions dataset. We also show that CIDEr-D has performance hampered by the lack of multiple reference sentences and high variance of sentence length. To bypass this problem, we introduce CIDEr-R, which improves CIDEr-D, making it more flexible in dealing with datasets with high sentence length variance. We demonstrate that CIDEr-R is more accurate and closer to human judgment than CIDEr-D; CIDEr-R is more robust regarding the number of available references. 
+Our results reveal that using Self-Critical Sequence Training to optimize CIDEr-R generates descriptive captions. In contrast, when CIDEr-D is optimized, the generated captions' length tends to be similar to the reference length. However, the models also repeat several times the same word to increase the sentence length.
+Author{1}{Firstname}#=%=#Gabriel
+Author{1}{Lastname}#=%=#Oliveira dos Santos
+Author{1}{Username}#=%=#gabrielsantosrv
+Author{1}{Email}#=%=#g197460@dac.unicamp.br
+Author{1}{Affiliation}#=%=#University of Campinas
+Author{2}{Firstname}#=%=#Esther Luna
+Author{2}{Lastname}#=%=#Colombini
+Author{2}{Email}#=%=#esther@ic.unicamp.br
+Author{2}{Affiliation}#=%=#Institute of Computing - University of Campinas
+Author{3}{Firstname}#=%=#Sandra
+Author{3}{Lastname}#=%=#Avila
+Author{3}{Email}#=%=#sandra@ic.unicamp.br
+Author{3}{Affiliation}#=%=#Institute of Computing - University of Campinas
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Description-based Label Attention Classifier for Explainable ICD-9 Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Malte Feucht
+JobTitle#==#
+Organization#==#Technical University Munich, Archisstr. 21, 80333 Munich
+Abstract#==#ICD-9 coding is a relevant clinical billing task, where unstructured texts with information about a patient's diagnosis and treatments are annotated with multiple ICD-9 codes. Automated ICD-9 coding is an active research field, where CNN- and RNN-based model architectures represent the state-of-the-art approaches. In this work, we propose a description-based label attention classifier to improve the model explainability when dealing with noisy texts like clinical notes.
+Author{1}{Firstname}#=%=#Malte
+Author{1}{Lastname}#=%=#Feucht
+Author{1}{Username}#=%=#maltefeucht
+Author{1}{Email}#=%=#malte.feucht@tum.de
+Author{1}{Affiliation}#=%=#Technical University Munich
+Author{2}{Firstname}#=%=#Zhiliang
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#Zhiliang.Wu@campus.lmu.de
+Author{2}{Affiliation}#=%=#LMU Munich, Siemens AG
+Author{3}{Firstname}#=%=#Sophia
+Author{3}{Lastname}#=%=#Althammer
+Author{3}{Email}#=%=#sophia.althammer@tuwien.ac.at
+Author{3}{Affiliation}#=%=#TU Wien
+Author{4}{Firstname}#=%=#Volker
+Author{4}{Lastname}#=%=#Tresp
+Author{4}{Email}#=%=#volker.tresp@siemens.com
+Author{4}{Affiliation}#=%=#LMU Munich, Siemens AG
+
+==========

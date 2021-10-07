@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Can images help recognize entities? A study of the role of images for Multimodal NER
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shuguang Chen
+JobTitle#==#
+Organization#==#University of Houston
+4800 Calhoun Rd, Houston, TX 77004
+Abstract#==#Multimodal named entity recognition (MNER) requires to bridge the gap between language understanding and visual context. While many multimodal neural techniques have been proposed to incorporate images into the MNER task, the model's ability to leverage multimodal interactions remains poorly understood. In this work, we conduct in-depth analyses of existing multimodal fusion techniques from different perspectives and describe the scenarios where adding information from the image does not always boost performance. We also study the use of captions as a way to enrich the context for MNER. Experiments on three datasets from popular social platforms expose the bottleneck of existing multimodal models and the situations where using captions is beneficial.
+Author{1}{Firstname}#=%=#Shuguang
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#sgchen
+Author{1}{Email}#=%=#sgchen.cs@gmail.com
+Author{1}{Affiliation}#=%=#University of Houston
+Author{2}{Firstname}#=%=#Gustavo
+Author{2}{Lastname}#=%=#Aguilar
+Author{2}{Username}#=%=#gaguilar
+Author{2}{Email}#=%=#gustavoaguilar91@gmail.com
+Author{2}{Affiliation}#=%=#University of Houston
+Author{3}{Firstname}#=%=#Leonardo
+Author{3}{Lastname}#=%=#Neves
+Author{3}{Username}#=%=#lrmneves
+Author{3}{Email}#=%=#lneves@snapchat.com
+Author{3}{Affiliation}#=%=#Snap Research
+Author{4}{Firstname}#=%=#Thamar
+Author{4}{Lastname}#=%=#Solorio
+Author{4}{Username}#=%=#solorio
+Author{4}{Email}#=%=#thamar.solorio@gmail.com
+Author{4}{Affiliation}#=%=#University of Houston
+
+==========

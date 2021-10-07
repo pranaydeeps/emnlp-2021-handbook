@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#Investigating the Effect of Natural Language Explanations on Out-of-Distribution Generalization in Few-shot NLI
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Yangqiaoyu Zhou
+JobTitle#==#
+Organization#==#University of Chicago
+Abstract#==#Although neural models have shown strong performance in datasets such as SNLI, they lack the ability to generalize out-of-distribution (OOD). In this work, we formulate a few-shot learning setup and examine the effects of natural language explanations on OOD generalization. We leverage the templates in the HANS dataset and construct templated natural language explanations for each template. Although generated explanations show competitive BLEU scores against ground truth explanations, they fail to improve prediction performance. We further show that generated explanations often hallucinate information and miss key elements that indicate the label.
+Author{1}{Firstname}#=%=#Yangqiaoyu
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#rosazhou
+Author{1}{Email}#=%=#zhouy1@uchicago.edu
+Author{1}{Affiliation}#=%=#University of Chicago
+Author{2}{Firstname}#=%=#Chenhao
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Username}#=%=#chenhao
+Author{2}{Email}#=%=#chenhao@chenhaot.com
+Author{2}{Affiliation}#=%=#University of Chicago
+
+==========

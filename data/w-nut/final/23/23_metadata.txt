@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#ParsTwiNER: A Corpus for Named Entity Recognition at Informal Persian
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hamid Beigy
+JobTitle#==#Faculty member
+Organization#==#Sharif University of Technology,
+Tehran, Iran
+Abstract#==#As a result of unstructured sentences and some misspellings and errors, finding named entities in a noisy environment such as social media takes much more effort. ParsTwiNER contains about 250k tokens, based on standard instructions like MUC-6 or CoNLL 2003, gathered from Persian Twitter. Using Cohen's Kappa coefficient, the consistency of annotators is 0.95, a high score. In this study, we demonstrate that some state-of-the-art models degrade on these corpora, and trained a new model using parallel transfer learning based on the BERT architecture. Experimental results show that the model works well in informal Persian as well as in formal Persian.
+Author{1}{Firstname}#=%=#MohammadMahdi
+Author{1}{Lastname}#=%=#Aghajani
+Author{1}{Email}#=%=#mmaghajani@ce.sharif.edu
+Author{1}{Affiliation}#=%=#Sharif University of technology
+Author{2}{Firstname}#=%=#AliAkbar
+Author{2}{Lastname}#=%=#Badri
+Author{2}{Email}#=%=#aabadri@aut.ac.ir
+Author{2}{Affiliation}#=%=#Amirkabir University of Technology
+Author{3}{Firstname}#=%=#Hamid
+Author{3}{Lastname}#=%=#Beigy
+Author{3}{Username}#=%=#beigy
+Author{3}{Email}#=%=#beigy@sharif.edu
+Author{3}{Affiliation}#=%=#Sharif University of Technology
+
+==========

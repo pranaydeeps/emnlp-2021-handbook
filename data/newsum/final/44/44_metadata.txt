@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Convex Aggregation for Opinion Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent advances in text autoencoders have significantly improved the quality of the latent space, which enables models to generate grammatical and consistent text from aggregated latent vectors. As a successful application of this property, unsupervised opinion summarization models generate a summary by decoding the aggregated latent vectors of inputs. More specifically, they perform the aggregation via simple average. However, little is known about how the vector aggregation step affects the generation quality. In this study, we revisit the commonly used simple average approach by examining the latent space and generated summaries. We found that text autoencoders tend to generate overly generic summaries from simply averaged latent vectors due to an unexpected L2-norm shrinkage in the aggregated latent vectors, which we refer to as summary vector degeneration. To overcome this issue, we develop a framework Coop, which searches input combinations for the latent vector aggregation using input-output word overlap. Experimental results show that Coop successfully alleviates the summary vector degeneration issue and establishes new state-of-the-art performance on two opinion summarization benchmarks. Code is available at https://github.com/megagonlabs/coop
+Author{1}{Firstname}#=%=#Hayate
+Author{1}{Lastname}#=%=#Iso
+Author{1}{Username}#=%=#isohyt
+Author{1}{Email}#=%=#hyate.iso@gmail.com
+Author{1}{Affiliation}#=%=#Megagon Labs
+Author{2}{Firstname}#=%=#Xiaolan
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#xiaolanwang
+Author{2}{Email}#=%=#xiaolan@megagon.ai
+Author{2}{Affiliation}#=%=#Megagon Labs
+Author{3}{Firstname}#=%=#Yoshihiko
+Author{3}{Lastname}#=%=#Suhara
+Author{3}{Username}#=%=#suhara
+Author{3}{Email}#=%=#yoshi@megagon.ai
+Author{3}{Affiliation}#=%=#Megagon Labs
+Author{4}{Firstname}#=%=#Stefanos
+Author{4}{Lastname}#=%=#Angelidis
+Author{4}{Username}#=%=#stangelid
+Author{4}{Email}#=%=#s.angelidis@ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+Author{5}{Firstname}#=%=#Wang-Chiew
+Author{5}{Lastname}#=%=#Tan
+Author{5}{Username}#=%=#wangchiew
+Author{5}{Email}#=%=#wangchiew@gmail.com
+Author{5}{Affiliation}#=%=#Facebook AI
+
+==========

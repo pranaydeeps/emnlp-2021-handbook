@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#A Text Editing Approach to Joint Japanese Word Segmentation, POS Tagging, and Lexical Normalization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Shohei Higashiyama
+JobTitle#==#
+Organization#==#
+Abstract#==#Lexical normalization, in addition to word segmentation and part-of-speech tagging, is a fundamental task for Japanese user-generated text processing. In this paper, we propose a text editing model to solve the three task jointly and methods of pseudo-labeled data generation to overcome the problem of data deficiency. Our experiments showed that the proposed model achieved better normalization performance when trained on more diverse pseudo-labeled data.
+Author{1}{Firstname}#=%=#Shohei
+Author{1}{Lastname}#=%=#Higashiyama
+Author{1}{Username}#=%=#shigashiyama
+Author{1}{Email}#=%=#shohei.higashiyama@nict.go.jp
+Author{1}{Affiliation}#=%=#National Institute of Information and Communications Technology
+Author{2}{Firstname}#=%=#Masao
+Author{2}{Lastname}#=%=#Utiyama
+Author{2}{Username}#=%=#mutiyama
+Author{2}{Email}#=%=#mutiyama@nict.go.jp
+Author{2}{Affiliation}#=%=#NICT
+Author{3}{Firstname}#=%=#Taro
+Author{3}{Lastname}#=%=#Watanabe
+Author{3}{Username}#=%=#taro.watanabe
+Author{3}{Email}#=%=#taro@is.naist.jp
+Author{3}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{4}{Firstname}#=%=#Eiichiro
+Author{4}{Lastname}#=%=#Sumita
+Author{4}{Username}#=%=#eiichirosumita
+Author{4}{Email}#=%=#eiichiro.sumita@nict.go.jp
+Author{4}{Affiliation}#=%=#NICT
+
+==========

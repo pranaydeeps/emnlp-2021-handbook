@@ -1,0 +1,474 @@
+% This must be in the first 5 lines to tell arXiv to use pdfLaTeX, which is strongly recommended.
+
+\pdfoutput=1
+% In particular, the hyperref package requires pdfLaTeX in order to break URLs across lines.
+
+\documentclass[11pt]{article}
+
+\newcommand{\notiz}[1]{\textcolor{blue}{#1}}
+% Remove the "review" option to generate the final version.
+\usepackage{emnlp2021}
+\usepackage{comment}
+% Standard package includes
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{placeins}
+\usepackage{makecell}
+\usepackage[htt]{hyphenat}
+\usepackage{lipsum}
+
+
+
+
+%\graphicspath{ {./images/} }
+
+\usepackage{tikz}
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;} 
+
+
+% For proper rendering and hyphenation of words containing Latin characters (including in bib files)
+\usepackage[T1]{fontenc}
+% For Vietnamese characters
+% \usepackage[T5]{fontenc}
+% See https://www.latex-project.org/help/documentation/encguide.pdf for other character sets
+
+% This assumes your files are encoded as UTF8
+\usepackage[utf8]{inputenc}
+
+% This is not strictly necessary, and may be commented out,
+% but it will improve the layout of the manuscript,
+% and will typically save some space.
+\usepackage{microtype}
+
+% If the title and author information does not fit in the area allocated, %uncomment the following
+%
+%\setlength\titlebox{30}
+
+%
+% and set <dim> to something 5cm or larger.
+
+\title{FANG-COVID: A New Large-Scale Benchmark Dataset for Fake News Detection in German}
+
+% Author information can be set in various styles:
+% For several authors from the same institution:
+
+% if the names do not fit well on one line use
+%         Author 1 \\ {\bf Author 2} \\ ... \\ {\bf Author n} \\
+% For authors from different institutions:
+% To start a seperate ``row'' of authors use \AND, as in
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \AND
+%         Author 2 \\ Address line \\ ... \\ Address line \And
+%         Author 3 \\ Address line \\ ... \\ Address line}
+
+%\author{Justus Mattern, Yu Qiao, Elma Kerz, Daniel Wiechmann, Markus Strohmaier \\
+%  RWTH Aachen University \\
+ % \\\And
+ % }
+  
+ \author{Justus Mattern$^1$, Yu Qiao$^1$, Elma Kerz$^1$, Daniel Wiechmann$^2$, Markus Strohmaier$^1$ \\
+         $^1$RWTH Aachen University \\ $^2$University of Amsterdam\\
+         \texttt{\{justus.mattern,yu.qiao\}@rwth-aachen.de}\\
+         \texttt{elma.kerz@ifaar.rwth-aachen.de}\\
+         \texttt{D.Wiechmann@uva.nl}\\
+         \texttt{markus.strohmaier@cssh.rwth-aachen.de}}
+         
+
+\begin{document}
+\maketitle
+
+
+
+\begin{abstract}
+As the world continues to fight the COVID-19 pandemic, it is simultaneously fighting an ‘infodemic' -- a flood of disinformation and spread of conspiracy theories leading to health threats and the division of society. To combat this infodemic, there is an urgent need for benchmark datasets that can help researchers develop and evaluate models geared towards automatic detection of disinformation. While there are increasing efforts to create adequate, open-source benchmark datasets for English, comparable resources are virtually unavailable for German, leaving research for the German language lagging significantly behind. In this paper, we introduce the new benchmark dataset FANG-COVID consisting of 28,056 real and 13,186 fake German news articles related to the COVID-19 pandemic as well as data on their propagation on Twitter. Furthermore, we propose an explainable textual- and social context-based model for fake news detection, compare its performance to "black-box" models and perform feature ablation to assess the relative importance of human-interpretable features in distinguishing fake news from authentic news.
+
+
+\end{abstract}
+
+
+
+\section{Introduction}
+
+The online availability and rapid dissemination of `disinformation' and `fake news' – cover terms for various types of false, inaccurate, or misleading information, typically related to emerging and time-sensitive events – have become a global challenge over the past 10 years \citep{tucker2018social}. Never has the scale of this challenge been clearer than in the corona crisis: as the world continues to fight the coronavirus disease 2019 (COVID-19) pandemic, it is simultaneously fighting an `infodemic' -- a flood of disinformation and spread of conspiracy theories leading to the division of society \citep{orso2020infodemic,solomon2020infodemic}.
+
+In order to combat the spread and consumption of disinformation, it is of essential importance to develop diagnostic and predictive analysis models that can be used to understand how and why disinformation is created and spread as well as to uncover hidden and unexpected aspects of disinformation content. A key aspect that has a significant impact on the detection of disinformation is the existence of high-quality benchmark datasets. While there are increasing efforts to create adequate, open-source benchmark datasets for English, comparable resources are virtually unavailable for German (but see \citet{vogel2019fake}). Accordingly, research on disinformation detection for German is clearly lagging behind. 
+
+In order to fill the research gap, the main goal of this paper is to introduce FANG-COVID\footnote{https://github.com/justusmattern/fang-covid}, an entire-article COVID-19 benchmark dataset for the German language, designed based on existing English language benchmark datasets and labeled using distant supervision.
+
+Furthermore, we present the results of benchmark experiments on the dataset using explainable textual- and social context-based models for fake news detection and compare their performance to those of classifiers based on a fine-tuned BERT language model. Finally, we conduct feature ablation experiments to assess the relative importance of human-interpretable features in distinguishing fake news from authentic news. 
+
+This paper is structured as follows: In section 2, we provide a concise overview of existing datasets and approaches for fake news detection, focusing on work related to COVID-19 and the German language. In section 3, we introduce the FANG-COVID dataset. In section 4, we propose an explainable fake news detection system, compare its performance to a black-box model and introduce the ablation algorithm used to analyze the importance of certain features, before summarizing the results and our contribution in section 5.
+
+\section{Related Work}
+
+
+In recent years, with the growing recognition of the importance of understanding and detecting fake news, increasing
+efforts have been made to combat disinformation, resulting in the creation of large-scale annotated datasets for fake news detection for the English language \citep{https://doi.org/10.1002/spy2.9, doi:10.1089/big.2020.0062, wang-2017-liar, thorne-etal-2018-fever}. For the German language, first steps towards creating suitable datasets have been made \citep{TPDL_Vogel19, vogel2020topic}. To date, however, existing datasets are too small to enable the development of state-of-the-art deep learning models for fake news detection. Current approaches to automatic detection of English fake news \citep{10.1007/978-3-030-50423-6_49, 10.1145/3219819.3219903, 10.1145/3132847.3132877,qiao-etal-2020-language} have taken into account both textual news content and also social context based on social media data (for recent reviews of disinformation detection, see \citet{oshikawa-etal-2020-survey}, \citet{https://doi.org/10.1002/widm.1385}, \citet{Zhou2018FakeNA} and \citet{10.1145/3137597.3137600}). Language-based approaches have an advantage over knowledge-based or propagation-based approaches\footnote{Knowledge-based fake news detection es techniques from information retrieval to determine the veracity/truthfulness of news item, whereas propagation-based approaches use network analysis to determine the credibility of news sources at various stages, i.e. when being created, published online and spread via social media.}, because (1) they enable near real-time feedback (proactive rather than retroactive), i.e. they are not restricted to being applied only \textit{a posteriori} \cite{potthast2017stylometric} and (2) they are scalable. In the remainder of this section, we provide a concise overview of the existing COVID-19 fake news datasets and approaches to detect disinformation regarding the virus.
+
+\subsection{COVID-19 Fake News Datasets in English}
+
+\begin{table*}
+\centering
+\caption{Existing datasets for Covid-19 fake news detection. Engagement refers to data about reactions to and shares of news on social media whereas user data refers to information about user profiles sharing news articles such as how frequently they post, their follower count, etc.}
+\begin{tabular}{lcfasfs}
+\hline
+\textbf{Dataset} &\textbf{Language} & \textbf{Size} & \textbf{Fake / Real} & \textbf{Engagement} & \textbf{Profiles} & \textbf{Data Source} \\
+\hline
+{Covid19 FN} & {English} & {10,700} & {0.47 / 0.53} & {-} &{-} & Various \\
+{FakeCovid} & {Various} & {5,182} & {0.20 / 0.80} & {-} & {-} & Articles \\
+{ReCOVery} & {English} & 2,029 & {0.33 / 0.67} & \checkmark & \checkmark & Articles\\
+{CoAID} & {English} & {4,251} & {0.06 / 0.94} & {\checkmark} & {-} &  Articles, Claims\\
+{\textbf{FANG-COVID}} & {German} & {41,242} & {0.32 / 0.68} & {\checkmark} & {\checkmark} & Articles \\ 
+\hline
+\end{tabular}
+
+\label{tab:corpusstats}
+\end{table*}
+
+
+To the best of our knowledge, there exist currently four suitable and publicly available datasets for COVID-19 fake news detection in English (see Table ~\ref{tab:corpusstats} for an overview). These datasets differ with respect to the type of news source they consist of (entire articles vs. individual claims/tweets), data size, the imbalance of the class distribution (real/fake) and the type of information available for fake news detection (linguistic and/or social context).
+
+\citet{patwa2021fighting} introduced the 
+ Covid19 FN dataset in connection with the  CONSTRAINT shared task for Covid-19 fake news detection. This dataset consists of 5,600 correct tweets gathered from reliable sources such as government accounts, medical institutes and news channels as well as 5,100 manually fact-checked false statements from various sources such as news articles, press releases and social media posts. 
+
+
+FakeCovid \citep{Shahi2020FakeCovidA} is a multilingual dataset that consists of 5,182 manually fact-checked news articles from 40 languages of which 2,116 are English and 47 are German.
+
+ReCOVery \citep{DBLP:journals/corr/abs-2006-05557} is a dataset containing 2,029 news articles as well as data for 140,820 tweets and the respective user profiles sharing these articles. Its labels were obtained based on the reliability of the news publisher.
+
+Lastly, CoAID \citep{2020arXiv200600885C} comprises different types of news items, i.e. claims, news articles and social media posts. Specifically, it consists of 204 fake and 3,565 real fact-checked news articles referring to the pandemic, 28 wrong and 454 true claims about the virus, 926 social media posts about it and data about Tweets reposting these news, as well as data about user engagements with each tweet. With 94\% of its news item representing authentic news, it is also the most imbalanced of the datasets. Veracity labels for real news articles were obtained on a publisher level, i.e. data were scraped from reliable publishers such as ScienceDaily or WHO. Fake articles were gathered using links to false articles from fact-checking websites. For claims, WHO information and additional reliable sources were used to identify statements known to be false.
+
+Not only are the existing datasets scarce, they are also limited in terms of the amount of text and types of information they provide and, at times, are highly imbalanced, introducing inductive bias. No COVID-19 datasets are available for the German language.
+
+
+\subsection{COVID-19 Fake News Detection}
+
+Given the nature of the available Covid-19 datasets, most attempts to detect fake news in this domain have been language-based. 
+The best performing approach in the CONSTRAINT shared task on the Covid19 Fake News dataset was proposed by \citet{glazkova2021g2tmn}, who obtained text representations using the COVID-Twitter-BERT language model \citep{unknown} that was specifically trained on 160M English tweets about the virus and achieved an F1-score of 98.69\%. High detection performance (F1-score of 96.7\%) was also reached based on concatenated text representations obtained by XLNet \citep{yang2020xlnet} and Latent Dirichet Allocation (LDA) in a feed forward neural network \citep{gautam2021fake} (see \citet{10.1007/978-3-030-73696-5_5} for comprehensive overview of the approaches proposed in the CONSTRAINT shared task). Experiments conducted on the FakeCovid dataset used a pretrained BERT model to represent the textual content of English news articles from FakeCovid and obtained an F1-score of 0.78 \citep{Shahi2020FakeCovidA}. For ReCOVery, the SAFE method \citep{zhou2020safe}, an approach that involves training a neural network to specifically detect discrepancies in visual and textual news content, outperformed approaches based on text-based CNN, achieving an F1-score of 0.833 for the detection of real and 0.672 for the detection of fake news. \citet{2020arXiv200600885C} conduct experiments on the CoAID dataset using various different classification models that have proven to be successful for general fake news detection. Notably, some of the best-performing models on general fake news detection datasets such as CSI \citep{10.1145/3132847.3132877} and SAME \citep{10.1145/3341161.3342894} proved to be less effective on CoAID, achieving F1-scores of 0.228 and 0.340, respectively, relative to the best performing model dEFEND \citep{shu2019defend} with an F1-score of 0.581. This further demonstrates the need for research on specific critical events like the current pandemic.
+
+
+\section{Introducing the FANG-COVID dataset}
+
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.95\linewidth]{images/datagathering.png}
+\caption{Procedure applied to compile the FANG-COVID dataset}
+\label{fig:image2}
+\end{figure*}
+
+
+In this section, we provide a detailed description of the methodology used to compile the FANG-COVID dataset and present its composition. The collection and labelling of news articles was based on news publisher bias lists compiled by media professionals, following the approach taken in \citet{kiesel2019semeval}. For gathering true news articles, we relied on three established, reputable mainstream newspapers whose quality is recognized by media experts \citep{wellbrock2011journalistische}. For the collection of fake news articles, we utilized independent fact-checking organizations such as Correctiv\footnote{https://correctiv.org/} and NewsGuard\footnote{https://www.newsguardtech.com/}. The latter published a list in January 2021 containing over 30 German news sources that are classified as unreliable news publishers based on criteria such as the frequency of false information being posted, the responsible presentation of information and sources and the clear separation of opinion and fact \footnote{https://www.newsguardtech.com/ratings/rating-process-criteria/}. Based on this data and further research on its listed sources via trustworthy newspapers such as \emph{Frankfurter Allgemeine Zeitung}, \emph{SPIEGEL} or \emph{ZEIT}, we selected ten publishers whose articles we would label as `fake'. An overview of the distributions of news articles and tweets across publishers is presented in Table~\ref{tab:publishers}. For every one of our news sources, we scraped the header, date of publication and textual content of articles that were published between February 2020 to mid March 2021 and contained one of the following Covid-related keywords: \emph{Corona, Covid, Infektion, Lockdown, Impfen, Impfung, Impfstoff}. The selection of news based on the keywords ensured that all articles are related to events surrounding the coronavirus pandemic. The collected textual data were cleaned and preprocessed by transforming dates of publication from handwritten formats to the uniform datetime format and the removal of HTML tags. A schematic representation of the procedure used to compile FANG-COVID is shown in Figure~\ref{fig:image2}. 
+
+In total, the FANG-COVID dataset comprises 41,242 news articles: 28,056 articles from three publishers are labeled as `real' and 13,186 articles are labeled as `fake' based on the reliability of their source (see Tables~\ref{tab:corpusstats} and~\ref{tab:publishers} for details on the composition of the dataset). On average, news articles in FANG-COVID contain 803 word tokens and 43.8 sentences, with similar distributions for fake and real news articles. With regards to political orientation, the majority of the fake news publishers exhibited tendencies towards right wing populism, as common topics by these publishers involve allegations against immigrants (a topic that has been especially prevalent in Germany since the refugee crisis in 2015).  The articles from unreliable sources are also characterized by a higher proportion of articles favouring the right-wing populist party "Alternative für Deutschland" (AfD)  (see  Figure~\ref{fig:politicalpartycount} in the Appendix).
+
+To facilitate research on the diffusion of fake news in social networks, FANG-COVID also contains rich information relating to the articles' spreading on social media. These data were collected using the snscrape\footnote{https://github.com/JustAnotherArchivist/snscrape} library, a Python scraper for social networking services. We gathered all  tweets referring to any of the articles in the dataset, as well as reactions to these in the form of likes or retweets and additional information, such as which device the tweet was posted from as well as user-related data, such as the follower count, the number of posts or the date a user joined Twitter. Each news article is associated with a JSON array containing all tweets sharing its url, ordered by the time they were posted. Each tweet is represented as a JSON object containing specific information about each tweet, such as the number of likes and retweets as well as extensive data about the user sharing each tweet such as their follower count, their number of posts since joining Twitter as well as visual information in the form of their profile picture and banner. Overall, FANG-COVID contains social media information related to the news articles from a total of 363,393 tweets. On average, a real news article from our dataset was shared 8.4 times while a fake news article was shared 9.7 times. Out of all users sharing articles from our dataset, 52,289 distinct user profiles reposted real news articles while 7,861 users shared news articles labeled as fake.
+
+\begin{table*}
+\centering
+\caption{Text size statistics of real articles, fake articles and the whole dataset. Tokenization was performed using the Stanford CoreNLP library.}
+\begin{tabular}{lcfa}
+\hline
+\textbf{Measure} & \textbf{Real} &  \textbf{Fake} & \textbf{All}\\
+\hline
+{Average number of tokens per article} & {784} & {803} & {790} \\
+{Average number of sentences per article} & {50.40} & {43.82} & {48.30} \\ 
+{Average number of tokens per sentence} & {15.68} & {18.32} & {16.36} \\
+{Total number of types in corpus} & {424,529} & {270,961} & {543,720} \\ 
+\hline
+\end{tabular}
+
+\label{tab:corpusstats}
+\end{table*}
+
+%\subsection{Data Collection}
+\begin{table*}[h!]
+\centering
+\caption{Distribution of articles and associated tweets across publishers along with average article length (in words)}
+\begin{tabular}{lcatt}
+\hline
+\textbf{Publisher} &  \textbf{\thead{Number of \\ Articles}} & \textbf{\thead{Average article \\ length}} & \textbf{\thead{Number of \\ Tweets}}& \textbf{\thead{Number of distinct \\ users sharing articles}}\\
+\hline
+
+\textbf{Reliable Publishers:} &&&\\
+{Sueddeutsche Zeitung} & {6,749}  & {673.3} & {29,009} & 11,709 \\
+{Tagesspiegel}& {11,623} & {699.7} & 75,100 & 22,248 \\ 
+{ZEIT} & {9,684} & {1,023.7} & 130,945 & 34,264 \\
+\hline
+\textbf{Unreliable Publishers:} &&& \\
+{AnonymousNews} & {229} & {689.3} & 8,078& 1,368  \\
+{Compact-Online} & {1,077} & {708.9} & 10,211& 1,276 \\
+{Contra-Magazin} & {998} &  {691.2} & 2,621 & 181\\ 
+{FreieWelt} & {1,403} & {367.3} & 5,023 & 877  \\ 
+{Journalistenwatch} & {3,675} & {683.1} & 61,299 & 3,480\\ 
+{Kopp-Report} & {204} &  1,017.0 & 1,932 & 436\\ 
+{Politikstube} & {602} &  {239.5} & 3,896 & 649 \\ 
+{Pravda-TV} & {1,117} & {1,612.6} & 4,575 & 496 \\ 
+{RT-DE} & {2,442} & {504.7} & 15,986 & 2,131 \\ 
+{Rubikon News} & {1,439} & 2,132.3 & 14,718 & 2,637 \\ 
+
+\hline
+\end{tabular}
+\label{tab:publishers}
+\end{table*}
+
+
+
+
+\section{\textit{FANG-COVID:} Benchmark Experiments}
+
+In this section, we first describe the textual and social context representations used in the fake news detection model and the experimental setup, before presenting the empirical results of classification models trained on interpretable features and contextualized word embeddings. Specifically, in order to establish benchmarks for fake news detection on the FANG-COVID dataset and to provide initial insights into the features and approaches that prove to be effective for the detection of German fake news regarding COVID-19, we evaluate detection models based on interpretable Term Frequency Inverse Document Frequency (TF-IDF) and linguistic complexity features and compare their performance to classifiers based on a fine-tuned BERT language model with and without social context information.
+
+\subsection{Textual Representations}
+
+\textbf{Interpretable representation:} Our proposed interpretable text representation \(T_i = t_t \oplus t_c\) consists of two concatenated vectors \(t_t, t_c\) where \(t_t\) is a 600-dimensional TF-IDF vector measuring the frequencies of single words and bigrams in a given text and \(t_c\) is a 718-dimensional vector capturing the linguistic complexity of a given text. This vector is generated using CoCoGen, a computational tool that implements a sliding window technique to calculate within-text distributions of feature scores (see recently published papers that use this tool, \cite{strobel2018text,kerz2020becoming,kerz2020understanding,qiao-etal-2020-language}). In contrast to the standard approach implemented in other tools for automated text analysis that rely on aggregate scores representing the average value of a feature in a text, the sliding-window approach generates a series of measurements representing the `local' distributions of scores. A sliding window can be conceived of as a window of size $ws$, which is defined by the number of sentences it contains. The window is moved across a text sentence-by-sentence, computing one value per window for a given feature.  The series of measurements faithfully captures a typically non-uniform distribution of features within a text and is referred here to as a `contour'. To compute the value of a given feature in a given window $m$ ($w(m)$), a measurement function is called for each sentence in the window and returns a fraction ($wn_{m}/wd_{m}$). 
+The series of measurements generated by CoCoGen captures the progression of language performance within a text for a given indicator and is referred here to as a `complexity contour' (see Figure  \ref{fig:coco} for illustration). CoCoGen uses the Stanford CoreNLP suite \cite{Manning14thestanford} for performing tokenization, sentence splitting, part-of-speech tagging, lemmatization and syntactic parsing (Probabilistic Context Free Grammar Parser \cite{klein2003accurate}). For German, CoCoGen currently supports 118 linguistic feature scores that fall into five categories: (1) features of syntactic complexity (N=5), (2) features of lexical density, sophistication and variation (N=17), (3) features of morphological complexity (N=27), (4) information-theoretic features (N=1) and (5) LIWC (Linguistic Inquiry and Word Count) \citep{doi:10.1177/0261927X09351676} features (N=68).
+
+\begin{figure}
+    \centering
+    \includegraphics[width= 0.5\textwidth]{images/coco.png}
+    \caption{Schematic representation of `complexity contours' for two out of 118 complexity measures investigated}
+    \label{fig:coco}
+    \vspace{-5mm}
+\end{figure}
+
+Thus, for a given news article, CoCoGen outputs a list \(S = [s_1, s_2, ..., s_l]\) of 118-dimensional sentence representations where \(l\) is the length of the input text in sentences. These sentence representations serve as input for a 2-layer bidirectional LSTM-network \citep{graves2005framewise} with a hidden state size of 150. \(t_c\) consists of the concatenated outputs from each last hidden state layer from both directions as well as a 118-dimensional vector containing the sum \(s_1 + ...+ s_l\) of all feature values for each sentence.
+
+
+\textbf{Black-Box representation:}
+As a textual black-box representation \(T_b\), we use a pretrained German\footnote{https://deepset.ai/german-bert} BERT model \citep{devlin-etal-2019-bert} and fine-tune six of its twelve encoding layers for our classification task. We use BERT's 768-dimensional output for its classification token [CLS] as our text representation. For texts of lengths greater than 512 tokens, we only keep the first 512 to serve as input to BERT as this method has been shown not to perform meaningfully worse than hierarchical methods \citep{DBLP:journals/corr/abs-1905-05583}.
+
+
+\subsection{Social Context Representation}
+
+As social context has been shown to be a valuable source of information for the detection of fake news \citep{kshusocialcontext, fnnetworkapproach}, we employed a recurrent neural network-based representation for our social media data input for our classifiers, following an approach proposed in \citet{10.1145/3132847.3132877}.
+For every article, a list of Twitter post representations \(P = [p_1, p_2, ..., p_n]\) is constructed where \(p_i\) is an eight-dimensional vector representing user interactions with a tweet sharing the article as well as information about the user posting it. The list is ordered by the time the tweets were posted. The values contained in each vector are the tweet's number of likes, number of replies, number of retweets and its number of quotes as well as the poster's follower count, number of friends, total number of tweets and number of tweets they liked.
+The post representations serve as input to a two-layer bidirectional LSTM network with a hidden state size of 12. The final social context vector \(S\) is constructed by concatenating the four last hidden states from both layers in both directions as well as a five-dimensional vector containing values for the total number of tweets posting the corresponding news article as well as the total number of likes, replies, retweets and quotes to these posts. Thus, \(S\) is of dimension 53.
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=1.0\linewidth]{images/model_architecture.png}
+\caption{Architecture of proposed interpretable TF-IDF + CoCoGen+Social Context fake news detection model}
+\label{fig:components}
+\end{figure*}
+
+\subsection{Experimental Setup}
+
+
+In this section we report on benchmark experiments conducted with different combinations of feature representations to assess how an explainable textual- and social context-based model compares to a black box model based on contextualised word embeddings in a binary classification task. Specifically, we evaluate the following four feature combinations: (1) Our interpretable textual representation \(T_i\) consisting of the TF-IDF vector and the linguistic complexity representation obtained from CoCoGen features, henceforth referred to as \textbf{TF-IDF + CoCoGen}, (2) the interpretable textual representation \(T_i\) and social context representation \(S\), henceforth referred to as \textbf{TF-IDF + CoCoGen + Social Context}, (3) the black-box textual representation \(T_b\) obtained from BERT, henceforth referred to as \textbf{BERT} and (4) the black-box textual representation \(T_b\) and social representation \(S\), henceforth referred to as \textbf{BERT + Social Context}.  
+
+For all feature combinations, we concatenate the individual feature vectors and use a three-layer perceptron to classify news articles as fake or real. We use binary cross entropy loss as our loss function:
+
+\[\mathcal{L}(p,t) = -t\log(p)-(1-t)\log(1-p) \]
+where \(t\) is the target value defined as 1 for fake news and 0 for articles labeled as real and \(p\) is the probability of a given news article being fake. 
+
+%\subsection{Data splits}
+We tested our models using two data splits. First, we perform 5-fold cross validation over news articles from the whole dataset, including articles from all publishers in the train and test set. Second, we perform experiments on a randomly chosen publisher-separated split in which none of the publishers from the training set are included in the test set in order to determine whether the models learn to identify publishers-specific clues.
+
+
+\subsection{Ablation Study}
+
+In order to assess the relative importance of our neural networks' features for the detection of fake news, we performed a feature ablation study on the results from the 5-fold cross validation split using a modified version of an algorithm introduced by \citet{10.1007/978-3-642-13025-0_67}: 
+For each step \(t\), a neural network \(M_t\) is trained on a set of training data consisting of feature groups \(F = \{f_1, f_2, ..., f_{D_t}\}\) where \(f1, ...,f_D__t\) are the remaining feature groups at the current step, whose importance rank is to be determined. Let \(X_t\) denote the test dataset at time step \(t\) consisting of the feature set \(F_t\) and \(X_t^i\) denote the test dataset \(X_t\) with the values of features \(f_i\) being set to their average across the training dataset. Furthermore, let \(acc(X)\) denote the classification accuracy of the given neural network \(M_t\) on test set \(X\). For each time step \(t\), the sensitivity score \citep{moody1994,236576} \(S_{i,t}\) for feature group \(f_i\) is computed as follows:
+
+\[S_{i,t} = acc(X_t) - acc(X_t^i)\]
+The most important feature group \(f_{\hat{i}}\) at step t can be found by:
+\[f_{\hat{i}} : \hat{i} = _{i:f_i \in F_t} (S_{i,t})\]
+and the importance rank of feature group \(f_{\hat{i}}\) is set as 
+
+\[Rank_{\hat{i}} = t\]
+For the next step \(t+1\), feature group \(f_\hat{i}\) is dropped from the training and test dataset that are used to train and evaluate the neural network:
+
+\[F_{t+1} = F_t - \{f_{\hat{i}}\}\]
+The process is repeated until step \(t'\) where \(|F_{t'}| = 1\)
+
+
+\section{Results}
+
+We outline our full classification results in Table ~\ref{tab:classificationresults}. Our best performing models are the BERT and BERT + Social Context models which achieve superior results on both the 5-fold validation split as well as the publisher-seperated split.
+Notably, the proposed model relying solely on interpretable features achieves results that are comparable to those of the black box model relying on BERT embeddings. While the chosen social context representation could not add additional predictive power to the model solely relying on BERT embeddings, its addition to the interpretable text embeddings improved the model performance by a large margin on both data splits. The results of the models on the publisher-separated split suggest that both our interpretable models as well as the BERT-based models have learned publisher-specific features. These results indicate that future work should take measures that ensure that the models solve the task they are trained for, rather than learning stylistic features of specific sources 
+\citep[see][for a related finding in the domain of prediction of political ideology]{DBLP:journals/corr/abs-2010-05338}.
+
+\begin{table*}
+\centering
+\caption{Results of fake news detection performance on FANG-COVID}
+\begin{tabular}{lcfasf}
+\hline
+\textbf{Model} & \textbf{Accuracy} &  \textbf{Precision} & \textbf{Recall} & \textbf{F1-Score}\\
+\hline
+{\textbf{5-fold validation:}}&&&&&\\
+{TF-IDF + CoCoGen} & {0.888} & {0.839} & {0.798} & {0.817}\\
+{TF-IDF + CoCoGen + Social Context} & {0.937}  & {0.913} & {0.887} & {0.900}\\
+{BERT} & {0.981}  & {0.966} & {0.970} & {0.968}\\
+{BERT + Social Context} & {0.981}  & {0.957} & {0.976} & {0.966} \\
+\hline
+{\textbf{Publisher-seperated split:}}&&&&&\\
+{TF-IDF + CoCoGen} & {0.758} & {0.590} & {0.524} & {0.555}\\
+{TF-IDF + CoCoGen + Social Context} & {0.801}  & {0.649} & {0.653} & {0.651}\\
+{BERT} & {0.820}  & {0.676} & {0.685} & {0.680} \\
+{BERT + Social Context} & {0.824}  & {0.672} & {0.695} & {0.683} \\
+\hline
+
+
+\end{tabular}
+
+\label{tab:classificationresults}
+\end{table*}
+
+
+\begin{table*}
+\centering
+\caption{Results of feature ablation study for Tf-IDF+CoCoGen+Social Context, evaluated on 5-fold validation: The sensitivity of the most important feature at time step t is the difference between the accuracy before drop and after drop}
+\begin{tabular}{tlcf}
+\hline
+\textbf{Step} &\textbf{Most important feature} & \textbf{Accuracy before drop} &  \textbf{Accuracy after drop} \\
+\hline
+1 & {Twitter profile data} & {0.941} & {0.718}\\
+2 & {Syntactic complexity} & {0.901}  & {0.600} \\
+3 & {Tweet engagement} & {0.880}  & {0.711} \\
+4 & {Lexical features} & {0.875}  & {0.810}  \\
+5 & {TF-IDF} & {0.850}  & {0.791}  \\
+6 & {LIWC-features} & {0.827}  & {0.798}  \\
+7 & {Morphological features} & {0.791}  & {0.752}  \\
+8 & {Infotheoretic features} & {0.749} & {0.384} \\
+
+\hline
+
+\end{tabular}
+
+\label{tab:ablationresults}
+\end{table*}
+
+For our interpretable model based on social context and textual data, the feature group of highest importance is the data provided about a user sharing an article, followed by CoCoGen features measuring the syntactic complexity of a given news article. Specifically, profiles sharing real news articles have significantly higher average follower counts, but a lower amount of friends than those sharing fake news, indicating that our model learned to recognize specifically reputable official sources and institutions that predominantly shared real news. Other than expected, our model furthermore capitalized on fake news being on average more syntactically and lexically complex than reliable news articles which contradicts previous research from the English language suggesting that fake news are designed to be specifically easy to read, thus avoiding longer sentences and sophisticated language \citep{horne2017just}. Surprisingly, TF-IDF vectors merely rank as the 5th strongest feature and LIWC features that have shown to be a powerful feature for English fake news detection \citep{qiao-etal-2020-language, 10.1145/3292500.3330935} rank as the 6th most important feature group out of eight. The full ablation results can be found in Table~\ref{tab:ablationresults}.
+
+
+\section{Conclusion}
+
+The development of effective diagnostic and predictive models needed to combat the spread and consumption of disinformation requires  high-quality benchmark datasets. In this paper, we introduced the FANG-COVID dataset, a new  dataset for fake news detection in German, consisting of 40k+ real and fake news articles related to the COVID-19 pandemic along with data on their propagation on Twitter. To facilitate fake news related research, the dataset is publicly available to the research community on GitHub. 
+
+We further conducted benchmark experiments on the data that incorporated both uninterpretable and interpretable features to language-based fake news detection in conjunction with social media engagement and profile data. The results of these experiments indicate that models that combine interpretable language features with social network data can achieve comparable detection performance relative to those based on contextualized word embeddings. This finding is important in the light of the growing recognition of the need to move away from pure black-box models towards interpretable models for solving practical problems, in particular in the context of critical industries, including healthcare, criminal justice, and news \citep{rudin2019stop}. This is due to the fact that human experts in a given application domain need both accurate but also understandable models \citep{loyola2019black}. 
+
+Potentially, our work can be expanded upon with the addition of further linguistic features that can increase the predictive power of an interpretable model to match that of black box models. Furthermore, a wide range of data from the social context information provided in FANG-COVID can be integrated to build more sophisticated fake news detection models and to study the propagation of German fake news on social media. To address issues associated with the high correlation between the source of a news article and its class, approaches integrating adversarial objectives \citep{DBLP:journals/corr/abs-2010-05338} could be evaluated.
+
+
+\FloatBarrier
+\bibliography{anthology,custom}
+\bibliographystyle{acl_natbib}
+
+\FloatBarrier
+
+
+
+\clearpage
+\appendix
+
+\section{Appendix}
+
+\subsection{Preprocessing:}
+The following preprocessing steps were taken before using our texts as input to our models (in order to avoid models relying on trivial features):
+
+\begin{itemize}
+\item removal of phrase 'Bleiben Sie aufmerksam!', very prevalent in PravdaTV's articles
+\item removal of advertisement paragraph for book "Illuminatenblut: Die okkulten Rituale der Elite" by PravdaTV" ('... Wenn Sie mehr über die heimlichen Machenschaften der Elite erfahren wollen,...')
+
+
+\item removal of paragraphs that contain (capitalized) 'COMPACT' and 'Am besten gleich hier bestellen'. Compact-Online spreads a lot of advertisement for their magazines in their articles, mentioning COMPACT-Sonderausgabe, COMPACT-Magazin, etc.; since their phrases were almost always similar, but not exactly the same, it was hard to find a systematic approach to remove these advertisements. Thus, we removed the paragraphs from these articles as a whole in order to make sure there's no bias in our dataset
+
+\item removal of text brackets with text () at the end of each article. Many publishers appended (dpa) or similar to their articles
+
+\item removal of 'von [Name]' at end of first paragraph. Some publishers used this to reference the author in their articles
+\item removal of pattern 'rt/dpa', 'ns/sna/tm' at the end of news text
+
+\end{itemize}
+\label{sec:appendix}
+
+\begin{table*}
+\centering
+\caption{Data on the average user engagement for each article}
+\begin{tabular}{|f|r|f|}
+\hline
+\textbf{Engagement Feature}&\textbf{Real}&\textbf{Fake}\\
+\hline
+\textbf{Feature per tweet:} &&\\
+Number of likes & 8.90 & 3.48\\
+Number of retweets & 2.72 & 1.85 \\
+Number of replies & 1.40 & 0.50\\
+Number of quotes & 0.43 & 0.19\\
+\hline
+\textbf{Feature per article:} & & \\
+Number of tweets & 8.4 & 9.7 \\
+Number of likes & 74.6 & 33.9 \\
+Number of retweets & 22.8 & 18.0\\
+Number of replies & 11.7 & 4.9 \\
+Number of quotes & 3.6 & 1.9 \\
+
+\hline
+
+\end{tabular}
+
+\label{tab:engagement}
+\end{table*}
+
+\begin{table*}
+\centering
+\caption{Data on the average user profile for each tweet sharing an article}
+\begin{tabular}{|f|r|f|}
+\hline
+\textbf{Profile Feature}&\textbf{Real}&\textbf{Fake}\\
+\hline
+Number of followers & 129,714 & 2,618\\
+Number of friends & 1,304 & 1,791 \\
+Overall number of tweets & 67,732 & 55,093\\
+Overall number of liked tweets & 23,565 & 23,197\\
+
+\hline
+
+\end{tabular}
+
+\label{tab:user}
+\end{table*}
+
+
+\begin{table*}
+\centering
+\caption{Data on the syntactic complexity of news articles}
+\begin{tabular}{|f|r|f|}
+\hline
+\textbf{Syntactic Feature}&\textbf{Real}&\textbf{Fake}\\
+\hline
+Mean Word Length (in characters) & 5.78 & 5.90\\
+Clauses per Sentence & 1.74 & 1.90 \\
+Coordinate Phrases per Clause & 0.44 & 0.57\\
+Mean length of Clause (in tokens) & 9.25 & 9.99\\
+Mean length of Sentence (in tokens) & 16.0 & 19.2\\
+
+\hline
+
+\end{tabular}
+
+\label{tab:syntactic}
+\end{table*}
+
+\begin{figure*}[t]
+\centering
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=1.0\linewidth]{images/hist1}
+  \caption{Reliable publishers' mentions}
+  \label{fig:sub1}
+\end{subfigure}%
+\begin{subfigure}{.5\textwidth}
+  \centering
+  \includegraphics[width=1.0\linewidth]{images/hist2 (1)}
+  \caption{Unreliable publishers' mentions}
+  \label{fig:sub2}
+\end{subfigure}
+\caption{Average number of mentions of political parties in the German parliament per news article by publisher}
+\label{fig:politicalpartycount}
+\end{figure*}
+
+
+\end{document}

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#The Global Banking Standards QA Dataset (GBS-QA)
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Kyunghwan Sohn
+JobTitle#==#
+Organization#==#
+Abstract#==#A domain specific question answering (QA) dataset dramatically improves the machine comprehension performance. This paper presents a new Global Banking Standards QA dataset (GBS-QA) in the banking regulation domain. The GBS-QA has three values. First, it contains actual questions from market players and answers from global rule setter, the Basel Committee on Banking Supervision (BCBS) in the middle of creating and revising banking regulations. Second, financial regulation experts analyze and verify pairs of questions and answers in the annotation process. Lastly, the GBS-QA is a totally different dataset with existing datasets in finance and is applicable to stimulate transfer learning research in the banking regulation domain.
+Author{1}{Firstname}#=%=#Kyunghwan
+Author{1}{Lastname}#=%=#Sohn
+Author{1}{Username}#=%=#kyunghwan.sohn
+Author{1}{Email}#=%=#sony0125@kaist.ac.kr
+Author{1}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+Author{2}{Firstname}#=%=#Sunjae
+Author{2}{Lastname}#=%=#Kwon
+Author{2}{Username}#=%=#soon91jae
+Author{2}{Email}#=%=#sunjaekwon@cs.umass.edu
+Author{2}{Affiliation}#=%=#The University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Jaesik
+Author{3}{Lastname}#=%=#Choi
+Author{3}{Username}#=%=#jaesik
+Author{3}{Email}#=%=#jaesik.choi@kaist.ac.kr
+Author{3}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+
+==========

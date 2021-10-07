@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#63
+FinalPaperTitle#=%=#The Korean Morphologically Tight-Fitting Tokenizer for Noisy User-Generated Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sangah Lee
+JobTitle#==#
+Organization#==#Seoul National University; Seoul, Korea
+Abstract#==#User-generated texts include various types of stylistic properties, or noises. Such texts are not properly processed by existing morpheme analyzers or language models based on formal texts such as encyclopedias or news articles. In this paper, we propose a simple morphologically tight-fitting tokenizer (K-MT) that can better process proper nouns, coinages, and internet slang among other types of noise in Korean user-generated texts. We tested our tokenizer by performing classification tasks on Korean user-generated movie reviews and hate speech datasets, and the Korean Named Entity Recognition dataset. Through our tests, we found that K-MT is better fit to process internet slangs, proper nouns, and coinages, compared to a morpheme analyzer and a character-level WordPiece tokenizer.
+Author{1}{Firstname}#=%=#Sangah
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#sana
+Author{1}{Email}#=%=#visualjan@snu.ac.kr
+Author{1}{Affiliation}#=%=#Seoul National Univeristy
+Author{2}{Firstname}#=%=#Hyopil
+Author{2}{Lastname}#=%=#Shin
+Author{2}{Username}#=%=#hpshin
+Author{2}{Email}#=%=#hpshin@snu.ac.kr
+Author{2}{Affiliation}#=%=#Seoul National University
+
+==========

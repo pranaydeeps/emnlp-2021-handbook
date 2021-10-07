@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#Integrating Transformers and Knowledge Graphs for Twitter Stance Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Thomas Hikaru Clark
+JobTitle#==#
+Organization#==#Language Technology Lab, University of Cambridge, Cambridge, United Kingdom
+Abstract#==#Stance detection (SD) entails classifying the sentiment of a text towards a given target, and is a relevant sub-task for opinion mining and social media analysis. Recent works have explored knowledge infusion supplementing the linguistic competence and latent knowledge of large pre-trained language models with structured knowledge graphs (KGs), yet few works have applied such methods to the SD task. In this work, we first perform stance-relevant knowledge probing on Transformers-based pre-trained models in a zero-shot setting, showing these models' latent real-world knowledge about SD targets and their sensitivity to context. We then train and evaluate new knowledge-enriched stance detection models on two Twitter stance datasets, achieving state-of-the-art performance on both.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Clark
+Author{1}{Username}#=%=#thomashikaruclark
+Author{1}{Email}#=%=#thc44@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Costanza
+Author{2}{Lastname}#=%=#Conforti
+Author{2}{Username}#=%=#monod
+Author{2}{Email}#=%=#costanza.conforti@gmail.com
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Fangyu
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#liugfangyu1996
+Author{3}{Email}#=%=#fl399@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Zaiqiao
+Author{4}{Lastname}#=%=#Meng
+Author{4}{Username}#=%=#mengzaiqiao
+Author{4}{Email}#=%=#zaiqiao.meng@gmail.com
+Author{4}{Affiliation}#=%=#University of Cambridge
+Author{5}{Firstname}#=%=#Ehsan
+Author{5}{Lastname}#=%=#Shareghi
+Author{5}{Username}#=%=#ehsann
+Author{5}{Email}#=%=#ehsan.shareghi@gmail.com
+Author{5}{Affiliation}#=%=#Monash University
+Author{6}{Firstname}#=%=#Nigel
+Author{6}{Lastname}#=%=#Collier
+Author{6}{Username}#=%=#collier
+Author{6}{Email}#=%=#nhc30@cam.ac.uk
+Author{6}{Affiliation}#=%=#University of Cambridge
+
+==========

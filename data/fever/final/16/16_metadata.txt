@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#The Fact Extraction and VERification Over Unstructured and Structured information (FEVEROUS) Shared Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#JP Thorne
+JobTitle#==#
+Organization#==#
+Abstract#==#The Fact Extraction and VERification Over Unstructured and Structured information (FEVEROUS) 
+shared task, asks participating systems to determine whether human-authored claims are Supported or Refuted based on evidence retrieved from Wikipedia (or NotEnoughInfo if the claim cannot be verified). 
+Compared to the FEVER 2018 shared task, the main challenge is the addition of structured data (tables and lists) as a source of evidence.
+The claims in the FEVEROUS dataset can be verified using only structured evidence, only unstructured evidence, or a mixture of both. Submissions are evaluated using the FEVEROUS score that combines label accuracy and evidence retrieval. Unlike FEVER 2018, FEVEROUS requires partial evidence to be returned for NotEnoughInfo claims, and the claims are longer and thus more complex. The shared task received 13 entries, six of which were able to beat the baseline system. The winning team was "Bust a move!", achieving a FEVEROUS score of 27% (+9% compared to the baseline). In this paper we describe the shared task, present the full results and highlight commonalities and innovations among the participating systems.
+Author{1}{Firstname}#=%=#Rami
+Author{1}{Lastname}#=%=#Aly
+Author{1}{Username}#=%=#raly
+Author{1}{Email}#=%=#rami.aly@outlook.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Zhijiang
+Author{2}{Lastname}#=%=#Guo
+Author{2}{Username}#=%=#zhijiang_guo
+Author{2}{Email}#=%=#cartusguo@gmail.com
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Michael Sejr
+Author{3}{Lastname}#=%=#Schlichtkrull
+Author{3}{Username}#=%=#msejr
+Author{3}{Email}#=%=#mss84@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#James
+Author{4}{Lastname}#=%=#Thorne
+Author{4}{Username}#=%=#jamesthorne
+Author{4}{Email}#=%=#jt719@cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+Author{5}{Firstname}#=%=#Andreas
+Author{5}{Lastname}#=%=#Vlachos
+Author{5}{Username}#=%=#andreas.vlachos
+Author{5}{Email}#=%=#av308@cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+Author{6}{Firstname}#=%=#Christos
+Author{6}{Lastname}#=%=#Christodoulopoulos
+Author{6}{Username}#=%=#christos.c
+Author{6}{Email}#=%=#christos.c2009@gmail.com
+Author{6}{Affiliation}#=%=#Amazon Research
+Author{7}{Firstname}#=%=#Oana
+Author{7}{Lastname}#=%=#Cocarascu
+Author{7}{Username}#=%=#oc511
+Author{7}{Email}#=%=#oana.cocarascu@kcl.ac.uk
+Author{7}{Affiliation}#=%=#King's College London
+Author{8}{Firstname}#=%=#Arpit
+Author{8}{Lastname}#=%=#Mittal
+Author{8}{Username}#=%=#arpitmittal
+Author{8}{Email}#=%=#arpit.mittal@yahoo.com
+Author{8}{Affiliation}#=%=#Facebook
+
+==========

@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Text Simplification for Comprehension-based Question-Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tanvi Dadu
+JobTitle#==#
+Organization#==#
+Abstract#==#Text simplification is the process of splitting and rephrasing a sentence to a sequence of sentences making it easier to read and understand while preserving the content and approximating the original meaning. Text simplification has been exploited in NLP applications like machine translation, summarization, semantic role labeling, and information extraction, opening a broad avenue for its exploitation in comprehension-based question-answering downstream tasks. In this work, we investigate the effect of text simplification in the task of question-answering using a comprehension context. We release Simple-SQuAD, a simplified version of the widely-used SQuAD dataset. 
+
+Firstly, we outline each step in the dataset creation pipeline, including style transfer, thresholding of sentences showing correct transfer, and offset finding for each answer. Secondly, we verify the quality of the transferred sentences through various methodologies involving both automated and human evaluation. Thirdly, we benchmark the newly created corpus and perform an ablation study for examining the effect of the simplification process in the SQuAD-based question answering task. Our experiments show that simplification leads to up to 2.04% and 1.74% increase in Exact Match and F1, respectively. Finally, we conclude with an analysis of the transfer process, investigating the types of edits made by the model, and the effect of sentence length on the transfer model.
+Author{1}{Firstname}#=%=#TANVI
+Author{1}{Lastname}#=%=#DADU
+Author{1}{Username}#=%=#tanvidadu
+Author{1}{Email}#=%=#tanvid.co.16@nsit.net.in
+Author{1}{Affiliation}#=%=#Netaji Subhas Institute of Technology, New Delhi
+Author{2}{Firstname}#=%=#Kartikey
+Author{2}{Lastname}#=%=#Pant
+Author{2}{Username}#=%=#kartikeypant
+Author{2}{Email}#=%=#kartikey.pant@research.iiit.ac.in
+Author{2}{Affiliation}#=%=#IIIT Hyderabad
+Author{3}{Firstname}#=%=#Seema
+Author{3}{Lastname}#=%=#Nagar
+Author{3}{Username}#=%=#seemanagar
+Author{3}{Email}#=%=#nagar.seema@gmail.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Ferdous
+Author{4}{Lastname}#=%=#Barbhuiya
+Author{4}{Username}#=%=#ferdous
+Author{4}{Email}#=%=#ferdousa@gmail.com
+Author{4}{Affiliation}#=%=#IIIT Guwahati
+Author{5}{Firstname}#=%=#Kuntal
+Author{5}{Lastname}#=%=#Dey
+Author{5}{Username}#=%=#kuntadey
+Author{5}{Email}#=%=#u2ckuntal@gmail.com
+Author{5}{Affiliation}#=%=#Accenture Technology Labs
+
+==========

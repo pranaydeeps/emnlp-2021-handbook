@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Recurrent Attention for the Transformer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jan Rosendahl
+JobTitle#==#
+Organization#==#RWTH Aachen University
+Abstract#==#In this work, we conduct a comprehensive investigation on one of the centerpieces of modern machine translation systems: the encoder-decoder attention mechanism. Motivated by the concept of first-order alignments, we extend the (cross-)attention mechanism by a recurrent connection, allowing direct access to previous attention/alignment decisions. We propose several ways to include such a recurrency into the attention mechanism. Verifying their performance across different translation tasks we conclude that these extensions and dependencies are not beneficial for the translation performance of the Transformer architecture.
+Author{1}{Firstname}#=%=#Jan
+Author{1}{Lastname}#=%=#Rosendahl
+Author{1}{Username}#=%=#rosendahl
+Author{1}{Email}#=%=#rosendahl@i6.informatik.rwth-aachen.de
+Author{1}{Affiliation}#=%=#RWTH Aachen University
+Author{2}{Firstname}#=%=#Christian
+Author{2}{Lastname}#=%=#Herold
+Author{2}{Username}#=%=#christianherold
+Author{2}{Email}#=%=#herold@i6.informatik.rwth-aachen.de
+Author{2}{Affiliation}#=%=#RWTH Aachen University
+Author{3}{Firstname}#=%=#Frithjof
+Author{3}{Lastname}#=%=#Petrick
+Author{3}{Username}#=%=#frithjof
+Author{3}{Email}#=%=#petrick@i6.informatik.rwth-aachen.de
+Author{3}{Affiliation}#=%=#RWTH Aachen University
+Author{4}{Firstname}#=%=#Hermann
+Author{4}{Lastname}#=%=#Ney
+Author{4}{Username}#=%=#hney
+Author{4}{Email}#=%=#ney@cs.rwth-aachen.de
+Author{4}{Affiliation}#=%=#RWTH Aachen University
+
+==========

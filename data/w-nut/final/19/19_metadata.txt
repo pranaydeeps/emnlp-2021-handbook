@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Common Sense Bias in Semantic Role Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Heather Lent
+JobTitle#==#
+Organization#==#
+Abstract#==#Large-scale language models such as ELMo and BERT have pushed the horizon of what is possible in semantic role labeling (SRL), solving the out-of-vocabulary problem and enabling end-to-end systems, but they have also introduced significant biases. We evaluate three SRL parsers on very simple transitive sentences with verbs usually associated with animate subjects and objects, such as, "Mary babysat Tom": a state-of-the-art parser based on BERT, an older parser based on GloVe, and an even older parser from before the days of word embeddings. When arguments are word forms predominantly used as person names, aligning with common sense expectations of animacy, the BERT-based parser is unsurprisingly superior; yet, with abstract or random nouns, the opposite picture emerges. We refer to this as "common sense bias" and present a challenge dataset for evaluating the extent to which parsers are sensitive to such a bias. Our code and challenge dataset are available here: github.com/coastalcph/comte
+Author{1}{Firstname}#=%=#Heather
+Author{1}{Lastname}#=%=#Lent
+Author{1}{Username}#=%=#hclent
+Author{1}{Email}#=%=#hcl@di.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Anders
+Author{2}{Lastname}#=%=#Søgaard
+Author{2}{Username}#=%=#soegaard
+Author{2}{Email}#=%=#soegaard@di.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+
+==========

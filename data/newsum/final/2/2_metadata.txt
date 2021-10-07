@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#A New Dataset and Efficient Baselines for Document-level Text Simplification in German
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Annette Rios
+JobTitle#==#
+Organization#==#
+Abstract#==#The task of document-level text simplification is very similar to summarization with the additional difficulty of reducing complexity.
+We introduce a newly collected data set of German texts, collected from the Swiss news magazine 20 Minuten (`20 Minutes') that consists of full articles paired with simplified summaries. 
+Furthermore, we present experiments on automatic text simplification with the pretrained multilingual mBART and a modified version thereof that is more memory-friendly, using both our new data set and existing simplification corpora.
+Our modifications of mBART let us train at a lower memory cost without much loss in performance, in fact, the smaller mBART even improves over the standard model in a setting with multiple simplification levels.
+Author{1}{Firstname}#=%=#Annette
+Author{1}{Lastname}#=%=#Rios
+Author{1}{Username}#=%=#arios
+Author{1}{Email}#=%=#arios@ifi.uzh.ch
+Author{1}{Affiliation}#=%=#University of Zurich
+Author{2}{Firstname}#=%=#Nicolas
+Author{2}{Lastname}#=%=#Spring
+Author{2}{Email}#=%=#spring@cl.uzh.ch
+Author{2}{Affiliation}#=%=#University of Zurich
+Author{3}{Firstname}#=%=#Tannon
+Author{3}{Lastname}#=%=#Kew
+Author{3}{Username}#=%=#tkew
+Author{3}{Email}#=%=#tannon.kew@uzh.ch
+Author{3}{Affiliation}#=%=#University of Zurich
+Author{4}{Firstname}#=%=#Marek
+Author{4}{Lastname}#=%=#Kostrzewa
+Author{4}{Email}#=%=#marek.kostrzewa@uzh.ch
+Author{4}{Affiliation}#=%=#University of Zurich
+Author{5}{Firstname}#=%=#Andreas
+Author{5}{Lastname}#=%=#Säuberli
+Author{5}{Username}#=%=#andreas.saeuberli
+Author{5}{Email}#=%=#andreas.saeuberli@uzh.ch
+Author{5}{Affiliation}#=%=#University of Zurich
+Author{6}{Firstname}#=%=#Mathias
+Author{6}{Lastname}#=%=#Müller
+Author{6}{Username}#=%=#this91
+Author{6}{Email}#=%=#mmueller@cl.uzh.ch
+Author{6}{Affiliation}#=%=#University of Zurich
+Author{7}{Firstname}#=%=#Sarah
+Author{7}{Lastname}#=%=#Ebling
+Author{7}{Username}#=%=#sarahebling
+Author{7}{Email}#=%=#ebling@cl.uzh.ch
+Author{7}{Affiliation}#=%=#University of Zurich
+
+==========

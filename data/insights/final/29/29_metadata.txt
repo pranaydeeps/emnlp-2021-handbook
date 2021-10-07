@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Backtranslation in Neural Morphological Inflection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ling Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Backtranslation is a common technique for leveraging unlabeled data in low-resource scenarios in machine translation. The method is directly applicable to morphological inflection generation if unlabeled word forms are available. This paper evaluates the potential of backtranslation for morphological inflection using data from six languages with labeled data drawn from the SIGMORPHON shared task resource and unlabeled data from different sources. Our core finding is that backtranslation can offer modest improvements in low-resource scenarios, but only if the unlabeled data is very clean and has been filtered by the same annotation standards as the labeled data.
+Author{1}{Firstname}#=%=#Ling
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#ling.liu
+Author{1}{Email}#=%=#ling.liu@colorado.edu
+Author{1}{Affiliation}#=%=#University of Colorado Boulder
+Author{2}{Firstname}#=%=#Mans
+Author{2}{Lastname}#=%=#Hulden
+Author{2}{Username}#=%=#mhulden
+Author{2}{Email}#=%=#mhulden@email.arizona.edu
+Author{2}{Affiliation}#=%=#University of Colorado
+
+==========

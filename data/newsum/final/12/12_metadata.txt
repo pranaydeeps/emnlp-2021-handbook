@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Sentence-level Planning for Especially Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Andreas Marfurt
+JobTitle#==#
+Organization#==#Idiap Research Institute, Rue Marconi 19, 1920 Martigny, Switzerland
+Abstract#==#Abstractive summarization models heavily rely on copy mechanisms, such as the pointer network or attention, to achieve good performance, measured by textual overlap with reference summaries. As a result, the generated summaries stay close to the formulations in the source document. We propose the *sentence planner* model to generate more abstractive summaries. It includes a hierarchical decoder that first generates a representation for the next summary sentence, and then conditions the word generator on this representation. Our generated summaries are more abstractive and at the same time achieve high ROUGE scores when compared to human reference summaries. We verify the effectiveness of our design decisions with extensive evaluations.
+Author{1}{Firstname}#=%=#Andreas
+Author{1}{Lastname}#=%=#Marfurt
+Author{1}{Username}#=%=#amarfurt
+Author{1}{Email}#=%=#andreas.marfurt@idiap.ch
+Author{1}{Affiliation}#=%=#Idiap Research Institute and EPFL
+Author{2}{Firstname}#=%=#James
+Author{2}{Lastname}#=%=#Henderson
+Author{2}{Username}#=%=#jameshenderson
+Author{2}{Email}#=%=#james.henderson@idiap.ch
+Author{2}{Affiliation}#=%=#Idiap Research Institute
+
+==========

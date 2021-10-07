@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#40
+FinalPaperTitle#=%=#Active Learning for Argument Strength Estimation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nataliia Kees
+JobTitle#==#
+Organization#==#
+Abstract#==#High-quality arguments are an essential part of decision-making. Automatically predicting the quality of an argument is a complex task that recently got much attention in argument mining. However, the annotation effort for this task is exceptionally high. Therefore, we test uncertainty-based active learning (AL) methods on two popular argument-strength data sets to estimate whether sample-efficient learning can be enabled. Our extensive empirical evaluation shows that uncertainty-based acquisition functions can not surpass the accuracy reached with the random acquisition on these data sets.
+Author{1}{Firstname}#=%=#Nataliia
+Author{1}{Lastname}#=%=#Kees
+Author{1}{Username}#=%=#nkees
+Author{1}{Email}#=%=#kees.nataliia@gmail.com
+Author{1}{Affiliation}#=%=#Database Systems and Data Mining, LMU Munich
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Fromm
+Author{2}{Email}#=%=#fromm@dbs.ifi.lmu.de
+Author{2}{Affiliation}#=%=#Database Systems and Data Mining, LMU Munich
+Author{3}{Firstname}#=%=#Evgeniy
+Author{3}{Lastname}#=%=#Faerman
+Author{3}{Email}#=%=#evgeniy.faerman@gmail.com
+Author{3}{Affiliation}#=%=#Database Systems and Data Mining, LMU Munich
+Author{4}{Firstname}#=%=#Thomas
+Author{4}{Lastname}#=%=#Seidl
+Author{4}{Email}#=%=#seidl@dbs.ifi.lmu.de
+Author{4}{Affiliation}#=%=#Database Systems and Data Mining, LMU Munich
+
+==========

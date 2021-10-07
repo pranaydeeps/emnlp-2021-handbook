@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Detecting Depression in Thai Blog Posts: a Dataset and a Baseline
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mika Hämäläinen
+JobTitle#==#
+Organization#==#University of Helsinki, Unioninkatu 40, 00100 Helsinki, Finland
+Abstract#==#We present the first openly available corpus for detecting depression in Thai. Our corpus is compiled by expert verified cases of depression in several online blogs. We experiment with two different LSTM based models and two different BERT based models. We achieve a 77.53% accuracy with a Thai BERT model in detecting depression. This establishes a good baseline for future researcher on the same corpus. Furthermore, we identify a need for Thai embeddings that have been trained on a more varied corpus than Wikipedia. Our corpus, code and trained models have been released openly on Zenodo.
+Author{1}{Firstname}#=%=#Mika
+Author{1}{Lastname}#=%=#Hämäläinen
+Author{1}{Username}#=%=#mikahama
+Author{1}{Email}#=%=#mika.hamalainen@helsinki.fi
+Author{1}{Affiliation}#=%=#University of Helsinki, Rootroo Ltd
+Author{2}{Firstname}#=%=#Pattama
+Author{2}{Lastname}#=%=#Patpong
+Author{2}{Email}#=%=#ppattama@yahoo.com
+Author{2}{Affiliation}#=%=#Mahidol University
+Author{3}{Firstname}#=%=#Khalid
+Author{3}{Lastname}#=%=#Alnajjar
+Author{3}{Username}#=%=#alnajjar
+Author{3}{Email}#=%=#khldalnajjar@gmail.com
+Author{3}{Affiliation}#=%=#University of Helsinki
+Author{4}{Firstname}#=%=#Niko
+Author{4}{Lastname}#=%=#Partanen
+Author{4}{Username}#=%=#nikopartanen
+Author{4}{Email}#=%=#niko.partanen@helsinki.fi
+Author{4}{Affiliation}#=%=#University of Helsinki
+Author{5}{Firstname}#=%=#Jack
+Author{5}{Lastname}#=%=#Rueter
+Author{5}{Username}#=%=#jmrueter
+Author{5}{Email}#=%=#rueter.jack@gmail.com
+Author{5}{Affiliation}#=%=#University of Helsinki, Digital Humanities
+
+==========

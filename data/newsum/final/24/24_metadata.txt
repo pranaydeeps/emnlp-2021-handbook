@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#EASE: Extractive-Abstractive Summarization End-to-End using the Information Bottleneck Principle
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haoran Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Current abstractive summarization systems outperform their extractive counterparts, but their widespread adoption is inhibited by the inherent lack of interpretability. Extractive summarization systems, though interpretable, suffer from redundancy and possible lack of coherence. To achieve the best of both worlds, we propose EASE, an extractive-abstractive framework that generates concise abstractive summaries that can be traced back to an extractive summary. Our framework can be applied to any evidence-based text generation problem and can accommodate various pretrained models in its simple architecture.  We use the Information Bottleneck principle to jointly train the  extraction and abstraction in an end-to-end fashion. Inspired by previous research that humans use a two-stage framework to summarize long documents (Jing and McKeown, 2000), our framework first extracts a pre-defined amount of evidence spans and then generates a summary using only the evidence. Using automatic and human evaluations, we show that the generated summaries are better than strong extractive and extractive-abstractive baselines.
+Author{1}{Firstname}#=%=#Haoran
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#aimeeli
+Author{1}{Email}#=%=#lihaoran0502@gmail.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Arash
+Author{2}{Lastname}#=%=#Einolghozati
+Author{2}{Username}#=%=#einolghozati
+Author{2}{Email}#=%=#einolghozati@gmail.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Srinivasan
+Author{3}{Lastname}#=%=#Iyer
+Author{3}{Username}#=%=#sviyer
+Author{3}{Email}#=%=#sviyer@fb.com
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Bhargavi
+Author{4}{Lastname}#=%=#Paranjape
+Author{4}{Username}#=%=#bhargavi22294
+Author{4}{Email}#=%=#bparan@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Yashar
+Author{5}{Lastname}#=%=#Mehdad
+Author{5}{Username}#=%=#yashar_mehdad
+Author{5}{Email}#=%=#ymahdad@gmail.com
+Author{5}{Affiliation}#=%=#Facebook AI
+Author{6}{Firstname}#=%=#Sonal
+Author{6}{Lastname}#=%=#Gupta
+Author{6}{Username}#=%=#sonalgupta
+Author{6}{Email}#=%=#sonalgupta@fb.com
+Author{6}{Affiliation}#=%=#Facebook
+Author{7}{Firstname}#=%=#Marjan
+Author{7}{Lastname}#=%=#Ghazvininejad
+Author{7}{Username}#=%=#mghazvininejad
+Author{7}{Email}#=%=#ghazvini@fb.com
+Author{7}{Affiliation}#=%=#Facebook AI Research
+
+==========

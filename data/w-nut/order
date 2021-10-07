@@ -1,0 +1,50 @@
+3   # Text Simplification for Comprehension-based Question-Answering
+4   # Finding the needle in a haystack: Extraction of Informative COVID-19 Danish Tweets
+5   # Detecting Depression in Thai Blog Posts: a Dataset and a Baseline
+9   # Keyphrase Extraction with Incomplete Annotated Training Data
+10   # Fine-grained Temporal Relation Extraction with Ordered-Neuron LSTM and Graph Convolutional Networks
+11   # Does It Happen? Multi-hop Path Structures for Event Factuality Prediction with Graph Transformer Networks
+12   # Google-trickers, Yaminjeongeum, and Leetspeak: An Empirical Taxonomy for Intentionally Noisy User-Generated Text
+13   # Description-based Label Attention Classifier for Explainable ICD-9 Classification
+14   # A Text Editing Approach to Joint Japanese Word Segmentation, POS Tagging, and Lexical Normalization
+15   # Intrinsic evaluation of language models for code-switching
+16   # Can images help recognize entities? A study of the role of images for Multimodal NER
+17   # Perceived and Intended Sarcasm Detection with Graph Attention Networks
+18   # Hierarchical Character Tagger for Short Text Spelling Error Correction
+19   # Common Sense Bias in Semantic Role Labeling
+22   # PoliWAM: An Exploration of a Large Scale Corpus of Political Discussions on WhatsApp Messenger
+23   # ParsTwiNER: A Corpus for Named Entity Recognition at Informal Persian
+24   # DreamDrug - A crowdsourced NER dataset for detecting drugs in darknet markets
+26   # Comparing Grammatical Theories of Code-Mixing
+29   # Improving Punctuation Restoration for Speech Transcripts via External Data
+30   # Learning to Rank Question Answer Pairs with Bilateral Contrastive Data Augmentation
+31   # Mitigation of Diachronic Bias in Fake News Detection Dataset
+33   # Understanding the Impact of UGC Specificities on Translation Quality
+34   # Noisy UGC Translation at the Character Level: Revisiting Open-Vocabulary Capabilities and Robustness of Char-Based Models
+36   # Changes in Twitter geolocations: Insights and suggestions for future usage
+37   # ConQuest: Contextual Question Paraphrasing through Answer-Aware Synthetic Question Generation
+39   # NADE: A Benchmark for Robust Adverse Drug Events Extraction in Face of Negations
+40   # SpanAlign: Efficient Sequence Tagging Annotation Projection into Translated Data applied to Cross-Lingual Opinion Mining
+41   # A Novel Framework for Detecting Important Subevents from Crisis Events via Dynamic Semantic Graphs
+42   # Synthetic Data Generation and Multi-Task Learning for Extracting Temporal Information from Health-Related Narrative Text
+45   # Neural-based RST Parsing And Analysis In Persuasive Discourse
+46   # BART for Post-Correction of OCR Newspaper Text
+47   # Coping with Noisy Training Data Labels in Paraphrase Detection
+48   # Knowledge Distillation with Noisy Labels for Natural Language Understanding
+49   # Integrating Transformers and Knowledge Graphs for Twitter Stance Detection
+50   # Detecting Cross-Geographic Biases in Toxicity Modeling on Social Media
+51   # Detection of Puffery on the English Wikipedia
+52   # Robustness and Sensitivity of BERT Models Predicting Alzheimer's Disease from Text
+54   # Understanding Model Robustness to User-generated Noisy Texts
+55   # CIDEr-R: Robust Consensus-based Image Description Evaluation
+56   # Improved Named Entity Recognition for Noisy Call Center Transcripts
+57   # Contrapositive Local Class Inference
+60   # Improved Multilingual Language Model Pretraining for Social Media Text via Translation Pair Prediction
+61   # Co-training for Commit Classification
+62   # Study of Manifestation of Civil Unrest on Twitter
+63   # The Korean Morphologically Tight-Fitting Tokenizer for Noisy User-Generated Texts
+64   # Character Transformations for Non-Autoregressive GEC Tagging
+65   # Can Character-based Language Models Improve Downstream Task Performances In Low-Resource And Noisy Language Scenarios?
+67   # "Something Something Hota Hai!" An Explainable Approach towards Sentiment Analysis on Indian Code-Mixed Data
+68   # BERTweetFR : Domain Adaptation of Pre-Trained Language Models for French Tweets
+69   # To What Extent Does Lexical Normalization Help English-as-a-Second Language Learners to Read Noisy English Texts?

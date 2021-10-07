@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Using Word Embedding to Reveal Monetary Policy Explanation Changes
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Akira Matsui
+JobTitle#==#
+Organization#==#
+Abstract#==#Documents have been an essential tool of communication for governments to announce their policy operations. Most policy announcements have taken the form of text to inform their new policies or changes to the public. To understand such policymakers' communication, many researchers exploit published policy documents. However, the methods well-used in other research domains such as sentiment analysis or topic modeling are not suitable for studying policy communications. Their training corpora and methods are not for policy documents where technical terminologies are used, and sentiment expressions are refrained. We leverage word embedding techniques to extract semantic changes in the monetary policy documents. Our empirical study shows that the policymaker uses different semantics according to the type of documents when they change their policy.
+Author{1}{Firstname}#=%=#Akira
+Author{1}{Lastname}#=%=#Matsui
+Author{1}{Username}#=%=#amatsui
+Author{1}{Email}#=%=#amatsui@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Xiang
+Author{2}{Lastname}#=%=#Ren
+Author{2}{Username}#=%=#xren7
+Author{2}{Email}#=%=#xiangren@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Emilio
+Author{3}{Lastname}#=%=#Ferrara
+Author{3}{Username}#=%=#emilioferrara
+Author{3}{Email}#=%=#emiliofe@usc.edu
+Author{3}{Affiliation}#=%=#USC
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#The Highs and Lows of Simple Lexical Domain Adaptation Approaches for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nikolay Bogoychev
+JobTitle#==#
+Organization#==#University of Edinburgh, Old College, South Bridge, Edinburgh EH8 9YL
+Abstract#==#Machine translation systems are vulnerable to domain mismatch, especially in a low-resource scenario. Out-of-domain translations are often of poor quality and prone to hallucinations, due to exposure bias and the decoder acting as a language model. We adopt two approaches to alleviate this problem: lexical shortlisting restricted by IBM statistical alignments, and hypothesis reranking based on similarity. The methods are computationally cheap and show success on low-resource out-of-domain test sets. However, the methods lose advantage when there is sufficient data or too great domain mismatch. This is due to both the IBM model losing its advantage over the implicitly learned neural alignment, and issues with subword segmentation of unseen words.
+Author{1}{Firstname}#=%=#Nikolay
+Author{1}{Lastname}#=%=#Bogoychev
+Author{1}{Username}#=%=#xapajiamnu
+Author{1}{Email}#=%=#nbogoych@exseed.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Pinzhen
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#pzchen
+Author{2}{Email}#=%=#pinzhen.chen@ed.ac.uk
+Author{2}{Affiliation}#=%=#The University of Edinburgh
+
+==========

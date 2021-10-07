@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#46
+FinalPaperTitle#=%=#BART for Post-Correction of OCR Newspaper Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Elizabeth Soper
+JobTitle#==#
+Organization#==#
+Abstract#==#Optical character recognition (OCR) from newspaper page images is susceptible to noise due to degradation of old documents and variation in typesetting. In this report, we present a novel approach to OCR post-correction. We cast error correction as a translation task, and fine-tune BART, a transformer-based sequence-to-sequence language model pretrained to denoise corrupted text. We are the first to use sentence-level transformer models for OCR post-correction, and our best model achieves a 29.4% improvement in character accuracy over the original noisy OCR text. Our results demonstrate the utility of pretrained language models for dealing with noisy text.
+Author{1}{Firstname}#=%=#Elizabeth
+Author{1}{Lastname}#=%=#Soper
+Author{1}{Username}#=%=#esoper
+Author{1}{Email}#=%=#esoper@buffalo.edu
+Author{1}{Affiliation}#=%=#University at Buffalo (SUNY)
+Author{2}{Firstname}#=%=#Stanley
+Author{2}{Lastname}#=%=#Fujimoto
+Author{2}{Email}#=%=#sfujimoto@ancestry.com
+Author{2}{Affiliation}#=%=#Ancestry.com LLC
+Author{3}{Firstname}#=%=#Yen-Yun
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Email}#=%=#guguguom@gmail.com
+Author{3}{Affiliation}#=%=#Ancestry.com LLC
+
+==========

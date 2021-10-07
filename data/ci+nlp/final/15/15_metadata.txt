@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#It's quality and quantity: the effect of the amount of comments on online suicidal posts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Daniel M. Low
+JobTitle#==#
+Organization#==#
+Abstract#==#Every day, individuals post suicide notes on social media asking for support, resources, and reasons to live. Some posts receive few comments while others receive many. While prior studies have analyzed whether specific responses are more or less helpful, it is not clear if the quantity of comments received is beneficial in reducing symptoms or in keeping the user engaged with the platform and hence with life. In the present study, we create a large dataset of users' first r/SuicideWatch (SW) posts from Reddit (N=21,274), collect the comments as well as the user's subsequent posts (N=1,615,699) to determine whether they post in SW again in the future. We use propensity score stratification, a causal inference method for observational data, and estimate whether the amount of comments —as a measure of social support— increases or decreases the likelihood of posting again on SW. One hypothesis is that receiving more comments may \textit{decrease} the likelihood of the user posting in SW in the future, either by reducing symptoms or because comments from untrained peers may be harmful. On the contrary, we find that receiving more comments \textit{increases} the likelihood a user will post in SW again. We discuss how receiving more comments is helpful, not by permanently relieving symptoms since users make another SW post and their second posts have similar mentions of suicidal ideation, but rather by reinforcing users to seek support and remain engaged with the platform. Furthermore, since receiving only 1 comment —the most common case— decreases the likelihood of posting again by 14% on average depending on the time window, it is important to develop systems that encourage more commenting.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Low
+Author{1}{Username}#=%=#danielmlow
+Author{1}{Email}#=%=#dlow@g.harvard.edu
+Author{1}{Affiliation}#=%=#Harvard University & MIT
+Author{2}{Firstname}#=%=#Kelly
+Author{2}{Lastname}#=%=#Zuromski
+Author{2}{Email}#=%=#kelly_zuromski@fas.harvard.edu
+Author{2}{Affiliation}#=%=#Harvard University
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Kessler
+Author{3}{Email}#=%=#dtkessler@fas.harvard.edu
+Author{3}{Affiliation}#=%=#Harvard University
+Author{4}{Firstname}#=%=#Satrajit S.
+Author{4}{Lastname}#=%=#Ghosh
+Author{4}{Email}#=%=#satra@mit.edu
+Author{4}{Affiliation}#=%=#MIT & Harvard Medical School
+Author{5}{Firstname}#=%=#Matthew K.
+Author{5}{Lastname}#=%=#Nock
+Author{5}{Email}#=%=#nock@wjh.harvard.edu
+Author{5}{Affiliation}#=%=#Harvard University
+Author{6}{Firstname}#=%=#Walter
+Author{6}{Lastname}#=%=#Dempsey
+Author{6}{Email}#=%=#wdem@umich.edu
+Author{6}{Affiliation}#=%=#University of Michigan
+
+==========
