@@ -1,0 +1,44 @@
+% This file is just done manually
+
+\chapter{Tutorials: \daydate}
+\thispagestyle{emptyheader}
+\setheaders{Tutorials}{\daydateyear}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{2ex}
+\renewcommand{\baselinestretch}{0.87}
+
+\newcommand{\tutorialmorningtime}{9:00--12:30pm}
+%\newcommand{\tutorialafternoontime}{2:00--5:30pm}
+
+\section*{Overview}
+\renewcommand{\arraystretch}{1.2}
+\begin{SingleTrackSchedule}
+  %7:30 & -- & 6:00 &
+  %{\bfseries Registration} \hfill\emph{\RegistrationLoc}
+  %\\
+  %7:30 & -- & 9:00 &
+  %{\bfseries Breakfast} \hfill\emph{\BreakfastLoc}
+  %\\
+  9:00 & -- & 12:30 &
+  {\bfseries Morning Tutorials} \hfill
+  \\
+  & & & \papertitle{tutorial-final-01}\hfill\emph{\TutLocA}\newline
+  \tutorialauthors{tutorial-final-01} \\
+  \\
+  & & & \papertitle{tutorial-final-02}\hfill\emph{\TutLocA}\newline
+  \tutorialauthors{tutorial-final-02} \\
+  \\
+  & & & \papertitle{tutorial-final-03}\hfill\emph{\TutLocA}\newline
+  \tutorialauthors{tutorial-final-03} \\
+  \\
+  10:30 & -- & 11:00 &
+  {\bfseries Coffee break}
+  \\
+\end{SingleTrackSchedule}
+
+\clearpage
+\input{content/tutorials/tutorials-001.tex}
+\clearpage
+\input{content/tutorials/tutorials-002.tex}
+\clearpage
+\input{content/tutorials/tutorials-003.tex}
