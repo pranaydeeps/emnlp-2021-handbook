@@ -1,13 +1,13 @@
 W1, ECONLP
-Workshop on Economics and Natural Language Processing
+3rd Workshop on Economics and Natural Language Processing (ECONLP)
 Udo Hahn, Veronique Hoste and Amanda Stent
 
 W2, LAW-DMR
-2nd Workshop on Argumentation Mining
+LAW-DMR: The 15th Linguistic Annotation & 3rd Designing Meaning Representations Joint Workshop
 Claire Cardie, Nancy Green, Iryna Gurevych, Graeme Hirst, Diane Litman, Smaranda Muresan, Georgios Petasis, Manfred Stede, Marilyn Walker, Janyce Wiebe
 
 W3, NLP4ConvAI
-3rd Workshop on Conversational AI
+3rd Workshop on NLP for Conversational AI
 Alexandros Papangelis, Paweł Budzianowski, Elnaz Nouri, Bing Liu, Abhinav Rastogi and Yun-Nung Chen
 
 W4, NILLI
@@ -15,15 +15,15 @@ Novel Ideas in Learning-to-Learn through Interaction
 Prasanna Parthasarathi, Koustuv Sinha, Kalesha Bullard, Adina Williams, Marc-Alexandre Côté, Sarath Chandar and Joelle Pineau
 
 W5, Eval4NLP
-Evaluation and Comparison of NLP Systems
+2nd Workshop on Evaluation and Comparison of NLP Systems
 Steffen Eger, Yang Gao, Wei Zhao, Piyawat Lertvittayakumjorn and Marina Fomicheva
 
 W6, CI+NLP
-First Workshop on Causal Inference in NLP
+CI+NLP: First Workshop on Causal Inference and NLP
 Jacob Eisenstein, Amir Feder, Justin Grimmer, Katherine Keith, Emaad Manzoor, Reid Pryzant, Roi Reichart, Molly Roberts, Uri Shalit, Dhanya Sridhar, Brandon Stewart, Victor Veitch, Zach Wood-Doughty and Diyi Yang
 
 W7, W-NUT
-7th Workshop on Noisy User-generated Text
+7th Workshop on Noisy User-generated Text (W-NUT 2021)
 Wei Xu, Afshin Rahimi, Alan Ritter and Timothy Baldwin
 
 W8, LaTeCH-CLfl
@@ -47,19 +47,19 @@ The 3rd Workshop on Machine Reading for Question Answering
 Adam Fisch, Alon Talmor, Danqi Chen, Eunsol Choi, Minjoon Seo, Patrick Lewis, Robin Jia and Sewon Min
 
 W13, MRL
-The 1st Workshop on Multi-lingual Representation Learning
+The 1st Workshop on Multi-lingual Representation Learning (MRL)
 Duygu Ataman, Alexandra Birch, Alexis Conneau, Orhan Firat, Sebastian Ruder and Gözde Gül Şahin
 
 W14, WiNLP
-The Fifth Widening NLP Workshop
+The Fifth Widening NLP Workshop (WiNLP 2021)
 Khyathi Raghavi Chandu, Antonios Anastasopoulos, Erika Doggett, Tirthankar Ghosal, Haley Lepp, Sabrina J. Mielke, Surangika Ranathunga, Alexandra Schofield, Ryan Georgi and Alicia Tsai
 
 W15, NLLP
-Workshop on Natural Legal Language Processing
+The Natural Legal Language Processing Workshop 2021
 Nikolaos Aletras, Ion Androutsopoulos, Leslie Barrett, Catalina Goanta and Daniel Preotiuc-Pietro
 
 W16, CODI
-2nd Workshop on Computational Approaches to Discourse
+2nd Workshop on Computational Approaches to Discourse (CODI)
 Chloé Braud, Christian Hardmeier, Junyi Jessy Li, Annie Louis, Michael Strube and Amir Zeldes
 
 W17, EANCS
@@ -67,7 +67,7 @@ Workshop on Evaluations and Assessments of Neural Conversation Systems
 Wei Wei, Bo Dai, Tuo Zhao, Lihong Li, Diyi Yang, Yun-Nung Chen, Y-Lan Boureau, Asli Celikyilmaz, Alborz Geramifard, Aman Ahuja, and Haoming Jiang
 
 W18, SustaiNLP
-The Second Workshop on Simple and Efficient Natural Language Processing
+SustaiNLP 2021: The Second Workshop on Simple and Efficient Natural Language Processing
 Angela Fan, Iryna Gurevych, Yufang Hou, Zornitsa Kozareva, Ana Marasović, Nafise Sadat Moosavi, Sujith Ravi, and Thomas Wolf
 
 W19, CRAC
@@ -75,7 +75,7 @@ Fourth Workshop on Computational Models of Reference, Anaphora and Coreference
 Maciej Ogrodniczuk, Massimo Poesio, Sameer Pradhan, Yulia Grishina and Vincent Ng
 
 W20, FEVER
-Fourth Workshop on Fact Extraction and VERification
+Fourth Workshop on Fact Extraction and VERification (FEVER)
 Rami Aly, Oana Cocarascu, Christos Christodoulopoulos, James Thorne, Andreas Vlachos and Arpit Mittal
 
 W21, NewSum
@@ -83,9 +83,9 @@ Third Workshop on New Frontiers in Summarization
 Lu Wang, Giuseppe Carenini, Jackie Chi Kit Cheung, Fei Liu and Yue Dong
 
 W22, CoNLL
-The SIGNLL Conference on Computational Natural Language Learning
+The 25th Conference on Computational Natural Language Learning (CoNLL)
 Omri Abend, Arianna Bisazza, Afra Alishahi and Julia Hockenmaier
 
 W23, BlackboxNLP
-Analyzing and interpreting neural networks for NLP
+BlackboxNLP: Analyzing and interpreting neural networks for NLP
 Dieuwke Hupkes, Yonatan Belinkov, Emmanuel Dupoux, Jasmijn Bastings, Mario Giulianelli, Yuval Pinter and Hassan Sajjad
