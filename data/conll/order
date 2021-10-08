@@ -1,0 +1,71 @@
+* Wednesday, November 10, 2021
++ 10:00--10:10 Welcome
+= 10:10--11:30 Oral session 1: Interaction, dialogue, and grounded language learning # %room Zoom
+30 10:10--10:30  # "It's our fault!'': Insights Into Users' Understanding and Interaction With an Explanatory Collaborative Dialog System
+151 10:30--10:50  # Dependency Induction Through the Lens of Visual Perception
+225 10:50--11:10  # VQA-MHUG: A Gaze Dataset to Study Multimodal Neural Attention in Visual Question Answering
+100 11:10--11:30  # ``It seemed like an annoying woman'': On the Perception and Ethical Considerations of Affective Language in Text-Based Conversational Agents
+= 11:30--12:00 Break # %room gathertown
+! 12:00--13:10 Keynote I: Linking learning to language typology %by Jennifer Culbertson
+= 13:10--14:10 Lunch break # %room gathertown
+= 14:10--15:50 Oral session 2: Theoretical analysis, probing, and interpretation of language  models # %room Zoom
+144 14:10--14:30  # On Language Models for Creoles
+16 14:30--14:50  # Do pretrained transformers infer telicity like humans?
+17 14:50--15:10  # The Low-Dimensional Linear Geometry of Contextualized Word Representations
+61 15:10--15:30  # Generalising to German Plural Noun Classes, from the Perspective of a Recurrent Neural Network
+134 15:30--15:50  # Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color
+= 15:50--16:20 Break # %room gathertown
+= 16:20--18:00 Poster session 1 # %room gathertown
+63 16:20--18:00  # Empathetic Dialog Generation with Fine-Grained Intents
+95 16:20--18:00  # Enriching Language Models with Visually-grounded Word Vectors and the Lancaster Sensorimotor Norms
+101 16:20--18:00  # Learning Zero-Shot Multifaceted Visually Grounded Word Embeddings via Multi-Task Training
+123 16:20--18:00  # Does language help generalization in vision models?
+146 16:20--18:00  # Understanding Guided Image Captioning Performance across Domains
+108 16:20--18:00  # Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction
+150 16:20--18:00  # Who___s on First?: Probing the Learning and Representation Capabilities of Language Models on Deterministic Closed Domains
+79 16:20--18:00  # Data Augmentation of Incorporating Real Error Patterns and Linguistic Knowledge for Grammatical Error Correction
+105 16:20--18:00  # Agree to Disagree: Analysis of Inter-Annotator Disagreements in Human Evaluation of Machine Translation Output
+149 16:20--18:00  # A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs
+168 16:20--18:00  # Explainable Natural Language to Bash Translation using Abstract Syntax Tree
+8 16:20--18:00  # Learned Construction Grammars Converge Across Registers Given Increased Exposure
+29 16:20--18:00  # Tokenization Repair in the Presence of Spelling Errors
+68 16:20--18:00  # A Coarse-to-Fine Labeling Framework for Joint Word Segmentation, POS Tagging, and Constituent Parsing
+152 16:20--18:00  # Understanding the Extent to which Content Quality Metrics Measure the Information Quality of Summaries
+* Thursday, November 11, 2021
+= 10:00--11:40 Oral session 3: Lexical, compositional, and discourse semantics; Pragmatics # %room Zoom
+125 10:00--10:20  # Summary-Source Proposition-level Alignment: Task, Datasets and Supervised Baseline
+94 10:20--10:40  # Exploring Metaphoric Paraphrase Generation
+115 10:40--11:00  # Imposing Relation Structure in Language-Model Embeddings Using Contrastive Learning
+130 11:00--11:20  # NOPE: A Corpus of Naturally-Occurring Presuppositions in English
+155 11:20--11:40  # Pragmatic competence of pre-trained language models through the lens of discourse connectives
+= 11:40--13:20 Poster session 2 # %room gathertown
+75 11:40--13:20  # Predicting Text Readability from Scrolling Interactions
+76 11:40--13:20  # Modeling the Interaction Between Perception-Based and Production-Based Learning in Children's Early Acquisition of Semantic Knowledge
+122 11:40--13:20  # Scaffolded input promotes atomic organization in the recurrent neural network language model
+137 11:40--13:20  # Grammatical Profiling for Semantic Change Detection
+156 11:40--13:20  # Deconstructing syntactic generalizations with minimalist grammars
+44 11:40--13:20  # Relation-aware Bidirectional Path Reasoning for Commonsense Question Answering
+73 11:40--13:20  # Does referent predictability affect the choice of referential form? A computational approach using masked coreference resolution
+78 11:40--13:20  # Polar Embedding
+154 11:40--13:20  # Commonsense Knowledge in Word Associations and ConceptNet
+164 11:40--13:20  # Cross-document Event Identity via Dense Annotation
+166 11:40--13:20  # Tackling Zero Pronoun Resolution and Non-Zero Coreference Resolution Jointly
+173 11:40--13:20  # Negation-Instance Based Evaluation of End-to-End Negation Resolution
+103 11:40--13:20  # Controlling Prosody in End-to-End TTS: A Case Study on Contrastive Focus Generation
+177 11:40--13:20  # A Large-scale Comprehensive Abusiveness Detection Dataset with Multifaceted Labels from Reddit
+53 11:40--13:20  # MirrorWiC: On Eliciting Word-in-Context Representations from Pretrained Language Models
+174 11:40--13:20  # A Data Bootstrapping Recipe for Low-Resource Multilingual Relation Classification
+56 11:40--13:20  # FAST: A carefully sampled and cognitively motivated dataset for distributional semantic evaluation
+212 11:40--13:20  # Automatic Error Type Annotation for Arabic
+= 13:20--14:20 Lunch break # %room gathertown
+! 14:20--15:30 Keynote II: What are we learning from language? %by Gary Lupyan
+= 15:30--15:50 Break # %room gathertown
+= 15:50--16:50 Oral session 4: Language evolution, acquisition and linguistic theories # %room Zoom
+32 15:50--16:10  # The Emergence of the Shape Bias Results from Communicative Efficiency
+92 16:10--16:30  # BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language
+128 16:30--16:50  # Analysing Human Strategies of Information Transmission as a Function of Discourse Context
+= 16:50--17:10 Break # %room gathertown
+= 17:10--17:50 Oral session 5: Speech and phonology # %room Zoom
+112 17:10--17:30  # Predicting non-native speech perception using the Perceptual Assimilation Model and state-of-the-art acoustic models
+220 17:30--17:50  # The Influence of Regional Pronunciation Variation on Children's Spelling and the Potential Benefits of Accent Adapted Spellcheckers
+= 17:50--18:20 Best Paper Award and Closing Words # %room Zoom

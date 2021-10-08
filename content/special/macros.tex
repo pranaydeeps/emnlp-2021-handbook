@@ -143,13 +143,13 @@
 \DeclareNameFormat{authorswithinitials}{%
   % name format that prints the list of authors with initals
   \ifcase\value{uniquename}%
-    \usebibmacro{name:given-family}{#1}{#4}{#5}{#7}%
+    \usebibmacro{name:first-last}{#1}{#4}{#5}{#7}%
   \or
     \ifuseprefix
-      {\usebibmacro{name:given-family}{#1}{#4}{#5}{#8}}
-      {\usebibmacro{name:given-family}{#1}{#4}{#6}{#8}}%
+      {\usebibmacro{name:first-last}{#1}{#4}{#5}{#8}}
+      {\usebibmacro{name:first-last}{#1}{#4}{#6}{#8}}%
   \or
-    \usebibmacro{name:given-family}{#1}{#4}{#5}{#7}%
+    \usebibmacro{name:first-last}{#1}{#4}{#5}{#7}%
   \fi
   \usebibmacro{name:andothers}}
 
@@ -169,13 +169,13 @@
 \DeclareNameFormat{fullauthornames}{%
   % name format that prints the list of authors with full author names
   \ifcase\value{uniquename}%
-    \usebibmacro{name:given-family}{#1}{#3}{#5}{#7}%
+    \usebibmacro{name:first-last}{#1}{#3}{#5}{#7}%
     \or
     \ifuseprefix
-        {\usebibmacro{name:given-family}{#1}{#3}{#5}{#8}}
-        {\usebibmacro{name:given-family}{#1}{#3}{#6}{#8}}%
+        {\usebibmacro{name:first-last}{#1}{#3}{#5}{#8}}
+        {\usebibmacro{name:first-last}{#1}{#3}{#6}{#8}}%
   \or
-  \usebibmacro{name:given-family}{#1}{#3}{#5}{#7}%
+  \usebibmacro{name:first-last}{#1}{#3}{#5}{#7}%
   \fi
   \usebibmacro{name:andothers}}
 
@@ -429,8 +429,8 @@ Human Language Technologies}\par
 
 \newenvironment{tutorial}[4]{%
   \stepcounter{TutorialCounter}
-  % #1 paper title
-  % #2 paper authors
+  % #1 short title
+  % #2 tutorial bibtex ID
   % #3 date and time
   % #4 location
 
@@ -438,7 +438,7 @@ Human Language Technologies}\par
   \section[\textbf{T\theTutorialCounter:} {#1}]{Tutorial \theTutorialCounter}
   \begin{center}
     \begin{Large}
-      \bfseries \papertitle{#1}\\ \vspace{2em}\par
+      \bfseries \papertitle{#2}\\ \vspace{2em}\par
     \end{Large}
     {\itshape \tutorialauthors{#2}}\vspace{1em}\par
     #3 \vspace{1em}\\

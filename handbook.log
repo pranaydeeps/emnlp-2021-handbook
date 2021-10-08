@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  8 OCT 2021 18:20
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.30)  8 OCT 2021 17:13
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  8 OCT 2021 18:33
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **handbook.tex
 (./handbook.tex
@@ -1220,7 +1215,6 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 Writing index file handbook.idx
 \mycolumnwidth=\skip102
 ) (./content/special/macros.tex
-<<<<<<< HEAD
 \w=\skip103
 \tsl=\skip104
 \en=\skip105
@@ -1228,373 +1222,6 @@ Writing index file handbook.idx
 \c@TutorialCounter=\count312
 ) (./content/setup/venues.tex)
 (./content/setup/sessions.tex)
-=======
-\w=\skip119
-\tsl=\skip120
-\en=\skip121
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   4
-l.154   \usebibmacro{name:andothers}}
-                                     
-? s
-OK, entering \scrollmode...
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   5
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   7
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   4
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   5
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   8
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   4
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   6
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   8
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   4
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   5
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:154: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   7
-l.154   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   4
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   5
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   7
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   4
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   5
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   8
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   4
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   6
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   8
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   4
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   5
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:167: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   7
-l.167   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   3
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   5
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   7
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   3
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   5
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   8
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   3
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   6
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   8
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   3
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   5
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./content/special/macros.tex:180: Illegal parameter number in definition of \bl
-x@defformat@d.
-<to be read again> 
-                   7
-l.180   \usebibmacro{name:andothers}}
-                                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-\c@WorkshopCounter=\count457
-\c@TutorialCounter=\count458
-) (./content/setup/venues.tex) (./content/setup/sessions.tex)
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1729,7 +1356,6 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `handbook.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-<<<<<<< HEAD
 Package biblatex Info: ... file 'handbook.bbl' found.
  (./handbook.bbl
 
@@ -1782,17 +1408,7 @@ Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 80.
 
-<content/fmatter/cover.pdf, id=103, 597.23125pt x 844.15375pt>
-=======
-Package biblatex Info: ... file 'handbook.bbl' not found.
-
-No file handbook.bbl.
-Package biblatex Info: Reference section=0 on input line 75.
-Package biblatex Info: Reference segment=0 on input line 75.
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 75.
 <content/fmatter/cover.pdf, id=99, 597.23125pt x 844.15375pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 
 <use content/fmatter/cover.pdf>
@@ -1802,12 +1418,8 @@ File: content/fmatter/cover.pdf Graphic file (type pdf)
  <use content/fmatter/cover.pdf>
 Package pdftex.def Info: content/fmatter/cover.pdf used on input line 87.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
-<<<<<<< HEAD
 
-<content/fmatter/cover.pdf, id=106, page=1, 597.23125pt x 844.15375pt>
-=======
 <content/fmatter/cover.pdf, id=102, page=1, 597.23125pt x 844.15375pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 
 <use content/fmatter/cover.pdf, page 1>
@@ -1854,25 +1466,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
-<<<<<<< HEAD
 
-<content/hotel-map-1.pdf, id=133, 527.00435pt x 470.7986pt>
-=======
 <content/hotel-map-1.pdf, id=129, 527.00435pt x 470.7986pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/hotel-map-1.pdf Graphic file (type pdf)
 
 <use content/hotel-map-1.pdf>
 Package pdftex.def Info: content/hotel-map-1.pdf used on input line 6.
 (pdftex.def)             Requested size: 274.6262pt x 245.33391pt.
-<<<<<<< HEAD
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 7.
 
-<content/hotel-map-2.pdf, id=134, 587.8168pt x 572.39738pt>
-=======
 <content/hotel-map-2.pdf, id=130, 587.8168pt x 572.39738pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/hotel-map-2.pdf Graphic file (type pdf)
 
 <use content/hotel-map-2.pdf>
@@ -1910,35 +1514,23 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 ] [2
 
 ] (./content/ads/ads.tex
-<<<<<<< HEAD
-<content/ads/gold/goldman_sachs.pdf, id=203, 325.215pt x 289.08pt>
-=======
 <content/ads/gold/goldman_sachs.pdf, id=198, 325.215pt x 289.08pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/ads/gold/goldman_sachs.pdf Graphic file (type pdf)
 
 <use content/ads/gold/goldman_sachs.pdf>
 Package pdftex.def Info: content/ads/gold/goldman_sachs.pdf used on input line 
 6.
 (pdftex.def)             Requested size: 289.07999pt x 256.98044pt.
-<<<<<<< HEAD
 
-<content/ads/bronze/yahoo_labs.pdf, id=204, 361.35pt x 144.54pt>
-=======
 <content/ads/bronze/yahoo_labs.pdf, id=199, 361.35pt x 144.54pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/ads/bronze/yahoo_labs.pdf Graphic file (type pdf)
 
 <use content/ads/bronze/yahoo_labs.pdf>
 Package pdftex.def Info: content/ads/bronze/yahoo_labs.pdf used on input line 8
 .
 (pdftex.def)             Requested size: 289.07999pt x 115.63214pt.
-<<<<<<< HEAD
 
-<content/ads/silver/sdl_research.pdf, id=205, 614.295pt x 233.9678pt>
-=======
 <content/ads/silver/sdl_research.pdf, id=200, 614.295pt x 233.9678pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/ads/silver/sdl_research.pdf Graphic file (type pdf)
 
 <use content/ads/silver/sdl_research.pdf>
@@ -1954,11 +1546,7 @@ l.14 \clearpage
 
  <./content/ads/gold/goldman_sachs.pdf> <./content/ads/bronze/yahoo_labs.pdf> <
 ./content/ads/silver/sdl_research.pdf>]
-<<<<<<< HEAD
-<content/ads/platinum/Bloomberg.pdf, id=456, 542.025pt x 722.7pt>
-=======
 <content/ads/platinum/Bloomberg.pdf, id=451, 542.025pt x 722.7pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/ads/platinum/Bloomberg.pdf Graphic file (type pdf)
 
 <use content/ads/platinum/Bloomberg.pdf>
@@ -2003,7 +1591,7 @@ l.23 \item T
 [3
 
 ]
-./content/fmatter/preface-chair.tex:28: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.28 \item The Diversity &
                            Inclusion Chairs -- Laura Alonso Alemany and Tosh...
 
@@ -2111,7 +1699,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--267
 
  []
 
-./content/fmatter/committee.tex:274: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.274 ...e*{0.2in} Steven Bedrick, Oregon Health &
                                                    Science University\\
 I can't figure out why you would want to use a tab mark
@@ -2193,21 +1781,28 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
 [][][][][][][][][]  
  []
 
-<<<<<<< HEAD
-[19] (./content/tutorials/tutorials-001.tex) [20
-
-]
-(./content/tutorials/tutorials-002.tex [21
-=======
 [19] (./content/tutorials/tutorials-001.tex
 
-LaTeX Warning: Citation 'Crowdsourcing Beyond Annotation: Case Studies in Bench
-mark Data Collection' on page 20 undefined on input line 25.
+LaTeX Warning: Citation 'Alane Suhr' on page 20 undefined on input line 25.
 
 
-Overfull \hbox (105.39658pt too wide) in paragraph at lines 25--25
- [] 
- []
+LaTeX Warning: Citation 'Clara Vania' on page 20 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Nikita Nangia' on page 20 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Maarten Sap' on page 20 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Mark Yatskar' on page 20 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Samuel R. Bowman' on page 20 undefined on input line 2
+5.
+
+
+LaTeX Warning: Citation 'Yoav Artzi' on page 20 undefined on input line 25.
 
 
 LaTeX Warning: Citation 'Alane Suhr' on page 20 undefined on input line 25.
@@ -2234,7 +1829,7 @@ LaTeX Warning: Citation 'Yoav Artzi' on page 20 undefined on input line 25.
 [20
 
 ]) [21] (./content/tutorials/tutorials-002.tex
-./content/tutorials/tutorials-002.tex:13: Argument of \tutorial has an extra }.
+! Argument of \tutorial has an extra }.
 <inserted text> 
                 \par 
 l.13 ...Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen}}
@@ -2247,8 +1842,7 @@ argument that might be the root of the problem. But if
 your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
-./content/tutorials/tutorials-002.tex:13: Paragraph ended before \tutorial was 
-complete.
+! Paragraph ended before \tutorial was complete.
 <to be read again> 
                    \par 
 l.13 ...Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen}}
@@ -2257,7 +1851,7 @@ I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-./content/tutorials/tutorials-002.tex:13: Extra }, or forgotten \endgroup.
+! Extra }, or forgotten \endgroup.
 <recently read> }
                  
 l.13 ...Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen}}
@@ -2272,8 +1866,23 @@ deleted material, e.g., by typing `I$}'.
 
 ] (./content/tutorials/tutorials-003.tex
 
-LaTeX Warning: Citation 'Knowledge-Enriched Natural Language Generation' on pag
-e 23 undefined on input line 21.
+LaTeX Warning: Citation 'Wenhao Yu' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Meng Jiang' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Zhiting Hu' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Qingyun Wang' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Heng Ji' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Nazneen Rajani' on page 23 undefined on input line 21.
+
 
 
 LaTeX Warning: Citation 'Wenhao Yu' on page 23 undefined on input line 21.
@@ -2293,11 +1902,8 @@ LaTeX Warning: Citation 'Heng Ji' on page 23 undefined on input line 21.
 
 LaTeX Warning: Citation 'Nazneen Rajani' on page 23 undefined on input line 21.
 
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
-]) [22]
-(./content/tutorials/tutorials-003.tex))
-(./content/tutorials/tutorials-overview-2.tex [23
+)) (./content/tutorials/tutorials-overview-2.tex [23
 
 ] [24]
 Chapter 3.
@@ -2307,8 +1913,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
  []
 
 
-./content/tutorials/tutorials-overview-2.tex:10: LaTeX Error: Command \tutorial
-morningtime already defined.
+! LaTeX Error: Command \tutorialmorningtime already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2322,22 +1927,14 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [25
-<<<<<<< HEAD
-
-] (./content/tutorials/tutorials-004.tex) [26
-
-]
-(./content/tutorials/tutorials-005.tex) [27
-
-]
-(./content/tutorials/tutorials-006.tex))
-(./content/tutorials/welcome_reception.tex [28
-=======
 
 ] (./content/tutorials/tutorials-004.tex
 
-LaTeX Warning: Citation 'Multi-Domain Multilingual Question Answering' on page 
-26 undefined on input line 12.
+LaTeX Warning: Citation 'Sebastian Ruder' on page 26 undefined on input line 12
+.
+
+
+LaTeX Warning: Citation 'Avirup Sil' on page 26 undefined on input line 12.
 
 
 LaTeX Warning: Citation 'Sebastian Ruder' on page 26 undefined on input line 12
@@ -2350,13 +1947,16 @@ LaTeX Warning: Citation 'Avirup Sil' on page 26 undefined on input line 12.
 
 ] (./content/tutorials/tutorials-005.tex
 
-LaTeX Warning: Citation 'Robustness and Adversarial Examples in Natural Languag
-e Processing' on page 27 undefined on input line 16.
+LaTeX Warning: Citation 'Kai-Wei Chang' on page 27 undefined on input line 16.
 
 
-Overfull \hbox (56.6289pt too wide) in paragraph at lines 16--16
- [] 
- []
+LaTeX Warning: Citation 'He He' on page 27 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'Robin Jia' on page 27 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'Sameer Singh' on page 27 undefined on input line 16.
 
 
 LaTeX Warning: Citation 'Kai-Wei Chang' on page 27 undefined on input line 16.
@@ -2372,25 +1972,31 @@ LaTeX Warning: Citation 'Sameer Singh' on page 27 undefined on input line 16.
 
 ) [27
 
-] [28] (./content/tutorials/tutorials-006.tex
+] (./content/tutorials/tutorials-006.tex
 
-LaTeX Warning: Citation 'Syntax in End-to-End Natural Language Processing' on p
-age 29 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Hai Zhao' on page 29 undefined on input line 15.
+LaTeX Warning: Citation 'Hai Zhao' on page 28 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'Rui Wang' on page 29 undefined on input line 15.
+LaTeX Warning: Citation 'Rui Wang' on page 28 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'Kehai Chen' on page 29 undefined on input line 15.
+LaTeX Warning: Citation 'Kehai Chen' on page 28 undefined on input line 15.
 
-)) (./content/tutorials/welcome_reception.tex [29
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+
+LaTeX Warning: Citation 'Hai Zhao' on page 28 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'Rui Wang' on page 28 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'Kehai Chen' on page 28 undefined on input line 15.
+
+)) (./content/tutorials/welcome_reception.tex [28
 
 ])
-(./content/workshops/workshops.tex [30
+(./content/workshops/workshops.tex [29
+
+] [30
 
 ]
 Chapter 4.
@@ -2445,8 +2051,7 @@ Overfull \hbox (4.88164pt too wide) in paragraph at lines 37--37
  \T1/ptm/m/n/8 Work-
  []
 
-./content/workshops/overview.tex:37: Extra alignment tab has been changed to \c
-r.
+! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
 l.37 ...g Meaning Representations Joint Workshop &
@@ -2479,189 +2084,11 @@ LaTeX Warning: Reference `WShopW' on page 31 undefined on input line 44.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31
-
-]
+ [31]
 Overfull \vbox (100.59099pt too high) has occurred while \output is active []
 
 
-[32])
-
-<<<<<<< HEAD
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-=======
-LaTeX Warning: Citation 'workshop6' on page 33 undefined on input line 88.
-
-(./auto/ci+nlp/schedule.tex
-./auto/ci+nlp/schedule.tex:3: You can't use `macro parameter character #' in ho
-rizontal mode.
-l.3 ...m[9:00--9:10] {\bfseries  Opening Remarks #
-                                                  }
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88   {\WShopLocG}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (240.67935pt too wide) in paragraph at lines 88--88
- [][][][][][][][][][][][][][]\T1/ptm/m/it/8 EisensteinJacobFederAmirGrimmerJust
-inKeithKatherineManzoorEmaadPryzantReidReichartRoiRobertsMollyShalitUriSridharD
-hanyaStewartBrandonVeitchVictorWood- 
- []
-
-(./auto/ci+nlp/schedule.tex
+[32]) (./auto/ci+nlp/schedule.tex
 ! You can't use `macro parameter character #' in horizontal mode.
 l.3 ...m[9:00--9:10] {\bfseries  Opening Remarks #
                                                   }
@@ -2670,1650 +2097,15 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[10:50--11:00] \wspaperentry{ci+nlp-003}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[10:50--11:00] \wspaperentry{ci+nlp-003}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[10:50--11:00] \wspaperentry{ci+nlp-003}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[10:50--11:00] \wspaperentry{ci+nlp-003}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[10:50--11:00] \wspaperentry{ci+nlp-003}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \item[11:00--11:10] \wspaperentry{ci+nlp-004}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \item[11:00--11:10] \wspaperentry{ci+nlp-004}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \item[11:00--11:10] \wspaperentry{ci+nlp-004}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \item[11:10--11:20] \wspaperentry{ci+nlp-007}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \item[11:10--11:20] \wspaperentry{ci+nlp-007}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \item[11:10--11:20] \wspaperentry{ci+nlp-007}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \item[11:20--11:30] \wspaperentry{ci+nlp-008}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \item[11:20--11:30] \wspaperentry{ci+nlp-008}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \item[11:20--11:30] \wspaperentry{ci+nlp-008}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 \item[1:10--1:20] \wspaperentry{ci+nlp-011}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 \item[1:10--1:20] \wspaperentry{ci+nlp-011}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \item[1:20--1:30] \wspaperentry{ci+nlp-013}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \item[1:20--1:30] \wspaperentry{ci+nlp-013}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 \item[1:30--1:40] \wspaperentry{ci+nlp-014}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 \item[1:30--1:40] \wspaperentry{ci+nlp-014}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[1:40--1:50] \wspaperentry{ci+nlp-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[1:40--1:50] \wspaperentry{ci+nlp-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[1:40--1:50] \wspaperentry{ci+nlp-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[1:40--1:50] \wspaperentry{ci+nlp-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[1:40--1:50] \wspaperentry{ci+nlp-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[1:40--1:50] \wspaperentry{ci+nlp-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
 ) [33
 
 
-]
+] (./auto/insights/schedule.tex [34
 
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96   {\WShopLocH}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96   {\WShopLocH}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96   {\WShopLocH}
-                   
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96   {\WShopLocH}
-                   
-Use '\newbibmacro' to define this macro.
-
-(./auto/insights/schedule.tex
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \item[$\bullet$] \wspaperentry{insights-001}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \item[$\bullet$] \wspaperentry{insights-001}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \item[$\bullet$] \wspaperentry{insights-001}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \item[$\bullet$] \wspaperentry{insights-003}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \item[$\bullet$] \wspaperentry{insights-003}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \item[$\bullet$] \wspaperentry{insights-004}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \item[$\bullet$] \wspaperentry{insights-004}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \item[$\bullet$] \wspaperentry{insights-004}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \item[$\bullet$] \wspaperentry{insights-006}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \item[$\bullet$] \wspaperentry{insights-006}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \item[$\bullet$] \wspaperentry{insights-006}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \item[$\bullet$] \wspaperentry{insights-006}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \item[$\bullet$] \wspaperentry{insights-011}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \item[$\bullet$] \wspaperentry{insights-011}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \item[$\bullet$] \wspaperentry{insights-014}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \item[$\bullet$] \wspaperentry{insights-014}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 \item[$\bullet$] \wspaperentry{insights-014}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 \item[$\bullet$] \wspaperentry{insights-016}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 \item[$\bullet$] \wspaperentry{insights-016}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \item[$\bullet$] \wspaperentry{insights-017}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \item[$\bullet$] \wspaperentry{insights-017}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[$\bullet$] \wspaperentry{insights-019}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[$\bullet$] \wspaperentry{insights-019}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[$\bullet$] \wspaperentry{insights-019}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[$\bullet$] \wspaperentry{insights-019}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[$\bullet$] \wspaperentry{insights-019}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[$\bullet$] \wspaperentry{insights-019}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[$\bullet$] \wspaperentry{insights-019}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[$\bullet$] \wspaperentry{insights-019}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (11.67467pt too wide) in paragraph at lines 9--9
-[][][][][][][][]\T1/ptm/m/it/8 ZhuQiGuYuxianLuoLingxiaoLiBingLIChengPengWeiHuan
-gMinlieZhuXiaoyan  
- []
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \item[$\bullet$] \wspaperentry{insights-022}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \item[$\bullet$] \wspaperentry{insights-022}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \item[$\bullet$] \wspaperentry{insights-022}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \item[$\bullet$] \wspaperentry{insights-022}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 \item[$\bullet$] \wspaperentry{insights-024}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 \item[$\bullet$] \wspaperentry{insights-024}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 \item[$\bullet$] \wspaperentry{insights-024}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 \item[$\bullet$] \wspaperentry{insights-027}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 \item[$\bullet$] \wspaperentry{insights-027}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[$\bullet$] \wspaperentry{insights-029}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[$\bullet$] \wspaperentry{insights-029}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \item[$\bullet$] \wspaperentry{insights-030}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \item[$\bullet$] \wspaperentry{insights-030}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \item[$\bullet$] \wspaperentry{insights-030}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \item[$\bullet$] \wspaperentry{insights-033}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \item[$\bullet$] \wspaperentry{insights-033}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \item[$\bullet$] \wspaperentry{insights-033}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \item[$\bullet$] \wspaperentry{insights-034}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \item[$\bullet$] \wspaperentry{insights-034}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \item[$\bullet$] \wspaperentry{insights-034}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \item[$\bullet$] \wspaperentry{insights-034}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \item[$\bullet$] \wspaperentry{insights-035}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \item[$\bullet$] \wspaperentry{insights-035}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \item[$\bullet$] \wspaperentry{insights-036}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \item[$\bullet$] \wspaperentry{insights-036}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \item[$\bullet$] \wspaperentry{insights-036}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \item[$\bullet$] \wspaperentry{insights-038}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \item[$\bullet$] \wspaperentry{insights-038}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \item[$\bullet$] \wspaperentry{insights-038}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-[34
-
-]
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \item[$\bullet$] \wspaperentry{insights-040}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \item[$\bullet$] \wspaperentry{insights-040}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \item[$\bullet$] \wspaperentry{insights-040}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \item[$\bullet$] \wspaperentry{insights-040}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-) [35]
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.128   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.128   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.128   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.128   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.128   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.128   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-(./auto/fever/schedule.tex
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 \item[10:20--10:35] \wspaperentry{fever-002}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[10:35--10:50] \wspaperentry{fever-003}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[10:35--10:50] \wspaperentry{fever-003}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[10:35--10:50] \wspaperentry{fever-003}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 \item[10:35--10:50] \wspaperentry{fever-003}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[2:10--2:20] \wspaperentry{fever-009}
-                                               
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[2:10--2:20] \wspaperentry{fever-009}
-                                               
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[2:10--2:20] \wspaperentry{fever-009}
-                                               
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[2:10--2:20] \wspaperentry{fever-009}
-                                               
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[2:10--2:20] \wspaperentry{fever-009}
-                                               
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \item[2:10--2:20] \wspaperentry{fever-009}
-                                               
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (45.27414pt too wide) in paragraph at lines 26--26
-[][][][][][]\T1/ptm/m/it/8 BOUZIANEMostafaPerrinHugoSadeqAmineNguyenThanhCluzea
-uAurélienMardasJulien  
- []
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 \item[2:20--2:30] \wspaperentry{fever-005}
-                                               
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \item[$\bullet$] \wspaperentry{fever-004}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \item[$\bullet$] \wspaperentry{fever-004}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \item[$\bullet$] \wspaperentry{fever-004}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 \item[$\bullet$] \wspaperentry{fever-006}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 \item[$\bullet$] \wspaperentry{fever-006}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 \item[$\bullet$] \wspaperentry{fever-006}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[$\bullet$] \wspaperentry{fever-007}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[$\bullet$] \wspaperentry{fever-007}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[$\bullet$] \wspaperentry{fever-007}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[$\bullet$] \wspaperentry{fever-007}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[$\bullet$] \wspaperentry{fever-007}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[$\bullet$] \wspaperentry{fever-007}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[$\bullet$] \wspaperentry{fever-007}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (138.05644pt too wide) in paragraph at lines 33--33
-[][][][][][][]\T1/ptm/m/it/8 MascarellLauraRuzsicsTatyanaSchneebeliChristianSch
-lattnerPhilippeCampanellaLucaKlinglerSeverinKadarCristina  
- []
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \item[$\bullet$] \wspaperentry{fever-014}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \item[$\bullet$] \wspaperentry{fever-014}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \item[$\bullet$] \wspaperentry{fever-014}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \item[$\bullet$] \wspaperentry{fever-014}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \item[$\bullet$] \wspaperentry{fever-014}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.35 \item[$\bullet$] \wspaperentry{fever-010}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.36 \item[$\bullet$] \wspaperentry{fever-011}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.36 \item[$\bullet$] \wspaperentry{fever-011}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \item[$\bullet$] \wspaperentry{fever-013}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \item[$\bullet$] \wspaperentry{fever-013}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \item[$\bullet$] \wspaperentry{fever-013}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \item[$\bullet$] \wspaperentry{fever-013}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \item[$\bullet$] \wspaperentry{fever-013}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \item[$\bullet$] \wspaperentry{fever-013}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (26.22679pt too wide) in paragraph at lines 37--37
-[][][][][][]\T1/ptm/m/it/8 SaeedMohammedAlfaranoGiulionguyenKhaiPhamDucTroncyRa
-phaelPapottiPaolo  
- []
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \item[$\bullet$] \wspaperentry{fever-015}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \item[$\bullet$] \wspaperentry{fever-015}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \item[$\bullet$] \wspaperentry{fever-015}
-                                              
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \item[$\bullet$] \wspaperentry{fever-015}
-                                              
-Use '\newbibmacro' to define this macro.
-
+]) [35] (./auto/fever/schedule.tex
 [36
 
-]) [37]
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.136   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.136   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.136   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.136   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.136   {\WShopLocH}
-                    
-Use '\newbibmacro' to define this macro.
-
-(./auto/newsum/schedule.tex
+]) [37] (./auto/newsum/schedule.tex
 ! You can't use `macro parameter character #' in horizontal mode.
 l.3 ...:00--10:30] {\bfseries  Morning Session I #
                                                   }
@@ -4321,105 +2113,6 @@ Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \item[10:00--10:10] \wspaperentry{newsum-012}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \item[10:00--10:10] \wspaperentry{newsum-012}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[10:10--10:20] \wspaperentry{newsum-017}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[10:10--10:20] \wspaperentry{newsum-017}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[10:10--10:20] \wspaperentry{newsum-017}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \item[10:20--10:25] \wspaperentry{newsum-004}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 \item[10:25--10:30] \wspaperentry{newsum-029}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 \item[10:25--10:30] \wspaperentry{newsum-029}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 \item[10:25--10:30] \wspaperentry{newsum-029}
-                                                  
-Use '\newbibmacro' to define this macro.
 
 ! You can't use `macro parameter character #' in horizontal mode.
 l.17 ...0--12:00] {\bfseries  Morning session II #
@@ -4429,28 +2122,6 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \item[11:50--12:00] \wspaperentry{newsum-006}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \item[11:50--12:00] \wspaperentry{newsum-006}
-                                                  
-Use '\newbibmacro' to define this macro.
-
 ! You can't use `macro parameter character #' in horizontal mode.
 l.26 ...0--2:30] {\bfseries  Afternoon session I #
                                                   }
@@ -4458,271 +2129,6 @@ Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \item[1:50--1:55] \wspaperentry{newsum-010}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \item[1:50--1:55] \wspaperentry{newsum-010}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 \item[1:55--2:00] \wspaperentry{newsum-021}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 \item[1:55--2:00] \wspaperentry{newsum-021}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 \item[1:55--2:00] \wspaperentry{newsum-021}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 \item[1:55--2:00] \wspaperentry{newsum-021}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \item[2:00--2:10] \wspaperentry{newsum-005}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \item[2:00--2:10] \wspaperentry{newsum-005}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \item[2:00--2:10] \wspaperentry{newsum-005}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \item[2:00--2:10] \wspaperentry{newsum-005}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \item[2:00--2:10] \wspaperentry{newsum-005}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 \item[2:00--2:10] \wspaperentry{newsum-005}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (15.21886pt too wide) in paragraph at lines 31--31
-[][][][][][]\T1/ptm/m/it/8 LeeDongyubLimJungwooWhangTaesunChoSeungwooParkMingun
-LimHeuiseok  
- []
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 \item[2:10--2:20] \wspaperentry{newsum-008}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 \item[2:10--2:20] \wspaperentry{newsum-008}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 \item[2:10--2:20] \wspaperentry{newsum-008}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 \item[2:10--2:20] \wspaperentry{newsum-008}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[2:20--2:30] \wspaperentry{newsum-024}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[2:20--2:30] \wspaperentry{newsum-024}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[2:20--2:30] \wspaperentry{newsum-024}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[2:20--2:30] \wspaperentry{newsum-024}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[2:20--2:30] \wspaperentry{newsum-024}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[2:20--2:30] \wspaperentry{newsum-024}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \item[2:20--2:30] \wspaperentry{newsum-024}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (117.96979pt too wide) in paragraph at lines 33--33
-[][][][][][][]\T1/ptm/m/it/8 LiHaoranEinolghozatiArashIyerSrinivasanParanjapeBh
-argaviMehdadYasharGuptaSonalGhazvininejadMarjan  
- []
 
 ! You can't use `macro parameter character #' in horizontal mode.
 l.39 ...--3:35] {\bfseries  Afternoon session II #
@@ -4732,224 +2138,9 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 \item[3:00--3:10] \wspaperentry{newsum-023}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 \item[3:00--3:10] \wspaperentry{newsum-023}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 \item[3:00--3:10] \wspaperentry{newsum-023}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 \item[3:00--3:10] \wspaperentry{newsum-023}
-                                                
-Use '\newbibmacro' to define this macro.
-
 [38
 
 ]
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \item[3:10--3:20] \wspaperentry{newsum-026}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \item[3:10--3:20] \wspaperentry{newsum-026}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \item[3:10--3:20] \wspaperentry{newsum-026}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \item[3:10--3:20] \wspaperentry{newsum-026}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 \item[3:20--3:30] \wspaperentry{newsum-031}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 \item[3:20--3:30] \wspaperentry{newsum-031}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 \item[3:20--3:30] \wspaperentry{newsum-031}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 \item[3:20--3:30] \wspaperentry{newsum-031}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \item[3:30--3:35] \wspaperentry{newsum-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \item[3:30--3:35] \wspaperentry{newsum-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \item[3:30--3:35] \wspaperentry{newsum-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \item[3:30--3:35] \wspaperentry{newsum-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \item[3:30--3:35] \wspaperentry{newsum-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \item[3:30--3:35] \wspaperentry{newsum-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \item[3:30--3:35] \wspaperentry{newsum-015}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (92.1216pt too wide) in paragraph at lines 43--43
-[][][][][][][]\T1/ptm/m/it/8 YadavNishantBrucatoMatteoFarihaAnnaYoungquistOscar
-KillingbackJulianMeliouAlexandraHaasPeter  
- []
-
 ! You can't use `macro parameter character #' in horizontal mode.
 l.46 ...es  EMNLP Finding papers - Summarization #
                                                   }
@@ -4957,61 +2148,6 @@ Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \item[4:00--4:05] \wspaperentry{newsum-035}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \item[4:00--4:05] \wspaperentry{newsum-035}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \item[4:00--4:05] \wspaperentry{newsum-035}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \item[4:00--4:05] \wspaperentry{newsum-035}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \item[4:00--4:05] \wspaperentry{newsum-035}
-                                                
-Use '\newbibmacro' to define this macro.
 
 ! You can't use `macro parameter character #' in horizontal mode.
 l.53 ...-6:00] {\bfseries  Afternoon session III #
@@ -5021,168 +2157,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 \item[4:45--4:55] \wspaperentry{newsum-027}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 \item[4:45--4:55] \wspaperentry{newsum-027}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 \item[4:45--4:55] \wspaperentry{newsum-027}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 \item[4:45--4:55] \wspaperentry{newsum-027}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 \item[4:55--5:00] \wspaperentry{newsum-002}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 \item[4:55--5:00] \wspaperentry{newsum-002}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 \item[4:55--5:00] \wspaperentry{newsum-002}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 \item[4:55--5:00] \wspaperentry{newsum-002}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 \item[4:55--5:00] \wspaperentry{newsum-002}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 \item[4:55--5:00] \wspaperentry{newsum-002}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 \item[4:55--5:00] \wspaperentry{newsum-002}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (77.72156pt too wide) in paragraph at lines 55--55
-[][][][][][][]\T1/ptm/m/it/8 RiosAnnetteSpringNicolasKewTannonKostrzewaMarekSäu
-berliAndreasMüllerMathiasEblingSarah  
- []
-
-) [39]
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.150   {\WShopLocI}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.150   {\WShopLocI}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.150   {\WShopLocI}
-                    
-Use '\newbibmacro' to define this macro.
-
-(./auto/econlp/schedule.tex
+) [39] (./auto/econlp/schedule.tex
 ! Misplaced alignment tab character &.
 l.4 ...ng remarks and status report on economics &
                                                    NLP (Udo Hahn)}
@@ -5193,727 +2168,12 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \item[9:30--10:00] \wspaperentry{econlp-005}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 \item[9:30--10:00] \wspaperentry{econlp-005}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[10:00--10:20] \wspaperentry{econlp-003}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[10:00--10:20] \wspaperentry{econlp-003}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[10:00--10:20] \wspaperentry{econlp-003}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \item[10:00--10:20] \wspaperentry{econlp-003}
-                                                 
-Use '\newbibmacro' to define this macro.
-
-
-Overfull \hbox (7.36989pt too wide) in paragraph at lines 9--9
-[][][][]\T1/ptm/m/it/8 LoukasLefterisFergadiotisManosAndroutsopoulosIonMalakasi
-otisProdromos  
- []
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \item[10:20--10:40] \wspaperentry{econlp-011}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \item[10:20--10:40] \wspaperentry{econlp-011}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \item[10:20--10:40] \wspaperentry{econlp-011}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-<<<<<<< HEAD
-=======
-(./auto/newsum/schedule.tex
-./auto/newsum/schedule.tex:3: You can't use `macro parameter character #' in ho
-rizontal mode.
-l.3 ...:00--10:30] {\bfseries  Morning Session I #
-                                                  }
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \item[10:50--11:20] \wspaperentry{econlp-004}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \item[10:50--11:20] \wspaperentry{econlp-004}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \item[11:20--11:40] \wspaperentry{econlp-013}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \item[11:20--11:40] \wspaperentry{econlp-013}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \item[11:20--11:40] \wspaperentry{econlp-013}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-<<<<<<< HEAD
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \item[11:20--11:40] \wspaperentry{econlp-013}
-                                                  
-Use '\newbibmacro' to define this macro.
-=======
-./auto/newsum/schedule.tex:17: You can't use `macro parameter character #' in h
-orizontal mode.
-l.17 ...0--12:00] {\bfseries  Morning session II #
-                                                  }
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \item[11:40--12:00] \wspaperentry{econlp-018}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-<<<<<<< HEAD
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-=======
-./auto/newsum/schedule.tex:26: You can't use `macro parameter character #' in h
-orizontal mode.
-l.26 ...0--2:30] {\bfseries  Afternoon session I #
-                                                  }
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \item[11:40--12:00] \wspaperentry{econlp-018}
-                                                  
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 \item[2:00--2:30] \wspaperentry{econlp-001}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 \item[2:00--2:30] \wspaperentry{econlp-001}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \item[2:30--2:50] \wspaperentry{econlp-008}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \item[2:30--2:50] \wspaperentry{econlp-008}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \item[2:30--2:50] \wspaperentry{econlp-008}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \item[2:30--2:50] \wspaperentry{econlp-008}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-<<<<<<< HEAD
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-=======
-./auto/newsum/schedule.tex:39: You can't use `macro parameter character #' in h
-orizontal mode.
-l.39 ...--3:35] {\bfseries  Afternoon session II #
-                                                  }
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 \item[2:50--3:10] \wspaperentry{econlp-009}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 \item[2:50--3:10] \wspaperentry{econlp-009}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 \item[2:50--3:10] \wspaperentry{econlp-009}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \item[3:40--4:10] \wspaperentry{econlp-012}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \item[3:40--4:10] \wspaperentry{econlp-012}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 \item[3:40--4:10] \wspaperentry{econlp-012}
-                                                
-Use '\newbibmacro' to define this macro.
-
-<<<<<<< HEAD
-=======
-./auto/newsum/schedule.tex:46: You can't use `macro parameter character #' in h
-orizontal mode.
-l.46 ...es  EMNLP Finding papers - Summarization #
-                                                  }
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \item[4:10--4:40] \wspaperentry{econlp-016}
-                                                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \item[4:10--4:40] \wspaperentry{econlp-016}
-                                                
-Use '\newbibmacro' to define this macro.
-
-<<<<<<< HEAD
 [40
-=======
-./auto/newsum/schedule.tex:53: You can't use `macro parameter character #' in h
-orizontal mode.
-l.53 ...-6:00] {\bfseries  Afternoon session III #
-                                                  }
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
-]
+]) [41] (./auto/eancs/schedule.tex) [42
 
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 \item[4:40--5:00] \wspaperentry{econlp-017}
-                                                
-Use '\newbibmacro' to define this macro.
-
-) [41]
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-<<<<<<< HEAD
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-=======
-(./auto/econlp/schedule.tex
-./auto/econlp/schedule.tex:4: Misplaced alignment tab character &.
-l.4 ...ng remarks and status report on economics &
-                                                   NLP (Udo Hahn)}
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.198   {\WShopLocN}
-                    
-Use '\newbibmacro' to define this macro.
-
-(./auto/eancs/schedule.tex
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \item[$\bullet$] \wspaperentry{eancs-004}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \item[$\bullet$] \wspaperentry{eancs-004}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \item[$\bullet$] \wspaperentry{eancs-004}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \item[$\bullet$] \wspaperentry{eancs-004}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \item[$\bullet$] \wspaperentry{eancs-005}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \item[$\bullet$] \wspaperentry{eancs-005}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \item[$\bullet$] \wspaperentry{eancs-005}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \item[$\bullet$] \wspaperentry{eancs-006}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \item[$\bullet$] \wspaperentry{eancs-006}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \item[$\bullet$] \wspaperentry{eancs-006}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \item[$\bullet$] \wspaperentry{eancs-006}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \item[$\bullet$] \wspaperentry{eancs-007}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \item[$\bullet$] \wspaperentry{eancs-007}
-                                             
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \item[$\bullet$] \wspaperentry{eancs-007}
-                                             
-Use '\newbibmacro' to define this macro.
-
-) [42
-
-]) (./content/anti-harassment-policy.tex
+])
+(./content/anti-harassment-policy.tex
 Chapter 5.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
@@ -5936,47 +2196,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--212
  []
 
 (./content/sponsors/sponsors.tex
-<<<<<<< HEAD
-<content/sponsors/diamond/apple.png, id=982, 150.5625pt x 150.5625pt>
-=======
-<content/sponsors/diamond/apple.png, id=968, 150.5625pt x 150.5625pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/diamond/apple.png, id=977, 150.5625pt x 150.5625pt>
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 
 <use content/sponsors/diamond/apple.png>
 Package pdftex.def Info: content/sponsors/diamond/apple.png used on input line 
 6.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
-<<<<<<< HEAD
 
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=984, 220.825pt x 132.495p
-=======
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=970, 220.825pt x 132.495p
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=979, 220.825pt x 132.495p
 t>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
  <use content/sponsors/diamond/Bloomberg-logo-2019.png>
 Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png used 
 on input line 7.
 (pdftex.def)             Requested size: 72.26999pt x 43.36159pt.
-<<<<<<< HEAD
 
-<content/sponsors/diamond/Facebook-AI2020.png, id=985, 2342.7525pt x 529.98pt>
-=======
-<content/sponsors/diamond/Facebook-AI2020.png, id=971, 2342.7525pt x 529.98pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/diamond/Facebook-AI2020.png, id=980, 2342.7525pt x 529.98pt>
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
 (pdftex.def)             Requested size: 36.135pt x 8.1677pt.
-<<<<<<< HEAD
 
-<content/sponsors/diamond/google.png, id=986, 672.5125pt x 96.36pt>
-=======
-<content/sponsors/diamond/google.png, id=972, 672.5125pt x 96.36pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/diamond/google.png, id=981, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
 
 <use content/sponsors/diamond/google.png>
@@ -5988,8 +2232,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
 
-./content/sponsors/sponsors.tex:13: Extra alignment tab has been changed to \cr
-.
+! Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
 l.13   \multicolumn{4}{l}{\small\textbf Platinum}
@@ -5998,23 +2241,15 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<<<<<<< HEAD
-<content/sponsors/platinum/amazon-logo.png, id=987, 1003.75pt x 526.96875pt>
-=======
-<content/sponsors/platinum/amazon-logo.png, id=973, 1003.75pt x 526.96875pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/platinum/amazon-logo.png, id=982, 1003.75pt x 526.96875pt>
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/amazon-logo.png>
 Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
-<<<<<<< HEAD
 
-<content/sponsors/platinum/deepmind-logo.png, id=988, 1066.98625pt x 401.5pt>
-=======
-<content/sponsors/platinum/deepmind-logo.png, id=974, 1066.98625pt x 401.5pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/platinum/deepmind-logo.png, id=983, 1066.98625pt x 401.5pt>
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/deepmind-logo.png>
@@ -6023,8 +2258,7 @@ put line 15.
 (pdftex.def)             Requested size: 72.26999pt x 27.1889pt.
 
 
-./content/sponsors/sponsors.tex:16: LaTeX Error: Unknown graphics extension: .s
-vg.
+! LaTeX Error: Unknown graphics extension: .svg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -6035,8 +2269,7 @@ l.16 ...ontent/sponsors/platinum/ByteDance_EN.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./content/sponsors/sponsors.tex:17: Extra alignment tab has been changed to \cr
-.
+! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
 l.17      &
@@ -6045,23 +2278,15 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<<<<<<< HEAD
-<content/sponsors/platinum/g-research.png, id=989, 451.6875pt x 451.6875pt>
-=======
-<content/sponsors/platinum/g-research.png, id=975, 451.6875pt x 451.6875pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/platinum/g-research.png, id=984, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
 Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
-<<<<<<< HEAD
 
-<content/sponsors/platinum/megagon-logo-2019.png, id=990, 240.9pt x 240.9pt>
-=======
-<content/sponsors/platinum/megagon-logo-2019.png, id=976, 240.9pt x 240.9pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/platinum/megagon-logo-2019.png, id=985, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
@@ -6073,23 +2298,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
  []
 
-<<<<<<< HEAD
-<content/sponsors/gold/grammarly.png, id=991, 1028.84375pt x 240.9pt>
-=======
-<content/sponsors/gold/grammarly.png, id=977, 1028.84375pt x 240.9pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/gold/grammarly.png, id=986, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
 Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
  23.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
-<<<<<<< HEAD
 
-<content/sponsors/gold/MSFT.jpg, id=992, 582.175pt x 124.465pt>
-=======
-<content/sponsors/gold/MSFT.jpg, id=978, 582.175pt x 124.465pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/gold/MSFT.jpg, id=987, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
@@ -6101,16 +2318,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--26
  []
 
 
-<<<<<<< HEAD
 ! LaTeX Error: Unknown graphics extension: .svg.
-=======
-LaTeX Warning: File `content/sponsors/silver/duolingo.svg' not found on input l
-ine 29.
-
-
-./content/sponsors/sponsors.tex:29: LaTeX Error: Unknown graphics extension: .s
-vg.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -6121,24 +2329,16 @@ l.29 ...9in]{content/sponsors/silver/duolingo.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<<<<<<< HEAD
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=993, 2603.7275pt x 552.0625p
-=======
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=979, 2603.7275pt x 552.0625p
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=988, 2603.7275pt x 552.0625p
 t>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
 Package pdftex.def Info: content/sponsors/silver/Naver_Labs_Europe.jpg used on 
 input line 30.
 (pdftex.def)             Requested size: 72.26999pt x 15.32286pt.
-<<<<<<< HEAD
 
-<content/sponsors/silver/Naver.jpg, id=994, 301.125pt x 301.125pt>
-=======
-<content/sponsors/silver/Naver.jpg, id=980, 301.125pt x 301.125pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/silver/Naver.jpg, id=989, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
@@ -6150,12 +2350,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
 
  []
 
-<<<<<<< HEAD
 
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=995,
-=======
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=981,
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=990,
  455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
@@ -6164,37 +2360,24 @@ phic file (type png)
 Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
 kup_Red_RGB.png used on input line 36.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
-<<<<<<< HEAD
 
-<content/sponsors/bronze/Babelscape_colori.png, id=996, 474.573pt x 94.1919pt>
-=======
-<content/sponsors/bronze/Babelscape_colori.png, id=982, 474.573pt x 94.1919pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/bronze/Babelscape_colori.png, id=991, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
 input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
-<<<<<<< HEAD
 
-<content/sponsors/bronze/HLTCOE-Logo.png, id=997, 226.8475pt x 117.43875pt>
-=======
-<content/sponsors/bronze/HLTCOE-Logo.png, id=983, 226.8475pt x 117.43875pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/bronze/HLTCOE-Logo.png, id=992, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
 Package pdftex.def Info: content/sponsors/bronze/HLTCOE-Logo.png used on input 
 line 38.
 (pdftex.def)             Requested size: 72.26999pt x 37.4145pt.
-<<<<<<< HEAD
 
 ! Extra alignment tab has been changed to \cr.
-=======
-./content/sponsors/sponsors.tex:39: Extra alignment tab has been changed to \cr
-.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 <recently read> \endtemplate 
                              
 l.39     &
@@ -6203,12 +2386,8 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<<<<<<< HEAD
-=======
-<content/sponsors/bronze/LegalForce_new.jpg, id=984, 173.03503pt x 190.99928pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=998, 173.03503pt x 190.99928pt>
+<content/sponsors/bronze/LegalForce_new.jpg, id=993, 173.03503pt x 190.99928pt>
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
 <use content/sponsors/bronze/LegalForce_new.jpg>
 Package pdftex.def Info: content/sponsors/bronze/LegalForce_new.jpg used on inp
@@ -6229,11 +2408,7 @@ ntent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-resea
 rch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponsor
 s/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/si
 lver/Naver_Labs_Europe.jpg> <./content/sponsors/silver/Naver.jpg>]
-<<<<<<< HEAD
-<content/sponsors/supporter/ServiceNow.png, id=1011, 253.6677pt x 72.87225pt>
-=======
-<content/sponsors/supporter/ServiceNow.png, id=998, 253.6677pt x 72.87225pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/supporter/ServiceNow.png, id=1006, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
@@ -6245,26 +2420,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--46
 
  []
 
-<<<<<<< HEAD
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=1012, 1003.75pt x 526.9
+<content/sponsors/diversityChampion/amazon-logo.png, id=1007, 1003.75pt x 526.9
 6875pt>
-=======
-<content/sponsors/diversityChampion/amazon-logo.png, id=999, 1003.75pt x 526.96
-875pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
  <use content/sponsors/diversityChampion/amazon-logo.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
 d on input line 49.
 (pdftex.def)             Requested size: 50.58878pt x 26.55904pt.
-<<<<<<< HEAD
 
-<content/sponsors/diversityChampion/deepmind-logo.png, id=1013, 1066.98625pt x 
-=======
-<content/sponsors/diversityChampion/deepmind-logo.png, id=1000, 1066.98625pt x 
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/diversityChampion/deepmind-logo.png, id=1008, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
@@ -6272,24 +2438,16 @@ ng)
 Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
 sed on input line 50.
 (pdftex.def)             Requested size: 65.04256pt x 24.47491pt.
-<<<<<<< HEAD
 
-<content/sponsors/diversityChampion/google.png, id=1014, 672.5125pt x 96.36pt>
-=======
-<content/sponsors/diversityChampion/google.png, id=1001, 672.5125pt x 96.36pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/diversityChampion/google.png, id=1009, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on 
 input line 51.
 (pdftex.def)             Requested size: 65.04256pt x 9.31897pt.
-<<<<<<< HEAD
 
-<content/sponsors/diversityChampion/MSFT.png, id=1015, 415.01584pt x 88.72752pt
-=======
-<content/sponsors/diversityChampion/MSFT.png, id=1002, 415.01584pt x 88.72752pt
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/diversityChampion/MSFT.png, id=1010, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
@@ -6301,12 +2459,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--54
 
  []
 
-<<<<<<< HEAD
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=1016, 417.22887pt x 280.
-=======
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=1003, 417.22887pt x 280.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=1011, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
@@ -6316,11 +2470,7 @@ Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
 (pdftex.def)             Requested size: 57.81621pt x 38.81743pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-<<<<<<< HEAD
-B.png, id=1017, 455.5419pt x 118.7637pt>
-=======
-B.png, id=1004, 455.5419pt x 118.7637pt>
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+B.png, id=1012, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
@@ -6329,12 +2479,8 @@ d_RGB.png>
 Package pdftex.def Info: content/sponsors/diversityContributor/Adobe_Corporate_
 Horizontal_Lockup_Red_RGB.png used on input line 62.
 (pdftex.def)             Requested size: 50.58878pt x 13.18727pt.
-<<<<<<< HEAD
 
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1018, 714.7
-=======
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1005, 714.7
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1013, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
@@ -6364,18 +2510,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
 Package rerunfilecheck Info: File `handbook.out' has not changed.
-(rerunfilecheck)             Checksum: 0F1B919CCBA92AA512DA88EF7EB1E4F5;2133.
+(rerunfilecheck)             Checksum: E928885892FA68821A7E2F6AC90C756B;2058.
 
-<<<<<<< HEAD
 
 LaTeX Warning: There were undefined references.
 
-=======
-Package rerunfilecheck Info: File `handbook.out' has not changed.
-(rerunfilecheck)             Checksum: BA87EAFF1093F7F1825800F56F11AF74;6608.
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                handbook
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'handbook.run.xml'.
 \openout1 = `handbook.run.xml'.
@@ -6383,14 +2529,13 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 21880 strings out of 493089
- 371521 string characters out of 6134842
- 833247 words of memory out of 5000000
- 24799 multiletter control sequences out of 15000+600000
+ 21878 strings out of 493089
+ 371497 string characters out of 6134842
+ 832380 words of memory out of 5000000
+ 24798 multiletter control sequences out of 15000+600000
  36293 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,18n,50p,1251b,1466s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,18n,55p,1251b,1466s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/20
@@ -6398,32 +2543,10 @@ live/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/20
 ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
 type1/urw/times/utmri8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw
 /zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (52 pages, 6178597 bytes).
+Output written on handbook.pdf (52 pages, 6179582 bytes).
 PDF statistics:
- 1075 PDF objects out of 1200 (max. 8388607)
- 750 compressed objects within 8 object streams
- 74 named destinations out of 1000 (max. 500000)
- 371 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 26775 strings out of 478994
- 470163 string characters out of 5858184
- 1235709 words of memory out of 5000000
- 43633 multiletter control sequences out of 15000+600000
- 436083 words of font info for 57 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 83i,17n,88p,1251b,1694s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
-live/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/20
-21/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-d
-ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/
-type1/urw/times/utmri8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw
-/zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (50 pages, 6134626 bytes).
-PDF statistics:
- 1060 PDF objects out of 1200 (max. 8388607)
- 737 compressed objects within 8 object streams
- 71 named destinations out of 1000 (max. 500000)
+ 1070 PDF objects out of 1200 (max. 8388607)
+ 745 compressed objects within 8 object streams
+ 73 named destinations out of 1000 (max. 500000)
  363 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
