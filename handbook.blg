@@ -1,0 +1,47 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is 'handbook.blg'
+[40] biber-darwin:276> INFO - === Fri Oct  8, 2021, 18:20:01
+[41] Biber.pm:333> INFO - Reading 'handbook.bcf'
+[115] Biber.pm:645> INFO - Found 85 citekeys in bib section 0
+[250] Biber.pm:2977> INFO - Processing section 0
+[264] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/ci+nlp/papers.bib' for section 0
+[265] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[266] bibtex.pm:895> INFO - Found BibTeX data source 'auto/ci+nlp/papers.bib'
+[281] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/eancs/papers.bib' for section 0
+[283] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[283] bibtex.pm:895> INFO - Found BibTeX data source 'auto/eancs/papers.bib'
+[292] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/econlp/papers.bib' for section 0
+[294] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[295] bibtex.pm:895> INFO - Found BibTeX data source 'auto/econlp/papers.bib'
+[312] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/fever/papers.bib' for section 0
+[314] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[315] bibtex.pm:895> INFO - Found BibTeX data source 'auto/fever/papers.bib'
+[337] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/insights/papers.bib' for section 0
+[339] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[339] bibtex.pm:895> INFO - Found BibTeX data source 'auto/insights/papers.bib'
+[345] Utils.pm:146> WARN - Couldn't determine Last Name for name "park, chanjun" - ignoring name
+[346] Utils.pm:146> WARN - Couldn't determine Last Name for name "park, chanjun" - ignoring name
+[366] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/newsum/papers.bib' for section 0
+[368] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[369] bibtex.pm:895> INFO - Found BibTeX data source 'auto/newsum/papers.bib'
+[377] Utils.pm:146> WARN - Couldn't determine Last Name for name "lee, chanhee" - ignoring name
+[379] Utils.pm:146> WARN - Couldn't determine Last Name for name "lee, chanhee" - ignoring name
+[396] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/w-nut/papers.bib' for section 0
+[398] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[399] bibtex.pm:895> INFO - Found BibTeX data source 'auto/w-nut/papers.bib'
+[403] Biber.pm:3115> INFO - Looking for bibtex format file 'content/workshops/papers.bib' for section 0
+[405] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[408] bibtex.pm:895> INFO - Found BibTeX data source 'content/workshops/papers.bib'
+[425] Utils.pm:146> WARN - I didn't find a database entry for 'tutorial-final-01' (section 0)
+[425] Utils.pm:146> WARN - I didn't find a database entry for 'tutorial-final-02' (section 0)
+[425] Utils.pm:146> WARN - I didn't find a database entry for 'tutorial-final-03' (section 0)
+[425] Utils.pm:146> WARN - I didn't find a database entry for 'tutorial-final-04' (section 0)
+[425] Utils.pm:146> WARN - I didn't find a database entry for 'tutorial-final-05' (section 0)
+[425] Utils.pm:146> WARN - I didn't find a database entry for 'tutorial-final-06' (section 0)
+[852] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[852] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[852] Biber.pm:2854> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'en-US'
+[852] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[1036] bbl.pm:505> INFO - Writing 'handbook.bbl' with encoding 'UTF-8'
+[1042] bbl.pm:596> INFO - Output to handbook.bbl
+[1043] Biber.pm:106> INFO - WARNINGS: 10

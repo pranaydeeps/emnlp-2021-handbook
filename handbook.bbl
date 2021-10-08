@@ -1,0 +1,1189 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nty}{nty}
+    \entry{econlp-001}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9ebf83bf8b72cfc44e24e41a6b78482b}{Ahrens}{A\bibinitperiod}{Maximilian}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=878be333c2c50f71ef95cfbbba7fd363}{McMahon}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{885438907243917e77a2e9d705252f3c}
+      \strng{fullhash}{885438907243917e77a2e9d705252f3c}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Extracting Economic Signals from Central Bank Speeches}
+    \endentry
+    \entry{workshop20}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=f574a52ef72b7d948d341511736c4410}{Aly}{A\bibinitperiod}{Rami}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=ceb25c9ccadbe88eaa8dd4c89e4f44c2}{Cocarascu}{C\bibinitperiod}{Oana}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=a870e7c2218dedf8fa395067da42b08f}{Christodoulopoulos}{C\bibinitperiod}{Christos}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=dd549e066aa8013fdd8fda1835236922}{Thorne}{T\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7e67c7cbda61759192c35b597e0ae638}{Vlachos}{V\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=998633ca3ae589d1feeeea9f36da6aa1}{Mittal}{M\bibinitperiod}{Arpit}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{62f58f476f9e5f4926eacf8e7e661f71}
+      \strng{fullhash}{62f58f476f9e5f4926eacf8e7e661f71}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proceedings of the Fourth Workshop on Fact Extraction and VERification (FEVER)}
+    \endentry
+    \entry{newsum-021}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e6abb041de9f6b1e3c4b911dc3a137a9}{Arana-Catania}{A\bibinithyphendelim C\bibinitperiod}{Miguel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=bf658f788762853a4052a63d4a1647a8}{Procter}{P\bibinitperiod}{Rob}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f3b78337b03e473fdd1fe07b5b127389}{He}{H\bibinitperiod}{Yulan}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=e92097fdef162f62650b48ff50313599}{Liakata}{L\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{42fbf3470d24e8411d112bf84313e93e}
+      \strng{fullhash}{42fbf3470d24e8411d112bf84313e93e}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evaluation of Abstractive Summarisation Models with Machine Translation in Deliberative Processes}
+    \endentry
+    \entry{eancs-006}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=ffc40394ff6cfbfe8ecd011fc2b15b11}{Arava}{A\bibinitperiod}{Radhika}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=c824c76b394dd3a727204566bf14291c}{Trager}{T\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=fc658bba73f4d0cbddac2bbbc81f004a}{Yu}{Y\bibinitperiod}{Boya}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2bb08e43223431e759310c1e7c0e71d1}{Abdelhady}{A\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1269398209c0d129528dfdcf48b82910}
+      \strng{fullhash}{1269398209c0d129528dfdcf48b82910}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unsupervised Testing of NLU models with Multiple Views}
+    \endentry
+    \entry{insights-017}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=2d66194b63b95c3ad96a656408127ef5}{Bansal}{B\bibinitperiod}{Sameer}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=ebfd739e4ec3b0432354857088f604df}{Benton}{B\bibinitperiod}{Adrian}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{03c63a9bf6cb10b447a36f34f707170a}
+      \strng{fullhash}{03c63a9bf6cb10b447a36f34f707170a}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Comparing Euclidean and Hyperbolic Embeddings on the WordNet Nouns Hypernymy Graph}
+    \endentry
+    \entry{insights-003}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9d132a04e3de2de298b56f70ea9076c0}{Basu\bibnamedelimb Roy\bibnamedelima Chowdhury}{B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim C\bibinitperiod}{Somnath}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=59f387defbbf8029d33da69f047c56e2}{Chaturvedi}{C\bibinitperiod}{Snigdha}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{12d23cf65a350965cfa50c145b5ddcbd}
+      \strng{fullhash}{12d23cf65a350965cfa50c145b5ddcbd}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Does Commonsense help in detecting Sarcasm?}
+    \endentry
+    \entry{econlp-008}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=4e7ece9f9ab3a1fbebe9d401c307771e}{Basu}{B\bibinitperiod}{Priyam}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=064438222b1e42f6274fe08fed5bb916}{Roy}{R\bibinitperiod}{Tiasa\bibnamedelima Singha}{T\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=51e44335128cf729e8dcf0848008eb2d}{Naidu}{N\bibinitperiod}{Rakshit}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=374e6a569f319380b909c1d6d7da7835}{Muftuoglu}{M\bibinitperiod}{Zumrut}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6d37fd03e2fb14d038586d7541378de5}
+      \strng{fullhash}{6d37fd03e2fb14d038586d7541378de5}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Privacy enabled Financial Text Classification using Differential Privacy and Federated Learning}
+    \endentry
+    \entry{newsum-023}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=4a929cf47964ba2632e1c46b4ecfe403}{Beckage}{B\bibinitperiod}{Nicole}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=254a12a8b26a4937efc52345a2f51594}{H\bibnamedelima Kumar}{H\bibinitperiod\bibinitdelim K\bibinitperiod}{Shachi}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=869f7be8b988a9d8efcd882900ec7a98}{Sahay}{S\bibinitperiod}{Saurav}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e1d1102f9831e27dd6f51329a917ca93}{Manuvinakurike}{M\bibinitperiod}{Ramesh}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{762f3ddd59ee8bbcd8b49c2a9cab111d}
+      \strng{fullhash}{762f3ddd59ee8bbcd8b49c2a9cab111d}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Context or No Context? A preliminary exploration of human-in-the-loop approach for Incremental Temporal Summarization in meetings}
+    \endentry
+    \entry{insights-036}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f6126d401371bb053d15e54678a5d2be}{Bhargava}{B\bibinitperiod}{Prajjwal}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=4fb7ec7eb2f4d663ab9ab8e49ebfbea9}{Drozd}{D\bibinitperiod}{Aleksandr}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d41347f273c226091f12a17225bb356a}{Rogers}{R\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4ab80ca2ce7a99720c1b582d866b6d25}
+      \strng{fullhash}{4ab80ca2ce7a99720c1b582d866b6d25}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Generalization in NLI: Ways (Not) To Go Beyond Simple Heuristics}
+    \endentry
+    \entry{insights-027}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=d58110a310cacc94692f0f5b6dd202ed}{Bogoychev}{B\bibinitperiod}{Nikolay}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=0df57caac1c944bece15da52805eb973}{Chen}{C\bibinitperiod}{Pinzhen}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6bd2d25c762ff854207b4e1b8c41a0fb}
+      \strng{fullhash}{6bd2d25c762ff854207b4e1b8c41a0fb}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Highs and Lows of Simple Lexical Domain Adaptation Approaches for Neural Machine Translation}
+    \endentry
+    \entry{fever-009}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=a466cc4d80e073524b14fbc058af96f9}{BOUZIANE}{B\bibinitperiod}{Mostafa}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c8531dfdfbce33dede7686409efc1562}{Perrin}{P\bibinitperiod}{Hugo}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=2a4e7b75c64cb863b0a65d06f5a9e591}{Sadeq}{S\bibinitperiod}{Amine}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7dd79125974437d123ed7d7fbfda3a15}{Nguyen}{N\bibinitperiod}{Thanh}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=76c4960fbb87e91624f9208b189fa9cc}{Cluzeau}{C\bibinitperiod}{Aurélien}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=c29c80d730a760c5324fd90c66f1363d}{Mardas}{M\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fa380b46b47e14da485d04bc24d22135}
+      \strng{fullhash}{fa380b46b47e14da485d04bc24d22135}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FaBULOUS: Fact-checking Based on Understanding of Language Over Unstructured and Structured information}
+    \endentry
+    \entry{insights-030}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=297f6a5fded2c0caf7f0e01fed925e59}{Chopard}{C\bibinitperiod}{Daphné}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=927aa8f7e9a7231eecca2095ca14e69c}{Treder}{T\bibinitperiod}{Matthias\bibnamedelima S.}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=ebbe66355d830c571538c9fcc57cfb8e}{Spasić}{S\bibinitperiod}{Irena}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{633bfec3b77e35042b339efed498d789}
+      \strng{fullhash}{633bfec3b77e35042b339efed498d789}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Learning Data Augmentation Schedules for Natural Language Processing}
+    \endentry
+    \entry{eancs-005}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=03014320bdb105554a94cce70ad0fd80}{Coca}{C\bibinitperiod}{Alexandru}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2c0dabf25bba52c54d8ab7f000f46dae}{Tseng}{T\bibinitperiod}{Bo-Hsiang}{B\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cab2bc0149fcfd1e710513adee821105}{Byrne}{B\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{849b2760a81ff0dd8943b225b6379cc0}
+      \strng{fullhash}{849b2760a81ff0dd8943b225b6379cc0}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GCDF1: A Goal- and Context- Driven F-Score for Evaluating User Models}
+    \endentry
+    \entry{econlp-018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=0948062a0116910f26e1b8e6d0e80329}{Del\bibnamedelima Corro}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{Luciano}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ba7ffbdce8305a1b2ebd96e5a960cf4b}{Hoffart}{H\bibinitperiod}{Johannes}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{69c796dfbaffa8fc8d9f9a4d90bf9f8f}
+      \strng{fullhash}{69c796dfbaffa8fc8d9f9a4d90bf9f8f}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{From Stock Prediction to Financial Relevance: Repurposing Attention Weights to Assess News Relevance Without Manual Annotations}
+    \endentry
+    \entry{econlp-017}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=689b749f34ecf74ad7e84b84fa5d1061}{Ehara}{E\bibinitperiod}{Yo}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{689b749f34ecf74ad7e84b84fa5d1061}
+      \strng{fullhash}{689b749f34ecf74ad7e84b84fa5d1061}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{To What Extent Can English-as-a-Second Language Learners Read Economic News Texts?}
+    \endentry
+    \entry{workshop6}{inproceedings}{}
+      \name{author}{14}{}{%
+        {{hash=c63e034ea77c7c55818aa4da5f40f479}{Eisenstein}{E\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5f9d8f5a088f41e9b0df21c9612816d2}{Feder}{F\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=81e3df64dcc8ffabf2106dfc23b934e0}{Grimmer}{G\bibinitperiod}{Justin}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3999ff53007436fe8b29a4990930b5e5}{Keith}{K\bibinitperiod}{Katherine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=ca618c61e4eab02568b8a454778be273}{Manzoor}{M\bibinitperiod}{Emaad}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=698d622cecf56462344d6f3b6a91f474}{Pryzant}{P\bibinitperiod}{Reid}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=973744e6678559fe62831f24b9f834df}{Reichart}{R\bibinitperiod}{Roi}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=bc0ee2b2a92c5e48e2642aec7e5419a1}{Roberts}{R\bibinitperiod}{Molly}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c39ea9ea2b55e1753c555a453a610aec}{Shalit}{S\bibinitperiod}{Uri}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=2d957a6117cd994f75ac8c1fefe2f037}{Sridhar}{S\bibinitperiod}{Dhanya}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e427af7d6363f6b3a00d558044c534c5}{Stewart}{S\bibinitperiod}{Brandon}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=30db2f42d0dd8cf10ef82c5eae10096e}{Veitch}{V\bibinitperiod}{Victor}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=57c8d2f69761e5e753bf4ac883f2a8b6}{Wood-Doughty}{W\bibinithyphendelim D\bibinitperiod}{Zach}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ff611991cba7ee48521ab941158ac2f}{Yang}{Y\bibinitperiod}{Diyi}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{23790f7b41b7d4bce7fca68f736178cc}
+      \strng{fullhash}{23790f7b41b7d4bce7fca68f736178cc}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proceedings of CI+NLP: First Workshop on Causal Inference and NLP}
+    \endentry
+    \entry{newsum-006}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=2b32e2c25be29e9aa2f7bc6d2c9a2580}{Fatima}{F\bibinitperiod}{Mehwish}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c6ed0f37c23e807bba1a5237a69cc2c4}{Strube}{S\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{daaa8e04d23e615a2eb33e36afd98adb}
+      \strng{fullhash}{daaa8e04d23e615a2eb33e36afd98adb}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Novel Wikipedia based Dataset for Monolingual and Cross-Lingual Summarization}
+    \endentry
+    \entry{insights-038}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=4de60d6fdd011ab8aeee8a82124229cc}{Felhi}{F\bibinitperiod}{Ghazi}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1354d10bde7be126726cc314cc2770cd}{Le\bibnamedelima Roux}{L\bibinitperiod\bibinitdelim R\bibinitperiod}{Joseph}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=fc50e89afacf42b291d22500b831444b}{Seddah}{S\bibinitperiod}{Djamé}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{618658aacbca2b968da12f61d1df08a0}
+      \strng{fullhash}{618658aacbca2b968da12f61d1df08a0}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Challenging the Semi-Supervised VAE Framework for Text Classification}
+    \endentry
+    \entry{ci+nlp-013}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=374ce39df4fc73dfbbf1b221aaa17c3b}{Founta}{F\bibinitperiod}{Antigoni}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ede296c12d7a570bc8b70fcb82116a5f}{Specia}{S\bibinitperiod}{Lucia}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f580a267bcd1e9ed7d3970940c137a7d}
+      \strng{fullhash}{f580a267bcd1e9ed7d3970940c137a7d}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Survey of Online Hate Speech through the Causal Lens}
+    \endentry
+    \entry{fever-010}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f5ea2d0be37b350d6fc969c2a9fd20ff}{Funkquist}{F\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f5ea2d0be37b350d6fc969c2a9fd20ff}
+      \strng{fullhash}{f5ea2d0be37b350d6fc969c2a9fd20ff}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Combining sentence and table evidence to predict veracity of factual claims using TaPaS and RoBERTa}
+    \endentry
+    \entry{ci+nlp-008}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=874b280cd69674bf4876d349a4d6f5e3}{Fytas}{F\bibinitperiod}{Panagiotis}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0ae90bb5b979c011ff47bd1227a6d326}{Rizos}{R\bibinitperiod}{Georgios}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ede296c12d7a570bc8b70fcb82116a5f}{Specia}{S\bibinitperiod}{Lucia}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a0c85f0c0f4031680c4626d932a21c24}
+      \strng{fullhash}{a0c85f0c0f4031680c4626d932a21c24}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Makes a Scientific Paper be Accepted for Publication?}
+    \endentry
+    \entry{fever-006}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=bb856b43fb361720358291d2ae4aaa3c}{Gi}{G\bibinitperiod}{In-Zu}{I\bibinithyphendelim Z\bibinitperiod}{}{}{}{}}%
+        {{hash=558bf78bb2ca638eb669fa50aa234c62}{Fang}{F\bibinitperiod}{Ting-Yu}{T\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=f671f3e0518af2e3124ae19eb9903e82}{Tsai}{T\bibinitperiod}{Richard\bibnamedelima Tzong-Han}{R\bibinitperiod\bibinitdelim T\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fd8034043b23f8ef449401d82ab26dc9}
+      \strng{fullhash}{fd8034043b23f8ef449401d82ab26dc9}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Verdict Inference with Claim and Retrieved Elements Using RoBERTa}
+    \endentry
+    \entry{ci+nlp-014}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=4f9ea86286cec2328fb1ea3b12f32a8d}{Glenski}{G\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=16bf4cd63e44f4b2847510f8ea40b0b1}{Volkova}{V\bibinitperiod}{Svitlana}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dec675404c3830feb163311d30db7d23}
+      \strng{fullhash}{dec675404c3830feb163311d30db7d23}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Identifying Causal Influences on Publication Trends and Behavior: A Case Study of the Computational Linguistics Community}
+    \endentry
+    \entry{newsum-004}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=9a4ef52ef3c6ee72f0d41536c77d2cca}{Guan}{G\bibinitperiod}{Shuo}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9a4ef52ef3c6ee72f0d41536c77d2cca}
+      \strng{fullhash}{9a4ef52ef3c6ee72f0d41536c77d2cca}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Knowledge and Keywords Augmented Abstractive Sentence Summarization}
+    \endentry
+    \entry{insights-034}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=7c372c0343e5fe43a2422a9a81d43839}{Guillou}{G\bibinitperiod}{Liane}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=43594169f54a63c9b05fbecc8a65ccd0}{Bijl\bibnamedelimb de\bibnamedelima Vroe}{B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim V\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=36abc6d98046449ff16c432759b3fcd6}{Johnson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7a7bed50026b5265428aca5961b9ad14}{Steedman}{S\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3703eea2b76041b9207e25c96ca11aeb}
+      \strng{fullhash}{3703eea2b76041b9207e25c96ca11aeb}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Blindness to Modality Helps Entailment Graph Mining}
+    \endentry
+    \entry{workshop1}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=b1b23e913d226bd63c4c7022beb08edd}{Hahn}{H\bibinitperiod}{Udo}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=a2552991b1433efe99cce9b2a665aae7}{Hoste}{H\bibinitperiod}{Veronique}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=96dbd240f4acf7a62df730b70b2b44fd}{Stent}{S\bibinitperiod}{Amanda}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8792a55392a8c05a5ac594b467955193}
+      \strng{fullhash}{8792a55392a8c05a5ac594b467955193}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proceedings of the 3rd Workshop on Economics and Natural Language Processing (ECONLP)}
+    \endentry
+    \entry{econlp-005}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=411b04507b340d82a3c75c3c291212eb}{Hu}{H\bibinitperiod}{Jiahui}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b5e593803eacd55a27d52195d7fe1a01}{Paroubek}{P\bibinitperiod}{Patrick}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7fe18480ff3fdc55be677747d440a672}
+      \strng{fullhash}{7fe18480ff3fdc55be677747d440a672}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Fine-Grained Annotated Corpus for Target-Based Opinion Analysis of Economic and Financial Narratives}
+    \endentry
+    \entry{newsum-017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=484e7866923a7382e858713920415ee3}{Huang}{H\bibinitperiod}{Yangchen}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=eaaced57d1fa181229d7d26a42028b7e}{Dhingra}{D\bibinitperiod}{Prashant\bibnamedelima K.}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=4f94b63d9e230bd5c5a557cc5b9b9a55}{Mohseni\bibnamedelima Taheri}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{Seyed\bibnamedelima Danial}{S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c4529f172998168f182365d92130d835}
+      \strng{fullhash}{c4529f172998168f182365d92130d835}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Template-aware Attention Model for Earnings Call Report Generation}
+    \endentry
+    \entry{eancs-004}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=1fd5ec8bcbaf30b0eeea16e2e3c528d0}{Huang}{H\bibinitperiod}{Yi}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=5348e29db00b0e6556fc3405c7d3bffe}{Feng}{F\bibinitperiod}{Junlan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e8a4eb18b58f3b40f48f4d2c20a0c7ed}{Wu}{W\bibinitperiod}{Xiaoting}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=2d4ddd89d90394df36a5a7e3d624a0dd}{Du}{D\bibinitperiod}{Xiaoyu}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{942f5a2b93cfa4aae9c3eaf3e528f9ac}
+      \strng{fullhash}{942f5a2b93cfa4aae9c3eaf3e528f9ac}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Counterfactual Matters: Intrinsic Probing For Dialogue State Tracking}
+    \endentry
+    \entry{insights-001}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f2d3c33e13f308367422de46ae44b010}{İrsoy}{İ\bibinitperiod}{Ozan}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=ebfd739e4ec3b0432354857088f604df}{Benton}{B\bibinitperiod}{Adrian}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d9fa2a7779165034320afb4140e55c59}{Stratos}{S\bibinitperiod}{Karl}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{956163bcdade1abbd09dc462c60da309}
+      \strng{fullhash}{956163bcdade1abbd09dc462c60da309}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Corrected CBOW Performs as well as Skip-gram}
+    \endentry
+    \entry{newsum-010}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=e65526815f27931220b4982eeb2e970c}{Jørgensen}{J\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=396b0ec2b034423c37af7048cb81a7b4}{Søgaard}{S\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{de2e588371d20ff6d7c9a81c7c066ebd}
+      \strng{fullhash}{de2e588371d20ff6d7c9a81c7c066ebd}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evaluation of Summarization Systems across Gender, Age, and Race}
+    \endentry
+    \entry{insights-040}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=5139765080f7e1761e6366e328f18b84}{Kees}{K\bibinitperiod}{Nataliia}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5a5c8a297188906d314f32a4e0021506}{Fromm}{F\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f82f97528567b1069d6c8bf65d57b414}{Faerman}{F\bibinitperiod}{Evgeniy}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=cc806b6fccada1c5f74dcdd2ddc0c1a8}{Seidl}{S\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c6d90048ba2e4a70d0789320d230062f}
+      \strng{fullhash}{c6d90048ba2e4a70d0789320d230062f}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Active Learning for Argument Strength Estimation}
+    \endentry
+    \entry{ci+nlp-004}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=3999ff53007436fe8b29a4990930b5e5}{Keith}{K\bibinitperiod}{Katherine}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=2239a4a4f94aae1ac734d53b45066d1e}{Rice}{R\bibinitperiod}{Douglas}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9571b2b14f23c45ebda0321a8ac01394}{O'Connor}{O\bibinitperiod}{Brendan}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3af09914d79dbde4628084e2f06a15ac}
+      \strng{fullhash}{3af09914d79dbde4628084e2f06a15ac}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects}
+    \endentry
+    \entry{econlp-004}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=986b1aef5de4ed81b192e370aee24623}{Kim}{K\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6728b515969ecedfe6c94d9b31cac427}{Yoon}{Y\bibinitperiod}{Sangwon}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7ccf950a1be4c5484b4189d6dcc3b81e}
+      \strng{fullhash}{7ccf950a1be4c5484b4189d6dcc3b81e}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Corporate Bankruptcy Prediction with BERT Model}
+    \endentry
+    \entry{fever-003}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=29398b3d24de13ddc390bf4733ab8155}{Kotonya}{K\bibinitperiod}{Neema}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f027bdd62c183fa30552d3c62c25a167}{Spooner}{S\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=f3003eb7084388448b8e88e31b71faaf}{Magazzeni}{M\bibinitperiod}{Daniele}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=fd9d7f4e312e77f3e17b8309dac2e0e5}{Toni}{T\bibinitperiod}{Francesca}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cf1db86375ffff97cad0da2fb6ca9df2}
+      \strng{fullhash}{cf1db86375ffff97cad0da2fb6ca9df2}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Graph Reasoning with Context-Aware Linearization for Interpretable Fact Extraction and Verification}
+    \endentry
+    \entry{newsum-031}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=242839f39a92f27877935dccf4e31134}{Lebanoff}{L\bibinitperiod}{Logan}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=2986af99eb0648c0b6ef02eb3e22f919}{Wang}{W\bibinitperiod}{Bingqing}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=53bdaa103215adab6fd5247b20c77d13}{Feng}{F\bibinitperiod}{Zhe}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=0138deaf332692ced30d823b9cebc488}{Liu}{L\bibinitperiod}{Fei}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a63886979562b5dc2cb97d14ab67be4c}
+      \strng{fullhash}{a63886979562b5dc2cb97d14ab67be4c}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modeling Endorsement for Multi-Document Abstractive Summarization}
+    \endentry
+    \entry{newsum-005}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=4cf19f516c524a3b18a57a453c095ef7}{Lee}{L\bibinitperiod}{Dongyub}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9ea18122d1d801fdce279b4c3ebca966}{Lim}{L\bibinitperiod}{Jungwoo}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=5c5336f41b5f1fcba1cea8fd6b84e72c}{Whang}{W\bibinitperiod}{Taesun}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=71f2c938e19fff665a901a36c0526fe8}{Cho}{C\bibinitperiod}{Seungwoo}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=12014440e63be15624a8390ad145017b}{Park}{P\bibinitperiod}{Mingun}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b438a96e2c964a64f3a99071fc7871b4}{Lim}{L\bibinitperiod}{Heuiseok}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7d36ab58e5d0c7be29aa159eeb9ddb3e}
+      \strng{fullhash}{7d36ab58e5d0c7be29aa159eeb9ddb3e}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Capturing Speaker Incorrectness: Speaker-Focused Post-Correction for Abstractive Dialogue Summarization}
+    \endentry
+    \entry{econlp-012}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=25f69ded808191df488cc4fce4b56e69}{Lee}{L\bibinitperiod}{Meisin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=11ea6862c62b40b2a33d587c8c7f0a43}{Soon}{S\bibinitperiod}{Lay-Ki}{L\bibinithyphendelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=2ce427eecfb011c46b8dc2c1a07a7b02}{Siew}{S\bibinitperiod}{Eu-Gene}{E\bibinithyphendelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1bbbd8afd2e8558cc72fe46625cfec1a}
+      \strng{fullhash}{1bbbd8afd2e8558cc72fe46625cfec1a}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Effective Use of Graph Convolution Network and Contextual Sub-Tree for Commodity News Event Extraction}
+    \endentry
+    \entry{newsum-024}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=f98d5d63fbe542a5f9a64aed46c16a99}{Li}{L\bibinitperiod}{Haoran}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=56bf62361a33b253ac5a79b65671275b}{Einolghozati}{E\bibinitperiod}{Arash}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b01d380a5e0f7e8faa2cb6de400bd0fb}{Iyer}{I\bibinitperiod}{Srinivasan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d8e8976ad7ec5848c2f5557280aa5cdf}{Paranjape}{P\bibinitperiod}{Bhargavi}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=09002dc86e3060fd9d68dec0211c0f18}{Mehdad}{M\bibinitperiod}{Yashar}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=545cf31b67044795c5772570c35f71f0}{Gupta}{G\bibinitperiod}{Sonal}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=48c4948c609cf46c9b488f9abb83441d}{Ghazvininejad}{G\bibinitperiod}{Marjan}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3cba001cbb6d9fb25b3cfc8a9baf019b}
+      \strng{fullhash}{3cba001cbb6d9fb25b3cfc8a9baf019b}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EASE: Extractive-Abstractive Summarization End-to-End using the Information Bottleneck Principle}
+    \endentry
+    \entry{insights-029}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=1c17a20c4acfa6f32b73321fc505433b}{Liu}{L\bibinitperiod}{Ling}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=479817289826a3ee15c0d94754f11b8a}{Hulden}{H\bibinitperiod}{Mans}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0840bab4ff5c70fc75f56846c6266f11}
+      \strng{fullhash}{0840bab4ff5c70fc75f56846c6266f11}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Backtranslation in Neural Morphological Inflection}
+    \endentry
+    \entry{fever-004}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=621013bf54d3546375ad71f17f020b5b}{Liu}{L\bibinitperiod}{Yang}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=18da93aeef135dea4a44b078bf8271ed}{Zhu}{Z\bibinitperiod}{Chenguang}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=284bc7f0b623647f7e92c47644547021}{Zeng}{Z\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4e59018ab55d37906deaa6b89b785a0c}
+      \strng{fullhash}{4e59018ab55d37906deaa6b89b785a0c}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modeling Entity Knowledge for Fact Verification}
+    \endentry
+    \entry{econlp-003}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e513160358e644187b2759e86e8275aa}{Loukas}{L\bibinitperiod}{Lefteris}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=a28ecf54a2bc74a55600b32f2c96a553}{Fergadiotis}{F\bibinitperiod}{Manos}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f0eb468c6aca741748e9e2652aa90c75}{Androutsopoulos}{A\bibinitperiod}{Ion}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=953ba50a52de32812ae6bf1a717bc6f1}{Malakasiotis}{M\bibinitperiod}{Prodromos}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{48639cab0ce0f737cae3a60671635992}
+      \strng{fullhash}{48639cab0ce0f737cae3a60671635992}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EDGAR-CORPUS: Billions of Tokens Make The World Go Round}
+    \endentry
+    \entry{ci+nlp-015}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=5bae9ce30b445811667381d2227a359f}{Low}{L\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=4aa6f4ce0212313f6a9a0ed57b174c34}{Zuromski}{Z\bibinitperiod}{Kelly}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=264b6461d2a81e1cc6fb6167597335a2}{Kessler}{K\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=10039860d76129a741ce31d860fa3107}{Nock}{N\bibinitperiod}{Matthew\bibnamedelima K.}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=896d31264e78ab320a193e10cb93e502}{Dempsey}{D\bibinitperiod}{Walter}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f8aa1342bb799e912b3e3af879b98827}
+      \strng{fullhash}{f8aa1342bb799e912b3e3af879b98827}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{It's quality and quantity: the effect of the amount of comments on online suicidal posts}
+    \endentry
+    \entry{fever-005}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=4030c1dde1ce0aa0d5817f8ba9b9a70a}{Malon}{M\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4030c1dde1ce0aa0d5817f8ba9b9a70a}
+      \strng{fullhash}{4030c1dde1ce0aa0d5817f8ba9b9a70a}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Team Papelo at FEVEROUS: Multi-hop Evidence Pursuit}
+    \endentry
+    \entry{newsum-012}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=12b73a8018aaf9395e58f2bf0e14179b}{Marfurt}{M\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=f66a214e1ca36bb4cef5752eb337d6dc}{Henderson}{H\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dde4727a6a2a7b576ffcdb9b7bc3229c}
+      \strng{fullhash}{dde4727a6a2a7b576ffcdb9b7bc3229c}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sentence-level Planning for Especially Abstractive Summarization}
+    \endentry
+    \entry{insights-004}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a05589814826f9a99031833d147bfdc6}{Maronikolakis}{M\bibinitperiod}{Antonis}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=58d67f5f9bd7a9de1cda60d02d7e7339}{Dufter}{D\bibinitperiod}{Philipp}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=9a80de0e5ec6df57363aaf321a5d05be}{Schütze}{S\bibinitperiod}{Hinrich}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ac9258266c0b4bb6e2b4e142e760abcf}
+      \strng{fullhash}{ac9258266c0b4bb6e2b4e142e760abcf}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BERT Cannot Align Characters}
+    \endentry
+    \entry{fever-007}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=6caf0b9906f6aa125c7015139c12beec}{Mascarell}{M\bibinitperiod}{Laura}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3caeb3e4352f28406dcdb69ed0917e26}{Ruzsics}{R\bibinitperiod}{Tatyana}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=2e53948c88ea1eecfddfde0080a75496}{Schneebeli}{S\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=0989e74e9e33a2cecacad0d55911999b}{Schlattner}{S\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=8bfa211dcb053de67f7bb6bbf0ae31ff}{Campanella}{C\bibinitperiod}{Luca}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=3f736d9b6d15d52fd42c4697660aa861}{Klingler}{K\bibinitperiod}{Severin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d76a8792d4f62070901ec53b7b79ef27}{Kadar}{K\bibinitperiod}{Cristina}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c7e72bd072d8039472e67cc2f3df7e76}
+      \strng{fullhash}{c7e72bd072d8039472e67cc2f3df7e76}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stance Detection in German News Articles}
+    \endentry
+    \entry{econlp-009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=928acc9673d5481ec7524119e438d620}{Matsui}{M\bibinitperiod}{Akira}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=62341ebcc57e03720c55a39d93f0b17d}{Ren}{R\bibinitperiod}{Xiang}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=9ff088972e751f036f6d04e4c835050d}{Ferrara}{F\bibinitperiod}{Emilio}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e8832e457a4fa597059b88f91ada893a}
+      \strng{fullhash}{e8832e457a4fa597059b88f91ada893a}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using Word Embedding to Reveal Monetary Policy Explanation Changes}
+    \endentry
+    \entry{fever-014}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=a977ed6de6fae5b2257b99b76a71c7c7}{Mattern}{M\bibinitperiod}{Justus}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2addc56ce0ea3a8fc05ff9b0995f74f4}{Qiao}{Q\bibinitperiod}{Yu}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=6e7488d1ca0cbd4ebd0ae6357b731e31}{Kerz}{K\bibinitperiod}{Elma}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=2d1104bbabd0d5d333d1539e80021143}{Wiechmann}{W\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a886f243c9ad0d58b6297daa714e4d89}{Strohmaier}{S\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c9f2adf7a78f0dee02964a69c98e3252}
+      \strng{fullhash}{c9f2adf7a78f0dee02964a69c98e3252}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FANG-COVID: A New Large-Scale Benchmark Dataset for Fake News Detection in German}
+    \endentry
+    \entry{newsum-029}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=3cb2ec717219c1c27e9cb9613349db20}{Mrini}{M\bibinitperiod}{Khalil}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=aa26870d99099abb82c8205a89637e90}{Liu}{L\bibinitperiod}{Can}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c367da04285e08ffc42722fd34b8cdd8}{Dreyer}{D\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{092e2fd307a146552f9c7ba231f76b8c}
+      \strng{fullhash}{092e2fd307a146552f9c7ba231f76b8c}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rewards with Negative Examples for Reinforced Topic-Focused Abstractive Summarization}
+    \endentry
+    \entry{insights-011}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=cf7fa506be91ea95ded2fc48953ce282}{Park}{P\bibinitperiod}{Seongmin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=2d81da5144c80474bf9801699fc50b3f}{Lee}{L\bibinitperiod}{Jihwa}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e1ff645c4e08ecef1b401e3391250ddd}
+      \strng{fullhash}{e1ff645c4e08ecef1b401e3391250ddd}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Finetuning Pretrained Transformers into Variational Autoencoders}
+    \endentry
+    \entry{insights-006}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=bfd5e555c560eeb4d201d9c9a8a1a5b6}{Park}{P\bibinitperiod}{Sungjin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=77dd0834d938761050669f44fdc18572}{Lee}{L\bibinitperiod}{Seolhwa}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5c5336f41b5f1fcba1cea8fd6b84e72c}{Whang}{W\bibinitperiod}{Taesun}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b438a96e2c964a64f3a99071fc7871b4}{Lim}{L\bibinitperiod}{Heuiseok}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{42fa3ffaad6a5917c13a580ad6dd8b51}
+      \strng{fullhash}{42fa3ffaad6a5917c13a580ad6dd8b51}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Two Heads are Better than One? Verification of Ensemble Effect in Neural Machine Translation}
+    \endentry
+    \entry{newsum-035}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=54c0b48508cd3ee45ade6745904f49b9}{Parvez}{P\bibinitperiod}{Md\bibnamedelima Rizwan}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=98697278f568339e7a30200f4f2fee34}{Ahmad}{A\bibinitperiod}{Wasi}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=fd7237d4640fadf33f7b56a9bb30509d}{Chakraborty}{C\bibinitperiod}{Saikat}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=0806c08947a2a72e09479f9555c0dad5}{Ray}{R\bibinitperiod}{Baishakhi}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=e92742530fcafbae797b45437638bb01}{Chang}{C\bibinitperiod}{Kai-Wei}{K\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d315fc23affdb8d9c52017bf0f8b3723}
+      \strng{fullhash}{d315fc23affdb8d9c52017bf0f8b3723}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Retrieval Augmented Code Generation and Summarization}
+    \endentry
+    \entry{econlp-016}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=bdb04cfbca4a19a372ece66e454dd236}{Pawlicka\bibnamedelima Maule}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{Anna\bibnamedelima Paula}{A\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=9f0248bd41e3af97d75b5c172049c36f}{Johnson}{J\bibinitperiod}{Kristen}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ebf20ac5590cd248cab489197f9c65cf}
+      \strng{fullhash}{ebf20ac5590cd248cab489197f9c65cf}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cryptocurrency Day Trading and Framing Prediction in Microblog Discourse}
+    \endentry
+    \entry{econlp-013}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=883ca506b36387ef49f12b3a0d8dbacf}{Peng}{P\bibinitperiod}{Bo}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=eea6fa396009fb4eecd7581af0bcbe3a}{Chersoni}{C\bibinitperiod}{Emmanuele}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1cc434f90f6e45fe672d87578dc6a13d}{Hsu}{H\bibinitperiod}{Yu-Yin}{Y\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
+        {{hash=940237b79f8c6e9df9ba38e7fe4a2c51}{Huang}{H\bibinitperiod}{Chu-Ren}{C\bibinithyphendelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9708f8ae441278f614857d32ef5531d7}
+      \strng{fullhash}{9708f8ae441278f614857d32ef5531d7}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is Domain Adaptation Worth Your Investment? Comparing BERT and FinBERT on Financial Tasks}
+    \endentry
+    \entry{newsum-002}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=fc698b384f43b335b8d2595826b00914}{Rios}{R\bibinitperiod}{Annette}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9e0063c495bdcee6395a527db4c10003}{Spring}{S\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e24d9fa0ade2155af2cea726dc4d411a}{Kew}{K\bibinitperiod}{Tannon}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=5cefd263a9a2bc7ee31d846aad3ee028}{Kostrzewa}{K\bibinitperiod}{Marek}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=96462689158fea78aa9e27344b37c2d9}{Säuberli}{S\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=46365505ce852fa23d5258269b501496}{Müller}{M\bibinitperiod}{Mathias}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=41494d58d71e95c6ae8a3744ace7dc41}{Ebling}{E\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a484bb429cdabd75c7ef6342216910bc}
+      \strng{fullhash}{a484bb429cdabd75c7ef6342216910bc}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A New Dataset and Efficient Baselines for Document-level Text Simplification in German}
+    \endentry
+    \entry{insights-022}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=b474cbfdb42009643768aa0ff57b5a1c}{Rosendahl}{R\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f2b9394ea0139e9bd8e7b634d5706450}{Herold}{H\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=11a2549ffde37bc6217a47aca1eff347}{Petrick}{P\bibinitperiod}{Frithjof}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=cf68a4c2b64db77cc898cdc9fbdeb0c4}{Ney}{N\bibinitperiod}{Hermann}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fee9e166e9b90138a1cc54ce0c34034c}
+      \strng{fullhash}{fee9e166e9b90138a1cc54ce0c34034c}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Recurrent Attention for the Transformer}
+    \endentry
+    \entry{fever-013}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=71ecb5f172a3911161ea44e1c0c2cf8a}{Saeed}{S\bibinitperiod}{Mohammed}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5913aedee637950dec2a2925d0329b5d}{Alfarano}{A\bibinitperiod}{Giulio}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=be108fd4a21a183ae63b3d1ffaa61513}{nguyen}{n\bibinitperiod}{Khai}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=bce5930d1a17fddeb808cd5d9c4babb8}{Pham}{P\bibinitperiod}{Duc}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=80e25efccf4a0a840a57cf28aaf4b72b}{Troncy}{T\bibinitperiod}{Raphael}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=317f18d911e425fa4a4caad748a79699}{Papotti}{P\bibinitperiod}{Paolo}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5e7e8d663863d0b3f415a47367f8dd30}
+      \strng{fullhash}{5e7e8d663863d0b3f415a47367f8dd30}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neural Re-rankers for Evidence Retrieval in the FEVEROUS Task}
+    \endentry
+    \entry{insights-024}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=77e08e0ecb8ee06761695e82b67bb7af}{Sanabria}{S\bibinitperiod}{Ramon}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=89c763efdf8f05f46424e3b1bb0768f8}{Tang}{T\bibinitperiod}{Hao}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=e1ab2891d8fa63f3a5ddacc39f52a173}{Goldwater}{G\bibinitperiod}{Sharon}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5561d21f16b8c4c7482cf3daed29e1b1}
+      \strng{fullhash}{5561d21f16b8c4c7482cf3daed29e1b1}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On the Difficulty of Segmenting Words with Attention}
+    \endentry
+    \entry{insights-033}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f6ed95fe94975f72adfb909e07410d65}{Saravani}{S\bibinitperiod}{Sina\bibnamedelima Mahdipour}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=56391dde57f9c0d7ef7a2245ffce0cd9}{Banerjee}{B\bibinitperiod}{Ritwik}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=402b29ff950e804c7623a24d7732b1d0}{Ray}{R\bibinitperiod}{Indrakshi}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{904407861b4f9450b01d0da22b948113}
+      \strng{fullhash}{904407861b4f9450b01d0da22b948113}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A}n {I}nvestigation into the {C}ontribution of {L}ocally {A}ggregated {D}escriptors to {F}igurative {L}anguage {I}dentification}
+    \endentry
+    \entry{fever-011}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=a72a7be4d182637e6d3f69f5ce2f45c5}{Sathe}{S\bibinitperiod}{Aalok}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=bd82e834a326ddf1a9ea24c47930692d}{Park}{P\bibinitperiod}{Joonsuk}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ce31a65daaa38a8ba8562a8fbf449f0a}
+      \strng{fullhash}{ce31a65daaa38a8ba8562a8fbf449f0a}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Automatic Fact-Checking with Document-level Annotations using BERT and Multiple Instance Learning}
+    \endentry
+    \entry{workshop10}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=55f408d4f03c90fb75393e721053df3d}{Sedoc}{S\bibinitperiod}{João}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=d41347f273c226091f12a17225bb356a}{Rogers}{R\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=166fc42521dabe0995188c3472e8d3dd}{Rumshisky}{R\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=5d2b32afc0d045ce293a1f6f00b0c28c}{Tafreshi}{T\bibinitperiod}{Shabnam}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a174191214aa14fbc2148450c85ca4ac}
+      \strng{fullhash}{a174191214aa14fbc2148450c85ca4ac}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proceedings of the Second Workshop on Insights from Negative Results in NLP}
+    \endentry
+    \entry{econlp-011}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=7cff6540e87641ada6b15569e17da3b5}{Sohn}{S\bibinitperiod}{Kyunghwan}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=3aa7395041816e21c98b60a032d7a9f4}{Kwon}{K\bibinitperiod}{Sunjae}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e63caa34b58d4200eeaf99f070f7cf87}{Choi}{C\bibinitperiod}{Jaesik}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bd606509561ea572c4ad9252c6a09162}
+      \strng{fullhash}{bd606509561ea572c4ad9252c6a09162}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Global Banking Standards QA Dataset (GBS-QA)}
+    \endentry
+    \entry{newsum-027}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=b6b7878d5e86aed29e62eff7e4795cb0}{Sotudeh}{S\bibinitperiod}{Sajad}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9ec8ad58ddaced040f03e3340534b781}{Deilamsalehy}{D\bibinitperiod}{Hanieh}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=3fc6c673c89e1621c308fa6ab00d0f06}{Dernoncourt}{D\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=356b8414f9f750d8ed84ca2394868caa}{Goharian}{G\bibinitperiod}{Nazli}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1fc560585cc8e8203b93b611615ff4bb}
+      \strng{fullhash}{1fc560585cc8e8203b93b611615ff4bb}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TLDR9+: A Large Scale Resource for Extreme Summarization of Social Media Posts}
+    \endentry
+    \entry{fever-002}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=6ce4fea5c74234905c66325d61a71544}{Stammbach}{S\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6ce4fea5c74234905c66325d61a71544}
+      \strng{fullhash}{6ce4fea5c74234905c66325d61a71544}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evidence Selection as a Token-Level Prediction Task}
+    \endentry
+    \entry{ci+nlp-003}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=5b58e1eee1ee5b93f71fcfa9f257402b}{Tan}{T\bibinitperiod}{Fiona\bibnamedelima Anting}{F\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=14227e7438bb27d316977ef756c347ba}{Hazarika}{H\bibinitperiod}{Devamanyu}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a92d1ca972ec7d08ae7a664d63d96c49}{Ng}{N\bibinitperiod}{See-Kiong}{S\bibinithyphendelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=dcb98c96536530f44ae8cf4f6a8f2d86}{Poria}{P\bibinitperiod}{Soujanya}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=f27e72e20246f57f530b3a80f3393661}{Zimmermann}{Z\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bcf0c555b9ca2703cfd18281b7fcc39d}
+      \strng{fullhash}{bcf0c555b9ca2703cfd18281b7fcc39d}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Causal Augmentation for Causal Sentence Classification}
+    \endentry
+    \entry{insights-014}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=643ed971e72331cbad250ed3741edfe3}{Tang}{T\bibinitperiod}{Zixin}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1830bc3848a0cda63f4a76b15fc00352}{Mitra}{M\bibinitperiod}{Prasenjit}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=8ad93b4931ece066333332edd42b609f}{Reitter}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{19dc59fcc33c267a691bef01cfd0db4f}
+      \strng{fullhash}{19dc59fcc33c267a691bef01cfd0db4f}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Are BERTs Sensitive to Native Interference in L2 Production?}
+    \endentry
+    \entry{newsum-008}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=3d19068e2187646f141dbde6099b1e34}{Tay}{T\bibinitperiod}{Wenyi}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=cb14600a1bca6e3c3c1b451aba42bdef}{Zhang}{Z\bibinitperiod}{Xiuzhen}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=caa83d2f96328553a84751d213a72708}{Wan}{W\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e241322855010d1b2d6f2aa9a8c83c02}{Karimi}{K\bibinitperiod}{Sarvnaz}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{801e722da80ce065c93721ad6f392085}
+      \strng{fullhash}{801e722da80ce065c93721ad6f392085}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Measuring Similarity of Opinion-bearing Sentences}
+    \endentry
+    \entry{fever-015}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=7867ba47ea3951fa67546d6c43128f0f}{Temiz}{T\bibinitperiod}{Orkun}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=370569a2db6c35494d931b451e5a70a9}{Kılıç}{K\bibinitperiod}{Özgün\bibnamedelima Ozan}{Ö\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=0f46a5cfdd561e6c9671948304c5a6f8}{Kızıldağ}{K\bibinitperiod}{Arif\bibnamedelima Ozan}{A\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{hash=7a85a85da9b3579560f01d8fc574333a}{Taşkaya\bibnamedelima Temizel}{T\bibinitperiod\bibinitdelim T\bibinitperiod}{Tuğba}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{38b7e4afbefe3ee38b158c50e032c290}
+      \strng{fullhash}{38b7e4afbefe3ee38b158c50e032c290}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Fact Checking and Verification System for FEVEROUS Using a Zero-Shot Learning Approach}
+    \endentry
+    \entry{ci+nlp-011}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=8f714755d0d6e6f2ac0346aa7745a517}{Tierney}{T\bibinitperiod}{Graham}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=32f985746191d1b95ac58eccba2ab9d1}{Volfovsky}{V\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{28c01d4565afa330bd6ad0fe595d1ad9}
+      \strng{fullhash}{28c01d4565afa330bd6ad0fe595d1ad9}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sensitivity Analysis for Causal Mediation through Text: an Application to Political Polarization}
+    \endentry
+    \entry{newsum-026}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=61fb5d3d862155519c0b10bfee40c445}{Tuggener}{T\bibinitperiod}{Don}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=c696b6f38b1555fd3d477707ee91193f}{Mieskes}{M\bibinitperiod}{Margot}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=e25ee39d1c4b0a2613f699e0be458126}{Deriu}{D\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=4939fff1738344a019dbdedf5b32558a}{Cieliebak}{C\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{84991a36e0aa0f629163f849920bc527}
+      \strng{fullhash}{84991a36e0aa0f629163f849920bc527}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Are We Summarizing the Right Way? A Survey of Dialogue Summarization Data Sets}
+    \endentry
+    \entry{workshop21}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=55f210233ac686af68eba11a97bd84e2}{Wang}{W\bibinitperiod}{Lu}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=5d3c2a6a43c619967069a9836e461892}{Carenini}{C\bibinitperiod}{Giuseppe}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ce97593f13aaef90a58f9949276b51e7}{Chi\bibnamedelimb Kit\bibnamedelima Cheung}{C\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim C\bibinitperiod}{Jackie}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=0138deaf332692ced30d823b9cebc488}{Liu}{L\bibinitperiod}{Fei}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=47ab5b4291802c7fccdc42c32571e551}{Dong}{D\bibinitperiod}{Yue}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f6c7bc43245b55b6db815b5d613d37f}
+      \strng{fullhash}{3f6c7bc43245b55b6db815b5d613d37f}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proceedings of the Workshop on New Frontiers in Summarization}
+    \endentry
+    \entry{ci+nlp-007}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=e879808d99137738e801f62283395bcd}{Wang}{W\bibinitperiod}{Zhao}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=b7e59a821f2474127e14134fb2309373}{Shu}{S\bibinitperiod}{Kai}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=0c6a0a8f357b4156dd16cb85784f4b8e}{Culotta}{C\bibinitperiod}{Aron}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d9086026a80df9224cd90907569f4f5a}
+      \strng{fullhash}{d9086026a80df9224cd90907569f4f5a}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Enhancing Model Robustness and Fairness with Causality: A Regularization Approach}
+    \endentry
+    \entry{insights-016}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=e62efb957199c08cc1f73a5d388e87b7}{Weber}{W\bibinitperiod}{Sabine}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7a7bed50026b5265428aca5961b9ad14}{Steedman}{S\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{22217a350dad89b9cf410cb88b7099ed}
+      \strng{fullhash}{22217a350dad89b9cf410cb88b7099ed}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zero-Shot Cross-Lingual Transfer is a Hard Baseline to Beat in German Fine-Grained Entity Typing}
+    \endentry
+    \entry{workshop17}{inproceedings}{}
+      \name{author}{11}{}{%
+        {{hash=c1d89b1112687aab0def500c9ed1fd46}{Wei}{W\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=3e97152a548f1af74e08b5e0c377ef9b}{Dai}{D\bibinitperiod}{Bo}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=5aabe643c77f92846adf1b83e9c78387}{Zhao}{Z\bibinitperiod}{Tuo}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=09b19a7bef3ca63e5cf4af03d2b00ea0}{Li}{L\bibinitperiod}{Lihong}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=6ff611991cba7ee48521ab941158ac2f}{Yang}{Y\bibinitperiod}{Diyi}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=f0995e21442083712fc384a0a90860c4}{Chen}{C\bibinitperiod}{Yun-Nung}{Y\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=e42a67fa416009f890c58d7ad3d54069}{Boureau}{B\bibinitperiod}{Y-Lan}{Y\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=c4927df8e95405dfbbf5b894d58d4fca}{Celikyilmaz}{C\bibinitperiod}{Asli}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=cc54d563bd84e66e1b57422e99c18d94}{Geramifard}{G\bibinitperiod}{Alborz}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=224dd20a28a345f880e0b3c53634658d}{Ahuja}{A\bibinitperiod}{Aman}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=a5643fa1ae8fe0824b15f38d5bd6a580}{Jiang}{J\bibinitperiod}{Haoming}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0483d350f3834f1c8d890b9b7fbca80b}
+      \strng{fullhash}{0483d350f3834f1c8d890b9b7fbca80b}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proceedings of the Workshop on Evaluations and Assessments of Neural Conversation Systems}
+    \endentry
+    \entry{newsum-015}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=c8c9880b95afd39812adfea47aa3ee5b}{Yadav}{Y\bibinitperiod}{Nishant}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=a88c7d43a5997e2f80747ef2e60a7a91}{Brucato}{B\bibinitperiod}{Matteo}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b9ace6a34cb5f12f7a42f5ef0b15c042}{Fariha}{F\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=80b2cbd1bd241a9d6e32f7930abf750c}{Youngquist}{Y\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=d3ded5af7f63cf6b3f2778d9d7205484}{Killingback}{K\bibinitperiod}{Julian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3b104faa8be07760babe6fc386a0232e}{Meliou}{M\bibinitperiod}{Alexandra}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=101abed2a714fbd9d062b5dd442475a9}{Haas}{H\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{678ccd4dd333730397e0ef78144ccd0b}
+      \strng{fullhash}{678ccd4dd333730397e0ef78144ccd0b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SUBSUME: A Dataset for Subjective Summary Extraction from Wikipedia Documents}
+    \endentry
+    \entry{eancs-007}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=85c1005d81983211768c152215beb3c6}{Yeh}{Y\bibinitperiod}{Yi-Ting}{Y\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=331a3b7829f967e10a2c7f54cc1beb31}{Eskenazi}{E\bibinitperiod}{Maxine}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8a349cf6b7763e930ddaec4581b418ed}{Mehri}{M\bibinitperiod}{Shikib}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9b6e3262c0c02ed2086268fa61a3791e}
+      \strng{fullhash}{9b6e3262c0c02ed2086268fa61a3791e}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Comprehensive Assessment of Dialog Evaluation Metrics}
+    \endentry
+    \entry{insights-035}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=7724a8b1218eb0ac64762b1d27a086da}{Zhou}{Z\bibinitperiod}{Yangqiaoyu}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=f28958af092cc402e768f5989866a3e7}{Tan}{T\bibinitperiod}{Chenhao}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{422476bb0474457e92cfc3af5f9158e1}
+      \strng{fullhash}{422476bb0474457e92cfc3af5f9158e1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Investigating the Effect of Natural Language Explanations on Out-of-Distribution Generalization in Few-shot NLI}
+    \endentry
+    \entry{insights-019}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=027b941cdce4130ade82e3b37b72d401}{Zhu}{Z\bibinitperiod}{Qi}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=394f44bae036db7c6c4986a28199ae97}{Gu}{G\bibinitperiod}{Yuxian}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=3f4f80da14623c0e569940aec1c22e8a}{Luo}{L\bibinitperiod}{Lingxiao}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=5eb4c3e75d14d3af4ceb7f957e07f41c}{Li}{L\bibinitperiod}{Bing}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=9b38d4e1143e063584189aa0e7713d80}{LI}{L\bibinitperiod}{Cheng}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=0ffbf7da53582dbc0a920a400eddc057}{Peng}{P\bibinitperiod}{Wei}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=552270ec2b3ea15f396fdca7e87932e8}{Huang}{H\bibinitperiod}{Minlie}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=908091724636e903ea8dbbd61b01ec43}{Zhu}{Z\bibinitperiod}{Xiaoyan}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{48dd767987a749e9708b8e61cc61f87c}
+      \strng{fullhash}{48dd767987a749e9708b8e61cc61f87c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{When does Further Pre-training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-training}
+    \endentry
+  \endsortlist
+  \missing{tutorial-final-05}
+  \missing{tutorial-final-04}
+  \missing{tutorial-final-02}
+  \missing{tutorial-final-01}
+  \missing{tutorial-final-03}
+  \missing{tutorial-final-06}
+\endrefsection
+\endinput
+

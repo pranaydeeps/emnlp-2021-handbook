@@ -53,12 +53,12 @@
       <file>blx-dm.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
-      <file>standard.bbx</file>
       <file>numeric.bbx</file>
+      <file>standard.bbx</file>
       <file>numeric.cbx</file>
       <file>biblatex.cfg</file>
-      <file>english.lbx</file>
       <file>american.lbx</file>
+      <file>english.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="1">
@@ -80,26 +80,13 @@
       <file>handbook.bcf</file>
     </requires>
     <requires type="editable">
-      <file>auto/tacl/papers.bib</file>
-      <file>auto/argmining/papers.bib</file>
-      <file>auto/bea/papers.bib</file>
-      <file>auto/clfl/papers.bib</file>
-      <file>auto/clpsych/papers.bib</file>
-      <file>auto/cmcl/papers.bib</file>
-      <file>auto/demos/papers.bib</file>
-      <file>auto/event/papers.bib</file>
-      <file>auto/exprom/papers.bib</file>
-      <file>auto/law/papers.bib</file>
-      <file>auto/metaphor/papers.bib</file>
-      <file>auto/mwe/papers.bib</file>
-      <file>auto/papers/papers.bib</file>
-      <file>auto/semeval/papers.bib</file>
-      <file>auto/socialnlp/papers.bib</file>
-      <file>auto/srw/papers.bib</file>
-      <file>auto/ssst-9/papers.bib</file>
-      <file>auto/starsem/papers.bib</file>
-      <file>auto/tutorial-final/papers.bib</file>
-      <file>auto/vsm-nlp/papers.bib</file>
+      <file>auto/ci+nlp/papers.bib</file>
+      <file>auto/eancs/papers.bib</file>
+      <file>auto/econlp/papers.bib</file>
+      <file>auto/fever/papers.bib</file>
+      <file>auto/insights/papers.bib</file>
+      <file>auto/newsum/papers.bib</file>
+      <file>auto/w-nut/papers.bib</file>
       <file>content/workshops/papers.bib</file>
     </requires>
   </external>
