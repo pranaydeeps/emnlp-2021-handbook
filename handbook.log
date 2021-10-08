@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.30)  8 OCT 2021 17:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.30)  8 OCT 2021 18:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1451,7 +1451,7 @@ Package biblatex Info: Reference section=0 on input line 75.
 Package biblatex Info: Reference segment=0 on input line 75.
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 75.
-<content/fmatter/cover.pdf, id=99, 597.23125pt x 844.15375pt>
+<content/fmatter/cover.pdf, id=103, 597.23125pt x 844.15375pt>
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 <use content/fmatter/cover.pdf>
 Package pdftex.def Info: content/fmatter/cover.pdf  used on input line 82.
@@ -1460,7 +1460,7 @@ File: content/fmatter/cover.pdf Graphic file (type pdf)
 <use content/fmatter/cover.pdf>
 Package pdftex.def Info: content/fmatter/cover.pdf  used on input line 82.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
-<content/fmatter/cover.pdf, id=102, page=1, 597.23125pt x 844.15375pt>
+<content/fmatter/cover.pdf, id=106, page=1, 597.23125pt x 844.15375pt>
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 <use content/fmatter/cover.pdf, page 1>
 Package pdftex.def Info: content/fmatter/cover.pdf , page1 used on input line 8
@@ -1509,12 +1509,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
-<content/hotel-map-1.pdf, id=129, 527.00435pt x 470.7986pt>
+<content/hotel-map-1.pdf, id=133, 527.00435pt x 470.7986pt>
 File: content/hotel-map-1.pdf Graphic file (type pdf)
 <use content/hotel-map-1.pdf>
 Package pdftex.def Info: content/hotel-map-1.pdf  used on input line 6.
 (pdftex.def)             Requested size: 274.6262pt x 245.33391pt.
-<content/hotel-map-2.pdf, id=130, 587.8168pt x 572.39738pt>
+<content/hotel-map-2.pdf, id=134, 587.8168pt x 572.39738pt>
 File: content/hotel-map-2.pdf Graphic file (type pdf)
 <use content/hotel-map-2.pdf>
 Package pdftex.def Info: content/hotel-map-2.pdf  used on input line 9.
@@ -1549,19 +1549,19 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ] [2
 
 ] (./content/ads/ads.tex
-<content/ads/gold/goldman_sachs.pdf, id=198, 325.215pt x 289.08pt>
+<content/ads/gold/goldman_sachs.pdf, id=204, 325.215pt x 289.08pt>
 File: content/ads/gold/goldman_sachs.pdf Graphic file (type pdf)
 <use content/ads/gold/goldman_sachs.pdf>
 Package pdftex.def Info: content/ads/gold/goldman_sachs.pdf  used on input line
  6.
 (pdftex.def)             Requested size: 289.07999pt x 256.98044pt.
-<content/ads/bronze/yahoo_labs.pdf, id=199, 361.35pt x 144.54pt>
+<content/ads/bronze/yahoo_labs.pdf, id=205, 361.35pt x 144.54pt>
 File: content/ads/bronze/yahoo_labs.pdf Graphic file (type pdf)
 <use content/ads/bronze/yahoo_labs.pdf>
 Package pdftex.def Info: content/ads/bronze/yahoo_labs.pdf  used on input line 
 8.
 (pdftex.def)             Requested size: 289.07999pt x 115.63214pt.
-<content/ads/silver/sdl_research.pdf, id=200, 614.295pt x 233.9678pt>
+<content/ads/silver/sdl_research.pdf, id=206, 614.295pt x 233.9678pt>
 File: content/ads/silver/sdl_research.pdf Graphic file (type pdf)
 <use content/ads/silver/sdl_research.pdf>
 Package pdftex.def Info: content/ads/silver/sdl_research.pdf  used on input lin
@@ -1576,7 +1576,7 @@ l.14 \clearpage
 
  <./content/ads/gold/goldman_sachs.pdf> <./content/ads/bronze/yahoo_labs.pdf> <
 ./content/ads/silver/sdl_research.pdf>]
-<content/ads/platinum/Bloomberg.pdf, id=451, 542.025pt x 722.7pt>
+<content/ads/platinum/Bloomberg.pdf, id=457, 542.025pt x 722.7pt>
 File: content/ads/platinum/Bloomberg.pdf Graphic file (type pdf)
 <use content/ads/platinum/Bloomberg.pdf>
 Package pdftex.def Info: content/ads/platinum/Bloomberg.pdf  used on input line
@@ -1814,102 +1814,72 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
 
 [19] (./content/tutorials/tutorials-001.tex
 
-LaTeX Warning: Citation 'Crowdsourcing Beyond Annotation: Case Studies in Bench
-mark Data Collection' on page 20 undefined on input line 25.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 26.
 
 
-Overfull \hbox (105.39658pt too wide) in paragraph at lines 25--25
- [] 
- []
+LaTeX Warning: Citation 'Alane Suhr' on page 20 undefined on input line 26.
 
 
-LaTeX Warning: Citation 'Alane Suhr' on page 20 undefined on input line 25.
+LaTeX Warning: Citation 'Clara Vania' on page 20 undefined on input line 26.
 
 
-LaTeX Warning: Citation 'Clara Vania' on page 20 undefined on input line 25.
+LaTeX Warning: Citation 'Nikita Nangia' on page 20 undefined on input line 26.
 
 
-LaTeX Warning: Citation 'Nikita Nangia' on page 20 undefined on input line 25.
+LaTeX Warning: Citation 'Maarten Sap' on page 20 undefined on input line 26.
 
 
-LaTeX Warning: Citation 'Maarten Sap' on page 20 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Mark Yatskar' on page 20 undefined on input line 25.
+LaTeX Warning: Citation 'Mark Yatskar' on page 20 undefined on input line 26.
 
 
 LaTeX Warning: Citation 'Samuel R. Bowman' on page 20 undefined on input line 2
-5.
+6.
 
 
-LaTeX Warning: Citation 'Yoav Artzi' on page 20 undefined on input line 25.
+LaTeX Warning: Citation 'Yoav Artzi' on page 20 undefined on input line 26.
 
 [20
 
 ]) [21] (./content/tutorials/tutorials-002.tex
-./content/tutorials/tutorials-002.tex:13: Argument of \tutorial has an extra }.
-<inserted text> 
-                \par 
-l.13 ...Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen}}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
 
-Runaway argument?
-./content/tutorials/tutorials-002.tex:13: Paragraph ended before \tutorial was 
-complete.
-<to be read again> 
-                   \par 
-l.13 ...Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen}}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+LaTeX Warning: Citation 'Hsin-Hsi Chen' on page 22 undefined on input line 14.
 
-./content/tutorials/tutorials-002.tex:13: Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.13 ...Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen}}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+
+LaTeX Warning: Citation 'Hen-Hsen Huang' on page 22 undefined on input line 14.
+
+
+
+LaTeX Warning: Citation 'Chung-Chi Chen' on page 22 undefined on input line 14.
+
 
 ) [22
 
-] (./content/tutorials/tutorials-003.tex
+] [23] (./content/tutorials/tutorials-003.tex
 
-LaTeX Warning: Citation 'Knowledge-Enriched Natural Language Generation' on pag
-e 23 undefined on input line 21.
-
-
-LaTeX Warning: Citation 'Wenhao Yu' on page 23 undefined on input line 21.
+LaTeX Warning: Citation 'Wenhao Yu' on page 24 undefined on input line 21.
 
 
-LaTeX Warning: Citation 'Meng Jiang' on page 23 undefined on input line 21.
+LaTeX Warning: Citation 'Meng Jiang' on page 24 undefined on input line 21.
 
 
-LaTeX Warning: Citation 'Zhiting Hu' on page 23 undefined on input line 21.
+LaTeX Warning: Citation 'Zhiting Hu' on page 24 undefined on input line 21.
 
 
-LaTeX Warning: Citation 'Qingyun Wang' on page 23 undefined on input line 21.
+LaTeX Warning: Citation 'Qingyun Wang' on page 24 undefined on input line 21.
 
 
-LaTeX Warning: Citation 'Heng Ji' on page 23 undefined on input line 21.
+LaTeX Warning: Citation 'Heng Ji' on page 24 undefined on input line 21.
 
 
-LaTeX Warning: Citation 'Nazneen Rajani' on page 23 undefined on input line 21.
+LaTeX Warning: Citation 'Nazneen Rajani' on page 24 undefined on input line 21.
 
 
-)) (./content/tutorials/tutorials-overview-2.tex [23
+)) (./content/tutorials/tutorials-overview-2.tex [24
 
-] [24]
+] [25] [26
+
+]
 Chapter 3.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
@@ -1931,64 +1901,45 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[25
+[27] (./content/tutorials/tutorials-004.tex
 
-] (./content/tutorials/tutorials-004.tex
-
-LaTeX Warning: Citation 'Multi-Domain Multilingual Question Answering' on page 
-26 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'Sebastian Ruder' on page 26 undefined on input line 12
+LaTeX Warning: Citation 'Sebastian Ruder' on page 28 undefined on input line 12
 .
 
 
-LaTeX Warning: Citation 'Avirup Sil' on page 26 undefined on input line 12.
+LaTeX Warning: Citation 'Avirup Sil' on page 28 undefined on input line 12.
 
-) [26
+) [28
 
 ] (./content/tutorials/tutorials-005.tex
 
-LaTeX Warning: Citation 'Robustness and Adversarial Examples in Natural Languag
-e Processing' on page 27 undefined on input line 16.
+LaTeX Warning: Citation 'Kai-Wei Chang' on page 29 undefined on input line 16.
 
 
-Overfull \hbox (56.6289pt too wide) in paragraph at lines 16--16
- [] 
- []
+LaTeX Warning: Citation 'He He' on page 29 undefined on input line 16.
 
 
-LaTeX Warning: Citation 'Kai-Wei Chang' on page 27 undefined on input line 16.
+LaTeX Warning: Citation 'Robin Jia' on page 29 undefined on input line 16.
 
 
-LaTeX Warning: Citation 'He He' on page 27 undefined on input line 16.
+LaTeX Warning: Citation 'Sameer Singh' on page 29 undefined on input line 16.
+
+) [29
+
+] [30] (./content/tutorials/tutorials-006.tex
+
+LaTeX Warning: Citation 'Hai Zhao' on page 31 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'Robin Jia' on page 27 undefined on input line 16.
+LaTeX Warning: Citation 'Rui Wang' on page 31 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'Sameer Singh' on page 27 undefined on input line 16.
+LaTeX Warning: Citation 'Kehai Chen' on page 31 undefined on input line 15.
 
-) [27
-
-] [28] (./content/tutorials/tutorials-006.tex
-
-LaTeX Warning: Citation 'Syntax in End-to-End Natural Language Processing' on p
-age 29 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Hai Zhao' on page 29 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Rui Wang' on page 29 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Kehai Chen' on page 29 undefined on input line 15.
-
-)) (./content/tutorials/welcome_reception.tex [29
+)) (./content/tutorials/welcome_reception.tex [31
 
 ])
-(./content/workshops/workshops.tex [30
+(./content/workshops/workshops.tex [32
 
 ]
 Chapter 4.
@@ -1999,34 +1950,34 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 
 (./content/workshops/overview.tex
 
-LaTeX Warning: Reference `WShopA' on page 31 undefined on input line 15.
+LaTeX Warning: Reference `WShopA' on page 33 undefined on input line 15.
 
 
-LaTeX Warning: Reference `WShopB' on page 31 undefined on input line 16.
+LaTeX Warning: Reference `WShopB' on page 33 undefined on input line 16.
 
 
-LaTeX Warning: Reference `WShopC' on page 31 undefined on input line 17.
+LaTeX Warning: Reference `WShopC' on page 33 undefined on input line 17.
 
 
-LaTeX Warning: Reference `WShopD' on page 31 undefined on input line 18.
+LaTeX Warning: Reference `WShopD' on page 33 undefined on input line 18.
 
 
-LaTeX Warning: Reference `WShopE' on page 31 undefined on input line 23.
+LaTeX Warning: Reference `WShopE' on page 33 undefined on input line 23.
 
 
-LaTeX Warning: Reference `WShopF' on page 31 undefined on input line 24.
+LaTeX Warning: Reference `WShopF' on page 33 undefined on input line 24.
 
 
-LaTeX Warning: Reference `WShopG' on page 31 undefined on input line 25.
+LaTeX Warning: Reference `WShopG' on page 33 undefined on input line 25.
 
 
-LaTeX Warning: Reference `WShopJ' on page 31 undefined on input line 28.
+LaTeX Warning: Reference `WShopJ' on page 33 undefined on input line 28.
 
 
-LaTeX Warning: Reference `WShopK' on page 31 undefined on input line 29.
+LaTeX Warning: Reference `WShopK' on page 33 undefined on input line 29.
 
 
-LaTeX Warning: Reference `WShopL' on page 31 undefined on input line 30.
+LaTeX Warning: Reference `WShopL' on page 33 undefined on input line 30.
 
 
 Overfull \hbox (0.64151pt too wide) in paragraph at lines 37--37
@@ -2054,38 +2005,38 @@ in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-LaTeX Warning: Reference `WShopP' on page 31 undefined on input line 37.
+LaTeX Warning: Reference `WShopP' on page 33 undefined on input line 37.
 
 
-LaTeX Warning: Reference `WShopQ' on page 31 undefined on input line 38.
+LaTeX Warning: Reference `WShopQ' on page 33 undefined on input line 38.
 
 
-LaTeX Warning: Reference `WShopR' on page 31 undefined on input line 39.
+LaTeX Warning: Reference `WShopR' on page 33 undefined on input line 39.
 
 
-LaTeX Warning: Reference `WShopS' on page 31 undefined on input line 40.
+LaTeX Warning: Reference `WShopS' on page 33 undefined on input line 40.
 
 
-LaTeX Warning: Reference `WShopT' on page 31 undefined on input line 41.
+LaTeX Warning: Reference `WShopT' on page 33 undefined on input line 41.
 
 
-LaTeX Warning: Reference `WShopV' on page 31 undefined on input line 43.
+LaTeX Warning: Reference `WShopV' on page 33 undefined on input line 43.
 
 
-LaTeX Warning: Reference `WShopW' on page 31 undefined on input line 44.
+LaTeX Warning: Reference `WShopW' on page 33 undefined on input line 44.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31
+ [33
 
 ]
 Overfull \vbox (100.59099pt too high) has occurred while \output is active []
 
 
-[32])
+[34])
 
-LaTeX Warning: Citation 'workshop6' on page 33 undefined on input line 88.
+LaTeX Warning: Citation 'workshop6' on page 35 undefined on input line 88.
 
 (./auto/ci+nlp/schedule.tex
 ./auto/ci+nlp/schedule.tex:3: You can't use `macro parameter character #' in ho
@@ -2098,265 +2049,265 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-LaTeX Warning: Citation 'ci+nlp-003' on page 33 undefined on input line 13.
+LaTeX Warning: Citation 'ci+nlp-003' on page 35 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'ci+nlp-003' on page 33 undefined on input line 13.
+LaTeX Warning: Citation 'ci+nlp-003' on page 35 undefined on input line 13.
 
 
-LaTeX Warning: Citation 'ci+nlp-004' on page 33 undefined on input line 14.
+LaTeX Warning: Citation 'ci+nlp-004' on page 35 undefined on input line 14.
 
 
-LaTeX Warning: Citation 'ci+nlp-004' on page 33 undefined on input line 14.
+LaTeX Warning: Citation 'ci+nlp-004' on page 35 undefined on input line 14.
 
 
-LaTeX Warning: Citation 'ci+nlp-007' on page 33 undefined on input line 15.
+LaTeX Warning: Citation 'ci+nlp-007' on page 35 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'ci+nlp-007' on page 33 undefined on input line 15.
+LaTeX Warning: Citation 'ci+nlp-007' on page 35 undefined on input line 15.
 
 
-LaTeX Warning: Citation 'ci+nlp-008' on page 33 undefined on input line 16.
+LaTeX Warning: Citation 'ci+nlp-008' on page 35 undefined on input line 16.
 
 
-LaTeX Warning: Citation 'ci+nlp-008' on page 33 undefined on input line 16.
+LaTeX Warning: Citation 'ci+nlp-008' on page 35 undefined on input line 16.
 
 
-LaTeX Warning: Citation 'ci+nlp-011' on page 33 undefined on input line 23.
+LaTeX Warning: Citation 'ci+nlp-011' on page 35 undefined on input line 23.
 
 
-LaTeX Warning: Citation 'ci+nlp-011' on page 33 undefined on input line 23.
+LaTeX Warning: Citation 'ci+nlp-011' on page 35 undefined on input line 23.
 
 
-LaTeX Warning: Citation 'ci+nlp-013' on page 33 undefined on input line 24.
+LaTeX Warning: Citation 'ci+nlp-013' on page 35 undefined on input line 24.
 
 
-LaTeX Warning: Citation 'ci+nlp-013' on page 33 undefined on input line 24.
+LaTeX Warning: Citation 'ci+nlp-013' on page 35 undefined on input line 24.
 
 
-LaTeX Warning: Citation 'ci+nlp-014' on page 33 undefined on input line 25.
+LaTeX Warning: Citation 'ci+nlp-014' on page 35 undefined on input line 25.
 
 
-LaTeX Warning: Citation 'ci+nlp-014' on page 33 undefined on input line 25.
+LaTeX Warning: Citation 'ci+nlp-014' on page 35 undefined on input line 25.
 
 
-LaTeX Warning: Citation 'ci+nlp-015' on page 33 undefined on input line 26.
+LaTeX Warning: Citation 'ci+nlp-015' on page 35 undefined on input line 26.
 
 
-LaTeX Warning: Citation 'ci+nlp-015' on page 33 undefined on input line 26.
-
-) [33
-
-
-]
-
-LaTeX Warning: Citation 'workshop10' on page 34 undefined on input line 96.
-
-(./auto/insights/schedule.tex
-
-LaTeX Warning: Citation 'insights-001' on page 34 undefined on input line 1.
-
-
-LaTeX Warning: Citation 'insights-001' on page 34 undefined on input line 1.
-
-
-LaTeX Warning: Citation 'insights-003' on page 34 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'insights-003' on page 34 undefined on input line 2.
-
-
-LaTeX Warning: Citation 'insights-004' on page 34 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'insights-004' on page 34 undefined on input line 3.
-
-
-LaTeX Warning: Citation 'insights-006' on page 34 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'insights-006' on page 34 undefined on input line 4.
-
-
-LaTeX Warning: Citation 'insights-011' on page 34 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'insights-011' on page 34 undefined on input line 5.
-
-
-LaTeX Warning: Citation 'insights-014' on page 34 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'insights-014' on page 34 undefined on input line 6.
-
-
-LaTeX Warning: Citation 'insights-016' on page 34 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'insights-016' on page 34 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'insights-017' on page 34 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'insights-017' on page 34 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'insights-019' on page 34 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'insights-019' on page 34 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'insights-022' on page 34 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'insights-022' on page 34 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'insights-024' on page 34 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'insights-024' on page 34 undefined on input line 11.
-
-
-LaTeX Warning: Citation 'insights-027' on page 34 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'insights-027' on page 34 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'insights-029' on page 34 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'insights-029' on page 34 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'insights-030' on page 34 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'insights-030' on page 34 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'insights-033' on page 34 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'insights-033' on page 34 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'insights-034' on page 34 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'insights-034' on page 34 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'insights-035' on page 34 undefined on input line 17.
-
-
-LaTeX Warning: Citation 'insights-035' on page 34 undefined on input line 17.
-
-
-LaTeX Warning: Citation 'insights-036' on page 34 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'insights-036' on page 34 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'insights-038' on page 34 undefined on input line 19.
-
-
-LaTeX Warning: Citation 'insights-038' on page 34 undefined on input line 19.
-
-
-LaTeX Warning: Citation 'insights-040' on page 34 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'insights-040' on page 34 undefined on input line 20.
-
-) [34
-
-]
-
-LaTeX Warning: Citation 'workshop20' on page 35 undefined on input line 128.
-
-(./auto/fever/schedule.tex
-
-LaTeX Warning: Citation 'fever-002' on page 35 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'fever-002' on page 35 undefined on input line 12.
-
-
-LaTeX Warning: Citation 'fever-003' on page 35 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'fever-003' on page 35 undefined on input line 13.
-
-
-LaTeX Warning: Citation 'fever-009' on page 35 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'fever-009' on page 35 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'fever-005' on page 35 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'fever-005' on page 35 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'fever-004' on page 35 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'fever-004' on page 35 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'fever-006' on page 35 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'fever-006' on page 35 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'fever-007' on page 35 undefined on input line 33.
-
-
-LaTeX Warning: Citation 'fever-007' on page 35 undefined on input line 33.
-
-
-LaTeX Warning: Citation 'fever-014' on page 35 undefined on input line 34.
-
-
-LaTeX Warning: Citation 'fever-014' on page 35 undefined on input line 34.
-
-
-LaTeX Warning: Citation 'fever-010' on page 35 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'fever-010' on page 35 undefined on input line 35.
-
-
-LaTeX Warning: Citation 'fever-011' on page 35 undefined on input line 36.
-
-
-LaTeX Warning: Citation 'fever-011' on page 35 undefined on input line 36.
-
-
-LaTeX Warning: Citation 'fever-013' on page 35 undefined on input line 37.
-
-
-LaTeX Warning: Citation 'fever-013' on page 35 undefined on input line 37.
-
-
-LaTeX Warning: Citation 'fever-015' on page 35 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'fever-015' on page 35 undefined on input line 38.
+LaTeX Warning: Citation 'ci+nlp-015' on page 35 undefined on input line 26.
 
 ) [35
 
+
 ]
 
-LaTeX Warning: Citation 'workshop21' on page 36 undefined on input line 136.
+LaTeX Warning: Citation 'workshop10' on page 36 undefined on input line 96.
+
+(./auto/insights/schedule.tex
+
+LaTeX Warning: Citation 'insights-001' on page 36 undefined on input line 1.
+
+
+LaTeX Warning: Citation 'insights-001' on page 36 undefined on input line 1.
+
+
+LaTeX Warning: Citation 'insights-003' on page 36 undefined on input line 2.
+
+
+LaTeX Warning: Citation 'insights-003' on page 36 undefined on input line 2.
+
+
+LaTeX Warning: Citation 'insights-004' on page 36 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'insights-004' on page 36 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'insights-006' on page 36 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'insights-006' on page 36 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'insights-011' on page 36 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'insights-011' on page 36 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'insights-014' on page 36 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'insights-014' on page 36 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'insights-016' on page 36 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'insights-016' on page 36 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'insights-017' on page 36 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'insights-017' on page 36 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'insights-019' on page 36 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'insights-019' on page 36 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'insights-022' on page 36 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'insights-022' on page 36 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'insights-024' on page 36 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'insights-024' on page 36 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'insights-027' on page 36 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'insights-027' on page 36 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'insights-029' on page 36 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'insights-029' on page 36 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'insights-030' on page 36 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'insights-030' on page 36 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'insights-033' on page 36 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'insights-033' on page 36 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'insights-034' on page 36 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'insights-034' on page 36 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'insights-035' on page 36 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'insights-035' on page 36 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'insights-036' on page 36 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'insights-036' on page 36 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'insights-038' on page 36 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'insights-038' on page 36 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'insights-040' on page 36 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'insights-040' on page 36 undefined on input line 20.
+
+) [36
+
+]
+
+LaTeX Warning: Citation 'workshop20' on page 37 undefined on input line 128.
+
+(./auto/fever/schedule.tex
+
+LaTeX Warning: Citation 'fever-002' on page 37 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'fever-002' on page 37 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'fever-003' on page 37 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'fever-003' on page 37 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'fever-009' on page 37 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'fever-009' on page 37 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'fever-005' on page 37 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'fever-005' on page 37 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'fever-004' on page 37 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'fever-004' on page 37 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'fever-006' on page 37 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'fever-006' on page 37 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'fever-007' on page 37 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'fever-007' on page 37 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'fever-014' on page 37 undefined on input line 34.
+
+
+LaTeX Warning: Citation 'fever-014' on page 37 undefined on input line 34.
+
+
+LaTeX Warning: Citation 'fever-010' on page 37 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'fever-010' on page 37 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'fever-011' on page 37 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'fever-011' on page 37 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'fever-013' on page 37 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'fever-013' on page 37 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'fever-015' on page 37 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'fever-015' on page 37 undefined on input line 38.
+
+) [37
+
+]
+
+LaTeX Warning: Citation 'workshop21' on page 38 undefined on input line 136.
 
 (./auto/newsum/schedule.tex
 ./auto/newsum/schedule.tex:3: You can't use `macro parameter character #' in ho
@@ -2369,28 +2320,28 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-LaTeX Warning: Citation 'newsum-012' on page 36 undefined on input line 8.
+LaTeX Warning: Citation 'newsum-012' on page 38 undefined on input line 8.
 
 
-LaTeX Warning: Citation 'newsum-012' on page 36 undefined on input line 8.
+LaTeX Warning: Citation 'newsum-012' on page 38 undefined on input line 8.
 
 
-LaTeX Warning: Citation 'newsum-017' on page 36 undefined on input line 9.
+LaTeX Warning: Citation 'newsum-017' on page 38 undefined on input line 9.
 
 
-LaTeX Warning: Citation 'newsum-017' on page 36 undefined on input line 9.
+LaTeX Warning: Citation 'newsum-017' on page 38 undefined on input line 9.
 
 
-LaTeX Warning: Citation 'newsum-004' on page 36 undefined on input line 10.
+LaTeX Warning: Citation 'newsum-004' on page 38 undefined on input line 10.
 
 
-LaTeX Warning: Citation 'newsum-004' on page 36 undefined on input line 10.
+LaTeX Warning: Citation 'newsum-004' on page 38 undefined on input line 10.
 
 
-LaTeX Warning: Citation 'newsum-029' on page 36 undefined on input line 11.
+LaTeX Warning: Citation 'newsum-029' on page 38 undefined on input line 11.
 
 
-LaTeX Warning: Citation 'newsum-029' on page 36 undefined on input line 11.
+LaTeX Warning: Citation 'newsum-029' on page 38 undefined on input line 11.
 
 ./auto/newsum/schedule.tex:17: You can't use `macro parameter character #' in h
 orizontal mode.
@@ -2402,10 +2353,10 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-LaTeX Warning: Citation 'newsum-006' on page 36 undefined on input line 20.
+LaTeX Warning: Citation 'newsum-006' on page 38 undefined on input line 20.
 
 
-LaTeX Warning: Citation 'newsum-006' on page 36 undefined on input line 20.
+LaTeX Warning: Citation 'newsum-006' on page 38 undefined on input line 20.
 
 ./auto/newsum/schedule.tex:26: You can't use `macro parameter character #' in h
 orizontal mode.
@@ -2417,34 +2368,34 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-LaTeX Warning: Citation 'newsum-010' on page 36 undefined on input line 29.
+LaTeX Warning: Citation 'newsum-010' on page 38 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'newsum-010' on page 36 undefined on input line 29.
+LaTeX Warning: Citation 'newsum-010' on page 38 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'newsum-021' on page 36 undefined on input line 30.
+LaTeX Warning: Citation 'newsum-021' on page 38 undefined on input line 30.
 
 
-LaTeX Warning: Citation 'newsum-021' on page 36 undefined on input line 30.
+LaTeX Warning: Citation 'newsum-021' on page 38 undefined on input line 30.
 
 
-LaTeX Warning: Citation 'newsum-005' on page 36 undefined on input line 31.
+LaTeX Warning: Citation 'newsum-005' on page 38 undefined on input line 31.
 
 
-LaTeX Warning: Citation 'newsum-005' on page 36 undefined on input line 31.
+LaTeX Warning: Citation 'newsum-005' on page 38 undefined on input line 31.
 
 
-LaTeX Warning: Citation 'newsum-008' on page 36 undefined on input line 32.
+LaTeX Warning: Citation 'newsum-008' on page 38 undefined on input line 32.
 
 
-LaTeX Warning: Citation 'newsum-008' on page 36 undefined on input line 32.
+LaTeX Warning: Citation 'newsum-008' on page 38 undefined on input line 32.
 
 
-LaTeX Warning: Citation 'newsum-024' on page 36 undefined on input line 33.
+LaTeX Warning: Citation 'newsum-024' on page 38 undefined on input line 33.
 
 
-LaTeX Warning: Citation 'newsum-024' on page 36 undefined on input line 33.
+LaTeX Warning: Citation 'newsum-024' on page 38 undefined on input line 33.
 
 ./auto/newsum/schedule.tex:39: You can't use `macro parameter character #' in h
 orizontal mode.
@@ -2456,28 +2407,28 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-LaTeX Warning: Citation 'newsum-023' on page 36 undefined on input line 40.
+LaTeX Warning: Citation 'newsum-023' on page 38 undefined on input line 40.
 
 
-LaTeX Warning: Citation 'newsum-023' on page 36 undefined on input line 40.
+LaTeX Warning: Citation 'newsum-023' on page 38 undefined on input line 40.
 
 
-LaTeX Warning: Citation 'newsum-026' on page 36 undefined on input line 41.
+LaTeX Warning: Citation 'newsum-026' on page 38 undefined on input line 41.
 
 
-LaTeX Warning: Citation 'newsum-026' on page 36 undefined on input line 41.
+LaTeX Warning: Citation 'newsum-026' on page 38 undefined on input line 41.
 
 
-LaTeX Warning: Citation 'newsum-031' on page 36 undefined on input line 42.
+LaTeX Warning: Citation 'newsum-031' on page 38 undefined on input line 42.
 
 
-LaTeX Warning: Citation 'newsum-031' on page 36 undefined on input line 42.
+LaTeX Warning: Citation 'newsum-031' on page 38 undefined on input line 42.
 
 
-LaTeX Warning: Citation 'newsum-015' on page 36 undefined on input line 43.
+LaTeX Warning: Citation 'newsum-015' on page 38 undefined on input line 43.
 
 
-LaTeX Warning: Citation 'newsum-015' on page 36 undefined on input line 43.
+LaTeX Warning: Citation 'newsum-015' on page 38 undefined on input line 43.
 
 ./auto/newsum/schedule.tex:46: You can't use `macro parameter character #' in h
 orizontal mode.
@@ -2488,14 +2439,14 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[36
+[38
 
 ]
 
-LaTeX Warning: Citation 'newsum-035' on page 37 undefined on input line 47.
+LaTeX Warning: Citation 'newsum-035' on page 39 undefined on input line 47.
 
 
-LaTeX Warning: Citation 'newsum-035' on page 37 undefined on input line 47.
+LaTeX Warning: Citation 'newsum-035' on page 39 undefined on input line 47.
 
 ./auto/newsum/schedule.tex:53: You can't use `macro parameter character #' in h
 orizontal mode.
@@ -2507,20 +2458,20 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-LaTeX Warning: Citation 'newsum-027' on page 37 undefined on input line 54.
+LaTeX Warning: Citation 'newsum-027' on page 39 undefined on input line 54.
 
 
-LaTeX Warning: Citation 'newsum-027' on page 37 undefined on input line 54.
+LaTeX Warning: Citation 'newsum-027' on page 39 undefined on input line 54.
 
 
-LaTeX Warning: Citation 'newsum-002' on page 37 undefined on input line 55.
+LaTeX Warning: Citation 'newsum-002' on page 39 undefined on input line 55.
 
 
-LaTeX Warning: Citation 'newsum-002' on page 37 undefined on input line 55.
+LaTeX Warning: Citation 'newsum-002' on page 39 undefined on input line 55.
 
-) [37]
+) [39]
 
-LaTeX Warning: Citation 'workshop1' on page 38 undefined on input line 150.
+LaTeX Warning: Citation 'workshop1' on page 40 undefined on input line 150.
 
 (./auto/econlp/schedule.tex
 ./auto/econlp/schedule.tex:4: Misplaced alignment tab character &.
@@ -2534,109 +2485,109 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-LaTeX Warning: Citation 'econlp-005' on page 38 undefined on input line 8.
+LaTeX Warning: Citation 'econlp-005' on page 40 undefined on input line 8.
 
 
-LaTeX Warning: Citation 'econlp-005' on page 38 undefined on input line 8.
+LaTeX Warning: Citation 'econlp-005' on page 40 undefined on input line 8.
 
 
-LaTeX Warning: Citation 'econlp-003' on page 38 undefined on input line 9.
+LaTeX Warning: Citation 'econlp-003' on page 40 undefined on input line 9.
 
 
-LaTeX Warning: Citation 'econlp-003' on page 38 undefined on input line 9.
+LaTeX Warning: Citation 'econlp-003' on page 40 undefined on input line 9.
 
 
-LaTeX Warning: Citation 'econlp-011' on page 38 undefined on input line 10.
+LaTeX Warning: Citation 'econlp-011' on page 40 undefined on input line 10.
 
 
-LaTeX Warning: Citation 'econlp-011' on page 38 undefined on input line 10.
+LaTeX Warning: Citation 'econlp-011' on page 40 undefined on input line 10.
 
 
-LaTeX Warning: Citation 'econlp-004' on page 38 undefined on input line 17.
+LaTeX Warning: Citation 'econlp-004' on page 40 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'econlp-004' on page 38 undefined on input line 17.
+LaTeX Warning: Citation 'econlp-004' on page 40 undefined on input line 17.
 
 
-LaTeX Warning: Citation 'econlp-013' on page 38 undefined on input line 18.
+LaTeX Warning: Citation 'econlp-013' on page 40 undefined on input line 18.
 
 
-LaTeX Warning: Citation 'econlp-013' on page 38 undefined on input line 18.
+LaTeX Warning: Citation 'econlp-013' on page 40 undefined on input line 18.
 
 
-LaTeX Warning: Citation 'econlp-018' on page 38 undefined on input line 19.
+LaTeX Warning: Citation 'econlp-018' on page 40 undefined on input line 19.
 
 
-LaTeX Warning: Citation 'econlp-018' on page 38 undefined on input line 19.
+LaTeX Warning: Citation 'econlp-018' on page 40 undefined on input line 19.
 
 
-LaTeX Warning: Citation 'econlp-001' on page 38 undefined on input line 28.
+LaTeX Warning: Citation 'econlp-001' on page 40 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'econlp-001' on page 38 undefined on input line 28.
+LaTeX Warning: Citation 'econlp-001' on page 40 undefined on input line 28.
 
 
-LaTeX Warning: Citation 'econlp-008' on page 38 undefined on input line 29.
+LaTeX Warning: Citation 'econlp-008' on page 40 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'econlp-008' on page 38 undefined on input line 29.
+LaTeX Warning: Citation 'econlp-008' on page 40 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'econlp-009' on page 38 undefined on input line 30.
+LaTeX Warning: Citation 'econlp-009' on page 40 undefined on input line 30.
 
 
-LaTeX Warning: Citation 'econlp-009' on page 38 undefined on input line 30.
+LaTeX Warning: Citation 'econlp-009' on page 40 undefined on input line 30.
 
 
-LaTeX Warning: Citation 'econlp-012' on page 38 undefined on input line 37.
+LaTeX Warning: Citation 'econlp-012' on page 40 undefined on input line 37.
 
 
-LaTeX Warning: Citation 'econlp-012' on page 38 undefined on input line 37.
+LaTeX Warning: Citation 'econlp-012' on page 40 undefined on input line 37.
 
 
-LaTeX Warning: Citation 'econlp-016' on page 38 undefined on input line 38.
+LaTeX Warning: Citation 'econlp-016' on page 40 undefined on input line 38.
 
 
-LaTeX Warning: Citation 'econlp-016' on page 38 undefined on input line 38.
+LaTeX Warning: Citation 'econlp-016' on page 40 undefined on input line 38.
 
 
-LaTeX Warning: Citation 'econlp-017' on page 38 undefined on input line 39.
+LaTeX Warning: Citation 'econlp-017' on page 40 undefined on input line 39.
 
 
-LaTeX Warning: Citation 'econlp-017' on page 38 undefined on input line 39.
+LaTeX Warning: Citation 'econlp-017' on page 40 undefined on input line 39.
 
-) [38
+) [40
 
-] [39]
+] [41]
 
-LaTeX Warning: Citation 'workshop17' on page 40 undefined on input line 198.
+LaTeX Warning: Citation 'workshop17' on page 42 undefined on input line 198.
 
 (./auto/eancs/schedule.tex
 
-LaTeX Warning: Citation 'eancs-004' on page 40 undefined on input line 1.
+LaTeX Warning: Citation 'eancs-004' on page 42 undefined on input line 1.
 
 
-LaTeX Warning: Citation 'eancs-004' on page 40 undefined on input line 1.
+LaTeX Warning: Citation 'eancs-004' on page 42 undefined on input line 1.
 
 
-LaTeX Warning: Citation 'eancs-005' on page 40 undefined on input line 2.
+LaTeX Warning: Citation 'eancs-005' on page 42 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'eancs-005' on page 40 undefined on input line 2.
+LaTeX Warning: Citation 'eancs-005' on page 42 undefined on input line 2.
 
 
-LaTeX Warning: Citation 'eancs-006' on page 40 undefined on input line 3.
+LaTeX Warning: Citation 'eancs-006' on page 42 undefined on input line 3.
 
 
-LaTeX Warning: Citation 'eancs-006' on page 40 undefined on input line 3.
+LaTeX Warning: Citation 'eancs-006' on page 42 undefined on input line 3.
 
 
-LaTeX Warning: Citation 'eancs-007' on page 40 undefined on input line 4.
+LaTeX Warning: Citation 'eancs-007' on page 42 undefined on input line 4.
 
 
-LaTeX Warning: Citation 'eancs-007' on page 40 undefined on input line 4.
+LaTeX Warning: Citation 'eancs-007' on page 42 undefined on input line 4.
 
-) [40
+) [42
 
 ]) (./content/anti-harassment-policy.tex
 Chapter 5.
@@ -2645,11 +2596,11 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-) [41
+) [43
 
 
 
-] [42
+] [44
 
 ]
 No file handbook.ind.
@@ -2659,26 +2610,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--207
  []
 
 (./content/sponsors/sponsors.tex
-<content/sponsors/diamond/apple.png, id=968, 150.5625pt x 150.5625pt>
+<content/sponsors/diamond/apple.png, id=983, 150.5625pt x 150.5625pt>
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 <use content/sponsors/diamond/apple.png>
 Package pdftex.def Info: content/sponsors/diamond/apple.png  used on input line
  6.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=970, 220.825pt x 132.495p
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=985, 220.825pt x 132.495p
 t>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
 <use content/sponsors/diamond/Bloomberg-logo-2019.png>
 Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png  used
  on input line 7.
 (pdftex.def)             Requested size: 72.26999pt x 43.36159pt.
-<content/sponsors/diamond/Facebook-AI2020.png, id=971, 2342.7525pt x 529.98pt>
+<content/sponsors/diamond/Facebook-AI2020.png, id=986, 2342.7525pt x 529.98pt>
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png  used on 
 input line 8.
 (pdftex.def)             Requested size: 36.135pt x 8.1677pt.
-<content/sponsors/diamond/google.png, id=972, 672.5125pt x 96.36pt>
+<content/sponsors/diamond/google.png, id=987, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
 <use content/sponsors/diamond/google.png>
 Package pdftex.def Info: content/sponsors/diamond/google.png  used on input lin
@@ -2699,13 +2650,13 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/amazon-logo.png, id=973, 1003.75pt x 526.96875pt>
+<content/sponsors/platinum/amazon-logo.png, id=988, 1003.75pt x 526.96875pt>
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 <use content/sponsors/platinum/amazon-logo.png>
 Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png  used on inp
 ut line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
-<content/sponsors/platinum/deepmind-logo.png, id=974, 1066.98625pt x 401.5pt>
+<content/sponsors/platinum/deepmind-logo.png, id=989, 1066.98625pt x 401.5pt>
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 <use content/sponsors/platinum/deepmind-logo.png>
 Package pdftex.def Info: content/sponsors/platinum/deepmind-logo.png  used on i
@@ -2738,13 +2689,13 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/g-research.png, id=975, 451.6875pt x 451.6875pt>
+<content/sponsors/platinum/g-research.png, id=990, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 <use content/sponsors/platinum/g-research.png>
 Package pdftex.def Info: content/sponsors/platinum/g-research.png  used on inpu
 t line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
-<content/sponsors/platinum/megagon-logo-2019.png, id=976, 240.9pt x 240.9pt>
+<content/sponsors/platinum/megagon-logo-2019.png, id=991, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 <use content/sponsors/platinum/megagon-logo-2019.png>
 Package pdftex.def Info: content/sponsors/platinum/megagon-logo-2019.png  used 
@@ -2755,13 +2706,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
  []
 
-<content/sponsors/gold/grammarly.png, id=977, 1028.84375pt x 240.9pt>
+<content/sponsors/gold/grammarly.png, id=992, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 <use content/sponsors/gold/grammarly.png>
 Package pdftex.def Info: content/sponsors/gold/grammarly.png  used on input lin
 e 23.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
-<content/sponsors/gold/MSFT.jpg, id=978, 582.175pt x 124.465pt>
+<content/sponsors/gold/MSFT.jpg, id=993, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 <use content/sponsors/gold/MSFT.jpg>
 Package pdftex.def Info: content/sponsors/gold/MSFT.jpg  used on input line 24.
@@ -2789,14 +2740,14 @@ l.29 ...9in]{content/sponsors/silver/duolingo.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=979, 2603.7275pt x 552.0625p
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=994, 2603.7275pt x 552.0625p
 t>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
 <use content/sponsors/silver/Naver_Labs_Europe.jpg>
 Package pdftex.def Info: content/sponsors/silver/Naver_Labs_Europe.jpg  used on
  input line 30.
 (pdftex.def)             Requested size: 72.26999pt x 15.32286pt.
-<content/sponsors/silver/Naver.jpg, id=980, 301.125pt x 301.125pt>
+<content/sponsors/silver/Naver.jpg, id=995, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 <use content/sponsors/silver/Naver.jpg>
 Package pdftex.def Info: content/sponsors/silver/Naver.jpg  used on input line 
@@ -2807,7 +2758,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
 
  []
 
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=981,
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=996,
  455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
@@ -2815,13 +2766,13 @@ phic file (type png)
 Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
 kup_Red_RGB.png  used on input line 36.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
-<content/sponsors/bronze/Babelscape_colori.png, id=982, 474.573pt x 94.1919pt>
+<content/sponsors/bronze/Babelscape_colori.png, id=997, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png  used on
  input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
-<content/sponsors/bronze/HLTCOE-Logo.png, id=983, 226.8475pt x 117.43875pt>
+<content/sponsors/bronze/HLTCOE-Logo.png, id=998, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 <use content/sponsors/bronze/HLTCOE-Logo.png>
 Package pdftex.def Info: content/sponsors/bronze/HLTCOE-Logo.png  used on input
@@ -2837,7 +2788,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=984, 173.03503pt x 190.99928pt>
+<content/sponsors/bronze/LegalForce_new.jpg, id=999, 173.03503pt x 190.99928pt>
 
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
 <use content/sponsors/bronze/LegalForce_new.jpg>
@@ -2852,14 +2803,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloombe
+ [45 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloombe
 rg-logo-2019.png> <./content/sponsors/diamond/Facebook-AI2020.png> <./content/s
 ponsors/diamond/google.png> <./content/sponsors/platinum/amazon-logo.png> <./co
 ntent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-resea
 rch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponsor
 s/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/si
 lver/Naver_Labs_Europe.jpg> <./content/sponsors/silver/Naver.jpg>]
-<content/sponsors/supporter/ServiceNow.png, id=998, 253.6677pt x 72.87225pt>
+<content/sponsors/supporter/ServiceNow.png, id=1012, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 <use content/sponsors/supporter/ServiceNow.png>
 Package pdftex.def Info: content/sponsors/supporter/ServiceNow.png  used on inp
@@ -2870,15 +2821,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--46
 
  []
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=999, 1003.75pt x 526.96
-875pt>
+<content/sponsors/diversityChampion/amazon-logo.png, id=1013, 1003.75pt x 526.9
+6875pt>
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
 <use content/sponsors/diversityChampion/amazon-logo.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png  us
 ed on input line 49.
 (pdftex.def)             Requested size: 50.58878pt x 26.55904pt.
-<content/sponsors/diversityChampion/deepmind-logo.png, id=1000, 1066.98625pt x 
+<content/sponsors/diversityChampion/deepmind-logo.png, id=1014, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
@@ -2886,13 +2837,13 @@ ng)
 Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png  
 used on input line 50.
 (pdftex.def)             Requested size: 65.04256pt x 24.47491pt.
-<content/sponsors/diversityChampion/google.png, id=1001, 672.5125pt x 96.36pt>
+<content/sponsors/diversityChampion/google.png, id=1015, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 <use content/sponsors/diversityChampion/google.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/google.png  used on
  input line 51.
 (pdftex.def)             Requested size: 65.04256pt x 9.31897pt.
-<content/sponsors/diversityChampion/MSFT.png, id=1002, 415.01584pt x 88.72752pt
+<content/sponsors/diversityChampion/MSFT.png, id=1016, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
 <use content/sponsors/diversityChampion/MSFT.png>
@@ -2904,7 +2855,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--54
 
  []
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=1003, 417.22887pt x 280.
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=1017, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
@@ -2913,7 +2864,7 @@ Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png  use
 d on input line 57.
 (pdftex.def)             Requested size: 57.81621pt x 38.81743pt.
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-B.png, id=1004, 455.5419pt x 118.7637pt>
+B.png, id=1018, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 <use content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Re
@@ -2921,7 +2872,7 @@ d_RGB.png>
 Package pdftex.def Info: content/sponsors/diversityContributor/Adobe_Corporate_
 Horizontal_Lockup_Red_RGB.png  used on input line 62.
 (pdftex.def)             Requested size: 50.58878pt x 13.18727pt.
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1005, 714.7
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1019, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
@@ -2934,7 +2885,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--209
 
  []
 
-[44 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> <
+[46 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> <
 ./content/sponsors/bronze/Babelscape_colori.png> <./content/sponsors/bronze/HLT
 COE-Logo.png> <./content/sponsors/bronze/LegalForce_new.jpg> <./content/sponsor
 s/supporter/ServiceNow.png> <./content/sponsors/diversityChampion/amazon-logo.p
@@ -2948,7 +2899,7 @@ B.png> <./content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg>]
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `handbook.out' has not changed.
-(rerunfilecheck)             Checksum: BA87EAFF1093F7F1825800F56F11AF74;6608.
+(rerunfilecheck)             Checksum: DB1591B9C0CF5E45291FA29776990434;6820.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                handbook
@@ -2959,10 +2910,10 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26775 strings out of 478994
- 470163 string characters out of 5858184
- 1235709 words of memory out of 5000000
- 43633 multiletter control sequences out of 15000+600000
+ 26780 strings out of 478994
+ 470206 string characters out of 5858184
+ 1235228 words of memory out of 5000000
+ 43635 multiletter control sequences out of 15000+600000
  436083 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,17n,88p,1251b,1694s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2973,10 +2924,10 @@ live/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/20
 ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/
 type1/urw/times/utmri8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw
 /zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (50 pages, 6134626 bytes).
+Output written on handbook.pdf (52 pages, 6135739 bytes).
 PDF statistics:
- 1060 PDF objects out of 1200 (max. 8388607)
- 737 compressed objects within 8 object streams
- 71 named destinations out of 1000 (max. 500000)
- 363 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1076 PDF objects out of 1200 (max. 8388607)
+ 751 compressed objects within 8 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 371 words of extra memory for PDF output out of 10000 (max. 10000000)
 

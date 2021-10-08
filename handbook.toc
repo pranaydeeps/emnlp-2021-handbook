@@ -17,34 +17,36 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Tutorials: Wednesday, November 10\xspace }{19}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T1:} {Crowdsourcing Beyond Annotation: Case Studies in Benchmark Data Collection}}{20}{section.2.1}%
+\contentsline {section}{\textbf {T1:} {Crowdsourcing Beyond Annotation: \\ Case Studies in Benchmark Data Collection}}{20}{section.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T2:} {Knowledge-Enriched Natural Language Generation}}{23}{section.2.2}%
+\contentsline {section}{\textbf {T2:} {Financial Opinion Mining}}{22}{section.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Tutorials: Thursday, November 11\xspace }{25}{chapter.3}%
+\contentsline {section}{\textbf {T3:} {Knowledge-Enriched Natural Language Generation}}{24}{section.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T3:} {Multi-Domain Multilingual Question Answering}}{26}{section.3.1}%
+\contentsline {chapter}{\numberline {3}Tutorials: Thursday, November 11\xspace }{27}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T4:} {Robustness and Adversarial Examples in Natural Language Processing}}{27}{section.3.2}%
+\contentsline {section}{\textbf {T4:} {Multi-Domain Multilingual Question Answering}}{28}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T5:} {Syntax in End-to-End Natural Language Processing}}{29}{section.3.3}%
+\contentsline {section}{\textbf {T5:} {Robustness and Adversarial Examples in Natural Language Processing}}{29}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Welcome Reception}{30}{section.3.4}%
+\contentsline {section}{\textbf {T6:} {Syntax in End-to-End Natural Language Processing}}{31}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Workshops: Thursday--Friday, November 10--11\xspace }{31}{chapter.4}%
+\contentsline {section}{Welcome Reception}{32}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W6:} CI+NLP: First Workshop on Causal Inference in NLP}{33}{section.4.1}%
+\contentsline {chapter}{\numberline {4}Workshops: Thursday--Friday, November 10--11\xspace }{33}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W10:} The Second Workshop on Insights from Negative Results in NLP}{34}{section.4.2}%
+\contentsline {section}{{\bfseries W6:} CI+NLP: First Workshop on Causal Inference in NLP}{35}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W20:} Fourth Workshop on Fact Extraction and VERification (FEVER)}{35}{section.4.3}%
+\contentsline {section}{{\bfseries W10:} The Second Workshop on Insights from Negative Results in NLP}{36}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W21:} Third Workshop on New Frontiers in Summarization (NewSum)}{36}{section.4.4}%
+\contentsline {section}{{\bfseries W20:} Fourth Workshop on Fact Extraction and VERification (FEVER)}{37}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W1:} 3rd Workshop on Economics and Natural Language Processing (ECONLP)}{38}{section.4.5}%
+\contentsline {section}{{\bfseries W21:} Third Workshop on New Frontiers in Summarization (NewSum)}{38}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W17:} Workshop on Evaluations and Assessments of Neural Conversation Systems}{40}{section.4.6}%
+\contentsline {section}{{\bfseries W1:} 3rd Workshop on Economics and Natural Language Processing (ECONLP)}{40}{section.4.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Anti-harassment policy}{41}{chapter.5}%
+\contentsline {section}{{\bfseries W17:} Workshop on Evaluations and Assessments of Neural Conversation Systems}{42}{section.4.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author Index}{43}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Anti-harassment policy}{43}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Author Index}{45}{chapter.5}%
