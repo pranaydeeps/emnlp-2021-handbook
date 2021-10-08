@@ -709,4 +709,58 @@ Overfull \hbox (28.75pt too wide) in paragraph at lines 41--42
 
 
 Overfull \hbox (23.0pt too wide) in paragraph at lines 41--42
-\TU/lmr/
+\TU/lmr/bx/n/10 1730
+ []
+
+
+Overfull \hbox (42.23pt too wide) in paragraph at lines 41--42
+\TU/lmr/bx/n/10 Keynote
+ []
+
+
+Overfull \hbox (26.43001pt too wide) in paragraph at lines 41--42
+\TU/lmr/bx/n/10 Talks 
+ []
+
+
+./schedule.tex:44: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \item[5:30--5:45]
+                       {\bfseries  Closing Remarks}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+*s
+Missing character: There is no s ("73) in font nullfont!
+
+*s
+Missing character: There is no s ("73) in font nullfont!
+
+*s
+Missing character: There is no s ("73) in font nullfont!
+
+*s
+Missing character: There is no s ("73) in font nullfont!
+
+*
+! Emergency stop.
+<*> s
+     
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 19 strings out of 476919
+ 387 string characters out of 5821840
+ 295912 words of memory out of 5000000
+ 20121 multiletter control sequences out of 15000+600000
+ 403438 words of font info for 28 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 12i,1n,15p,124b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
