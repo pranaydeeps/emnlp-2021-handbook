@@ -18,12 +18,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Tutorials: Wednesday, November 10\xspace }{19}{chapter.2}
 \defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
 \contentsline {section}{\textbf {T1:} {Crowdsourcing Beyond Annotation: Case Studies in Benchmark Data Collection}}{20}{section.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\textbf {T2:} {Financial Opinion Mining}}{21}{section.2.2}
+=======
+\contentsline {section}{\textbf {T2:} {Knowledge-Enriched Natural Language Generation}}{23}{section.2.2}%
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\textbf {T3:} {Knowledge-Enriched Natural Language Generation}}{23}{section.2.3}
 \defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
 \contentsline {chapter}{\numberline {3}Tutorials: Thursday, November 11\xspace }{25}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\textbf {T4:} {Multi-Domain Multilingual Question Answering}}{26}{section.3.1}
@@ -31,6 +36,15 @@
 \contentsline {section}{\textbf {T5:} {Robustness and Adversarial Examples in Natural Language Processing}}{27}{section.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\textbf {T6:} {Syntax in End-to-End Natural Language Processing}}{28}{section.3.3}
+=======
+\contentsline {section}{\textbf {T3:} {Multi-Domain Multilingual Question Answering}}{26}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T4:} {Robustness and Adversarial Examples in Natural Language Processing}}{27}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T5:} {Syntax in End-to-End Natural Language Processing}}{29}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Welcome Reception}{30}{section.3.4}%
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Welcome Reception}{29}{section.3.4}
 \defcounter {refsection}{0}\relax 

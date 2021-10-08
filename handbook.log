@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  8 OCT 2021 18:20
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.30)  8 OCT 2021 17:13
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **handbook.tex
 (./handbook.tex
@@ -1215,6 +1220,7 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 Writing index file handbook.idx
 \mycolumnwidth=\skip102
 ) (./content/special/macros.tex
+<<<<<<< HEAD
 \w=\skip103
 \tsl=\skip104
 \en=\skip105
@@ -1222,6 +1228,373 @@ Writing index file handbook.idx
 \c@TutorialCounter=\count312
 ) (./content/setup/venues.tex)
 (./content/setup/sessions.tex)
+=======
+\w=\skip119
+\tsl=\skip120
+\en=\skip121
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.154   \usebibmacro{name:andothers}}
+                                     
+? s
+OK, entering \scrollmode...
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   6
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:154: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.154   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   6
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   4
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:167: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.167   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   3
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   3
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   3
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   6
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   8
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   3
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   5
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./content/special/macros.tex:180: Illegal parameter number in definition of \bl
+x@defformat@d.
+<to be read again> 
+                   7
+l.180   \usebibmacro{name:andothers}}
+                                     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+\c@WorkshopCounter=\count457
+\c@TutorialCounter=\count458
+) (./content/setup/venues.tex) (./content/setup/sessions.tex)
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1356,6 +1729,7 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `handbook.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
+<<<<<<< HEAD
 Package biblatex Info: ... file 'handbook.bbl' found.
  (./handbook.bbl
 
@@ -1409,6 +1783,16 @@ Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
 LaTeX Info: Redefining \selectfont on input line 80.
 
 <content/fmatter/cover.pdf, id=103, 597.23125pt x 844.15375pt>
+=======
+Package biblatex Info: ... file 'handbook.bbl' not found.
+
+No file handbook.bbl.
+Package biblatex Info: Reference section=0 on input line 75.
+Package biblatex Info: Reference segment=0 on input line 75.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 75.
+<content/fmatter/cover.pdf, id=99, 597.23125pt x 844.15375pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 
 <use content/fmatter/cover.pdf>
@@ -1418,8 +1802,12 @@ File: content/fmatter/cover.pdf Graphic file (type pdf)
  <use content/fmatter/cover.pdf>
 Package pdftex.def Info: content/fmatter/cover.pdf used on input line 87.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+<<<<<<< HEAD
 
 <content/fmatter/cover.pdf, id=106, page=1, 597.23125pt x 844.15375pt>
+=======
+<content/fmatter/cover.pdf, id=102, page=1, 597.23125pt x 844.15375pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 
 <use content/fmatter/cover.pdf, page 1>
@@ -1466,17 +1854,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
+<<<<<<< HEAD
 
 <content/hotel-map-1.pdf, id=133, 527.00435pt x 470.7986pt>
+=======
+<content/hotel-map-1.pdf, id=129, 527.00435pt x 470.7986pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/hotel-map-1.pdf Graphic file (type pdf)
 
 <use content/hotel-map-1.pdf>
 Package pdftex.def Info: content/hotel-map-1.pdf used on input line 6.
 (pdftex.def)             Requested size: 274.6262pt x 245.33391pt.
+<<<<<<< HEAD
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 7.
 
 <content/hotel-map-2.pdf, id=134, 587.8168pt x 572.39738pt>
+=======
+<content/hotel-map-2.pdf, id=130, 587.8168pt x 572.39738pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/hotel-map-2.pdf Graphic file (type pdf)
 
 <use content/hotel-map-2.pdf>
@@ -1514,23 +1910,35 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 ] [2
 
 ] (./content/ads/ads.tex
+<<<<<<< HEAD
 <content/ads/gold/goldman_sachs.pdf, id=203, 325.215pt x 289.08pt>
+=======
+<content/ads/gold/goldman_sachs.pdf, id=198, 325.215pt x 289.08pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/ads/gold/goldman_sachs.pdf Graphic file (type pdf)
 
 <use content/ads/gold/goldman_sachs.pdf>
 Package pdftex.def Info: content/ads/gold/goldman_sachs.pdf used on input line 
 6.
 (pdftex.def)             Requested size: 289.07999pt x 256.98044pt.
+<<<<<<< HEAD
 
 <content/ads/bronze/yahoo_labs.pdf, id=204, 361.35pt x 144.54pt>
+=======
+<content/ads/bronze/yahoo_labs.pdf, id=199, 361.35pt x 144.54pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/ads/bronze/yahoo_labs.pdf Graphic file (type pdf)
 
 <use content/ads/bronze/yahoo_labs.pdf>
 Package pdftex.def Info: content/ads/bronze/yahoo_labs.pdf used on input line 8
 .
 (pdftex.def)             Requested size: 289.07999pt x 115.63214pt.
+<<<<<<< HEAD
 
 <content/ads/silver/sdl_research.pdf, id=205, 614.295pt x 233.9678pt>
+=======
+<content/ads/silver/sdl_research.pdf, id=200, 614.295pt x 233.9678pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/ads/silver/sdl_research.pdf Graphic file (type pdf)
 
 <use content/ads/silver/sdl_research.pdf>
@@ -1546,7 +1954,11 @@ l.14 \clearpage
 
  <./content/ads/gold/goldman_sachs.pdf> <./content/ads/bronze/yahoo_labs.pdf> <
 ./content/ads/silver/sdl_research.pdf>]
+<<<<<<< HEAD
 <content/ads/platinum/Bloomberg.pdf, id=456, 542.025pt x 722.7pt>
+=======
+<content/ads/platinum/Bloomberg.pdf, id=451, 542.025pt x 722.7pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/ads/platinum/Bloomberg.pdf Graphic file (type pdf)
 
 <use content/ads/platinum/Bloomberg.pdf>
@@ -1591,7 +2003,7 @@ l.23 \item T
 [3
 
 ]
-! Misplaced alignment tab character &.
+./content/fmatter/preface-chair.tex:28: Misplaced alignment tab character &.
 l.28 \item The Diversity &
                            Inclusion Chairs -- Laura Alonso Alemany and Tosh...
 
@@ -1699,7 +2111,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--267
 
  []
 
-! Misplaced alignment tab character &.
+./content/fmatter/committee.tex:274: Misplaced alignment tab character &.
 l.274 ...e*{0.2in} Steven Bedrick, Oregon Health &
                                                    Science University\\
 I can't figure out why you would want to use a tab mark
@@ -1781,10 +2193,107 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
 [][][][][][][][][]  
  []
 
+<<<<<<< HEAD
 [19] (./content/tutorials/tutorials-001.tex) [20
 
 ]
 (./content/tutorials/tutorials-002.tex [21
+=======
+[19] (./content/tutorials/tutorials-001.tex
+
+LaTeX Warning: Citation 'Crowdsourcing Beyond Annotation: Case Studies in Bench
+mark Data Collection' on page 20 undefined on input line 25.
+
+
+Overfull \hbox (105.39658pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+
+LaTeX Warning: Citation 'Alane Suhr' on page 20 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Clara Vania' on page 20 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Nikita Nangia' on page 20 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Maarten Sap' on page 20 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Mark Yatskar' on page 20 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Samuel R. Bowman' on page 20 undefined on input line 2
+5.
+
+
+LaTeX Warning: Citation 'Yoav Artzi' on page 20 undefined on input line 25.
+
+[20
+
+]) [21] (./content/tutorials/tutorials-002.tex
+./content/tutorials/tutorials-002.tex:13: Argument of \tutorial has an extra }.
+<inserted text> 
+                \par 
+l.13 ...Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen}}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./content/tutorials/tutorials-002.tex:13: Paragraph ended before \tutorial was 
+complete.
+<to be read again> 
+                   \par 
+l.13 ...Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen}}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./content/tutorials/tutorials-002.tex:13: Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.13 ...Hsi Chen, Hen-Hsen Huang, Chung-Chi Chen}}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+) [22
+
+] (./content/tutorials/tutorials-003.tex
+
+LaTeX Warning: Citation 'Knowledge-Enriched Natural Language Generation' on pag
+e 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Wenhao Yu' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Meng Jiang' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Zhiting Hu' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Qingyun Wang' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Heng Ji' on page 23 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Nazneen Rajani' on page 23 undefined on input line 21.
+
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 ]) [22]
 (./content/tutorials/tutorials-003.tex))
@@ -1798,7 +2307,8 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
  []
 
 
-! LaTeX Error: Command \tutorialmorningtime already defined.
+./content/tutorials/tutorials-overview-2.tex:10: LaTeX Error: Command \tutorial
+morningtime already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1812,6 +2322,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [25
+<<<<<<< HEAD
 
 ] (./content/tutorials/tutorials-004.tex) [26
 
@@ -1821,11 +2332,65 @@ or  <return>  to continue without it.
 ]
 (./content/tutorials/tutorials-006.tex))
 (./content/tutorials/welcome_reception.tex [28
+=======
+
+] (./content/tutorials/tutorials-004.tex
+
+LaTeX Warning: Citation 'Multi-Domain Multilingual Question Answering' on page 
+26 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'Sebastian Ruder' on page 26 undefined on input line 12
+.
+
+
+LaTeX Warning: Citation 'Avirup Sil' on page 26 undefined on input line 12.
+
+) [26
+
+] (./content/tutorials/tutorials-005.tex
+
+LaTeX Warning: Citation 'Robustness and Adversarial Examples in Natural Languag
+e Processing' on page 27 undefined on input line 16.
+
+
+Overfull \hbox (56.6289pt too wide) in paragraph at lines 16--16
+ [] 
+ []
+
+
+LaTeX Warning: Citation 'Kai-Wei Chang' on page 27 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'He He' on page 27 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'Robin Jia' on page 27 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'Sameer Singh' on page 27 undefined on input line 16.
+
+) [27
+
+] [28] (./content/tutorials/tutorials-006.tex
+
+LaTeX Warning: Citation 'Syntax in End-to-End Natural Language Processing' on p
+age 29 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'Hai Zhao' on page 29 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'Rui Wang' on page 29 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'Kehai Chen' on page 29 undefined on input line 15.
+
+)) (./content/tutorials/welcome_reception.tex [29
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 ])
-(./content/workshops/workshops.tex [29
-
-] [30
+(./content/workshops/workshops.tex [30
 
 ]
 Chapter 4.
@@ -1866,6 +2431,31 @@ LaTeX Warning: Reference `WShopK' on page 31 undefined on input line 29.
 LaTeX Warning: Reference `WShopL' on page 31 undefined on input line 30.
 
 
+Overfull \hbox (0.64151pt too wide) in paragraph at lines 37--37
+ \T1/ptm/m/n/8 sign-
+ []
+
+
+Overfull \hbox (5.5215pt too wide) in paragraph at lines 37--37
+ \T1/ptm/m/n/8 Mean-
+ []
+
+
+Overfull \hbox (4.88164pt too wide) in paragraph at lines 37--37
+ \T1/ptm/m/n/8 Work-
+ []
+
+./content/workshops/overview.tex:37: Extra alignment tab has been changed to \c
+r.
+<recently read> \endtemplate 
+                             
+l.37 ...g Meaning Representations Joint Workshop &
+                                                   p.\pageref{WShopP} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
 LaTeX Warning: Reference `WShopP' on page 31 undefined on input line 37.
 
 
@@ -1887,17 +2477,31 @@ LaTeX Warning: Reference `WShopV' on page 31 undefined on input line 43.
 LaTeX Warning: Reference `WShopW' on page 31 undefined on input line 44.
 
 
-Overfull \hbox (10.76123pt too wide) in paragraph at lines 4--47
- [] 
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[31]
-Overfull \vbox (199.5111pt too high) has occurred while \output is active []
+ [31
+
+]
+Overfull \vbox (100.59099pt too high) has occurred while \output is active []
 
 
 [32])
 
+<<<<<<< HEAD
 ! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
+=======
+LaTeX Warning: Citation 'workshop6' on page 33 undefined on input line 88.
+
+(./auto/ci+nlp/schedule.tex
+./auto/ci+nlp/schedule.tex:3: You can't use `macro parameter character #' in ho
+rizontal mode.
+l.3 ...m[9:00--9:10] {\bfseries  Opening Remarks #
+                                                  }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -4694,6 +5298,18 @@ l.10 \item[10:20--10:40] \wspaperentry{econlp-011}
                                                   
 Use '\newbibmacro' to define this macro.
 
+<<<<<<< HEAD
+=======
+(./auto/newsum/schedule.tex
+./auto/newsum/schedule.tex:3: You can't use `macro parameter character #' in ho
+rizontal mode.
+l.3 ...:00--10:30] {\bfseries  Morning Session I #
+                                                  }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 ! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
 
@@ -4752,6 +5368,7 @@ Use '\newbibmacro' to define this macro.
 
 ! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
 
+<<<<<<< HEAD
 See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
@@ -4759,6 +5376,16 @@ Type  H <return>  for immediate help.
 l.18 \item[11:20--11:40] \wspaperentry{econlp-013}
                                                   
 Use '\newbibmacro' to define this macro.
+=======
+./auto/newsum/schedule.tex:17: You can't use `macro parameter character #' in h
+orizontal mode.
+l.17 ...0--12:00] {\bfseries  Morning session II #
+                                                  }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 
 ! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
@@ -4772,7 +5399,18 @@ l.19 \item[11:40--12:00] \wspaperentry{econlp-018}
 Use '\newbibmacro' to define this macro.
 
 
+<<<<<<< HEAD
 ! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
+=======
+./auto/newsum/schedule.tex:26: You can't use `macro parameter character #' in h
+orizontal mode.
+l.26 ...0--2:30] {\bfseries  Afternoon session I #
+                                                  }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -4849,7 +5487,18 @@ l.29 \item[2:30--2:50] \wspaperentry{econlp-008}
 Use '\newbibmacro' to define this macro.
 
 
+<<<<<<< HEAD
 ! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
+=======
+./auto/newsum/schedule.tex:39: You can't use `macro parameter character #' in h
+orizontal mode.
+l.39 ...--3:35] {\bfseries  Afternoon session II #
+                                                  }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -4914,6 +5563,17 @@ l.37 \item[3:40--4:10] \wspaperentry{econlp-012}
                                                 
 Use '\newbibmacro' to define this macro.
 
+<<<<<<< HEAD
+=======
+./auto/newsum/schedule.tex:46: You can't use `macro parameter character #' in h
+orizontal mode.
+l.46 ...es  EMNLP Finding papers - Summarization #
+                                                  }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 ! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
 
@@ -4936,7 +5596,18 @@ l.38 \item[4:10--4:40] \wspaperentry{econlp-016}
                                                 
 Use '\newbibmacro' to define this macro.
 
+<<<<<<< HEAD
 [40
+=======
+./auto/newsum/schedule.tex:53: You can't use `macro parameter character #' in h
+orizontal mode.
+l.53 ...-6:00] {\bfseries  Afternoon session III #
+                                                  }
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 ]
 
@@ -4974,7 +5645,20 @@ l.198   {\WShopLocN}
 Use '\newbibmacro' to define this macro.
 
 
+<<<<<<< HEAD
 ! Package biblatex Error: Bibliography macro 'name:given-family' undefined.
+=======
+(./auto/econlp/schedule.tex
+./auto/econlp/schedule.tex:4: Misplaced alignment tab character &.
+l.4 ...ng remarks and status report on economics &
+                                                   NLP (Udo Hahn)}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -5252,31 +5936,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--212
  []
 
 (./content/sponsors/sponsors.tex
+<<<<<<< HEAD
 <content/sponsors/diamond/apple.png, id=982, 150.5625pt x 150.5625pt>
+=======
+<content/sponsors/diamond/apple.png, id=968, 150.5625pt x 150.5625pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 
 <use content/sponsors/diamond/apple.png>
 Package pdftex.def Info: content/sponsors/diamond/apple.png used on input line 
 6.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
+<<<<<<< HEAD
 
 <content/sponsors/diamond/Bloomberg-logo-2019.png, id=984, 220.825pt x 132.495p
+=======
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=970, 220.825pt x 132.495p
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 t>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
  <use content/sponsors/diamond/Bloomberg-logo-2019.png>
 Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png used 
 on input line 7.
 (pdftex.def)             Requested size: 72.26999pt x 43.36159pt.
+<<<<<<< HEAD
 
 <content/sponsors/diamond/Facebook-AI2020.png, id=985, 2342.7525pt x 529.98pt>
+=======
+<content/sponsors/diamond/Facebook-AI2020.png, id=971, 2342.7525pt x 529.98pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
 (pdftex.def)             Requested size: 36.135pt x 8.1677pt.
+<<<<<<< HEAD
 
 <content/sponsors/diamond/google.png, id=986, 672.5125pt x 96.36pt>
+=======
+<content/sponsors/diamond/google.png, id=972, 672.5125pt x 96.36pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/diamond/google.png Graphic file (type png)
 
 <use content/sponsors/diamond/google.png>
@@ -5288,7 +5988,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
 
-! Extra alignment tab has been changed to \cr.
+./content/sponsors/sponsors.tex:13: Extra alignment tab has been changed to \cr
+.
 <template> \endtemplate 
                         
 l.13   \multicolumn{4}{l}{\small\textbf Platinum}
@@ -5297,15 +5998,23 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
+<<<<<<< HEAD
 <content/sponsors/platinum/amazon-logo.png, id=987, 1003.75pt x 526.96875pt>
+=======
+<content/sponsors/platinum/amazon-logo.png, id=973, 1003.75pt x 526.96875pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/amazon-logo.png>
 Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
+<<<<<<< HEAD
 
 <content/sponsors/platinum/deepmind-logo.png, id=988, 1066.98625pt x 401.5pt>
+=======
+<content/sponsors/platinum/deepmind-logo.png, id=974, 1066.98625pt x 401.5pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/deepmind-logo.png>
@@ -5314,7 +6023,8 @@ put line 15.
 (pdftex.def)             Requested size: 72.26999pt x 27.1889pt.
 
 
-! LaTeX Error: Unknown graphics extension: .svg.
+./content/sponsors/sponsors.tex:16: LaTeX Error: Unknown graphics extension: .s
+vg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -5325,7 +6035,8 @@ l.16 ...ontent/sponsors/platinum/ByteDance_EN.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-! Extra alignment tab has been changed to \cr.
+./content/sponsors/sponsors.tex:17: Extra alignment tab has been changed to \cr
+.
 <recently read> \endtemplate 
                              
 l.17      &
@@ -5334,15 +6045,23 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
+<<<<<<< HEAD
 <content/sponsors/platinum/g-research.png, id=989, 451.6875pt x 451.6875pt>
+=======
+<content/sponsors/platinum/g-research.png, id=975, 451.6875pt x 451.6875pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
 Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
+<<<<<<< HEAD
 
 <content/sponsors/platinum/megagon-logo-2019.png, id=990, 240.9pt x 240.9pt>
+=======
+<content/sponsors/platinum/megagon-logo-2019.png, id=976, 240.9pt x 240.9pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
@@ -5354,15 +6073,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
  []
 
+<<<<<<< HEAD
 <content/sponsors/gold/grammarly.png, id=991, 1028.84375pt x 240.9pt>
+=======
+<content/sponsors/gold/grammarly.png, id=977, 1028.84375pt x 240.9pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
 Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
  23.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
+<<<<<<< HEAD
 
 <content/sponsors/gold/MSFT.jpg, id=992, 582.175pt x 124.465pt>
+=======
+<content/sponsors/gold/MSFT.jpg, id=978, 582.175pt x 124.465pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
@@ -5374,7 +6101,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--26
  []
 
 
+<<<<<<< HEAD
 ! LaTeX Error: Unknown graphics extension: .svg.
+=======
+LaTeX Warning: File `content/sponsors/silver/duolingo.svg' not found on input l
+ine 29.
+
+
+./content/sponsors/sponsors.tex:29: LaTeX Error: Unknown graphics extension: .s
+vg.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -5385,16 +6121,24 @@ l.29 ...9in]{content/sponsors/silver/duolingo.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+<<<<<<< HEAD
 
 <content/sponsors/silver/Naver_Labs_Europe.jpg, id=993, 2603.7275pt x 552.0625p
+=======
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=979, 2603.7275pt x 552.0625p
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 t>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
 Package pdftex.def Info: content/sponsors/silver/Naver_Labs_Europe.jpg used on 
 input line 30.
 (pdftex.def)             Requested size: 72.26999pt x 15.32286pt.
+<<<<<<< HEAD
 
 <content/sponsors/silver/Naver.jpg, id=994, 301.125pt x 301.125pt>
+=======
+<content/sponsors/silver/Naver.jpg, id=980, 301.125pt x 301.125pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
@@ -5406,8 +6150,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
 
  []
 
+<<<<<<< HEAD
 
 <content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=995,
+=======
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=981,
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
  455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
@@ -5416,24 +6164,37 @@ phic file (type png)
 Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
 kup_Red_RGB.png used on input line 36.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
+<<<<<<< HEAD
 
 <content/sponsors/bronze/Babelscape_colori.png, id=996, 474.573pt x 94.1919pt>
+=======
+<content/sponsors/bronze/Babelscape_colori.png, id=982, 474.573pt x 94.1919pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
 input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
+<<<<<<< HEAD
 
 <content/sponsors/bronze/HLTCOE-Logo.png, id=997, 226.8475pt x 117.43875pt>
+=======
+<content/sponsors/bronze/HLTCOE-Logo.png, id=983, 226.8475pt x 117.43875pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
 Package pdftex.def Info: content/sponsors/bronze/HLTCOE-Logo.png used on input 
 line 38.
 (pdftex.def)             Requested size: 72.26999pt x 37.4145pt.
+<<<<<<< HEAD
 
 ! Extra alignment tab has been changed to \cr.
+=======
+./content/sponsors/sponsors.tex:39: Extra alignment tab has been changed to \cr
+.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 <recently read> \endtemplate 
                              
 l.39     &
@@ -5442,6 +6203,10 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
+<<<<<<< HEAD
+=======
+<content/sponsors/bronze/LegalForce_new.jpg, id=984, 173.03503pt x 190.99928pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 <content/sponsors/bronze/LegalForce_new.jpg, id=998, 173.03503pt x 190.99928pt>
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
@@ -5464,7 +6229,11 @@ ntent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-resea
 rch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponsor
 s/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/si
 lver/Naver_Labs_Europe.jpg> <./content/sponsors/silver/Naver.jpg>]
+<<<<<<< HEAD
 <content/sponsors/supporter/ServiceNow.png, id=1011, 253.6677pt x 72.87225pt>
+=======
+<content/sponsors/supporter/ServiceNow.png, id=998, 253.6677pt x 72.87225pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
@@ -5476,17 +6245,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--46
 
  []
 
+<<<<<<< HEAD
 
 <content/sponsors/diversityChampion/amazon-logo.png, id=1012, 1003.75pt x 526.9
 6875pt>
+=======
+<content/sponsors/diversityChampion/amazon-logo.png, id=999, 1003.75pt x 526.96
+875pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
  <use content/sponsors/diversityChampion/amazon-logo.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
 d on input line 49.
 (pdftex.def)             Requested size: 50.58878pt x 26.55904pt.
+<<<<<<< HEAD
 
 <content/sponsors/diversityChampion/deepmind-logo.png, id=1013, 1066.98625pt x 
+=======
+<content/sponsors/diversityChampion/deepmind-logo.png, id=1000, 1066.98625pt x 
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
@@ -5494,16 +6272,24 @@ ng)
 Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
 sed on input line 50.
 (pdftex.def)             Requested size: 65.04256pt x 24.47491pt.
+<<<<<<< HEAD
 
 <content/sponsors/diversityChampion/google.png, id=1014, 672.5125pt x 96.36pt>
+=======
+<content/sponsors/diversityChampion/google.png, id=1001, 672.5125pt x 96.36pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on 
 input line 51.
 (pdftex.def)             Requested size: 65.04256pt x 9.31897pt.
+<<<<<<< HEAD
 
 <content/sponsors/diversityChampion/MSFT.png, id=1015, 415.01584pt x 88.72752pt
+=======
+<content/sponsors/diversityChampion/MSFT.png, id=1002, 415.01584pt x 88.72752pt
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
@@ -5515,8 +6301,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--54
 
  []
 
+<<<<<<< HEAD
 
 <content/sponsors/diversityAlly/Morgan-Stanley.png, id=1016, 417.22887pt x 280.
+=======
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=1003, 417.22887pt x 280.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
@@ -5526,7 +6316,11 @@ Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
 (pdftex.def)             Requested size: 57.81621pt x 38.81743pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
+<<<<<<< HEAD
 B.png, id=1017, 455.5419pt x 118.7637pt>
+=======
+B.png, id=1004, 455.5419pt x 118.7637pt>
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
@@ -5535,8 +6329,12 @@ d_RGB.png>
 Package pdftex.def Info: content/sponsors/diversityContributor/Adobe_Corporate_
 Horizontal_Lockup_Red_RGB.png used on input line 62.
 (pdftex.def)             Requested size: 50.58878pt x 13.18727pt.
+<<<<<<< HEAD
 
 <content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1018, 714.7
+=======
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1005, 714.7
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
@@ -5568,9 +6366,14 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
 Package rerunfilecheck Info: File `handbook.out' has not changed.
 (rerunfilecheck)             Checksum: 0F1B919CCBA92AA512DA88EF7EB1E4F5;2133.
 
+<<<<<<< HEAD
 
 LaTeX Warning: There were undefined references.
 
+=======
+Package rerunfilecheck Info: File `handbook.out' has not changed.
+(rerunfilecheck)             Checksum: BA87EAFF1093F7F1825800F56F11AF74;6608.
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -5580,6 +6383,7 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  21880 strings out of 493089
  371521 string characters out of 6134842
  833247 words of memory out of 5000000
@@ -5600,4 +6404,26 @@ PDF statistics:
  750 compressed objects within 8 object streams
  74 named destinations out of 1000 (max. 500000)
  371 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 26775 strings out of 478994
+ 470163 string characters out of 5858184
+ 1235709 words of memory out of 5000000
+ 43633 multiletter control sequences out of 15000+600000
+ 436083 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,17n,88p,1251b,1694s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-d
+ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/
+type1/urw/times/utmri8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw
+/zapfchan/uzcmi8a.pfb>
+Output written on handbook.pdf (50 pages, 6134626 bytes).
+PDF statistics:
+ 1060 PDF objects out of 1200 (max. 8388607)
+ 737 compressed objects within 8 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 363 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 03c92071fc9ddf7df49c2dee5186fe2179383774
 
