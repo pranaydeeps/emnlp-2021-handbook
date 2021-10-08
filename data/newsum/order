@@ -13,7 +13,7 @@
 = 13:00--14:30 Afternoon session I # %chair1 Jackie Cheung %chair2 Lu Wang
 ! 13:00--13:50 Keynote III %by Asli Celikyilmaz (Facebook AI Research)
 10 13:50--13:55  # Evaluation of Summarization Systems across Gender, Age, and Race
-21 13:55--14:00  # Evaluation of Abstractive Summarisation Models with Machine Translation in Deliberative Processes
+21 13:55--14:00  # Evaluation of Abstractive Summarization Models with Machine Translation in Deliberative Processes
 5 14:00--14:10  # Capturing Speaker Incorrectness: Speaker-Focused Post-Correction for Abstractive Dialogue Summarization
 8 14:10--14:20  # Measuring Similarity of Opinion-bearing Sentences
 24 14:20--14:30  # EASE: Extractive-Abstractive Summarization End-to-End using the Information Bottleneck Principle
@@ -24,12 +24,6 @@
 31 15:20--15:30  # Modeling Endorsement for Multi-Document Abstractive Summarization
 15 15:30--15:35  # SUBSUME: A Dataset for Subjective Summary Extraction from Wikipedia Documents
 = 15:35--16:15 EMNLP Finding papers - Summarization # %chair1 Lu Wang %chair2 Giuseppe Carenini
-# Paper 36 not shown in the order (it is marked hidden in the schedule)
-# Paper 37 not shown in the order (it is marked hidden in the schedule)
-# Paper 41 not shown in the order (it is marked hidden in the schedule)
-# Paper 44 not shown in the order (it is marked hidden in the schedule)
-# Paper 42 not shown in the order (it is marked hidden in the schedule)
-35 16:00--16:05  # Retrieval Augmented Code Generation and Summarization
 + 16:15--16:45 Coffee break
 = 16:45--18:00 Afternoon session III # %chair1 Giuseppe Carenini %chair2 Fei Liu, Jackie Cheung, Lu Wang, Yue Dong
 27 16:45--16:55  # TLDR9+: A Large Scale Resource for Extreme Summarization of Social Media Posts
