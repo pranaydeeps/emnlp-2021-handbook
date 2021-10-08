@@ -1,0 +1,712 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.30)  8 OCT 2021 15:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**schedule.tex
+(./schedule.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+
+./schedule.tex:2: LaTeX Error: Lonely \item--perhaps a missing list environment
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \item[]
+            {\Large\bfseries Wednesday, November 10, 2021}\\\vspace{1.5ex}
+? s
+OK, entering \scrollmode...
+./schedule.tex:2: Undefined control sequence.
+l.2 \item[] {\Large
+                   \bfseries Wednesday, November 10, 2021}\\\vspace{1.5ex}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (58.75pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 Wednesday,
+ []
+
+
+Overfull \hbox (38.86pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 Novem-
+ []
+
+
+Overfull \hbox (16.72pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 ber
+ []
+
+
+Overfull \hbox (14.69pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 10,
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 2--3
+\TU/lmr/bx/n/10 2021 
+ []
+
+
+./schedule.tex:5: LaTeX Error: Lonely \item--perhaps a missing list environment
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \item[]
+            {\bfseries 0900--0905 Opening}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (28.75pt too wide) in paragraph at lines 5--6
+\TU/lmr/bx/n/10 0900–
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 5--6
+\TU/lmr/bx/n/10 0905
+ []
+
+
+Overfull \hbox (30.84pt too wide) in paragraph at lines 5--6
+\TU/lmr/bx/n/10 Open-
+ []
+
+
+Overfull \hbox (15.33pt too wide) in paragraph at lines 5--6
+\TU/lmr/bx/n/10 ing 
+ []
+
+
+./schedule.tex:8: LaTeX Error: Lonely \item--perhaps a missing list environment
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \item[]
+            {\bfseries 0905--1020 Keynote Talks}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (28.75pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 0905–
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 1020
+ []
+
+
+Overfull \hbox (42.23pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 Keynote
+ []
+
+
+Overfull \hbox (26.43001pt too wide) in paragraph at lines 8--9
+\TU/lmr/bx/n/10 Talks 
+ []
+
+
+./schedule.tex:11: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \item[]
+             {\bfseries 1020--1100 Research Talks}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (28.75pt too wide) in paragraph at lines 11--12
+\TU/lmr/bx/n/10 1020–
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 11--12
+\TU/lmr/bx/n/10 1100
+ []
+
+
+Overfull \hbox (17.73pt too wide) in paragraph at lines 11--12
+\TU/lmr/bx/n/10 Re-
+ []
+
+
+Overfull \hbox (31.32pt too wide) in paragraph at lines 11--12
+\TU/lmr/bx/n/10 search
+ []
+
+
+Overfull \hbox (26.43001pt too wide) in paragraph at lines 11--12
+\TU/lmr/bx/n/10 Talks 
+ []
+
+
+./schedule.tex:12: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \item[10:20--10:35]
+                         \wspaperentry{fever-002}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:12: Undefined control sequence.
+l.12 \item[10:20--10:35] \wspaperentry
+                                      {fever-002}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+
+./schedule.tex:13: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \item[10:35--10:50]
+                         \wspaperentry{fever-003}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:13: Undefined control sequence.
+l.13 \item[10:35--10:50] \wspaperentry
+                                      {fever-003}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+
+./schedule.tex:16: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \item[11:00--11:15]
+                         {\bfseries  Break}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (29.85pt too wide) in paragraph at lines 16--17
+\TU/lmr/bx/n/10 Break 
+ []
+
+
+./schedule.tex:19: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \item[]
+             {\bfseries 1115--1230 Keynote Talks}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (28.75pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 1115–
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 1230
+ []
+
+
+Overfull \hbox (42.23pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 Keynote
+ []
+
+
+Overfull \hbox (26.43001pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 Talks 
+ []
+
+
+./schedule.tex:22: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \item[12:30--1:30]
+                        {\bfseries  Lunch}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (30.88pt too wide) in paragraph at lines 22--23
+\TU/lmr/bx/n/10 Lunch 
+ []
+
+
+./schedule.tex:25: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \item[]
+             {\bfseries 1330--1445 Keynote and Shared Task}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (28.75pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 1330–
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 1445
+ []
+
+
+Overfull \hbox (42.23pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 Keynote
+ []
+
+
+Overfull \hbox (18.37pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (34.77pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 Shared
+ []
+
+
+Overfull \hbox (23.24pt too wide) in paragraph at lines 25--26
+\TU/lmr/bx/n/10 Task 
+ []
+
+
+./schedule.tex:26: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \item[2:10--2:20]
+                       \wspaperentry{fever-009}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:26: Undefined control sequence.
+l.26 \item[2:10--2:20] \wspaperentry
+                                    {fever-009}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+
+./schedule.tex:27: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \item[2:20--2:30]
+                       \wspaperentry{fever-005}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:27: Undefined control sequence.
+l.27 \item[2:20--2:30] \wspaperentry
+                                    {fever-005}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+
+./schedule.tex:30: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \item[]
+             {\bfseries 1445--1615 Virtual Poster Session}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (28.75pt too wide) in paragraph at lines 30--31
+\TU/lmr/bx/n/10 1445–
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 30--31
+\TU/lmr/bx/n/10 1615
+ []
+
+
+Overfull \hbox (20.45pt too wide) in paragraph at lines 30--31
+\TU/lmr/bx/n/10 Vir-
+ []
+
+
+Overfull \hbox (19.64pt too wide) in paragraph at lines 30--31
+\TU/lmr/bx/n/10 tual
+ []
+
+
+Overfull \hbox (32.31pt too wide) in paragraph at lines 30--31
+\TU/lmr/bx/n/10 Poster
+ []
+
+
+Overfull \hbox (20.03pt too wide) in paragraph at lines 30--31
+\TU/lmr/bx/n/10 Ses-
+ []
+
+
+Overfull \hbox (19.87pt too wide) in paragraph at lines 30--31
+\TU/lmr/bx/n/10 sion 
+ []
+
+
+./schedule.tex:31: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \item[$\bullet$]
+                      \wspaperentry{fever-004}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:31: Undefined control sequence.
+l.31 \item[$\bullet$] \wspaperentry
+                                   {fever-004}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+./schedule.tex:32: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \item[$\bullet$]
+                      \wspaperentry{fever-006}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:32: Undefined control sequence.
+l.32 \item[$\bullet$] \wspaperentry
+                                   {fever-006}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 6 ("36) in font nullfont!
+
+./schedule.tex:33: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \item[$\bullet$]
+                      \wspaperentry{fever-007}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:33: Undefined control sequence.
+l.33 \item[$\bullet$] \wspaperentry
+                                   {fever-007}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 7 ("37) in font nullfont!
+
+./schedule.tex:34: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \item[$\bullet$]
+                      \wspaperentry{fever-014}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:34: Undefined control sequence.
+l.34 \item[$\bullet$] \wspaperentry
+                                   {fever-014}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+./schedule.tex:35: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \item[$\bullet$]
+                      \wspaperentry{fever-010}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:35: Undefined control sequence.
+l.35 \item[$\bullet$] \wspaperentry
+                                   {fever-010}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+
+./schedule.tex:36: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \item[$\bullet$]
+                      \wspaperentry{fever-011}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:36: Undefined control sequence.
+l.36 \item[$\bullet$] \wspaperentry
+                                   {fever-011}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+
+./schedule.tex:37: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \item[$\bullet$]
+                      \wspaperentry{fever-013}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:37: Undefined control sequence.
+l.37 \item[$\bullet$] \wspaperentry
+                                   {fever-013}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+
+./schedule.tex:38: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \item[$\bullet$]
+                      \wspaperentry{fever-015}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./schedule.tex:38: Undefined control sequence.
+l.38 \item[$\bullet$] \wspaperentry
+                                   {fever-015}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+
+./schedule.tex:41: LaTeX Error: Lonely \item--perhaps a missing list environmen
+t.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \item[]
+             {\bfseries 1615--1730 Keynote Talks}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (28.75pt too wide) in paragraph at lines 41--42
+\TU/lmr/bx/n/10 1615–
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 41--42
+\TU/lmr/
