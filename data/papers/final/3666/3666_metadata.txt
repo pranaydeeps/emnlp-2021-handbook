@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3666
+FinalPaperTitle#=%=#Expected Validation Performance and Estimation of a Random Variable's Maximum
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Jesse Dodge
+JobTitle#==#
+Organization#==#
+Abstract#==#Research in NLP is often supported by experimental results, and improved reporting of such results can lead to better understanding and more reproducible science. In this paper we analyze three statistical estimators for expected validation performance, a tool used for reporting performance (e.g., accuracy) as a function of computational budget (e.g., number of hyperparameter tuning experiments). Where previous work analyzing such estimators focused on the bias, we also examine the variance and mean squared error (MSE). In both synthetic and realistic scenarios, we evaluate three estimators and find the unbiased estimator has the highest variance, and the estimator with the smallest variance has the largest bias; the estimator with the smallest MSE strikes a balance between bias and variance, displaying a classic bias-variance tradeoff. We use expected validation performance to compare between different models, and analyze how frequently each estimator leads to drawing incorrect conclusions about which of two models performs best. We find that the two biased estimators lead to the fewest incorrect conclusions, which hints at the importance of minimizing variance and MSE.
+Author{1}{Firstname}#=%=#Jesse
+Author{1}{Lastname}#=%=#Dodge
+Author{1}{Username}#=%=#dodgejesse
+Author{1}{Email}#=%=#dodgejesse@gmail.com
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Suchin
+Author{2}{Lastname}#=%=#Gururangan
+Author{2}{Username}#=%=#suching
+Author{2}{Email}#=%=#sg01@cs.washington.edu
+Author{2}{Affiliation}#=%=#Paul G. Allen School of Computer Science
+Author{3}{Firstname}#=%=#Dallas
+Author{3}{Lastname}#=%=#Card
+Author{3}{Username}#=%=#dcard
+Author{3}{Email}#=%=#dcard@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Roy
+Author{4}{Lastname}#=%=#Schwartz
+Author{4}{Username}#=%=#roys02
+Author{4}{Email}#=%=#roys@cs.huji.ac.il
+Author{4}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{5}{Firstname}#=%=#Noah A.
+Author{5}{Lastname}#=%=#Smith
+Author{5}{Username}#=%=#nasmith
+Author{5}{Email}#=%=#nasmith@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

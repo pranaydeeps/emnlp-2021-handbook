@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#377
+FinalPaperTitle#=%=#MATE: Multi-view Attention for Table Transformer Efficiency
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Julian Eisenschlos
+JobTitle#==#
+Organization#==#Google Research
+Abstract#==#This work presents a sparse-attention Transformer architecture for modeling documents that contain large tables. Tables are ubiquitous on the web, and are rich in information. However, more than 20% of relational tables on the web have 20 or more rows (Cafarella et al., 2008), and these large tables present a challenge for current Transformer models, which are typically limited to 512 tokens.
+Here we propose MATE, a novel Transformer architecture designed to model the structure of web tables. MATE uses sparse attention in a way that allows heads to efficiently attend to either rows or columns in a table. This architecture scales linearly with respect to speed and memory, and can handle documents containing more than 8000 tokens with current accelerators. MATE also has a more appropriate inductive bias for tabular data, and sets a new state-of-the-art for three table reasoning datasets. For HybridQA (Chen et al., 2020), a dataset that involves large documents containing tables, we improve the best prior result by 19 points.
+Author{1}{Firstname}#=%=#Julian
+Author{1}{Lastname}#=%=#Eisenschlos
+Author{1}{Username}#=%=#eisenjulian
+Author{1}{Email}#=%=#eisenjulian@gmail.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Maharshi
+Author{2}{Lastname}#=%=#Gor
+Author{2}{Username}#=%=#maharshigor
+Author{2}{Email}#=%=#mgor@umd.edu
+Author{2}{Affiliation}#=%=#University of Maryland
+Author{3}{Firstname}#=%=#Thomas
+Author{3}{Lastname}#=%=#Müller
+Author{3}{Username}#=%=#muelletm
+Author{3}{Email}#=%=#muelletm@gmail.com
+Author{3}{Affiliation}#=%=#Symanto AI
+Author{4}{Firstname}#=%=#William
+Author{4}{Lastname}#=%=#Cohen
+Author{4}{Username}#=%=#wcohen
+Author{4}{Email}#=%=#wcohen@google.com
+Author{4}{Affiliation}#=%=#Google AI
+
+==========

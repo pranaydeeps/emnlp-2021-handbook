@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1807
+FinalPaperTitle#=%=#Coarse2Fine: Fine-grained Text Classification on Coarsely-grained Annotated Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Dheeraj Mekala
+JobTitle#==#
+Organization#==#
+Abstract#==#Existing text classification methods mainly focus on a fixed label set, whereas many real-world applications require extending to new fine-grained classes as the number of samples per label increases. To accommodate such requirements, we introduce a new problem called coarse-to-fine grained classification, which aims to perform fine-grained classification on coarsely annotated data. Instead of asking for new fine-grained human annotations, we opt to leverage label surface names as the only human guidance and weave in rich pre-trained generative language models into the iterative weak supervision strategy. Specifically, we first propose a label-conditioned fine-tuning formulation to attune these generators for our task. Furthermore, we devise a regularization objective based on the coarse-fine label constraints derived from our problem setting, giving us even further improvements over the prior formulation. Our framework uses the fine-tuned generative models to sample pseudo-training data for training the classifier, and bootstraps on real unlabeled data for model refinement. Extensive experiments and case studies on two real-world datasets demonstrate superior performance over SOTA zero-shot classification baselines.
+Author{1}{Firstname}#=%=#Dheeraj
+Author{1}{Lastname}#=%=#Mekala
+Author{1}{Username}#=%=#dheeraj7596
+Author{1}{Email}#=%=#dmekala@ucsd.edu
+Author{1}{Affiliation}#=%=#University of California San Diego
+Author{2}{Firstname}#=%=#Varun
+Author{2}{Lastname}#=%=#Gangal
+Author{2}{Username}#=%=#vgangal
+Author{2}{Email}#=%=#vgangal@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Jingbo
+Author{3}{Lastname}#=%=#Shang
+Author{3}{Username}#=%=#shangjingbo
+Author{3}{Email}#=%=#jshang@ucsd.edu
+Author{3}{Affiliation}#=%=#University of California, San Diego
+
+==========

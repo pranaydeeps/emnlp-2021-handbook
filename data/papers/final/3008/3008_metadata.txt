@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#3008
+FinalPaperTitle#=%=#Artificial Text Detection via Examining the Topology of Attention Maps
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Daniil Cherniavskii
+JobTitle#==#
+Organization#==#
+Abstract#==#The impressive capabilities of recent generative models to create texts that are challenging to distinguish from the human-written ones can be misused for generating fake news, product reviews, and even abusive content. Despite the prominent performance of existing methods for artificial text detection, they still lack interpretability and robustness towards unseen models. To this end, we propose three novel types of interpretable topological features for this task based on Topological Data Analysis (TDA) which is currently understudied in the field of NLP. We empirically show that the features derived from the BERT model outperform count- and neural-based baselines up to 10\% on three common datasets, and tend to be the most robust towards unseen GPT-style generation models as opposed to existing methods. The probing analysis of the features reveals their sensitivity to the surface and syntactic properties. The results demonstrate that TDA is a promising line with respect to NLP tasks, specifically the ones that incorporate surface and structural information.
+Author{1}{Firstname}#=%=#Laida
+Author{1}{Lastname}#=%=#Kushnareva
+Author{1}{Username}#=%=#laida_k
+Author{1}{Email}#=%=#kushnareva.laida@gmail.com
+Author{1}{Affiliation}#=%=#Huawei
+Author{2}{Firstname}#=%=#Daniil
+Author{2}{Lastname}#=%=#Cherniavskii
+Author{2}{Username}#=%=#danchern
+Author{2}{Email}#=%=#chernyavskiy.dv@phystech.edu
+Author{2}{Affiliation}#=%=#Skolkovo Institute of Science and Technology
+Author{3}{Firstname}#=%=#Vladislav
+Author{3}{Lastname}#=%=#Mikhailov
+Author{3}{Username}#=%=#vmkhlv
+Author{3}{Email}#=%=#vmikhailovhse@gmail.com
+Author{3}{Affiliation}#=%=#Sberbank, SberDevices
+Author{4}{Firstname}#=%=#Ekaterina
+Author{4}{Lastname}#=%=#Artemova
+Author{4}{Username}#=%=#artemovae
+Author{4}{Email}#=%=#ekaterina.l.artemova@gmail.com
+Author{4}{Affiliation}#=%=#HSE University and Huawei  Noah’s Ark lab
+Author{5}{Firstname}#=%=#Serguei
+Author{5}{Lastname}#=%=#Barannikov
+Author{5}{Username}#=%=#sergbar
+Author{5}{Email}#=%=#s.barannikov@skoltech.ru
+Author{5}{Affiliation}#=%=#Skolkovo Institute of Science and Technology
+Author{6}{Firstname}#=%=#Alexander
+Author{6}{Lastname}#=%=#Bernstein
+Author{6}{Username}#=%=#a.bernstein
+Author{6}{Email}#=%=#a.bernstein@skoltech.ru
+Author{6}{Affiliation}#=%=#Skoltech
+Author{7}{Firstname}#=%=#Irina
+Author{7}{Lastname}#=%=#Piontkovskaya
+Author{7}{Username}#=%=#irapiont
+Author{7}{Email}#=%=#piontkovskaya.irina@huawei.com
+Author{7}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{8}{Firstname}#=%=#Dmitri
+Author{8}{Lastname}#=%=#Piontkovski
+Author{8}{Username}#=%=#dpiont
+Author{8}{Email}#=%=#dpiontkovski@hse.ru
+Author{8}{Affiliation}#=%=#HSE University
+Author{9}{Firstname}#=%=#Evgeny
+Author{9}{Lastname}#=%=#Burnaev
+Author{9}{Username}#=%=#e.burnaev
+Author{9}{Email}#=%=#e.burnaev@skoltech.ru
+Author{9}{Affiliation}#=%=#Skoltech
+
+==========

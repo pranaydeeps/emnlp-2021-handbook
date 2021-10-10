@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3456
+FinalPaperTitle#=%=#Retrieval Augmentation Reduces Hallucination in Conversation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Kurt Shuster
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite showing increasingly human-like conversational abilities, state-of-the-art dialogue models often suffer from factual incorrectness and hallucination of knowledge (Roller et al., 2020). In this work we explore the use of neural-retrieval-in-the-loop architectures - recently shown to be effective in open-domain QA (Lewis et al., 2020b; Izacard and Grave, 2020) - for knowledge-grounded dialogue, a task that is arguably more challenging as it requires querying based on complex multi-turn dialogue context and generating conversationally coherent responses. We study various types of architectures with multiple components - retrievers, rankers, and encoder-decoders - with the goal of maximizing knowledgeability while retaining conversational ability. We demonstrate that our best models obtain state-of-the-art performance on two knowledge-grounded conversational tasks. The models exhibit open-domain conversational capabilities, generalize effectively to scenarios not within the training data, and, as verified by human evaluations, substantially reduce the well-known problem of knowledge hallucination in state-of-the-art chatbots.
+Author{1}{Firstname}#=%=#Kurt
+Author{1}{Lastname}#=%=#Shuster
+Author{1}{Username}#=%=#kshuster
+Author{1}{Email}#=%=#kshuster@fb.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Spencer
+Author{2}{Lastname}#=%=#Poff
+Author{2}{Username}#=%=#spencerpoff
+Author{2}{Email}#=%=#spoff@fb.com
+Author{2}{Affiliation}#=%=#Facebook AI Research
+Author{3}{Firstname}#=%=#Moya
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#mpchen
+Author{3}{Email}#=%=#mpchen@fb.com
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Douwe
+Author{4}{Lastname}#=%=#Kiela
+Author{4}{Username}#=%=#douwe.kiela
+Author{4}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{4}{Affiliation}#=%=#Facebook
+Author{5}{Firstname}#=%=#Jason
+Author{5}{Lastname}#=%=#Weston
+Author{5}{Username}#=%=#jaseweston
+Author{5}{Email}#=%=#jaseweston@gmail.com
+Author{5}{Affiliation}#=%=#Facebook
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3282
+FinalPaperTitle#=%=#Data Augmentation for Cross-Domain Named Entity Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shuguang Chen
+JobTitle#==#
+Organization#==#University of Houston
+4800 Calhoun Rd, Houston, TX 77004
+Abstract#==#Current work in named entity recognition (NER) shows that data augmentation techniques can produce more robust models. However, most existing techniques focus on augmenting in-domain data in low-resource scenarios where annotated data is quite limited. In this work, we take this research direction to the opposite and study cross-domain data augmentation for the NER task. We investigate the possibility of leveraging data from high-resource domains by projecting it into the low-resource domains. Specifically, we propose a novel neural architecture to transform the data representation from a high-resource to a low-resource domain by learning the patterns (e.g. style, noise, abbreviations, etc.) in the text that differentiate them and a shared feature space where both domains are aligned. We experiment with diverse datasets and show that transforming the data to the low-resource domain representation achieves significant improvements over only using data from high-resource domains.
+Author{1}{Firstname}#=%=#Shuguang
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#sgchen
+Author{1}{Email}#=%=#sgchen.cs@gmail.com
+Author{1}{Affiliation}#=%=#University of Houston
+Author{2}{Firstname}#=%=#Gustavo
+Author{2}{Lastname}#=%=#Aguilar
+Author{2}{Username}#=%=#gaguilar
+Author{2}{Email}#=%=#gustavoaguilar91@gmail.com
+Author{2}{Affiliation}#=%=#University of Houston
+Author{3}{Firstname}#=%=#Leonardo
+Author{3}{Lastname}#=%=#Neves
+Author{3}{Username}#=%=#lrmneves
+Author{3}{Email}#=%=#lneves@snapchat.com
+Author{3}{Affiliation}#=%=#Snap Research
+Author{4}{Firstname}#=%=#Thamar
+Author{4}{Lastname}#=%=#Solorio
+Author{4}{Username}#=%=#solorio
+Author{4}{Email}#=%=#thamar.solorio@gmail.com
+Author{4}{Affiliation}#=%=#University of Houston
+
+==========

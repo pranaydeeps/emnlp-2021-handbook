@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3212
+FinalPaperTitle#=%=#A Computational Exploration of Pejorative Language in Social Media
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marcos Zampieri
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper we study pejorative language, an under-explored topic in computational linguistics. Unlike existing models of offensive language and hate speech, pejorative language manifests itself primarily at the lexical level, and describes a word that is used with a negative connotation, making it different from offensive language or other more studied categories. Pejorativity is also context-dependent: the same word can be used with or without pejorative connotations, thus pejorativity detection is essentially a problem similar to word sense disambiguation. We leverage online dictionaries to build a multilingual lexicon of pejorative terms for English, Spanish, Italian, and Romanian. We additionally release a dataset of tweets annotated for pejorative use. Based on these resources, we present an analysis of the usage and occurrence of pejorative words in social media, and present an attempt to automatically disambiguate pejorative usage in our dataset.
+Author{1}{Firstname}#=%=#Liviu P.
+Author{1}{Lastname}#=%=#Dinu
+Author{1}{Username}#=%=#liviu.p.dinu
+Author{1}{Email}#=%=#liviu.p.dinu@gmail.com
+Author{1}{Affiliation}#=%=#University of Bucharest
+Author{2}{Firstname}#=%=#Ioan-Bogdan
+Author{2}{Lastname}#=%=#Iordache
+Author{2}{Username}#=%=#iordache.bogdan
+Author{2}{Email}#=%=#iordache.bogdan1998@gmail.com
+Author{2}{Affiliation}#=%=#University of Bucharest
+Author{3}{Firstname}#=%=#Ana Sabina
+Author{3}{Lastname}#=%=#Uban
+Author{3}{Username}#=%=#anauban
+Author{3}{Email}#=%=#ana.uban@gmail.com
+Author{3}{Affiliation}#=%=#Universitat Politecnica de Valencia, University of Bucharest
+Author{4}{Firstname}#=%=#Marcos
+Author{4}{Lastname}#=%=#Zampieri
+Author{4}{Username}#=%=#marcoszampieri
+Author{4}{Email}#=%=#mazgla@rit.edu
+Author{4}{Affiliation}#=%=#Rochester Institute of Technology
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#4459
+FinalPaperTitle#=%=#Beyond Glass-Box Features: Uncertainty Quantification Enhanced Quality Estimation for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ke Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Quality Estimation (QE) plays an essential role in applications of Machine Translation (MT). Traditionally, a QE system accepts the original source text and translation from a black-box MT system as input. Recently, a few studies indicate that as a by-product of translation, QE benefits from the model and training data's information of the MT system where the translations come from, and it is called the "glass-box QE". In this paper, we extend the definition of "glass-box QE" generally to uncertainty quantification with both "black-box" and "glass-box" approaches and design several features deduced from them to blaze a new trial in improving QE's performance. We propose a framework to fuse the feature engineering of uncertainty quantification into a pre-trained cross-lingual language model to predict the translation quality. Experiment results show that our method achieves state-of-the-art performances on the datasets of WMT 2020 QE shared task.
+Author{1}{Firstname}#=%=#Ke
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#porkw
+Author{1}{Email}#=%=#moyu.wk@alibaba-inc.com
+Author{1}{Affiliation}#=%=#Alibaba Group
+Author{2}{Firstname}#=%=#Yangbin
+Author{2}{Lastname}#=%=#Shi
+Author{2}{Username}#=%=#shiyangbin
+Author{2}{Email}#=%=#shiyangbinxixi@163.com
+Author{2}{Affiliation}#=%=#College of Computer Science, Zhejiang University & Alibaba Group
+Author{3}{Firstname}#=%=#Jiayi
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#jwang214
+Author{3}{Email}#=%=#joanne.wjy@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Yuqi
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#yuqi.zhang
+Author{4}{Email}#=%=#zhang_yuqi2003@hotmail.com
+Author{4}{Affiliation}#=%=#Alibaba inc.
+Author{5}{Firstname}#=%=#Yu
+Author{5}{Lastname}#=%=#Zhao
+Author{5}{Username}#=%=#kongyu
+Author{5}{Email}#=%=#kongyu@alibaba-inc.com
+Author{5}{Affiliation}#=%=#Alibaba Group
+Author{6}{Firstname}#=%=#Xiaolin
+Author{6}{Lastname}#=%=#Zheng
+Author{6}{Username}#=%=#xlzheng
+Author{6}{Email}#=%=#xlzheng@zju.edu.cn
+Author{6}{Affiliation}#=%=#Zhejiang University
+
+==========

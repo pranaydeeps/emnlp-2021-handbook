@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#365
+FinalPaperTitle#=%=#To be Closer: Learning to Link up Aspects with Opinions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuxiang Zhou
+JobTitle#==#
+Organization#==#Beijing Institute of Technology, 5 Zhongguancun St, Haidian District, China, 100811
+Abstract#==#Dependency parse trees are helpful for discovering the opinion words in aspect-based sentiment analysis (ABSA)~\cite{huang2019syntax}.
+However, the trees obtained from off-the-shelf dependency parsers are static, and could be sub-optimal in ABSA. 
+This is because the syntactic trees are not designed for capturing the interactions between opinion words and aspect words.
+In this work, we aim to shorten the distance between aspects and corresponding opinion words by learning an aspect-centric tree structure.
+The aspect and opinion words are expected to be closer along such tree structure compared to the standard dependency parse tree.
+The learning process allows the tree structure to adaptively correlate the aspect and opinion words, enabling us to better identify the polarity in the ABSA task.
+We conduct experiments on five aspect-based sentiment datasets, and the proposed model significantly outperforms recent strong baselines.
+Furthermore, our thorough analysis demonstrates the average distance between aspect and opinion words are shortened by at least 19\% on the standard SemEval Restaurant14~\citep{Pontiki2014SemEval2014T4} dataset.
+Author{1}{Firstname}#=%=#Yuxiang
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#zhouyx
+Author{1}{Email}#=%=#yxzhou@bit.edu.cn
+Author{1}{Affiliation}#=%=#Beijing Institute of Technology
+Author{2}{Firstname}#=%=#Lejian
+Author{2}{Lastname}#=%=#Liao
+Author{2}{Username}#=%=#liaolj
+Author{2}{Email}#=%=#liaolj@bit.edu.cn
+Author{2}{Affiliation}#=%=#Beijing Institute of Technology
+Author{3}{Firstname}#=%=#Yang
+Author{3}{Lastname}#=%=#Gao
+Author{3}{Username}#=%=#gyang
+Author{3}{Email}#=%=#gyang@bit.edu.cn
+Author{3}{Affiliation}#=%=#Beijing Institute of Technology
+Author{4}{Firstname}#=%=#Zhanming
+Author{4}{Lastname}#=%=#Jie
+Author{4}{Username}#=%=#allanjie
+Author{4}{Email}#=%=#allan@bytedance.com
+Author{4}{Affiliation}#=%=#ByteDance AI Lab
+Author{5}{Firstname}#=%=#Wei
+Author{5}{Lastname}#=%=#Lu
+Author{5}{Username}#=%=#luwei
+Author{5}{Email}#=%=#luweinlp@gmail.com
+Author{5}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

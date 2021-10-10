@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#2938
+FinalPaperTitle#=%=#Exploiting Twitter as Source of Large Corpora of Weakly Similar Pairs for Semantic Sentence Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Marco Di Giovanni
+JobTitle#==#
+Organization#==#Politecnico di Milano, Via Giuseppe Ponzio, 34, 20133 Milano MI
+Abstract#==#Semantic sentence embeddings are usually supervisedly built minimizing distances between pairs of embeddings of sentences labelled as semantically similar by annotators. Since big labelled datasets are rare, in particular for non-English languages, and expensive, recent studies focus on unsupervised approaches that require not-paired input sentences. 
+We instead propose a language-independent approach to build large datasets of pairs of informal texts weakly similar, without manual human effort, exploiting Twitter's intrinsic powerful signals of relatedness: replies and quotes of tweets. 
+We use the collected pairs to train a Transformer model with triplet-like structures, and we test the generated embeddings on Twitter NLP similarity tasks (PIT and TURL) and STSb. 
+We also introduce four new sentence ranking evaluation benchmarks of informal texts, carefully extracted from the initial collections of tweets, proving not only that our best model learns classical Semantic Textual Similarity, but also excels on tasks where pairs of sentences are not exact paraphrases. 
+Ablation studies reveal how increasing the corpus size influences positively the results, even at 2M samples, suggesting that bigger collections of Tweets still do not contain redundant information about semantic similarities. Code available at https://github.com/marco-digio/Twitter4SSE
+Author{1}{Firstname}#=%=#Marco
+Author{1}{Lastname}#=%=#Di Giovanni
+Author{1}{Username}#=%=#marcodigiovanni
+Author{1}{Email}#=%=#marco.digiovanni@polimi.it
+Author{1}{Affiliation}#=%=#Politecnico di Milano
+Author{2}{Firstname}#=%=#Marco
+Author{2}{Lastname}#=%=#Brambilla
+Author{2}{Username}#=%=#marco.brambilla
+Author{2}{Email}#=%=#marco.brambilla@polimi.it
+Author{2}{Affiliation}#=%=#Politecnico di Milano
+
+==========

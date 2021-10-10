@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#GANDALF: a General Character Name Description Dataset for Long Fiction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Fredrik Carlsson
+JobTitle#==#
+Organization#==#RISE, Isafjordsgatan 22, 164 40 Kista, Sweden
+Abstract#==#This paper introduces a long-range multiple-choice Question Answering (QA) dataset, based on full-length fiction book texts. The questions are formulated as 10-way multiple-choice questions, where the task is to select the correct character name given a character description, or vice-versa. 
+Each character description is formulated in natural text and often contains information from several sections throughout the book.
+We provide 20,000 questions created from 10,000 manually annotated descriptions of characters from 177 books containing 152,917 words on average. 
+We address the current discourse regarding dataset bias and leakage by a simple anonymization procedure, which in turn enables interesting probing possibilities.
+Finally, we show that suitable baseline algorithms perform very poorly on this task, with the book size itself making it non-trivial to attempt a Transformer-based QA solution. 
+This leaves ample room for future improvement, and hints at the need for a completely different type of solution.
+Author{1}{Firstname}#=%=#Fredrik
+Author{1}{Lastname}#=%=#Carlsson
+Author{1}{Username}#=%=#freddefrallan
+Author{1}{Email}#=%=#fredrik.carlsson@ri.se
+Author{1}{Affiliation}#=%=#Research Institute of Sweden
+Author{2}{Firstname}#=%=#Magnus
+Author{2}{Lastname}#=%=#Sahlgren
+Author{2}{Username}#=%=#mange
+Author{2}{Email}#=%=#magnus.sahlgren@ri.se
+Author{2}{Affiliation}#=%=#RISE
+Author{3}{Firstname}#=%=#Fredrik
+Author{3}{Lastname}#=%=#Olsson
+Author{3}{Username}#=%=#fredriko
+Author{3}{Email}#=%=#fredrik.olsson@gmail.com
+Author{3}{Affiliation}#=%=#RISE, Research Institutes of Sweden
+Author{4}{Firstname}#=%=#Amaru
+Author{4}{Lastname}#=%=#Cuba Gyllensten
+Author{4}{Username}#=%=#amaru.cuba
+Author{4}{Email}#=%=#amaru.cuba.gyllensten@ri.se
+Author{4}{Affiliation}#=%=#RISE
+
+==========

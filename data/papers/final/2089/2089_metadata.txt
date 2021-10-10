@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#2089
+FinalPaperTitle#=%=#Paraphrasing Compound Nominalizations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#John S. Y. Lee
+JobTitle#==#
+Organization#==#City University of Hong Kong, Tat Chee Avenue, Kowloon, Hong Kong.
+Abstract#==#A nominalization uses a deverbal noun to describe an event associated with its underlying verb.  Commonly found in academic and formal texts, nominalizations can be difficult to interpret because of ambiguous semantic relations between the deverbal noun and its arguments.  Our goal is to interpret nominalizations by generating clausal paraphrases.  We address compound nominalizations with both nominal and adjectival modifiers, as well as prepositional phrases.   In evaluations on a number of unsupervised methods, we obtained the strongest performance by using a pre-trained contextualized language model to re-rank paraphrase candidates identified by a textual entailment model.
+Author{1}{Firstname}#=%=#John
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#jsylee
+Author{1}{Email}#=%=#jsylee@cityu.edu.hk
+Author{1}{Affiliation}#=%=#City University of Hong Kong
+Author{2}{Firstname}#=%=#Ho Hung
+Author{2}{Lastname}#=%=#Lim
+Author{2}{Email}#=%=#hhlim3@cityu.edu.hk
+Author{2}{Affiliation}#=%=#City University of Hong Kong
+Author{3}{Firstname}#=%=#Carol
+Author{3}{Lastname}#=%=#Webster
+Author{3}{Username}#=%=#carolwebster
+Author{3}{Email}#=%=#carolwebster2@gmail.com
+Author{3}{Affiliation}#=%=#Macquarie University
+
+==========

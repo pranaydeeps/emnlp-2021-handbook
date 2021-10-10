@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3451
+FinalPaperTitle#=%=#Efficient Inference for Multilingual Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Alexandre Berard
+JobTitle#==#
+Organization#==#NAVER LABS Europe
+Meylan, France
+Abstract#==#Multilingual NMT has become an attractive solution for MT deployment in production. But to match bilingual quality, it comes at the cost of larger and slower models. In this work, we consider several ways to make multilingual NMT faster at inference without degrading its quality. We experiment with several "light decoder" architectures in two 20-language multi-parallel settings: small-scale on TED Talks and large-scale on ParaCrawl. Our experiments demonstrate that combining a shallow decoder with vocabulary filtering leads to almost 2 times faster inference with no loss in translation quality. We validate our findings with BLEU and chrF (on 380 language pairs), robustness evaluation and human evaluation.
+Author{1}{Firstname}#=%=#Alexandre
+Author{1}{Lastname}#=%=#Berard
+Author{1}{Username}#=%=#aberard
+Author{1}{Email}#=%=#alexandre.berard@naverlabs.com
+Author{1}{Affiliation}#=%=#Naver Labs Europe
+Author{2}{Firstname}#=%=#Dain
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#dain.l@navercorp.com
+Author{2}{Affiliation}#=%=#Naver
+Author{3}{Firstname}#=%=#Stephane
+Author{3}{Lastname}#=%=#Clinchant
+Author{3}{Username}#=%=#sclincha
+Author{3}{Email}#=%=#stephane.clinchant@naverlabs.com
+Author{3}{Affiliation}#=%=#Naver Labs Europe
+Author{4}{Firstname}#=%=#Kweonwoo
+Author{4}{Lastname}#=%=#Jung
+Author{4}{Username}#=%=#kweonwooj
+Author{4}{Email}#=%=#kweonwoo.jung@navercorp.com
+Author{4}{Affiliation}#=%=#Naver
+Author{5}{Firstname}#=%=#Vassilina
+Author{5}{Lastname}#=%=#Nikoulina
+Author{5}{Username}#=%=#vassilina
+Author{5}{Email}#=%=#vassilina.nikoulina@naverlabs.com
+Author{5}{Affiliation}#=%=#Naver Labs Europe
+
+==========

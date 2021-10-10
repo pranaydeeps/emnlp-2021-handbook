@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#229
+FinalPaperTitle#=%=#TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xianming Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Joint extraction of entities and relations from unstructured texts to form factual triples is a fundamental task of constructing a Knowledge Base (KB). A common method is to decode triples by predicting entity pairs to obtain the corresponding relation.
+However, it is still challenging to handle this task efficiently, especially for the overlapping triple problem.
+To address such a problem, this paper proposes a novel efficient entities and relations extraction model called \textbf{TDEER}, which stands for \textbf{T}ranslating \textbf{D}ecoding Schema for Joint \textbf{E}xtraction of \textbf{E}ntities and \textbf{R}elations.
+Unlike the common approaches, the proposed translating decoding schema regards the relation as a translating operation from subject to objects, i.e., TDEER decodes triples as $subject + relation \rightarrow objects$. TDEER can naturally handle the overlapping triple problem,  because the translating decoding schema can recognize all possible triples, including overlapping and non-overlapping triples.
+To enhance model robustness, we introduce negative samples to alleviate error accumulation at different stages.
+Extensive experiments on public datasets demonstrate that TDEER produces competitive results compared with the state-of-the-art (SOTA) baselines. Furthermore, the computation complexity analysis indicates that TDEER is more efficient than powerful baselines. Especially, the proposed TDEER is 2 times faster than the recent SOTA models. The code is available at \url{https://github.com/4AI/TDEER}.
+Author{1}{Firstname}#=%=#Xianming
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#xianmingli
+Author{1}{Email}#=%=#niming.lxm@antgroup.com
+Author{1}{Affiliation}#=%=#Ant Group
+Author{2}{Firstname}#=%=#Xiaotian
+Author{2}{Lastname}#=%=#Luo
+Author{2}{Username}#=%=#luoxiaotian
+Author{2}{Email}#=%=#lxt267638@antgroup.com
+Author{2}{Affiliation}#=%=#Ant Group
+Author{3}{Firstname}#=%=#Chenghao
+Author{3}{Lastname}#=%=#Dong
+Author{3}{Username}#=%=#chenghao.dong
+Author{3}{Email}#=%=#dch166451@antgroup.com
+Author{3}{Affiliation}#=%=#Ant Group
+Author{4}{Firstname}#=%=#Daichuan
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Username}#=%=#daichuanyang
+Author{4}{Email}#=%=#daichuan.ydc@antgroup.com
+Author{4}{Affiliation}#=%=#AntGroup
+Author{5}{Firstname}#=%=#Beidi
+Author{5}{Lastname}#=%=#Luan
+Author{5}{Username}#=%=#beidi
+Author{5}{Email}#=%=#beidi.lbd@antgroup.com
+Author{5}{Affiliation}#=%=#Ant Group
+Author{6}{Firstname}#=%=#Zhen
+Author{6}{Lastname}#=%=#He
+Author{6}{Username}#=%=#hezhen
+Author{6}{Email}#=%=#hezhen@88.com
+Author{6}{Affiliation}#=%=#Ant Group
+
+==========

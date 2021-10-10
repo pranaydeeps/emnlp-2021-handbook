@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2880
+FinalPaperTitle#=%=#Constructing Emotional Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lei Shen
+JobTitle#==#
+Organization#==#Institute of Computing Technology, Chinese Academy of Sciences  &  University of Chinese Academy of Sciences
+Abstract#==#Researches on dialogue empathy aim to endow an agent with the capacity of accurate understanding and proper responding for emotions. Existing models for empathetic dialogue generation focus on the emotion flow in one direction, that is, from the context to response. We argue that conducting an empathetic conversation is a bidirectional process, where empathy occurs when the emotions of two interlocutors could converge on the same point, i.e., reaching an emotional consensus. Besides, we also find that the empathetic dialogue corpus is extremely limited, which further restricts the model performance. To address the above issues, we propose a dual-generative model, Dual-Emp, to simultaneously construct the emotional consensus and utilize some external unpaired data. Specifically, our model integrates a forward dialogue model, a backward dialogue model, and a discrete latent variable representing the emotional consensus into a unified architecture. Then, to alleviate the constraint of paired data, we extract unpaired emotional data from open-domain conversations and employ Dual-Emp to produce pseudo paired empathetic samples, which is more efficient and low-cost than the human annotation. Automatic and human evaluations demonstrate that our method outperforms competitive baselines in producing coherent and empathetic responses.
+Author{1}{Firstname}#=%=#Lei
+Author{1}{Lastname}#=%=#Shen
+Author{1}{Username}#=%=#victoriashin
+Author{1}{Email}#=%=#shenlei17z@ict.ac.cn
+Author{1}{Affiliation}#=%=#Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Jinchao
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zhangjinchao
+Author{2}{Email}#=%=#dayerzhang@tencent.com
+Author{2}{Affiliation}#=%=#Pattern Recognition Center, WeChat AI, Tencent
+Author{3}{Firstname}#=%=#Jiao
+Author{3}{Lastname}#=%=#Ou
+Author{3}{Username}#=%=#perhaps9329
+Author{3}{Email}#=%=#oujiao17b@ict.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Xiaofang
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Username}#=%=#zhaoxiaofang
+Author{4}{Email}#=%=#zhaoxf@ict.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Computing Technology, Academy of Science
+Author{5}{Firstname}#=%=#Jie
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Username}#=%=#jerryitp
+Author{5}{Email}#=%=#withtomzhou@tencent.com
+Author{5}{Affiliation}#=%=#Tencent Inc.
+
+==========

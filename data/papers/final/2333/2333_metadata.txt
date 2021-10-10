@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2333
+FinalPaperTitle#=%=#An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Kijong Han
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-turn response selection models have recently shown comparable performance to humans in several benchmark datasets. However, in the real environment, these models often have weaknesses, such as making incorrect predictions based heavily on superficial patterns without a comprehensive understanding of the context. For example, these models often give a high score to the wrong response candidate containing several keywords related to the context but using the inconsistent tense. In this study, we analyze the weaknesses of the open-domain Korean Multi-turn response selection models and publish an adversarial dataset to evaluate these weaknesses. We also suggest a strategy to build a robust model in this adversarial environment.
+Author{1}{Firstname}#=%=#Kijong
+Author{1}{Lastname}#=%=#Han
+Author{1}{Username}#=%=#han0ah92
+Author{1}{Email}#=%=#mat.h@kakaoenterprise.com
+Author{1}{Affiliation}#=%=#Kakao Enterprise
+Author{2}{Firstname}#=%=#Seojin
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Username}#=%=#seojin
+Author{2}{Email}#=%=#akinubis@gmail.com
+Author{2}{Affiliation}#=%=#SKTelecom
+Author{3}{Firstname}#=%=#Dong-hun
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#hubert-std
+Author{3}{Email}#=%=#hubert.std@kakaoenterprise.com
+Author{3}{Affiliation}#=%=#Kakaoenterprise
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#802
+FinalPaperTitle#=%=#Towards Automatic Evaluation of Dialog Systems: A Model-Free Off-Policy Evaluation Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#33
+CopyrightSigned#=%=#Haoming Jiang
+JobTitle#==#
+Organization#==#
+Abstract#==#Reliable automatic evaluation of dialogue systems under an interactive environment has long been overdue. An ideal environment for evaluating dialog systems, also known as the Turing test, needs to involve human interaction, which is usually not affordable for large-scale experiments. Though researchers have attempted to use metrics for language generation tasks (e.g., perplexity, BLEU) or some model-based reinforcement learning methods (e.g., self-play evaluation) for automatic evaluation, these methods only show very weak correlation with the actual human evaluation in practice. To bridge such a gap, we propose a new framework named ENIGMA for estimating human evaluation scores based on recent advances of off-policy evaluation in reinforcement learning. ENIGMA only requires a handful of pre-collected experience data, and therefore does not involve human interaction with the target policy during the evaluation, making automatic evaluations feasible. More importantly, ENIGMA is model-free and agnostic to the behavior policies for collecting the experience data, which significantly alleviates the technical difficulties of modeling complex dialogue environments and human behaviors. Our experiments show that ENIGMA significantly outperforms existing methods in terms of correlation with human evaluation scores.
+Author{1}{Firstname}#=%=#Haoming
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Username}#=%=#hjiang98
+Author{1}{Email}#=%=#jianghm@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Bo
+Author{2}{Lastname}#=%=#Dai
+Author{2}{Username}#=%=#bodai
+Author{2}{Email}#=%=#bodai@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Mengjiao
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Username}#=%=#sherryy
+Author{3}{Email}#=%=#sherryy@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Tuo
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Username}#=%=#tourzhao
+Author{4}{Email}#=%=#tourzhao@gatech.edu
+Author{4}{Affiliation}#=%=#Georgia Tech
+Author{5}{Firstname}#=%=#Wei
+Author{5}{Lastname}#=%=#Wei
+Author{5}{Username}#=%=#soul1987
+Author{5}{Email}#=%=#wewei@google.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

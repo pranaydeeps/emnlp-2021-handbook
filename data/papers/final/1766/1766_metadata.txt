@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1766
+FinalPaperTitle#=%=#Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Tiezheng Yu
+JobTitle#==#
+Organization#==#Hong Kong University of Science and Technology, clear Water Bay, Hong Kong
+Abstract#==#Multimodal abstractive summarization (MAS) models that summarize videos (vision modality) and their corresponding transcripts (text modality) are able to extract the essential information from massive multimodal data on the Internet. Recently, large-scale generative pre-trained language models (GPLMs) have been shown to be effective in text generation tasks. However, existing MAS models cannot leverage GPLMs' powerful generation ability. To fill this research gap, we aim to study two research questions: 1) how to inject visual information into GPLMs without hurting their generation ability; and 2) where is the optimal place in GPLMs to inject the visual information? In this paper, we present a simple yet effective method to construct vision guided (VG) GPLMs for the MAS task using attention-based add-on layers to incorporate visual information while maintaining their original text generation ability. 
+Results show that our best model significantly surpasses the prior state-of-the-art model by 5.7 ROUGE-1, 5.3 ROUGE-2, and 5.1 ROUGE-L scores on the How2 dataset, and our vision guidance method contributes 83.6% of the overall improvement. Furthermore, we conduct thorough ablation studies to analyze the effectiveness of various modality fusion methods and fusion locations.
+Author{1}{Firstname}#=%=#Tiezheng
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#yutiezheng
+Author{1}{Email}#=%=#tyuah@connect.ust.hk
+Author{1}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Wenliang
+Author{2}{Lastname}#=%=#Dai
+Author{2}{Username}#=%=#wdaiai
+Author{2}{Email}#=%=#wdaiai@connect.ust.hk
+Author{2}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{3}{Firstname}#=%=#Zihan
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#zihanliu
+Author{3}{Email}#=%=#zliucr@connect.ust.hk
+Author{3}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{4}{Firstname}#=%=#Pascale
+Author{4}{Lastname}#=%=#Fung
+Author{4}{Username}#=%=#pascale
+Author{4}{Email}#=%=#pascale@ece.ust.hk
+Author{4}{Affiliation}#=%=#Hong Kong University of Science and Technology
+
+==========

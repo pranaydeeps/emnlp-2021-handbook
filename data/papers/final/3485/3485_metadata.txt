@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3485
+FinalPaperTitle#=%=#Parameter-Efficient Domain Knowledge Integration from Multiple Sources for Biomedical Pre-trained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Qiuhao Lu
+JobTitle#==#
+Organization#==#
+Abstract#==#Domain-specific pre-trained language models (PLMs) have achieved great success over various downstream tasks in different domains. However, existing domain-specific PLMs mostly rely on self-supervised learning over large amounts of domain text, without explicitly integrating domain-specific knowledge, which can be essential in many domains. Moreover, in knowledge-sensitive areas such as the biomedical domain, knowledge is stored in multiple sources and formats, and existing biomedical PLMs either neglect them or utilize them in a limited manner. In this work, we introduce an architecture to integrate domain knowledge from diverse sources into PLMs in a parameter-efficient way. More specifically, we propose to encode domain knowledge via \textit{adapters}, which are small bottleneck feed-forward networks inserted between intermediate transformer layers in PLMs. These knowledge adapters are pre-trained for individual domain knowledge sources and integrated via an attention-based knowledge controller to enrich PLMs. Taking the biomedical domain as a case study, we explore three knowledge-specific adapters for PLMs based on the UMLS Metathesaurus graph, the Wikipedia articles for diseases, and the semantic grouping information for biomedical concepts. Extensive experiments on different biomedical NLP tasks and datasets demonstrate the benefits of the proposed architecture and the knowledge-specific adapters across multiple PLMs.
+Author{1}{Firstname}#=%=#Qiuhao
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Username}#=%=#qiuhaolu
+Author{1}{Email}#=%=#luqh@cs.uoregon.edu
+Author{1}{Affiliation}#=%=#University of Oregon
+Author{2}{Firstname}#=%=#Dejing
+Author{2}{Lastname}#=%=#Dou
+Author{2}{Username}#=%=#doubaidu
+Author{2}{Email}#=%=#doudejing@baidu.com
+Author{2}{Affiliation}#=%=#Baidu Research
+Author{3}{Firstname}#=%=#Thien Huu
+Author{3}{Lastname}#=%=#Nguyen
+Author{3}{Username}#=%=#anoperson
+Author{3}{Email}#=%=#thien@cs.uoregon.edu
+Author{3}{Affiliation}#=%=#University of Oregon
+
+==========

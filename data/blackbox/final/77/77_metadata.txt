@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#77
+FinalPaperTitle#=%=#Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Sanchit Sinha
+JobTitle#==#
+Organization#==#
+Abstract#==#Interpretability methods like Integrated Gradient and LIME are popular choices for explaining natural language model predictions with relative word importance scores. These interpretations need to be robust for trustworthy NLP applications in high-stake areas like medicine or finance. Our paper demonstrates how interpretations can be manipulated by making simple word perturbations on an input text. Via a small portion of word-level swaps, these adversarial perturbations aim to make the resulting text semantically and spatially similar to its seed input (therefore sharing similar interpretations). Simultaneously, the generated examples achieve the same prediction label as the seed yet are given a substantially different explanation by the interpretation methods. Our experiments generate fragile interpretations to attack two SOTA interpretation methods, across three popular Transformer models and on three different NLP datasets. We observe that the rank order correlation and top-K intersection score drops by over 20% when less than 10% of words are perturbed on average. Further, rank-order correlation keeps decreasing as more words get perturbed. Furthermore, we demonstrate that candidates generated from our method have good quality metrics.
+Author{1}{Firstname}#=%=#Sanchit
+Author{1}{Lastname}#=%=#Sinha
+Author{1}{Username}#=%=#sanchitsinha
+Author{1}{Email}#=%=#ss7mu@virginia.edu
+Author{1}{Affiliation}#=%=#University of Virginia
+Author{2}{Firstname}#=%=#Hanjie
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#chjhandy1994
+Author{2}{Email}#=%=#hc9mx@virginia.edu
+Author{2}{Affiliation}#=%=#University of Virginia
+Author{3}{Firstname}#=%=#Arshdeep
+Author{3}{Lastname}#=%=#Sekhon
+Author{3}{Username}#=%=#as5cu
+Author{3}{Email}#=%=#as5cu@virginia.edu
+Author{3}{Affiliation}#=%=#University of Virginia
+Author{4}{Firstname}#=%=#Yangfeng
+Author{4}{Lastname}#=%=#Ji
+Author{4}{Username}#=%=#yangfengji
+Author{4}{Email}#=%=#yangfeng@virginia.edu
+Author{4}{Affiliation}#=%=#University of Virginia
+Author{5}{Firstname}#=%=#Yanjun
+Author{5}{Lastname}#=%=#Qi
+Author{5}{Username}#=%=#qiyanjun
+Author{5}{Email}#=%=#qiyanjun2012@gmail.com
+Author{5}{Affiliation}#=%=#Faculty, CS, UVA
+
+==========

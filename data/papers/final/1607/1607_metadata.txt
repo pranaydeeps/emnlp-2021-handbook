@@ -1,0 +1,58 @@
+SubmissionNumber#=%=#1607
+FinalPaperTitle#=%=#Voice Query Auto Completion
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Raphael Tang
+JobTitle#==#
+Organization#==#
+Abstract#==#Query auto completion (QAC) is the task of predicting a search engine user's final query from their intermediate, incomplete query. In this paper, we extend QAC to the streaming voice search setting, where automatic speech recognition systems produce intermediate transcriptions as users speak. Naively applying existing methods fails because the intermediate transcriptions often don't form prefixes or even substrings of the final transcription. To address this issue, we propose to condition QAC approaches on intermediate transcriptions to complete voice queries. We evaluate our models on a speech-enabled smart television with real-life voice search traffic, finding that this ASR-aware conditioning improves the completion quality. Our best method obtains an 18% relative improvement in mean reciprocal rank over previous methods.
+Author{1}{Firstname}#=%=#Raphael
+Author{1}{Lastname}#=%=#Tang
+Author{1}{Username}#=%=#rtang123
+Author{1}{Email}#=%=#r33tang@uwaterloo.ca
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Karun
+Author{2}{Lastname}#=%=#Kumar
+Author{2}{Email}#=%=#karun_kumar@comcast.com
+Author{2}{Affiliation}#=%=#Comcast
+Author{3}{Firstname}#=%=#Kendra
+Author{3}{Lastname}#=%=#Chalkley
+Author{3}{Email}#=%=#kendra_chalkley@comcast.com
+Author{3}{Affiliation}#=%=#Comcast
+Author{4}{Firstname}#=%=#Ji
+Author{4}{Lastname}#=%=#Xin
+Author{4}{Username}#=%=#xinji1996
+Author{4}{Email}#=%=#ji.xin@uwaterloo.ca
+Author{4}{Affiliation}#=%=#University of Waterloo
+Author{5}{Firstname}#=%=#Liming
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#liming_zhang@comcast.com
+Author{5}{Affiliation}#=%=#Comcast
+Author{6}{Firstname}#=%=#Wenyan
+Author{6}{Lastname}#=%=#Li
+Author{6}{Username}#=%=#wenyanli62
+Author{6}{Email}#=%=#wenyan_li@comcast.com
+Author{6}{Affiliation}#=%=#Comcast Applied AI Research Lab
+Author{7}{Firstname}#=%=#Gefei
+Author{7}{Lastname}#=%=#Yang
+Author{7}{Email}#=%=#gefei_yang@comcast.com
+Author{7}{Affiliation}#=%=#Comcast
+Author{8}{Firstname}#=%=#Yajie
+Author{8}{Lastname}#=%=#Mao
+Author{8}{Email}#=%=#yajie_mao@comcast.com
+Author{8}{Affiliation}#=%=#Comcast
+Author{9}{Firstname}#=%=#Junho
+Author{9}{Lastname}#=%=#Shin
+Author{9}{Email}#=%=#junho_shin@comcast.com
+Author{9}{Affiliation}#=%=#Comcast
+Author{10}{Firstname}#=%=#Geoffrey Craig
+Author{10}{Lastname}#=%=#Murray
+Author{10}{Email}#=%=#craig_murray@comcast.com
+Author{10}{Affiliation}#=%=#Comcast
+Author{11}{Firstname}#=%=#Jimmy
+Author{11}{Lastname}#=%=#Lin
+Author{11}{Username}#=%=#jimmylin
+Author{11}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{11}{Affiliation}#=%=#University of Waterloo
+
+==========

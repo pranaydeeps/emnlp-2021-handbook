@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#420
+FinalPaperTitle#=%=#Exploring Task Difficulty for Few-Shot Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jiale Han
+JobTitle#==#
+Organization#==#Beijing University of Posts and Telecommunications, 10 Xitucheng Road, Haidian District, Beijing.
+Abstract#==#Few-shot relation extraction (FSRE) focuses on recognizing novel relations by learning with merely a handful of annotated instances. Meta-learning has been widely adopted for such a task, which trains on randomly generated few-shot tasks to learn generic data representations. Despite impressive results achieved, existing models still perform suboptimally when handling hard FSRE tasks, where the relations are fine-grained and similar to each other. We argue this is largely because existing models do not distinguish hard tasks from easy ones in the learning process. In this paper, we introduce a novel approach based on contrastive learning that learns better representations by exploiting relation label information. We further design a method that allows the model to adaptively learn how to focus on hard tasks. Experiments on two standard datasets demonstrate the effectiveness of our method.
+Author{1}{Firstname}#=%=#Jiale
+Author{1}{Lastname}#=%=#Han
+Author{1}{Username}#=%=#harbor
+Author{1}{Email}#=%=#hanjl@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Bo
+Author{2}{Lastname}#=%=#Cheng
+Author{2}{Username}#=%=#chengboanns
+Author{2}{Email}#=%=#chengbo@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Lu
+Author{3}{Username}#=%=#luwei
+Author{3}{Email}#=%=#luweinlp@gmail.com
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

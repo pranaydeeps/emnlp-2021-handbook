@@ -1,0 +1,65 @@
+SubmissionNumber#=%=#1197
+FinalPaperTitle#=%=#Learning and Evaluating a Differentially Private Pre-trained Language Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Amir Feder
+JobTitle#==#
+Organization#==#Googl, Yigal Alon St 98, Tel Aviv-Yafo, Israel
+Abstract#==#Contextual language models have led to significantly better results, especially when pre-trained on the same data as the downstream task. While this additional pre-training usually improves performance, it can lead to information leakage and therefore risks the privacy of individuals mentioned in the training data. One method to guarantee the privacy of such individuals is to train a differentially-private language model, but this usually comes at the expense of model performance. Also, in the absence of a differentially private vocabulary training, it is not possible to modify the vocabulary to fit the new data, which might further degrade results. In this work we bridge these gaps, and provide guidance to future researchers and practitioners on how to improve privacy while maintaining good model performance. We introduce a novel differentially private word-piece algorithm, which allows training a tailored domain-specific vocabulary while maintaining privacy. We then experiment with entity extraction tasks from clinical notes, and demonstrate how to train a differentially private pre-trained language model (i.e., BERT) with a privacy guarantee of $\epsilon=1.1$ and with only a small degradation in performance. Finally, as it is hard to tell given a privacy parameter $\epsilon$ what was the effect on the trained representation, we present experiments showing that the trained model does not memorize private information.
+Author{1}{Firstname}#=%=#Shlomo
+Author{1}{Lastname}#=%=#Hoory
+Author{1}{Username}#=%=#hoorys
+Author{1}{Email}#=%=#hoorys@gmail.com
+Author{1}{Affiliation}#=%=#Tel-Hai College
+Author{2}{Firstname}#=%=#Amir
+Author{2}{Lastname}#=%=#Feder
+Author{2}{Username}#=%=#amirfeder
+Author{2}{Email}#=%=#amirfeder@gmail.com
+Author{2}{Affiliation}#=%=#Technion - Israel Institute of Technology
+Author{3}{Firstname}#=%=#Avichai
+Author{3}{Lastname}#=%=#Tendler
+Author{3}{Username}#=%=#tendler
+Author{3}{Email}#=%=#tendler@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Sofia
+Author{4}{Lastname}#=%=#Erell
+Author{4}{Username}#=%=#sofiaerell
+Author{4}{Email}#=%=#rovinsky@google.com
+Author{4}{Affiliation}#=%=#google.com
+Author{5}{Firstname}#=%=#Alon
+Author{5}{Lastname}#=%=#Peled-Cohen
+Author{5}{Username}#=%=#aloncohen
+Author{5}{Email}#=%=#dr.alon.cohen@gmail.com
+Author{5}{Affiliation}#=%=#Google
+Author{6}{Firstname}#=%=#Itay
+Author{6}{Lastname}#=%=#Laish
+Author{6}{Username}#=%=#itaylaish
+Author{6}{Email}#=%=#itaylaish@google.com
+Author{6}{Affiliation}#=%=#Google
+Author{7}{Firstname}#=%=#Hootan
+Author{7}{Lastname}#=%=#Nakhost
+Author{7}{Username}#=%=#hootan
+Author{7}{Email}#=%=#hootan@google.com
+Author{7}{Affiliation}#=%=#Google
+Author{8}{Firstname}#=%=#Uri
+Author{8}{Lastname}#=%=#Stemmer
+Author{8}{Username}#=%=#uristemmer
+Author{8}{Email}#=%=#stemmer@google.com
+Author{8}{Affiliation}#=%=#Google Research
+Author{9}{Firstname}#=%=#Ayelet
+Author{9}{Lastname}#=%=#Benjamini
+Author{9}{Username}#=%=#ayeletbenj
+Author{9}{Email}#=%=#ayelet@google.com
+Author{9}{Affiliation}#=%=#Google Inc.
+Author{10}{Firstname}#=%=#Avinatan
+Author{10}{Lastname}#=%=#Hassidim
+Author{10}{Username}#=%=#avinatan
+Author{10}{Email}#=%=#avinatanh@gmail.com
+Author{10}{Affiliation}#=%=#Google
+Author{11}{Firstname}#=%=#Yossi
+Author{11}{Lastname}#=%=#Matias
+Author{11}{Username}#=%=#yossi
+Author{11}{Email}#=%=#yossi@google.com
+Author{11}{Affiliation}#=%=#Google
+
+==========

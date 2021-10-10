@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#Collaborative Data Relabeling for Robust and Diverse Voice Apps Recommendation in Intelligent Personal Assistants
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Qian Hu
+JobTitle#==#
+Organization#==#Alexa AI, Seattle
+Abstract#==#Intelligent personal assistants (IPAs) such as Amazon Alexa, Google Assistant and Apple Siri extend their built-in capabilities by supporting voice apps developed by third-party developers. Sometimes the smart assistant is not able to successfully respond to user voice commands (aka utterances). There are many reasons including automatic speech recognition (ASR) error, natural language understanding (NLU) error, routing utterances to an irrelevant voice app or simply that the user is asking for a capability that is not supported yet. The failure to handle a voice command leads to customer frustration. In this paper, we introduce a fallback skill recommendation system to suggest a voice app to a customer for an unhandled voice command.
+One of the prominent challenges of developing a skill recommender system for IPAs is partial observation. To solve the partial observation problem, we propose collaborative data relabeling (CDR) method. In addition, CDR also improves the diversity of the recommended skills. We evaluate the proposed method both offline and online. The offline evaluation results show that the proposed system outperforms the baselines. The online A/B testing results show significant gain of customer experience metrics.
+Author{1}{Firstname}#=%=#Qian
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Username}#=%=#qianhu
+Author{1}{Email}#=%=#huqia@amazon.com
+Author{1}{Affiliation}#=%=#Amazon.com
+Author{2}{Firstname}#=%=#Thahir
+Author{2}{Lastname}#=%=#Mohamed
+Author{2}{Email}#=%=#thahirm@amazon.com
+Author{2}{Affiliation}#=%=#Amazon AWS
+Author{3}{Firstname}#=%=#Zheng
+Author{3}{Lastname}#=%=#Gao
+Author{3}{Email}#=%=#zhenggao@amazon.com
+Author{3}{Affiliation}#=%=#Amazon Alexa AI
+Author{4}{Firstname}#=%=#Xibin
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Email}#=%=#gxibin@amazon.com
+Author{4}{Affiliation}#=%=#Amazon Alexa AI
+Author{5}{Firstname}#=%=#Radhika
+Author{5}{Lastname}#=%=#Arava
+Author{5}{Email}#=%=#aravar@amazon.com
+Author{5}{Affiliation}#=%=#Amazon Alexa AI
+Author{6}{Firstname}#=%=#Xiyao
+Author{6}{Lastname}#=%=#Ma
+Author{6}{Email}#=%=#maxiya@amazon.com
+Author{6}{Affiliation}#=%=#Amazon Alexa AI
+Author{7}{Firstname}#=%=#Mohamed
+Author{7}{Lastname}#=%=#AbdelHady
+Author{7}{Email}#=%=#mbdeamz@amazon.com
+Author{7}{Affiliation}#=%=#Amazon Alexa AI
+
+==========

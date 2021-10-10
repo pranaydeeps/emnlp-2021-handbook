@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Comparison of methods for explicit discourse connective identification across various domains
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Merel Scholman
+JobTitle#==#
+Organization#==#Saarland University, Saarbruecken, Germany
+Abstract#==#Existing parse methods use varying approaches to identify explicit discourse connectives, but their performance has not been consistently evaluated in comparison to each other, nor have they been evaluated consistently on text other than newspaper articles. 
+We here assess the performance on explicit connective identification of three parse methods (PDTB e2e, Lin et al., 2014; the winner of CONLL2015, Wang et al., 2015; and DisSent, Nie et al., 2019), along with a simple heuristic.
+We also examine how well these systems generalize to different datasets, namely written newspaper text (PDTB), written scientific text (BioDRB), prepared spoken text (TED-MDB) and spontaneous spoken text (Disco-SPICE). 
+The results show that the e2e parser outperforms the other parse methods in all datasets. However, performance drops significantly from the PDTB to all other datasets. 
+We provide a more fine-grained analysis of domain differences and connectives that prove difficult to parse, in order to highlight the areas where gains can be made.
+Author{1}{Firstname}#=%=#Merel
+Author{1}{Lastname}#=%=#Scholman
+Author{1}{Username}#=%=#m.c.j.scholman
+Author{1}{Email}#=%=#m.c.j.scholman@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Tianai
+Author{2}{Lastname}#=%=#Dong
+Author{2}{Email}#=%=#tdong@lst.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Frances
+Author{3}{Lastname}#=%=#Yung
+Author{3}{Email}#=%=#frances@coli.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+Author{4}{Firstname}#=%=#Vera
+Author{4}{Lastname}#=%=#Demberg
+Author{4}{Username}#=%=#vera
+Author{4}{Email}#=%=#vera@coli.uni-saarland.de
+Author{4}{Affiliation}#=%=#Saarland University
+
+==========

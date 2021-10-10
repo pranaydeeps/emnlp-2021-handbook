@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#234
+FinalPaperTitle#=%=#TimeTraveler: Reinforcement Learning for Temporal Knowledge Graph Forecasting
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Haohai Sun
+JobTitle#==#
+Organization#==#
+Abstract#==#Temporal knowledge graph (TKG) reasoning is a crucial task that has gained increasing research interest in recent years. Most existing methods focus on reasoning at past timestamps to complete the missing facts, and there are only a few works of reasoning on known TKGs to forecast future facts. Compared with the completion task, the forecasting task is more difficult that faces two main challenges: (1) how to effectively model the time information to handle future timestamps? (2) how to make inductive inference to handle previously unseen entities that emerge over time? To address these challenges, we propose the first reinforcement learning method for forecasting. Specifically, the agent travels on historical knowledge graph snapshots to search for the answer. Our method defines a relative time encoding function to capture the timespan information, and we design a novel time-shaped reward based on Dirichlet distribution to guide the model learning. Furthermore, we propose a novel representation method for unseen entities to improve the inductive inference ability of the model. We evaluate our method for this link prediction task at future timestamps. Extensive experiments on four benchmark datasets demonstrate substantial performance improvement meanwhile with higher explainability, less calculation, and fewer parameters when compared with existing state-of-the-art methods.
+Author{1}{Firstname}#=%=#Haohai
+Author{1}{Lastname}#=%=#Sun
+Author{1}{Email}#=%=#haohais@hust.edu.cn
+Author{1}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{2}{Firstname}#=%=#Jialun
+Author{2}{Lastname}#=%=#Zhong
+Author{2}{Email}#=%=#zhongjl@hust.edu.cn
+Author{2}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{3}{Firstname}#=%=#Yunpu
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Email}#=%=#cognitive.yunpu@gmail.com
+Author{3}{Affiliation}#=%=#LMU Munich
+Author{4}{Firstname}#=%=#Zhen
+Author{4}{Lastname}#=%=#Han
+Author{4}{Email}#=%=#zhen.han@campus.lmu.de
+Author{4}{Affiliation}#=%=#LMU Munich
+Author{5}{Firstname}#=%=#Kun
+Author{5}{Lastname}#=%=#He
+Author{5}{Username}#=%=#brooklet60
+Author{5}{Email}#=%=#brooklet60@hust.edu.cn
+Author{5}{Affiliation}#=%=#Huazhong University of Science and Technology
+
+==========

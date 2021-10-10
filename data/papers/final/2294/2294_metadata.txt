@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2294
+FinalPaperTitle#=%=#Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jianzhu Bao
+JobTitle#==#
+Organization#==#
+Abstract#==#Argument pair extraction (APE) aims to extract interactive argument pairs from two passages of a discussion. Previous work studied this task in the context of peer review and rebuttal, and decomposed it into a sequence labeling task and a sentence relation classification task. However, despite the promising performance, such an approach obtains the argument pairs implicitly by the two decomposed tasks, lacking explicitly modeling of the argument-level interactions between argument pairs. In this paper, we tackle the APE task by a mutual guidance framework, which could utilize the information of an argument in one passage to guide the identification of arguments that can form pairs with it in another passage. In this manner, two passages can mutually guide each other in the process of APE. Furthermore, we propose an inter-sentence relation graph to effectively model the inter-relations between two sentences and thus facilitates the extraction of argument pairs. Our proposed method can better represent the holistic argument-level semantics and thus explicitly capture the complex correlations between argument pairs. Experimental results show that our approach significantly outperforms the current state-of-the-art model.
+Author{1}{Firstname}#=%=#Jianzhu
+Author{1}{Lastname}#=%=#Bao
+Author{1}{Username}#=%=#baojianzhu
+Author{1}{Email}#=%=#jianzhubao@gmail.com
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{2}{Firstname}#=%=#Bin
+Author{2}{Lastname}#=%=#Liang
+Author{2}{Username}#=%=#akuchi
+Author{2}{Email}#=%=#18B951033@stu.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{3}{Firstname}#=%=#Jingyi
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Username}#=%=#sunjingyi
+Author{3}{Email}#=%=#sunjingyihit@gmail.com
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology,Shenzhen
+Author{4}{Firstname}#=%=#Yice
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#zhang-yice
+Author{4}{Email}#=%=#1454268365@qq.com
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{5}{Firstname}#=%=#Min
+Author{5}{Lastname}#=%=#Yang
+Author{5}{Username}#=%=#mirandayang3
+Author{5}{Email}#=%=#min.yang@siat.ac.cn
+Author{5}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{6}{Firstname}#=%=#Ruifeng
+Author{6}{Lastname}#=%=#Xu
+Author{6}{Username}#=%=#xuruifeng.hitsz
+Author{6}{Email}#=%=#xuruifeng@hit.edu.cn
+Author{6}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+
+==========

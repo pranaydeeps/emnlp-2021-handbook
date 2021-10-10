@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2024
+FinalPaperTitle#=%=#Detecting Speaker Personas from Conversational Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jia-Chen Gu
+JobTitle#==#
+Organization#==#
+Abstract#==#Personas are useful for dialogue response prediction. However, the personas used in current studies are pre-defined and hard to obtain before a conversation. To tackle this issue, we study a new task, named Speaker Persona Detection (SPD), which aims to detect speaker personas based on the plain conversational text. In this task, a best-matched persona is searched out from candidates given the conversational text. This is a many-to-many semantic matching task because both contexts and personas in SPD are composed of multiple sentences. The long-term dependency and the dynamic redundancy among these sentences increase the difficulty of this task. We build a dataset for SPD, dubbed as Persona Match on Persona-Chat (PMPC). Furthermore, we evaluate several baseline models and propose utterance-to-profile (U2P) matching networks for this task. The U2P models operate at a fine granularity which treat both contexts and personas as sets of multiple sequences. Then, each sequence pair is scored and an interpretable overall score is obtained for a context-persona pair through aggregation. Evaluation results show that the U2P models outperform their baseline counterparts significantly.
+Author{1}{Firstname}#=%=#Jia-Chen
+Author{1}{Lastname}#=%=#Gu
+Author{1}{Username}#=%=#iver
+Author{1}{Email}#=%=#gujc@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#University of Science and Technology of China
+Author{2}{Firstname}#=%=#Zhenhua
+Author{2}{Lastname}#=%=#Ling
+Author{2}{Username}#=%=#zhling
+Author{2}{Email}#=%=#zhling@ustc.edu.cn
+Author{2}{Affiliation}#=%=#University of Science and Technology of China
+Author{3}{Firstname}#=%=#Yu
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Username}#=%=#wumark
+Author{3}{Email}#=%=#wumark@126.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia
+Author{4}{Firstname}#=%=#Quan
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#quanliu08
+Author{4}{Email}#=%=#quanliu@ustc.edu.cn
+Author{4}{Affiliation}#=%=#State Key Laboratory of Cognitive Intelligence, iFLYTEK Research, China
+Author{5}{Firstname}#=%=#Zhigang
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Username}#=%=#zgchen
+Author{5}{Email}#=%=#zgchen@iflytek.com
+Author{5}{Affiliation}#=%=#State Key Laboratory of Cognitive Intelligence, iFLYTEK Research, Hefei, China
+Author{6}{Firstname}#=%=#Xiaodan
+Author{6}{Lastname}#=%=#Zhu
+Author{6}{Username}#=%=#zhu2048
+Author{6}{Email}#=%=#zhu2048@gmail.com
+Author{6}{Affiliation}#=%=#Queen's University
+
+==========

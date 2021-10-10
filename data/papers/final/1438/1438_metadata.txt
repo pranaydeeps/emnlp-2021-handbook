@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#1438
+FinalPaperTitle#=%=#Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative Denoising Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Xinghua Zhang
+JobTitle#==#
+Organization#==#Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China
+School of Cyber Security, University of Chinese Academy of Sciences, Beijing, China
+Abstract#==#Distantly supervised named entity recognition (DS-NER) efficiently reduces labor costs but meanwhile intrinsically suffers from the label noise due to the strong assumption of distant supervision.
+Typically, the wrongly labeled instances comprise numbers of incomplete and inaccurate annotations,
+while most prior denoising works are only concerned with one kind of noise and fail to fully explore useful information in the training set. To address this issue, we propose a robust learning paradigm named Self-Collaborative Denoising Learning (SCDL), which jointly trains two teacher-student networks in a mutually-beneficial manner to iteratively perform noisy label refinery. Each network is designed to exploit reliable labels via self denoising, and two networks communicate with each other to explore unreliable annotations by collaborative denoising. Extensive experimental results on five real-world datasets demonstrate that SCDL is superior to state-of-the-art DS-NER denoising methods.
+Author{1}{Firstname}#=%=#Xinghua
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zhangxinghua_iie
+Author{1}{Email}#=%=#zhangxinghua@iie.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Bowen
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Username}#=%=#yubowen
+Author{2}{Email}#=%=#yubowen@iie.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Tingwen
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#ltw5253
+Author{3}{Email}#=%=#liutingwen@iie.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Zhenyu
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#zhenyu
+Author{4}{Email}#=%=#zhangzhenyu1996@iie.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Jiawei
+Author{5}{Lastname}#=%=#Sheng
+Author{5}{Username}#=%=#shengjiawei
+Author{5}{Email}#=%=#shengjiawei@iie.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{6}{Firstname}#=%=#Xue
+Author{6}{Lastname}#=%=#Mengge
+Author{6}{Username}#=%=#strawberry
+Author{6}{Email}#=%=#xuemengge@iie.ac.cn
+Author{6}{Affiliation}#=%=#Institute of Information Engineering，Chinese Academy of Sciences
+Author{7}{Firstname}#=%=#Hongbo
+Author{7}{Lastname}#=%=#Xu
+Author{7}{Username}#=%=#hbxu
+Author{7}{Email}#=%=#hbxu@iie.ac.cn
+Author{7}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+
+==========

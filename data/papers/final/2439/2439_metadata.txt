@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#2439
+FinalPaperTitle#=%=#Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Weizhe Lin
+JobTitle#==#
+Organization#==#Department of Engineering, University of Cambridge
+Trumpington Street, Cambridge CB2 1PZ
+Abstract#==#Dialogue State Tracking is central to multi-domain task-oriented dialogue systems, responsible for extracting information from user utterances. We present a novel hybrid architecture that augments GPT-2 with representations derived from Graph Attention Networks in such a way to allow causal, sequential prediction of slot values. The model architecture captures inter-slot relationships and dependencies across domains that otherwise can be lost in sequential prediction. We report improvements in state tracking performance in MultiWOZ 2.0 against a strong GPT-2 baseline and investigate a simplified sparse training scenario in which DST models are trained only on session-level annotations but evaluated at the turn level. We further report detailed analyses to demonstrate the effectiveness of graph models in DST by showing that the proposed graph modules capture inter-slot dependencies and improve the predictions of values that are common to multiple domains.
+Author{1}{Firstname}#=%=#Weizhe
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#linweizhedragon
+Author{1}{Email}#=%=#wl356@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Bo-Hsiang
+Author{2}{Lastname}#=%=#Tseng
+Author{2}{Username}#=%=#andy194673
+Author{2}{Email}#=%=#bht26@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Bill
+Author{3}{Lastname}#=%=#Byrne
+Author{3}{Username}#=%=#wjb31
+Author{3}{Email}#=%=#bill.byrne@eng.cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

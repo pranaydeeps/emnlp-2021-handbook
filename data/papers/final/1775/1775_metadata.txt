@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1775
+FinalPaperTitle#=%=#Different Strokes for Different Folks: Investigating Appropriate Further Pre-training Approaches for Diverse Dialogue Tasks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yao Qiu
+JobTitle#==#
+Organization#==#Pattern Recognition Center, WeChat AI, Tencent Inc, China
+Abstract#==#Loading models pre-trained on the large-scale corpus in the general domain and fine-tuning them on specific downstream tasks is gradually becoming a paradigm in Natural Language Processing.  
+Previous investigations prove that introducing a further pre-training phase between pre-training and fine-tuning phases to adapt the model on the domain-specific unlabeled data can bring positive effects.
+However, most of these further pre-training works just keep running the conventional pre-training task, e.g., masked language model, which can be regarded as the domain adaptation to bridge the data distribution gap.
+After observing diverse downstream tasks, we suggest that different tasks may also need a further pre-training phase with appropriate training tasks to bridge the task formulation gap. 
+To investigate this, we carry out a study for improving multiple task-oriented dialogue downstream tasks through designing various tasks at the further pre-training phase.
+The experiment shows that different downstream tasks prefer different further pre-training tasks, which have intrinsic correlation and most further pre-training tasks significantly improve certain target tasks rather than all. 
+Our investigation indicates that it is of great importance and effectiveness to design appropriate further pre-training tasks modeling specific information that benefit downstream tasks.
+Besides, we present multiple constructive empirical conclusions for enhancing task-oriented dialogues.
+Author{1}{Firstname}#=%=#Yao
+Author{1}{Lastname}#=%=#Qiu
+Author{1}{Username}#=%=#qiuyao
+Author{1}{Email}#=%=#yasinqiu@tencent.com
+Author{1}{Affiliation}#=%=#Pattern Recognition Center, WeChat AI, Tencent
+Author{2}{Firstname}#=%=#Jinchao
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zhangjinchao
+Author{2}{Email}#=%=#dayerzhang@tencent.com
+Author{2}{Affiliation}#=%=#Pattern Recognition Center, WeChat AI, Tencent
+Author{3}{Firstname}#=%=#Jie
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Username}#=%=#jerryitp
+Author{3}{Email}#=%=#withtomzhou@tencent.com
+Author{3}{Affiliation}#=%=#Tencent Inc.
+
+==========

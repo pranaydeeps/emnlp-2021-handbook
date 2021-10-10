@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#331
+FinalPaperTitle#=%=#SimCSE: Simple Contrastive Learning of Sentence Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Tianyu Gao
+JobTitle#==#
+Organization#==#Tianyu Gao
+Department of Computer Science, Princeton University
+35 Olden St, Princeton, NJ 08540, USA
+Abstract#==#This paper presents SimCSE, a simple contrastive learning framework that greatly advances the state-of-the-art sentence embeddings. We first describe an unsupervised approach, which takes an input sentence and predicts itself in a contrastive objective, with only standard dropout used as noise. This simple method works surprisingly well, performing on par with previous supervised counterparts. We find that dropout acts as minimal data augmentation and removing it leads to a representation collapse. Then, we propose a supervised approach, which incorporates annotated pairs from natural language inference datasets into our contrastive learning framework, by using "entailment" pairs as positives and "contradiction" pairs as hard negatives. We evaluate SimCSE on standard semantic textual similarity (STS) tasks, and our unsupervised and supervised models using BERT base achieve an average of 76.3% and 81.6% Spearman's correlation respectively, a 4.2% and 2.2% improvement compared to previous best results. We also show---both theoretically and empirically---that contrastive learning objective regularizes pre-trained embeddings' anisotropic space to be more uniform, and it better aligns positive pairs when supervised signals are available.
+Author{1}{Firstname}#=%=#Tianyu
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Username}#=%=#gaotianyu1350
+Author{1}{Email}#=%=#tianyug@princeton.edu
+Author{1}{Affiliation}#=%=#Princeton University
+Author{2}{Firstname}#=%=#Xingcheng
+Author{2}{Lastname}#=%=#Yao
+Author{2}{Username}#=%=#xingchengyao
+Author{2}{Email}#=%=#yxc18@mails.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Danqi
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#cdq10131
+Author{3}{Email}#=%=#danqic@cs.princeton.edu
+Author{3}{Affiliation}#=%=#Princeton University
+
+==========

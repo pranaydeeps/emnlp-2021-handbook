@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3495
+FinalPaperTitle#=%=#Block Pruning For Faster Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Francois Lagunas
+JobTitle#==#
+Organization#==#Hugging Face, 20 Jay Street, Suite 620, Brooklyn, NY 11201
+Abstract#==#Pre-training has improved
+  model accuracy for both classification and generation tasks at
+  the cost of introducing much larger and slower models. 
+
+Pruning methods have proven to be an effective way
+  of reducing model size, whereas distillation methods are proven for speeding up inference.
+
+We introduce a block
+  pruning approach targeting both small and fast models. Our approach extends structured methods by considering blocks of any size and integrates this structure into the movement pruning
+  paradigm for fine-tuning. 
+
+We find that this approach learns to prune out full components of
+  the underlying model, such as attention heads. Experiments consider
+  classification and generation tasks, yielding among other results a pruned
+  model that is a 2.4x faster, 74% smaller BERT on SQuAD v1, with a 1% drop
+  on F1, competitive both with distilled models in speed and pruned models in size.
+Author{1}{Firstname}#=%=#François
+Author{1}{Lastname}#=%=#Lagunas
+Author{1}{Username}#=%=#flagunas
+Author{1}{Email}#=%=#francois.lagunas@m4x.org
+Author{1}{Affiliation}#=%=#Hugging Face
+Author{2}{Firstname}#=%=#Ella
+Author{2}{Lastname}#=%=#Charlaix
+Author{2}{Username}#=%=#ellacharlaix
+Author{2}{Email}#=%=#charlaixe@gmail.com
+Author{2}{Affiliation}#=%=#Hugging Face
+Author{3}{Firstname}#=%=#Victor
+Author{3}{Lastname}#=%=#Sanh
+Author{3}{Username}#=%=#victorsanh
+Author{3}{Email}#=%=#victor@huggingface.co
+Author{3}{Affiliation}#=%=#Hugging Face
+Author{4}{Firstname}#=%=#Alexander
+Author{4}{Lastname}#=%=#Rush
+Author{4}{Username}#=%=#srush
+Author{4}{Email}#=%=#arush@cornell.edu
+Author{4}{Affiliation}#=%=#Cornell University
+
+==========

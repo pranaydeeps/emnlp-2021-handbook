@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4097
+FinalPaperTitle#=%=#Improving Text Auto-Completion with Next Phrase Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Dong-Ho Lee
+JobTitle#==#
+Organization#==#
+Abstract#==#Language models such as GPT-2 have performed well on constructing syntactically sound sentences for text auto-completion tasks. However, such models often require considerable training effort to adapt to specific writing domains (e.g., medical). In this paper, we propose an intermediate training strategy to enhance pre-trained language models' performance in the text auto-completion task and fastly adapt them to specific domains. Our strategy includes a novel self-supervised training objective called Next Phrase Prediction (NPP), which encourages a language model to complete the partial query with enriched phrases and eventually improve the model's text auto-completion performance. Preliminary experiments have shown that our approach is able to outperform the baselines in auto-completion for email and academic-writing domains.
+Author{1}{Firstname}#=%=#Dong-Ho
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#danny911kr
+Author{1}{Email}#=%=#dongho.lee@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Zhiqiang
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Username}#=%=#hzq950419
+Author{2}{Email}#=%=#zhiqiang_hu@mymail.sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Roy Ka-Wei
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#sroylee
+Author{3}{Email}#=%=#s.roylee@gmail.com
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#2765
+FinalPaperTitle#=%=#Contrastive Code Representation Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Ajay Jain
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent work learns contextual representations of source code by reconstructing tokens from their context. For downstream semantic understanding tasks like code clone detection, these representations should ideally capture program functionality. However, we show that the popular reconstruction-based RoBERTa model is sensitive to source code edits, even when the edits preserve semantics. We propose ContraCode: a contrastive pre-training task that learns code functionality, not form. ContraCode pre-trains a neural network to identify functionally similar variants of a program among many non-equivalent distractors. We scalably generate these variants using an automated source-to-source compiler as a form of data augmentation. Contrastive pre-training outperforms RoBERTa on an adversarial code clone detection benchmark by 39% AUROC. Surprisingly, improved adversarial robustness translates to better accuracy over natural code; ContraCode improves summarization and TypeScript type inference accuracy by 2 to 13 percentage points over competitive baselines. All source is available at https://github.com/parasj/contracode.
+Author{1}{Firstname}#=%=#Paras
+Author{1}{Lastname}#=%=#Jain
+Author{1}{Username}#=%=#parasj
+Author{1}{Email}#=%=#paras_jain@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Ajay
+Author{2}{Lastname}#=%=#Jain
+Author{2}{Username}#=%=#ajayj
+Author{2}{Email}#=%=#ajayj@berkeley.edu
+Author{2}{Affiliation}#=%=#University of California, Berkeley
+Author{3}{Firstname}#=%=#Tianjun
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#tianjunz@berkeley.edu
+Author{3}{Affiliation}#=%=#UC Berkeley
+Author{4}{Firstname}#=%=#Pieter
+Author{4}{Lastname}#=%=#Abbeel
+Author{4}{Username}#=%=#pabbeel
+Author{4}{Email}#=%=#pabbeel@cs.berkeley.edu
+Author{4}{Affiliation}#=%=#UC Berkeley
+Author{5}{Firstname}#=%=#Joseph
+Author{5}{Lastname}#=%=#Gonzalez
+Author{5}{Username}#=%=#jegonzal
+Author{5}{Email}#=%=#jegonzal@berkeley.edu
+Author{5}{Affiliation}#=%=#UC Berkeley
+Author{6}{Firstname}#=%=#Ion
+Author{6}{Lastname}#=%=#Stoica
+Author{6}{Email}#=%=#istoica@berkeley.edu
+Author{6}{Affiliation}#=%=#UC Berkeley
+
+==========

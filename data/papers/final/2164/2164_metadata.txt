@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#2164
+FinalPaperTitle#=%=#{PAUSE}: Positive and Annealed Unlabeled Sentence Embedding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Lele Cao
+JobTitle#==#
+Organization#==#EQT Group, Regeringsgatan 25, 111 53 Stockholm, Sweden
+Modulai, Robert Alströmsgatan 9B, 113 36 Stockholm, Sweden
+Abstract#==#Sentence embedding refers to a set of effective and versatile techniques for converting raw text into numerical vector representations that can be used in a wide range of natural language processing (NLP) applications. The majority of these techniques are either supervised or unsupervised. Compared to the unsupervised methods, the supervised ones make less assumptions about optimization objectives and usually achieve better results. However, the training requires a large amount of labeled sentence pairs, which is not available in many industrial scenarios. To that end, we propose a generic and end-to-end approach -- PAUSE (Positive and Annealed Unlabeled Sentence Embedding), capable of learning high-quality sentence embeddings from a partially labeled dataset. We experimentally show that PAUSE achieves, and sometimes surpasses, state-of-the-art results using only a small fraction of labeled sentence pairs on various benchmark tasks. When applied to a real industrial use case where labeled samples are scarce, PAUSE encourages us to extend our dataset without the burden of extensive manual annotation work.
+Author{1}{Firstname}#=%=#Lele
+Author{1}{Lastname}#=%=#Cao
+Author{1}{Username}#=%=#lele.cao
+Author{1}{Email}#=%=#lele.cao@eqtpartners.com
+Author{1}{Affiliation}#=%=#EQT
+Author{2}{Firstname}#=%=#Emil
+Author{2}{Lastname}#=%=#Larsson
+Author{2}{Username}#=%=#emillarsson
+Author{2}{Email}#=%=#emil@modulai.io
+Author{2}{Affiliation}#=%=#Modulai
+Author{3}{Firstname}#=%=#Vilhelm
+Author{3}{Lastname}#=%=#von Ehrenheim
+Author{3}{Username}#=%=#vilhelm.vonehrenheim
+Author{3}{Email}#=%=#vilhelm.vonehrenheim@eqtpartners.com
+Author{3}{Affiliation}#=%=#EQT
+Author{4}{Firstname}#=%=#Dhiana Deva
+Author{4}{Lastname}#=%=#Cavalcanti Rocha
+Author{4}{Username}#=%=#dhianadeva
+Author{4}{Email}#=%=#dhiana.deva@eqtpartners.com
+Author{4}{Affiliation}#=%=#EQT Group
+Author{5}{Firstname}#=%=#Anna
+Author{5}{Lastname}#=%=#Martin
+Author{5}{Username}#=%=#anna.martin
+Author{5}{Email}#=%=#anna.martin@eqtpartners.com
+Author{5}{Affiliation}#=%=#Data Scientist
+Author{6}{Firstname}#=%=#Sonja
+Author{6}{Lastname}#=%=#Horn
+Author{6}{Username}#=%=#sonjahorn
+Author{6}{Email}#=%=#sonja@eqtventures.com
+Author{6}{Affiliation}#=%=#EQT Ventures
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1391
+FinalPaperTitle#=%=#Cross-lingual Transfer for Text Classification with Dictionary-based Heterogeneous Graph
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Nuttapong Chairatanakul
+JobTitle#==#
+Organization#==#
+Abstract#==#In cross-lingual text classification, it is required that task-specific training data in high-resource source languages are available, where the task is identical to that of a low-resource target language. However, collecting such training data can be infeasible because of the labeling cost, task characteristics, and privacy concerns. This paper proposes an alternative solution that uses only task-independent word embeddings of high-resource languages and bilingual dictionaries. First, we construct a dictionary-based heterogeneous graph (DHG) from bilingual dictionaries. This opens the possibility to use graph neural networks for cross-lingual transfer. The remaining challenge is the heterogeneity of DHG because multiple languages are considered. To address this challenge, we propose dictionary-based heterogeneous graph neural network (DHGNet) that effectively handles the heterogeneity of DHG by two-step aggregations, which are word-level and language-level aggregations. Experimental results demonstrate that our method outperforms pretrained models even though it does not access to large corpora.  Furthermore, it can perform well even though dictionaries contain many incorrect translations. Its robustness allows the usage of a wider range of dictionaries such as an automatically constructed dictionary and crowdsourced dictionary, which are convenient for real-world applications.
+Author{1}{Firstname}#=%=#Nuttapong
+Author{1}{Lastname}#=%=#Chairatanakul
+Author{1}{Username}#=%=#nutcrtnk
+Author{1}{Email}#=%=#nuttapong.crtnk@gmail.com
+Author{1}{Affiliation}#=%=#Tokyo Institute of Technology / RWBC-OIL
+Author{2}{Firstname}#=%=#Noppayut
+Author{2}{Lastname}#=%=#Sriwatanasakdi
+Author{2}{Username}#=%=#noppayut
+Author{2}{Email}#=%=#noppayut@gmail.com
+Author{2}{Affiliation}#=%=#Asurion Japan Holdings G.K.
+Author{3}{Firstname}#=%=#Nontawat
+Author{3}{Lastname}#=%=#Charoenphakdee
+Author{3}{Username}#=%=#nontawatch
+Author{3}{Email}#=%=#nontawat@ms.k.u-tokyo.ac.jp
+Author{3}{Affiliation}#=%=#The University of Tokyo / RIKEN AIP
+Author{4}{Firstname}#=%=#XIN
+Author{4}{Lastname}#=%=#LIU
+Author{4}{Username}#=%=#tsinllew
+Author{4}{Email}#=%=#xin.liu@aist.go.jp
+Author{4}{Affiliation}#=%=#AIST
+Author{5}{Firstname}#=%=#Tsuyoshi
+Author{5}{Lastname}#=%=#Murata
+Author{5}{Email}#=%=#murata@c.titech.ac.jp
+Author{5}{Affiliation}#=%=#Tokyo Institute of Technology
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#53
+FinalPaperTitle#=%=#A Mixed-Methods Analysis of Western and Hong Kong–based Reporting on the 2019–2020 Protests
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Arya D. McCarthy
+JobTitle#==#
+Organization#==#
+Abstract#==#We apply statistical techniques from natural language processing to Western and Hong Kong–based English language newspaper articles that discuss the 2019–2020 Hong Kong protests of the Anti-Extradition Law Amendment Bill Movement.  
+Topic modeling detects central themes of the reporting and shows the differing agendas toward \emph{one country, two systems}. Embedding-based usage shift (at the word level) and sentiment analysis (at the document level) both support that Hong Kong–based reporting is more negative and more emotionally charged. A two-way test shows that while July 1, 2019 is a turning point for media portrayal, the differences between western- and Hong Kong–based reporting did not magnify when the protests began; rather, they already existed. Taken together, these findings clarify how the portrayal of activism in Hong Kong evolved throughout the Movement.
+Author{1}{Firstname}#=%=#Arya D.
+Author{1}{Lastname}#=%=#McCarthy
+Author{1}{Username}#=%=#arya
+Author{1}{Email}#=%=#arya@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#James
+Author{2}{Lastname}#=%=#Scharf
+Author{2}{Username}#=%=#jscharf8
+Author{2}{Email}#=%=#jscharf8@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Giovanna Maria Dora
+Author{3}{Lastname}#=%=#Dore
+Author{3}{Email}#=%=#gdore2@jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+
+==========

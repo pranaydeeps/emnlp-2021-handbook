@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Limitations of Knowledge Distillation for Zero-shot Transfer Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Saleh Soltan
+JobTitle#==#
+Organization#==#
+Abstract#==#Pretrained transformer-based encoders such as BERT have been demonstrated to achieve state-of-the-art performance on numerous NLP tasks. Despite their success, BERT style encoders are large in size and have high latency during inference (especially on CPU machines) which make them unappealing for many online applications. Recently introduced compression and distillation methods have provided effective ways to alleviate this shortcoming. However, the focus of these works has been mainly on monolingual encoders. Motivated by recent successes in zero-shot cross-lingual transfer learning using multilingual pretrained encoders such as mBERT, we evaluate the effectiveness of Knowledge Distillation (KD) both during pretraining stage and during fine-tuning stage on multilingual BERT models. We demonstrate that in contradiction to the previous observation in the case of monolingual distillation, in multilingual settings, distillation during pretraining is more effective than distillation during fine-tuning for zero-shot transfer learning. Moreover, we observe that distillation during fine-tuning may hurt zero-shot cross-lingual performance. Finally,  we demonstrate that distilling a larger model (BERT Large) results in the strongest distilled model that performs best both on the source language as well as target languages in zero-shot settings.
+Author{1}{Firstname}#=%=#Saleh
+Author{1}{Lastname}#=%=#Soltan
+Author{1}{Username}#=%=#salehsoltan
+Author{1}{Email}#=%=#ssoltan@amazon.com
+Author{1}{Affiliation}#=%=#Amazon Alexa
+Author{2}{Firstname}#=%=#Haidar
+Author{2}{Lastname}#=%=#Khan
+Author{2}{Username}#=%=#haidark
+Author{2}{Email}#=%=#khhaida@amazon.com
+Author{2}{Affiliation}#=%=#Amazon Alexa
+Author{3}{Firstname}#=%=#Wael
+Author{3}{Lastname}#=%=#Hamza
+Author{3}{Username}#=%=#whamza_amazon
+Author{3}{Email}#=%=#whamza15@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+
+==========

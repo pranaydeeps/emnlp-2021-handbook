@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1830
+FinalPaperTitle#=%=#Generating Self-Contained and Summary-Centric Question Answer Pairs via Differentiable Reward Imitation Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#33
+CopyrightSigned#=%=#Li Zhou
+JobTitle#==#
+Organization#==#Amazon Inc.
+Seattle, WA 98109
+Abstract#==#Motivated by suggested question generation in conversational news recommendation systems, we propose a model for generating question-answer pairs (QA pairs) with self-contained, summary-centric questions and length-constrained, article-summarizing answers. We begin by collecting a new dataset of news articles with questions as titles and pairing them with summaries of varying length. This dataset is used to learn a QA pair generation model producing summaries as answers that balance brevity with sufficiency jointly with their corresponding questions. We then reinforce the QA pair generation process with a differentiable reward function to mitigate exposure bias, a common problem in natural language generation. Both automatic metrics and human evaluation demonstrate these QA pairs successfully capture the central gists of the articles and achieve high answer accuracy.
+Author{1}{Firstname}#=%=#Li
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#lizhou.info
+Author{1}{Email}#=%=#lizhou.info@gmail.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Small
+Author{2}{Username}#=%=#kevinsmall
+Author{2}{Email}#=%=#kevinsmall@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Yong
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#yonzhn
+Author{3}{Email}#=%=#yonzhn@amazon.com
+Author{3}{Affiliation}#=%=#Amazon Alexa
+Author{4}{Firstname}#=%=#Sandeep
+Author{4}{Lastname}#=%=#Atluri
+Author{4}{Username}#=%=#sandeep.atluri
+Author{4}{Email}#=%=#satluri@amazon.com
+Author{4}{Affiliation}#=%=#Amazon
+
+==========

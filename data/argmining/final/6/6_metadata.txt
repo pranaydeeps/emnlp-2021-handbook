@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Modern Talking in Key Point Analysis: Key Point Matching using Pretrained Encoders
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jan Heinrich Reimer
+JobTitle#==#Student
+Organization#==#Martin Luther University Halle-Wittenberg
+Von-Seckendorff-Platz 1
+06120 Halle (Saale)
+Germany
+Abstract#==#We contribute to the ArgMining 2021 shared task on Quantitative Summarization and Key Point Analysis with two approaches for argument key point matching. For key point matching the task is to decide if a short key point matches the content of an argument with the same topic and stance towards the topic. We approach this task in two ways: First, we develop a simple rule-based baseline matcher by computing token overlap after removing stop words, stemming, and adding synonyms/antonyms. Second, we fine-tune pretrained BERT and RoBERTalanguage models as aregression classifier for only a single epoch. We manually examine errors of our proposed matcher models and find that long arguments are harder to classify. Our fine-tuned RoBERTa-Base model achieves a mean average precision score of 0.913, the best score for strict labels of all participating teams.
+Author{1}{Firstname}#=%=#Jan Heinrich
+Author{1}{Lastname}#=%=#Reimer
+Author{1}{Username}#=%=#heinrichreimer
+Author{1}{Email}#=%=#jan.reimer@student.uni-halle.de
+Author{1}{Affiliation}#=%=#Martin Luther University Halle-Wittenberg
+Author{2}{Firstname}#=%=#Thi Kim Hanh
+Author{2}{Lastname}#=%=#Luu
+Author{2}{Username}#=%=#hanh_luu
+Author{2}{Email}#=%=#thi.luu@student.uni-halle.de
+Author{2}{Affiliation}#=%=#Martin Luther University of Halle-Wittenberg
+Author{3}{Firstname}#=%=#Max
+Author{3}{Lastname}#=%=#Henze
+Author{3}{Username}#=%=#mahe
+Author{3}{Email}#=%=#max.henze97@web.de
+Author{3}{Affiliation}#=%=#Martin Luther University of Halle-Wittenberg
+Author{4}{Firstname}#=%=#Yamen
+Author{4}{Lastname}#=%=#Ajjour
+Author{4}{Username}#=%=#yajjour
+Author{4}{Email}#=%=#yamen.ajjour@uni-weimar.de
+Author{4}{Affiliation}#=%=#Bauhaus-Universität Weimar, Martin-Luther-University Halle-Wittenberg
+
+==========

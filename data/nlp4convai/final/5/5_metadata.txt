@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Personalized Extractive Summarization Using an Ising Machine Towards Real-time Generation of Efficient and Coherent Dialogue Scenarios
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Hiroaki Takatsu
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a personalized dialogue scenario generation system which transmits efficient and coherent information with a real-time extractive summarization method optimized by an Ising machine. The summarization problem is formulated as a quadratic unconstraint binary optimization (QUBO) problem, which extracts sentences that maximize the sum of the degree of user's interest in the sentences of documents with the discourse structure of each document and the total utterance time as constraints. To evaluate the proposed method, we constructed a news article corpus with annotations of the discourse structure, users' profiles, and interests in sentences and topics. The experimental results confirmed that a Digital Annealer, which is a simulated annealing-based Ising machine, can solve our QUBO model in a practical time without violating the constraints using this dataset.
+Author{1}{Firstname}#=%=#Hiroaki
+Author{1}{Lastname}#=%=#Takatsu
+Author{1}{Username}#=%=#takatsu
+Author{1}{Email}#=%=#takatsu@pcl.cs.waseda.ac.jp
+Author{1}{Affiliation}#=%=#Waseda University
+Author{2}{Firstname}#=%=#Takahiro
+Author{2}{Lastname}#=%=#Kashikawa
+Author{2}{Email}#=%=#kashikawa@jp.fujitsu.com
+Author{2}{Affiliation}#=%=#FUJITSU LIMITED
+Author{3}{Firstname}#=%=#Koichi
+Author{3}{Lastname}#=%=#Kimura
+Author{3}{Email}#=%=#k.kimura@jp.fujitsu.com
+Author{3}{Affiliation}#=%=#FUJITSU LIMITED
+Author{4}{Firstname}#=%=#Ryota
+Author{4}{Lastname}#=%=#Ando
+Author{4}{Email}#=%=#ando@naigaipc.co.jp
+Author{4}{Affiliation}#=%=#Naigai Pressclipping Bureau,Ltd.
+Author{5}{Firstname}#=%=#Yoichi
+Author{5}{Lastname}#=%=#Matsuyama
+Author{5}{Username}#=%=#yoichimatsuyama
+Author{5}{Email}#=%=#matsuyama@pcl.cs.waseda.ac.jp
+Author{5}{Affiliation}#=%=#Waseda University
+
+==========

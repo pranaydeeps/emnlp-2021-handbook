@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1568
+FinalPaperTitle#=%=#APGN: Adversarial and Parameter Generation Networks for Multi-Source Cross-Domain Dependency Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ying Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Thanks to the strong representation learning capability of deep learning, especially pre-training techniques with language model loss, dependency parsing has achieved great performance boost in the in-domain scenario with abundant labeled training data for target domains. However, the parsing community has to face the more realistic setting where the parsing performance drops drastically when labeled data only exists for several fixed out-domains. In this work, we propose a novel model for multi-source cross-domain dependency parsing. The model consists of two components, i.e., a parameter generation network for distinguishing domain-specific features, and an adversarial network for learning domain-invariant representations. Experiments on a recently released NLPCC-2019 dataset for multi-domain dependency parsing show that our model can consistently improve cross-domain parsing performance by about 2 points in averaged labeled attachment accuracy (LAS) over strong BERT-enhanced baselines. Detailed analysis is conducted to gain more insights on contributions of the two components.
+Author{1}{Firstname}#=%=#Ying
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#yingli13
+Author{1}{Email}#=%=#1224005374@qq.com
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Meishan
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#masonzms
+Author{2}{Email}#=%=#mason.zms@gmail.com
+Author{2}{Affiliation}#=%=#Tianjin University, China
+Author{3}{Firstname}#=%=#Zhenghua
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#zhenghualiir
+Author{3}{Email}#=%=#zhli13@suda.edu.cn
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Min
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#zhangminsuda
+Author{4}{Email}#=%=#minzhang@suda.edu.cn
+Author{4}{Affiliation}#=%=#Suda
+Author{5}{Firstname}#=%=#Zhefeng
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Username}#=%=#zhefengw
+Author{5}{Email}#=%=#wangzhefeng@huawei.com
+Author{5}{Affiliation}#=%=#Huawei Technologies
+Author{6}{Firstname}#=%=#baoxing
+Author{6}{Lastname}#=%=#Huai
+Author{6}{Username}#=%=#baoxing2391
+Author{6}{Email}#=%=#huaibaoxing@huawei.com
+Author{6}{Affiliation}#=%=#Huawei Technologies
+Author{7}{Firstname}#=%=#Nicholas Jing
+Author{7}{Lastname}#=%=#Yuan
+Author{7}{Username}#=%=#nicholasyuan
+Author{7}{Email}#=%=#nicholas.jing.yuan@gmail.com
+Author{7}{Affiliation}#=%=#Huawei Cloud & AI
+
+==========

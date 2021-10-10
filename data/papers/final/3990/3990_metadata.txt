@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3990
+FinalPaperTitle#=%=#CLIFF: Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Shuyang Cao
+JobTitle#==#
+Organization#==#University of Michigan, Ann Arbor, MI, 48105
+Abstract#==#We study generating abstractive summaries that are faithful and factually consistent with the given articles. 
+A novel contrastive learning formulation is presented, which leverages both reference summaries, as positive training data, and automatically generated erroneous summaries, as negative training data, to train summarization systems that are better at distinguishing between them. 
+We further design four types of strategies for creating negative samples, to resemble errors made commonly by two state-of-the-art models, BART and PEGASUS, found in our new human annotations of summary errors.
+Experiments on XSum and CNN/Daily Mail show that our contrastive learning framework is robust across datasets and models.
+It consistently produces more factual summaries than strong comparisons with post error correction, entailment-based reranking, and unlikelihood training, according to QA-based factuality evaluation. 
+Human judges echo the observation and find that our model summaries correct more errors.
+Author{1}{Firstname}#=%=#Shuyang
+Author{1}{Lastname}#=%=#Cao
+Author{1}{Username}#=%=#sycao
+Author{1}{Email}#=%=#caoshuy@umich.edu
+Author{1}{Affiliation}#=%=#Univerisity of Michigan
+Author{2}{Firstname}#=%=#Lu
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#kellywanglu
+Author{2}{Email}#=%=#wangluxy@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+
+==========

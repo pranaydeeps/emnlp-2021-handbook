@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Semi-automatic Triage of Requests for Free Legal Assistance
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#M. Mistica
+JobTitle#==#
+Organization#==#
+Abstract#==#Free legal assistance is critically under-resourced, and many of those
+  who seek legal help have their needs unmet. A major bottleneck in the
+  provision of free legal assistance to those most in need is the
+  determination of the precise nature of the legal problem.  This paper
+  describes a collaboration with a major provider of free legal assistance,
+  and the deployment of natural language processing models to assign
+  area-of-law categories to real-world requests for legal assistance. In
+  particular, we focus on an investigation of models to generate
+  efficiencies in the triage process, but also the risks associated with
+  naive use of model predictions, including fairness across different
+  user demographics.
+Author{1}{Firstname}#=%=#Meladel
+Author{1}{Lastname}#=%=#Mistica
+Author{1}{Username}#=%=#meladel
+Author{1}{Email}#=%=#meladel.mistica@gmail.com
+Author{1}{Affiliation}#=%=#The University of Queensland
+Author{2}{Firstname}#=%=#Jey Han
+Author{2}{Lastname}#=%=#Lau
+Author{2}{Username}#=%=#jeyhan
+Author{2}{Email}#=%=#jeyhan.lau@gmail.com
+Author{2}{Affiliation}#=%=#The University of Melbourne
+Author{3}{Firstname}#=%=#Brayden
+Author{3}{Lastname}#=%=#Merrifield
+Author{3}{Email}#=%=#brayden.merrifield@justiceconnect.org.au
+Author{3}{Affiliation}#=%=#Justice Connect
+Author{4}{Firstname}#=%=#Kate
+Author{4}{Lastname}#=%=#Fazio
+Author{4}{Email}#=%=#Kate.Fazio@justiceconnect.org.au
+Author{4}{Affiliation}#=%=#Justice Connect
+Author{5}{Firstname}#=%=#Timothy
+Author{5}{Lastname}#=%=#Baldwin
+Author{5}{Username}#=%=#tbaldwin
+Author{5}{Email}#=%=#tb@ldwin.net
+Author{5}{Affiliation}#=%=#The University of Melbourne
+
+==========

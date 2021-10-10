@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#2716
+FinalPaperTitle#=%=#{LMSOC}: An Approach for Socially Sensitive Pretraining
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Vivek Kulkarni
+JobTitle#==#
+Organization#==#Twitter, 1355 Market St #900, San Francisco, CA 94103
+Abstract#==#While large-scale pretrained language models have been shown to learn effective linguistic representations for many NLP tasks, there remain many real-world contextual aspects of language that current approaches do not capture. For instance, consider a cloze test “I enjoyed the _____ game this weekend”: the correct answer depends heavily on where the speaker is from, when the utterance occurred, and the speaker’s broader social milieu and preferences. Although language depends
+heavily on the geographical, temporal, and other social contexts of the speaker, these elements have not been incorporated into modern transformer-based language models. We propose a simple but effective approach to incorporate speaker social context into the learned representations of large-scale language models. Our method first learns dense representations of social contexts using graph representation learning algorithms and then primes language model pretraining with these social
+context representations. We evaluate our approach on geographically-sensitive language modeling tasks and show a substantial improvement (more than 100% relative lift on MRR) compared to baselines.
+Author{1}{Firstname}#=%=#Vivek
+Author{1}{Lastname}#=%=#Kulkarni
+Author{1}{Username}#=%=#viveksck
+Author{1}{Email}#=%=#viveksck@gmail.com
+Author{1}{Affiliation}#=%=#Twitter
+Author{2}{Firstname}#=%=#Shubhanshu
+Author{2}{Lastname}#=%=#Mishra
+Author{2}{Username}#=%=#shubhanshumishra
+Author{2}{Email}#=%=#mishra@shubhanshu.com
+Author{2}{Affiliation}#=%=#Twitter Inc.
+Author{3}{Firstname}#=%=#Aria
+Author{3}{Lastname}#=%=#Haghighi
+Author{3}{Username}#=%=#aria42
+Author{3}{Email}#=%=#ahaghighi@twitter.com
+Author{3}{Affiliation}#=%=#Twitter
+
+==========

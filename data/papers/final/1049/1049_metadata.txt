@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1049
+FinalPaperTitle#=%=#Exploring Decomposition for Table-based Fact Verification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Xiaoyu Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#Fact verification based on structured data is challenging as it requires models to understand both natural language and symbolic operations performed over tables. Although pre-trained language models have demonstrated a strong capability in verifying simple statements, they struggle with complex statements that involve multiple operations. In this paper, we improve fact verification by decomposing complex statements into simpler subproblems. Leveraging the programs synthesized by a weakly supervised semantic parser, we propose a program-guided approach to constructing a pseudo dataset for decomposition model training. The subproblems, together with their predicted answers, serve as the intermediate evidence to enhance our fact verification model. Experiments show that our proposed approach achieves the new state-of-the-art performance, an 82.7% accuracy, on the TabFact benchmark.
+Author{1}{Firstname}#=%=#Xiaoyu
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#xiaoyu
+Author{1}{Email}#=%=#17xy44@queensu.ca
+Author{1}{Affiliation}#=%=#Queen's University
+Author{2}{Firstname}#=%=#Xiaodan
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Username}#=%=#zhu2048
+Author{2}{Email}#=%=#zhu2048@gmail.com
+Author{2}{Affiliation}#=%=#Queen's University
+
+==========

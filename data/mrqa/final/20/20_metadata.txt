@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Investigating Post-pretraining Representation Alignment for Cross-Lingual Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Fahim Faisal
+JobTitle#==#
+Organization#==#Department of ComputerScience, George Mason University
+Abstract#==#Human knowledge is collectively encoded in the roughly 6500 languages spoken around the world, but it is not distributed equally across languages. Hence, for information-seeking question answering (QA) systems to adequately serve speakers of all languages, they need to operate cross-lingually. In this work we investigate the capabilities of multilingually pretrained language models on cross-lingual QA. We find that explicitly aligning the representations across languages with a post-hoc finetuning step generally leads to improved performance. We additionally investigate the effect of data size as well as the language choice in this fine-tuning step, also releasing a dataset for evaluating cross-lingual QA systems.
+Author{1}{Firstname}#=%=#Fahim
+Author{1}{Lastname}#=%=#Faisal
+Author{1}{Username}#=%=#ffaisal
+Author{1}{Email}#=%=#ffaisal@gmu.edu
+Author{1}{Affiliation}#=%=#George Mason University
+Author{2}{Firstname}#=%=#Antonios
+Author{2}{Lastname}#=%=#Anastasopoulos
+Author{2}{Username}#=%=#aanastas
+Author{2}{Email}#=%=#antonis@gmu.edu
+Author{2}{Affiliation}#=%=#George Mason University
+
+==========

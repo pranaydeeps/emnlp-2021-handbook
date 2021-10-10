@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#195
+FinalPaperTitle#=%=#{W}hat to Pre-Train on? {E}fficient Intermediate Task Selection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Jonas Pfeiffer
+JobTitle#==#
+Organization#==#Technical University of Darmstadt
+Abstract#==#Intermediate task fine-tuning has been shown to culminate in large transfer gains across many NLP tasks. With an abundance of candidate datasets as well as pre-trained language models, it has become infeasible to experiment with all combinations  to find the best transfer setting. In this work, we provide a comprehensive comparison of different methods for efficiently identifying beneficial tasks for intermediate transfer learning. We focus on parameter and computationally efficient adapter settings, highlight different data-availability scenarios, and provide expense estimates for each method. We experiment with a diverse set of 42 intermediate and 11 target English classification, multiple choice, question answering, and sequence tagging tasks. Our results demonstrate that efficient embedding based methods, which rely solely on the respective datasets, outperform computational expensive few-shot fine-tuning approaches. Our best methods achieve an average Regret@3 of 1\%  across all target tasks, demonstrating that we are able to efficiently identify the best datasets for intermediate training.
+Author{1}{Firstname}#=%=#Clifton
+Author{1}{Lastname}#=%=#Poth
+Author{1}{Username}#=%=#calpt
+Author{1}{Email}#=%=#calpt@mail.de
+Author{1}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Jonas
+Author{2}{Lastname}#=%=#Pfeiffer
+Author{2}{Username}#=%=#jopfeiff
+Author{2}{Email}#=%=#pfeiffer@ukp.informatik.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#TU Darmstadt
+Author{3}{Firstname}#=%=#Andreas
+Author{3}{Lastname}#=%=#Rücklé
+Author{3}{Username}#=%=#rueckle
+Author{3}{Email}#=%=#arueckle@amazon.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Iryna
+Author{4}{Lastname}#=%=#Gurevych
+Author{4}{Username}#=%=#gurevych
+Author{4}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{4}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

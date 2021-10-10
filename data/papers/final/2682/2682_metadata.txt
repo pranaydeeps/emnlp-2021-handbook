@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2682
+FinalPaperTitle#=%=#Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Peng Wang
+JobTitle#==#
+Organization#==#Southeast University
+Abstract#==#Knowledge graph embedding (KGE) using low-dimensional representations to predict missing information is widely applied in knowledge completion. Existing embedding methods are mostly built on Euclidean space, which are difficult to handle hierarchical structures. Hyperbolic embedding methods have shown the promise of high fidelity and concise representation for hierarchical data. However, the logical patterns in knowledge graphs are not considered well in these methods. To address this problem, we propose a novel KGE model with extended Poincar\'{e} Ball and polar coordinate system to capture hierarchical structures. We use the tangent space and exponential transformation to initialize and map the corresponding vectors to the Poincar\'{e} Ball in hyperbolic space. To solve the boundary conditions, the boundary is stretched and zoomed by expanding the modulus length in the Poincar\'{e} Ball. We optimize our model using polar coordinate and changing operators in the extended Poincar\'{e} Ball. Experiments achieve new state-of-the-art results on part of link prediction tasks, which demonstrates the effectiveness of our method.
+Author{1}{Firstname}#=%=#Zhe
+Author{1}{Lastname}#=%=#Pan
+Author{1}{Username}#=%=#g_g
+Author{1}{Email}#=%=#gg_test@126.com
+Author{1}{Affiliation}#=%=#Southeast University
+Author{2}{Firstname}#=%=#Peng
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#npubird
+Author{2}{Email}#=%=#pwang@seu.edu.cn
+Author{2}{Affiliation}#=%=#Southeast University
+
+==========

@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#536
+FinalPaperTitle#=%=#{C}ascade{BERT}: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Lei Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Dynamic early exiting aims to accelerate the inference of pre-trained language models (PLMs) by emitting predictions in internal layers without passing through the entire model.
+In this paper, we empirically analyze the working mechanism of dynamic early exiting and find that it faces a performance bottleneck under high speed-up ratios. 
+On one hand, the PLMs' representations in shallow layers lack high-level semantic information and thus are not sufficient for accurate predictions. 
+On the other hand, the exiting decisions made by internal classifiers are unreliable, leading to wrongly emitted early predictions.
+We instead propose a new framework for accelerating the inference of PLMs, CascadeBERT, which dynamically selects proper-sized and complete models in a cascading manner, providing comprehensive representations for predictions. 
+We further devise a difficulty-aware objective, encouraging the model to output the class probability that reflects the real difficulty of each instance for a more reliable cascading mechanism.
+Experimental results show that CascadeBERT can achieve an overall 15% improvement under 4x speed-up compared with existing dynamic early exiting methods on six classification tasks, yielding more calibrated and accurate predictions.
+Author{1}{Firstname}#=%=#Lei
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#tobiaslee
+Author{1}{Email}#=%=#lilei@stu.pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yankai
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Username}#=%=#lyk423
+Author{2}{Email}#=%=#yankailin@tencent.com
+Author{2}{Affiliation}#=%=#Pattern Recognition Center, WeChat, Tencent
+Author{3}{Firstname}#=%=#Deli
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#chendeli96
+Author{3}{Email}#=%=#chendeli@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Shuhuai
+Author{4}{Lastname}#=%=#Ren
+Author{4}{Username}#=%=#shuhuai-ren
+Author{4}{Email}#=%=#renshuhuai007@gmail.com
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Peng
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#lipeng17
+Author{5}{Email}#=%=#patrickpli@tencent.com
+Author{5}{Affiliation}#=%=#WeChat AI, Tencent Inc., China
+Author{6}{Firstname}#=%=#Jie
+Author{6}{Lastname}#=%=#Zhou
+Author{6}{Username}#=%=#jerryitp
+Author{6}{Email}#=%=#withtomzhou@tencent.com
+Author{6}{Affiliation}#=%=#Tencent Inc.
+Author{7}{Firstname}#=%=#Xu
+Author{7}{Lastname}#=%=#Sun
+Author{7}{Username}#=%=#xusun26
+Author{7}{Email}#=%=#xusun@pku.edu.cn
+Author{7}{Affiliation}#=%=#Peking University
+
+==========

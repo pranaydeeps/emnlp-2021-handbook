@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#532
+FinalPaperTitle#=%=#A Partition Filter Network for Joint Entity and Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Zhiheng Yan
+JobTitle#==#Graduate student
+Organization#==#School of Computer Science, Shanghai Key Laboratory of Intelligent Information Processing,
+Fudan University, Shanghai, China
+Abstract#==#In joint entity and relation extraction, existing work either sequentially encode task-specific features, leading to an imbalance in inter-task feature interaction where features extracted later have no direct contact with those that come first. Or they encode entity features and relation features in a parallel manner, meaning that feature representation learning for each task is largely independent of each other except for input sharing. We propose a partition filter network to model two-way interaction between tasks properly, where feature encoding is decomposed into two steps: partition and filter. In our encoder, we leverage two gates: entity and relation gate, to segment neurons into two task partitions and one shared partition. The shared partition represents inter-task information valuable to both tasks and is evenly shared across two tasks to ensure proper two-way interaction. The task partitions represent intra-task information and are formed through concerted efforts of both gates, making sure that encoding of task-specific features is dependent upon each other. Experiment results on six public datasets show that our model performs significantly better than previous approaches. In addition, contrary to what previous work has claimed, our auxiliary experiments suggest that relation prediction is contributory to named entity prediction in a non-negligible way.  The source code can be found at https://github.com/Coopercoppers/PFN.
+Author{1}{Firstname}#=%=#Zhiheng
+Author{1}{Lastname}#=%=#Yan
+Author{1}{Username}#=%=#zhihengyan
+Author{1}{Email}#=%=#zhyan20@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Chong
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#chongzhang20
+Author{2}{Email}#=%=#chongzhang20@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Jinlan
+Author{3}{Lastname}#=%=#Fu
+Author{3}{Username}#=%=#jlfu
+Author{3}{Email}#=%=#fujl16@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Qi
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#lloydzq
+Author{4}{Email}#=%=#qz@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+Author{5}{Firstname}#=%=#Zhongyu
+Author{5}{Lastname}#=%=#Wei
+Author{5}{Username}#=%=#zywei
+Author{5}{Email}#=%=#zywei@fudan.edu.cn
+Author{5}{Affiliation}#=%=#School of Data Science, Fudan University
+
+==========

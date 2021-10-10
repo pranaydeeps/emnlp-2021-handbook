@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1727
+FinalPaperTitle#=%=#Exophoric Pronoun Resolution in Dialogues with Topic Regularization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Xintong Yu
+JobTitle#==#
+Organization#==#
+Abstract#==#Resolving pronouns to their referents has long been studied as a fundamental natural language understanding problem. Previous works on pronoun coreference resolution (PCR) mostly focus on resolving pronouns to mentions in text while ignoring the exophoric scenario. Exophoric pronouns are common in daily communications, where speakers may directly use pronouns to refer to some objects present in the environment without introducing the objects first. Although such objects are not mentioned in the dialogue text, they can often be disambiguated by the general topics of the dialogue. Motivated by this, we propose to jointly leverage the local context and global topics of dialogues to solve the out-of-text PCR problem. Extensive experiments demonstrate the effectiveness of adding topic regularization for resolving exophoric pronouns.
+Author{1}{Firstname}#=%=#Xintong
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#yucosine
+Author{1}{Email}#=%=#yuxt16@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Hongming
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#hzhangal
+Author{2}{Email}#=%=#hzhangal@cse.ust.hk
+Author{2}{Affiliation}#=%=#HKUST
+Author{3}{Firstname}#=%=#Yangqiu
+Author{3}{Lastname}#=%=#Song
+Author{3}{Username}#=%=#yqsong
+Author{3}{Email}#=%=#yqsong@cse.ust.hk
+Author{3}{Affiliation}#=%=#HKUST
+Author{4}{Firstname}#=%=#Changshui
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#changshuiz
+Author{4}{Email}#=%=#zcs@mail.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#School of Automation, Tsinghua University
+Author{5}{Firstname}#=%=#Kun
+Author{5}{Lastname}#=%=#Xu
+Author{5}{Username}#=%=#kxkunxu
+Author{5}{Email}#=%=#kxkunxu@tencent.com
+Author{5}{Affiliation}#=%=#Tencent AI Lab
+Author{6}{Firstname}#=%=#Dong
+Author{6}{Lastname}#=%=#Yu
+Author{6}{Username}#=%=#dongyu
+Author{6}{Email}#=%=#dongyu@ieee.org
+Author{6}{Affiliation}#=%=#Tencent AI Lab
+
+==========

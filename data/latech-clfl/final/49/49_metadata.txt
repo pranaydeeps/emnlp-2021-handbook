@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#'Tecnologica cosa': Modeling Storyteller Personalities in Boccaccio's 'Decameron'
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#A. Feder Cooper
+JobTitle#==#
+Organization#==#Cornell University, Ithaca, NY, USA
+Abstract#==#We explore Boccaccio's \emph{Decameron} to see how digital humanities tools can be used for tasks that have limited data in a language no longer in contemporary use: medieval Italian. We focus our analysis on the question: Do the different storytellers in the text exhibit distinct personalities? To answer this question, we curate and release a dataset based on the authoritative edition of the text. We use supervised classification methods to predict storytellers based on the stories they tell, confirming the difficulty of the task, and demonstrate that topic modeling can extract thematic storyteller ``profiles."
+Author{1}{Firstname}#=%=#A.
+Author{1}{Lastname}#=%=#Cooper
+Author{1}{Username}#=%=#afcooper1991
+Author{1}{Email}#=%=#afc78@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Maria
+Author{2}{Lastname}#=%=#Antoniak
+Author{2}{Username}#=%=#maria_antoniak
+Author{2}{Email}#=%=#antoniakmaria@gmail.com
+Author{2}{Affiliation}#=%=#Cornell University
+Author{3}{Firstname}#=%=#Christopher
+Author{3}{Lastname}#=%=#De Sa
+Author{3}{Email}#=%=#cmd353@cornell.edu
+Author{3}{Affiliation}#=%=#Cornell University
+Author{4}{Firstname}#=%=#Marilyn
+Author{4}{Lastname}#=%=#Migiel
+Author{4}{Email}#=%=#marilyn.migiel@cornell.edu
+Author{4}{Affiliation}#=%=#Cornell University
+Author{5}{Firstname}#=%=#David
+Author{5}{Lastname}#=%=#Mimno
+Author{5}{Username}#=%=#mimno
+Author{5}{Email}#=%=#mimno@cornell.edu
+Author{5}{Affiliation}#=%=#Cornell University
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#840
+FinalPaperTitle#=%=#Knowledge-Guided Paraphrase Identification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haoyu Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Paraphrase identification (PI), a fundamental task in natural language processing, is to identify whether two sentences express the same or similar meaning, which is a binary classification problem. Recently, BERT-like pre-trained language models have been a popular choice for the frameworks of various PI models, but almost all existing methods consider general domain text. When these approaches are applied to a specific domain, existing models cannot make accurate predictions due to the lack of professional knowledge. In light of this challenge, we propose a novel framework, namely {\name}, which can leverage the external unstructured Wikipedia knowledge to accurately identify paraphrases. We propose to mine outline knowledge of concepts related to given sentences from Wikipedia via BM25 model. After retrieving related outline knowledge, {\name} makes predictions based on both the semantic information of two sentences and the outline knowledge. Besides, we propose a gating mechanism to aggregate the semantic information-based prediction and the knowledge-based prediction. Extensive experiments are conducted on two public datasets: PARADE~(a computer science domain dataset) and clinicalSTS2019~(a biomedical domain dataset). The results show that the proposed {\name} outperforms state-of-the-art methods.
+Author{1}{Firstname}#=%=#Haoyu
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#haoyuwang_buffalo
+Author{1}{Email}#=%=#hwang79@buffalo.edu
+Author{1}{Affiliation}#=%=#SUNY Buffalo
+Author{2}{Firstname}#=%=#Fenglong
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#fenglong
+Author{2}{Email}#=%=#fenglong@psu.edu
+Author{2}{Affiliation}#=%=#Pennsylvania State University
+Author{3}{Firstname}#=%=#Yaqing
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#yaqingwang90
+Author{3}{Email}#=%=#wang5075@purdue.edu
+Author{3}{Affiliation}#=%=#Purdue University
+Author{4}{Firstname}#=%=#Jing
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Email}#=%=#jinggao@purdue.edu
+Author{4}{Affiliation}#=%=#Purdue University
+
+==========

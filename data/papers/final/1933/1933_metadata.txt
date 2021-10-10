@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1933
+FinalPaperTitle#=%=#Inducing Stereotypical Character Roles from Plot Structure
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Labiba Jahan
+JobTitle#==#
+Organization#==#
+Abstract#==#Stereotypical character roles-also known as archetypes or dramatis personae-play an important function in narratives: they facilitate efficient communication with bundles of default characteristics and associations and ease understanding of those characters' roles in the overall narrative. We present a fully unsupervised k-means clustering approach for learning stereotypical roles given only structural plot information. We demonstrate the technique on Vladimir Propp's structural theory of Russian folktales (captured in the extended ProppLearner corpus, with 46 tales), showing that our approach can induce six out of seven of Propp's dramatis personae with F1 measures of up to 0.70 (0.58 average), with an additional category for minor characters. We have explored various feature sets and variations of a cluster evaluation method. The best-performing feature set comprises plot functions, unigrams, tf-idf weights, and embeddings over coreference chain heads. Roles that are mentioned more often (Hero, Villain), or have clearly distinct plot patterns (Princess) are more strongly differentiated than less frequent or distinct roles (Dispatcher, Helper, Donor). Detailed error analysis suggests that the quality of the coreference chain and plot functions annotations are critical for this task. We provide all our data and code for reproducibility.
+Author{1}{Firstname}#=%=#Labiba
+Author{1}{Lastname}#=%=#Jahan
+Author{1}{Username}#=%=#labibasu
+Author{1}{Email}#=%=#ljaha002@fiu.edu
+Author{1}{Affiliation}#=%=#Florida International University
+Author{2}{Firstname}#=%=#Rahul
+Author{2}{Lastname}#=%=#Mittal
+Author{2}{Username}#=%=#rmitt008
+Author{2}{Email}#=%=#rmitt008@fiu.edu
+Author{2}{Affiliation}#=%=#Florida International University
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Finlayson
+Author{3}{Username}#=%=#markaf33
+Author{3}{Email}#=%=#markaf@fiu.edu
+Author{3}{Affiliation}#=%=#FIU
+
+==========

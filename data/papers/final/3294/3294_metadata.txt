@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3294
+FinalPaperTitle#=%=#Semantic Novelty Detection in Natural Language Descriptions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Nianzu Ma
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper proposes to study a fine-grained semantic novelty detection task, which can be illustrated with the following example. It is normal that a person walks a dog in the park, but if someone says “A man is walking a chicken in the park”, it is novel. Given a set of natural language descriptions of normal scenes, we want to identify descriptions of novel scenes. We are not aware of any existing work that solves the problem. Although existing novelty or anomaly detection algorithms are applicable, since they are usually topic-based, they perform poorly on our fine-grained semantic novelty detection task. This paper proposes an effective model (called GAT-MA) to solve the problem and also contributes a new dataset. Experimental evaluation shows that GAT-MA outperforms 11 baselines by large margins.
+Author{1}{Firstname}#=%=#Nianzu
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Username}#=%=#jacob005
+Author{1}{Email}#=%=#jingyima005@gmail.com
+Author{1}{Affiliation}#=%=#University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Lastname}#=%=#Politowicz
+Author{2}{Username}#=%=#apolitowicz
+Author{2}{Email}#=%=#politow2@uic.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Chicago
+Author{3}{Firstname}#=%=#Sahisnu
+Author{3}{Lastname}#=%=#Mazumder
+Author{3}{Username}#=%=#smazum2
+Author{3}{Email}#=%=#sahisnumazumder@gmail.com
+Author{3}{Affiliation}#=%=#University of Illinois at Chicago
+Author{4}{Firstname}#=%=#Jiahua
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#chenhou31
+Author{4}{Email}#=%=#jiahuaqy@gmail.com
+Author{4}{Affiliation}#=%=#University of Illinois at Chicago
+Author{5}{Firstname}#=%=#Bing
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#liub
+Author{5}{Email}#=%=#liub@uic.edu
+Author{5}{Affiliation}#=%=#University of Illinois at Chicago
+Author{6}{Firstname}#=%=#Eric
+Author{6}{Lastname}#=%=#Robertson
+Author{6}{Username}#=%=#ebrobertson
+Author{6}{Email}#=%=#eric_robertson@partech.com
+Author{6}{Affiliation}#=%=#PAR Government
+Author{7}{Firstname}#=%=#Scott
+Author{7}{Lastname}#=%=#Grigsby
+Author{7}{Username}#=%=#scogrig
+Author{7}{Email}#=%=#scott_grigsby@partech.com
+Author{7}{Affiliation}#=%=#PAR Government Systems Co.
+
+==========

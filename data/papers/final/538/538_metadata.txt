@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#538
+FinalPaperTitle#=%=#TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zheng Fang
+JobTitle#==#
+Organization#==#
+Abstract#==#To alleviate label scarcity in Named Entity Recognition (NER) task, distantly supervised NER methods are widely applied to automatically label data and identify entities. Although the human effort is reduced, the generated incomplete and noisy annotations pose new challenges for learning effective neural models. In this paper, we propose a novel dictionary extension method which extracts new entities through the type expanded model. Moreover, we design a multi-granularity boundary-aware network which detects entity boundaries from both local and global perspectives. We conduct experiments on different types of datasets, the results show that our model outperforms previous state-of-the-art distantly supervised systems and even surpasses the supervised models.
+Author{1}{Firstname}#=%=#Zheng
+Author{1}{Lastname}#=%=#Fang
+Author{1}{Username}#=%=#fangzheng.eric
+Author{1}{Email}#=%=#fangzheng@iie.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Yanan
+Author{2}{Lastname}#=%=#Cao
+Author{2}{Username}#=%=#snowbaby85
+Author{2}{Email}#=%=#caoyanan@iie.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Science
+Author{3}{Firstname}#=%=#Tai
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#vincent.li
+Author{3}{Email}#=%=#litai.vincent@bytedance.com
+Author{3}{Affiliation}#=%=#Beijing Bytedance Technology Co., Ltd.
+Author{4}{Firstname}#=%=#Ruipeng
+Author{4}{Lastname}#=%=#Jia
+Author{4}{Username}#=%=#hello_jrp
+Author{4}{Email}#=%=#jiaruipeng@iie.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences & School of Cyber Security, University of Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Fang
+Author{5}{Lastname}#=%=#Fang
+Author{5}{Username}#=%=#fang.fang
+Author{5}{Email}#=%=#fangfang0703@iie.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Information Engineering,Chinese Academy of Sciences
+Author{6}{Firstname}#=%=#Yanmin
+Author{6}{Lastname}#=%=#Shang
+Author{6}{Username}#=%=#yanmin
+Author{6}{Email}#=%=#shangyanmin@iie.ac.cn
+Author{6}{Affiliation}#=%=#Institute Of Information Engineering,CAS
+Author{7}{Firstname}#=%=#Yuhai
+Author{7}{Lastname}#=%=#Lu
+Author{7}{Username}#=%=#fishhai
+Author{7}{Email}#=%=#luyuhai@iie.ac.cn
+Author{7}{Affiliation}#=%=#Institute of Information Engineering Chinese Academy of Sciences
+
+==========

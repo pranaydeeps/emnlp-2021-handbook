@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#3584
+FinalPaperTitle#=%=#NUANCED: Natural Utterance Annotation for Nuanced Conversation with Estimated Distributions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Chen, Zhiyu
+JobTitle#==#
+Organization#==#Facebook Inc. 1 Hacker Way, Menlo Park, CA 94025
+Abstract#==#Existing conversational systems are mostly agent-centric, which assumes the user utterances will closely follow the system ontology. However, in real-world scenarios, it is highly desirable that users can speak freely and naturally. In this work, we attempt to build a user-centric dialogue system for conversational recommendation. As there is no clean mapping for a user's free form utterance to an ontology, we first model the user preferences as estimated distributions over the system ontology and map the user's utterances to such distributions. Learning such a mapping poses new challenges on reasoning over various types of knowledge, ranging from factoid knowledge, commonsense knowledge to the users' own situations. To this end, we build a new dataset named NUANCED that focuses on such realistic settings, with 5.1k dialogues, 26k turns of high-quality user responses. 
+We conduct experiments, showing both the usefulness and challenges of our problem setting.
+We believe NUANCED can serve as a valuable resource to push existing research from the agent-centric system to the user-centric system. The code and data are publicly available.
+Author{1}{Firstname}#=%=#Zhiyu
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#czyssrs
+Author{1}{Email}#=%=#zhiyuchen@cs.ucsb.edu
+Author{1}{Affiliation}#=%=#University of California, Santa Barbara
+Author{2}{Firstname}#=%=#Honglei
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#ppuliu
+Author{2}{Email}#=%=#honglei@fb.com
+Author{2}{Affiliation}#=%=#Facebook Conversational AI
+Author{3}{Firstname}#=%=#Hu
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#activebus
+Author{3}{Email}#=%=#activebus@gmail.com
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Seungwhan
+Author{4}{Lastname}#=%=#Moon
+Author{4}{Username}#=%=#shanemoon
+Author{4}{Email}#=%=#me@shanemoon.com
+Author{4}{Affiliation}#=%=#Facebook Reality Labs
+Author{5}{Firstname}#=%=#Hao
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Email}#=%=#haozhoustat@fb.com
+Author{5}{Affiliation}#=%=#Facebook
+Author{6}{Firstname}#=%=#Bing
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#bingl1
+Author{6}{Email}#=%=#v.bingliu@gmail.com
+Author{6}{Affiliation}#=%=#Facebook
+
+==========

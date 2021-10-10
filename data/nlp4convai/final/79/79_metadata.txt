@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#79
+FinalPaperTitle#=%=#Influence of user personality on dialogue task performance: A case study using a rule-based dialogue system
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#AO GUO
+JobTitle#==#
+Organization#==#Graduate School of Informatics, Nagoya University
+Furo-cho, Chikusa-ku, Nagoya, 464-8603, Japan
+Abstract#==#Endowing a task-oriented dialogue system with adaptiveness to user personality can greatly help improve the performance of a dialogue task. However, such a dialogue system can be practically challenging to implement, because it is unclear how user personality influences dialogue task performance. To explore the relationship between user personality and dialogue task performance, we enrolled participants via crowdsourcing to first answer specified personality questionnaires and then chat with a dialogue system to accomplish assigned tasks. A rule-based dialogue system on the prevalent Multi-Domain Wizard-of-Oz (MultiWOZ) task was used. A total of 211 participants' personalities and their 633 dialogues were collected and analyzed. The results revealed that sociable and extroverted people tended to fail the task, whereas neurotic people were more likely to succeed. We extracted features related to user dialogue behaviors and performed further analysis to determine which kind of behavior influences task performance. As a result, we identified that average utterance length and slots per utterance are the key features of dialogue behavior that are highly correlated with both task performance and user personality.
+Author{1}{Firstname}#=%=#Ao
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Username}#=%=#guoao
+Author{1}{Email}#=%=#guo.ao@a.mbox.nagoya-u.ac.jp
+Author{1}{Affiliation}#=%=#Nagoya University
+Author{2}{Firstname}#=%=#Atsumoto
+Author{2}{Lastname}#=%=#Ohashi
+Author{2}{Username}#=%=#atsumoto
+Author{2}{Email}#=%=#ohashi.atsumoto@g.mbox.nagoya-u.ac.jp
+Author{2}{Affiliation}#=%=#Nagoya University
+Author{3}{Firstname}#=%=#Ryu
+Author{3}{Lastname}#=%=#Hirai
+Author{3}{Email}#=%=#hirai.ryu@a.mbox.nagoya-u.ac.jp
+Author{3}{Affiliation}#=%=#Nagoya University
+Author{4}{Firstname}#=%=#Yuya
+Author{4}{Lastname}#=%=#Chiba
+Author{4}{Username}#=%=#yuya
+Author{4}{Email}#=%=#yuya.chb@gmail.com
+Author{4}{Affiliation}#=%=#NTT Communication Science Laboratories
+Author{5}{Firstname}#=%=#Yuiko
+Author{5}{Lastname}#=%=#Tsunomori
+Author{5}{Email}#=%=#tsunomori.yuiko@b.mbox.nagoya-u.ac.jp
+Author{5}{Affiliation}#=%=#Nagoya University
+Author{6}{Firstname}#=%=#Ryuichiro
+Author{6}{Lastname}#=%=#Higashinaka
+Author{6}{Username}#=%=#higashinaka.ryuichiro
+Author{6}{Email}#=%=#ryuichiro.higashinaka@gmail.com
+Author{6}{Affiliation}#=%=#Nagoya University/NTT Media Intelligence Labs.
+
+==========

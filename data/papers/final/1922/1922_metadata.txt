@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1922
+FinalPaperTitle#=%=#Mapping probability word problems to executable representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Simon Suster
+JobTitle#==#
+Organization#==#
+Abstract#==#While solving math word problems automatically has received considerable attention in the NLP community, few works have addressed probability word problems specifically. In this paper, we employ and analyse various neural models for answering such word problems. In a two-step approach, the problem text is first mapped to a formal representation in a declarative language using a sequence-to-sequence model, and then the resulting representation is executed using a probabilistic programming system to provide the answer. Our best performing model incorporates general-domain contextualised word representations that were finetuned using transfer learning on another in-domain dataset. We also apply end-to-end models to this task, which bring out the importance of the two-step approach in obtaining correct solutions to probability problems.
+Author{1}{Firstname}#=%=#Simon
+Author{1}{Lastname}#=%=#Suster
+Author{1}{Username}#=%=#simonsuster
+Author{1}{Email}#=%=#simon.suster@unimelb.edu.au
+Author{1}{Affiliation}#=%=#University of Melbourne
+Author{2}{Firstname}#=%=#Pieter
+Author{2}{Lastname}#=%=#Fivez
+Author{2}{Username}#=%=#pieterfivez
+Author{2}{Email}#=%=#pieter.fivez@uantwerpen.be
+Author{2}{Affiliation}#=%=#University of Antwerp
+Author{3}{Firstname}#=%=#Pietro
+Author{3}{Lastname}#=%=#Totis
+Author{3}{Email}#=%=#pietro.totis@kuleuven.be
+Author{3}{Affiliation}#=%=#KU Leuven
+Author{4}{Firstname}#=%=#Angelika
+Author{4}{Lastname}#=%=#Kimmig
+Author{4}{Email}#=%=#angelika.kimmig@kuleuven.be
+Author{4}{Affiliation}#=%=#KU Leuven
+Author{5}{Firstname}#=%=#Jesse
+Author{5}{Lastname}#=%=#Davis
+Author{5}{Email}#=%=#jesse.davis@kuleuven.be
+Author{5}{Affiliation}#=%=#KU Leuven
+Author{6}{Firstname}#=%=#Luc
+Author{6}{Lastname}#=%=#de Raedt
+Author{6}{Email}#=%=#luc.deraedt@kuleuven.be
+Author{6}{Affiliation}#=%=#KU Leuven
+Author{7}{Firstname}#=%=#Walter
+Author{7}{Lastname}#=%=#Daelemans
+Author{7}{Username}#=%=#daelemans
+Author{7}{Email}#=%=#walter.daelemans@uantwerpen.be
+Author{7}{Affiliation}#=%=#University of Antwerp, CLiPS
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#2881
+FinalPaperTitle#=%=#Signed Coreference Resolution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Kayo Yin
+JobTitle#==#
+Organization#==#
+Abstract#==#Coreference resolution is key to many natural language processing tasks and yet has  been relatively unexplored in Sign Language Processing.
+In signed languages, space is primarily used to establish reference. Solving coreference resolution for signed languages would not only enable higher-level Sign Language Processing systems, but also enhance our understanding of language in different modalities and of situated references, which are key problems in studying grounded language.
+In this paper, we: (1) introduce Signed Coreference Resolution (SCR), a new challenge for coreference modeling and Sign Language Processing; (2) collect an annotated corpus of German Sign Language with gold labels for coreference together with an annotation software for the task; (3) explore features of hand gesture, iconicity, and spatial situated properties and move forward to propose a set of linguistically informed heuristics and unsupervised models for the task; (4) put forward several proposals about ways to address the complexities of this challenge effectively.
+Author{1}{Firstname}#=%=#Kayo
+Author{1}{Lastname}#=%=#Yin
+Author{1}{Username}#=%=#kayo
+Author{1}{Email}#=%=#kayoy@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Kenneth
+Author{2}{Lastname}#=%=#DeHaan
+Author{2}{Email}#=%=#kenneth.de.haan@gallaudet.edu
+Author{2}{Affiliation}#=%=#Gallaudet University
+Author{3}{Firstname}#=%=#Malihe
+Author{3}{Lastname}#=%=#Alikhani
+Author{3}{Username}#=%=#mondial93
+Author{3}{Email}#=%=#alikhani.malihe@gmail.com
+Author{3}{Affiliation}#=%=#University of Pittsburgh
+
+==========

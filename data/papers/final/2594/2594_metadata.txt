@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2594
+FinalPaperTitle#=%=#Contextualized Query Embeddings for Conversational Search
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sheng-Chieh Lin
+JobTitle#==#
+Organization#==#University of Waterloo
+Abstract#==#This paper describes a compact and effective model for low-latency passage retrieval in conversational search based on learned dense representations. Prior to our work, the state-of-the-art approach uses a multi-stage pipeline comprising conversational query reformulation and information retrieval modules. Despite its effectiveness, such a pipeline often includes multiple neural models that require long inference times. In addition, independently optimizing each module ignores dependencies among them. To address these shortcomings, we propose to integrate conversational query reformulation directly into a dense retrieval model. To aid in this goal, we create a dataset with pseudo-relevance labels for conversational search to overcome the lack of training data and to explore different training strategies. We demonstrate that our model effectively rewrites conversational queries as dense representations in conversational search and open-domain question answering datasets. Finally, after observing that our model learns to adjust the L2 norm of query token embeddings, we leverage this property for hybrid retrieval and to support error analysis.
+Author{1}{Firstname}#=%=#Sheng-Chieh
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#jacklin
+Author{1}{Email}#=%=#s269lin@uwaterloo.ca
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Jheng-Hong
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#justram
+Author{2}{Email}#=%=#j587yang@uwaterloo.ca
+Author{2}{Affiliation}#=%=#University of Waterloo
+Author{3}{Firstname}#=%=#Jimmy
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Username}#=%=#jimmylin
+Author{3}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+
+==========

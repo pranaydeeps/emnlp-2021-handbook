@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#2369
+FinalPaperTitle#=%=#{N}amed {E}ntity {R}ecognition for {E}ntity {L}inking: {W}hat Works and What's Next
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Simone Tedeschi
+JobTitle#==#
+Organization#==#
+Abstract#==#Entity Linking (EL) systems have achieved impressive results on standard benchmarks mainly thanks to the contextualized representations provided by recent pretrained language models.
+However, such systems still require massive amounts of data -- millions of labeled examples -- to perform at their best, with training times that often exceed several days, especially when limited computational resources are available.
+In this paper, we look at how Named Entity Recognition (NER) can be exploited to narrow the gap between EL systems trained on high and low amounts of labeled data.
+More specifically, we show how and to what extent an EL system can benefit from NER to enhance its entity representations, improve candidate selection, select more effective negative samples and enforce hard and soft constraints on its output entities.
+We release our software -- code and model checkpoints -- at https://github.com/Babelscape/ner4el.
+Author{1}{Firstname}#=%=#Simone
+Author{1}{Lastname}#=%=#Tedeschi
+Author{1}{Username}#=%=#st97
+Author{1}{Email}#=%=#tedeschi@babelscape.com
+Author{1}{Affiliation}#=%=#Babelscape
+Author{2}{Firstname}#=%=#Simone
+Author{2}{Lastname}#=%=#Conia
+Author{2}{Username}#=%=#simone_conia
+Author{2}{Email}#=%=#conia@di.uniroma1.it
+Author{2}{Affiliation}#=%=#Sapienza University of Rome
+Author{3}{Firstname}#=%=#Francesco
+Author{3}{Lastname}#=%=#Cecconi
+Author{3}{Username}#=%=#fcecconi
+Author{3}{Email}#=%=#cecconi@babelscape.com
+Author{3}{Affiliation}#=%=#Babelscape
+Author{4}{Firstname}#=%=#Roberto
+Author{4}{Lastname}#=%=#Navigli
+Author{4}{Username}#=%=#navigli
+Author{4}{Email}#=%=#roberto.navigli@uniroma1.it
+Author{4}{Affiliation}#=%=#Sapienza University of Rome
+
+==========

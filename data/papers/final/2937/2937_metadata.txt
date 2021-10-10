@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#2937
+FinalPaperTitle#=%=#Bandits Don't Follow Rules: Balancing Multi-Facet Machine Translation with Multi-Armed Bandits
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Artem Sokolov
+JobTitle#==#
+Organization#==#Google
+Abstract#==#Training data for machine translation (MT) is often sourced from a multitude of large corpora that are multi-faceted in nature, e.g. containing contents from multiple domains or different levels of quality or complexity. Naturally, these facets do not occur with equal frequency, nor are they equally important for the test scenario at hand. 
+In this work, we propose to optimize this balance jointly with MT model parameters to relieve system developers from manual schedule design. A multi-armed bandit is trained to dynamically choose between facets in a way that is most beneficial for the MT system.  
+We evaluate it on three different multi-facet applications: balancing translationese and natural training data, or data from multiple domains or multiple language pairs. We find that bandit learning leads to competitive MT systems across tasks, and our analysis provides insights into its learned strategies and the underlying data sets.
+Author{1}{Firstname}#=%=#Julia
+Author{1}{Lastname}#=%=#Kreutzer
+Author{1}{Username}#=%=#juli41929
+Author{1}{Email}#=%=#jkreutzer@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Vilar
+Author{2}{Username}#=%=#david.vilar
+Author{2}{Email}#=%=#david.vilar@gmail.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Artem
+Author{3}{Lastname}#=%=#Sokolov
+Author{3}{Username}#=%=#artem
+Author{3}{Email}#=%=#gposhta@gmail.com
+Author{3}{Affiliation}#=%=#Google
+
+==========

@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#4449
+FinalPaperTitle#=%=#Virtual Data Augmentation: A Robust and General Framework for Fine-tuning Pre-trained Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Kun Zhou
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent works have shown that powerful pre-trained language models (PLM) can be fooled by  small perturbations or intentional attacks.
+To solve this issue, various data augmentation techniques are proposed to improve the robustness of PLMs.
+However, it is still challenging to augment semantically relevant examples with sufficient diversity.
+In this work, we present Virtual Data Augmentation (VDA), a general framework for robustly fine-tuning PLMs.
+Based on the original token embeddings, we construct a multinomial mixture for augmenting virtual data embeddings, where a masked language model guarantees the semantic relevance and the Gaussian noise provides the augmentation diversity.
+Furthermore, a regularized training strategy is proposed to balance  the two aspects.
+Extensive experiments on six datasets show that our approach is able to improve the robustness of PLMs and alleviate the performance degradation under adversarial attacks. 
+Our codes and data are publicly available at \textcolor{blue}{\url{https://github.com/RUCAIBox/VDA}}.
+Author{1}{Firstname}#=%=#Kun
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#kunzhou
+Author{1}{Email}#=%=#francis_kun_zhou@163.com
+Author{1}{Affiliation}#=%=#Renmin University of China
+Author{2}{Firstname}#=%=#Wayne Xin
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#batmanfly
+Author{2}{Email}#=%=#batmanfly@gmail.com
+Author{2}{Affiliation}#=%=#RUC
+Author{3}{Firstname}#=%=#Sirui
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#wangsirui
+Author{3}{Email}#=%=#wangsirui@meituan.com
+Author{3}{Affiliation}#=%=#Meituan
+Author{4}{Firstname}#=%=#Fuzheng
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#fuzzhang
+Author{4}{Email}#=%=#zhfzhkris@outlook.com
+Author{4}{Affiliation}#=%=#Meituan
+Author{5}{Firstname}#=%=#Wei
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#wuwei
+Author{5}{Email}#=%=#wuwei19850318@gmail.com
+Author{5}{Affiliation}#=%=#meituan
+Author{6}{Firstname}#=%=#Ji-Rong
+Author{6}{Lastname}#=%=#Wen
+Author{6}{Username}#=%=#jrwen
+Author{6}{Email}#=%=#jrwen@ruc.edu.cn
+Author{6}{Affiliation}#=%=#Renmin University of China
+
+==========

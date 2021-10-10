@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#686
+FinalPaperTitle#=%=#Saliency-based Multi-View Mixed Language Training for Zero-shot Cross-lingual Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Siyu Lai
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent multilingual pre-trained models, like XLM-RoBERTa (XLM-R), have been demonstrated effective in many cross-lingual tasks. However, there are still gaps between the contextualized representations of similar words in different languages. To solve this problem, we propose a novel framework named Multi-View Mixed Language Training (MVMLT), which leverages code-switched data with multi-view learning to fine-tune XLM-R. MVMLT uses gradient-based saliency to extract keywords which are the most relevant to downstream tasks and replaces them with the corresponding words in the target language dynamically. Furthermore, MVMLT utilizes multi-view learning to encourage contextualized embeddings to align into a more refined language-invariant space. Extensive experiments with four languages show that our model achieves state-of-the-art results on zero-shot cross-lingual sentiment classification and dialogue state tracking tasks, demonstrating the effectiveness of our proposed model.
+Author{1}{Firstname}#=%=#Siyu
+Author{1}{Lastname}#=%=#Lai
+Author{1}{Username}#=%=#laisiyu
+Author{1}{Email}#=%=#20120374@bjtu.edu.cn
+Author{1}{Affiliation}#=%=#BeiJing JiaoTong University
+Author{2}{Firstname}#=%=#Hui
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Username}#=%=#huang_hui
+Author{2}{Email}#=%=#18112023@bjtu.edu.cn
+Author{2}{Affiliation}#=%=#Beijing Jiaotong University
+Author{3}{Firstname}#=%=#Dong
+Author{3}{Lastname}#=%=#Jing
+Author{3}{Username}#=%=#timsty
+Author{3}{Email}#=%=#20120370@bjtu.edu.cn
+Author{3}{Affiliation}#=%=#Beijing Jiaotong University
+Author{4}{Firstname}#=%=#Yufeng
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#chenyf
+Author{4}{Email}#=%=#chenyf@bjtu.edu.cn
+Author{4}{Affiliation}#=%=#Beijing Jiaotong University
+Author{5}{Firstname}#=%=#Jinan
+Author{5}{Lastname}#=%=#Xu
+Author{5}{Username}#=%=#jaxu
+Author{5}{Email}#=%=#jaxu@bjtu.edu.cn
+Author{5}{Affiliation}#=%=#Beijing Jiaotong University
+Author{6}{Firstname}#=%=#Jian
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#jian.liu
+Author{6}{Email}#=%=#jianliu@bjtu.edu.cn
+Author{6}{Affiliation}#=%=#Beijing Jiaotong University
+
+==========

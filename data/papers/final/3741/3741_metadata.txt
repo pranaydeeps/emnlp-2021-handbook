@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#3741
+FinalPaperTitle#=%=#Nearest Neighbour Few-Shot Learning for Cross-lingual Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#M Saiful Bari
+JobTitle#==#
+Organization#==#Amazon Lex Team
+Amazon Web Service, Inc
+Abstract#==#Even though large pre-trained multilingual models (e.g. mBERT, XLM-R) have led to significant performance gains on a wide range of cross-lingual NLP tasks, success on many downstream tasks still relies on the availability of sufficient annotated data. Traditional fine-tuning of pre-trained models using only a few target samples can cause over-fitting. This can be quite limiting as most languages in the world are under-resourced. In this work, we investigate cross-lingual adaptation using a simple nearest-neighbor few-shot ($<15$ samples) inference technique for classification tasks. We experiment using a total of 16 distinct languages across two NLP tasks- XNLI and PAWS-X. Our approach consistently improves traditional fine-tuning using only a handful of labeled samples in target locales. We also demonstrate its generalization capability across tasks.
+Author{1}{Firstname}#=%=#M Saiful
+Author{1}{Lastname}#=%=#Bari
+Author{1}{Username}#=%=#sbmaruf
+Author{1}{Email}#=%=#bari0001@e.ntu.edu.sg
+Author{1}{Affiliation}#=%=#Nanyang Technological University
+Author{2}{Firstname}#=%=#Batool
+Author{2}{Lastname}#=%=#Haider
+Author{2}{Username}#=%=#batool
+Author{2}{Email}#=%=#batool@alumni.stanford.edu
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Saab
+Author{3}{Lastname}#=%=#Mansour
+Author{3}{Username}#=%=#mansour
+Author{3}{Email}#=%=#saib.mn@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+
+==========

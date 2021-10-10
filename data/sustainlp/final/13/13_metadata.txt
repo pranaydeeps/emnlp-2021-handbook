@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Countering the Influence of Essay Length in Neural Essay Scoring
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sungho Jeon
+JobTitle#==#
+Organization#==#
+Abstract#==#Previous work has shown that automated essay scoring systems, in particular machine learning-based systems, are not capable of assessing the quality of essays, but are relying on essay length, a factor irrelevant to writing proficiency. In this work, we first show that state-of-the-art systems, recent neural essay scoring systems, might be also influenced by the correlation between essay length and scores in a standard dataset. 
+In our evaluation, a very simple neural model shows the state-of-the-art performance on the standard dataset.
+To consider essay content without taking essay length into account, we introduce a simple neural model assessing the similarity of content between an input essay and essays assigned different scores. This neural model achieves performance comparable to the state of the art on a standard dataset as well as on a second dataset. Our findings suggest that neural essay scoring systems should consider the characteristics of datasets to focus on text quality.
+Author{1}{Firstname}#=%=#Sungho
+Author{1}{Lastname}#=%=#Jeon
+Author{1}{Username}#=%=#sdeva14
+Author{1}{Email}#=%=#sungho.jeon@h-its.org
+Author{1}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Strube
+Author{2}{Username}#=%=#strube
+Author{2}{Email}#=%=#michael.strube@h-its.org
+Author{2}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+
+==========

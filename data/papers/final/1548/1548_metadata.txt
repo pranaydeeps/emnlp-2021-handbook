@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1548
+FinalPaperTitle#=%=#Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Prasetya Ajie Utama
+JobTitle#==#
+Organization#==#UKP Lab
+Hochschulstraße 10
+64289 Darmstadt
+Abstract#==#Recent prompt-based approaches allow pretrained language models to achieve strong performances on few-shot finetuning by reformulating downstream tasks as a language modeling problem. In this work, we demonstrate that, despite its advantages on low data regimes, finetuned prompt-based models for sentence pair classification tasks still suffer from a common pitfall of adopting inference heuristics based on lexical overlap, e.g., models incorrectly assuming a sentence pair is of the same meaning because they consist of the same set of words. Interestingly, we find that this particular inference heuristic is significantly less present in the zero-shot evaluation of the prompt-based model, indicating how finetuning can be destructive to useful knowledge learned during the pretraining. We then show that adding a regularization that preserves pretraining weights is effective in mitigating this destructive tendency of few-shot finetuning. Our evaluation on three datasets demonstrates promising improvements on the three corresponding challenge datasets used to diagnose the inference heuristics.
+Author{1}{Firstname}#=%=#Prasetya
+Author{1}{Lastname}#=%=#Utama
+Author{1}{Username}#=%=#putama
+Author{1}{Email}#=%=#utama@aiphes.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Nafise Sadat
+Author{2}{Lastname}#=%=#Moosavi
+Author{2}{Username}#=%=#ns.moosavi
+Author{2}{Email}#=%=#ns.moosavi@gmail.com
+Author{2}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{3}{Firstname}#=%=#Victor
+Author{3}{Lastname}#=%=#Sanh
+Author{3}{Username}#=%=#victorsanh
+Author{3}{Email}#=%=#victor@huggingface.co
+Author{3}{Affiliation}#=%=#Hugging Face
+Author{4}{Firstname}#=%=#Iryna
+Author{4}{Lastname}#=%=#Gurevych
+Author{4}{Username}#=%=#gurevych
+Author{4}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{4}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

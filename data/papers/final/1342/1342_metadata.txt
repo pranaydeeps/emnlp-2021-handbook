@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1342
+FinalPaperTitle#=%=#{E}fficient{BERT}: Progressively Searching Multilayer Perceptron via Warm-up Knowledge Distillation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Chenhe Dong
+JobTitle#==#
+Organization#==#
+Abstract#==#Pre-trained language models have shown remarkable results on various NLP tasks. Nevertheless, due to their bulky size and slow inference speed, it is hard to deploy them on edge devices. In this paper, we have a critical insight that improving the feed-forward network (FFN) in BERT has a higher gain than improving the multi-head attention (MHA) since the computational cost of FFN is 2$\sim$3 times larger than MHA. Hence, to compact BERT, we are devoted to designing efficient FFN as opposed to previous works that pay attention to MHA. Since FFN comprises a multilayer perceptron (MLP) that is essential in BERT optimization, we further design a thorough search space towards an advanced MLP and perform a coarse-to-fine mechanism to search for an efficient BERT architecture. Moreover, to accelerate searching and enhance model transferability, we employ a novel warm-up knowledge distillation strategy at each search stage. Extensive experiments show our searched EfficientBERT is 6.9$\times$ smaller and 4.4$\times$ faster than BERT$\rm_{BASE}$, and has competitive performances on GLUE and SQuAD Benchmarks. Concretely, EfficientBERT attains a 77.7 average score on GLUE \emph{test}, 0.7 higher than MobileBERT$\rm_{TINY}$, and achieves an 85.3/74.5 F1 score on SQuAD v1.1/v2.0 \emph{dev}, 3.2/2.7 higher than TinyBERT$_4$ even without data augmentation. The code is released at \url{https://github.com/cheneydon/efficient-bert}.
+Author{1}{Firstname}#=%=#Chenhe
+Author{1}{Lastname}#=%=#Dong
+Author{1}{Username}#=%=#cheney
+Author{1}{Email}#=%=#dongchh@mail2.sysu.edu.cn
+Author{1}{Affiliation}#=%=#Sun Yat-sen University
+Author{2}{Firstname}#=%=#Guangrun
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangguangrun
+Author{2}{Email}#=%=#wanggrun@mail2.sysu.edu.cn
+Author{2}{Affiliation}#=%=#Sun Yat-sen University
+Author{3}{Firstname}#=%=#Hang
+Author{3}{Lastname}#=%=#XU
+Author{3}{Username}#=%=#xuhang
+Author{3}{Email}#=%=#xbjxh@live.com
+Author{3}{Affiliation}#=%=#Noah's Ark Lab
+Author{4}{Firstname}#=%=#jiefeng
+Author{4}{Lastname}#=%=#Peng
+Author{4}{Username}#=%=#pengjiefeng
+Author{4}{Email}#=%=#jiefengpeng@gmail.com
+Author{4}{Affiliation}#=%=#DMAI
+Author{5}{Firstname}#=%=#Xiaozhe
+Author{5}{Lastname}#=%=#REN
+Author{5}{Username}#=%=#renxiaozhe
+Author{5}{Email}#=%=#renxiaozhe@huawei.com
+Author{5}{Affiliation}#=%=#Huawei Noah’s Ark Lab
+Author{6}{Firstname}#=%=#Xiaodan
+Author{6}{Lastname}#=%=#Liang
+Author{6}{Username}#=%=#lemondan1991
+Author{6}{Email}#=%=#xdliang328@gmail.com
+Author{6}{Affiliation}#=%=#Sun Yat-sen University
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3634
+FinalPaperTitle#=%=#"It doesn't look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Victor Soares Bursztyn
+JobTitle#==#
+Organization#==#
+Abstract#==#Conversations aimed at determining good recommendations are iterative in nature. People often express their preferences in terms of a critique of the current recommendation (e.g., "It doesn't look good for a date"), requiring some degree of common sense for a preference to be inferred. In this work, we present a method for transforming a user critique into a positive preference (e.g., "I prefer more romantic") in order to retrieve reviews pertaining to potentially better recommendations (e.g., "Perfect for a romantic dinner"). We leverage a large neural language model (LM) in a few-shot setting to perform critique-to-preference transformation, and we test two methods for retrieving recommendations: one that matches embeddings, and another that fine-tunes an LM for the task. We instantiate this approach in the restaurant domain and evaluate it using a new dataset of restaurant critiques. In an ablation study, we show that utilizing critique-to-preference transformation improves recommendations, and that there are at least three general cases that explain this improved performance.
+Author{1}{Firstname}#=%=#Victor
+Author{1}{Lastname}#=%=#Bursztyn
+Author{1}{Username}#=%=#vbursztyn
+Author{1}{Email}#=%=#victorbursztyn2022@u.northwestern.edu
+Author{1}{Affiliation}#=%=#Northwestern University
+Author{2}{Firstname}#=%=#Jennifer
+Author{2}{Lastname}#=%=#Healey
+Author{2}{Username}#=%=#jenniferhealey
+Author{2}{Email}#=%=#jehealey@adobe.com
+Author{2}{Affiliation}#=%=#Adobe
+Author{3}{Firstname}#=%=#Nedim
+Author{3}{Lastname}#=%=#Lipka
+Author{3}{Username}#=%=#logi8811
+Author{3}{Email}#=%=#lipka@adobe.com
+Author{3}{Affiliation}#=%=#Adobe Research
+Author{4}{Firstname}#=%=#Eunyee
+Author{4}{Lastname}#=%=#Koh
+Author{4}{Username}#=%=#eunyee
+Author{4}{Email}#=%=#eunyee@adobe.com
+Author{4}{Affiliation}#=%=#Adobe Research
+Author{5}{Firstname}#=%=#Doug
+Author{5}{Lastname}#=%=#Downey
+Author{5}{Username}#=%=#ddowney
+Author{5}{Email}#=%=#ddowney@eecs.northwestern.edu
+Author{5}{Affiliation}#=%=#Allen Institute for AI, Northwestern University
+Author{6}{Firstname}#=%=#Larry
+Author{6}{Lastname}#=%=#Birnbaum
+Author{6}{Username}#=%=#labirnbaum
+Author{6}{Email}#=%=#l-birnbaum@northwestern.edu
+Author{6}{Affiliation}#=%=#Northwestern University
+
+==========

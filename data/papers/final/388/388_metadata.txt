@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#388
+FinalPaperTitle#=%=#Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Runxin Xu
+JobTitle#==#
+Organization#==#Peking University, No.5 Yiheyuan Road, Haidian District, Beijing, P.R.China
+Abstract#==#Recent pretrained language models extend from millions to billions of parameters. Thus the need to fine-tune an extremely large pretrained model with a limited training corpus arises in various downstream tasks.
+In this paper, we propose a straightforward yet effective fine-tuning technique, Child-Tuning, which updates a subset of parameters (called child network) of large pretrained models via strategically masking out the gradients of the non-child network during the backward process.
+Experiments on various downstream tasks in GLUE benchmark show that Child-Tuning consistently outperforms the vanilla fine-tuning by 1.5~8.6 average score among four different pretrained models, and surpasses the prior fine-tuning techniques by 0.6~1.3 points.
+Furthermore, empirical results on domain transfer and task transfer show that Child-Tuning can obtain better generalization performance by large margins.
+Author{1}{Firstname}#=%=#Runxin
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#runxinxu
+Author{1}{Email}#=%=#runxinxu@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Computational Linguistic, Peking University
+Author{2}{Firstname}#=%=#Fuli
+Author{2}{Lastname}#=%=#Luo
+Author{2}{Username}#=%=#luofuli
+Author{2}{Email}#=%=#luofuli@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Zhiyuan
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#zhangzhiyuan
+Author{3}{Email}#=%=#zzy1210@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Chuanqi
+Author{4}{Lastname}#=%=#Tan
+Author{4}{Username}#=%=#ysjtcq
+Author{4}{Email}#=%=#chuanqi.tcq@alibaba-inc.com
+Author{4}{Affiliation}#=%=#Alibaba Group
+Author{5}{Firstname}#=%=#Baobao
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Username}#=%=#changbaobao
+Author{5}{Email}#=%=#chbb@pku.edu.cn
+Author{5}{Affiliation}#=%=#Institute of Computational Linguistic, Peking University
+Author{6}{Firstname}#=%=#Songfang
+Author{6}{Lastname}#=%=#Huang
+Author{6}{Username}#=%=#sfhuang
+Author{6}{Email}#=%=#songfang.hsf@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{7}{Firstname}#=%=#Fei
+Author{7}{Lastname}#=%=#Huang
+Author{7}{Username}#=%=#fei.huang
+Author{7}{Email}#=%=#feirhuang@gmail.com
+Author{7}{Affiliation}#=%=#Alibaba DAMO Academy
+
+==========

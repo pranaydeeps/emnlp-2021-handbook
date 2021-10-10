@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3324
+FinalPaperTitle#=%=#Unsupervised Chunking as Syntactic Structure Induction with a Knowledge-Transfer Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Anup Anand Deshmukh
+JobTitle#==#Student
+Organization#==#University of Waterloo, 200 University Ave W, Waterloo, ON N2L 3G1, Canada
+Abstract#==#In this paper, we address unsupervised chunking as a new task of syntactic structure induction, which is helpful for understanding the linguistic structures of human languages as well as processing low-resource languages. We propose a knowledge-transfer approach that heuristically induces chunk labels from state-of-the-art unsupervised parsing models; a hierarchical recurrent neural network (HRNN) learns from such induced chunk labels to smooth out the noise of the heuristics. Experiments show that our approach largely bridges the gap between supervised and unsupervised chunking.
+Author{1}{Firstname}#=%=#Anup Anand
+Author{1}{Lastname}#=%=#Deshmukh
+Author{1}{Username}#=%=#danup1997
+Author{1}{Email}#=%=#aa2deshmukh@uwaterloo.ca
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Qianqiu
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#qianqiu
+Author{2}{Email}#=%=#qianqiu@ualberta.ca
+Author{2}{Affiliation}#=%=#ualberta.ca
+Author{3}{Firstname}#=%=#Ming
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#mli_1997
+Author{3}{Email}#=%=#mli@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+Author{4}{Firstname}#=%=#Jimmy
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Username}#=%=#jimmylin
+Author{4}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{4}{Affiliation}#=%=#University of Waterloo
+Author{5}{Firstname}#=%=#Lili
+Author{5}{Lastname}#=%=#Mou
+Author{5}{Username}#=%=#moulili
+Author{5}{Email}#=%=#doublepower.mou@gmail.com
+Author{5}{Affiliation}#=%=#University of Alberta
+
+==========

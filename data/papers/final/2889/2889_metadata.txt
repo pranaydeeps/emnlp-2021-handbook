@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2889
+FinalPaperTitle#=%=#RW-KD: Sample-wise Loss Terms Re-Weighting for Knowledge Distillation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Peng Lu
+JobTitle#==#
+Organization#==#Name: University of Montreal
+Address: 2900 Bd Edouard-Montpetit, Montréal, QC, Canada, H3T 1J4
+Abstract#==#Knowledge Distillation (KD) is extensively used in Natural Language Processing to compress the pre-training and task-specific fine-tuning phases of large neural language models. A student model is trained to minimize a convex combination of the prediction loss over the labels and another over the teacher output. However, most existing works either fix the interpolating weight between the two losses apriori or vary the weight using heuristics. In this work, we propose a novel sample-wise loss weighting method, RW-KD. A meta-learner, simultaneously trained with the student, adaptively re-weights the two losses for each sample. We demonstrate, on 7 datasets of the GLUE benchmark, that RW-KD outperforms other loss re-weighting methods for KD.
+Author{1}{Firstname}#=%=#Peng
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Username}#=%=#lupeng1101
+Author{1}{Email}#=%=#peng.lu@umontreal.ca
+Author{1}{Affiliation}#=%=#University of Montreal
+Author{2}{Firstname}#=%=#Abbas
+Author{2}{Lastname}#=%=#Ghaddar
+Author{2}{Username}#=%=#ghaddara
+Author{2}{Email}#=%=#abbas.ghaddar@huawei.com
+Author{2}{Affiliation}#=%=#Huawei Noah's Ark Lab, Montreal Research Center
+Author{3}{Firstname}#=%=#Ahmad
+Author{3}{Lastname}#=%=#Rashid
+Author{3}{Username}#=%=#ahmadrashid
+Author{3}{Email}#=%=#ahmad.rashid@huawei.com
+Author{3}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{4}{Firstname}#=%=#Mehdi
+Author{4}{Lastname}#=%=#Rezagholizadeh
+Author{4}{Username}#=%=#mrgzadeh
+Author{4}{Email}#=%=#mehdi.rezagholizadeh@gmail.com
+Author{4}{Affiliation}#=%=#Noah's Ark Lab Huawei
+Author{5}{Firstname}#=%=#Ali
+Author{5}{Lastname}#=%=#Ghodsi
+Author{5}{Username}#=%=#aghodsib
+Author{5}{Email}#=%=#ali.ghodsi@uwaterloo.ca
+Author{5}{Affiliation}#=%=#University of Waterloo
+Author{6}{Firstname}#=%=#Philippe
+Author{6}{Lastname}#=%=#Langlais
+Author{6}{Email}#=%=#felipe@iro.umontreal.ca
+Author{6}{Affiliation}#=%=#University of Montreal
+
+==========

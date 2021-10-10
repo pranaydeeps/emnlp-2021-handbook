@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#4163
+FinalPaperTitle#=%=#Entity-Based Knowledge Conflicts in Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Shayne Longpre
+JobTitle#==#
+Organization#==#
+Abstract#==#Knowledge-dependent tasks typically use two sources of knowledge: parametric, learned at training time, and contextual, given as a passage at inference time.
+To understand how models use these sources together, we formalize the problem of knowledge conflicts, where the contextual information contradicts the learned information.
+Analyzing the behaviour of popular models, we measure their over-reliance on memorized information (the cause of hallucinations), and uncover important factors that exacerbate this behaviour.
+Lastly, we propose a simple method to mitigate over-reliance on parametric knowledge, which minimizes hallucination, and improves out-of-distribution generalization by 4% - 7%.
+Our findings demonstrate the importance for practitioners to evaluate model tendency to hallucinate rather than read, and show that our mitigation strategy encourages generalization to evolving information (i.e. time-dependent queries).
+To encourage these practices, we have released our framework for generating knowledge conflicts.
+Author{1}{Firstname}#=%=#Shayne
+Author{1}{Lastname}#=%=#Longpre
+Author{1}{Username}#=%=#slongpre
+Author{1}{Email}#=%=#shayne.longpre@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Apple
+Author{2}{Firstname}#=%=#Kartik
+Author{2}{Lastname}#=%=#Perisetla
+Author{2}{Username}#=%=#kartikperisetla
+Author{2}{Email}#=%=#kperisetla@apple.com
+Author{2}{Affiliation}#=%=#Apple Inc.
+Author{3}{Firstname}#=%=#Anthony
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#anthonychen
+Author{3}{Email}#=%=#anthony.chen@uci.edu
+Author{3}{Affiliation}#=%=#University of California, Irvine
+Author{4}{Firstname}#=%=#Nikhil
+Author{4}{Lastname}#=%=#Ramesh
+Author{4}{Username}#=%=#nikhilramesh
+Author{4}{Email}#=%=#nikutopian@gmail.com
+Author{4}{Affiliation}#=%=#Apple Inc
+Author{5}{Firstname}#=%=#Chris
+Author{5}{Lastname}#=%=#DuBois
+Author{5}{Username}#=%=#cdubois
+Author{5}{Email}#=%=#chris.dubois@gmail.com
+Author{5}{Affiliation}#=%=#Apple
+Author{6}{Firstname}#=%=#Sameer
+Author{6}{Lastname}#=%=#Singh
+Author{6}{Username}#=%=#sameer
+Author{6}{Email}#=%=#sameer@uci.edu
+Author{6}{Affiliation}#=%=#University of California, Irvine
+
+==========

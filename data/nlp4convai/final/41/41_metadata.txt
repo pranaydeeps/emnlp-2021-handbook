@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#XPersona: Evaluating Multilingual Personalized Chatbot
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhaojiang Lin
+JobTitle#==#
+Organization#==#
+Abstract#==#Personalized dialogue systems are an essential step toward better human-machine interaction. Existing personalized dialogue agents rely on properly designed conversational datasets, which are mostly monolingual (e.g., English), which greatly limits the usage of conversational agents in other languages. In this paper, we propose a multi-lingual extension of Persona-Chat, namely XPersona. Our dataset includes persona conversations in six different languages other than English for evaluating multilingual personalized agents. We experiment with both multilingual and cross-lingual trained baselines and evaluate them against monolingual and translation-pipeline models using both automatic and human evaluation. Experimental results show that the multilingual trained models outperform the translation pipeline and that they are on par with the monolingual models, with the advantage of having a single model across multiple languages. On the other hand, the state-of-the-art cross-lingual trained models achieve inferior performance to the other models, showing that cross-lingual conversation modeling is a challenging task. We hope that our dataset and baselines will accelerate research in multilingual dialogue systems.
+Author{1}{Firstname}#=%=#Zhaojiang
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#zlinao
+Author{1}{Email}#=%=#zlinao@connect.ust.hk
+Author{1}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Zihan
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#zihanliu
+Author{2}{Email}#=%=#zliucr@connect.ust.hk
+Author{2}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{3}{Firstname}#=%=#Genta Indra
+Author{3}{Lastname}#=%=#Winata
+Author{3}{Username}#=%=#giwinata
+Author{3}{Email}#=%=#giwinata@connect.ust.hk
+Author{3}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{4}{Firstname}#=%=#Samuel
+Author{4}{Lastname}#=%=#Cahyawijaya
+Author{4}{Username}#=%=#samuel.cahyawijaya
+Author{4}{Email}#=%=#scahyawijaya@connect.ust.hk
+Author{4}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{5}{Firstname}#=%=#Andrea
+Author{5}{Lastname}#=%=#Madotto
+Author{5}{Username}#=%=#andreamad8
+Author{5}{Email}#=%=#amadotto@connect.ust.hk
+Author{5}{Affiliation}#=%=#The Hong Kong University Of Science and Technology
+Author{6}{Firstname}#=%=#Yejin
+Author{6}{Lastname}#=%=#Bang
+Author{6}{Username}#=%=#yjbang
+Author{6}{Email}#=%=#yjbang@connect.ust.hk
+Author{6}{Affiliation}#=%=#the Hong Kong University of Science and Technology
+Author{7}{Firstname}#=%=#Etsuko
+Author{7}{Lastname}#=%=#Ishii
+Author{7}{Username}#=%=#etsukoishii
+Author{7}{Email}#=%=#eishii@connect.ust.hk
+Author{7}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{8}{Firstname}#=%=#Pascale
+Author{8}{Lastname}#=%=#Fung
+Author{8}{Username}#=%=#pascale
+Author{8}{Email}#=%=#pascale@ece.ust.hk
+Author{8}{Affiliation}#=%=#Hong Kong University of Science and Technology
+
+==========

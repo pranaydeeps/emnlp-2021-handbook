@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Team Enigma at ArgMining-EMNLP 2021: Leveraging Pre-trained Language Models for Key Point Matching
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Manav Nitin Kapadnis
+JobTitle#==#
+Organization#==#Indian Institute of Technology Kharagpur, Kharagpur, West Bengal, India
+Abstract#==#We present the system description for our submission towards the Key Point Analysis Shared Task at ArgMining 2021. Track 1 of the shared task requires participants to develop methods to predict the match score between each pair of arguments and key points, provided they belong to the same topic under the same stance. We leveraged existing state of the art pre-trained language models along with incorporating additional data and features extracted from the inputs (topics, key points, and arguments) to improve performance. We were able to achieve mAP strict and mAP relaxed score of 0.872 and 0.966 respectively in the evaluation phase, securing 5th place on the leaderboard. In the post evaluation phase, we achieved a mAP strict and mAP relaxed score of 0.921 and 0.982 respectively.
+Author{1}{Firstname}#=%=#Manav
+Author{1}{Lastname}#=%=#Kapadnis
+Author{1}{Username}#=%=#iammanavk
+Author{1}{Email}#=%=#iammanavk@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology, Kharagpur
+Author{2}{Firstname}#=%=#Sohan
+Author{2}{Lastname}#=%=#Patnaik
+Author{2}{Username}#=%=#sohanpatnaik106
+Author{2}{Email}#=%=#sohanpatnaik106@gmail.com
+Author{2}{Affiliation}#=%=#Undergraduate at Indian Institute of Technology Kharagpur
+Author{3}{Firstname}#=%=#Siba
+Author{3}{Lastname}#=%=#Panigrahi
+Author{3}{Username}#=%=#sibasmarak
+Author{3}{Email}#=%=#sibasmarak.p@gmail.com
+Author{3}{Affiliation}#=%=#Indian Institute of Technology, Kharagpur
+Author{4}{Firstname}#=%=#Varun
+Author{4}{Lastname}#=%=#Madhavan
+Author{4}{Username}#=%=#vmm
+Author{4}{Email}#=%=#varun.m.iitkgp@gmail.com
+Author{4}{Affiliation}#=%=#Indian Institute of Technology Kharagpur
+Author{5}{Firstname}#=%=#Abhilash
+Author{5}{Lastname}#=%=#Nandy
+Author{5}{Username}#=%=#abhi1nandy2
+Author{5}{Email}#=%=#nandyabhilash@gmail.com
+Author{5}{Affiliation}#=%=#Indian Institute of Technology, Kharagpur
+
+==========

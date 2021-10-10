@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#2727
+FinalPaperTitle#=%=#Don't Search for a Search Method --- Simple Heuristics Suffice for Adversarial Text Attacks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Nathaniel Berger
+JobTitle#==#
+Organization#==#
+Abstract#==#Recently more attention has been given to adversarial attacks on neural networks for natural language processing (NLP). A central research topic has been the investigation of search algorithms and search constraints, accompanied by benchmark algorithms and tasks.
+We implement an algorithm inspired by zeroth order optimization-based attacks and compare with the benchmark results in the TextAttack framework. Surprisingly, we find that optimization-based methods do not yield any improvement in a constrained setup and slightly benefit from approximate gradient information only in unconstrained setups where search spaces are larger. In contrast, simple heuristics exploiting nearest neighbors without querying the target function yield substantial success rates in constrained setups, and nearly full success rate in unconstrained setups, at an order of magnitude fewer queries.
+We conclude from these results that current TextAttack benchmark tasks are too easy and constraints are too strict, preventing meaningful research on black-box adversarial text attacks.
+Author{1}{Firstname}#=%=#Nathaniel
+Author{1}{Lastname}#=%=#Berger
+Author{1}{Username}#=%=#berger1995
+Author{1}{Email}#=%=#berger@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#Heidelberg University
+Author{2}{Firstname}#=%=#Stefan
+Author{2}{Lastname}#=%=#Riezler
+Author{2}{Username}#=%=#riezler
+Author{2}{Email}#=%=#riezler@cl.uni-heidelberg.de
+Author{2}{Affiliation}#=%=#Heidelberg University
+Author{3}{Firstname}#=%=#Sebastian
+Author{3}{Lastname}#=%=#Ebert
+Author{3}{Username}#=%=#sebastian_ebert
+Author{3}{Email}#=%=#eberts@google.com
+Author{3}{Affiliation}#=%=#Google Research
+Author{4}{Firstname}#=%=#Artem
+Author{4}{Lastname}#=%=#Sokolov
+Author{4}{Username}#=%=#artem
+Author{4}{Email}#=%=#gposhta@gmail.com
+Author{4}{Affiliation}#=%=#Google
+
+==========

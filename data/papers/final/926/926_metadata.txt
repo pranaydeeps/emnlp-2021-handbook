@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#926
+FinalPaperTitle#=%=#Assessing the Reliability of Word Embedding Gender Bias Measures
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Yupei Du
+JobTitle#==#
+Organization#==#
+Abstract#==#Various measures have been proposed to quantify human-like social biases in word embeddings. However, bias scores based on these measures can suffer from measurement error. One indication of measurement quality is reliability, concerning the extent to which a measure produces consistent results. In this paper, we assess three types of reliability of word embedding gender bias measures, namely test-retest reliability, inter-rater consistency and internal consistency. Specifically, we investigate the consistency of bias scores across different choices of random seeds, scoring rules and words. Furthermore, we analyse the effects of various factors on these measures’ reliability scores. Our findings inform better design of word embedding gender bias measures. Moreover, we urge researchers to be more critical about the application of such measures
+Author{1}{Firstname}#=%=#Yupei
+Author{1}{Lastname}#=%=#Du
+Author{1}{Username}#=%=#yupei
+Author{1}{Email}#=%=#y.du@uu.nl
+Author{1}{Affiliation}#=%=#Utrecht University
+Author{2}{Firstname}#=%=#Qixiang
+Author{2}{Lastname}#=%=#Fang
+Author{2}{Username}#=%=#qfang
+Author{2}{Email}#=%=#q.fang@uu.nl
+Author{2}{Affiliation}#=%=#Utrecht University
+Author{3}{Firstname}#=%=#Dong
+Author{3}{Lastname}#=%=#Nguyen
+Author{3}{Username}#=%=#dnguyen
+Author{3}{Email}#=%=#dong.p.ng@gmail.com
+Author{3}{Affiliation}#=%=#Utrecht University
+
+==========

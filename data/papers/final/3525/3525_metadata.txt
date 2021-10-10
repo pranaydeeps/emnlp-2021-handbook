@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#3525
+FinalPaperTitle#=%=#CoPHE: A Count-Preserving Hierarchical Evaluation Metric in Large-Scale Multi-Label Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Matúš Falis
+JobTitle#==#
+Organization#==#School of Informatics
+University of Edinburgh
+10 Crichton St, Newington, Edinburgh EH8 9AB
+Abstract#==#Large-Scale Multi-Label Text Classification (LMTC) includes tasks with hierarchical label spaces, such as automatic assignment of ICD-9 codes to discharge summaries. Performance of models in prior art is evaluated with standard precision, recall, and F1 measures without regard for the rich hierarchical structure. In this work we argue for hierarchical evaluation of the predictions of neural LMTC models. With the example of the ICD-9 ontology we describe a structural issue in the representation of the structured label space in prior art, and propose an alternative representation based on the depth of the ontology. We propose a set of metrics for hierarchical evaluation using the depth-based representation. We compare the evaluation scores from the proposed metrics with previously used metrics on prior art LMTC models for ICD-9 coding in MIMIC-III. We also propose further avenues of research involving the proposed ontological representation.
+Author{1}{Firstname}#=%=#Matúš
+Author{1}{Lastname}#=%=#Falis
+Author{1}{Username}#=%=#matfalis
+Author{1}{Email}#=%=#s1206296@sms.ed.ac.uk
+Author{1}{Affiliation}#=%=#The University of Edinburgh
+Author{2}{Firstname}#=%=#Hang
+Author{2}{Lastname}#=%=#Dong
+Author{2}{Email}#=%=#hang.dong@ed.ac.uk
+Author{2}{Affiliation}#=%=#The University of Edinburgh
+Author{3}{Firstname}#=%=#Alexandra
+Author{3}{Lastname}#=%=#Birch
+Author{3}{Email}#=%=#a.birch@ed.ac.uk
+Author{3}{Affiliation}#=%=#The University of Edinburgh
+Author{4}{Firstname}#=%=#Beatrice
+Author{4}{Lastname}#=%=#Alex
+Author{4}{Email}#=%=#balex@exseed.ed.ac.uk
+Author{4}{Affiliation}#=%=#The University of Edinburgh
+
+==========

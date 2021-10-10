@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1072
+FinalPaperTitle#=%=#Entity-level Cross-modal Learning Improves Multi-modal Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Xin Huang
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-modal machine translation (MMT) aims at improving translation performance by incorporating visual information.
+Most of the studies leverage the visual information through integrating the global image features as auxiliary input or decoding by attending to relevant local regions of the image.
+However, this kind of usage of visual information makes it difficult to figure out how the visual modality helps and why it works.
+Inspired by the findings of \cite{caglayan-etal-2019-probing} that entities are most informative in the image, we propose an explicit entity-level cross-modal learning approach that aims to augment the entity representation. 
+Specifically, the approach is framed as a reconstruction task that reconstructs the original textural input from multi-modal input in which entities are replaced with visual features. Then, a multi-task framework is employed to combine the translation task and the reconstruction task to make full use of cross-modal entity representation learning.
+The extensive experiments demonstrate that our approach can achieve comparable or even better performance than state-of-the-art models.
+Furthermore, our in-depth analysis shows how visual information improves translation.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#hx70809
+Author{1}{Email}#=%=#xin.huang@nlpr.ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Jiajun
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#jjzhang
+Author{2}{Email}#=%=#jiajun.zhang@nlpr.ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Chengqing
+Author{3}{Lastname}#=%=#Zong
+Author{3}{Username}#=%=#zong
+Author{3}{Email}#=%=#cqzong@nlpr.ia.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+
+==========

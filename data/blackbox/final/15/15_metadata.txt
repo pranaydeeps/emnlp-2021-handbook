@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#How Length Prediction Influence the Performance of Non-Autoregressive Translation?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Minghan Wang
+JobTitle#==#
+Organization#==#Huawei Translation Services Center
+No 156 Beiqing Rd, Haidian District, Beijing, China
+Abstract#==#Length prediction is a special task in a series of NAT models where target length has to be determined before generation. However, the performance of length prediction and its influence on translation quality has seldom been discussed. In this paper, we present comprehensive analyses on length prediction task of NAT, aiming to find the factors that influence performance, as well as how it associates with translation quality. We mainly perform experiments based on Conditional Masked Language Model (CMLM) (Ghazvininejad et al., 2019), a representative NAT model, and evaluate it on two language pairs, En-De and En-Ro. We draw two conclusions: 1) The performance of length prediction is mainly influenced by properties of language pairs such as alignment pattern, word order or intrinsic length ratio, and is also affected by the usage of knowledge distilled data. 2) There is a positive correlation between the performance of the length prediction and the BLEU score.
+Author{1}{Firstname}#=%=#Minghan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#yuriak
+Author{1}{Email}#=%=#wangmh1994@gmail.com
+Author{1}{Affiliation}#=%=#Huawei Translation Services Center
+Author{2}{Firstname}#=%=#GUO
+Author{2}{Lastname}#=%=#Jiaxin
+Author{2}{Username}#=%=#faken
+Author{2}{Email}#=%=#492186938@qq.com
+Author{2}{Affiliation}#=%=#Huawei Translation Services Center
+Author{3}{Firstname}#=%=#Yuxia
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#yuxiaw
+Author{3}{Email}#=%=#yuxiaw@student.unimelb.edu.au
+Author{3}{Affiliation}#=%=#The University of Melbourne
+Author{4}{Firstname}#=%=#Yimeng
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#inmonchen
+Author{4}{Email}#=%=#601057366@qq.com
+Author{4}{Affiliation}#=%=#Huawei
+Author{5}{Firstname}#=%=#Su
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Username}#=%=#abulice
+Author{5}{Email}#=%=#abulice09@gmail.com
+Author{5}{Affiliation}#=%=#Huawei TSC
+Author{6}{Firstname}#=%=#Hengchao
+Author{6}{Lastname}#=%=#Shang
+Author{6}{Email}#=%=#shanghengchao@huawei.com
+Author{6}{Affiliation}#=%=#Huawei
+Author{7}{Firstname}#=%=#Min
+Author{7}{Lastname}#=%=#Zhang
+Author{7}{Email}#=%=#zhangmin186@huawei.com
+Author{7}{Affiliation}#=%=#Huawei
+Author{8}{Firstname}#=%=#Shimin
+Author{8}{Lastname}#=%=#Tao
+Author{8}{Email}#=%=#taoshimin@huawei.com
+Author{8}{Affiliation}#=%=#Huawei
+Author{9}{Firstname}#=%=#Hao
+Author{9}{Lastname}#=%=#Yang
+Author{9}{Username}#=%=#yanghaocsg
+Author{9}{Email}#=%=#yanghao30@huawei.com
+Author{9}{Affiliation}#=%=#Huawei Co. Ltd
+
+==========

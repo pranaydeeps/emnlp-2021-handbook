@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#294
+FinalPaperTitle#=%=#Sociolectal Analysis of Pretrained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Sheng Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Using data from English cloze tests, in which subjects also self-reported their gender, age, education, and race, we examine performance differences of pretrained language models across demographic groups, defined by these (protected) attributes. We demonstrate wide performance gaps across demographic groups and show that pretrained language models systematically disfavor young non-white male speakers; i.e., not only do pretrained language models learn social biases (stereotypical associations) -- pretrained language models  also learn sociolectal biases, learning to speak more like some than like others. We show, however, that, with the exception of BERT models, larger pretrained language models reduce some the performance gaps between majority and minority groups.
+Author{1}{Firstname}#=%=#Sheng
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zhangsheng_nudt
+Author{1}{Email}#=%=#zhangsheng@nudt.edu.cn
+Author{1}{Affiliation}#=%=#National University of Defense Technology
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#shinezhang
+Author{2}{Email}#=%=#shinezhang_nudt@qq.com
+Author{2}{Affiliation}#=%=#National University of Defense Technology
+Author{3}{Firstname}#=%=#Weiming
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#wmzhang
+Author{3}{Email}#=%=#wmzhang@nudt.edu.cn
+Author{3}{Affiliation}#=%=#National University of Defense Technology
+Author{4}{Firstname}#=%=#Anders
+Author{4}{Lastname}#=%=#Søgaard
+Author{4}{Username}#=%=#soegaard
+Author{4}{Email}#=%=#soegaard@di.ku.dk
+Author{4}{Affiliation}#=%=#University of Copenhagen
+
+==========

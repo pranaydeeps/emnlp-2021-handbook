@@ -1,0 +1,90 @@
+SubmissionNumber#=%=#3758
+FinalPaperTitle#=%=#A Large-Scale Study of Machine Translation in Turkic Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Jamshidbek Mirzakhalov
+JobTitle#==#
+Organization#==#University of South Florida
+Abstract#==#Recent advances in neural machine translation (NMT) have pushed the quality of machine translation systems to the point where they are becoming widely adopted to build competitive systems. However, there is still a large number of languages that are yet to reap the benefits of NMT. In this paper, we provide the first large-scale case study of the practical application of MT in the Turkic language family in order to realize the gains of NMT for Turkic languages under high-resource to extremely low-resource scenarios. In addition to presenting an extensive analysis that identifies the bottlenecks towards building competitive systems to ameliorate data scarcity, our study has several key contributions, including, i) a large parallel corpus covering 22 Turkic languages consisting of common public datasets in combination with new datasets of approximately 1.4 million parallel sentences, ii) bilingual baselines for 26 language pairs, iii) novel high-quality test sets in three different translation domains and iv) human evaluation scores. All models, scripts, and data will be released to the public.
+Author{1}{Firstname}#=%=#Jamshidbek
+Author{1}{Lastname}#=%=#Mirzakhalov
+Author{1}{Username}#=%=#mirzakhalov
+Author{1}{Email}#=%=#mirzakhalov@usf.edu
+Author{1}{Affiliation}#=%=#University of South Florida
+Author{2}{Firstname}#=%=#Anoop
+Author{2}{Lastname}#=%=#Babu
+Author{2}{Username}#=%=#anoopbabu29
+Author{2}{Email}#=%=#anoopbabu@usf.edu
+Author{2}{Affiliation}#=%=#University of South Florida
+Author{3}{Firstname}#=%=#Duygu
+Author{3}{Lastname}#=%=#Ataman
+Author{3}{Username}#=%=#dataman
+Author{3}{Email}#=%=#ataman@nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+Author{4}{Firstname}#=%=#Sherzod
+Author{4}{Lastname}#=%=#Kariev
+Author{4}{Username}#=%=#sherzod99
+Author{4}{Email}#=%=#sherzod@usf.edu
+Author{4}{Affiliation}#=%=#University of South Florida
+Author{5}{Firstname}#=%=#Francis
+Author{5}{Lastname}#=%=#Tyers
+Author{5}{Username}#=%=#fmt
+Author{5}{Email}#=%=#ftyers@prompsit.com
+Author{5}{Affiliation}#=%=#Indiana University
+Author{6}{Firstname}#=%=#Otabek
+Author{6}{Lastname}#=%=#Abduraufov
+Author{6}{Username}#=%=#otabek
+Author{6}{Email}#=%=#otabek1@usf.edu
+Author{6}{Affiliation}#=%=#University of South Florida
+Author{7}{Firstname}#=%=#Mammad
+Author{7}{Lastname}#=%=#Hajili
+Author{7}{Username}#=%=#hajili
+Author{7}{Email}#=%=#mammad.hajili@epfl.ch
+Author{7}{Affiliation}#=%=#EPFL
+Author{8}{Firstname}#=%=#Sardana
+Author{8}{Lastname}#=%=#Ivanova
+Author{8}{Username}#=%=#sardana.ivanova
+Author{8}{Email}#=%=#sardana.ivanova@helsinki.fi
+Author{8}{Affiliation}#=%=#University of Helsinki
+Author{9}{Firstname}#=%=#Abror
+Author{9}{Lastname}#=%=#Khaytbaev
+Author{9}{Username}#=%=#akhaytbaev
+Author{9}{Email}#=%=#akhaytbaev@usf.edu
+Author{9}{Affiliation}#=%=#Turkic Inter Lingua
+Author{10}{Firstname}#=%=#Antonio
+Author{10}{Lastname}#=%=#Laverghetta Jr.
+Author{10}{Username}#=%=#alaverghetta
+Author{10}{Email}#=%=#alaverghett@usf.edu
+Author{10}{Affiliation}#=%=#University of South Florida
+Author{11}{Firstname}#=%=#Bekhzodbek
+Author{11}{Lastname}#=%=#Moydinboyev
+Author{11}{Username}#=%=#behzod
+Author{11}{Email}#=%=#bmoydinboyev@usf.edu
+Author{11}{Affiliation}#=%=#University of South Florida
+Author{12}{Firstname}#=%=#Esra
+Author{12}{Lastname}#=%=#Onal
+Author{12}{Username}#=%=#esraonal
+Author{12}{Email}#=%=#esraonal@iu.edu
+Author{12}{Affiliation}#=%=#Indiana University
+Author{13}{Firstname}#=%=#Shaxnoza
+Author{13}{Lastname}#=%=#Pulatova
+Author{13}{Username}#=%=#shakhnoza
+Author{13}{Email}#=%=#shahnozapulatova2333@gmail.com
+Author{13}{Affiliation}#=%=#Independent
+Author{14}{Firstname}#=%=#Ahsan
+Author{14}{Lastname}#=%=#Wahab
+Author{14}{Username}#=%=#ahsanwahab
+Author{14}{Email}#=%=#ahsanwahabawt@gmail.com
+Author{14}{Affiliation}#=%=#Turkic Interlingua
+Author{15}{Firstname}#=%=#Orhan
+Author{15}{Lastname}#=%=#Firat
+Author{15}{Username}#=%=#orhanf
+Author{15}{Email}#=%=#orhanf@google.com
+Author{15}{Affiliation}#=%=#Google AI
+Author{16}{Firstname}#=%=#Sriram
+Author{16}{Lastname}#=%=#Chellappan
+Author{16}{Username}#=%=#sriramchellappan
+Author{16}{Email}#=%=#sriramc@usf.edu
+Author{16}{Affiliation}#=%=#Univ. of South Florida
+
+==========

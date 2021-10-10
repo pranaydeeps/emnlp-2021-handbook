@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3683
+FinalPaperTitle#=%=#Reconsidering the Past: Optimizing Hidden States in Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Davis Yoshida
+JobTitle#==#
+Organization#==#
+Abstract#==#We present Hidden-State Optimization (HSO), a gradient-based method for improving the performance of transformer language models at inference time. Similar to dynamic evaluation (Krause et al., 2018), HSO computes the gradient of the log-probability the language model assigns to an evaluation text, but uses it to update the cached hidden states rather than the model parameters. We test HSO with pretrained Transformer-XL and GPT-2 language models, finding improvement on the WikiText-103 and PG-19 datasets in terms of perplexity, especially when evaluating a model outside of its training distribution. We also demonstrate downstream applicability by showing gains in the recently developed prompt-based few-shot evaluation setting, again with no extra parameters or training data.
+Author{1}{Firstname}#=%=#Davis
+Author{1}{Lastname}#=%=#Yoshida
+Author{1}{Username}#=%=#davisyoshida
+Author{1}{Email}#=%=#dyoshida@ttic.edu
+Author{1}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Gimpel
+Author{2}{Username}#=%=#kgimpel
+Author{2}{Email}#=%=#kgimpel@ttic.edu
+Author{2}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+
+==========

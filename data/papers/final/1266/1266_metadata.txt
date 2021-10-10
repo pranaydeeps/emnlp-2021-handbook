@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1266
+FinalPaperTitle#=%=#Solving Aspect Category Sentiment Analysis as a Text Generation Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jian Liu
+JobTitle#==#
+Organization#==#School of Computer Science, Fudan University
+Shanghai, China
+Abstract#==#Aspect category sentiment analysis has attracted increasing research attention. The dominant methods make use of pre-trained language models by learning effective aspect category-specific representations, and adding specific output layers to its pre-trained representation. We consider a more direct way of making use of pre-trained language models, by casting the ACSA tasks into natural language generation tasks, using natural language sentences to represent the output. Our method allows more direct use of pre-trained knowledge in seq2seq language models by directly following the task setting during pre-training. Experiments on several benchmarks show that our method gives the best reported results, having large advantages in few-shot and zero-shot settings.
+Author{1}{Firstname}#=%=#Jian
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#lgw863
+Author{1}{Email}#=%=#jianliu17@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Zhiyang
+Author{2}{Lastname}#=%=#Teng
+Author{2}{Username}#=%=#zeeeyang
+Author{2}{Email}#=%=#tengzhiyang@westlake.edu.cn
+Author{2}{Affiliation}#=%=#Westlake University
+Author{3}{Firstname}#=%=#Leyang
+Author{3}{Lastname}#=%=#Cui
+Author{3}{Username}#=%=#leyangcui
+Author{3}{Email}#=%=#cuileyang@westlake.edu.cn
+Author{3}{Affiliation}#=%=#Zhejiang University , Westlake University
+Author{4}{Firstname}#=%=#Hanmeng
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#hanmeng
+Author{4}{Email}#=%=#liuhanmeng@zju.edu.cn
+Author{4}{Affiliation}#=%=#Zhejiang University
+Author{5}{Firstname}#=%=#Yue
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#frcchang
+Author{5}{Email}#=%=#yue.zhang@wias.org.cn
+Author{5}{Affiliation}#=%=#Westlake University
+
+==========

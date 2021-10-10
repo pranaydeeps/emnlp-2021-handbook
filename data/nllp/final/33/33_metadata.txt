@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Named Entity Recognition in Historic Legal Text: A Transformer and State Machine Ensemble Method
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Fernando Trias
+JobTitle#==#
+Organization#==#Harvard University
+Abstract#==#Older legal texts are often scanned and digitized via Optical Character Recognition (OCR), which results in numerous errors. Although spelling and grammar checkers can correct much of the scanned text automatically, Named Entity Recognition (NER) is challenging, making correction of names difficult. To solve this, we developed an ensemble language model using a transformer neural network architecture combined with a finite state machine to extract names from English-language legal text. We use the US-based English language Harvard Caselaw Access Project for training and testing. Then, the extracted names are subjected to heuristic textual analysis to identify errors, make corrections, and quantify the extent of problems. With this system, we are able to extract most names, automatically correct numerous errors and identify potential mistakes that can later be reviewed for manual correction.
+Author{1}{Firstname}#=%=#Fernando
+Author{1}{Lastname}#=%=#Trias
+Author{1}{Username}#=%=#ftrias
+Author{1}{Email}#=%=#f@trias.org
+Author{1}{Affiliation}#=%=#Harvard University
+Author{2}{Firstname}#=%=#Hongming
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#hw2
+Author{2}{Email}#=%=#hongming.wang@protonmail.com
+Author{2}{Affiliation}#=%=#Harvard Unviersity
+Author{3}{Firstname}#=%=#Sylvain
+Author{3}{Lastname}#=%=#Jaume
+Author{3}{Email}#=%=#sylvain@csail.mit.edu
+Author{3}{Affiliation}#=%=#Harvard University
+Author{4}{Firstname}#=%=#Stratos
+Author{4}{Lastname}#=%=#Idreos
+Author{4}{Email}#=%=#stratos@seas.harvard.edu
+Author{4}{Affiliation}#=%=#Harvard University
+
+==========

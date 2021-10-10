@@ -158,7 +158,11 @@ for date in dates:
                 if paper_num > 0:
                     print >>out, '  \\hline'
                 print >>out, '  \\marginnote{\\rotatebox{90}{%s}}[2mm]' % (times[paper_num])
-                papers = [session.papers[paper_num] for session in parallel_sessions]
+                try:
+                    papers = [session.papers[paper_num] for session in parallel_sessions]
+                except:
+                    print(papers)
+                    print(paper_num)
                 print >>out, ' ', ' & '.join(['\\papertableentry{%s}' % (p.id) for p in papers])
                 print >>out, '  \\\\'
 

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#4195
+FinalPaperTitle#=%=#Not All Negatives are Equal: {L}abel-Aware Contrastive Loss for Fine-grained Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Varsha Suresh
+JobTitle#==#
+Organization#==#
+Abstract#==#Fine-grained classification involves dealing with datasets with larger number of classes with subtle differences between them. Guiding the model to focus on differentiating dimensions between these commonly confusable classes is key to improving performance on fine-grained tasks. In this work, we analyse the contrastive fine-tuning of pre-trained language models on two fine-grained text classification tasks, emotion classification and sentiment analysis. We adaptively embed class relationships into a contrastive objective function to help differently weigh the positives and negatives, and in particular, weighting closely confusable negatives more than less similar negative examples. We find that Label-aware Contrastive Loss outperforms previous contrastive methods, in the presence of larger number and/or more confusable classes, and helps models to produce output distributions that are more differentiated.
+Author{1}{Firstname}#=%=#Varsha
+Author{1}{Lastname}#=%=#Suresh
+Author{1}{Username}#=%=#varshasuresh
+Author{1}{Email}#=%=#varshasuresh@u.nus.edu
+Author{1}{Affiliation}#=%=#National University of Singapore
+Author{2}{Firstname}#=%=#Desmond
+Author{2}{Lastname}#=%=#Ong
+Author{2}{Username}#=%=#dco
+Author{2}{Email}#=%=#dco@comp.nus.edu.sg
+Author{2}{Affiliation}#=%=#National University of Singapore
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4033
+FinalPaperTitle#=%=#Switch Point biased Self-Training: Re-purposing Pretrained Models for Code-Switching
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Parul Chopra
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Code-switching (CS), a ubiquitous phenomenon due to the ease of communication it offers in multilingual communities still remains an understudied problem in language processing. The primary reasons behind this are: (1) minimal efforts in leveraging large pretrained multilingual models, and (2) the lack of annotated data. The distinguishing case of low performance of multilingual models in CS is the intra-sentence mixing of languages leading to switch points. We first benchmark two sequence labeling tasks – POS and NER on 4 different language pairs with a suite of pretrained models to identify the problems and select the best performing char-BERT model among them (addressing (1)). We then propose a self training method to repurpose the existing pretrained models using a switch-point bias by leveraging unannotated data (addressing (2)). We finally demonstrate that our approach performs well on both tasks by reducing the gap between the switch point performance while retaining the overall performance on two distinct language pairs in both the tasks. We plan to release our models and the code for all our experiments.
+Author{1}{Firstname}#=%=#Parul
+Author{1}{Lastname}#=%=#Chopra
+Author{1}{Username}#=%=#parul
+Author{1}{Email}#=%=#parulcho@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Sai Krishna
+Author{2}{Lastname}#=%=#Rallabandi
+Author{2}{Username}#=%=#srallaba
+Author{2}{Email}#=%=#srallaba@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Alan W
+Author{3}{Lastname}#=%=#Black
+Author{3}{Username}#=%=#awbcmu
+Author{3}{Email}#=%=#awb@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Khyathi Raghavi
+Author{4}{Lastname}#=%=#Chandu
+Author{4}{Username}#=%=#khyathiraghavi
+Author{4}{Email}#=%=#khythiraghavi@gmail.com
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

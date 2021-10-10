@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#970
+FinalPaperTitle#=%=#Relation-aware Video Reading Comprehension for Temporal Language Grounding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jialin Gao
+JobTitle#==#
+Organization#==#
+Abstract#==#Temporal language grounding in videos aims to localize the temporal span relevant to the given query sentence. Previous methods treat it either as a boundary regression task or a span extraction task. This paper will formulate temporal language grounding into video reading comprehension and propose a Relation-aware Network (RaNet) to address it. This framework aims to select a video moment choice from the predefined answer set with the aid of coarse-and-fine choice-query interaction and choice-choice relation construction. A choice-query interactor is proposed to match the visual and textual information simultaneously in sentence-moment and token-moment levels, leading to a coarse-and-fine cross-modal interaction. Moreover, a novel multi-choice relation constructor is introduced by leveraging graph convolution to capture the dependencies among video moment choices for the best choice selection. Extensive experiments on ActivityNet-Captions, TACoS, and Charades-STA demonstrate the effectiveness of our solution. Codes will be available at https://github.com/Huntersxsx/RaNet.
+Author{1}{Firstname}#=%=#Jialin
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Username}#=%=#lingeo
+Author{1}{Email}#=%=#jialin_gao@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#huntersx
+Author{2}{Email}#=%=#huntersx@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiaotong University
+Author{3}{Firstname}#=%=#Mengmeng
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#frostinassiky
+Author{3}{Email}#=%=#mengmeng.xu@kaust.edu.sa
+Author{3}{Affiliation}#=%=#KAUST
+Author{4}{Firstname}#=%=#Xi
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#aleezhou
+Author{4}{Email}#=%=#zhouxi@cloudwalk.com
+Author{4}{Affiliation}#=%=#Cloudwalk Group Co., Ltd.
+Author{5}{Firstname}#=%=#Bernard
+Author{5}{Lastname}#=%=#Ghanem
+Author{5}{Username}#=%=#bernardghanem
+Author{5}{Email}#=%=#bernard.ghanem@kaust.edu.sa
+Author{5}{Affiliation}#=%=#KAUST
+
+==========

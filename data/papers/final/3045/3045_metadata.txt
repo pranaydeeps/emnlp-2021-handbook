@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3045
+FinalPaperTitle#=%=#Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Max Bartolo
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite recent progress, state-of-the-art question answering models remain vulnerable to a variety of adversarial attacks. While dynamic adversarial data collection, in which a human annotator tries to write examples that fool a model-in-the-loop, can improve model robustness, this process is expensive which limits the scale of the collected data. In this work, we are the first to use synthetic adversarial data generation to make question answering models more robust to human adversaries. We develop a data generation pipeline that selects source passages, identifies candidate answers, generates questions, then finally filters or re-labels them to improve quality. Using this approach, we amplify a smaller human-written adversarial dataset to a much larger set of synthetic question-answer pairs. By incorporating our synthetic data, we improve the state-of-the-art on the AdversarialQA dataset by 3.7F1 and improve model generalisation on nine of the twelve MRQA datasets. We further conduct a novel human-in-the-loop evaluation and show that our models are considerably more robust to new human-written adversarial examples: crowdworkers can fool our model only 8.8% of the time on average, compared to 17.6% for a model trained without synthetic data.
+Author{1}{Firstname}#=%=#Max
+Author{1}{Lastname}#=%=#Bartolo
+Author{1}{Username}#=%=#mbartolo
+Author{1}{Email}#=%=#maxbartolo@gmail.com
+Author{1}{Affiliation}#=%=#UCL
+Author{2}{Firstname}#=%=#Tristan
+Author{2}{Lastname}#=%=#Thrush
+Author{2}{Username}#=%=#taft
+Author{2}{Email}#=%=#tthrush@fb.com
+Author{2}{Affiliation}#=%=#Facebook AI Research (FAIR)
+Author{3}{Firstname}#=%=#Robin
+Author{3}{Lastname}#=%=#Jia
+Author{3}{Username}#=%=#robinjia
+Author{3}{Email}#=%=#robinjia@usc.edu
+Author{3}{Affiliation}#=%=#Facebook AI Research
+Author{4}{Firstname}#=%=#Sebastian
+Author{4}{Lastname}#=%=#Riedel
+Author{4}{Username}#=%=#riedelcastro
+Author{4}{Email}#=%=#sebastian.riedel@gmail.com
+Author{4}{Affiliation}#=%=#University College London  / Facebook AI Research
+Author{5}{Firstname}#=%=#Pontus
+Author{5}{Lastname}#=%=#Stenetorp
+Author{5}{Username}#=%=#pontus.stenetorp
+Author{5}{Email}#=%=#pontus@stenetorp.se
+Author{5}{Affiliation}#=%=#University College London
+Author{6}{Firstname}#=%=#Douwe
+Author{6}{Lastname}#=%=#Kiela
+Author{6}{Username}#=%=#douwe.kiela
+Author{6}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{6}{Affiliation}#=%=#Facebook
+
+==========

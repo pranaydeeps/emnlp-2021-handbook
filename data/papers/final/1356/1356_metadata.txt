@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1356
+FinalPaperTitle#=%=#Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Da Yin
+JobTitle#==#
+Organization#==#
+Abstract#==#Commonsense is defined as the knowledge on which everyone agrees. However, certain types of commonsense knowledge are correlated with culture and geographic locations and they are only shared locally. For example, the scenes of wedding ceremonies vary across regions due to different customs influenced by historical and religious factors. Such regional characteristics, however, are generally omitted in prior work. In this paper, we construct a Geo-Diverse Visual Commonsense Reasoning dataset (GD-VCR) to test vision-and-language models' ability to understand cultural and geo-location-specific commonsense. In particular, we study two state-of-the-art Vision-and-Language models, VisualBERT and ViLBERT trained on VCR, a standard benchmark with images primarily from Western regions. We then evaluate how well the trained models can generalize to answering the questions in GD-VCR. We find that the performance of both models for non-Western regions including East Asia, South Asia, and Africa is significantly lower than that for Western region. We analyze the reasons behind the performance disparity and find that the performance gap is larger on QA pairs that: 1) are concerned with culture-related scenarios, e.g., weddings, religious activities, and festivals; 2) require high-level geo-diverse commonsense reasoning rather than low-order perception and recognition. Dataset and code are released at https://github.com/WadeYin9712/GD-VCR.
+Author{1}{Firstname}#=%=#Da
+Author{1}{Lastname}#=%=#Yin
+Author{1}{Username}#=%=#wade_yin
+Author{1}{Email}#=%=#da.yin@cs.ucla.edu
+Author{1}{Affiliation}#=%=#University of California, Los Angeles (UCLA)
+Author{2}{Firstname}#=%=#Liunian Harold
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#liunian_li
+Author{2}{Email}#=%=#liunian.harold.li@cs.ucla.edu
+Author{2}{Affiliation}#=%=#UCLA
+Author{3}{Firstname}#=%=#Ziniu
+Author{3}{Lastname}#=%=#Hu
+Author{3}{Username}#=%=#acbull
+Author{3}{Email}#=%=#bull@cs.ucla.edu
+Author{3}{Affiliation}#=%=#University of California, Los Angeles
+Author{4}{Firstname}#=%=#Nanyun
+Author{4}{Lastname}#=%=#Peng
+Author{4}{Username}#=%=#npeng
+Author{4}{Email}#=%=#violetpeng@cs.ucla.edu
+Author{4}{Affiliation}#=%=#University of California, Los Angeles
+Author{5}{Firstname}#=%=#Kai-Wei
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Username}#=%=#kchang10
+Author{5}{Email}#=%=#kw@kwchang.net
+Author{5}{Affiliation}#=%=#UCLA
+
+==========

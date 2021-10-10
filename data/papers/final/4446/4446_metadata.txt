@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#4446
+FinalPaperTitle#=%=#Data-Efficient Language Shaped Few-shot Image Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zhenwen Liang
+JobTitle#==#
+Organization#==#
+Abstract#==#Many existing works have demonstrated that language is a helpful guider for image understanding by neural networks. We focus on a language-shaped learning problem in a few-shot setting, i.e., using language to improve few-shot image classification when language descriptions are only available during training. We propose a data-efficient method that can make the best usage of the few-shot images and the language available only in training. Experimental results on dataset \textsl{ShapeWorld} and \textsl{Birds} show that our method outperforms other state-of-the-art baselines in language-shaped few-shot learning area, especially when training data is more severely limited. Therefore, we call our approach data-efficient language-shaped learning (DF-LSL).
+Author{1}{Firstname}#=%=#Zhenwen
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Username}#=%=#invokerliang
+Author{1}{Email}#=%=#zhenwen.liang@kaust.edu.sa
+Author{1}{Affiliation}#=%=#King Abdullah University of Science and Technology, KAUST
+Author{2}{Firstname}#=%=#Xiangliang
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#xiangliang.zhang
+Author{2}{Email}#=%=#xiangliang.zhang@kaust.edu.sa
+Author{2}{Affiliation}#=%=#King Abdullah University of Science and Technology (KAUST)
+
+==========

@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#2230
+FinalPaperTitle#=%=#Fine-grained Entity Typing without Knowledge Base
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jing Qian
+JobTitle#==#
+Organization#==#
+Abstract#==#Existing work on Fine-grained Entity Typing (FET) typically trains automatic models on the datasets obtained by using Knowledge Bases (KB) as distant supervision. However, the reliance on KB means this training setting can be hampered by the lack of or the incompleteness of the KB. To alleviate this limitation, we propose a novel setting for training FET models: FET without accessing any knowledge base. Under this setting, we propose a  two-step framework to train FET models. In the first step, we automatically create pseudo data with fine-grained labels from a large unlabeled dataset. Then a neural network model is trained based on the pseudo data, either in an unsupervised way or using self-training under the weak guidance from a coarse-grained Named Entity Recognition (NER) model. Experimental results show that our method achieves 
+competitive performance with respect to the models trained on the original KB-supervised datasets.
+Author{1}{Firstname}#=%=#Jing
+Author{1}{Lastname}#=%=#Qian
+Author{1}{Username}#=%=#jing_qian
+Author{1}{Email}#=%=#jing_qian@umail.ucsb.edu
+Author{1}{Affiliation}#=%=#University of California, Santa Barbara
+Author{2}{Firstname}#=%=#Yibin
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#yibinliu
+Author{2}{Email}#=%=#liuybinpku@pku.edu.cn
+Author{2}{Affiliation}#=%=#Tencent
+Author{3}{Firstname}#=%=#Lemao
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#lemaoliu
+Author{3}{Email}#=%=#lemaoliu@gmail.com
+Author{3}{Affiliation}#=%=#Tencent AI Lab
+Author{4}{Firstname}#=%=#Yangming
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#yangmingli
+Author{4}{Email}#=%=#yangmingli@ir.hit.edu.cn
+Author{4}{Affiliation}#=%=#Tencent AI Lab
+Author{5}{Firstname}#=%=#Haiyun
+Author{5}{Lastname}#=%=#Jiang
+Author{5}{Username}#=%=#haiyunjiang
+Author{5}{Email}#=%=#haiyunjiang@tencent.com
+Author{5}{Affiliation}#=%=#Tencent AI Lab
+Author{6}{Firstname}#=%=#Haisong
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#hansonzhang
+Author{6}{Email}#=%=#hansonzhang@tencent.com
+Author{6}{Affiliation}#=%=#Tencent AI Lab
+Author{7}{Firstname}#=%=#Shuming
+Author{7}{Lastname}#=%=#Shi
+Author{7}{Username}#=%=#shumings
+Author{7}{Email}#=%=#shumingshi@tencent.com
+Author{7}{Affiliation}#=%=#Tencent AI Lab
+
+==========

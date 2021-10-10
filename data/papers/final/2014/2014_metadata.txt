@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#2014
+FinalPaperTitle#=%=#RuleBERT: Teaching Soft Rules to Pre-Trained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Mohammed SAEED
+JobTitle#==#
+Organization#==#Eurecom Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
+Abstract#==#While pre-trained language models (PLMs) are the go-to solution to tackle many natural language processing problems, they are still very limited in their ability to capture and to use common-sense knowledge. In fact, even if information is available in the form of approximate (soft) logical rules, it is not clear how to transfer it to a PLM in order to improve its performance for deductive reasoning tasks. Here, we aim to bridge this gap by teaching PLMs how to reason with soft Horn rules. We introduce a classification task where, given facts and soft rules, the PLM should return a prediction with a probability for a given hypothesis. We release the first dataset for this task, and we propose a revised loss function that enables the PLM to learn how to predict precise probabilities for the task. Our evaluation results show that the resulting fine-tuned models achieve very high performance, even on logical rules that were unseen at training. Moreover, we demonstrate that logical notions expressed by the rules are transferred to the fine-tuned model, yielding state-of-the-art results on external datasets.
+Author{1}{Firstname}#=%=#Mohammed
+Author{1}{Lastname}#=%=#Saeed
+Author{1}{Username}#=%=#mhmd_saeed
+Author{1}{Email}#=%=#saeedm@eurecom.fr
+Author{1}{Affiliation}#=%=#Eurecom
+Author{2}{Firstname}#=%=#Naser
+Author{2}{Lastname}#=%=#Ahmadi
+Author{2}{Email}#=%=#Naser.Ahmadi@eurecom.fr
+Author{2}{Affiliation}#=%=#EURECOM
+Author{3}{Firstname}#=%=#Preslav
+Author{3}{Lastname}#=%=#Nakov
+Author{3}{Username}#=%=#preslav
+Author{3}{Email}#=%=#preslav.nakov@gmail.com
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{4}{Firstname}#=%=#Paolo
+Author{4}{Lastname}#=%=#Papotti
+Author{4}{Username}#=%=#papotti
+Author{4}{Email}#=%=#papotti@eurecom.fr
+Author{4}{Affiliation}#=%=#EURECOM
+
+==========

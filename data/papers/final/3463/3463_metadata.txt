@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#3463
+FinalPaperTitle#=%=#Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Minghan Li
+JobTitle#==#
+Organization#==#David R. Cheriton School of Computer Science, University of Waterloo
+Abstract#==#Recent work has shown that dense passage retrieval techniques achieve better ranking accuracy in open-domain question answering compared to sparse retrieval techniques such as BM25, but at the cost of large space and memory requirements.
+In this paper, we analyze the redundancy present in encoded dense vectors and show that the default dimension of 768 is unnecessarily large.
+To improve space efficiency, we propose a simple unsupervised compression pipeline that consists of principal component analysis (PCA), product quantization, and hybrid search.
+We further investigate other supervised baselines and find surprisingly that unsupervised PCA outperforms them in some settings.
+We perform extensive experiments on five question answering datasets and demonstrate that our best pipeline achieves good accuracy--space trade-offs, for example, $48\times$ compression with less than $3\%$ drop in top-$100$ retrieval accuracy on average or $96\times$ compression with less than $4\%$ drop. Code and data are available at \url{http://pyserini.io/}.
+Author{1}{Firstname}#=%=#Xueguang
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Username}#=%=#xueguang
+Author{1}{Email}#=%=#x93ma@uwaterloo.ca
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Minghan
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#mingan
+Author{2}{Email}#=%=#alexlimh23@gmail.com
+Author{2}{Affiliation}#=%=#University of Waterloo
+Author{3}{Firstname}#=%=#Kai
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Email}#=%=#k49sun@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+Author{4}{Firstname}#=%=#Ji
+Author{4}{Lastname}#=%=#Xin
+Author{4}{Username}#=%=#xinji1996
+Author{4}{Email}#=%=#ji.xin@uwaterloo.ca
+Author{4}{Affiliation}#=%=#University of Waterloo
+Author{5}{Firstname}#=%=#Jimmy
+Author{5}{Lastname}#=%=#Lin
+Author{5}{Username}#=%=#jimmylin
+Author{5}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{5}{Affiliation}#=%=#University of Waterloo
+
+==========

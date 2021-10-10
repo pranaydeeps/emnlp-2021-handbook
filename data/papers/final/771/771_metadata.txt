@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#771
+FinalPaperTitle#=%=#An Analysis of Euclidean vs. Graph-Based Framing for Bilingual Lexicon Induction from Word Embedding Spaces
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Kelly Marchisio
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N. Charles St. Baltimore, MD 21218
+Abstract#==#Much recent work in bilingual lexicon induction (BLI) views word embeddings as vectors in Euclidean space.  As such, BLI is typically solved by finding a linear transformation that maps embeddings to a common space. Alternatively, word embeddings may be understood as nodes in a weighted graph.  This framing allows us to examine a node's graph neighborhood without assuming a linear transform, and exploits new techniques from the graph matching optimization literature. These contrasting approaches have not been compared in BLI so far. In this work, we study the behavior of Euclidean versus graph-based approaches to BLI under differing data conditions and show that they complement each other when combined. We release our code at https://github.com/kellymarchisio/euc-v-graph-bli.
+Author{1}{Firstname}#=%=#Kelly
+Author{1}{Lastname}#=%=#Marchisio
+Author{1}{Username}#=%=#kellymarchisio
+Author{1}{Email}#=%=#kmarchi1@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Youngser
+Author{2}{Lastname}#=%=#Park
+Author{2}{Username}#=%=#youngser
+Author{2}{Email}#=%=#youngser@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Ali
+Author{3}{Lastname}#=%=#Saad-Eldin
+Author{3}{Username}#=%=#asaadeldin
+Author{3}{Email}#=%=#ali.saadeldin11@gmail.com
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Anton
+Author{4}{Lastname}#=%=#Alyakin
+Author{4}{Username}#=%=#aalyaki1
+Author{4}{Email}#=%=#aalyaki1@jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+Author{5}{Firstname}#=%=#Kevin
+Author{5}{Lastname}#=%=#Duh
+Author{5}{Username}#=%=#kevinduh
+Author{5}{Email}#=%=#kevinduh@cs.jhu.edu
+Author{5}{Affiliation}#=%=#Johns Hopkins University
+Author{6}{Firstname}#=%=#carey
+Author{6}{Lastname}#=%=#priebe
+Author{6}{Username}#=%=#priebe
+Author{6}{Email}#=%=#cep@jhu.edu
+Author{6}{Affiliation}#=%=#johns hopkins university
+Author{7}{Firstname}#=%=#Philipp
+Author{7}{Lastname}#=%=#Koehn
+Author{7}{Username}#=%=#pkoehn
+Author{7}{Email}#=%=#phi@jhu.edu
+Author{7}{Affiliation}#=%=#Johns Hopkins University
+
+==========

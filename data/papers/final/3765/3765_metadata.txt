@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#3765
+FinalPaperTitle#=%=#VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Hu Xu
+JobTitle#==#
+Organization#==#
+Abstract#==#We present VideoCLIP, a contrastive approach to pre-train a unified model for zero-shot video and text understanding, without using any labels on downstream tasks. VideoCLIP trains a transformer for video and text by contrasting temporally overlapping positive video-text pairs with hard negatives from nearest neighbor retrieval. Our experiments on a diverse series of  downstream  tasks, including sequence-level text-video retrieval, VideoQA, token-level action localization, and action segmentation reveal state-of-the-art performance, surpassing prior work, and in some cases even outperforming supervised approaches. Code is made available at https://github.com/pytorch/fairseq/examples/MMPT.
+Author{1}{Firstname}#=%=#Hu
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#activebus
+Author{1}{Email}#=%=#activebus@gmail.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Gargi
+Author{2}{Lastname}#=%=#Ghosh
+Author{2}{Username}#=%=#ghoshga80
+Author{2}{Email}#=%=#gargi.ghosh@live.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Po-Yao
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Username}#=%=#poyaoh
+Author{3}{Email}#=%=#poyaoh@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Dmytro
+Author{4}{Lastname}#=%=#Okhonko
+Author{4}{Email}#=%=#oxo@fb.com
+Author{4}{Affiliation}#=%=#facebook
+Author{5}{Firstname}#=%=#Armen
+Author{5}{Lastname}#=%=#Aghajanyan
+Author{5}{Username}#=%=#armenag
+Author{5}{Email}#=%=#armen.ag@live.com
+Author{5}{Affiliation}#=%=#Facebook
+Author{6}{Firstname}#=%=#Florian
+Author{6}{Lastname}#=%=#Metze
+Author{6}{Username}#=%=#fmetze
+Author{6}{Email}#=%=#fmetze@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+Author{7}{Firstname}#=%=#Luke
+Author{7}{Lastname}#=%=#Zettlemoyer
+Author{7}{Username}#=%=#lsz
+Author{7}{Email}#=%=#lsz@cs.washington.edu
+Author{7}{Affiliation}#=%=#University of Washington; Facebook
+Author{8}{Firstname}#=%=#Christoph
+Author{8}{Lastname}#=%=#Feichtenhofer
+Author{8}{Username}#=%=#feichtenhofer
+Author{8}{Email}#=%=#feichtenhofer@fb.com
+Author{8}{Affiliation}#=%=#Facebook AI Research
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1823
+FinalPaperTitle#=%=#Span Fine-tuning for Pre-trained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Rongzhou Bao
+JobTitle#==#
+Organization#==#
+Abstract#==#Pre-trained language models (PrLM) have to carefully manage input units when training on a very large text with a vocabulary consisting of millions of words. Previous works have shown that incorporating span-level information over consecutive words in pre-training could further improve the performance of PrLMs. However, given that span-level clues are introduced and fixed in pre-training, previous methods are time-consuming and lack of flexibility. To alleviate the inconvenience, this paper presents a novel span fine-tuning method for PrLMs, which facilitates the span setting to be adaptively determined by specific downstream tasks during the fine-tuning phase. In detail, any sentences processed by the PrLM will be segmented into multiple spans according to a pre-sampled dictionary. Then the segmentation information will be sent through a hierarchical CNN module together with the representation outputs of the PrLM and ultimately generate a span-enhanced representation. Experiments on GLUE benchmark show that the proposed span fine-tuning method significantly enhances the PrLM, and at the same time, offer more flexibility in an efficient way.
+Author{1}{Firstname}#=%=#Rongzhou
+Author{1}{Lastname}#=%=#Bao
+Author{1}{Username}#=%=#rongzhou.bao
+Author{1}{Email}#=%=#rongzhou.bao@outlook.com
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Zhuosheng
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#cooelf
+Author{2}{Email}#=%=#zhangzs@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Hai
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Username}#=%=#areal
+Author{3}{Email}#=%=#zhaohai@cs.sjtu.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

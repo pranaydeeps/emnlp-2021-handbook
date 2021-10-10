@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#126
+FinalPaperTitle#=%=#Certified Robustness to Programmable Transformations in LSTMs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Yuhao Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Deep neural networks for natural language processing are fragile in the face of adversarial examples---small input perturbations, like synonym substitution or word duplication, which cause a neural network to change its prediction. We present an approach to certifying the robustness of LSTMs (and extensions of LSTMs) and training models that can be efficiently certified. Our approach can certify robustness to intractably large perturbation spaces defined programmatically in a language of string transformations. Our evaluation shows that (1) our approach can train models that are more robust to combinations of string transformations than those produced using existing techniques; (2) our approach can show high certification accuracy of the resulting models.
+Author{1}{Firstname}#=%=#Yuhao
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#yuhaoz
+Author{1}{Email}#=%=#yuhaoz@cs.wisc.edu
+Author{1}{Affiliation}#=%=#University of Wisconsin-Madison
+Author{2}{Firstname}#=%=#Aws
+Author{2}{Lastname}#=%=#Albarghouthi
+Author{2}{Username}#=%=#albarghouthi
+Author{2}{Email}#=%=#aws@cs.wisc.edu
+Author{2}{Affiliation}#=%=#University of Wisconsin-Madison
+Author{3}{Firstname}#=%=#Loris
+Author{3}{Lastname}#=%=#D'Antoni
+Author{3}{Username}#=%=#lorisdanto
+Author{3}{Email}#=%=#loris@cs.wisc.edu
+Author{3}{Affiliation}#=%=#University of Wisconsin
+
+==========

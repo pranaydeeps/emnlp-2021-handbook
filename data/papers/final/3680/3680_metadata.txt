@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#3680
+FinalPaperTitle#=%=#Leveraging Information Bottleneck for Scientific Document Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Jiaxin Ju
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents an unsupervised extractive approach to summarize scientific long documents based on the Information Bottleneck principle. Inspired by previous work which uses the Information Bottleneck principle for sentence compression, we extend it to document level summarization with two separate steps. In the first step, we use signal(s) as queries to retrieve the key content from the source document. Then, a pre-trained language model conducts further sentence search and edit to return the final extracted summaries. Importantly, our work can be flexibly extended to a multi-view framework by different signals. Automatic evaluation on three scientific document datasets verifies the effectiveness of the proposed framework. The further human evaluation suggests that the extracted summaries cover more content aspects than previous systems.
+Author{1}{Firstname}#=%=#Jiaxin
+Author{1}{Lastname}#=%=#Ju
+Author{1}{Username}#=%=#jiaxin.ju
+Author{1}{Email}#=%=#jjuu0002@student.monash.edu
+Author{1}{Affiliation}#=%=#Monash Univeristy
+Author{2}{Firstname}#=%=#Ming
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#liumingliu
+Author{2}{Email}#=%=#m.liu@deakin.edu.au
+Author{2}{Affiliation}#=%=#Deakin University
+Author{3}{Firstname}#=%=#Huan Yee
+Author{3}{Lastname}#=%=#Koh
+Author{3}{Email}#=%=#hykoh3@student.monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+Author{4}{Firstname}#=%=#YUAN
+Author{4}{Lastname}#=%=#JIN
+Author{4}{Username}#=%=#yjin48
+Author{4}{Email}#=%=#yuan.jin@monash.edu
+Author{4}{Affiliation}#=%=#Monash University
+Author{5}{Firstname}#=%=#Lan
+Author{5}{Lastname}#=%=#Du
+Author{5}{Username}#=%=#dulan520
+Author{5}{Email}#=%=#lan.du@monash.edu
+Author{5}{Affiliation}#=%=#Department of Data Science and AI, Monash University
+Author{6}{Firstname}#=%=#Shirui
+Author{6}{Lastname}#=%=#Pan
+Author{6}{Username}#=%=#shiruipan
+Author{6}{Email}#=%=#shirui.pan@monash.edu
+Author{6}{Affiliation}#=%=#Monash University
+
+==========

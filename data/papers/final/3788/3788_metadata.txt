@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3788
+FinalPaperTitle#=%=#Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Fei Mi
+JobTitle#==#
+Organization#==#
+Abstract#==#As the labeling cost for different modules in task-oriented dialog (ToD) systems is expensive, a major challenge is to train different modules with the least amount of labeled data. Recently, large-scale pre-trained language models, have shown promising results for few-shot learning in ToD. In this paper, we devise a self-training approach to utilize the abundant unlabeled dialog data to further improve state-of-the-art pre-trained models in few-shot learning scenarios for ToD systems.
+Specifically, we propose a self-training approach that iteratively labels the most confident unlabeled data to train a stronger Student model. Moreover, a new text augmentation technique (GradAug) is proposed to better train the Student by replacing non-crucial tokens using a masked language model. We conduct extensive experiments and present analyses on four downstream tasks in ToD, including intent classification, dialog state tracking, dialog act prediction, and response selection. Empirical results demonstrate that the proposed self-training approach consistently improves state-of-the-art pre-trained models (BERT, ToD-BERT) when only a small number of labeled data are available.
+Author{1}{Firstname}#=%=#Fei
+Author{1}{Lastname}#=%=#Mi
+Author{1}{Username}#=%=#mifei
+Author{1}{Email}#=%=#fei.mi@epfl.ch
+Author{1}{Affiliation}#=%=#EPFL
+Author{2}{Firstname}#=%=#Wanhao
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Username}#=%=#wanhaozhou
+Author{2}{Email}#=%=#wanhao.zhou@gmail.com
+Author{2}{Affiliation}#=%=#École Polytechnique Fédérale de Lausanne
+Author{3}{Firstname}#=%=#Lingjing
+Author{3}{Lastname}#=%=#Kong
+Author{3}{Username}#=%=#l.kong
+Author{3}{Email}#=%=#l.kong.327@gmail.com
+Author{3}{Affiliation}#=%=#EPFL
+Author{4}{Firstname}#=%=#Fengyu
+Author{4}{Lastname}#=%=#Cai
+Author{4}{Username}#=%=#fcai
+Author{4}{Email}#=%=#fengyu.cai@epfl.ch
+Author{4}{Affiliation}#=%=#Swiss Federal Institute of Technology Lausanne
+Author{5}{Firstname}#=%=#Minlie
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Username}#=%=#aihuang
+Author{5}{Email}#=%=#huangminlie@126.com
+Author{5}{Affiliation}#=%=#Tsinghua University
+Author{6}{Firstname}#=%=#Boi
+Author{6}{Lastname}#=%=#Faltings
+Author{6}{Email}#=%=#boi.faltings@epfl.ch
+Author{6}{Affiliation}#=%=#EPFL
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#225
+FinalPaperTitle#=%=#VQA-MHUG: A Gaze Dataset to Study Multimodal Neural Attention in Visual Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Ekta Sood
+JobTitle#==#
+Organization#==#
+Abstract#==#We present VQA-MHUG -- a novel 49-participant dataset of multimodal human gaze on both images and questions during visual question answering (VQA) collected using a high-speed eye tracker.
+We use our dataset to analyze the similarity between human and neural attentive strategies learned by five state-of-the-art VQA models: Modular Co-Attention Network (MCAN) with either grid or region features, Pythia, Bilinear Attention Network (BAN), and the Multimodal Factorized Bilinear Pooling Network (MFB). While prior work has focused on studying the image modality, our analyses show -- for the first time -- that for all models, higher correlation with human attention on text is a significant predictor of VQA performance. This finding points at a potential for improving VQA performance and, at the same time, calls for further research on neural text attention mechanisms and their integration into architectures for vision and language tasks, including but potentially also beyond VQA.
+Author{1}{Firstname}#=%=#Ekta
+Author{1}{Lastname}#=%=#Sood
+Author{1}{Username}#=%=#ektasood
+Author{1}{Email}#=%=#ekta.sood@vis.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Fabian
+Author{2}{Lastname}#=%=#Kögel
+Author{2}{Username}#=%=#fkoegel
+Author{2}{Email}#=%=#f.koegel@web.de
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Firstname}#=%=#Florian
+Author{3}{Lastname}#=%=#Strohm
+Author{3}{Username}#=%=#strohmfn
+Author{3}{Email}#=%=#florian.strohm@vis.uni-stuttgart.de
+Author{3}{Affiliation}#=%=#University of Stuttgart
+Author{4}{Firstname}#=%=#Prajit
+Author{4}{Lastname}#=%=#Dhar
+Author{4}{Username}#=%=#prajitdhar
+Author{4}{Email}#=%=#prajitdhar@gmail.com
+Author{4}{Affiliation}#=%=#University of Groningen
+Author{5}{Firstname}#=%=#Andreas
+Author{5}{Lastname}#=%=#Bulling
+Author{5}{Username}#=%=#andreas.bulling
+Author{5}{Email}#=%=#andreas.bulling@vis.uni-stuttgart.de
+Author{5}{Affiliation}#=%=#University of Stuttgart
+
+==========

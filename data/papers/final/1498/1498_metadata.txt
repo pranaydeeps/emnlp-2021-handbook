@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1498
+FinalPaperTitle#=%=#Learning from Language Description: Low-shot Named Entity Recognition via Decomposed Framework
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Yaqing Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#In this work, we study the problem of named entity recognition (NER)  in a low resource
+scenario, focusing on few-shot and zero-shot settings. Built upon large-scale pre-trained language models, we propose a novel NER framework, namely SpanNER,  which learns from natural language supervision and enables the identification of never-seen entity classes without using in-domain labeled data. We perform  extensive experiments on 5 benchmark datasets and evaluate the proposed method in the few-shot learning, domain transfer and zero-shot learning settings. The experimental results show that the proposed method can bring  10%, 23% and 26%  improvements in average over the best baselines in few-shot learning, domain transfer and zero-shot learning settings respectively.
+Author{1}{Firstname}#=%=#Yaqing
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#yaqingwang90
+Author{1}{Email}#=%=#wang5075@purdue.edu
+Author{1}{Affiliation}#=%=#Purdue University
+Author{2}{Firstname}#=%=#Haoda
+Author{2}{Lastname}#=%=#Chu
+Author{2}{Username}#=%=#chuhaoda
+Author{2}{Email}#=%=#chuxx348@umn.edu
+Author{2}{Affiliation}#=%=#microsoft
+Author{3}{Firstname}#=%=#Chao
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#czhangcs
+Author{3}{Email}#=%=#chaozhang@gatech.edu
+Author{3}{Affiliation}#=%=#Georgia Tech
+Author{4}{Firstname}#=%=#Jing
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Username}#=%=#jingub
+Author{4}{Email}#=%=#jinggao@purdue.edu
+Author{4}{Affiliation}#=%=#Purdue University
+
+==========

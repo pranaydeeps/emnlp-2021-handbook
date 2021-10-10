@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2276
+FinalPaperTitle#=%=#Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wenxuan Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Many efforts have been made in solving the Aspect-based sentiment analysis (ABSA) task. While most existing studies focus on English texts, handling ABSA in resource-poor languages remains a challenging problem. In this paper, we consider the unsupervised cross-lingual transfer for the ABSA task, where only labeled data in the source language is available and we aim at transferring its knowledge to the target language having no labeled data. To this end, we propose an alignment-free label projection method to obtain high-quality pseudo-labeled data of the target language with the help of the translation system, which could preserve more accurate task-specific knowledge in the target language. For better utilizing the source and translated data, as well as enhancing the cross-lingual alignment, we design an aspect code-switching mechanism to augment the training data with code-switched bilingual sentences. To further investigate the importance of language-specific knowledge in solving the ABSA problem, we distill the above model on the unlabeled target language data which improves the performance to the same level of the supervised method.
+Author{1}{Firstname}#=%=#Wenxuan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#wxzhang
+Author{1}{Email}#=%=#wxzhang@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Ruidan
+Author{2}{Lastname}#=%=#He
+Author{2}{Username}#=%=#ruidanhe
+Author{2}{Email}#=%=#heruidan0830@gmail.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Haiyun
+Author{3}{Lastname}#=%=#Peng
+Author{3}{Username}#=%=#haiyunpeng
+Author{3}{Email}#=%=#haiyun.p@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba group
+Author{4}{Firstname}#=%=#Lidong
+Author{4}{Lastname}#=%=#Bing
+Author{4}{Username}#=%=#binglidong
+Author{4}{Email}#=%=#binglidong@gmail.com
+Author{4}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{5}{Firstname}#=%=#Wai
+Author{5}{Lastname}#=%=#Lam
+Author{5}{Username}#=%=#wlam
+Author{5}{Email}#=%=#wlam@se.cuhk.edu.hk
+Author{5}{Affiliation}#=%=#The Chinese University of Hong Kong
+
+==========

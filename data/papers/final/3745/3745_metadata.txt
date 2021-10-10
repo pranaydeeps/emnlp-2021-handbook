@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3745
+FinalPaperTitle#=%=#Diverse Distributions of Self-Supervised Tasks for Meta-Learning in NLP
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Trapit Bansal
+JobTitle#==#
+Organization#==#
+Abstract#==#Meta-learning considers the problem of learning an efficient learning process that can leverage its past experience to accurately solve new tasks. However, the efficacy of meta-learning crucially depends on the distribution of tasks available for training, and this is often assumed to be known a priori or constructed from limited supervised datasets. In this work, we aim to provide task distributions for meta-learning by considering self-supervised tasks automatically proposed from unlabeled text, to enable large-scale meta-learning in NLP. We design multiple distributions of self-supervised tasks by considering important aspects of task diversity, difficulty, type, domain, and curriculum, and investigate how they affect meta-learning performance. Our analysis shows that all these factors meaningfully alter the task distribution, some inducing significant improvements in downstream few-shot accuracy of the meta-learned models. Empirically, results on 20 downstream tasks show significant improvements in few-shot learning -- adding up to +4.2% absolute accuracy (on average) to the previous unsupervised meta-learning method, and perform comparably to supervised methods on the FewRel 2.0 benchmark.
+Author{1}{Firstname}#=%=#Trapit
+Author{1}{Lastname}#=%=#Bansal
+Author{1}{Username}#=%=#tbansal
+Author{1}{Email}#=%=#tbansal@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Karthick Prasad
+Author{2}{Lastname}#=%=#Gunasekaran
+Author{2}{Username}#=%=#karthick95
+Author{2}{Email}#=%=#kgunasekaran@umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{3}{Firstname}#=%=#Tong
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#tw
+Author{3}{Email}#=%=#tong.wang@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Tsendsuren
+Author{4}{Lastname}#=%=#Munkhdalai
+Author{4}{Username}#=%=#tsendeemts
+Author{4}{Email}#=%=#tsendsuren@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Andrew
+Author{5}{Lastname}#=%=#McCallum
+Author{5}{Username}#=%=#mccallum
+Author{5}{Email}#=%=#mccallum@cs.umass.edu
+Author{5}{Affiliation}#=%=#UMass Amherst
+
+==========

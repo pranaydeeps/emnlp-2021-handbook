@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Taking Things Personally: Third Person to First Person Rephrasing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Marcel Granero Moya
+JobTitle#==#
+Organization#==#Amazon Alexa AI
+Abstract#==#The recent advancement of digital assistant technologies has opened new possibilities in the experiences they can provide. One of them is the ability to converse with a  persona, e.g. celebrities, famous imaginary characters, etc. This experience requires that the replies are answered from the point of view of the persona, i.e. the first person. Since the facts about characters are typically found expressed in the third person, there is a need to rephrase them to the first person in order for the assistant not to break character and the experience to remain immersive. However, the automatic solution to such a problem is largely unexplored by the community. In this work, we present a new task for NLP: third person to first person rephrasing. We define the task and analyze its major challenges. We create and publish a novel dataset with 3493 human-annotated pairs of celebrity facts in the third person with their rephrased sentence in the first person. Moreover, we propose a transformer-based pipeline that correctly rephrases 92.0% of sentences compared to 77.0% rephrased by a rule-based baseline system.
+Author{1}{Firstname}#=%=#Marcel
+Author{1}{Lastname}#=%=#Granero Moya
+Author{1}{Username}#=%=#marcelgm
+Author{1}{Email}#=%=#97granero@gmail.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Panagiotis Agis
+Author{2}{Lastname}#=%=#Oikonomou Filandras
+Author{2}{Username}#=%=#agispof
+Author{2}{Email}#=%=#agis.pof@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+
+==========

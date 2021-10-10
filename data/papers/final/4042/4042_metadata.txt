@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#4042
+FinalPaperTitle#=%=#RankNAS: Efficient Neural Architecture Search by Pairwise Ranking
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Chi Hu
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper addresses the efficiency challenge of Neural Architecture Search (NAS) by formulating the task as a ranking problem. Previous methods require numerous training examples to estimate the accurate performance of architectures, although the actual goal is to find the distinction between “good” and “bad” candidates. Here we do not resort to performance predictors. Instead, we propose a performance ranking method (RankNAS) via pairwise ranking. It enables efficient architecture search using much fewer training examples. Moreover, we develop an architecture selection method to prune the search space and concentrate on more promising candidates. Extensive experiments on machine translation and language modeling tasks show that RankNAS can design high-performance architectures while being orders of magnitude faster than state-of-the-art NAS systems.
+Author{1}{Firstname}#=%=#Chi
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Username}#=%=#huchi
+Author{1}{Email}#=%=#huchinlp@gmail.com
+Author{1}{Affiliation}#=%=#Northeastern University
+Author{2}{Firstname}#=%=#Chenglong
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangchenglong
+Author{2}{Email}#=%=#clwang1119@gmail.com
+Author{2}{Affiliation}#=%=#Northeastern University
+Author{3}{Firstname}#=%=#Xiangnan
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Username}#=%=#xiangnanma
+Author{3}{Email}#=%=#mxnself@163.com
+Author{3}{Affiliation}#=%=#Northeastern University
+Author{4}{Firstname}#=%=#Xia
+Author{4}{Lastname}#=%=#Meng
+Author{4}{Username}#=%=#crispy-sausages
+Author{4}{Email}#=%=#1783043917@qq.com
+Author{4}{Affiliation}#=%=#Northeastern University
+Author{5}{Firstname}#=%=#Yinqiao
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#liyinqiao
+Author{5}{Email}#=%=#li.yin.qiao.2012@hotmail.com
+Author{5}{Affiliation}#=%=#Northeastern University
+Author{6}{Firstname}#=%=#Tong
+Author{6}{Lastname}#=%=#Xiao
+Author{6}{Username}#=%=#xiaotong
+Author{6}{Email}#=%=#xiaotong@mail.neu.edu.cn
+Author{6}{Affiliation}#=%=#Northeastern University
+Author{7}{Firstname}#=%=#Jingbo
+Author{7}{Lastname}#=%=#Zhu
+Author{7}{Username}#=%=#zhujingbo
+Author{7}{Email}#=%=#zhujingbo@mail.neu.edu.cn
+Author{7}{Affiliation}#=%=#Northeastern University
+Author{8}{Firstname}#=%=#changliang
+Author{8}{Lastname}#=%=#li
+Author{8}{Username}#=%=#changliangli
+Author{8}{Email}#=%=#lichangliang@kingsoft.com
+Author{8}{Affiliation}#=%=#kingsoft
+
+==========

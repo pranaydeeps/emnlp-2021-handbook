@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2275
+FinalPaperTitle#=%=#{W}iki{NE}u{R}al: {C}ombined Neural and Knowledge-based Silver Data Creation for Multilingual {NER}
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Simone Tedeschi
+JobTitle#==#
+Organization#==#
+Abstract#==#Multilingual Named Entity Recognition (NER) is a key intermediate task which is needed in many areas of NLP. In this paper, we address the well-known issue of data scarcity in NER, especially relevant when moving to a multilingual scenario, and go beyond current approaches to the creation of multilingual silver data for the task. We exploit the texts of Wikipedia and introduce a new methodology based on the effective combination of knowledge-based approaches and neural models, together with a novel domain adaptation technique, to produce high-quality training corpora for NER. We evaluate our datasets extensively on standard benchmarks for NER, yielding substantial improvements up to 6 span-based F1-score points over previous state-of-the-art systems for data creation.
+Author{1}{Firstname}#=%=#Simone
+Author{1}{Lastname}#=%=#Tedeschi
+Author{1}{Username}#=%=#st97
+Author{1}{Email}#=%=#tedeschi@babelscape.com
+Author{1}{Affiliation}#=%=#Babelscape
+Author{2}{Firstname}#=%=#Valentino
+Author{2}{Lastname}#=%=#Maiorca
+Author{2}{Username}#=%=#maiorca
+Author{2}{Email}#=%=#maiorca@babelscape.com
+Author{2}{Affiliation}#=%=#Babelscape
+Author{3}{Firstname}#=%=#Niccolò
+Author{3}{Lastname}#=%=#Campolungo
+Author{3}{Username}#=%=#valahaar
+Author{3}{Email}#=%=#campolungo@di.uniroma1.it
+Author{3}{Affiliation}#=%=#La Sapienza University
+Author{4}{Firstname}#=%=#Francesco
+Author{4}{Lastname}#=%=#Cecconi
+Author{4}{Username}#=%=#fcecconi
+Author{4}{Email}#=%=#cecconi@babelscape.com
+Author{4}{Affiliation}#=%=#Babelscape
+Author{5}{Firstname}#=%=#Roberto
+Author{5}{Lastname}#=%=#Navigli
+Author{5}{Username}#=%=#navigli
+Author{5}{Email}#=%=#roberto.navigli@uniroma1.it
+Author{5}{Affiliation}#=%=#Sapienza University of Rome
+
+==========

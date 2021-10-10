@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Anatomy of OntoGUM---Adapting GUM to the OntoNotes Scheme to Evaluate Robustness of SOTA Coreference Algorithms
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yilun Zhu
+JobTitle#==#
+Organization#==#
+Abstract#==#SOTA coreference resolution produces increasingly impressive scores on the OntoNotes benchmark. 
+However lack of comparable data following the same scheme for more genres makes it difficult to evaluate generalizability to open domain data. Zhu et al. (2021) introduced the creation of the OntoGUM corpus for evaluating geralizability of the latest neural LM-based end-to-end systems.  This paper covers details of the mapping process which is a set of deterministic rules applied to the rich syntactic and discourse annotations manually annotated in the GUM corpus. Out-of-domain evaluation across 12 genres shows nearly 15-20% degradation for both deterministic and deep learning systems, indicating a lack of generalizability or covert overfitting in existing coreference resolution models.
+Author{1}{Firstname}#=%=#Yilun
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Username}#=%=#yilunzhu
+Author{1}{Email}#=%=#yz565@georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Sameer
+Author{2}{Lastname}#=%=#Pradhan
+Author{2}{Username}#=%=#spradhan
+Author{2}{Email}#=%=#pradhan@cemantix.org
+Author{2}{Affiliation}#=%=#University of Pennsylvania and cemantix.org
+Author{3}{Firstname}#=%=#Amir
+Author{3}{Lastname}#=%=#Zeldes
+Author{3}{Username}#=%=#amirzeldes
+Author{3}{Email}#=%=#amir.zeldes@georgetown.edu
+Author{3}{Affiliation}#=%=#Georgetown University
+
+==========

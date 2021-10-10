@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#A Brief Survey and Comparative Study of Recent Development of Pronoun Coreference Resolution in English
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xinran Zhao
+JobTitle#==#
+Organization#==#
+Abstract#==#Pronoun Coreference Resolution (PCR) is the task of resolving pronominal expressions to all mentions they refer to. Compared with the general coreference resolution task, the main challenge of PCR is the coreference relation prediction rather than the mention detection. As one important natural language understanding (NLU) component, pronoun resolution is crucial for many downstream tasks and still challenging for existing models, which motivates us to survey existing approaches and think about how to do better. In this survey, we first introduce representative datasets and models for the ordinary pronoun coreference resolution task. Then we focus on recent progress on hard pronoun coreference resolution problems (e.g., Winograd Schema Challenge) to analyze how well current models can understand commonsense. We conduct extensive experiments to show that even though current models are achieving good performance on the standard evaluation set, they are still not ready to be used in real applications (e.g., all SOTA models struggle on correctly resolving pronouns to infrequent objects). All experiment codes will be available upon acceptance.
+Author{1}{Firstname}#=%=#Hongming
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#hzhangal
+Author{1}{Email}#=%=#hzhangal@cse.ust.hk
+Author{1}{Affiliation}#=%=#HKUST
+Author{2}{Firstname}#=%=#Xinran
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#xzhaoar
+Author{2}{Email}#=%=#xzhaoar@connect.ust.hk
+Author{2}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{3}{Firstname}#=%=#Yangqiu
+Author{3}{Lastname}#=%=#Song
+Author{3}{Username}#=%=#yqsong
+Author{3}{Email}#=%=#yqsong@cse.ust.hk
+Author{3}{Affiliation}#=%=#HKUST
+
+==========

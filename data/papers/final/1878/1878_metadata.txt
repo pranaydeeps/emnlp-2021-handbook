@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#1878
+FinalPaperTitle#=%=#Unsupervised Paraphrasing Consistency Training for Low Resource Named Entity Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rui Wang
+JobTitle#==#Student
+Organization#==#Duke University
+140 Science Dr, Durham, NC 27708
+Abstract#==#Unsupervised consistency training is a way of semi-supervised learning that encourages consistency in model predictions between the original and augmented data. For Named Entity Recognition (NER), existing approaches augment the input sequence with token replacement, assuming annotations on the replaced positions unchanged. In this paper, we explore the use of paraphrasing as a more principled data augmentation scheme for NER unsupervised consistency training. Specifically, we convert Conditional Random Field (CRF) into a multi-label classification module and encourage consistency on the entity appearance between the original and paraphrased sequences. Experiments show that our method is especially effective when annotations are limited.
+Author{1}{Firstname}#=%=#Rui
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#raywangwr
+Author{1}{Email}#=%=#rw161@duke.edu
+Author{1}{Affiliation}#=%=#Duke University
+Author{2}{Firstname}#=%=#Ricardo
+Author{2}{Lastname}#=%=#Henao
+Author{2}{Username}#=%=#rhenao
+Author{2}{Email}#=%=#ricardo.henao@duke.edu
+Author{2}{Affiliation}#=%=#Duke University
+
+==========

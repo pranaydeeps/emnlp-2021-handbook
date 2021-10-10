@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#3254
+FinalPaperTitle#=%=#STraTA: Self-Training with Task Augmentation for Better Few-shot Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Tu Vu
+JobTitle#==#
+Organization#==#College of Information and Computer Sciences
+University of Massachusetts Amherst
+
+Computer Science Building
+140 Governors Drive, Amherst, MA 01003
+Abstract#==#Despite their recent successes in tackling many NLP tasks, large-scale pre-trained language models do not perform as well in few-shot settings where only a handful of training examples are available. To address this shortcoming, we propose STraTA, which stands for Self-Training with Task Augmentation, an approach that builds on two key ideas for effective leverage of unlabeled data. First, STraTA uses task augmentation, a novel technique that synthesizes a large amount of data for auxiliary-task fine-tuning from target-task unlabeled texts. Second, STraTA performs self-training by further fine-tuning the strong base model created by task augmentation on a broad distribution of pseudo-labeled data. Our experiments demonstrate that STraTA can substantially improve sample efficiency across 12 few-shot benchmarks. Remarkably, on the SST-2 sentiment dataset, STraTA, with only 8 training examples per class, achieves comparable results to standard fine-tuning with 67K training examples. Our analyses reveal that task augmentation and self-training are both complementary and independently effective.
+Author{1}{Firstname}#=%=#Tu
+Author{1}{Lastname}#=%=#Vu
+Author{1}{Username}#=%=#tumass
+Author{1}{Email}#=%=#tuvu@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Minh-Thang
+Author{2}{Lastname}#=%=#Luong
+Author{2}{Username}#=%=#thangluong
+Author{2}{Email}#=%=#luong.m.thang@gmail.com
+Author{2}{Affiliation}#=%=#Google Brain
+Author{3}{Firstname}#=%=#Quoc
+Author{3}{Lastname}#=%=#Le
+Author{3}{Username}#=%=#quocle
+Author{3}{Email}#=%=#qvl@google.com
+Author{3}{Affiliation}#=%=#Google Inc
+Author{4}{Firstname}#=%=#Grady
+Author{4}{Lastname}#=%=#Simon
+Author{4}{Email}#=%=#gradys@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Mohit
+Author{5}{Lastname}#=%=#Iyyer
+Author{5}{Username}#=%=#miyyer
+Author{5}{Email}#=%=#m.iyyer@gmail.com
+Author{5}{Affiliation}#=%=#University of Massachusetts Amherst
+
+==========

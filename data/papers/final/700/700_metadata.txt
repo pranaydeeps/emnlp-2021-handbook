@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#700
+FinalPaperTitle#=%=#MultiDoc2Dial: Modeling Dialogues Grounded in Multiple Documents
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Song Feng
+JobTitle#==#
+Organization#==#IBM Research
+Abstract#==#We propose MultiDoc2Dial, a new task and dataset on modeling goal-oriented dialogues grounded in multiple documents. Most previous works treat document-grounded dialogue modeling as machine reading comprehension task based on a single given document or passage. In this work, we aim to address more realistic scenarios where a goal-oriented information-seeking conversation involves multiple topics, and hence is grounded on different documents. To facilitate such task, we introduce a new dataset that contains dialogues grounded in multiple documents from four different domains. We also explore modeling the dialogue-based and document-based contexts in the dataset. We present strong baseline approaches and various experimental results, aiming to support further research efforts on such a task.
+Author{1}{Firstname}#=%=#Song
+Author{1}{Lastname}#=%=#Feng
+Author{1}{Username}#=%=#sngfng
+Author{1}{Email}#=%=#sngfng@gmail.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Siva Sankalp
+Author{2}{Lastname}#=%=#Patel
+Author{2}{Username}#=%=#sivasankalp
+Author{2}{Email}#=%=#siva.sankalp.patel@ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Hui
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Username}#=%=#hwan
+Author{3}{Email}#=%=#hwan@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research AI
+Author{4}{Firstname}#=%=#Sachindra
+Author{4}{Lastname}#=%=#Joshi
+Author{4}{Username}#=%=#sachindra
+Author{4}{Email}#=%=#jsachind@in.ibm.com
+Author{4}{Affiliation}#=%=#IBM
+
+==========

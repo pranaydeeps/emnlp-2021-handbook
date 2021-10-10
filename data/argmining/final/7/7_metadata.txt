@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Multilingual Counter Narrative Type Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Yi-Ling Chung
+JobTitle#==#
+Organization#==#Fondazione Bruno Kessler, Via Sommarive, 18, 38123 Povo TN, Italy
+Abstract#==#The growing interest in employing counter narratives for hatred intervention brings with it a focus on dataset creation and automation strategies. In this scenario, learning to recognize counter narrative types from natural text is expected to be useful for applications such as hate speech countering, where operators from non-governmental organizations are supposed to answer to hate with several and diverse arguments that can be mined from online sources. This paper presents the first multilingual work on counter narrative type classification, evaluating SoTA pre-trained language models in monolingual, multilingual and cross-lingual settings. When considering a fine-grained annotation of counter narrative classes, we report strong baseline classification results for the majority of the counter narrative types, especially if we translate every language to English before cross-lingual prediction. This suggests that knowledge about counter narratives can be successfully transferred across languages.
+Author{1}{Firstname}#=%=#Yi-Ling
+Author{1}{Lastname}#=%=#Chung
+Author{1}{Username}#=%=#yilingchung
+Author{1}{Email}#=%=#ychung@fbk.eu
+Author{1}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{2}{Firstname}#=%=#Marco
+Author{2}{Lastname}#=%=#Guerini
+Author{2}{Username}#=%=#marco.guerini
+Author{2}{Email}#=%=#guerini@fbk.eu
+Author{2}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{3}{Firstname}#=%=#Rodrigo
+Author{3}{Lastname}#=%=#Agerri
+Author{3}{Username}#=%=#ragerri
+Author{3}{Email}#=%=#rodrigo.agerri@ehu.eus
+Author{3}{Affiliation}#=%=#HiTZ Center - Ixa, University of the Basque Country UPV/EHU
+
+==========

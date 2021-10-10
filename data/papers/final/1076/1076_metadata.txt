@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1076
+FinalPaperTitle#=%=#Aspect-Controllable Opinion Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Reinald Kim Amplayo
+JobTitle#==#
+Organization#==#University of Edinburgh, Edinburgh, UK
+Abstract#==#Recent work on opinion summarization produces general summaries based on a set of input reviews and the popularity of opinions expressed in them. In this paper, we propose an approach that allows the generation of customized summaries based on aspect queries (e.g., describing the location and room of a hotel). Using a review corpus, we create a synthetic training dataset of (review, summary) pairs enriched with aspect controllers which are induced by a multi-instance learning model that predicts the aspects of a document at different levels of granularity. We fine-tune a pretrained model using our synthetic dataset and generate aspect-specific summaries by modifying the aspect controllers. Experiments on two benchmarks show that our model outperforms the previous state of the art and generates personalized summaries by controlling the number of aspects discussed in them.
+Author{1}{Firstname}#=%=#Reinald Kim
+Author{1}{Lastname}#=%=#Amplayo
+Author{1}{Username}#=%=#rktamplayo
+Author{1}{Email}#=%=#reinald.kim@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Stefanos
+Author{2}{Lastname}#=%=#Angelidis
+Author{2}{Username}#=%=#stangelid
+Author{2}{Email}#=%=#s.angelidis@ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Mirella
+Author{3}{Lastname}#=%=#Lapata
+Author{3}{Username}#=%=#mlap
+Author{3}{Email}#=%=#mlap@inf.ed.ac.uk
+Author{3}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+
+==========

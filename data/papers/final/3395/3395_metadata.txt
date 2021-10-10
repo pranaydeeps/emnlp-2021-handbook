@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3395
+FinalPaperTitle#=%=#Adapting Entities across Languages and Cultures
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#26
+CopyrightSigned#=%=#Denis Peskov
+JobTitle#==#
+Organization#==#
+Abstract#==#How would you explain Bill Gates to a German? He is associated with founding a company in the United States, so perhaps the German founder Carl Benz could stand in for Gates in those contexts.  This type of translation is called adaptation in the translation community.    Until now, this task has not been done computationally. Automatic adaptation could be used in natural language processing for machine translation and indirectly for generating new question answering datasets and education.  We propose two automatic methods and compare them to human results for this novel NLP task.   First, a structured knowledge base adapts named entities using their shared properties. Second, vector-arithmetic and orthogonal embedding mappings methods identify better candidates, but at the expense of interpretable features. We evaluate our methods through a new dataset of human adaptations.
+Author{1}{Firstname}#=%=#Denis
+Author{1}{Lastname}#=%=#Peskov
+Author{1}{Username}#=%=#dpeskov
+Author{1}{Email}#=%=#dpeskov@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Viktor
+Author{2}{Lastname}#=%=#Hangya
+Author{2}{Username}#=%=#hangyav
+Author{2}{Email}#=%=#hangyav@cis.uni-muenchen.de
+Author{2}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+Author{3}{Firstname}#=%=#Jordan
+Author{3}{Lastname}#=%=#Boyd-Graber
+Author{3}{Username}#=%=#ezubaric
+Author{3}{Email}#=%=#jbg@umiacs.umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland
+Author{4}{Firstname}#=%=#Alexander
+Author{4}{Lastname}#=%=#Fraser
+Author{4}{Username}#=%=#afraser
+Author{4}{Email}#=%=#fraser@cis.uni-muenchen.de
+Author{4}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+
+==========

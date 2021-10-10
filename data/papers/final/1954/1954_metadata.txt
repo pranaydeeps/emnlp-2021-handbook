@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1954
+FinalPaperTitle#=%=#{{SHAPE}}: {S}hifted Absolute Position Embedding for Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Shun Kiyono
+JobTitle#==#
+Organization#==#
+Abstract#==#Position representation is crucial for building position-aware representations in Transformers. 
+Existing position representations suffer from a lack of generalization to test data with unseen lengths or high computational cost.
+We investigate shifted absolute position embedding (SHAPE) to address both issues.
+The basic idea of SHAPE is to achieve shift invariance, which is a key property of recent successful position representations, by randomly shifting absolute positions during training.
+We demonstrate that SHAPE is empirically comparable to its counterpart while being simpler and faster.
+Author{1}{Firstname}#=%=#Shun
+Author{1}{Lastname}#=%=#Kiyono
+Author{1}{Username}#=%=#shunk52
+Author{1}{Email}#=%=#shun.kiyono@riken.jp
+Author{1}{Affiliation}#=%=#RIKEN AIP / Tohoku University
+Author{2}{Firstname}#=%=#Sosuke
+Author{2}{Lastname}#=%=#Kobayashi
+Author{2}{Username}#=%=#sosk
+Author{2}{Email}#=%=#in2400@gmail.com
+Author{2}{Affiliation}#=%=#Tohoku University / Preferred Networks
+Author{3}{Firstname}#=%=#Jun
+Author{3}{Lastname}#=%=#Suzuki
+Author{3}{Username}#=%=#jun
+Author{3}{Email}#=%=#dr.jun.suzuki@gmail.com
+Author{3}{Affiliation}#=%=#Tohoku University / RIKEN Center for AIP
+Author{4}{Firstname}#=%=#Kentaro
+Author{4}{Lastname}#=%=#Inui
+Author{4}{Username}#=%=#k.inui
+Author{4}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{4}{Affiliation}#=%=#Tohoku University / Riken
+
+==========

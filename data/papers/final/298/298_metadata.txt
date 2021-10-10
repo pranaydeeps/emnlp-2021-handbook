@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#298
+FinalPaperTitle#=%=#Memory and Knowledge Augmented Language Models for Inferring Salience in Long-Form Stories
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#David Rae Wilmot
+JobTitle#==#
+Organization#==#School of Informatics
+University of Edinburgh
+Abstract#==#Measuring event salience is essential in the understanding of stories. This paper takes a recent unsupervised method for salience detection derived from Barthes Cardinal Functions and theories of surprise and applies it to longer narrative forms. We improve the standard transformer language model by incorporating an external knowledgebase (derived from Retrieval Augmented Generation) and adding a memory mechanism to enhance performance on longer works. We use a novel approach to derive salience annotation using chapter-aligned summaries from the Shmoop corpus for classic literary works.  Our evaluation against this data demonstrates that our salience detection model improves performance over and above a non-knowledgebase and memory augmented language model, both of which are crucial to this improvement.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Wilmot
+Author{1}{Username}#=%=#dwlmt
+Author{1}{Email}#=%=#david.wilmot@ed.ac.uk
+Author{1}{Affiliation}#=%=#ILCC, University of Edinburgh
+Author{2}{Firstname}#=%=#Frank
+Author{2}{Lastname}#=%=#Keller
+Author{2}{Username}#=%=#keller
+Author{2}{Email}#=%=#keller@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

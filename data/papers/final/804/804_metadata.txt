@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#804
+FinalPaperTitle#=%=#Recall and Learn: A Memory-augmented Solver for Math Word Problems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiawei Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#In this article, we tackle the math word problem, namely, automatically answering a mathematical problem according to its textual description. Although recent methods have demonstrated their promising results, most of these methods are based on template-based generation scheme which results in limited generalization capability. To this end, we propose a novel human-like analogical learning method in a recall and learn manner. Our proposed framework is composed of modules of memory, representation, analogy, and reasoning, which are designed to make a new exercise by referring to the exercises learned in the past. Specifically, given a math word problem, the model first retrieves similar questions by a memory module and then encodes the unsolved problem and each retrieved question using a representation module. Moreover, to solve the problem in a way of analogy, an analogy module and a reasoning module with a copy mechanism are proposed to model the interrelationship between the problem and each retrieved question. Extensive experiments on two well-known datasets show the superiority of our proposed algorithm as compared to other state-of-the-art competitors from both overall performance comparison and micro-scope studies.
+Author{1}{Firstname}#=%=#Shifeng
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#huangshifeng@cvte.com
+Author{1}{Affiliation}#=%=#CVTE Research
+Author{2}{Firstname}#=%=#Jiawei
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#wangjiawei@cvte.com
+Author{2}{Affiliation}#=%=#CVTE Research
+Author{3}{Firstname}#=%=#Jiao
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Email}#=%=#xujiao@cvte.com
+Author{3}{Affiliation}#=%=#CVTE Research
+Author{4}{Firstname}#=%=#Da
+Author{4}{Lastname}#=%=#Cao
+Author{4}{Email}#=%=#caoda0721@gmail.com
+Author{4}{Affiliation}#=%=#Hunan University
+Author{5}{Firstname}#=%=#Ming
+Author{5}{Lastname}#=%=#Yang
+Author{5}{Email}#=%=#yangming@cvte.com
+Author{5}{Affiliation}#=%=#CVTE Research
+
+==========

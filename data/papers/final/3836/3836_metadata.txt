@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3836
+FinalPaperTitle#=%=#Bag of Tricks for Optimizing Transformer Efficiency
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Ye Lin
+JobTitle#==#
+Organization#==#Northeastern University, Shenyang, China
+Abstract#==#Improving Transformer efficiency has become increasingly attractive recently. A wide range of methods has been proposed, e.g., pruning, quantization, new architectures and etc. But these methods are either sophisticated in implementation or dependent on hardware. In this paper, we show that the efficiency of Transformer can be improved by combining some simple and hardware-agnostic methods, including tuning hyper-parameters, better design choices and training strategies. On the WMT news translation tasks, we improve the inference efficiency of a strong Transformer system by 3.80x on CPU and 2.52x on GPU.
+Author{1}{Firstname}#=%=#Ye
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#linye0726
+Author{1}{Email}#=%=#linye2015@outlook.com
+Author{1}{Affiliation}#=%=#Northeastern University
+Author{2}{Firstname}#=%=#Yanyang
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#yanyangli
+Author{2}{Email}#=%=#blamedrlee@outlook.com
+Author{2}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{3}{Firstname}#=%=#Tong
+Author{3}{Lastname}#=%=#Xiao
+Author{3}{Username}#=%=#xiaotong
+Author{3}{Email}#=%=#xiaotong@mail.neu.edu.cn
+Author{3}{Affiliation}#=%=#Northeastern University
+Author{4}{Firstname}#=%=#Jingbo
+Author{4}{Lastname}#=%=#Zhu
+Author{4}{Username}#=%=#zhujingbo
+Author{4}{Email}#=%=#zhujingbo@mail.neu.edu.cn
+Author{4}{Affiliation}#=%=#Northeastern University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#72
+FinalPaperTitle#=%=#Enhancing the Context Representation in Similarity-based Word Sense Disambiguation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Ming Wang
+JobTitle#==#
+Organization#==#Shanghai University of Finance and Economics
+Number 777, Guoding Road, Yangpu District, Shanghai, China
+Abstract#==#In previous similarity-based WSD systems, studies have allocated much effort on learning comprehensive sense embeddings using contextual representations and knowledge sources. However, the context embedding of an ambiguous word is learned using only the sentence where the word appears, neglecting its global context. In this paper, we investigate the contribution of both word-level and sense-level global context of an ambiguous word for disambiguation. Experiments have shown that the Context-Oriented Embedding (COE) can enhance a similarity-based system’s performance on WSD by relatively large margins, achieving state-of-the-art on all-words WSD benchmarks in knowledge-based category.
+Author{1}{Firstname}#=%=#Ming
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#lwmlyy
+Author{1}{Email}#=%=#wangming@163.sufe.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai University of Finance and Economics
+Author{2}{Firstname}#=%=#Jianzhang
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zjzhang
+Author{2}{Email}#=%=#jianzhang.zhang@foxmail.com
+Author{2}{Affiliation}#=%=#Alibaba Business School, Hangzhou Normal University,
+Author{3}{Firstname}#=%=#Yinglin
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#yinglinw
+Author{3}{Email}#=%=#wang.yinglin@shufe.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai University of Finance and Economics
+
+==========

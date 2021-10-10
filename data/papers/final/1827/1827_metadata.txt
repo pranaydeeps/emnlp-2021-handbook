@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1827
+FinalPaperTitle#=%=#Retrieval, Analogy, and Composition: A framework for Compositional Generalization in Image Captioning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#zhan shi
+JobTitle#==#
+Organization#==#ECE, Queen's Unversity; 19 Union St, Kingston, ON, Canada, K7L 3N9.
+Abstract#==#Image captioning systems are expected to have the ability to
+combine individual concepts when describing scenes with concept combinations that are not observed during training. In spite of significant progress in image
+captioning with the help of the autoregressive generation framework, current approaches fail to generalize well to novel concept combinations. We propose a new framework that revolves around probing several similar image caption training instances (retrieval), performing analogical reasoning over relevant entities in retrieved prototypes (analogy), and enhancing the generation process with reasoning outcomes (composition). Our method augments the generation model by referring to the neighboring instances in the training set to produce novel concept combinations in generated captions. We perform experiments on the widely used image captioning benchmarks. The proposed models achieve substantial improvement over the compared baselines on both composition-related evaluation metrics and conventional image captioning metrics.
+Author{1}{Firstname}#=%=#Zhan
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Username}#=%=#samshi
+Author{1}{Email}#=%=#18zs11@queensu.ca
+Author{1}{Affiliation}#=%=#Queen's University
+Author{2}{Firstname}#=%=#Hui
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#huiliu
+Author{2}{Email}#=%=#hui.liu@queensu.ca
+Author{2}{Affiliation}#=%=#Queen's University
+Author{3}{Firstname}#=%=#Martin Renqiang
+Author{3}{Lastname}#=%=#Min
+Author{3}{Username}#=%=#renqiang
+Author{3}{Email}#=%=#renqiang@nec-labs.com
+Author{3}{Affiliation}#=%=#NEC Labs America
+Author{4}{Firstname}#=%=#Christopher
+Author{4}{Lastname}#=%=#Malon
+Author{4}{Username}#=%=#malon
+Author{4}{Email}#=%=#malon@nec-labs.com
+Author{4}{Affiliation}#=%=#NEC Laboratories America
+Author{5}{Firstname}#=%=#Li Erran
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#erranlli
+Author{5}{Email}#=%=#erranlli@gmail.com
+Author{5}{Affiliation}#=%=#Amazon
+Author{6}{Firstname}#=%=#Xiaodan
+Author{6}{Lastname}#=%=#Zhu
+Author{6}{Username}#=%=#zhu2048
+Author{6}{Email}#=%=#zhu2048@gmail.com
+Author{6}{Affiliation}#=%=#Queen's University
+
+==========

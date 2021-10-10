@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#535
+FinalPaperTitle#=%=#Cost-effective End-to-end Information Extraction for Semi-structured Document Images
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Wonseok Hwang
+JobTitle#==#
+Organization#==#
+Abstract#==#A real-world information extraction (IE) system for semi-structured document images often involves a long pipeline of multiple modules, whose complexity dramatically increases its development and maintenance cost. One can instead consider an end-to-end model that directly maps the input to the target output and simplify the entire process. However, such generation approach is known to lead to unstable performance if not designed carefully. Here we present our recent effort on transitioning from our existing pipeline-based IE system to an end-to-end system focusing on practical challenges that are associated with replacing and deploying the system in real, large-scale production. By carefully formulating document IE as a sequence generation task, we show that a single end-to-end IE system can be built and still achieve competent performance.
+Author{1}{Firstname}#=%=#Wonseok
+Author{1}{Lastname}#=%=#Hwang
+Author{1}{Username}#=%=#whwang299
+Author{1}{Email}#=%=#whwang299@gmail.com
+Author{1}{Affiliation}#=%=#LBox
+Author{2}{Firstname}#=%=#Hyunji
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#alee6868@kaist.ac.kr
+Author{2}{Affiliation}#=%=#KAIST
+Author{3}{Firstname}#=%=#Jinyeong
+Author{3}{Lastname}#=%=#Yim
+Author{3}{Username}#=%=#jinyyim
+Author{3}{Email}#=%=#jinyeong.yim@navercorp.com
+Author{3}{Affiliation}#=%=#NAVER Corp.
+Author{4}{Firstname}#=%=#Geewook
+Author{4}{Lastname}#=%=#Kim
+Author{4}{Username}#=%=#kdrl
+Author{4}{Email}#=%=#gw.kim@navercorp.com
+Author{4}{Affiliation}#=%=#NAVER
+Author{5}{Firstname}#=%=#Minjoon
+Author{5}{Lastname}#=%=#Seo
+Author{5}{Username}#=%=#minjoon
+Author{5}{Email}#=%=#minjoon@kaist.ac.kr
+Author{5}{Affiliation}#=%=#KAIST
+
+==========

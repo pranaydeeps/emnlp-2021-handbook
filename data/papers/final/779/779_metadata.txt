@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#779
+FinalPaperTitle#=%=#How to Select One Among All ? An Empirical Study Towards the Robustness of Knowledge Distillation in Natural Language Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Tianda Li
+JobTitle#==#NLP researcher
+Organization#==#Huawei Noah’s Ark Lab
+Montreal,
+Canada
+Abstract#==#Knowledge Distillation (KD) is a model compression algorithm that helps transfer the knowledge in a large neural network into a smaller one. Even though KD has shown promise on a wide range of Natural Language Processing (NLP) applications, little is understood about how one KD algorithm compares to another and whether these approaches can be complimentary to each other.
+In this work, we evaluate various KD algorithms on in-domain, out-of-domain and adversarial testing. We propose a framework to assess adversarial robustness of multiple KD algorithms. Moreover, we introduce a new KD algorithm, Combined-KD, which takes advantage of two promising approaches (better training scheme and more efficient data augmentation). Our extensive experimental results show that Combined-KD achieves  state-of-the-art results on the GLUE benchmark, out-of-domain generalization, and adversarial robustness compared to competitive methods.
+Author{1}{Firstname}#=%=#Tianda
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#tianda.li
+Author{1}{Email}#=%=#tianda.li@huawei.com
+Author{1}{Affiliation}#=%=#Huawei Noah's Ark research center
+Author{2}{Firstname}#=%=#Ahmad
+Author{2}{Lastname}#=%=#Rashid
+Author{2}{Username}#=%=#ahmadrashid
+Author{2}{Email}#=%=#ahmad.rashid@huawei.com
+Author{2}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{3}{Firstname}#=%=#Aref
+Author{3}{Lastname}#=%=#Jafari
+Author{3}{Username}#=%=#aref.jafari
+Author{3}{Email}#=%=#aref.jafari@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+Author{4}{Firstname}#=%=#Pranav
+Author{4}{Lastname}#=%=#Sharma
+Author{4}{Username}#=%=#p68sharm
+Author{4}{Email}#=%=#p68sharm@uwaterloo.ca
+Author{4}{Affiliation}#=%=#University of Waterloo
+Author{5}{Firstname}#=%=#Ali
+Author{5}{Lastname}#=%=#Ghodsi
+Author{5}{Username}#=%=#aghodsib
+Author{5}{Email}#=%=#ali.ghodsi@uwaterloo.ca
+Author{5}{Affiliation}#=%=#University of Waterloo
+Author{6}{Firstname}#=%=#Mehdi
+Author{6}{Lastname}#=%=#Rezagholizadeh
+Author{6}{Username}#=%=#mrgzadeh
+Author{6}{Email}#=%=#mehdi.rezagholizadeh@gmail.com
+Author{6}{Affiliation}#=%=#Noah's Ark Lab Huawei
+
+==========

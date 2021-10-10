@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#2353
+FinalPaperTitle#=%=#$k$Folden: $k$-Fold Ensemble for Out-Of-Distribution Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Jiwei Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Out-of-Distribution (OOD) detection is an important problem in natural language processing (NLP). In this work, we propose a simple yet effective framework $k$Folden, which mimics the behaviors of OOD detection during training without the use of any external data. For a task with $k$ training labels, $k$Folden induces $k$ sub-models, each of which is trained on a subset with $k-1$ categories with the left category masked unknown to the sub-model. Exposing an unknown label to the sub-model during training, the model is encouraged to learn to equally attribute the probability  to the seen $k-1$ labels for the unknown label, enabling  this framework to simultaneously resolve in- and out-distribution examples in a natural way via OOD simulations. Taking text classification as an archetype, we develop benchmarks for OOD detection using existing text classification datasets. By conducting comprehensive comparisons and analyses on the developed benchmarks, we demonstrate the superiority of $k$Folden against current methods in terms of improving OOD detection performances while maintaining improved in-domain classification accuracy.
+Author{1}{Firstname}#=%=#Xiaoya
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#xiaoyli
+Author{1}{Email}#=%=#xiaoya_li@shannonai.com
+Author{1}{Affiliation}#=%=#Shannon.AI
+Author{2}{Firstname}#=%=#Jiwei
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#bdlijiwei
+Author{2}{Email}#=%=#jiwei_li@shannonai.com
+Author{2}{Affiliation}#=%=#Shannon.AI
+Author{3}{Firstname}#=%=#Xiaofei
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Username}#=%=#adoni1203
+Author{3}{Email}#=%=#xiaofei_sun@shannonai.com
+Author{3}{Affiliation}#=%=#Shannon.AI
+Author{4}{Firstname}#=%=#Chun
+Author{4}{Lastname}#=%=#Fan
+Author{4}{Username}#=%=#fanchun
+Author{4}{Email}#=%=#fanchun@pku.edu.cn
+Author{4}{Affiliation}#=%=#Computer Center of Peking University
+Author{5}{Firstname}#=%=#Tianwei
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#tianweiz
+Author{5}{Email}#=%=#tianwei.zhang@ntu.edu.sg
+Author{5}{Affiliation}#=%=#Nanyang Technological University
+Author{6}{Firstname}#=%=#Fei
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Username}#=%=#wufeizju
+Author{6}{Email}#=%=#wufei@zju.edu.cn
+Author{6}{Affiliation}#=%=#Zhejiang University
+Author{7}{Firstname}#=%=#Yuxian
+Author{7}{Lastname}#=%=#Meng
+Author{7}{Username}#=%=#yuxian
+Author{7}{Email}#=%=#mengyuxian@pku.edu.cn
+Author{7}{Affiliation}#=%=#Shannon.AI
+Author{8}{Firstname}#=%=#Jun
+Author{8}{Lastname}#=%=#Zhang
+Author{8}{Username}#=%=#mcgrady164
+Author{8}{Email}#=%=#jun-zhan19@mails.tsinghua.edu.cn
+Author{8}{Affiliation}#=%=#Tsinghua University
+
+==========

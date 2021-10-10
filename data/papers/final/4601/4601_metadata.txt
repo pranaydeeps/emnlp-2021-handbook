@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4601
+FinalPaperTitle#=%=#Asking Questions Like Educational Experts: {A}utomatically Generating Question-Answer Pairs on Real-World Examination Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Fanyi Qu
+JobTitle#==#
+Organization#==#
+Abstract#==#Generating high quality question-answer pairs is a hard but meaningful task. Although previous works have achieved great results on answer-aware question generation, it is difficult to apply them into practical application in the education field. This paper for the first time addresses the question-answer pair generation task on the real-world examination data, and proposes a new unified framework on RACE. To capture the important information of the input passage we first automatically generate (rather than extracting) keyphrases, thus this task is reduced to keyphrase-question-answer triplet joint generation. Accordingly, we propose a multi-agent communication model to generate and optimize the question and keyphrases iteratively, and then apply the generated question and keyphrases to guide the generation of answers. To establish a solid benchmark, we build our model on the strong generative pre-training model. Experimental results show that our model makes great breakthroughs in the question-answer pair generation task. Moreover, we make a comprehensive analysis on our model, suggesting new directions for this challenging task.
+Author{1}{Firstname}#=%=#Fanyi
+Author{1}{Lastname}#=%=#Qu
+Author{1}{Username}#=%=#qufanyi
+Author{1}{Email}#=%=#fanyiqu@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Jia
+Author{2}{Username}#=%=#jemmryx
+Author{2}{Email}#=%=#jemmryx@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Yunfang
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Username}#=%=#wuyunfang
+Author{3}{Email}#=%=#wuyf@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

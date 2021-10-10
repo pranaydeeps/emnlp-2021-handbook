@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#853
+FinalPaperTitle#=%=#Zero-Shot Cross-Lingual Transfer of Neural Machine Translation with Multilingual Pretrained Encoders
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Chen Guanhua
+JobTitle#==#
+Organization#==#
+Abstract#==#Previous work mainly focuses on improving cross-lingual transfer for NLU tasks with a multilingual pretrained encoder (MPE), or improving the performance on supervised machine translation with BERT. However, it is under-explored that whether the MPE can help to facilitate the cross-lingual transferability of NMT model. In this paper, we focus on a zero-shot cross-lingual transfer task in NMT. In this task, the NMT model is trained with parallel dataset of only one language pair and an off-the-shelf MPE, then it is directly tested on zero-shot language pairs. We propose SixT, a simple yet effective model for this task. SixT leverages the MPE with a two-stage training schedule and gets further improvement with a position disentangled encoder and a capacity-enhanced decoder. Using this method, SixT significantly outperforms mBART, a pretrained multilingual encoder-decoder model explicitly designed for NMT, with an average improvement of 7.1 BLEU on zero-shot any-to-English test sets across 14 source languages. Furthermore, with much less training computation cost and training data, our model achieves better performance on 15 any-to-English test sets than CRISS and m2m-100, two strong multilingual NMT baselines.
+Author{1}{Firstname}#=%=#Guanhua
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#ghchen
+Author{1}{Email}#=%=#ghchen08@gmail.com
+Author{1}{Affiliation}#=%=#The University of Hong Kong
+Author{2}{Firstname}#=%=#Shuming
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#shumingma
+Author{2}{Email}#=%=#shumma@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Yun
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#susie09
+Author{3}{Email}#=%=#yun.chencreek@gmail.com
+Author{3}{Affiliation}#=%=#Shanghai University of Finance and Economics
+Author{4}{Firstname}#=%=#Li
+Author{4}{Lastname}#=%=#Dong
+Author{4}{Username}#=%=#donglixp
+Author{4}{Email}#=%=#donglixp@gmail.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+Author{5}{Firstname}#=%=#Dongdong
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#zdd
+Author{5}{Email}#=%=#dozhang@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research Asia
+Author{6}{Firstname}#=%=#Jia
+Author{6}{Lastname}#=%=#Pan
+Author{6}{Username}#=%=#panj
+Author{6}{Email}#=%=#jpan@cs.hku.hk
+Author{6}{Affiliation}#=%=#University of Hong Kong
+Author{7}{Firstname}#=%=#Wenping
+Author{7}{Lastname}#=%=#Wang
+Author{7}{Username}#=%=#wenping
+Author{7}{Email}#=%=#wenping@tamu.edu
+Author{7}{Affiliation}#=%=#Texas A&M University
+Author{8}{Firstname}#=%=#Furu
+Author{8}{Lastname}#=%=#Wei
+Author{8}{Username}#=%=#fuwei
+Author{8}{Email}#=%=#fuwei@microsoft.com
+Author{8}{Affiliation}#=%=#Microsoft Research
+
+==========

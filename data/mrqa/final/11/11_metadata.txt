@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Bilingual Alignment Pre-Training for Zero-Shot Cross-Lingual Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ziqing Yang
+JobTitle#==#
+Organization#==#State Key Laboratory of Cognitive Intelligence, iFLYTEK Research, China
+Abstract#==#Multilingual pre-trained models have achieved remarkable performance on cross-lingual transfer learning. Some multilingual models such as mBERT, have been pre-trained on unlabeled corpora, therefore the embeddings of different languages in the models may not be aligned very well. In this paper, we aim to improve the zero-shot cross-lingual transfer performance by proposing a pre-training task named Word-Exchange Aligning Model (WEAM), which uses the statistical alignment information as the prior knowledge to guide cross-lingual word prediction. We evaluate our model on multilingual machine reading comprehension task MLQA and natural language interface task XNLI. The results show that WEAM can significantly improve the zero-shot performance.
+Author{1}{Firstname}#=%=#Ziqing
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#yangziqing
+Author{1}{Email}#=%=#ziqingyang@gmail.com
+Author{1}{Affiliation}#=%=#iFLYTEK Research
+Author{2}{Firstname}#=%=#Wentao
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#wtma
+Author{2}{Email}#=%=#mawentao223@gmail.com
+Author{2}{Affiliation}#=%=#iFLYTEK Research
+Author{3}{Firstname}#=%=#Yiming
+Author{3}{Lastname}#=%=#Cui
+Author{3}{Username}#=%=#ymcui
+Author{3}{Email}#=%=#ymcui@ieee.org
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+Author{4}{Firstname}#=%=#Jiani
+Author{4}{Lastname}#=%=#Ye
+Author{4}{Username}#=%=#jnye
+Author{4}{Email}#=%=#cosmoyjn@gmail.com
+Author{4}{Affiliation}#=%=#iFLYTEK Research
+Author{5}{Firstname}#=%=#Wanxiang
+Author{5}{Lastname}#=%=#Che
+Author{5}{Username}#=%=#wanxiang
+Author{5}{Email}#=%=#wanxiang@gmail.com
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology
+Author{6}{Firstname}#=%=#Shijin
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Username}#=%=#sjwang3
+Author{6}{Email}#=%=#sjwang3@iflytek.com
+Author{6}{Affiliation}#=%=#iFLYTEK Research
+
+==========

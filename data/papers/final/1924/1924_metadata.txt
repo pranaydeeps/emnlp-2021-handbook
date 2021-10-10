@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1924
+FinalPaperTitle#=%=#MapRE: An Effective Semantic Mapping Approach for Low-resource Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Manqing Dong
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural relation extraction models have shown promising results in recent years; however, the model performance drops dramatically given only a few training samples. Recent works try leveraging the advance in few-shot learning to solve the low resource problem, where they train label-agnostic models to directly compare the semantic similarities among context sentences in the embedding space. However, the label-aware information, i.e., the relation label that contains the semantic knowledge of the relation itself, is often neglected for prediction. In this work, we propose a framework considering both label-agnostic and label-aware semantic mapping information for low resource relation extraction. We show that incorporating the above two types of mapping information in both pretraining and fine-tuning can significantly improve the model performance on low-resource relation extraction tasks.
+Author{1}{Firstname}#=%=#Manqing
+Author{1}{Lastname}#=%=#Dong
+Author{1}{Username}#=%=#dongmanqing
+Author{1}{Email}#=%=#dongmanqing@gmail.com
+Author{1}{Affiliation}#=%=#DeepBlue Technology (Shanghai) Co., Ltd
+Author{2}{Firstname}#=%=#Chunguang
+Author{2}{Lastname}#=%=#Pan
+Author{2}{Username}#=%=#chunguangpan
+Author{2}{Email}#=%=#panchunguang@126.com
+Author{2}{Affiliation}#=%=#DeepBlue Technology (Shanghai) Co., Ltd
+Author{3}{Firstname}#=%=#Zhipeng
+Author{3}{Lastname}#=%=#Luo
+Author{3}{Username}#=%=#getmax
+Author{3}{Email}#=%=#luozp@deepblueai.com
+Author{3}{Affiliation}#=%=#DeepBlue Technology
+
+==========

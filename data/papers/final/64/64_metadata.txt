@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#64
+FinalPaperTitle#=%=#Self-Teaching Machines to Read and Comprehend with Large-Scale Multi-Subject Question-Answering Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Dian Yu
+JobTitle#==#researcher
+Organization#==#Tencent AI Lab
+10900 NE 8th St, Bellevue, WA 98004
+Abstract#==#Despite considerable progress, most machine reading comprehension (MRC) tasks still lack sufficient training data to fully exploit powerful deep neural network models with millions of parameters, and it is laborious, expensive, and time-consuming to create large-scale, high-quality MRC data through crowdsourcing. This paper focuses on generating more training data for MRC tasks by leveraging existing question-answering (QA) data. We first collect a large-scale multi-subject multiple-choice QA dataset for Chinese, ExamQA. We next use incomplete, yet relevant snippets returned by a web search engine as the context for each QA instance to convert it into a weakly-labeled MRC instance. To better use the weakly-labeled data to improve a target MRC task, we evaluate and compare several methods and further propose a self-teaching paradigm. Experimental results show that, upon state-of-the-art MRC baselines, we can obtain +5.1% in accuracy on a multiple-choice Chinese MRC dataset, C^3, and +3.8% in exact match on an extractive Chinese MRC dataset, CMRC 2018, demonstrating the usefulness of the generated QA-based weakly-labeled data for different types of MRC tasks as well as the effectiveness of self-teaching. ExamQA will be available at https://dataset.org/examqa/.
+Author{1}{Firstname}#=%=#Dian
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#dian
+Author{1}{Email}#=%=#yudiandoris@gmail.com
+Author{1}{Affiliation}#=%=#Tencent AI Lab
+Author{2}{Firstname}#=%=#Kai
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#sunkaicn
+Author{2}{Email}#=%=#ks985@cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+Author{3}{Firstname}#=%=#Dong
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#dongyu
+Author{3}{Email}#=%=#dongyu@ieee.org
+Author{3}{Affiliation}#=%=#Tencent AI Lab
+Author{4}{Firstname}#=%=#Claire
+Author{4}{Lastname}#=%=#Cardie
+Author{4}{Username}#=%=#cardie
+Author{4}{Email}#=%=#cardie@cs.cornell.edu
+Author{4}{Affiliation}#=%=#Cornell University
+
+==========

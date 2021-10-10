@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#3705
+FinalPaperTitle#=%=#Jump-Starting Item Parameters for Adaptive Language Tests
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Arya McCarthy
+JobTitle#==#
+Organization#==#
+Abstract#==#A challenge in designing high-stakes language assessments is calibrating the test item difficulties, either a priori or from limited pilot test data.
+While prior work has addressed 'cold start' estimation of item difficulties without piloting, we devise a multi-task generalized linear model with BERT features to jump-start these estimates, rapidly improving their quality with as few as 500 test-takers and a small sample of item exposures (≈6 each) from a large item bank (≈4,000 items). Our joint model provides a principled way to compare test-taker proficiency, item difficulty, and language proficiency frameworks like the Common European Framework of Reference (CEFR). This also enables new item difficulty estimates without piloting them first, which in turn limits item exposure and thus enhances test item security.
+Finally, using operational data from the Duolingo English Test, a high-stakes English proficiency test, we find that the difficulty estimates derived using this method correlate strongly with lexico-grammatical features that correlate with reading complexity.
+Author{1}{Firstname}#=%=#Arya D.
+Author{1}{Lastname}#=%=#McCarthy
+Author{1}{Username}#=%=#arya
+Author{1}{Email}#=%=#arya@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Kevin P.
+Author{2}{Lastname}#=%=#Yancey
+Author{2}{Username}#=%=#kpyancey
+Author{2}{Email}#=%=#kyancey@duolingo.com
+Author{2}{Affiliation}#=%=#Duolingo
+Author{3}{Firstname}#=%=#Geoff T.
+Author{3}{Lastname}#=%=#LaFlair
+Author{3}{Email}#=%=#geoff@duolingo.com
+Author{3}{Affiliation}#=%=#Duolingo
+Author{4}{Firstname}#=%=#Jesse
+Author{4}{Lastname}#=%=#Egbert
+Author{4}{Email}#=%=#jesse.egbert@nau.edu
+Author{4}{Affiliation}#=%=#Northern Arizona University
+Author{5}{Firstname}#=%=#Manqian
+Author{5}{Lastname}#=%=#Liao
+Author{5}{Email}#=%=#mancy@duolingo.com
+Author{5}{Affiliation}#=%=#Duolingo
+Author{6}{Firstname}#=%=#Burr
+Author{6}{Lastname}#=%=#Settles
+Author{6}{Username}#=%=#bsettles
+Author{6}{Email}#=%=#burrsettles@gmail.com
+Author{6}{Affiliation}#=%=#Duolingo, Inc.
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Matching The Statements: A Simple and Accurate Model for Key Point Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Phan Hoang
+JobTitle#==#
+Organization#==#Hanoi University of Science and Technology, Hanoi, Vietnam
+Abstract#==#Key Point Analysis (KPA) is one of the most essential tasks in building an Opinion Summarization system, which is capable of generating key points for a collection of arguments toward a particular topic. Furthermore, KPA allows quantifying the coverage of each summary by counting its matched arguments. With the aim of creating high-quality summaries, it is necessary to have an in-depth understanding of each individual argument as well as its universal semantic in a specified context. In this paper, we introduce a promising model, named Matching the Statements (MTS) that incorporates the discussed topic information into arguments/key points comprehension to fully understand their meanings, thus accurately performing ranking and retrieving best-match key points for an input argument. Our approach  has achieved the 4th place in Track 1 of the Quantitative Summarization – Key Point Analysis Shared Task by IBM, yielding a competitive performance of 0.8956 (3rd) and 0.9632 (7th) strict and relaxed mean Average Precision, respectively.
+Author{1}{Firstname}#=%=#Hoang
+Author{1}{Lastname}#=%=#Phan
+Author{1}{Username}#=%=#hoangpvhust
+Author{1}{Email}#=%=#hoang.pv180086@sis.hust.edu.vn
+Author{1}{Affiliation}#=%=#Hanoi University of Science & Technology (HUST)
+Author{2}{Firstname}#=%=#Long
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Username}#=%=#tienlong
+Author{2}{Email}#=%=#long.nt180129@sis.hust.edu.vn
+Author{2}{Affiliation}#=%=#HUST
+Author{3}{Firstname}#=%=#Long
+Author{3}{Lastname}#=%=#Nguyen
+Author{3}{Username}#=%=#lukeng
+Author{3}{Email}#=%=#long.nd183583@sis.hust.edu.vn
+Author{3}{Affiliation}#=%=#HUST
+Author{4}{Firstname}#=%=#Khanh
+Author{4}{Lastname}#=%=#Doan
+Author{4}{Username}#=%=#dnkhanh45
+Author{4}{Email}#=%=#khanh.dn180110@sis.hust.edu.vn
+Author{4}{Affiliation}#=%=#HUST
+
+==========

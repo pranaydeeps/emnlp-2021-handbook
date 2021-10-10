@@ -1,0 +1,82 @@
+SubmissionNumber#=%=#3692
+FinalPaperTitle#=%=#Iconary: A Pictionary-Based Game for Testing Multimodal Communication with Drawings and Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Christopher Clark
+JobTitle#==#
+Organization#==#Allen Institute for Artificial Intelligence
+2157 N Northlake Way #110, Seattle, WA 98103
+Abstract#==#Communicating with humans is challenging for AIs because it requires a shared understanding of the world, complex semantics (e.g., metaphors or analogies), and at times multi-modal gestures (e.g., pointing with a  finger, or an arrow in a diagram). We investigate these challenges in the context of Iconary, a collaborative game of drawing and guessing based on Pictionary, that poses a novel challenge for the research community. In Iconary, a Guesser tries to identify a phrase that a Drawer is drawing by composing icons, and the Drawer iteratively revises the drawing to help the Guesser in response. This back-and-forth often uses canonical scenes, visual metaphor, or icon compositions to express challenging words, making it an ideal test for mixing language and visual/symbolic communication in AI. We propose models to play Iconary and train them on over 55,000 games between human players. Our models are skillful players and are able to employ world knowledge in language models to play with words unseen during training.
+Author{1}{Firstname}#=%=#Christopher
+Author{1}{Lastname}#=%=#Clark
+Author{1}{Username}#=%=#chrisc
+Author{1}{Email}#=%=#chrisc@allenai.org
+Author{1}{Affiliation}#=%=#Allen Institute for AI
+Author{2}{Firstname}#=%=#Jordi
+Author{2}{Lastname}#=%=#Salvador
+Author{2}{Email}#=%=#jordis@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for AI
+Author{3}{Firstname}#=%=#Dustin
+Author{3}{Lastname}#=%=#Schwenk
+Author{3}{Username}#=%=#drschwenk
+Author{3}{Email}#=%=#dustins@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute for AI
+Author{4}{Firstname}#=%=#Derrick
+Author{4}{Lastname}#=%=#Bonafilia
+Author{4}{Email}#=%=#derrickb@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for AI
+Author{5}{Firstname}#=%=#Mark
+Author{5}{Lastname}#=%=#Yatskar
+Author{5}{Username}#=%=#my89
+Author{5}{Email}#=%=#myatskar@cis.upenn.edu
+Author{6}{Firstname}#=%=#Eric
+Author{6}{Lastname}#=%=#Kolve
+Author{6}{Email}#=%=#erick@allenai.org
+Author{6}{Affiliation}#=%=#Allen Institute for AI
+Author{7}{Firstname}#=%=#Alvaro
+Author{7}{Lastname}#=%=#Herrasti
+Author{7}{Email}#=%=#alvaroh@allenai.org
+Author{7}{Affiliation}#=%=#Allen Institute for AI
+Author{8}{Firstname}#=%=#Jonghyun
+Author{8}{Lastname}#=%=#Choi
+Author{8}{Email}#=%=#jhc@gist.ac.kr
+Author{8}{Affiliation}#=%=#Gwangju Institute of Science and Technology
+Author{9}{Firstname}#=%=#Sachin
+Author{9}{Lastname}#=%=#Mehta
+Author{9}{Username}#=%=#sacmehta
+Author{9}{Email}#=%=#sacmehta@uw.edu
+Author{9}{Affiliation}#=%=#Apple Inc.
+Author{10}{Firstname}#=%=#Sam
+Author{10}{Lastname}#=%=#Skjonsberg
+Author{10}{Email}#=%=#sams@allenai.org
+Author{10}{Affiliation}#=%=#Allen Institute for AI
+Author{11}{Firstname}#=%=#Carissa
+Author{11}{Lastname}#=%=#Schoenick
+Author{11}{Email}#=%=#carissas@allenai.org
+Author{11}{Affiliation}#=%=#Allen Institute for AI
+Author{12}{Firstname}#=%=#Aaron
+Author{12}{Lastname}#=%=#Sarnat
+Author{12}{Email}#=%=#aarons@allenai.org
+Author{12}{Affiliation}#=%=#Allen Institute for AI
+Author{13}{Firstname}#=%=#Hannaneh
+Author{13}{Lastname}#=%=#Hajishirzi
+Author{13}{Username}#=%=#hannaneh
+Author{13}{Email}#=%=#hannaneh@washington.edu
+Author{13}{Affiliation}#=%=#University of Washington
+Author{14}{Firstname}#=%=#Aniruddha
+Author{14}{Lastname}#=%=#Kembhavi
+Author{14}{Username}#=%=#anikem
+Author{14}{Email}#=%=#anik@allenai.org
+Author{14}{Affiliation}#=%=#Allen Institute for AI
+Author{15}{Firstname}#=%=#Oren
+Author{15}{Lastname}#=%=#Etzioni
+Author{15}{Username}#=%=#etzioni
+Author{15}{Email}#=%=#orene@allenai.org
+Author{15}{Affiliation}#=%=#AI2
+Author{16}{Firstname}#=%=#Ali
+Author{16}{Lastname}#=%=#Farhadi
+Author{16}{Username}#=%=#afarhad2
+Author{16}{Email}#=%=#ali@cs.washington.edu
+Author{16}{Affiliation}#=%=#University of Washington
+
+==========

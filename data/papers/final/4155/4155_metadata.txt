@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4155
+FinalPaperTitle#=%=#PASTE: A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Rajdeep Mukherjee
+JobTitle#==#
+Organization#==#Indian Institute of Technology Kharagpur, India
+Abstract#==#Aspect Sentiment Triplet Extraction (ASTE) deals with extracting opinion triplets, consisting of an opinion target or aspect, its associated sentiment, and the corresponding opinion term/span explaining the rationale behind the sentiment. Existing research efforts are majorly tagging-based. Among the methods taking a sequence tagging approach, some fail to capture the strong interdependence between the three opinion factors, whereas others fall short of identifying triplets with overlapping aspect/opinion spans. A recent grid tagging approach on the other hand fails to capture the span-level semantics while predicting the sentiment between an aspect-opinion pair. Different from these, we present a tagging-free solution for the task, while addressing the limitations of the existing works. We adapt an encoder-decoder architecture with a Pointer Network-based decoding framework that generates an entire opinion triplet at each time step thereby making our solution end-to-end. Interactions between the aspects and opinions are effectively captured by the decoder by considering their entire detected spans while predicting their connecting sentiment. Extensive experiments on several benchmark datasets establish the better efficacy of our proposed approach, especially in recall, and in predicting multiple and aspect/opinion-overlapped triplets from the same review sentence. We report our results both with and without BERT and also demonstrate the utility of domain-specific BERT post-training for the task.
+Author{1}{Firstname}#=%=#Rajdeep
+Author{1}{Lastname}#=%=#Mukherjee
+Author{1}{Username}#=%=#rajdeep1989
+Author{1}{Email}#=%=#rajdeep1989.iitkgp@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Kharagpur, India
+Author{2}{Firstname}#=%=#Tapas
+Author{2}{Lastname}#=%=#Nayak
+Author{2}{Username}#=%=#nayakt
+Author{2}{Email}#=%=#tnk02.05@gmail.com
+Author{2}{Affiliation}#=%=#Indian Institute of Technology Kharagpur
+Author{3}{Firstname}#=%=#Yash
+Author{3}{Lastname}#=%=#Butala
+Author{3}{Username}#=%=#yashbutala
+Author{3}{Email}#=%=#butalayash99@gmail.com
+Author{3}{Affiliation}#=%=#Indian Institute of Technology Kharagpur
+Author{4}{Firstname}#=%=#Sourangshu
+Author{4}{Lastname}#=%=#Bhattacharya
+Author{4}{Username}#=%=#sourangshu
+Author{4}{Email}#=%=#sourangshu@cse.iitkgp.ac.in
+Author{4}{Affiliation}#=%=#IIT Kharagpur
+Author{5}{Firstname}#=%=#Pawan
+Author{5}{Lastname}#=%=#Goyal
+Author{5}{Username}#=%=#pawang
+Author{5}{Email}#=%=#pawang.iitk@gmail.com
+Author{5}{Affiliation}#=%=#IIT Kharagpur
+
+==========

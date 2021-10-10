@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#3624
+FinalPaperTitle#=%=#Multi-task Learning to Enable Location Mention Identification in the Early Hours of a Crisis Event
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sarthak Khanal
+JobTitle#==#
+Organization#==#Kansas State University,
+Manhattan, KS
+Abstract#==#Training a robust and reliable deep learning model requires a large amount of data. In the crisis domain, building deep learning models to identify actionable information from the huge influx of data posted by eyewitnesses of crisis events on social media, in a time-critical manner, is central for fast response and relief operations. However, building a large, annotated dataset to train deep learning models is not always feasible in a crisis situation. In this paper, we investigate a multi-task learning approach to concurrently leverage available annotated data for several related tasks from the crisis domain to improve the performance on a main task with limited annotated data. Specifically, we focus on using multi-task learning to improve the performance on the task of identifying location mentions in crisis tweets.
+Author{1}{Firstname}#=%=#Sarthak
+Author{1}{Lastname}#=%=#Khanal
+Author{1}{Username}#=%=#sarthakk
+Author{1}{Email}#=%=#sarthakk@ksu.edu
+Author{1}{Affiliation}#=%=#Kansas State University
+Author{2}{Firstname}#=%=#Doina
+Author{2}{Lastname}#=%=#Caragea
+Author{2}{Username}#=%=#dcaragea
+Author{2}{Email}#=%=#dcaragea@ksu.edu
+Author{2}{Affiliation}#=%=#Kansas State University
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2838
+FinalPaperTitle#=%=#Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sonia Raychaudhuri
+JobTitle#==#
+Organization#==#
+Abstract#==#In the Vision-and-Language Navigation (VLN) task an embodied agent navigates a 3D environment, following natural language instructions. A challenge in this task is how to handle ‘off the path’ scenarios where an agent veers from a reference path. Prior work supervises the agent with actions based on the shortest path from the agent’s location to the goal, but such goal-oriented supervision is often not in alignment with the instruction. Furthermore, the evaluation metrics employed by prior work do not measure how much of a language instruction the agent is able to follow. In this work, we propose a simple and effective language-aligned supervision scheme, and a new metric that measures the number of sub-instructions the agent has completed during navigation.
+Author{1}{Firstname}#=%=#Sonia
+Author{1}{Lastname}#=%=#Raychaudhuri
+Author{1}{Username}#=%=#sonia_raychaudhuri
+Author{1}{Email}#=%=#sonia_raychaudhuri@sfu.ca
+Author{1}{Affiliation}#=%=#Simon Fraser University
+Author{2}{Firstname}#=%=#Saim
+Author{2}{Lastname}#=%=#Wani
+Author{2}{Username}#=%=#saimwani
+Author{2}{Email}#=%=#saimdwani@gmail.com
+Author{2}{Affiliation}#=%=#Indian Institute of Technology Kanpur
+Author{3}{Firstname}#=%=#Shivansh
+Author{3}{Lastname}#=%=#Patel
+Author{3}{Username}#=%=#shivanshpatel35
+Author{3}{Email}#=%=#shivanshpatel35@gmail.com
+Author{3}{Affiliation}#=%=#Indian Institute of Technology Kanpur
+Author{4}{Firstname}#=%=#Unnat
+Author{4}{Lastname}#=%=#Jain
+Author{4}{Username}#=%=#unnatjain
+Author{4}{Email}#=%=#unnatjain@gmail.com
+Author{4}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{5}{Firstname}#=%=#Angel
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Username}#=%=#angelx
+Author{5}{Email}#=%=#angelx@cs.stanford.edu
+Author{5}{Affiliation}#=%=#Simon Fraser University
+
+==========

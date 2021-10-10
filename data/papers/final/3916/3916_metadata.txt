@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3916
+FinalPaperTitle#=%=#Sequential Cross-Document Coreference Resolution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Emily Allaway
+JobTitle#==#
+Organization#==#
+Abstract#==#Relating entities and events in text is a key component of natural language understanding. Cross-document coreference resolution, in particular, is important for the growing interest in multi-document analysis tasks.
+In this work we propose a new model that extends the efficient sequential prediction paradigm for coreference resolution to cross-document settings and 
+achieves competitive results for both entity and event coreference while providing strong evidence of the efficacy of both sequential models and higher-order inference in cross-document settings.
+Our model incrementally composes mentions into cluster representations and predicts links between a mention and the already constructed clusters,
+approximating a higher-order model. 
+In addition, we conduct extensive ablation studies that provide new insights into the importance of various inputs and representation types in coreference.
+Author{1}{Firstname}#=%=#Emily
+Author{1}{Lastname}#=%=#Allaway
+Author{1}{Username}#=%=#eallaway
+Author{1}{Email}#=%=#eallaway@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Shuai
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#shuaiwang618
+Author{2}{Email}#=%=#shuaiwanghk@gmail.com
+Author{2}{Affiliation}#=%=#Amazon AI
+Author{3}{Firstname}#=%=#Miguel
+Author{3}{Lastname}#=%=#Ballesteros
+Author{3}{Username}#=%=#miguelballesteros
+Author{3}{Email}#=%=#miguelballesteros1@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+
+==========

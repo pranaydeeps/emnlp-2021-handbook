@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#94
+FinalPaperTitle#=%=#Exploring Metaphoric Paraphrase Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Kevin Stowe
+JobTitle#==#
+Organization#==#Technical University of Darmstadt
+Hochschulstr. 10, 64289 Darmstadt, Germany
+Abstract#==#Metaphor generation is a difficult task, and has seen tremendous improvement with the advent of deep pretrained models. We focus here on the specific task of metaphoric paraphrase generation, in which we provide a literal sentence and generate a metaphoric sentence which paraphrases that input. We compare naive, "free" generation models with those that exploit forms of control over the generation process, adding additional information based on conceptual metaphor theory. We evaluate two methods for generating paired training data, which is then used to train T5 models for free and controlled generation. We use crowdsourcing to evaluate the results, showing that free models tend to generate more fluent paraphrases, while controlled models are better at generating novel metaphors. We then analyze evaluation metrics, showing that different metrics are necessary to capture different aspects of metaphoric paraphrasing. We release our data and models, as well as our annotated results in order to facilitate development of better evaluation metrics.
+Author{1}{Firstname}#=%=#Kevin
+Author{1}{Lastname}#=%=#Stowe
+Author{1}{Username}#=%=#kevincstowe
+Author{1}{Email}#=%=#kevincstowe@gmail.com
+Author{1}{Affiliation}#=%=#UKP Lab, Technical University of Darmstadt
+Author{2}{Firstname}#=%=#Nils
+Author{2}{Lastname}#=%=#Beck
+Author{2}{Email}#=%=#nils.beck@pm.me
+Author{2}{Affiliation}#=%=#UKP Lab, Technical University of Darmstadt
+Author{3}{Firstname}#=%=#Iryna
+Author{3}{Lastname}#=%=#Gurevych
+Author{3}{Username}#=%=#gurevych
+Author{3}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

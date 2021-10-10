@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#3669
+FinalPaperTitle#=%=#Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Ariel Holtzman
+JobTitle#==#
+Organization#==#
+Abstract#==#Large language models have shown promising results in zero-shot settings. For example, they can perform multiple choice tasks simply by conditioning on a question and selecting the answer with the highest probability.
+
+However, ranking by string probability can be problematic due to surface form competition—wherein different surface forms compete for probability mass, even if they represent the same underlying concept in a given context, e.g. "computer" and "PC." Since probability mass is finite, this lowers the probability of the correct answer, due to competition from other strings that are valid answers (but not one of the multiple choice options).
+
+We introduce Domain Conditional Pointwise Mutual Information, an alternative scoring function that directly compensates for surface form competition by simply reweighing each option according to its a priori likelihood within the context of a specific task. It achieves consistent gains in zero-shot performance over both calibrated and uncalibrated scoring functions on all GPT-2 and GPT-3 models on a variety of multiple choice datasets.
+Author{1}{Firstname}#=%=#Ari
+Author{1}{Lastname}#=%=#Holtzman
+Author{1}{Username}#=%=#the_pup
+Author{1}{Email}#=%=#ahai@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Peter
+Author{2}{Lastname}#=%=#West
+Author{2}{Username}#=%=#peterawest
+Author{2}{Email}#=%=#pawest@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Vered
+Author{3}{Lastname}#=%=#Shwartz
+Author{3}{Username}#=%=#vered.shwartz
+Author{3}{Email}#=%=#vered1986@gmail.com
+Author{3}{Affiliation}#=%=#University of Washington / Allen Institute for AI (AI2)
+Author{4}{Firstname}#=%=#Yejin
+Author{4}{Lastname}#=%=#Choi
+Author{4}{Username}#=%=#ychoi
+Author{4}{Email}#=%=#yejin@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Luke
+Author{5}{Lastname}#=%=#Zettlemoyer
+Author{5}{Username}#=%=#lsz
+Author{5}{Email}#=%=#lsz@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington; Facebook
+
+==========

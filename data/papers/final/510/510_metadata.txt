@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#510
+FinalPaperTitle#=%=#MetaTS: Meta Teacher-Student Network for Multilingual Sequence Labeling with Minimal Supervision
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Zheng Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Sequence labeling aims to predict a fine-grained sequence of labels for the text. However, such formulation hinders the effectiveness of supervised methods due to the lack of token-level annotated data. This is exacerbated when we meet a diverse range of languages. In this work, we explore multilingual sequence labeling with minimal supervision using a single unified model for multiple languages. Specifically, we propose a Meta Teacher-Student (MetaTS) Network, a novel meta learning method to alleviate data scarcity by leveraging large multilingual unlabeled data. Prior teacher-student frameworks of self-training rely on rigid teaching strategies, which may hardly produce high-quality pseudo-labels for consecutive and interdependent tokens. On the contrary, MetaTS allows the teacher to dynamically adapt its pseudo-annotation strategies by the student's feedback on the generated pseudo-labeled data of each language and thus mitigate error propagation from noisy pseudo-labels. Extensive experiments on both public and real-world multilingual sequence labeling datasets empirically demonstrate the effectiveness of MetaTS.
+Author{1}{Firstname}#=%=#Zheng
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#hsqmlz
+Author{1}{Email}#=%=#amzzhe@amazon.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Danqing
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#danqing0703
+Author{2}{Email}#=%=#danqinz@amazon.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Tianyu
+Author{3}{Lastname}#=%=#Cao
+Author{3}{Username}#=%=#mercury9x
+Author{3}{Email}#=%=#caoty@amazon.com
+Author{3}{Affiliation}#=%=#amazon.com
+Author{4}{Firstname}#=%=#Ying
+Author{4}{Lastname}#=%=#Wei
+Author{4}{Username}#=%=#judyweiying
+Author{4}{Email}#=%=#yingwei@cityu.edu.hk
+Author{4}{Affiliation}#=%=#City University of Hong Kong
+Author{5}{Firstname}#=%=#Yiwei
+Author{5}{Lastname}#=%=#Song
+Author{5}{Username}#=%=#sywad
+Author{5}{Email}#=%=#ywsong@amazon.com
+Author{5}{Affiliation}#=%=#Amazon
+Author{6}{Firstname}#=%=#Bing
+Author{6}{Lastname}#=%=#Yin
+Author{6}{Username}#=%=#alexbyin
+Author{6}{Email}#=%=#alexbyin@amazon.com
+Author{6}{Affiliation}#=%=#Amazon.com
+
+==========

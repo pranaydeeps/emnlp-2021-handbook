@@ -1,0 +1,58 @@
+SubmissionNumber#=%=#68
+FinalPaperTitle#=%=#A Coarse-to-Fine Labeling Framework for Joint Word Segmentation, POS Tagging, and Constituent Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yang Hou
+JobTitle#==#
+Organization#==#
+Abstract#==#The most straightforward approach to joint word segmentation (WS), part-of-speech (POS) tagging, and constituent parsing is converting a word-level tree into a char-level tree, which, however, leads to two severe challenges. 
+First, a larger label set (e.g.,  ≥ 600) and longer inputs both increase computational costs.
+Second, it is difficult to rule out illegal trees containing conflicting production rules,  which is important for reliable model evaluation. 
+If a POS tag (like VV) is above a phrase tag (like VP) in the output tree, it becomes quite complex to decide word boundaries. 
+To deal with both challenges, this work proposes a two-stage coarse-to-fine labeling framework for joint WS-POS-PAR. 
+In the coarse labeling stage, the joint model outputs a bracketed tree, in which each node corresponds to one of four labels (i.e., phrase, subphrase, word, subword). 
+The tree is guaranteed to be legal via constrained CKY decoding. 
+In the fine labeling stage, the model expands each coarse label into a final label (such as VP, VP*, VV, VV*).
+Experiments on Chinese Penn Treebank 5.1 and 7.0 show that our joint model consistently outperforms the pipeline approach on both settings of w/o and w/ BERT, and achieves new state-of-the-art performance.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Hou
+Author{1}{Username}#=%=#houyang
+Author{1}{Email}#=%=#yhou1@stu.suda.edu.cn
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Houquan
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Username}#=%=#hqzhou
+Author{2}{Email}#=%=#hqzhou@stu.suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Zhenghua
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#zhenghualiir
+Author{3}{Email}#=%=#zhli13@suda.edu.cn
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Yu
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#yzhang.cs
+Author{4}{Email}#=%=#yzhang.cs@outlook.com
+Author{4}{Affiliation}#=%=#Soochow University
+Author{5}{Firstname}#=%=#Min
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#zhangminsuda
+Author{5}{Email}#=%=#minzhang@suda.edu.cn
+Author{5}{Affiliation}#=%=#Suda
+Author{6}{Firstname}#=%=#Zhefeng
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Username}#=%=#zhefengw
+Author{6}{Email}#=%=#wangzhefeng@huawei.com
+Author{6}{Affiliation}#=%=#Huawei Technologies
+Author{7}{Firstname}#=%=#Baoxing
+Author{7}{Lastname}#=%=#Huai
+Author{7}{Username}#=%=#baoxing2391
+Author{7}{Email}#=%=#huaibaoxing@huawei.com
+Author{7}{Affiliation}#=%=#Huawei Technologies
+Author{8}{Firstname}#=%=#Nicholas Jing
+Author{8}{Lastname}#=%=#Yuan
+Author{8}{Username}#=%=#nicholasyuan
+Author{8}{Email}#=%=#nicholas.jing.yuan@gmail.com
+Author{8}{Affiliation}#=%=#Huawei Cloud & AI
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1082
+FinalPaperTitle#=%=#KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jun Zhang
+JobTitle#==#
+Organization#==#School of Computer Science and Technology, East China Normal University, Shanghai, China
+Abstract#==#Recommendation dialogs require the system to build a social bond with users to gain trust and develop affinity in order to increase the chance of a successful recommendation. It is beneficial to divide up, such conversations with multiple subgoals (such as social chat, question answering, recommendation, etc.), so that the system can retrieve appropriate knowledge with better accuracy under different subgoals. In this paper, we propose a unified framework for common knowledge-based multi-subgoal dialog: knowledge-enhanced multi-subgoal driven recommender system (KERS). We first predict a sequence of subgoals and use them to guide the dialog model to select knowledge from a sub-set of existing knowledge graph. We then propose three new mechanisms to filter noisy knowledge and to enhance the inclusion of cleaned knowledge in the dialog response generation process. Experiments show that our method obtains state-of-the-art results on DuRecDial dataset in both automatic and human evaluation.
+Author{1}{Firstname}#=%=#Jun
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#junzhang562
+Author{1}{Email}#=%=#51194506048@stu.ecnu.edu.cn
+Author{1}{Affiliation}#=%=#East China Normal University;Shanghai Key Laboratory of Multidimensional Information Processing
+Author{2}{Firstname}#=%=#Yan
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#angel_yangyan
+Author{2}{Email}#=%=#yanyang@cs.ecnu.edu.cn
+Author{2}{Affiliation}#=%=#East China Normal University;Shanghai Key Laboratory of Multidimensional Information Processing
+Author{3}{Firstname}#=%=#Chencai
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#chenchengcai_xiaoi
+Author{3}{Email}#=%=#arlenecc@xiaoi.com
+Author{3}{Affiliation}#=%=#Xiaoi Robot Technology Co., Ltd
+Author{4}{Firstname}#=%=#liang
+Author{4}{Lastname}#=%=#he
+Author{4}{Username}#=%=#lianghe9191
+Author{4}{Email}#=%=#lhe@cs.ecnu.edu.cn
+Author{4}{Affiliation}#=%=#East China Normal University
+Author{5}{Firstname}#=%=#Zhou
+Author{5}{Lastname}#=%=#Yu
+Author{5}{Username}#=%=#zhouyu
+Author{5}{Email}#=%=#zhouyu@cs.columbia.edu
+Author{5}{Affiliation}#=%=#Columbia University
+
+==========

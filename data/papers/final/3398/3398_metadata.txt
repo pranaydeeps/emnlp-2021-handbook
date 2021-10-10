@@ -1,0 +1,60 @@
+SubmissionNumber#=%=#3398
+FinalPaperTitle#=%=#Constrained Language Models Yield Few-Shot Semantic Parsers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Richard Shin
+JobTitle#==#
+Organization#==#
+Abstract#==#We explore the use of large pretrained language models as few-shot semantic parsers. The goal in semantic parsing is to generate a structured meaning representation given a natural language input. However, language models are trained to generate natural language. To bridge the gap, we use language models to paraphrase inputs into a controlled sublanguage resembling English that can be automatically mapped to a target meaning representation. Our results demonstrate that with only a small amount of data and very little code to convert into English-like representations, our blueprint for rapidly bootstrapping semantic parsers leads to surprisingly effective performance on multiple community tasks, greatly exceeding baseline methods also trained on the same limited data.
+Author{1}{Firstname}#=%=#Richard
+Author{1}{Lastname}#=%=#Shin
+Author{1}{Username}#=%=#rshin
+Author{1}{Email}#=%=#ricshin@berkeley.edu
+Author{1}{Affiliation}#=%=#Microsoft Semantic Machines
+Author{2}{Firstname}#=%=#Christopher
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Username}#=%=#christopherhlin
+Author{2}{Email}#=%=#christopher.h.lin@gmail.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Sam
+Author{3}{Lastname}#=%=#Thomson
+Author{3}{Username}#=%=#sammthomson
+Author{3}{Email}#=%=#samuel.thomson@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Semantic Machines
+Author{4}{Firstname}#=%=#Charles
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#cpchen
+Author{4}{Email}#=%=#cpchen@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Semantic Machines
+Author{5}{Firstname}#=%=#Subhro
+Author{5}{Lastname}#=%=#Roy
+Author{5}{Username}#=%=#sroy9
+Author{5}{Email}#=%=#subhrroy@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Semantic Machines
+Author{6}{Firstname}#=%=#Emmanouil Antonios
+Author{6}{Lastname}#=%=#Platanios
+Author{6}{Username}#=%=#eaplatanios
+Author{6}{Email}#=%=#e.a.platanios@gmail.com
+Author{6}{Affiliation}#=%=#Microsoft Semantic Machines
+Author{7}{Firstname}#=%=#Adam
+Author{7}{Lastname}#=%=#Pauls
+Author{7}{Username}#=%=#adpauls
+Author{7}{Email}#=%=#adpauls@gmail.com
+Author{7}{Affiliation}#=%=#Microsoft
+Author{8}{Firstname}#=%=#Dan
+Author{8}{Lastname}#=%=#Klein
+Author{8}{Username}#=%=#klein
+Author{8}{Email}#=%=#klein@berkeley.edu
+Author{8}{Affiliation}#=%=#UC Berkeley / Microsoft
+Author{9}{Firstname}#=%=#Jason
+Author{9}{Lastname}#=%=#Eisner
+Author{9}{Username}#=%=#jason
+Author{9}{Email}#=%=#jason@cs.jhu.edu
+Author{9}{Affiliation}#=%=#Johns Hopkins University
+Author{10}{Firstname}#=%=#Benjamin
+Author{10}{Lastname}#=%=#Van Durme
+Author{10}{Username}#=%=#vandurme
+Author{10}{Email}#=%=#vandurme@cs.jhu.edu
+Author{10}{Affiliation}#=%=#Johns Hopkins University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1717
+FinalPaperTitle#=%=#Learning with Different Amounts of Annotation: From Zero to Many Labels
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Shujian Zhang
+JobTitle#==#
+Organization#==#The University of Texas at Austin
+Abstract#==#Training NLP systems typically assumes access to annotated data that has a single human label per example. Given imperfect labeling from annotators and inherent ambiguity of language, we hypothesize that single label is not sufficient to learn the spectrum of language interpretation. We explore new annotation distribution schemes, assigning multiple labels per example for a small subset of training examples. Introducing such multi label examples at the cost of annotating fewer examples brings clear gains on natural language inference task and entity typing task, even when we simply first train with a single label data and then fine tune with multi label examples. Extending a MixUp data augmentation framework, we propose a learning algorithm that can learn from training examples with different amount of annotation (with zero, one, or multiple labels). 
+This algorithm efficiently combines signals from uneven training data and brings additional gains in low annotation budget and cross domain settings. Together, our method achieves consistent gains in two tasks, suggesting distributing labels unevenly among training examples can be beneficial for many NLP tasks.
+Author{1}{Firstname}#=%=#Shujian
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#szhang42
+Author{1}{Email}#=%=#szhang19@utexas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Firstname}#=%=#Chengyue
+Author{2}{Lastname}#=%=#Gong
+Author{2}{Username}#=%=#chengyue_gong
+Author{2}{Email}#=%=#cygong@pku.edu.cn
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+Author{3}{Firstname}#=%=#Eunsol
+Author{3}{Lastname}#=%=#Choi
+Author{3}{Username}#=%=#echoi
+Author{3}{Email}#=%=#eunsol@utexas.edu
+Author{3}{Affiliation}#=%=#UT Austin
+
+==========

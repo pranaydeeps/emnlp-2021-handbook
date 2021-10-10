@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3933
+FinalPaperTitle#=%=#Rule-based Morphological Inflection Improves Neural Terminology Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Weijia Xu
+JobTitle#==#
+Organization#==#
+Abstract#==#Current approaches to incorporating terminology constraints in machine translation (MT) typically assume that the constraint terms are provided in their correct morphological forms. This limits their application to real-world scenarios where constraint terms are provided as lemmas. In this paper, we introduce a modular framework for incorporating lemma constraints in neural MT (NMT) in which linguistic knowledge and diverse types of NMT models can be flexibly applied. It is based on a novel cross-lingual inflection module that inflects the target lemma constraints based on the source context. We explore linguistically motivated rule-based and data-driven neural-based inflection modules and design English-German health and English-Lithuanian news test suites to evaluate them in domain adaptation and low-resource MT settings. Results show that our rule-based inflection module helps NMT models incorporate lemma constraints more accurately than a neural module and outperforms the existing end-to-end approach with lower training costs.
+Author{1}{Firstname}#=%=#Weijia
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#weijia
+Author{1}{Email}#=%=#weijia@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Marine
+Author{2}{Lastname}#=%=#Carpuat
+Author{2}{Username}#=%=#marinecarpuat
+Author{2}{Email}#=%=#marine@cs.umd.edu
+Author{2}{Affiliation}#=%=#University of Maryland
+
+==========

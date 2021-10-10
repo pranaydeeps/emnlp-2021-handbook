@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#790
+FinalPaperTitle#=%=#Residual Adapters for Parameter-Efficient ASR Adaptation to Atypical and Accented Speech
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Katrin Tomanek
+JobTitle#==#
+Organization#==#Google 1600 Amphitheatre Parkway
+Mountain View, CA 94043
+USA
+Abstract#==#Automatic Speech Recognition (ASR) systems are often optimized to work best for speakers with canonical speech patterns. Unfortunately, these systems perform poorly when tested on atypical speech and heavily accented speech. It has previously been shown that personalization through model fine-tuning substantially improves performance. However, maintaining such large models per speaker is costly and difficult to scale.  We show that by adding a relatively small number of extra parameters to the encoder layers via so-called residual adapter, we can achieve similar adaptation gains compared to model fine-tuning, while only updating a tiny fraction (less than 0.5%) of the model parameters.
+We demonstrate this on two speech adaptation tasks (atypical and accented speech) and for two state-of-the-art ASR architectures.
+Author{1}{Firstname}#=%=#Katrin
+Author{1}{Lastname}#=%=#Tomanek
+Author{1}{Username}#=%=#kato_google
+Author{1}{Email}#=%=#katrintomanek@google.com
+Author{1}{Affiliation}#=%=#Google Inc
+Author{2}{Firstname}#=%=#Vicky
+Author{2}{Lastname}#=%=#Zayats
+Author{2}{Username}#=%=#vzayats
+Author{2}{Email}#=%=#vzayats@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Dirk
+Author{3}{Lastname}#=%=#Padfield
+Author{3}{Username}#=%=#dirkpadfield
+Author{3}{Email}#=%=#padfield@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Kara
+Author{4}{Lastname}#=%=#Vaillancourt
+Author{4}{Email}#=%=#kvailla@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Fadi
+Author{5}{Lastname}#=%=#Biadsy
+Author{5}{Username}#=%=#fbiadsy
+Author{5}{Email}#=%=#biadsy@google.com
+Author{5}{Affiliation}#=%=#Google Inc
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Supervised Identification of Participant Slots in Contracts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Dan Simonson
+JobTitle#==#
+Organization#==#BlackBoiler 1537 N. Ivanhoe St.
+Arlington, VA 22205
+Abstract#==#This paper presents a technique for the identification of participant slots in English language contracts. 
+Taking inspiration from 
+unsupervised slot extraction techniques, the system presented here uses a supervised approach to
+identify terms used to refer to a genre-specific slot in novel contracts. We evaluate the system in multiple 
+feature configurations to demonstrate that the best performing system in both genres of contracts omits the exact
+mention form from consideration---even though such mention forms are often the name of the slot under 
+consideration---and is instead based solely on the dependency label and parent; in other words, 
+a more reliable quantification of a party's role in a contract is found in what they do rather 
+than what they are named.
+Author{1}{Firstname}#=%=#Dan
+Author{1}{Lastname}#=%=#Simonson
+Author{1}{Username}#=%=#dsimonson
+Author{1}{Email}#=%=#dolus.occuli@gmail.com
+Author{1}{Affiliation}#=%=#BlackBoiler Inc
+
+==========

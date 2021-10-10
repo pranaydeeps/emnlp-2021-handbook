@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3565
+FinalPaperTitle#=%=#RICA: Evaluating Robust Inference Capabilities Based on Commonsense Axioms
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Pei Zhou
+JobTitle#==#
+Organization#==#
+Abstract#==#Pre-trained language models (PTLMs) have achieved impressive performance on commonsense inference benchmarks, but their ability to employ commonsense to make robust inferences, which is crucial for effective communications with humans, is debated. In the pursuit of advancing fluid human-AI communication, we propose a new challenge, RICA: Robust Inference using Commonsense Axioms, that evaluates robust commonsense inference despite textual perturbations. To generate data for this challenge, we develop a systematic and scalable procedure using commonsense knowledge bases and probe PTLMs across two different evaluation settings. Extensive experiments on our generated probe sets with more than 10k statements show that PTLMs perform no better than random guessing on the zero-shot setting, are heavily impacted by statistical biases, and are not robust to perturbation attacks. We also find that fine-tuning on similar statements offer limited gains, as PTLMs still fail to generalize to unseen inferences. Our new large-scale benchmark exposes a significant gap between PTLMs and human-level language understanding and offers a new challenge for PTLMs to demonstrate commonsense.
+Author{1}{Firstname}#=%=#Pei
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#shaoxia57
+Author{1}{Email}#=%=#peiz@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Rahul
+Author{2}{Lastname}#=%=#Khanna
+Author{2}{Username}#=%=#rck24
+Author{2}{Email}#=%=#rahulkha@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Seyeon
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#seyeon
+Author{3}{Email}#=%=#seyeonle@usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+Author{4}{Firstname}#=%=#Bill Yuchen
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Username}#=%=#yuchenlin
+Author{4}{Email}#=%=#yuchen.lin@usc.edu
+Author{4}{Affiliation}#=%=#University of Southern California
+Author{5}{Firstname}#=%=#Daniel
+Author{5}{Lastname}#=%=#Ho
+Author{5}{Username}#=%=#danielho54
+Author{5}{Email}#=%=#hsiaotuh@usc.edu
+Author{5}{Affiliation}#=%=#University of Southern California
+Author{6}{Firstname}#=%=#Jay
+Author{6}{Lastname}#=%=#Pujara
+Author{6}{Username}#=%=#puuj
+Author{6}{Email}#=%=#jay@cs.umd.edu
+Author{6}{Affiliation}#=%=#University of Southern California
+Author{7}{Firstname}#=%=#Xiang
+Author{7}{Lastname}#=%=#Ren
+Author{7}{Username}#=%=#xren7
+Author{7}{Email}#=%=#xiangren@usc.edu
+Author{7}{Affiliation}#=%=#University of Southern California
+
+==========

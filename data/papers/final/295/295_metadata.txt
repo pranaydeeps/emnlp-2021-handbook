@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#295
+FinalPaperTitle#=%=#Discourse-Based Sentence Splitting
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Liam Cripwell
+JobTitle#==#
+Organization#==#LORIA, Campus Scientifique, BP 239, 54506 Vandoeuvre-lès-Nancy, France
+Abstract#==#Sentence splitting involves the segmentation of a sentence into two or more shorter sentences. It is a key component of sentence simplification, has been shown to help human comprehension and is a useful preprocessing step for NLP tasks such as summarisation and relation extraction. While several methods and datasets have been proposed for developing sentence splitting models, little attention has been paid to how sentence splitting interacts with discourse structure. In this work, we focus on cases where the input text contains a discourse connective, which we refer to as discourse-based sentence splitting. We create synthetic and organic datasets for discourse-based splitting and explore different ways of combining these datasets using different model architectures. We show that pipeline models which use discourse structure to mediate sentence splitting outperform end-to-end models in learning the various ways of expressing a discourse relation but generate text that is less grammatical; that large scale synthetic data provides a better basis for learning than smaller scale organic data; and that training on discourse-focused, rather than on general sentence splitting data provides a better basis for discourse splitting.
+Author{1}{Firstname}#=%=#Liam
+Author{1}{Lastname}#=%=#Cripwell
+Author{1}{Username}#=%=#liamc_loria
+Author{1}{Email}#=%=#liam.cripwell@loria.fr
+Author{1}{Affiliation}#=%=#CNRS/LORIA and Université de Lorraine
+Author{2}{Firstname}#=%=#Joël
+Author{2}{Lastname}#=%=#Legrand
+Author{2}{Username}#=%=#jolegrand
+Author{2}{Email}#=%=#joel.legrand@loria.fr
+Author{2}{Affiliation}#=%=#INRIA - CNRS  - Université de Lorraine - CentraleSupélec
+Author{3}{Firstname}#=%=#Claire
+Author{3}{Lastname}#=%=#Gardent
+Author{3}{Username}#=%=#claire.gardent
+Author{3}{Email}#=%=#claire.gardent@loria.fr
+Author{3}{Affiliation}#=%=#CNRS/LORIA
+
+==========

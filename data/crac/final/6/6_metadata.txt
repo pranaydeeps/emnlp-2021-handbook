@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Semere Bitew
+JobTitle#==#
+Organization#==#IDLab, Ghent University 
+
+Technologiepark-Zwijnaarde 126, 9052 Gent, Belgium
+Abstract#==#Large annotated corpora for coreference resolution are available for few languages. For machine translation, however, strong black-box systems exist for many languages. We empirically explore the appealing idea of leveraging such translation tools for bootstrapping coreference resolution in languages with limited resources. Two scenarios are analyzed, in which a large coreference corpus in a high-resource language is used for coreference predictions
+in a smaller language, i.e., by machine translating either the training corpus or the test data. In our empirical evaluation of coreference resolution using the two scenarios on several medium-resource languages, we find no improvement over monolingual baseline models. Our analysis of the various sources of error inherent to the studied scenarios, reveals that in fact the quality of contemporary machine translation tools is the main limiting factor.
+Author{1}{Firstname}#=%=#Semere Kiros
+Author{1}{Lastname}#=%=#Bitew
+Author{1}{Username}#=%=#semerebitew
+Author{1}{Email}#=%=#semerekiros.bitew@ugent.be
+Author{1}{Affiliation}#=%=#Ghent University - imec, IDLab
+Author{2}{Firstname}#=%=#Johannes
+Author{2}{Lastname}#=%=#Deleu
+Author{2}{Username}#=%=#jdeleu
+Author{2}{Email}#=%=#johannes.deleu@ugent.be
+Author{2}{Affiliation}#=%=#Ghent University - imec
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Lastname}#=%=#Develder
+Author{3}{Username}#=%=#cdevelder
+Author{3}{Email}#=%=#chris.develder@ugent.be
+Author{3}{Affiliation}#=%=#Ghent University
+Author{4}{Firstname}#=%=#Thomas
+Author{4}{Lastname}#=%=#Demeester
+Author{4}{Username}#=%=#tdmeeste
+Author{4}{Email}#=%=#thomas.demeester@ugent.be
+Author{4}{Affiliation}#=%=#Ghent University - imec
+
+==========

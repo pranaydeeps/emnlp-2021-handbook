@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1461
+FinalPaperTitle#=%=#MiRANews: Dataset and Benchmarks for Multi-Resource-Assisted News Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Xinnuo Xu
+JobTitle#==#
+Organization#==#Heriot-Watt University
+Abstract#==#One of the most challenging aspects of current single-document news summarization
+is that the summary often contains `extrinsic hallucinations', i.e., facts that are not present in the source document, which are often derived via world knowledge.
+This causes summarisation systems to act more like open-ended language models tending to hallucinate facts that are erroneous.
+In this paper, we mitigate this problem with the help of multiple supplementary resource documents assisting the task.
+We present a new dataset MiraNews and benchmark existing summarisation models. 
+In contrast to multi-document summarization, which addresses multiple events from several source documents, we still aim at generating a summary for a single document.
+We show via data analysis that it's not only the models which are to blame: more than 27% of facts mentioned in the gold summaries of MiraNews are better grounded on assisting documents than in the main source articles. 
+An error analysis of generated summaries from pretrained models fine-tuned on MIRANEWS  reveals that this has an even bigger effects on models:
+assisted summarisation reduces 55% of  hallucinations when compared to single-document summarisation models trained on the main article only.
+Author{1}{Firstname}#=%=#Xinnuo
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#xinnuo
+Author{1}{Email}#=%=#xx6@hw.ac.uk
+Author{1}{Affiliation}#=%=#Heriot-Watt University
+Author{2}{Firstname}#=%=#Ondřej
+Author{2}{Lastname}#=%=#Dušek
+Author{2}{Username}#=%=#odusek
+Author{2}{Email}#=%=#odusek@ufal.mff.cuni.cz
+Author{2}{Affiliation}#=%=#Charles University
+Author{3}{Firstname}#=%=#Shashi
+Author{3}{Lastname}#=%=#Narayan
+Author{3}{Username}#=%=#shashinarayan
+Author{3}{Email}#=%=#shashinarayan@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Verena
+Author{4}{Lastname}#=%=#Rieser
+Author{4}{Username}#=%=#verena.rieser
+Author{4}{Email}#=%=#v.t.rieser@hw.ac.uk
+Author{4}{Affiliation}#=%=#Heriot-Watt University
+Author{5}{Firstname}#=%=#Ioannis
+Author{5}{Lastname}#=%=#Konstas
+Author{5}{Username}#=%=#konstas
+Author{5}{Email}#=%=#i.konstas@hw.ac.uk
+Author{5}{Affiliation}#=%=#Heriot-Watt University
+
+==========

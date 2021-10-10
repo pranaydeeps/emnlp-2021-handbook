@@ -1,0 +1,57 @@
+SubmissionNumber#=%=#1000
+FinalPaperTitle#=%=#Case-based Reasoning for Natural Language Queries over Knowledge Bases
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Rajarshi Das
+JobTitle#==#Ph.D. student
+Organization#==#University of Massachusetts, Amherst
+Amherst, MA, USA
+Abstract#==#It is often challenging to solve a complex problem from scratch, but much easier if we can access other similar problems with their solutions --- a paradigm known as case-based reasoning (CBR).
+We propose a neuro-symbolic CBR approach (CBR-KBQA) for question answering over large knowledge bases. CBR-KBQA consists of a nonparametric memory that stores cases (question and logical forms) and a parametric model that can generate a logical form for a new question by retrieving cases that are relevant to it. On several KBQA datasets that contain complex questions, CBR-KBQA achieves competitive performance. For example, on the CWQ dataset, CBR-KBQA outperforms the current state of the art by 11\% on accuracy. Furthermore, we show that CBR-KBQA is capable of using new cases \emph{without} any further training: by incorporating a few human-labeled examples in the case memory, CBR-KBQA is able to successfully generate logical forms containing unseen KB entities as well as relations.
+Author{1}{Firstname}#=%=#Rajarshi
+Author{1}{Lastname}#=%=#Das
+Author{1}{Username}#=%=#rajdas14
+Author{1}{Email}#=%=#rajarshi@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{2}{Firstname}#=%=#Manzil
+Author{2}{Lastname}#=%=#Zaheer
+Author{2}{Username}#=%=#manzilzaheer
+Author{2}{Email}#=%=#manzil@zaheer.ml
+Author{2}{Affiliation}#=%=#Google Inc
+Author{3}{Firstname}#=%=#Dung
+Author{3}{Lastname}#=%=#Thai
+Author{3}{Username}#=%=#dthai
+Author{3}{Email}#=%=#dthai@umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts
+Author{4}{Firstname}#=%=#Ameya
+Author{4}{Lastname}#=%=#Godbole
+Author{4}{Username}#=%=#ameyagodbole
+Author{4}{Email}#=%=#agodbole@umass.edu
+Author{4}{Affiliation}#=%=#University of Massachusetts at Amherst
+Author{5}{Firstname}#=%=#Ethan
+Author{5}{Lastname}#=%=#Perez
+Author{5}{Username}#=%=#ethanp56
+Author{5}{Email}#=%=#perez@nyu.edu
+Author{5}{Affiliation}#=%=#New York University
+Author{6}{Firstname}#=%=#Jay Yoon
+Author{6}{Lastname}#=%=#Lee
+Author{6}{Username}#=%=#jaylee
+Author{6}{Email}#=%=#jaylee@iesl.cs.umass.edu
+Author{6}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{7}{Firstname}#=%=#Lizhen
+Author{7}{Lastname}#=%=#Tan
+Author{7}{Username}#=%=#ltnconf
+Author{7}{Email}#=%=#ltn@amazon.com
+Author{7}{Affiliation}#=%=#Amazon
+Author{8}{Firstname}#=%=#Lazaros
+Author{8}{Lastname}#=%=#Polymenakos
+Author{8}{Username}#=%=#lcp2lcp
+Author{8}{Email}#=%=#l.polymenakos@gmail.com
+Author{8}{Affiliation}#=%=#Amazon
+Author{9}{Firstname}#=%=#Andrew
+Author{9}{Lastname}#=%=#McCallum
+Author{9}{Username}#=%=#mccallum
+Author{9}{Email}#=%=#mccallum@cs.umass.edu
+Author{9}{Affiliation}#=%=#UMass Amherst
+
+==========

@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#Key Point Analysis with a siamese transformer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Summarizing a large collection of arguments by identifying only a small number of concise and semantic matching phrases and reporting how many arguments exist per phrase is known as Key Point Analysis (KPA). Recently, KPA has been mostly tackled by using transformer-based pre-trained language models such as BERT. In this paper, we introduce a siamese DistilBERT network for KPA. The siamese network improved upon a conventional BERT sequence classifier by 12.57% in terms of strict mAP on the development dataset but suffered a performance loss of 7.02% in terms of strict mAP on the test dataset. We find that overfitting and a high vocabulary mismatch between arguments and key points cause the performance difference.
+Author{1}{Firstname}#=%=#Jan
+Author{1}{Lastname}#=%=#Bittner
+Author{1}{Username}#=%=#udsaz202rq
+Author{1}{Email}#=%=#jan.bittner@student.uni-halle.de
+Author{1}{Affiliation}#=%=#Martin Luther University Halle-Wittenberg
+Author{2}{Firstname}#=%=#Johannes
+Author{2}{Lastname}#=%=#Huck
+Author{2}{Email}#=%=#johannes.huck@student.uni-halle.de
+Author{2}{Affiliation}#=%=#Martin Luther University Halle-Wittenberg
+
+==========

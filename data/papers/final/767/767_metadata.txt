@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#767
+FinalPaperTitle#=%=#Moving on from OntoNotes: Coreference Resolution Model Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Patrick Xia
+JobTitle#==#
+Organization#==#
+Abstract#==#Academic neural models for coreference resolution (coref) are typically trained on a single dataset, OntoNotes, and model improvements are benchmarked on that same dataset. However, real-world applications of coref depend on the annotation guidelines and the domain of the target dataset, which often differ from those of OntoNotes. We aim to quantify transferability of coref models based on the number of annotated documents available in the target dataset. We examine eleven target datasets and find that continued training is consistently effective and especially beneficial when there are few target documents. We establish new benchmarks across several datasets, including state-of-the-art results on PreCo.
+Author{1}{Firstname}#=%=#Patrick
+Author{1}{Lastname}#=%=#Xia
+Author{1}{Username}#=%=#paxia
+Author{1}{Email}#=%=#paxia@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Benjamin
+Author{2}{Lastname}#=%=#Van Durme
+Author{2}{Username}#=%=#vandurme
+Author{2}{Email}#=%=#vandurme@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+
+==========

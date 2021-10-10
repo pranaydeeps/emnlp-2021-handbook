@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Rethinking the Objectives of Extractive Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Martin Fajčík
+JobTitle#==#
+Organization#==#Božetěchova 1/2, 612 00 Brno-Královo Pole, Czech Republic
+Abstract#==#This work demonstrates that using the objective with independence assumption for modelling the span probability P (a_s , a_e ) = P (a_s )P (a_e) of span starting at position a_s and ending at position a_e has adverse effects. Therefore we propose multiple approaches to modelling joint probability P (a_s , a_e) directly. Among those, we propose a compound objective, composed from the joint probability while still keeping the objective with independence assumption as an auxiliary objective. We find that the compound objective is consistently superior or equal to other assumptions in exact match. Additionally, we identified common errors caused by the assumption of independence and manually checked the counterpart predictions, demonstrating the impact of the compound objective on the real examples. Our findings are supported via experiments with three extractive QA models (BIDAF, BERT, ALBERT) over six datasets and our code, individual results and manual analysis are available online.
+Author{1}{Firstname}#=%=#Martin
+Author{1}{Lastname}#=%=#Fajcik
+Author{1}{Username}#=%=#ifajcik
+Author{1}{Email}#=%=#ifajcik@fit.vutbr.cz
+Author{1}{Affiliation}#=%=#Brno University of Technology
+Author{2}{Firstname}#=%=#Josef
+Author{2}{Lastname}#=%=#Jon
+Author{2}{Username}#=%=#josefjon
+Author{2}{Email}#=%=#ijon@fit.vutbr.cz
+Author{2}{Affiliation}#=%=#Brno University of Technology
+Author{3}{Firstname}#=%=#Pavel
+Author{3}{Lastname}#=%=#Smrz
+Author{3}{Username}#=%=#smrz
+Author{3}{Email}#=%=#smrz@fit.vut.cz
+Author{3}{Affiliation}#=%=#Brno University of Technology
+
+==========

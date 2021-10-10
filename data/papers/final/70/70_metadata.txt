@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#70
+FinalPaperTitle#=%=#Cross-Register Projection for Headline Part of Speech Tagging
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Part of speech (POS) tagging is a familiar NLP task. State of the art taggers routinely achieve token-level accuracies of over 97% on news body text, evidence that the problem is well understood. However, the register of English news headlines, “headlinese”, is very different from the register of long-form text, causing POS tagging models to underperform on headlines. In this work, we automatically annotate
+news headlines with POS tags by projecting predicted tags from corresponding sentences in news bodies. We train a multi-domain POS tagger on both long-form and headline text and show that joint training on both registers improves over training on just one or naïvely concatenating training sets. We evaluate on a newly-annotated corpus of over 5,248 English news headlines from the Google sentence
+compression corpus, and show that our model yields a 23% relative error reduction per token and 19% per headline. In addition, we demonstrate that better headline POS tags can improve the performance of a syntax-based open information extraction system. We make POSH, the POS-tagged Headline corpus, available to encourage research in improved NLP models for news headlines.
+Author{1}{Firstname}#=%=#Adrian
+Author{1}{Lastname}#=%=#Benton
+Author{1}{Username}#=%=#adrianb
+Author{1}{Email}#=%=#abenton10@bloomberg.net
+Author{1}{Affiliation}#=%=#Bloomberg
+Author{2}{Firstname}#=%=#Hanyang
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#hli762@bloomberg.net
+Author{2}{Affiliation}#=%=#Bloomberg
+Author{3}{Firstname}#=%=#Igor
+Author{3}{Lastname}#=%=#Malioutov
+Author{3}{Username}#=%=#imalioutov
+Author{3}{Email}#=%=#imalioutov@bloomberg.net
+Author{3}{Affiliation}#=%=#Bloomberg L.P.
+
+==========

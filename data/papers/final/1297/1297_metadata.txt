@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1297
+FinalPaperTitle#=%=#CVAE-based Re-anchoring for Implicit Discourse Relation Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Zujun Dou
+JobTitle#==#
+Organization#==#School of Computer Science and Technology, Soochow University (Address: 1 Shizi ST, Suzhou, China)
+Abstract#==#Training implicit discourse relation classifiers suffers from data sparsity. Variational AutoEncoder (VAE) appears to be the proper solution. It is because ideally VAE is capable of generating inexhaustible varying samples, and this facilitates selective data augmentation. However, our experiments show that coupling VAE with the RoBERTa-based classifier results in severe performance degradation.  We ascribe the unusual phenomenon to erroneous sampling that would happen when VAE pursued variations. To overcome the problem, we develop a re-anchoring strategy, where Conditional VAE (CVAE) is used for estimating the risk of erroneous sampling, and meanwhile migrating the anchor to reduce the risk. The test results on PDTB v2.0 illustrate that, compared to the RoBERTa-based baseline, re-anchoring yields substantial improvements.  Besides, we observe that re-anchoring can cooperate with other auxiliary strategies (transfer learning and interactive attention mechanism) to further improve the baseline, obtaining the F-scores of about 55\%, 63\%, 80\% and 44\% for the four main relation types (Comparison, Contingency, Expansion, Temporality) in the binary classification (Yes/No) scenario.
+Author{1}{Firstname}#=%=#Zujun
+Author{1}{Lastname}#=%=#Dou
+Author{1}{Username}#=%=#douzujun
+Author{1}{Email}#=%=#douzujun@gmail.com
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Yu
+Author{2}{Lastname}#=%=#Hong
+Author{2}{Username}#=%=#hongyu
+Author{2}{Email}#=%=#tianxianer@gmail.com
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Yu
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Username}#=%=#sunyu
+Author{3}{Email}#=%=#sunyu41679@gmail.com
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Guodong
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#gdzhou
+Author{4}{Email}#=%=#gdzhou@suda.edu.cn
+Author{4}{Affiliation}#=%=#Soochow University
+
+==========

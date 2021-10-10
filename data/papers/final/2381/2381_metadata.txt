@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2381
+FinalPaperTitle#=%=#Weakly Supervised Semantic Parsing by Learning from Mistakes
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Jiaqi Guo
+JobTitle#==#
+Organization#==#Xi'an Jiaotong University
+Abstract#==#Weakly supervised semantic parsing (WSP) aims at training a parser via utterance-denotation pairs. This task is challenging because it requires (1) searching consistent logical forms in a huge space; and (2) dealing with spurious logical forms. In this work, we propose Learning from Mistakes (LFM), a simple yet effective learning framework for WSP. LFM utilizes the mistakes made by a parser during searching, i.e., generating logical forms that do not execute to correct denotations, for tackling the two challenges. In a nutshell, LFM additionally trains a parser using utterance-logical form pairs created from mistakes, which can quickly bootstrap the parser to search consistent logical forms. Also, it can motivate the parser to learn the correct mapping between utterances and logical forms, thus dealing with the spuriousness of logical forms. We evaluate LFM on WikiTableQuestions, WikiSQL, and TabFact in the WSP setting. The parser trained with LFM outperforms the previous state-of-the-art semantic parsing approaches on the three datasets. Also, we find that LFM can substantially reduce the need for labeled data. Using only 10% of utterance-denotation pairs, the parser achieves 84.2 denotation accuracy on WikiSQL, which is competitive with the previous state-of-the-art approaches using 100% labeled data.
+Author{1}{Firstname}#=%=#Jiaqi
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Username}#=%=#jiaqiguo
+Author{1}{Email}#=%=#jasperguo@outlook.com
+Author{1}{Affiliation}#=%=#Xi'an Jiaotong University
+Author{2}{Firstname}#=%=#Jian-Guang
+Author{2}{Lastname}#=%=#LOU
+Author{2}{Username}#=%=#substill
+Author{2}{Email}#=%=#jlou@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Ting
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#tlxjtu
+Author{3}{Email}#=%=#tingliu@mail.xjtu.edu.cn
+Author{3}{Affiliation}#=%=#Xian Jiaotong University
+Author{4}{Firstname}#=%=#Dongmei
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#dzhang
+Author{4}{Email}#=%=#dongmeiz@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+
+==========

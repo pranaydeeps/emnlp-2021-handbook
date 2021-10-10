@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#4266
+FinalPaperTitle#=%=#Self-Training using Rules of Grammar for Few-Shot NLU
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Joonghyuk Hahn
+JobTitle#==#
+Organization#==#
+Abstract#==#We tackle the problem of self-training networks for NLU in low-resource environment---few labeled data and lots of unlabeled data. The effectiveness of self-training is a result of increasing the amount of training data while training. Yet it becomes less effective in low-resource settings due to unreliable labels predicted by the teacher model on unlabeled data. Rules of grammar, which describe the grammatical structure of data, have been used in NLU for better explainability. We propose to use rules of grammar in self-training as a more reliable pseudo-labeling mechanism, especially when there are few labeled data. We design an effective algorithm that constructs and expands rules of grammar without human involvement. Then  we integrate the constructed rules as a pseudo-labeling mechanism into self-training. There are two possible scenarios regarding data distribution: it is unknown or known in prior to training. We empirically demonstrate that our approach substantially outperforms the state-of-the-art methods in three benchmark datasets for both scenarios.
+Author{1}{Firstname}#=%=#Joonghyuk
+Author{1}{Lastname}#=%=#Hahn
+Author{1}{Username}#=%=#greghahn
+Author{1}{Email}#=%=#greghahn@yonsei.ac.kr
+Author{1}{Affiliation}#=%=#Yonsei University
+Author{2}{Firstname}#=%=#Hyunjoon
+Author{2}{Lastname}#=%=#Cheon
+Author{2}{Email}#=%=#hyunjooncheon@yonsei.ac.kr
+Author{2}{Affiliation}#=%=#Yonsei University
+Author{3}{Firstname}#=%=#Kyuyeol
+Author{3}{Lastname}#=%=#Han
+Author{3}{Username}#=%=#sept102
+Author{3}{Email}#=%=#kyuyeol.han@hyundai.com
+Author{3}{Affiliation}#=%=#Hyundai Motor Group
+Author{4}{Firstname}#=%=#Cheongjae
+Author{4}{Lastname}#=%=#Lee
+Author{4}{Username}#=%=#lcj8004
+Author{4}{Email}#=%=#lcj8004@gmail.com
+Author{4}{Affiliation}#=%=#Hyundai Motor Group
+Author{5}{Firstname}#=%=#Junseok
+Author{5}{Lastname}#=%=#Kim
+Author{5}{Email}#=%=#junseok.kim@hyundai.com
+Author{5}{Affiliation}#=%=#Hyundai Motor Group
+Author{6}{Firstname}#=%=#Yo-Sub
+Author{6}{Lastname}#=%=#Han
+Author{6}{Username}#=%=#emmous
+Author{6}{Email}#=%=#emmous@yonsei.ac.kr
+Author{6}{Affiliation}#=%=#Yonsei University
+
+==========

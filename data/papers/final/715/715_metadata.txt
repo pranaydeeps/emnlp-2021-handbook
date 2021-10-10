@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#715
+FinalPaperTitle#=%=#Document-Level Text Simplification: Dataset, Criteria and Baseline
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Renliang Sun
+JobTitle#==#
+Organization#==#
+Abstract#==#Text simplification is a valuable technique. However, current research is limited to sentence simplification. In this paper, we define and investigate a new task of document-level text simplification, which aims to simplify a document consisting of multiple sentences. Based on Wikipedia dumps, we first construct a large-scale dataset named D-Wikipedia and perform analysis and human evaluation on it to show that the dataset is reliable. Then, we propose a new automatic evaluation metric called D-SARI that is more suitable for the document-level simplification task. Finally, we select several representative models as baseline models for this task and perform automatic evaluation and human evaluation. We analyze the results and point out the shortcomings of the baseline models.
+Author{1}{Firstname}#=%=#Renliang
+Author{1}{Lastname}#=%=#Sun
+Author{1}{Username}#=%=#sunrenliangpku
+Author{1}{Email}#=%=#sunrenliangpku@gmail.com
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Hanqi
+Author{2}{Lastname}#=%=#Jin
+Author{2}{Username}#=%=#jinhanqi
+Author{2}{Email}#=%=#jinhanqi@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Xiaojun
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Username}#=%=#wanxiaojun
+Author{3}{Email}#=%=#wanxiaojun@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

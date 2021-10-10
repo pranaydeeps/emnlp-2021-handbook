@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#3542
+FinalPaperTitle#=%=#Explaining Answers with Entailment Trees
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Bhavana Dalvi
+JobTitle#==#
+Organization#==#Allen Institute for AI, 2157 N Northlake Way #110, Seattle, WA 98103
+Abstract#==#Our goal, in the context of open-domain textual question-answering (QA), is to explain answers by showing the line of reasoning from what is known to the answer, rather than simply showing a fragment of textual evidence (a "rationale''). If this could be done, new opportunities for understanding and debugging the system’s reasoning become possible. Our approach is to generate explanations in the form of entailment trees, namely a tree of multipremise entailment steps from facts that are known, through intermediate conclusions, to the hypothesis of interest (namely the question + answer). To train a model with this skill,
+we created ENTAILMENTBANK, the first dataset to contain multistep entailment trees.
+Given a hypothesis (question + answer), we define three increasingly difficult explanation
+tasks: generate a valid entailment tree given (a) all relevant sentences (b) all relevant and
+some irrelevant sentences, or (c) a corpus. We show that a strong language model can partially solve these tasks, in particular when the relevant sentences are included in the input (e.g., 35% of trees for (a) are perfect), and with indications of generalization to other domains. This work is significant as it provides a new type of dataset (multistep entailments) and baselines, offering a new avenue for the community to generate richer, more systematic
+explanations.
+Author{1}{Firstname}#=%=#Bhavana
+Author{1}{Lastname}#=%=#Dalvi
+Author{1}{Username}#=%=#bhavanad
+Author{1}{Email}#=%=#bhavanad@allenai.org
+Author{1}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{2}{Firstname}#=%=#Peter
+Author{2}{Lastname}#=%=#Jansen
+Author{2}{Username}#=%=#pajansen
+Author{2}{Email}#=%=#pajansen@email.arizona.edu
+Author{2}{Affiliation}#=%=#University of Arizona
+Author{3}{Firstname}#=%=#Oyvind
+Author{3}{Lastname}#=%=#Tafjord
+Author{3}{Username}#=%=#oyvindtafjord
+Author{3}{Email}#=%=#oyvindt@allenai.org
+Author{3}{Affiliation}#=%=#AI2
+Author{4}{Firstname}#=%=#Zhengnan
+Author{4}{Lastname}#=%=#Xie
+Author{4}{Email}#=%=#zhengnanx@email.arizona.edu
+Author{4}{Affiliation}#=%=#University of Arizona
+Author{5}{Firstname}#=%=#Hannah
+Author{5}{Lastname}#=%=#Smith
+Author{5}{Email}#=%=#hannahksmith@email.arizona.edu
+Author{5}{Affiliation}#=%=#University of Arizona
+Author{6}{Firstname}#=%=#Leighanna
+Author{6}{Lastname}#=%=#Pipatanangkura
+Author{6}{Email}#=%=#lpipatanangkura@email.arizona.edu
+Author{6}{Affiliation}#=%=#University of Arizona
+Author{7}{Firstname}#=%=#Peter
+Author{7}{Lastname}#=%=#Clark
+Author{7}{Username}#=%=#peterc
+Author{7}{Email}#=%=#peterc@allenai.org
+Author{7}{Affiliation}#=%=#Allen Institute for AI
+
+==========

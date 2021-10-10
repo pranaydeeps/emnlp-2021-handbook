@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#364
+FinalPaperTitle#=%=#A Model of Cross-Lingual Knowledge-Grounded Response Generation for Open-Domain Dialogue Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#san kim
+JobTitle#==#
+Organization#==#AI Research Center, Korea Electronics Technology Institute
+#22, Daewangpangyo-ro 712beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, 13488, Korea
+Abstract#==#Research on open-domain dialogue systems that allow free topics is challenging in the field of natural language processing (NLP). 
+The performance of the dialogue system has been improved recently by the method utilizing dialogue-related knowledge; however, non-English dialogue systems suffer from reproducing the performance of English dialogue systems because securing knowledge in the same language with the dialogue system is relatively difficult.
+Through experiments with a Korean dialogue system, this paper proves that the performance of a non-English dialogue system can be improved by utilizing English knowledge, highlighting the system uses cross-lingual knowledge.
+For the experiments, we 1) constructed a Korean version of the Wizard of Wikipedia dataset, 2) built Korean-English T5 (KE-T5), a language model pre-trained with Korean and English corpus, and 3) developed a knowledge-grounded Korean dialogue model based on KE-T5.
+We observed the performance improvement in the open-domain Korean dialogue model even only English knowledge was given.
+The experimental results showed that the knowledge inherent in cross-lingual language models can be helpful for generating responses in open dialogue systems.
+Author{1}{Firstname}#=%=#San
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Username}#=%=#kimsan0622
+Author{1}{Email}#=%=#kimsan0622@keti.re.kr
+Author{1}{Affiliation}#=%=#Korea Electronics Technology Institute
+Author{2}{Firstname}#=%=#Jin Yea
+Author{2}{Lastname}#=%=#Jang
+Author{2}{Username}#=%=#baekseolgi
+Author{2}{Email}#=%=#jinyea.jang@snu.ac.kr
+Author{2}{Affiliation}#=%=#Seoul National University
+Author{3}{Firstname}#=%=#minyoung
+Author{3}{Lastname}#=%=#jung
+Author{3}{Email}#=%=#minyoung.jung@keti.re.kr
+Author{3}{Affiliation}#=%=#Korea Electronics Technology Institute
+Author{4}{Firstname}#=%=#saim
+Author{4}{Lastname}#=%=#shin
+Author{4}{Email}#=%=#sishin@keti.re.kr
+Author{4}{Affiliation}#=%=#Korea Electronics Technology Institute
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1736
+FinalPaperTitle#=%=#Context-Aware Interaction Network for Question Matching
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Zhe Hu
+JobTitle#==#
+Organization#==#
+Abstract#==#Impressive milestones have been achieved in text matching by adopting a cross-attention mechanism to capture pertinent semantic connections between two sentence representations. However, regular cross-attention focuses on word-level links between the two input sequences, neglecting the importance of contextual information. We propose a context-aware interaction network (COIN) to properly align two sequences and infer their semantic relationship. Specifically, each interaction block includes (1) a context-aware cross-attention mechanism to effectively integrate contextual information when aligning two sequences, and (2) a gate fusion layer to flexibly interpolate aligned representations. We apply multiple stacked interaction blocks to produce alignments at different levels and gradually refine the attention results. Experiments on two question matching datasets and detailed analyses demonstrate the effectiveness of our model.
+Author{1}{Firstname}#=%=#Zhe
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Username}#=%=#zhehuderek
+Author{1}{Email}#=%=#hu.zhe@northeastern.edu
+Author{1}{Affiliation}#=%=#Baidu
+Author{2}{Firstname}#=%=#Zuohui
+Author{2}{Lastname}#=%=#Fu
+Author{2}{Username}#=%=#zuohuif
+Author{2}{Email}#=%=#zuohui.fu@rutgers.edu
+Author{2}{Affiliation}#=%=#Rutgers University
+Author{3}{Firstname}#=%=#Yu
+Author{3}{Lastname}#=%=#Yin
+Author{3}{Username}#=%=#yin.yu1
+Author{3}{Email}#=%=#yin.yu1@northeastern.edu
+Author{3}{Affiliation}#=%=#Northeastern University
+Author{4}{Firstname}#=%=#Gerard
+Author{4}{Lastname}#=%=#de Melo
+Author{4}{Username}#=%=#gdm
+Author{4}{Email}#=%=#gdm@demelo.org
+Author{4}{Affiliation}#=%=#Hasso Plattner Institute, University of Potsdam
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2325
+FinalPaperTitle#=%=#Beyond Grammatical Error Correction: Improving L1-influenced research writing in English using pre-trained encoder-decoder models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Gustavo Zomer
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we present a new method for training a writing improvement model adapted to the writer’s first language (L1) that goes beyond grammatical error correction (GEC). Without using annotated training data, we rely solely on pre-trained language models fine-tuned with parallel corpora of reference translation aligned with machine translation. We evaluate our model with corpora of academic papers written in English by L1 Portuguese and L1 Spanish scholars and a reference corpus of expert academic English. We show that our model is able to address specific L1-influenced writing and more complex linguistic phenomena than existing methods, outperforming what a state-of-the-art GEC system can achieve in this regard. Our code and data are open to other researchers.
+Author{1}{Firstname}#=%=#Gustavo
+Author{1}{Lastname}#=%=#Zomer
+Author{1}{Username}#=%=#gzomer
+Author{1}{Email}#=%=#g.zomer@surrey.ac.uk
+Author{1}{Affiliation}#=%=#University of Surrey
+Author{2}{Firstname}#=%=#Ana
+Author{2}{Lastname}#=%=#Frankenberg-Garcia
+Author{2}{Username}#=%=#anafrankenberg
+Author{2}{Email}#=%=#a.frankenberg-garcia@surrey.ac.uk
+Author{2}{Affiliation}#=%=#Centre for Translation Studies, University of Surrey
+
+==========

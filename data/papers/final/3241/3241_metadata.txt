@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#3241
+FinalPaperTitle#=%=#The Effect of Efficient Messaging and Input Variability on Neural-Agent Iterated Language Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yuchen Lian
+JobTitle#==#
+Organization#==#Faculty of Electronic and Information Engineering, Xi'an Jiaotong University, Xi'an, Shaanxi 710049, China;
+Leiden Institute of Advanced Computer Science, Leiden University, Leiden, The Netherlands.
+Abstract#==#Natural languages display a trade-off among different strategies to convey syntactic structure, such as word order or inflection. This trade-off, however, has not appeared in recent simulations of iterated language learning with neural network agents (Chaabouni et al., 2019b). We re-evaluate this result in light of three 
+factors that play an important role in comparable experiments from the Language Evolution field: (i) speaker bias towards efficient messaging, (ii) non systematic input languages, and (iii) learning bottleneck.
+Our simulations show that neural agents mainly strive to maintain the utterance type distribution observed during learning, instead of developing a more efficient or systematic language.
+Author{1}{Firstname}#=%=#Yuchen
+Author{1}{Lastname}#=%=#Lian
+Author{1}{Username}#=%=#yuchen_lian
+Author{1}{Email}#=%=#lianyuchen97@outlook.com
+Author{1}{Affiliation}#=%=#Xi'an Jiaotong University-Leiden University
+Author{2}{Firstname}#=%=#Arianna
+Author{2}{Lastname}#=%=#Bisazza
+Author{2}{Username}#=%=#bisazza
+Author{2}{Email}#=%=#a.bisazza@rug.nl
+Author{2}{Affiliation}#=%=#University of Groningen
+Author{3}{Firstname}#=%=#Tessa
+Author{3}{Lastname}#=%=#Verhoef
+Author{3}{Username}#=%=#tverhoef
+Author{3}{Email}#=%=#t.verhoef@liacs.leidenuniv.nl
+Author{3}{Affiliation}#=%=#Leiden University
+
+==========

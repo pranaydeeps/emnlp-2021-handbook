@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1477
+FinalPaperTitle#=%=#Rethinking Sentiment Style Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Ping Yu
+JobTitle#==#
+Organization#==#
+Abstract#==#Though remarkable efforts have been made in non-parallel text style transfer, the evaluation system is unsatisfactory. It always evaluates over samples from only one checkpoint of the model and compares three metrics, {\it i.e.,} transfer accuracy, BLEU score, and PPL score. In this paper, we argue the inappropriateness of both existing evaluation metrics and the evaluation method. Specifically, for evaluation metrics, we make a detailed analysis and comparison from three aspects: style transfer, content preservation, and naturalness; for the evaluation method, we reiterate the fallacy of picking one checkpoint for model comparison. As a result, we establish a robust evaluation method by examining the trade-off between style transfer and naturalness, and between content preservation and naturalness. Notably, we elaborate the human evaluation and automatically identify the inaccurate measurement of content preservation computed by the BLEU score. To overcome this issue, we propose a graph-based method to extract attribute content and attribute-independent content from input sentences in the Y{\small ELP} dataset and I{\small MDB} dataset. With the modified datasets, we design a new evaluation metric called \textit{"attribute hit"} and propose an efficient regularization to leverage the attribute-dependent content and attribute-independent content as guiding signals. Experimental results have demonstrated the effectiveness of the proposed strategy.
+Author{1}{Firstname}#=%=#Ping
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#pingyu
+Author{1}{Email}#=%=#pingyu@buffalo.edu
+Author{1}{Affiliation}#=%=#University at Buffalo
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#yzhao63
+Author{2}{Email}#=%=#yzhao63@buffalo.edu
+Author{2}{Affiliation}#=%=#University at Buffalo
+Author{3}{Firstname}#=%=#Chunyuan
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#chunyuanli
+Author{3}{Email}#=%=#chunyuan.li@hotmail.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Changyou
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#cchangyou
+Author{4}{Email}#=%=#cchangyou@gmail.com
+Author{4}{Affiliation}#=%=#University at Buffalo, SUNY
+
+==========

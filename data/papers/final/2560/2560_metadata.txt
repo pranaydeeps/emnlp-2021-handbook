@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2560
+FinalPaperTitle#=%=#Multilingual AMR Parsing with Noisy Knowledge Distillation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Deng Cai
+JobTitle#==#
+Organization#==#
+Abstract#==#We study multilingual AMR parsing from the perspective of knowledge distillation, where the aim is to learn and improve a multilingual AMR parser by using an existing English parser as its teacher. We constrain our exploration in a strict multilingual setting: there is but one model to parse all different languages including English. We identify that noisy input and precise output are the key to successful distillation. Together with extensive pre-training, we obtain an AMR parser whose performances surpass all previously published results on four different foreign languages, including German, Spanish, Italian, and Chinese, by large margins (up to 18.8 \textsc{Smatch} points on Chinese and on average 11.3 \textsc{Smatch} points). Our parser also achieves comparable performance on English to the latest state-of-the-art English-only parser.
+Author{1}{Firstname}#=%=#Deng
+Author{1}{Lastname}#=%=#Cai
+Author{1}{Username}#=%=#jcykcd
+Author{1}{Email}#=%=#thisisjcykcd@gmail.com
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#lixin4ever
+Author{2}{Email}#=%=#lixin4ever@gmail.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Jackie Chun-Sing
+Author{3}{Lastname}#=%=#Ho
+Author{3}{Username}#=%=#jcsho
+Author{3}{Email}#=%=#jackieho@link.cuhk.edu.hk
+Author{3}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{4}{Firstname}#=%=#Lidong
+Author{4}{Lastname}#=%=#Bing
+Author{4}{Username}#=%=#binglidong
+Author{4}{Email}#=%=#binglidong@gmail.com
+Author{4}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{5}{Firstname}#=%=#Wai
+Author{5}{Lastname}#=%=#Lam
+Author{5}{Username}#=%=#wlam
+Author{5}{Email}#=%=#wlam@se.cuhk.edu.hk
+Author{5}{Affiliation}#=%=#The Chinese University of Hong Kong
+
+==========

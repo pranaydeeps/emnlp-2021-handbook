@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3808
+FinalPaperTitle#=%=#The Stem Cell Hypothesis: Dilemma behind Multi-Task Learning with Transformer Encoders
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Han He
+JobTitle#==#
+Organization#==#Emory University, Atlanta, GA 30322 USA
+Abstract#==#Multi-task learning with transformer encoders (MTL) has emerged as a powerful technique to improve performance on closely-related tasks for both accuracy and efficiency while a question still remains whether or not it would perform as well on tasks that are distinct in nature. We first present MTL results on five NLP tasks, POS, NER, DEP, CON, and SRL, and depict its deficiency over single-task learning. We then conduct an extensive pruning analysis to show that a certain set of attention heads get claimed by most tasks during MTL, who interfere with one another to fine-tune those heads for their own objectives. Based on this finding, we propose the Stem Cell Hypothesis to reveal the existence of attention heads naturally talented for many tasks that cannot be jointly trained to create adequate embeddings for all of those tasks. Finally, we design novel parameter-free probes to justify our hypothesis and demonstrate how attention heads are transformed across the five tasks during MTL through label analysis.
+Author{1}{Firstname}#=%=#Han
+Author{1}{Lastname}#=%=#He
+Author{1}{Username}#=%=#hankcs
+Author{1}{Email}#=%=#han.he@emory.edu
+Author{1}{Affiliation}#=%=#Emory University
+Author{2}{Firstname}#=%=#Jinho D.
+Author{2}{Lastname}#=%=#Choi
+Author{2}{Username}#=%=#jdchoi77
+Author{2}{Email}#=%=#jinho.choi@emory.edu
+Author{2}{Affiliation}#=%=#Emory University
+
+==========

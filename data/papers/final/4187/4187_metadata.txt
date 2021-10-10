@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4187
+FinalPaperTitle#=%=#PDALN: Progressive Domain Adaptation over a Pre-trained Model for Low-Resource Cross-Domain Named Entity Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Tao Zhang
+JobTitle#==#PhD
+Organization#==#University of Illinois at Chicago
+Abstract#==#Cross-domain Named Entity Recognition (NER) transfers the NER knowledge from high-resource domains to the low-resource target domain. Due to limited labeled resources and domain shift, cross-domain NER is a challenging task. To address these challenges, we propose a progressive domain adaptation Knowledge Distillation (KD) approach -- PDALN.  It achieves superior domain adaptability by employing three components: (1) Adaptive data augmentation techniques, which alleviate cross-domain gap and label sparsity simultaneously; (2) Multi-level Domain invariant features, derived from a multi-grained MMD (Maximum Mean Discrepancy) approach, to enable knowledge transfer across domains; (3) Advanced KD schema, which progressively enables powerful pre-trained language models to perform domain adaptation. Extensive experiments on four benchmarks show that PDALN can effectively adapt high-resource domains to low-resource target domains, even if they are diverse in terms and writing styles. Comparison with other baselines indicates the state-of-the-art performance of PDALN.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#tzhang90
+Author{1}{Email}#=%=#tzhang90@uic.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Congying
+Author{2}{Lastname}#=%=#Xia
+Author{2}{Username}#=%=#sarahday
+Author{2}{Email}#=%=#cxia8@uic.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Chicago
+Author{3}{Firstname}#=%=#Philip S.
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#psyu_2021
+Author{3}{Email}#=%=#psyu@cs.uic.edu
+Author{3}{Affiliation}#=%=#University of Illinois at Chicago
+Author{4}{Firstname}#=%=#Zhiwei
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#jim96liu
+Author{4}{Email}#=%=#zliu213@uic.edu
+Author{4}{Affiliation}#=%=#University of Illinois at Chicago
+Author{5}{Firstname}#=%=#Shu
+Author{5}{Lastname}#=%=#Zhao
+Author{5}{Username}#=%=#zhaoshu-ahu
+Author{5}{Email}#=%=#zhaoshuzs2002@hotmail.com
+Author{5}{Affiliation}#=%=#Anhui University
+
+==========

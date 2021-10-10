@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1484
+FinalPaperTitle#=%=#Lawyers are Dishonest? Quantifying Representational Harms in Commonsense Knowledge Resources
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Ninareh Mehrabi
+JobTitle#==#
+Organization#==#
+Abstract#==#Warning: this paper contains content that may
+be offensive or upsetting.
+
+Commonsense knowledge bases (CSKB) are increasingly used for various natural language processing tasks. Since CSKBs are mostly human-generated and may reflect societal biases, it is important to ensure that such biases are not conflated with the notion of commonsense. Here we focus on two widely used CSKBs, ConceptNet and GenericsKB, and establish the presence of bias in the form of two types of representational harms, overgeneralization of polarized perceptions and representation disparity across different demographic groups in both CSKBs. Next, we find similar representational harms for downstream models that use ConceptNet. Finally, we propose a filtering-based approach for mitigating such harms, and observe that our filtered-based approach can reduce the issues in both resources and models but leads to a performance drop, leaving room for future work to build fairer and stronger commonsense models.
+Author{1}{Firstname}#=%=#Ninareh
+Author{1}{Lastname}#=%=#Mehrabi
+Author{1}{Username}#=%=#ninarehm
+Author{1}{Email}#=%=#ninarehm@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Pei
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Username}#=%=#shaoxia57
+Author{2}{Email}#=%=#peiz@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Fred
+Author{3}{Lastname}#=%=#Morstatter
+Author{3}{Username}#=%=#fmorstatter
+Author{3}{Email}#=%=#fredmors@isi.edu
+Author{3}{Affiliation}#=%=#USC Information Sciences Institute
+Author{4}{Firstname}#=%=#Jay
+Author{4}{Lastname}#=%=#Pujara
+Author{4}{Username}#=%=#puuj
+Author{4}{Email}#=%=#jay@cs.umd.edu
+Author{4}{Affiliation}#=%=#University of Southern California
+Author{5}{Firstname}#=%=#Xiang
+Author{5}{Lastname}#=%=#Ren
+Author{5}{Username}#=%=#xren7
+Author{5}{Email}#=%=#xiangren@usc.edu
+Author{5}{Affiliation}#=%=#University of Southern California
+Author{6}{Firstname}#=%=#Aram
+Author{6}{Lastname}#=%=#Galstyan
+Author{6}{Username}#=%=#aramgalstyan
+Author{6}{Email}#=%=#galstyan@isi.edu
+Author{6}{Affiliation}#=%=#USC Information Sciences Institute
+
+==========

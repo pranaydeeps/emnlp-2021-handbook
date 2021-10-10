@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#3169
+FinalPaperTitle#=%=#{S}up{CL}-{S}eq: {S}upervised {C}ontrastive {L}earning for Downstream Optimized Sequence Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Shivam Raval
+JobTitle#==#
+Organization#==#
+Abstract#==#While contrastive learning is proven to be an effective training strategy in computer vision, Natural Language Processing (NLP) is only recently adopting it as a self-supervised alternative to Masked Language Modeling (MLM) for improving sequence representations. This paper introduces SupCL-Seq, which extends the supervised contrastive learning from computer vision to the optimization of sequence representations in NLP. 
+By altering the dropout mask probability in standard Transformer architectures (e.g.~BERT-base), for every representation (anchor), we generate augmented altered views. A supervised contrastive loss is then utilized to maximize the system's capability of pulling together similar samples (e.g., anchors and their altered views) and pushing apart the samples belonging to the other classes. Despite its simplicity, SupCL-Seq leads to large gains in many sequence classification tasks on the GLUE benchmark compared to a standard BERT-base, including 6% absolute improvement on CoLA, 5.4% on MRPC, 4.7% on RTE and 2.6% on STS-B. We also show consistent gains over self-supervised contrastively learned representations, especially in non-semantic tasks. Finally we show that these gains are not solely due to augmentation, but rather to a downstream optimized sequence representation.
+Author{1}{Firstname}#=%=#Hooman
+Author{1}{Lastname}#=%=#Sedghamiz
+Author{1}{Username}#=%=#hooman650
+Author{1}{Email}#=%=#hooman.sedghamiz@gmail.com
+Author{1}{Affiliation}#=%=#Bayer AG
+Author{2}{Firstname}#=%=#Shivam
+Author{2}{Lastname}#=%=#Raval
+Author{2}{Username}#=%=#shivamraval
+Author{2}{Email}#=%=#sbraval@asu.edu
+Author{2}{Affiliation}#=%=#Bayer AG
+Author{3}{Firstname}#=%=#Enrico
+Author{3}{Lastname}#=%=#Santus
+Author{3}{Username}#=%=#esantus
+Author{3}{Email}#=%=#enrico.santus@bayer.com
+Author{3}{Affiliation}#=%=#Bayer
+Author{4}{Firstname}#=%=#Tuka
+Author{4}{Lastname}#=%=#Alhanai
+Author{4}{Username}#=%=#tuka
+Author{4}{Email}#=%=#tuka@mit.edu
+Author{4}{Affiliation}#=%=#MIT
+Author{5}{Firstname}#=%=#Mohammad
+Author{5}{Lastname}#=%=#Ghassemi
+Author{5}{Username}#=%=#ghassemi
+Author{5}{Email}#=%=#ghassemi@alum.mit.edu
+Author{5}{Affiliation}#=%=#Michigan State University
+
+==========

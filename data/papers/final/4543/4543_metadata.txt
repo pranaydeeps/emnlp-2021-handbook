@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#4543
+FinalPaperTitle#=%=#{MAD}-{G}: {M}ultilingual Adapter Generation for Efficient Cross-Lingual Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Alan Ansell
+JobTitle#==#
+Organization#==#
+Abstract#==#Adapter modules have emerged as a general parameter-efficient means to specialize a pretrained encoder to new domains. Massively multilingual transformers (MMTs) have particularly benefited from additional training of language-specific adapters.
+
+However, this approach is not viable for the vast majority of languages, due to limitations in their corpus size or compute budgets. In this work, we propose MAD-G (Multilingual ADapter Generation), which contextually generates language adapters from language representations based on typological features. In contrast to prior work, our time- and space-efficient MAD-G approach enables (1) sharing of linguistic knowledge across languages and (2) zero-shot inference by generating language adapters for unseen languages. We thoroughly evaluate MAD-G in zero-shot cross-lingual transfer on part-of-speech tagging, dependency parsing, and named entity recognition. While offering (1) improved fine-tuning efficiency (by a factor of around 50 in our experiments), (2) a smaller parameter budget, and (3) increased language coverage, MAD-G remains competitive with more expensive methods for language-specific adapter training across the board. Moreover, it offers substantial benefits for low-resource languages, particularly on the NER task in low-resource African languages. Finally, we demonstrate that MAD-G's transfer performance can be further improved via: (i) multi-source training, i.e., by generating and combining adapters of multiple languages with available task-specific training data; and (ii) by further fine-tuning generated MAD-G adapters for languages with monolingual data.
+Author{1}{Firstname}#=%=#Alan
+Author{1}{Lastname}#=%=#Ansell
+Author{1}{Username}#=%=#alanansell
+Author{1}{Email}#=%=#jams.ansell@gmail.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Edoardo Maria
+Author{2}{Lastname}#=%=#Ponti
+Author{2}{Username}#=%=#ducadauge
+Author{2}{Email}#=%=#edoardo-maria.ponti@mila.quebec
+Author{2}{Affiliation}#=%=#Mila Montreal / University of Cambridge
+Author{3}{Firstname}#=%=#Jonas
+Author{3}{Lastname}#=%=#Pfeiffer
+Author{3}{Username}#=%=#jopfeiff
+Author{3}{Email}#=%=#pfeiffer@ukp.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#TU Darmstadt
+Author{4}{Firstname}#=%=#Sebastian
+Author{4}{Lastname}#=%=#Ruder
+Author{4}{Username}#=%=#sebastianruder
+Author{4}{Email}#=%=#ruder.sebastian@gmail.com
+Author{4}{Affiliation}#=%=#DeepMind
+Author{5}{Firstname}#=%=#Goran
+Author{5}{Lastname}#=%=#Glavaš
+Author{5}{Username}#=%=#gg42554
+Author{5}{Email}#=%=#goran@informatik.uni-mannheim.de
+Author{5}{Affiliation}#=%=#University of Mannheim
+Author{6}{Firstname}#=%=#Ivan
+Author{6}{Lastname}#=%=#Vulić
+Author{6}{Username}#=%=#ivulic
+Author{6}{Email}#=%=#iv250@cam.ac.uk
+Author{6}{Affiliation}#=%=#University of Cambridge
+Author{7}{Firstname}#=%=#Anna
+Author{7}{Lastname}#=%=#Korhonen
+Author{7}{Username}#=%=#anna.korhonen
+Author{7}{Email}#=%=#alk23@cam.ac.uk
+Author{7}{Affiliation}#=%=#University of Cambridge
+
+==========

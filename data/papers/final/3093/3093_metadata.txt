@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#3093
+FinalPaperTitle#=%=#Self-Supervised Neural Topic Modeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Seyed Ali Bahreinian
+JobTitle#==#
+Organization#==#
+Abstract#==#Topic models are useful tools for analyzing and interpreting the main underlying themes of large corpora of text. Most topic models rely on word co-occurrence for computing a topic, i.e., a weighted set of words that together represent a high-level semantic concept. In this paper, we propose a new light-weight Self-Supervised Neural Topic Model (SNTM) that learns a rich context by learning a topic representation jointly from three co-occurring words and a document that the triple originates from. 
+Our experimental results indicate that our proposed neural topic model, SNTM, outperforms previously existing topic models in coherence metrics as well as document clustering accuracy. Moreover, apart from the topic coherence and clustering performance, the proposed neural topic model has a number of advantages, namely, being computationally efficient and easy to train.
+Author{1}{Firstname}#=%=#Seyed Ali
+Author{1}{Lastname}#=%=#Bahrainian
+Author{1}{Username}#=%=#bahrainian77
+Author{1}{Email}#=%=#bahrainian@brown.edu
+Author{1}{Affiliation}#=%=#Brown University
+Author{2}{Firstname}#=%=#Martin
+Author{2}{Lastname}#=%=#Jaggi
+Author{2}{Username}#=%=#mjaggi
+Author{2}{Email}#=%=#martin.jaggi@epfl.ch
+Author{2}{Affiliation}#=%=#EPFL
+Author{3}{Firstname}#=%=#Carsten
+Author{3}{Lastname}#=%=#Eickhoff
+Author{3}{Username}#=%=#ceickhoff
+Author{3}{Email}#=%=#carsten@brown.edu
+Author{3}{Affiliation}#=%=#Brown University
+
+==========

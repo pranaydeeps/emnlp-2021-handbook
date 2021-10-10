@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Improving Text Generation via Neural Discourse Planning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent transformer-based approaches to NLG like GPT-2 can generate syntactically coherent original texts. However, these generated texts have serious flaws. One of them is a global discourse incoherence. We present an approach to estimate the quality of discourse structure. Empirical results confirm that the discourse structure of currently generated texts is inaccurate. We propose the research directions to plan it and fill in the text in its leaves using the pipeline consisting of two GPT-2-based generation models. The suggested approach is universal and can be applied to different languages.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Chernyavskiy
+Author{1}{Username}#=%=#alexchern
+Author{1}{Email}#=%=#alschernyavskiy@gmail.com
+Author{1}{Affiliation}#=%=#National Research University Higher School of Economics
+Author{2}{Firstname}#=%=#Dmitry
+Author{2}{Lastname}#=%=#Ilvovsky
+Author{2}{Username}#=%=#dilv_ru
+Author{2}{Email}#=%=#dilv_ru@yahoo.com
+Author{2}{Affiliation}#=%=#National Research University Higher School of Economics
+
+==========

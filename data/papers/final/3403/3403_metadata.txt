@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3403
+FinalPaperTitle#=%=#ODIST: Open World Classification via Distributionally Shifted Instances
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lei Shu
+JobTitle#==#
+Organization#==#Amazon AWS AI
+Abstract#==#In this work, we address the open-world classification problem with a method called ODIST, open world classification via distributionally shifted instances. This novel and straightforward method can create out-of-domain instances from the in-domain training instances with the help of a pre-trained generative language model. Experimental results show that ODIST performs better than state-of-the-art decision boundary finding method.
+Author{1}{Firstname}#=%=#Lei
+Author{1}{Lastname}#=%=#Shu
+Author{1}{Username}#=%=#shulindt
+Author{1}{Email}#=%=#shulindt@gmail.com
+Author{1}{Affiliation}#=%=#Amazon AWS AI
+Author{2}{Firstname}#=%=#Yassine
+Author{2}{Lastname}#=%=#Benajiba
+Author{2}{Username}#=%=#benajibayassine
+Author{2}{Email}#=%=#benajibayassine@gmail.com
+Author{2}{Affiliation}#=%=#Amazon Web Services
+Author{3}{Firstname}#=%=#Saab
+Author{3}{Lastname}#=%=#Mansour
+Author{3}{Username}#=%=#mansour
+Author{3}{Email}#=%=#saib.mn@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Yi
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#yzhang
+Author{4}{Email}#=%=#yizhngn@amazon.com
+Author{4}{Affiliation}#=%=#Amazon AI
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1077
+FinalPaperTitle#=%=#Treasures Outside Contexts: Improving Event Detection via Global Statistics
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Rui Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Event detection (ED) aims at identifying event instances of specified types in given texts, which has been formalized as a sequence labeling task. As far as we know, existing neural-based ED models make decisions relying entirely on the contextual semantic features of each word in the inputted text, which we find is easy to be confused by the varied contexts in the test stage.
+To this end, we come up with the idea of introducing a set of statistical features from word-event co-occurrence frequencies in the entire training set to cooperate with contextual features. Specifically, we propose a Semantic and Statistic-Joint Discriminative Network (SS-JDN) consisting of a semantic feature extractor, a statistical feature extractor, and a joint event discriminator. In experiments, SS-JDN effectively exceeds ten recent strong baselines on ACE2005 and KBP2015 datasets. Further, we perform extensive experiments to comprehensively probe SS-JDN.
+Author{1}{Firstname}#=%=#Rui
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#ruili
+Author{1}{Email}#=%=#lirui@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Wenlin
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#buted
+Author{2}{Email}#=%=#zhaowenlin@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{3}{Firstname}#=%=#Cheng
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Username}#=%=#yangcheng
+Author{3}{Email}#=%=#albertyang33@gmail.com
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Sen
+Author{4}{Lastname}#=%=#Su
+Author{4}{Username}#=%=#susen
+Author{4}{Email}#=%=#susen@bupt.edu.cn
+Author{4}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+
+==========

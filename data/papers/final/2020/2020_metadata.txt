@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#2020
+FinalPaperTitle#=%=#Generate & Rank: A Multi-task Framework for Math Word Problems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jianhao Shen
+JobTitle#==#
+Organization#==#Peking University, Beijing, China
+Abstract#==#Math word problem (MWP) is a challenging and critical task in natural language processing. Many recent studies formalize MWP as a generation task and have adopted sequence-to-sequence models to transform problem descriptions to mathematical expressions. However, mathematical expressions are prone to minor mistakes while the generation objective does not explicitly handle such mistakes. To address this limitation, we devise a new ranking task for MWP and propose Generate & Rank, a multi-task framework based on a generative pre-trained language model. By joint training with generation and ranking, the model learns from its own mistakes and is able to distinguish between correct and incorrect expressions. Meanwhile, we perform tree-based disturbance specially designed for MWP and an online update to boost the ranker. We demonstrate the effectiveness of our proposed method on the benchmark and the results show that our method consistently outperforms baselines in all datasets. Particularly, in the classical Math23k, our method is 7% (78.4% to 85.4%) higher than the state-of-the-art. Code could be found at https://github.com/huawei-noah/noah-research.
+Author{1}{Firstname}#=%=#Jianhao
+Author{1}{Lastname}#=%=#Shen
+Author{1}{Username}#=%=#pkusjh
+Author{1}{Email}#=%=#jhshen@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yichun
+Author{2}{Lastname}#=%=#Yin
+Author{2}{Username}#=%=#yichunyin
+Author{2}{Email}#=%=#yinyichun@huawei.com
+Author{2}{Affiliation}#=%=#Noah's Ark Lab of Huawei
+Author{3}{Firstname}#=%=#Lin
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#lilin29@huawei.com
+Author{3}{Affiliation}#=%=#HiSilicon Turing Architecture and Design Department
+Author{4}{Firstname}#=%=#Lifeng
+Author{4}{Lastname}#=%=#Shang
+Author{4}{Username}#=%=#lifengshang
+Author{4}{Email}#=%=#lifengshang@gmail.com
+Author{4}{Affiliation}#=%=#Noah’s Ark Lab Huawei Technologies Co. Ltd. Sha Tin, Hong Kong
+Author{5}{Firstname}#=%=#Xin
+Author{5}{Lastname}#=%=#Jiang
+Author{5}{Username}#=%=#jxfeb
+Author{5}{Email}#=%=#jiang.xin@huawei.com
+Author{5}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{6}{Firstname}#=%=#Ming
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#mzhang_eecs
+Author{6}{Email}#=%=#mzhang@net.pku.edu.cn
+Author{6}{Affiliation}#=%=#Peking University
+Author{7}{Firstname}#=%=#Qun
+Author{7}{Lastname}#=%=#Liu
+Author{7}{Username}#=%=#liuqun
+Author{7}{Email}#=%=#qun.liu@huawei.com
+Author{7}{Affiliation}#=%=#Huawei Noah's Ark Lab
+
+==========

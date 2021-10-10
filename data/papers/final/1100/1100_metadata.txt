@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1100
+FinalPaperTitle#=%=#Effectiveness of Pre-training for Few-shot Intent Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Haode Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper investigates the effectiveness of pre-training for few-shot intent classification. While existing paradigms commonly further pre-train language models such as BERT on a vast amount of unlabeled corpus, we find it highly effective and efficient to simply fine-tune BERT with a small set of labeled utterances from public datasets. Specifically, fine-tuning BERT with roughly 1,000 labeled data yields a pre-trained model -- IntentBERT, which can easily surpass the performance of existing pre-trained models for few-shot intent classification on novel domains with very different semantics. The high effectiveness of IntentBERT confirms the feasibility and practicality of few-shot intent detection, and its high generalization ability across different domains suggests that intent classification tasks may share a similar underlying structure, which can be efficiently learned from a small set of labeled data. The source code can be found at https://github.com/hdzhang-code/IntentBERT.
+Author{1}{Firstname}#=%=#Haode
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zhanghaode
+Author{1}{Email}#=%=#haode.zhang@connect.polyu.hk
+Author{1}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{2}{Firstname}#=%=#Yuwei
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zhang_yu_wei
+Author{2}{Email}#=%=#yuwzhang@polyu.edu.hk
+Author{2}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{3}{Firstname}#=%=#Li-Ming
+Author{3}{Lastname}#=%=#Zhan
+Author{3}{Username}#=%=#li-ming
+Author{3}{Email}#=%=#lmzhan.zhan@connect.polyu.hk
+Author{3}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{4}{Firstname}#=%=#Jiaxin
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#jiaxinchen
+Author{4}{Email}#=%=#jiax.chen@connect.polyu.hk
+Author{4}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{5}{Firstname}#=%=#Guangyuan
+Author{5}{Lastname}#=%=#SHI
+Author{5}{Username}#=%=#moukamisama
+Author{5}{Email}#=%=#guang-yuan.shi@connect.polyu.hk
+Author{5}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{6}{Firstname}#=%=#Xiao-Ming
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Username}#=%=#xiao-ming.wu
+Author{6}{Email}#=%=#xiao-ming.wu@polyu.edu.hk
+Author{6}{Affiliation}#=%=#Hong Kong Polytechnic University
+Author{7}{Firstname}#=%=#Albert Y.S.
+Author{7}{Lastname}#=%=#Lam
+Author{7}{Username}#=%=#ayslam
+Author{7}{Email}#=%=#albert@fano.ai
+Author{7}{Affiliation}#=%=#Fano Labs
+
+==========

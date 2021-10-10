@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1810
+FinalPaperTitle#=%=#Retrieve, Discriminate and Rewrite: A Simple and Effective Framework for Obtaining Affective Response in Retrieval-Based Chatbots
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Xin Lu
+JobTitle#==#
+Organization#==#
+Abstract#==#Obtaining affective response is a key step in building empathetic dialogue systems. This task has been studied a lot in generation-based chatbots, but the related research in retrieval-based chatbots is still in the early stage. Existing works in retrieval-based chatbots are based on Retrieve-and-Rerank framework, which have a common problem of satisfying affect label at the expense of response quality. To address this problem, we propose a simple and effective Retrieve-Discriminate-Rewrite framework. The framework replaces the reranking mechanism with a new discriminate-and-rewrite mechanism, which predicts the affect label of the retrieved high-quality response via discrimination module and further rewrites the affect unsatisfied response via rewriting module. This can not only guarantee the quality of the response, but also satisfy the given affect label. In addition, another challenge for this line of research is the lack of an off-the-shelf affective response dataset. To address this problem and test our proposed framework, we annotate a Sentimental Douban Conversation Corpus based on the original Douban Conversation Corpus. Experimental results show that our proposed framework is effective and outperforms competitive baselines.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Username}#=%=#luxinxyz
+Author{1}{Email}#=%=#xlu@ir.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Yijian
+Author{2}{Lastname}#=%=#Tian
+Author{2}{Username}#=%=#yjtian
+Author{2}{Email}#=%=#yjtian@ir.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Yanyan
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Username}#=%=#yyzhao
+Author{3}{Email}#=%=#zyyster@gmail.com
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+Author{4}{Firstname}#=%=#Bing
+Author{4}{Lastname}#=%=#Qin
+Author{4}{Username}#=%=#qinb
+Author{4}{Email}#=%=#qinb@ir.hit.edu.cn
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

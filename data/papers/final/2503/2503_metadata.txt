@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2503
+FinalPaperTitle#=%=#Improving Numerical Reasoning Skills in the Modular Approach for Complex Question Answering on Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Xiao-Yu Guo
+JobTitle#==#
+Organization#==#
+Abstract#==#Numerical reasoning skills are essential for complex question answering (CQA) over text. It requires opertaions including counting, comparison, addition and subtraction.  A successful approach to CQA on text, Neural Module Networks (NMNs), follows the programmer-interpreter paradigm and leverages specialised modules to perform compositional reasoning. However, the NMNs framework does not consider the relationship between numbers and entities in both questions and paragraphs. We propose effective techniques to improve NMNs' numerical reasoning capabilities by making the interpreter question-aware and capturing the relationship between entities and numbers. On the same subset of the DROP dataset for CQA on text, experimental results show that our additions outperform the original NMNs by 3.0 points for the overall F1 score.
+Author{1}{Firstname}#=%=#Xiao-Yu
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Username}#=%=#guoxiaoyu
+Author{1}{Email}#=%=#xiaoyu.guo@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Yuan-Fang
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#yuanfang.li
+Author{2}{Email}#=%=#yuanfang.li@monash.edu
+Author{2}{Affiliation}#=%=#Monash University
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Username}#=%=#reza.haffari
+Author{3}{Email}#=%=#gholamreza.haffari@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+
+==========

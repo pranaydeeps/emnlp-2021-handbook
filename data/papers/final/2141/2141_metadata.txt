@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#2141
+FinalPaperTitle#=%=#Machine Reading Comprehension as Data Augmentation: A Case Study on Implicit Event Argument Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jian Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Implicit event argument extraction (EAE) is a crucial document-level information extraction task that aims to identify event arguments beyond the sentence level. 
+Despite many efforts for this task, the lack of enough training data has long impeded the study.
+In this paper, we take a new perspective to address the data sparsity issue faced by implicit EAE, by bridging the task with machine reading comprehension (MRC).
+Particularly, we devise two data augmentation regimes via MRC, including: 1) implicit knowledge transfer, which enables knowledge transfer from other tasks, by building a unified training framework in the MRC formulation, and 2) explicit data augmentation, which can explicitly generate new training examples, by treating MRC models as an annotator.
+The extensive experiments have justified the effectiveness of our approach --- it not only obtains state-of-the-art performance on two benchmarks, but also demonstrates superior results in a data-low scenario.
+Author{1}{Firstname}#=%=#Jian
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#jian.liu
+Author{1}{Email}#=%=#jianliu@bjtu.edu.cn
+Author{1}{Affiliation}#=%=#Beijing Jiaotong University
+Author{2}{Firstname}#=%=#Yufeng
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#chenyf_1
+Author{2}{Email}#=%=#chenyf@bjtu.edu.cn
+Author{2}{Affiliation}#=%=#Beijing Jiaotong University
+Author{3}{Firstname}#=%=#Jinan
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#jaxu
+Author{3}{Email}#=%=#jaxu@bjtu.edu.cn
+Author{3}{Affiliation}#=%=#Beijing Jiaotong University
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2959
+FinalPaperTitle#=%=#{ARMAN}: {P}re-training with {S}emantically {S}electing and {R}eordering of {S}entences for {P}ersian {A}bstractive {S}ummarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Alireza Salemi
+JobTitle#==#
+Organization#==#School of Electrical and Computer Engineering, College of Engineering, University of Tehran, Tehran, Iran
+Abstract#==#Abstractive text summarization is one of the areas influenced by the emergence of pre-trained language models. Current pre-training works in abstractive summarization give more points to the summaries with more words in common with the main text and pay less attention to the semantic similarity between generated sentences and the original document. We propose ARMAN, a Transformer-based encoder-decoder model pre-trained with three novel objectives to address this issue. In ARMAN, salient sentences from a document are selected according to a modified semantic score to be masked and form a pseudo summary. To summarize more accurately and similar to human writing patterns, we applied modified sentence reordering. We evaluated our proposed models on six downstream Persian summarization tasks. Experimental results show that our proposed model achieves state-of-the-art performance on all six summarization tasks measured by ROUGE and BERTScore. Our models also outperform prior works in textual entailment, question paraphrasing, and multiple choice question answering. Finally, we established a human evaluation and show that using the semantic score significantly improves summarization results.
+Author{1}{Firstname}#=%=#Alireza
+Author{1}{Lastname}#=%=#Salemi
+Author{1}{Username}#=%=#alireza.salemi
+Author{1}{Email}#=%=#alireza.salemi@ut.ac.ir
+Author{1}{Affiliation}#=%=#University of Tehran
+Author{2}{Firstname}#=%=#Emad
+Author{2}{Lastname}#=%=#Kebriaei
+Author{2}{Username}#=%=#emadkebriaei
+Author{2}{Email}#=%=#emad.kebriaei@ut.ac.ir
+Author{2}{Affiliation}#=%=#University of Tehran
+Author{3}{Firstname}#=%=#Ghazal
+Author{3}{Lastname}#=%=#Neisi Minaei
+Author{3}{Username}#=%=#ghminaei
+Author{3}{Email}#=%=#ghazal.minaei@ut.ac.ir
+Author{3}{Affiliation}#=%=#University of Tehran
+Author{4}{Firstname}#=%=#Azadeh
+Author{4}{Lastname}#=%=#Shakery
+Author{4}{Username}#=%=#shakery
+Author{4}{Email}#=%=#shakery@ut.ac.ir
+Author{4}{Affiliation}#=%=#University of Tehran
+
+==========

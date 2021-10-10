@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#2759
+FinalPaperTitle#=%=#Label Verbalization and Entailment for Effective Zero and Few-Shot Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Oscar Sainz
+JobTitle#==#
+Organization#==#HiTZ Basque Center for Language Technologies - Ixa NLP Group
+University of the Basque Country (UPV/EHU)
+Manuel Lardizabal Ibilbidea, 1, 20018 Donostia, Gipuzkoa, Spain
+Abstract#==#Relation extraction systems require large amounts of labeled examples which are costly to annotate. In this work we reformulate relation extraction as an entailment task, with simple, hand-made, verbalizations of relations produced in less than 15 min per relation. The system relies on a pretrained textual entailment engine which is run as-is (no training examples, zero-shot) or further fine-tuned on labeled examples (few-shot or fully trained). In our experiments on TACRED we attain 63% F1 zero-shot, 69% with 16 examples per relation (17% points better than the best supervised system on the same conditions), and only 4 points short to the state-of-the-art (which uses 20 times more training data). We also show that the performance can be improved significantly with larger entailment models, up to 12 points in zero-shot, allowing to report the best results to date on TACRED when fully trained. The analysis shows that our few-shot systems are specially effective when discriminating between relations, and that the performance difference in low data regimes comes mainly from identifying no-relation cases.
+Author{1}{Firstname}#=%=#Oscar
+Author{1}{Lastname}#=%=#Sainz
+Author{1}{Username}#=%=#osainz
+Author{1}{Email}#=%=#oscar.sainz@ehu.eus
+Author{1}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+Author{2}{Firstname}#=%=#Oier
+Author{2}{Lastname}#=%=#Lopez de Lacalle
+Author{2}{Username}#=%=#oierldl
+Author{2}{Email}#=%=#oier.lopezdelacalle@gmail.com
+Author{2}{Affiliation}#=%=#University of the Basque Country
+Author{3}{Firstname}#=%=#Gorka
+Author{3}{Lastname}#=%=#Labaka
+Author{3}{Username}#=%=#glabaka
+Author{3}{Email}#=%=#gorka.labaka@ehu.eus
+Author{3}{Affiliation}#=%=#HiTZ Center - Ixa, University of the Basque Country (UPV/EHU)
+Author{4}{Firstname}#=%=#Ander
+Author{4}{Lastname}#=%=#Barrena
+Author{4}{Username}#=%=#ander
+Author{4}{Email}#=%=#ander.barrena@ehu.eus
+Author{4}{Affiliation}#=%=#University of the Basque Country
+Author{5}{Firstname}#=%=#Eneko
+Author{5}{Lastname}#=%=#Agirre
+Author{5}{Username}#=%=#e.agirre
+Author{5}{Email}#=%=#e.agirre@ehu.eus
+Author{5}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+
+==========

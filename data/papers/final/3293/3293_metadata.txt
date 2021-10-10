@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#3293
+FinalPaperTitle#=%=#Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jianguo Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#In this work, we focus on a more challenging few-shot intent detection scenario where many intents are fine-grained and semantically similar. We present a simple yet effective few-shot intent detection schema via contrastive pre-training and fine-tuning. Specifically, we first conduct self-supervised contrastive pre-training on collected intent datasets, which implicitly learns to discriminate semantically similar utterances without using any labels. We then perform few-shot intent detection together with supervised contrastive learning, which explicitly pulls utterances from the same intent closer and pushes utterances across different intents farther.  Experimental results show that our proposed method achieves state-of-the-art performance on three challenging intent detection datasets under 5-shot and 10-shot settings.
+Author{1}{Firstname}#=%=#Jianguo
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#jianguozhang
+Author{1}{Email}#=%=#jzhan51@uic.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Trung
+Author{2}{Lastname}#=%=#Bui
+Author{2}{Username}#=%=#bhtrung
+Author{2}{Email}#=%=#bui@adobe.com
+Author{2}{Affiliation}#=%=#Adobe Research
+Author{3}{Firstname}#=%=#Seunghyun
+Author{3}{Lastname}#=%=#Yoon
+Author{3}{Username}#=%=#mysmilesh
+Author{3}{Email}#=%=#syoon@adobe.com
+Author{3}{Affiliation}#=%=#Adobe Research
+Author{4}{Firstname}#=%=#Xiang
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#chenxiang_adobe
+Author{4}{Email}#=%=#xiangche@adobe.com
+Author{4}{Affiliation}#=%=#Adobe Research
+Author{5}{Firstname}#=%=#Zhiwei
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#jim96liu
+Author{5}{Email}#=%=#zliu213@uic.edu
+Author{5}{Affiliation}#=%=#University of Illinois at Chicago
+Author{6}{Firstname}#=%=#Congying
+Author{6}{Lastname}#=%=#Xia
+Author{6}{Username}#=%=#sarahday
+Author{6}{Email}#=%=#cxia8@uic.edu
+Author{6}{Affiliation}#=%=#University of Illinois at Chicago
+Author{7}{Firstname}#=%=#Quan Hung
+Author{7}{Lastname}#=%=#Tran
+Author{7}{Username}#=%=#quanhungtran
+Author{7}{Email}#=%=#quanthdhcn@gmail.com
+Author{7}{Affiliation}#=%=#Adobe Research
+Author{8}{Firstname}#=%=#Walter
+Author{8}{Lastname}#=%=#Chang
+Author{8}{Username}#=%=#wachang
+Author{8}{Email}#=%=#wachang@adobe.com
+Author{8}{Affiliation}#=%=#Adobe Research
+Author{9}{Firstname}#=%=#Philip
+Author{9}{Lastname}#=%=#Yu
+Author{9}{Username}#=%=#philipsyu
+Author{9}{Email}#=%=#psyu@uic.edu
+Author{9}{Affiliation}#=%=#Universtiy of Illinois at Chicago
+
+==========

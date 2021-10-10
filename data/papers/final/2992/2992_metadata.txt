@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#2992
+FinalPaperTitle#=%=#How to Train BERT with an Academic Budget
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Peter Izsak
+JobTitle#==#
+Organization#==#
+Abstract#==#While large language models a la BERT are used ubiquitously in NLP, pretraining them is considered a luxury that only a few well-funded industry labs can afford.
+How can one train such models with a more modest budget?
+We present a recipe for pretraining a masked language model in 24 hours using a single low-end deep learning server.
+We demonstrate that through a combination of software optimizations, design choices, and hyperparameter tuning, it is possible to produce models that are competitive with BERT-base on GLUE tasks at a fraction of the original pretraining cost.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Izsak
+Author{1}{Username}#=%=#peterizsak-intel
+Author{1}{Email}#=%=#peter.izsak@intel.com
+Author{1}{Affiliation}#=%=#Intel Labs
+Author{2}{Firstname}#=%=#Moshe
+Author{2}{Lastname}#=%=#Berchansky
+Author{2}{Username}#=%=#mosheber
+Author{2}{Email}#=%=#screedo1997@gmail.com
+Author{2}{Affiliation}#=%=#Intel
+Author{3}{Firstname}#=%=#Omer
+Author{3}{Lastname}#=%=#Levy
+Author{3}{Username}#=%=#omerlevy
+Author{3}{Email}#=%=#omerlevy@gmail.com
+Author{3}{Affiliation}#=%=#Tel Aviv University
+
+==========

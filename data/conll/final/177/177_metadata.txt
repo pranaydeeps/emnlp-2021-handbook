@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#177
+FinalPaperTitle#=%=#A Large-scale Comprehensive Abusiveness Detection Dataset with Multifaceted Labels from Reddit
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hoyun Song
+JobTitle#==#
+Organization#==#
+Abstract#==#As users in online communities suffer from severe side effects of abusive language, many researchers attempted to detect abusive texts from social media, presenting several datasets for such detection.
+However, none of them contain both comprehensive labels and contextual information, which are essential for thoroughly detecting all kinds of abusiveness from texts, since datasets with such fine-grained features demand a significant amount of annotations, leading to much increased complexity. 
+In this paper, we propose a Comprehensive Abusiveness Detection Dataset (CADD), collected from the English Reddit posts, with multifaceted labels and contexts. Our dataset is annotated hierarchically for an efficient annotation through crowdsourcing on a large-scale.
+We also empirically explore the characteristics of our dataset and provide a detailed analysis for novel insights.
+The results of our experiments with strong pre-trained natural language understanding models on our dataset show that our dataset gives rise to meaningful performance, assuring its practicality for abusive language detection.
+Author{1}{Firstname}#=%=#Hoyun
+Author{1}{Lastname}#=%=#Song
+Author{1}{Username}#=%=#hysong1991
+Author{1}{Email}#=%=#hysong@nlp.kaist.ac.kr
+Author{1}{Affiliation}#=%=#KAIST
+Author{2}{Firstname}#=%=#Soo Hyun
+Author{2}{Lastname}#=%=#Ryu
+Author{2}{Username}#=%=#soohyun422
+Author{2}{Email}#=%=#soohyunr@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Huije
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#jae4258
+Author{3}{Email}#=%=#jae4258@nlp.kaist.ac.kr
+Author{3}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology (KAIST)
+Author{4}{Firstname}#=%=#Jong
+Author{4}{Lastname}#=%=#Park
+Author{4}{Username}#=%=#jongpark
+Author{4}{Email}#=%=#jongpark@kaist.ac.kr
+Author{4}{Affiliation}#=%=#KAIST
+
+==========

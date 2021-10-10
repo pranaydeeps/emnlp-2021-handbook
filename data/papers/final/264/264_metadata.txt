@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#264
+FinalPaperTitle#=%=#Learning Constraints and Descriptive Segmentation for Subevent Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haoyu Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Event mentions in text correspond to real-world events of varying degrees of granularity.
+The task of subevent detection aims to resolve this granularity issue, recognizing the membership of multi-granular events in event complexes. Since knowing the span of descriptive contexts of event complexes helps infer the membership of events, we propose the task of event-based text segmentation (EventSeg) as an auxiliary task to improve the learning for subevent detection. To bridge the two tasks together, we propose an approach to learning and enforcing constraints that capture dependencies between subevent detection and EventSeg prediction, as well as guiding the model to make globally consistent inference. Specifically, we adopt Rectifier Networks for constraint learning and then convert the learned constraints to a regularization term in the loss function of the neural model. Experimental results show that the proposed method outperforms baseline methods by 2.3% and 2.5% on benchmark datasets for subevent detection, HiEve and IC, respectively, while achieving a decent performance on EventSeg prediction.
+Author{1}{Firstname}#=%=#Haoyu
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#why2011btv
+Author{1}{Email}#=%=#why16gzl@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Hongming
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#hzhangal
+Author{2}{Email}#=%=#hzhangal@cse.ust.hk
+Author{2}{Affiliation}#=%=#HKUST
+Author{3}{Firstname}#=%=#Muhao
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#muhaochen
+Author{3}{Email}#=%=#muhaochen@ucla.edu
+Author{3}{Affiliation}#=%=#USC
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Roth
+Author{4}{Username}#=%=#danr
+Author{4}{Email}#=%=#danroth@seas.upenn.edu
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+
+==========

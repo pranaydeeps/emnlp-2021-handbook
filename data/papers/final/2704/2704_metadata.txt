@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#2704
+FinalPaperTitle#=%=#MeLT: Message-Level Transformer with Masked Document Representations as Pre-Training for Stance Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Matthew Matero
+JobTitle#==#
+Organization#==#Stony Brook University
+100 Nicolls Rd, Stony Brook, NY 11794
+Abstract#==#Much of natural language processing is focused on leveraging large capacity language models, typically trained over single messages with a task of predicting one or more tokens. However, modeling human language at higher-levels of context (i.e., sequences of messages) is under-explored. In stance detection and other social media tasks where the goal is to predict an attribute of a message, we have contextual data that is loosely semantically connected by authorship. Here, we introduce Message-Level Transformer (MeLT) --  a hierarchical message-encoder pre-trained over Twitter and applied to the task of stance prediction. 
+We focus on stance prediction as a task benefiting from knowing the context of the message (i.e., the sequence of previous messages). The model is trained using a variant of masked-language modeling; where instead of predicting tokens, it seeks to generate an entire masked (aggregated) message vector via reconstruction loss. We find that applying this pre-trained masked message-level transformer to the downstream task of stance detection achieves F1 performance of 67\%.
+Author{1}{Firstname}#=%=#Matthew
+Author{1}{Lastname}#=%=#Matero
+Author{1}{Username}#=%=#mmatero
+Author{1}{Email}#=%=#mmatero@cs.stonybrook.edu
+Author{1}{Affiliation}#=%=#Stony Brook University
+Author{2}{Firstname}#=%=#Nikita
+Author{2}{Lastname}#=%=#Soni
+Author{2}{Username}#=%=#nisoni
+Author{2}{Email}#=%=#nisoni@cs.stonybrook.edu
+Author{2}{Affiliation}#=%=#Stony Brook University
+Author{3}{Firstname}#=%=#Niranjan
+Author{3}{Lastname}#=%=#Balasubramanian
+Author{3}{Username}#=%=#niranjan
+Author{3}{Email}#=%=#niranjan@cs.stonybrook.edu
+Author{3}{Affiliation}#=%=#Stony Brook University
+Author{4}{Firstname}#=%=#H. Andrew
+Author{4}{Lastname}#=%=#Schwartz
+Author{4}{Username}#=%=#hansens
+Author{4}{Email}#=%=#has@cs.stonybrook.edu
+Author{4}{Affiliation}#=%=#Stony Brook University
+
+==========

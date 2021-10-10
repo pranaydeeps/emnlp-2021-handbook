@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2857
+FinalPaperTitle#=%=#Investigating Numeracy Learning Ability of a Text-to-Text Transfer Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Kuntal Kumar Pal
+JobTitle#==#
+Organization#==#
+Abstract#==#The transformer-based pre-trained language models have been tremendously successful in most of the conventional NLP tasks. But they often struggle in those tasks where numerical understanding is required. Some possible reasons can be the tokenizers and pre-training objectives which are not specifically designed to learn and preserve numeracy. Here we investigate the ability of text-to-text transfer learning model (T5), which has outperformed its predecessors in the conventional NLP tasks, to learn numeracy. We consider four numeracy tasks: numeration, magnitude order prediction, finding minimum and maximum in a series, and sorting. We find that, although T5 models perform reasonably well in the interpolation setting, they struggle considerably in the extrapolation setting across all four tasks.
+Author{1}{Firstname}#=%=#Kuntal Kumar
+Author{1}{Lastname}#=%=#Pal
+Author{1}{Username}#=%=#kuntalkumarpal
+Author{1}{Email}#=%=#kkpal@asu.edu
+Author{1}{Affiliation}#=%=#Arizona State University
+Author{2}{Firstname}#=%=#Chitta
+Author{2}{Lastname}#=%=#Baral
+Author{2}{Username}#=%=#chitta66
+Author{2}{Email}#=%=#chitta@asu.edu
+Author{2}{Affiliation}#=%=#Arizona State University
+
+==========

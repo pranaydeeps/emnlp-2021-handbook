@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4050
+FinalPaperTitle#=%=#Corpus-based Open-Domain Event Type Induction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Jiaming Shen
+JobTitle#==#
+Organization#==#
+Abstract#==#Traditional event extraction methods require predefined event types and their corresponding annotations to learn event extractors. These prerequisites are often hard to be satisfied in real-world applications. This work presents a corpus-based open-domain event type induction method that automatically discovers a set of event types from a given corpus. As events of the same type could be expressed in multiple ways, we propose to represent each event type as a cluster of <predicate sense, object head> pairs. Specifically, our method (1) selects salient predicates and object heads, (2) disambiguates predicate senses using only a verb sense dictionary, and (3) obtains event types by jointly embedding and clustering <predicate sense, object head> pairs in a latent spherical space. Our experiments, on three datasets from different domains, show our method can discover salient and high-quality event types, according to both automatic and human evaluations.
+Author{1}{Firstname}#=%=#Jiaming
+Author{1}{Lastname}#=%=#Shen
+Author{1}{Username}#=%=#mickeysjm
+Author{1}{Email}#=%=#js2@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Yunyi
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#yzhan238
+Author{2}{Email}#=%=#yzhan238@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois Urbana-Champaign
+Author{3}{Firstname}#=%=#Heng
+Author{3}{Lastname}#=%=#Ji
+Author{3}{Username}#=%=#hengjirpi
+Author{3}{Email}#=%=#hengji@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois at Urbana-Champaign and Amazon (Amazon Scholar)
+Author{4}{Firstname}#=%=#Jiawei
+Author{4}{Lastname}#=%=#Han
+Author{4}{Username}#=%=#hanj
+Author{4}{Email}#=%=#hanj@illinois.edu
+Author{4}{Affiliation}#=%=#UIUC
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1997
+FinalPaperTitle#=%=#Context-aware Entity Typing in Knowledge Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Weiran Pan
+JobTitle#==#
+Organization#==#
+Abstract#==#Knowledge graph entity typing aims to infer entities' missing types in knowledge graphs which is an important but under-explored issue. This paper proposes a novel method for this task by utilizing entities' contextual information. Specifically, we design two inference mechanisms: i) N2T: independently use each neighbor of an entity to infer its type; ii) Agg2T: aggregate the neighbors of an entity to infer its type. Those mechanisms will produce multiple inference results, and an exponentially weighted pooling method is used to generate the final inference result. Furthermore, we propose a novel loss function to alleviate the false-negative problem during training. Experiments on two real-world KGs demonstrate the effectiveness of our method. The source code and data of this paper can be obtained from https://github.com/CCIIPLab/CET.
+Author{1}{Firstname}#=%=#Weiran
+Author{1}{Lastname}#=%=#Pan
+Author{1}{Username}#=%=#alinton
+Author{1}{Email}#=%=#panwr789@gmail.com
+Author{1}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Wei
+Author{2}{Username}#=%=#eric_wei
+Author{2}{Email}#=%=#weiw@hust.edu.cn
+Author{2}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{3}{Firstname}#=%=#Xian-Ling
+Author{3}{Lastname}#=%=#Mao
+Author{3}{Username}#=%=#xianlingmao
+Author{3}{Email}#=%=#maoxl@bit.edu.cn
+Author{3}{Affiliation}#=%=#Beijing Institute of Technology
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1907
+FinalPaperTitle#=%=#On the Challenges of Evaluating Compositional Explanations in Multi-Hop Inference: Relevance, Completeness, and Expert Ratings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Peter Jansen
+JobTitle#==#Assistant Professor
+Organization#==#School of Information, University of Arizona, Tucson, AZ, USA.
+Abstract#==#Building compositional explanations requires models to combine two or more facts that, together, describe why the answer to a question is correct.  Typically, these "multi-hop" explanations are evaluated relative to one (or a small number of) gold explanations.  In this work, we show these evaluations substantially underestimate model performance, both in terms of the relevance of included facts, as well as the completeness of model-generated explanations, because models regularly discover and produce valid explanations that are different than gold explanations.  To address this, we construct a large corpus of 126k domain-expert (science teacher) relevance ratings that augment a corpus of explanations to standardized science exam questions, discovering 80k additional relevant facts not rated as gold.  We build three strong models based on different methodologies (generation, ranking, and schemas), and empirically show that while expert-augmented ratings provide better estimates of explanation quality, both original (gold) and expert-augmented automatic evaluations still substantially underestimate performance by up to 36% when compared with full manual expert judgements, with different models being disproportionately affected. This poses a significant methodological challenge to accurately evaluating explanations produced by compositional reasoning models.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Jansen
+Author{1}{Username}#=%=#pajansen
+Author{1}{Email}#=%=#pajansen@email.arizona.edu
+Author{1}{Affiliation}#=%=#University of Arizona
+Author{2}{Firstname}#=%=#Kelly J.
+Author{2}{Lastname}#=%=#Smith
+Author{2}{Email}#=%=#kjsmith22@email.arizona.edu
+Author{2}{Affiliation}#=%=#University of Arizona
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Moreno
+Author{3}{Email}#=%=#dmoreno13@email.arizona.edu
+Author{3}{Affiliation}#=%=#University of Arizona
+Author{4}{Firstname}#=%=#Huitzilin
+Author{4}{Lastname}#=%=#Ortiz
+Author{4}{Email}#=%=#huitzilin@email.arizona.edu
+Author{4}{Affiliation}#=%=#University of Arizona
+
+==========

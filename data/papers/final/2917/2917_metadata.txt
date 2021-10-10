@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2917
+FinalPaperTitle#=%=#Beyond the Tip of the Iceberg: Assessing Coherence of Text Classifiers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Shane Storks
+JobTitle#==#
+Organization#==#
+Abstract#==#As large-scale, pre-trained language models achieve human-level and superhuman accuracy on existing language understanding tasks, statistical bias in benchmark data and probing studies have recently called into question their true capabilities. For a more informative evaluation than accuracy on text classification tasks can offer, we propose evaluating systems through a novel measure of prediction coherence. We apply our framework to two existing language understanding benchmarks with different properties to demonstrate its versatility. Our experimental results show that this evaluation framework, although simple in ideas and implementation, is a quick, effective, and versatile measure to provide insight into the coherence of machines' predictions.
+Author{1}{Firstname}#=%=#Shane
+Author{1}{Lastname}#=%=#Storks
+Author{1}{Username}#=%=#shanestorks
+Author{1}{Email}#=%=#sstorks@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Joyce
+Author{2}{Lastname}#=%=#Chai
+Author{2}{Username}#=%=#jchai
+Author{2}{Email}#=%=#chaijy@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+
+==========

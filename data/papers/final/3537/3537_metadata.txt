@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3537
+FinalPaperTitle#=%=#Benchmarking Meta-embeddings: What Works and What Does Not
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Iker Garcia-Ferrero
+JobTitle#==#
+Organization#==#
+Abstract#==#In the last few years, several methods have been proposed to build meta-embeddings. The general aim was to obtain new representations integrating complementary knowledge from different source pre-trained embeddings thereby improving their overall quality. However, previous meta-embeddings have been evaluated using a variety of methods and datasets, which makes it difficult to draw meaningful conclusions regarding the merits of each approach. In this paper we propose a unified common framework, including both intrinsic and extrinsic tasks, for a fair and objective meta-embeddings evaluation. Furthermore, we present a new method to generate meta-embeddings, outperforming previous work on a large number of intrinsic evaluation benchmarks. Our evaluation framework also allows us to conclude that previous extrinsic evaluations of meta-embeddings have been overestimated.
+Author{1}{Firstname}#=%=#Iker
+Author{1}{Lastname}#=%=#García-Ferrero
+Author{1}{Username}#=%=#ikergarcia
+Author{1}{Email}#=%=#iker.garciaf@ehu.eus
+Author{1}{Affiliation}#=%=#HiTZ Center - Ixa, University of the Basque Country UPV/EHU
+Author{2}{Firstname}#=%=#Rodrigo
+Author{2}{Lastname}#=%=#Agerri
+Author{2}{Username}#=%=#ragerri
+Author{2}{Email}#=%=#rodrigo.agerri@ehu.eus
+Author{2}{Affiliation}#=%=#HiTZ Center - Ixa, University of the Basque Country UPV/EHU
+Author{3}{Firstname}#=%=#German
+Author{3}{Lastname}#=%=#Rigau
+Author{3}{Username}#=%=#german.rigau
+Author{3}{Email}#=%=#german.rigau@ehu.es
+Author{3}{Affiliation}#=%=#UPV/EHU
+
+==========

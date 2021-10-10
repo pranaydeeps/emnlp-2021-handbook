@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#2489
+FinalPaperTitle#=%=#DialogueTRM: Exploring Multi-Modal Emotional Dynamics in a Conversation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuzhao Mao
+JobTitle#==#
+Organization#==#
+Abstract#==#Emotion dynamics formulates principles explaining the emotional fluctuation during conversations. Recent studies explore the emotion dynamics from the self and inter-personal dependencies, however, ignoring the temporal and spatial dependencies in the situation of multi-modal conversations. To address the issue, we extend the concept of emotion dynamics to multi-modal settings and propose a Dialogue Transformer for simultaneously modeling the intra-modal and inter-modal emotion dynamics. Specifically, the intra-modal emotion dynamics is to not only capture the temporal dependency but also satisfy the context preference in every single modality. The inter-modal emotional dynamics aims at handling multi-grained spatial dependency across all modalities. Our models outperform the state-of-the-art with a margin of 4\%-16\% for most of the metrics on three benchmark datasets.
+Author{1}{Firstname}#=%=#yuzhao
+Author{1}{Lastname}#=%=#mao
+Author{1}{Username}#=%=#maoyuzhao
+Author{1}{Email}#=%=#maoyuzhao@126.com
+Author{1}{Affiliation}#=%=#Pingan Life Insurance of China
+Author{2}{Firstname}#=%=#Guang
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liuguang230@pingan.com.cn
+Author{2}{Affiliation}#=%=#Pingan Life Insurance of China
+Author{3}{Firstname}#=%=#Xiaojie
+Author{3}{Lastname}#=%=#WANG
+Author{3}{Username}#=%=#xjwang
+Author{3}{Email}#=%=#xjwang@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Weiguo
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Email}#=%=#gaoweiguo801@pingan.com.cn
+Author{4}{Affiliation}#=%=#Pingan Life Insurance of China
+Author{5}{Firstname}#=%=#Xuan
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#lixuan208@pingan.com.cn
+Author{5}{Affiliation}#=%=#Pingan Life Insurance of China
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#74
+FinalPaperTitle#=%=#Probing Language Models for Understanding of Temporal Expressions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shivin Thukral
+JobTitle#==#
+Organization#==#University of Washington
+Seattle, WA, USA
+Abstract#==#We present three Natural Language Inference (NLI) challenge sets that can evaluate NLI models on their understanding of temporal expressions. More specifically, we probe these models for three temporal properties: (a) the order between points in time, (b) the duration between two points in time, (c) the relation between the magnitude of times specified in different units. We find that although large language models fine-tuned on MNLI have some basic perception of the order between points in time, at large, these models do not have a thorough understanding of the relation between temporal expressions.
+Author{1}{Firstname}#=%=#Shivin
+Author{1}{Lastname}#=%=#Thukral
+Author{1}{Username}#=%=#shivin7
+Author{1}{Email}#=%=#shivin7@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Kunal
+Author{2}{Lastname}#=%=#Kukreja
+Author{2}{Username}#=%=#kunalkukreja
+Author{2}{Email}#=%=#kkukreja@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Christian
+Author{3}{Lastname}#=%=#Kavouras
+Author{3}{Username}#=%=#cdkavour
+Author{3}{Email}#=%=#cdkavour@uw.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

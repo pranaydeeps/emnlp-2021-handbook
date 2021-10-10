@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#370
+FinalPaperTitle#=%=#{WHOS}e {H}eritage: {C}lassification of {UNESCO} {W}orld {H}eritage Statements of "{O}utstanding {U}niversal {V}alue" with Soft Labels
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Nan Bai
+JobTitle#==#
+Organization#==#
+Abstract#==#The UNESCO World Heritage List (WHL) includes the exceptionally valuable cultural and natural heritage to be preserved for mankind. Evaluating and justifying the Outstanding Universal Value (OUV) is essential for each site inscribed in the WHL, and yet a complex task, even for experts, since the selection criteria of OUV are not mutually exclusive. Furthermore, manual annotation of heritage values and attributes from multi-source textual data, which is currently dominant in heritage studies, is knowledge-demanding and time-consuming, impeding systematic analysis of such authoritative documents in terms of their implications on heritage management. This study applies state-of-the-art NLP models to build a classifier on a new dataset containing Statements of OUV, seeking an explainable and scalable automation tool to facilitate the nomination, evaluation, research, and monitoring processes of World Heritage sites. Label smoothing is innovatively adapted to improve the model performance by adding prior inter-class relationship knowledge to generate soft labels. The study shows that the best models fine-tuned from BERT and ULMFiT can reach 94.3% top-3 accuracy. A human study with expert evaluation on the model prediction shows that the models are sufficiently generalizable. The study is promising to be further developed and applied in heritage research and practice.
+Author{1}{Firstname}#=%=#Nan
+Author{1}{Lastname}#=%=#Bai
+Author{1}{Username}#=%=#zzbn12345
+Author{1}{Email}#=%=#n.bai@tudelft.nl
+Author{1}{Affiliation}#=%=#TU Delft
+Author{2}{Firstname}#=%=#Renqian
+Author{2}{Lastname}#=%=#Luo
+Author{2}{Username}#=%=#alexinc
+Author{2}{Email}#=%=#renqianluo@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Pirouz
+Author{3}{Lastname}#=%=#Nourian
+Author{3}{Username}#=%=#pirouz
+Author{3}{Email}#=%=#p.nourian@tudelft.nl
+Author{3}{Affiliation}#=%=#TU Delft
+Author{4}{Firstname}#=%=#Ana
+Author{4}{Lastname}#=%=#Pereira Roders
+Author{4}{Username}#=%=#apereiraroders
+Author{4}{Email}#=%=#a.r.pereira-roders@tudelft.nl
+Author{4}{Affiliation}#=%=#Delft University of Technology
+
+==========

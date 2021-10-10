@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#792
+FinalPaperTitle#=%=#Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Zeyu Li
+JobTitle#==#
+Organization#==#Department of Computer Science
+UCLA, Los Angeles, CA 90095
+Abstract#==#Compliments and concerns in reviews are valuable for understanding users' shopping interests and their opinions with respect to specific aspects of certain items. Existing review-based recommenders favor large and complex language encoders that can only learn latent and uninterpretable text representations. They lack explicit user-attention and item-property modeling, which however could provide valuable information beyond the ability to recommend items. Therefore, we propose a tightly coupled two-stage approach, including an Aspect-Sentiment Pair Extractor (ASPE) and an Attention-Property-aware Rating Estimator (APRE). Unsupervised ASPE mines Aspect-Sentiment pairs (AS-pairs) and APRE predicts ratings using AS-pairs as concrete aspect-level evidences. Extensive experiments on seven real-world Amazon Review Datasets demonstrate that ASPE can effectively extract AS-pairs which enable APRE to deliver superior accuracy over the leading baselines.
+Author{1}{Firstname}#=%=#Zeyu
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#zeyuli
+Author{1}{Email}#=%=#zyli@cs.ucla.edu
+Author{1}{Affiliation}#=%=#UCLA
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Cheng
+Author{2}{Username}#=%=#chengw07
+Author{2}{Email}#=%=#weicheng@nec-labs.com
+Author{2}{Affiliation}#=%=#NEC Labs America
+Author{3}{Firstname}#=%=#Reema
+Author{3}{Lastname}#=%=#Kshetramade
+Author{3}{Email}#=%=#reemakshe@g.ucla.edu
+Author{3}{Affiliation}#=%=#UCLA
+Author{4}{Firstname}#=%=#John
+Author{4}{Lastname}#=%=#Houser
+Author{4}{Email}#=%=#johnhouser@g.ucla.edu
+Author{4}{Affiliation}#=%=#UCLA
+Author{5}{Firstname}#=%=#Haifeng
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Username}#=%=#haifengchen
+Author{5}{Email}#=%=#haifeng@nec-labs.com
+Author{5}{Affiliation}#=%=#NEC Labs America
+Author{6}{Firstname}#=%=#Wei
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Username}#=%=#weiwangucla
+Author{6}{Email}#=%=#weiwang@cs.ucla.edu
+Author{6}{Affiliation}#=%=#UCLA
+
+==========

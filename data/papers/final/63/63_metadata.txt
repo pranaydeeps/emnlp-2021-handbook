@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#63
+FinalPaperTitle#=%=#Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Raksha Shenoy
+JobTitle#==#
+Organization#==#
+Abstract#==#Compared to fully manual translation, post-editing (PE) machine translation (MT) output can save time and reduce errors. Automatic word-level quality estimation (QE) aims to predict the correctness of words in MT output and holds great promise to aid PE by flagging problematic output. Quality of QE is crucial, as incorrect QE might lead to translators missing errors or wasting time on already correct MT output. Achieving accurate automatic word-level QE is very hard, and it is currently not known (i) at what quality threshold QE is actually beginning to be useful for human PE, and (ii), how to best present word-level QE information to translators. In particular, should word-level QE visualization indicate uncertainty of the QE model or not? In this paper, we address both research questions with real and simulated word-level QE, visualizations, and user studies, where time, subjective ratings, and quality of the final translations are assessed. Results show that current word-level QE models are not yet good enough to support PE. Instead, quality levels of > 80% F1 are required. For helpful quality levels, a visualization reflecting the uncertainty of the QE model is preferred. Our analysis further shows that speed gains achieved through QE are not merely a result of blindly trusting the QE system, but that the quality of the final translations also improves. The threshold results from the paper establish a quality goal for future word-level QE research.
+Author{1}{Firstname}#=%=#Raksha
+Author{1}{Lastname}#=%=#Shenoy
+Author{1}{Username}#=%=#raksha94
+Author{1}{Email}#=%=#rakshamanel08shenoy@gmail.com
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Nico
+Author{2}{Lastname}#=%=#Herbig
+Author{2}{Username}#=%=#nicoherbig
+Author{2}{Email}#=%=#nico.herbig@dfki.de
+Author{2}{Affiliation}#=%=#German Research Center for Artificial Intelligence (DFKI), Saarland Informatics Campus
+Author{3}{Firstname}#=%=#Antonio
+Author{3}{Lastname}#=%=#Krüger
+Author{3}{Username}#=%=#antoniokrueger
+Author{3}{Email}#=%=#krueger@dfki.de
+Author{3}{Affiliation}#=%=#German Research Center for Artificial Intelligence (DFKI), Saarland Informatics Campus
+Author{4}{Firstname}#=%=#Josef
+Author{4}{Lastname}#=%=#van Genabith
+Author{4}{Username}#=%=#josefvangenabith
+Author{4}{Email}#=%=#josef.van_genabith@dfki.de
+Author{4}{Affiliation}#=%=#DFKI
+
+==========

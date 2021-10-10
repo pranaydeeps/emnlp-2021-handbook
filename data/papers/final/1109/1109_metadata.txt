@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1109
+FinalPaperTitle#=%=#Learning to Answer Psychological Questionnaire for Personality Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Feifan Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#Existing text-based personality detection research mostly relies on data-driven approaches to implicitly capture personality cues in online posts, lacking the guidance of psychological knowledge. Psychological questionnaire, which contains a series of dedicated questions highly related to personality traits, plays a critical role in self-report personality assessment. We argue that the posts created by a user contain critical contents that could help answer the questions in a questionnaire, resulting in an assessment of his personality by linking the texts and the questionnaire. To this end, we propose a new model named Psychological Questionnaire enhanced Network (PQ-Net) to guide personality detection by tracking critical information in texts with a questionnaire. Specifically, PQ-Net contains two streams: a context stream to encode each piece of text into a contextual text representation, and a questionnaire stream to capture relevant information in the contextual text representation to generate potential answer representations for a questionnaire. The potential answer representations are used to enhance the contextual text representation and to benefit personality prediction. Experimental results on two datasets demonstrate the superiority of PQ-Net in capturing useful cues from the posts for personality detection.
+Author{1}{Firstname}#=%=#Feifan
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#yangff
+Author{1}{Email}#=%=#yangff6@mail2.sysu.edu.cn
+Author{1}{Affiliation}#=%=#School of Computer Science and Engineering, Sun Yat-Sen University
+Author{2}{Firstname}#=%=#Tao
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#yangt225
+Author{2}{Email}#=%=#yangt225@mail2.sysu.edu.cn
+Author{2}{Affiliation}#=%=#School of Computer Science and Engineering, Sun Yat-Sen University
+Author{3}{Firstname}#=%=#Xiaojun
+Author{3}{Lastname}#=%=#Quan
+Author{3}{Username}#=%=#passerqxj2
+Author{3}{Email}#=%=#quanxj3@mail.sysu.edu.cn
+Author{3}{Affiliation}#=%=#School of Computer Science and Engineering, Sun Yat-sen University
+Author{4}{Firstname}#=%=#Qinliang
+Author{4}{Lastname}#=%=#Su
+Author{4}{Username}#=%=#qinliangsu
+Author{4}{Email}#=%=#suqliang@mail.sysu.edu.cn
+Author{4}{Affiliation}#=%=#Sun Yat-sen University
+
+==========

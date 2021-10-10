@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#2920
+FinalPaperTitle#=%=#End-to-End Entity Resolution and Question Answering Using Differentiable Knowledge Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Priyanka Sen
+JobTitle#==#
+Organization#==#
+Abstract#==#Recently, end-to-end (E2E) trained models for question answering over knowledge graphs (KGQA) have delivered promising results using only a weakly supervised dataset. However, these models are trained and evaluated in a setting where hand-annotated question entities are supplied to the model, leaving the important and non-trivial task of entity resolution (ER) outside the scope of E2E learning. In this work, we extend the boundaries of E2E learning for KGQA to include the training of an ER component. Our model only needs the question text and the answer entities to train, and delivers a stand-alone QA model that does not require an additional ER component to be supplied during runtime. Our approach is fully differentiable, thanks to its reliance on a recent method for building differentiable KGs (Cohen et al., 2020). We evaluate our E2E trained model on two public datasets and show that it comes close to baseline models that use hand-annotated entities.
+Author{1}{Firstname}#=%=#Amir
+Author{1}{Lastname}#=%=#Saffari
+Author{1}{Email}#=%=#amsafari@amazon.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Armin
+Author{2}{Lastname}#=%=#Oliya
+Author{2}{Username}#=%=#aooliya
+Author{2}{Email}#=%=#armin.oliya@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Priyanka
+Author{3}{Lastname}#=%=#Sen
+Author{3}{Username}#=%=#priyankasen
+Author{3}{Email}#=%=#sepriyan@amazon.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Tom
+Author{4}{Lastname}#=%=#Ayoola
+Author{4}{Email}#=%=#tayoola@amazon.com
+Author{4}{Affiliation}#=%=#Amazon
+
+==========

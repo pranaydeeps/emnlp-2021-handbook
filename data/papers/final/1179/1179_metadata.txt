@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1179
+FinalPaperTitle#=%=#RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yuchen Lin
+JobTitle#==#
+Organization#==#Yuchen Lin, USC, Los Angeles, CA, 90007
+Abstract#==#To audit the robustness of named entity recognition (NER) models, we propose RockNER, a simple yet effective method to create natural adversarial examples. Specifically, at the entity level, we replace target entities with other entities of the same semantic class in Wikidata; at the context level, we use pre-trained language models (e.g., BERT) to generate word substitutions. Together, the two levels of at- tack produce natural adversarial examples that result in a shifted distribution from the training data on which our target models have been trained. We apply the proposed method to the OntoNotes dataset and create a new benchmark named OntoRock for evaluating the robustness of existing NER models via a systematic evaluation protocol. Our experiments and analysis reveal that even the best model has a significant performance drop, and these models seem to memorize in-domain entity patterns instead of reasoning from the context. Our work also studies the effects of a few simple data augmentation methods to improve the robustness of NER models.
+Author{1}{Firstname}#=%=#Bill Yuchen
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#yuchenlin
+Author{1}{Email}#=%=#yuchen.lin@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Wenyang
+Author{2}{Lastname}#=%=#Gao
+Author{2}{Username}#=%=#wygao8
+Author{2}{Email}#=%=#wenyangg@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Jun
+Author{3}{Lastname}#=%=#Yan
+Author{3}{Username}#=%=#yanjun
+Author{3}{Email}#=%=#yanjun@usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+Author{4}{Firstname}#=%=#Ryan
+Author{4}{Lastname}#=%=#Moreno
+Author{4}{Username}#=%=#morenor
+Author{4}{Email}#=%=#rrmoreno@wisc.edu
+Author{4}{Affiliation}#=%=#University of Wisconsin-Madison
+Author{5}{Firstname}#=%=#Xiang
+Author{5}{Lastname}#=%=#Ren
+Author{5}{Username}#=%=#xren7
+Author{5}{Email}#=%=#xiangren@usc.edu
+Author{5}{Affiliation}#=%=#University of Southern California
+
+==========

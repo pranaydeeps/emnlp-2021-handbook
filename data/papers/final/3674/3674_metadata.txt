@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3674
+FinalPaperTitle#=%=#Subformer: Exploring Weight Sharing for Parameter Efficiency in Generative Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Machel Reid
+JobTitle#==#
+Organization#==#
+Abstract#==#Transformers have shown improved performance when compared to previous architectures for sequence processing such as RNNs. Despite their sizeable performance gains, as recently suggested, the model is computationally expensive to train and with a high parameter budget. In light of this, we explore parameter-sharing methods in Transformers with a specific focus on generative models. We perform an analysis of different parameter sharing/reduction methods and develop the Subformer. Our model combines sandwich-style parameter sharing, which overcomes naive cross-layer parameter sharing in generative models, and self-attentive embedding factorization (SAFE). Experiments on machine translation, abstractive summarization and language modeling show that the Subformer can outperform the Transformer even when using significantly fewer parameters.
+Author{1}{Firstname}#=%=#Machel
+Author{1}{Lastname}#=%=#Reid
+Author{1}{Username}#=%=#machelreid
+Author{1}{Email}#=%=#machelreid@weblab.t.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Edison
+Author{2}{Lastname}#=%=#Marrese-Taylor
+Author{2}{Username}#=%=#emarrese
+Author{2}{Email}#=%=#emarrese@weblab.t.u-tokyo.ac.jp
+Author{2}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology (AIST)
+Author{3}{Firstname}#=%=#Yutaka
+Author{3}{Lastname}#=%=#Matsuo
+Author{3}{Username}#=%=#matsuo
+Author{3}{Email}#=%=#matsuo@weblab.t.u-tokyo.ac.jp
+Author{3}{Affiliation}#=%=#University of Tokyo
+
+==========

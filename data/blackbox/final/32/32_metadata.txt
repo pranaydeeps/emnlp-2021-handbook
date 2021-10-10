@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#Enhancing Interpretable Clauses Semantically using Pretrained Word Representation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Rohan Kumar Yadav
+JobTitle#==#
+Organization#==#
+Abstract#==#Tsetlin Machine (TM) is an interpretable pattern recognition algorithm based on propositional logic, which has demonstrated competitive performance in many Natural Language Processing (NLP) tasks, including sentiment analysis, text classification, and Word Sense Disambiguation.  To obtain human-level interpretability, legacy TM employs Boolean input features such as bag-of-words (BOW). However, the BOW  representation makes it difficult to use any pre-trained information, for instance, word2vec and GloVe word representations. This restriction has constrained the performance of TM compared to deep neural networks (DNNs) in NLP. To reduce the performance gap, in this paper, we propose a novel way of using pre-trained word representations for TM. The approach significantly enhances the performance and interpretability of TM. We achieve this by extracting semantically related words from pre-trained word representations as input features to the TM. Our experiments show that the accuracy of the proposed approach is significantly higher than the previous BOW-based TM, reaching the level of DNN-based models.
+Author{1}{Firstname}#=%=#Rohan Kumar
+Author{1}{Lastname}#=%=#Yadav
+Author{1}{Username}#=%=#errohan
+Author{1}{Email}#=%=#rohan.k.yadav@uia.no
+Author{1}{Affiliation}#=%=#University of Agder
+Author{2}{Firstname}#=%=#Lei
+Author{2}{Lastname}#=%=#Jiao
+Author{2}{Username}#=%=#superjolly
+Author{2}{Email}#=%=#lei.jiao@uia.no
+Author{2}{Affiliation}#=%=#University of Agder
+Author{3}{Firstname}#=%=#Ole-Christoffer
+Author{3}{Lastname}#=%=#Granmo
+Author{3}{Username}#=%=#ole.granmo
+Author{3}{Email}#=%=#ole.granmo@uia.no
+Author{3}{Affiliation}#=%=#Centre for Artificial Intelligence Research
+Author{4}{Firstname}#=%=#Morten
+Author{4}{Lastname}#=%=#Goodwin
+Author{4}{Username}#=%=#mortengoodwin
+Author{4}{Email}#=%=#morten.goodwin@uia.no
+Author{4}{Affiliation}#=%=#University of Agder
+
+==========

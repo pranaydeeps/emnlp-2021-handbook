@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#283
+FinalPaperTitle#=%=#WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Junjie Huang
+JobTitle#==#
+Organization#==#
+Abstract#==#Producing the embedding of a sentence in anunsupervised way is valuable to natural language matching and retrieval problems in practice. In this work, we conduct a thorough examination of pretrained model based unsupervised sentence embeddings. We study on fourpretrained models and conduct massive experiments on seven datasets regarding sentence semantics. We have three main findings. First, averaging all tokens is better than only using [CLS] vector. Second, combining both topand bottom layers is better than only using toplayers. Lastly, an easy whitening-based vector normalization strategy with less than 10 linesof code consistently boosts the performance. The whole project including codes and data is publicly available at \url{https://github.com/Jun-jie-Huang/WhiteningBERT}.
+Author{1}{Firstname}#=%=#Junjie
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#junjiehuang_cn
+Author{1}{Email}#=%=#junjayhuang@outlook.com
+Author{1}{Affiliation}#=%=#Beihang University
+Author{2}{Firstname}#=%=#Duyu
+Author{2}{Lastname}#=%=#Tang
+Author{2}{Username}#=%=#dytang
+Author{2}{Email}#=%=#tangduyu.nlp@hotmail.com
+Author{2}{Affiliation}#=%=#Tencent
+Author{3}{Firstname}#=%=#Wanjun
+Author{3}{Lastname}#=%=#Zhong
+Author{3}{Username}#=%=#wanjunzhong
+Author{3}{Email}#=%=#zhongwj25@mail2.sysu.edu.cn
+Author{3}{Affiliation}#=%=#Sun Yat-Sen University
+Author{4}{Firstname}#=%=#Shuai
+Author{4}{Lastname}#=%=#Lu
+Author{4}{Username}#=%=#shuai
+Author{4}{Email}#=%=#lushuai96@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Linjun
+Author{5}{Lastname}#=%=#Shou
+Author{5}{Username}#=%=#linjunshou
+Author{5}{Email}#=%=#lisho@microsoft.com
+Author{5}{Affiliation}#=%=#STCA NLP Group, Microsoft
+Author{6}{Firstname}#=%=#Ming
+Author{6}{Lastname}#=%=#Gong
+Author{6}{Username}#=%=#yiming1013
+Author{6}{Email}#=%=#migon@microsoft.com
+Author{6}{Affiliation}#=%=#STCA NLP Group, Microsoft (China)
+Author{7}{Firstname}#=%=#Daxin
+Author{7}{Lastname}#=%=#Jiang
+Author{7}{Username}#=%=#djiang
+Author{7}{Email}#=%=#djiang@microsoft.com
+Author{7}{Affiliation}#=%=#STCA NLP Group, Microsoft
+Author{8}{Firstname}#=%=#Nan
+Author{8}{Lastname}#=%=#Duan
+Author{8}{Username}#=%=#nanduan
+Author{8}{Email}#=%=#nanduan@microsoft.com
+Author{8}{Affiliation}#=%=#Microsoft Research Asia
+
+==========

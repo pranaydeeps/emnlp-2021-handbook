@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3760
+FinalPaperTitle#=%=#HyperExpan: Taxonomy Expansion with Hyperbolic Representation Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Mingyu Derek Ma
+JobTitle#==#
+Organization#==#University of California, Los Angeles
+404 Westwood Plaza, Los Angeles, CA 90095, United States
+Abstract#==#Taxonomies are valuable resources for many applications, but the limited coverage due to the expensive manual curation process hinders their general applicability. Prior works attempt to automatically expand existing taxonomies to improve their coverage by learning concept embeddings in Euclidean space, while taxonomies, inherently hierarchical, more naturally align with the geometric properties of a hyperbolic space. In this paper, we present HyperExpan, a taxonomy expansion algorithm that seeks to preserve the structure of a taxonomy in a more expressive hyperbolic embedding space and learn to represent concepts and their relations with a Hyperbolic Graph Neural Network (HGNN). Specifically, HyperExpan leverages position embeddings to exploit the structure of the existing taxonomies, and characterizes the concept profile information to support the inference on new concepts that are unseen during training. Experiments show that our proposed HyperExpan outperforms baseline models with representation learning in a Euclidean feature space and achieves state-of-the-art performance on the taxonomy expansion benchmarks.
+Author{1}{Firstname}#=%=#Mingyu Derek
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Username}#=%=#mingyuma
+Author{1}{Email}#=%=#mdma@ucla.edu
+Author{1}{Affiliation}#=%=#UCLA
+Author{2}{Firstname}#=%=#Muhao
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#muhaochen
+Author{2}{Email}#=%=#muhaochen@ucla.edu
+Author{2}{Affiliation}#=%=#USC
+Author{3}{Firstname}#=%=#Te-Lin
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Username}#=%=#telinwu
+Author{3}{Email}#=%=#telinwu@g.ucla.edu
+Author{3}{Affiliation}#=%=#University of California, Los Angeles
+Author{4}{Firstname}#=%=#Nanyun
+Author{4}{Lastname}#=%=#Peng
+Author{4}{Username}#=%=#npeng
+Author{4}{Email}#=%=#violetpeng@cs.ucla.edu
+Author{4}{Affiliation}#=%=#University of California, Los Angeles
+
+==========

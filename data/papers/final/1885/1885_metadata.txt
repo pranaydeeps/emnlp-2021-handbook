@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1885
+FinalPaperTitle#=%=#Unsupervised Paraphrasing with Pretrained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Tong Niu
+JobTitle#==#
+Organization#==#Salesforce Research, 575 High St, Palo Alto, CA 94301
+Abstract#==#Paraphrase generation has benefited extensively from recent progress in the designing of training objectives and model architectures. However, previous explorations have largely focused on supervised methods, which require a large amount of labeled data that is costly to collect. To address this drawback, we adopt a transfer learning approach and propose a training pipeline that enables pre-trained language models to generate high-quality paraphrases in an unsupervised setting. Our recipe consists of task-adaptation, self-supervision, and a novel decoding algorithm named Dynamic Blocking (DB). To enforce a surface form dissimilar from the input, whenever the language model emits a token contained in the source sequence, DB prevents the model from outputting the subsequent source token for the next generation step. We show with automatic and human evaluations that our approach achieves state-of-the-art performance on both the Quora Question Pair (QQP) and the ParaNMT datasets and is robust to domain shift between the two datasets of distinct distributions. We also demonstrate that our model transfers to paraphrasing in other languages without any additional finetuning.
+Author{1}{Firstname}#=%=#Tong
+Author{1}{Lastname}#=%=#Niu
+Author{1}{Username}#=%=#mrnt0810
+Author{1}{Email}#=%=#tniu@salesforce.com
+Author{1}{Affiliation}#=%=#Salesforce Research
+Author{2}{Firstname}#=%=#Semih
+Author{2}{Lastname}#=%=#Yavuz
+Author{2}{Username}#=%=#syavuz
+Author{2}{Email}#=%=#syavuz@salesforce.com
+Author{2}{Affiliation}#=%=#Salesforce Research
+Author{3}{Firstname}#=%=#Yingbo
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Username}#=%=#yingbo.zhou
+Author{3}{Email}#=%=#yingbo.zhou@salesforce.com
+Author{3}{Affiliation}#=%=#Salesforce Research
+Author{4}{Firstname}#=%=#Nitish Shirish
+Author{4}{Lastname}#=%=#Keskar
+Author{4}{Username}#=%=#keskarnitish
+Author{4}{Email}#=%=#keskar.nitish@u.northwestern.edu
+Author{4}{Affiliation}#=%=#Salesforce Research
+Author{5}{Firstname}#=%=#Huan
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Username}#=%=#joyousprince
+Author{5}{Email}#=%=#joyousprince@gmail.com
+Author{5}{Affiliation}#=%=#Salesforce Research
+Author{6}{Firstname}#=%=#Caiming
+Author{6}{Lastname}#=%=#Xiong
+Author{6}{Username}#=%=#cxiong
+Author{6}{Email}#=%=#cmxiong.lhi@gmail.com
+Author{6}{Affiliation}#=%=#Salesforce
+
+==========

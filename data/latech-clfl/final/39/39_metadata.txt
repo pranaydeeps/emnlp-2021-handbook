@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#The diffusion of scientific terms -- tracing individuals' influence in the history of science for English
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Stefania Degaetano-Ortlieb
+JobTitle#==#
+Organization#==#Language Science and Technology, Saarland University, 66123 Saarbrücken
+Abstract#==#Tracing the influence of individuals or groups
+in social networks is an increasingly popular
+task in sociolinguistic studies. While methods
+to determine someone’s influence in shortterm
+contexts (e.g., social media, on-line political
+debates) are widespread, influence in longterm
+contexts is less investigated and may be
+harder to capture. We study the diffusion of
+scientific terms in an English diachronic scientific
+corpus, applying Hawkes Processes to
+capture the role of individual scientists as "influencers"
+or "influencees" in the diffusion of
+new concepts. Our findings on two major
+scientific discoveries in chemistry and astronomy
+of the 18th century reveal that modelling
+both the introduction and diffusion of scientific
+terms in a historical corpus as Hawkes Processes
+allows detecting patterns of influence
+between authors on a long-term scale.
+Author{1}{Firstname}#=%=#Yuri
+Author{1}{Lastname}#=%=#Bizzoni
+Author{1}{Username}#=%=#yub
+Author{1}{Email}#=%=#yuri.bizzoni@uni-saarland.de
+Author{1}{Affiliation}#=%=#University of Saarland
+Author{2}{Firstname}#=%=#Stefania
+Author{2}{Lastname}#=%=#Degaetano-Ortlieb
+Author{2}{Username}#=%=#degaetano
+Author{2}{Email}#=%=#s.degaetano@mx.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Katrin
+Author{3}{Lastname}#=%=#Menzel
+Author{3}{Username}#=%=#k.menzel
+Author{3}{Email}#=%=#k.menzel@mx.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University, Department of Language Science and Technology
+Author{4}{Firstname}#=%=#Elke
+Author{4}{Lastname}#=%=#Teich
+Author{4}{Username}#=%=#e.teich
+Author{4}{Email}#=%=#e.teich@mx.uni-saarland.de
+Author{4}{Affiliation}#=%=#Universität des Saarlandes
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1055
+FinalPaperTitle#=%=#Scalable Font Reconstruction with Dual Latent Manifolds
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Nikita Srivatsan
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a deep generative model that performs typography analysis and font reconstruction by learning disentangled manifolds of both font style and character shape. Our approach enables us to massively scale up the number of character types we can effectively model compared to previous methods. Specifically, we infer separate latent variables representing character and font via a pair of inference networks which take as input sets of glyphs that either all share a character type, or belong to the same font. This design allows our model to generalize to characters that were not observed during training time, an important task in light of the relative sparsity of most fonts. We also put forward a new loss, adapted from prior work that measures likelihood using an adaptive distribution in a projected space, resulting in more natural images without requiring a discriminator. We evaluate on the task of font reconstruction over various datasets representing character types of many languages, and compare favorably to modern style transfer systems according to both automatic and manually-evaluated metrics.
+Author{1}{Firstname}#=%=#Nikita
+Author{1}{Lastname}#=%=#Srivatsan
+Author{1}{Username}#=%=#nikitasrivatsan
+Author{1}{Email}#=%=#nsrivats@cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Si
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#siwu
+Author{2}{Email}#=%=#siwu@ccs.neu.edu
+Author{2}{Affiliation}#=%=#Northeastern University
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Barron
+Author{3}{Username}#=%=#jonbarron
+Author{3}{Email}#=%=#jonbarron@gmail.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Taylor
+Author{4}{Lastname}#=%=#Berg-Kirkpatrick
+Author{4}{Username}#=%=#tberg
+Author{4}{Email}#=%=#tberg@eng.ucsd.edu
+Author{4}{Affiliation}#=%=#University of California San Diego
+
+==========

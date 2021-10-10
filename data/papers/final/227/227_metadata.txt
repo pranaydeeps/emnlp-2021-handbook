@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#227
+FinalPaperTitle#=%=#Meta-LMTC: Meta-Learning for Large-Scale Multi-Label Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Ran Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Large-scale multi-label text classification (LMTC) tasks often face long-tailed label distributions, where many labels have few or even no training instances. Although current methods can exploit prior knowledge to handle these few/zero-shot labels, they neglect the meta-knowledge contained in the dataset that can guide models to learn with few samples. In this paper, for the first time, this problem is addressed from a meta-learning perspective. However, the simple extension of meta-learning approaches to multi-label classification is sub-optimal for LMTC tasks due to long-tailed label distribution and coexisting of few- and zero-shot scenarios. We propose a meta-learning approach named META-LMTC. Specifically, it constructs more faithful and more diverse tasks according to well-designed sampling strategies and directly incorporates the objective of adapting to new low-resource tasks into the meta-learning phase. Extensive experiments show that META-LMTC achieves state-of-the-art performance against strong baselines and can still enhance powerful BERTlike models.
+Author{1}{Firstname}#=%=#Ran
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#wrran
+Author{1}{Email}#=%=#wangr@smail.nju.edu.cn
+Author{1}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{2}{Firstname}#=%=#Xi'ao
+Author{2}{Lastname}#=%=#Su
+Author{2}{Username}#=%=#sephihorse
+Author{2}{Email}#=%=#nlp_suxa@smail.nju.edu.cn
+Author{2}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{3}{Firstname}#=%=#Siyu
+Author{3}{Lastname}#=%=#Long
+Author{3}{Username}#=%=#siyulong
+Author{3}{Email}#=%=#longsy@smail.nju.edu.cn
+Author{3}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{4}{Firstname}#=%=#Xinyu
+Author{4}{Lastname}#=%=#Dai
+Author{4}{Username}#=%=#daixinyu
+Author{4}{Email}#=%=#daixinyu@nju.edu.cn
+Author{4}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{5}{Firstname}#=%=#Shujian
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Username}#=%=#huangshujian
+Author{5}{Email}#=%=#huangsj@nju.edu.cn
+Author{5}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{6}{Firstname}#=%=#Jiajun
+Author{6}{Lastname}#=%=#CHEN
+Author{6}{Username}#=%=#chenjj
+Author{6}{Email}#=%=#chenjj@nju.edu.cn
+Author{6}{Affiliation}#=%=#Nanjing University
+
+==========

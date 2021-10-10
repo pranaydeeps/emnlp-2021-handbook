@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2259
+FinalPaperTitle#=%=#Aspect Sentiment Quad Prediction as Paraphrase Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wenxuan Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Aspect-based sentiment analysis (ABSA) has been extensively studied in recent years, which typically involves four fundamental sentiment elements, including the aspect category, aspect term, opinion term, and sentiment polarity. Existing studies usually consider the detection of partial sentiment elements, instead of predicting the four elements in one shot. In this work, we introduce the Aspect Sentiment Quad Prediction (ASQP) task, aiming to jointly detect all sentiment elements in quads for a given opinionated sentence, which can reveal a more comprehensive and complete aspect-level sentiment structure. We further propose a novel \textsc{Paraphrase} modeling paradigm to cast the ASQP task to a paraphrase generation process. On one hand, the generation formulation allows solving ASQP in an end-to-end manner, alleviating the potential error propagation in the pipeline solution. On the other hand, the semantics of the sentiment elements can be fully exploited by learning to generate them in the natural language form. Extensive experiments on benchmark datasets show the superiority of our proposed method and the capacity of cross-task transfer with the proposed unified \textsc{Paraphrase} modeling framework.
+Author{1}{Firstname}#=%=#Wenxuan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#wxzhang
+Author{1}{Email}#=%=#wxzhang@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Lastname}#=%=#Deng
+Author{2}{Username}#=%=#d123y456
+Author{2}{Email}#=%=#ydeng@se.cuhk.edu.hk
+Author{2}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{3}{Firstname}#=%=#Xin
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#lixin4ever
+Author{3}{Email}#=%=#lixin4ever@gmail.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Yifei
+Author{4}{Lastname}#=%=#Yuan
+Author{4}{Username}#=%=#yuanyifei
+Author{4}{Email}#=%=#yfyuan@se.cuhk.edu.hk
+Author{4}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{5}{Firstname}#=%=#Lidong
+Author{5}{Lastname}#=%=#Bing
+Author{5}{Username}#=%=#binglidong
+Author{5}{Email}#=%=#binglidong@gmail.com
+Author{5}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{6}{Firstname}#=%=#Wai
+Author{6}{Lastname}#=%=#Lam
+Author{6}{Username}#=%=#wlam
+Author{6}{Email}#=%=#wlam@se.cuhk.edu.hk
+Author{6}{Affiliation}#=%=#The Chinese University of Hong Kong
+
+==========

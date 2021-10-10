@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1983
+FinalPaperTitle#=%=#GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Kang Min Yoo
+JobTitle#==#
+Organization#==#NAVER Corporation
+6 Buljeong-ro, Seongnam-si, Gyeonggi-do, South Korea
+Abstract#==#Large-scale language models such as GPT-3 are excellent few-shot learners, allowing them to be controlled via natural text prompts. Recent studies report that prompt-based direct classification eliminates the need for fine-tuning but lacks data and inference scalability. This paper proposes a novel data augmentation technique that leverages large-scale language models to generate realistic text samples from a mixture of real samples. We also propose utilizing soft-labels predicted by the language models, effectively distilling knowledge from the large-scale language models and creating textual perturbations simultaneously. We perform data augmentation experiments on diverse classification tasks and show that our method hugely outperforms existing text augmentation methods. We also conduct experiments on our newly proposed benchmark to show that the augmentation effect is not only attributed to memorization. Further ablation studies and a qualitative analysis provide more insights into our approach.
+Author{1}{Firstname}#=%=#Kang Min
+Author{1}{Lastname}#=%=#Yoo
+Author{1}{Username}#=%=#kaniblu
+Author{1}{Email}#=%=#kangmin.yoo@navercorp.com
+Author{1}{Affiliation}#=%=#NAVER AI Lab
+Author{2}{Firstname}#=%=#Dongju
+Author{2}{Lastname}#=%=#Park
+Author{2}{Username}#=%=#toriving
+Author{2}{Email}#=%=#dongju.park@navercorp.com
+Author{2}{Affiliation}#=%=#NAVER Clova
+Author{3}{Firstname}#=%=#Jaewook
+Author{3}{Lastname}#=%=#Kang
+Author{3}{Username}#=%=#jaewook.kang
+Author{3}{Email}#=%=#jaewook.kang@navercorp.com
+Author{3}{Affiliation}#=%=#NAVER Clova
+Author{4}{Firstname}#=%=#Sang-Woo
+Author{4}{Lastname}#=%=#Lee
+Author{4}{Username}#=%=#drafity
+Author{4}{Email}#=%=#sang.woo.lee@navercorp.com
+Author{4}{Affiliation}#=%=#NAVER Clova
+Author{5}{Firstname}#=%=#Woomyoung
+Author{5}{Lastname}#=%=#Park
+Author{5}{Username}#=%=#wpark1602
+Author{5}{Email}#=%=#max.park@navercorp.com
+Author{5}{Affiliation}#=%=#NAVER Clova
+
+==========

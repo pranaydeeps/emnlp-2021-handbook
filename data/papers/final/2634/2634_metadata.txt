@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#2634
+FinalPaperTitle#=%=#Wasserstein Selective Transfer Learning for Cross-domain Text Mining
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#lingyunfeng
+JobTitle#==#
+Organization#==#
+Abstract#==#Transfer learning (TL) seeks to improve the learning of a data-scarce target domain by using information from source domains. However, the source and target domains usually have different data distributions, which may lead to negative transfer. 
+To alleviate this issue, we propose a Wasserstein Selective Transfer Learning (WSTL) method. Specifically, the proposed method considers a reinforced selector to select helpful data for transfer learning. We further use a Wasserstein-based discriminator to maximize the empirical distance between the selected source data and target data. The TL module is then trained to minimize the estimated Wasserstein distance in an adversarial manner and provides domain invariant features for the reinforced selector. We adopt an evaluation metric based on the performance of the TL module as delayed reward and a Wasserstein-based metric as immediate rewards to guide the reinforced selector learning. Compared with the competing TL approaches, the proposed method selects data samples that are closer to the target domain. It also provides better state features and reward signals that lead to better performance with faster convergence. Extensive experiments on three real-world text mining tasks demonstrate the effectiveness of the proposed method.
+Author{1}{Firstname}#=%=#Lingyun
+Author{1}{Lastname}#=%=#Feng
+Author{1}{Username}#=%=#lingyunfeng
+Author{1}{Email}#=%=#fly19@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Minghui
+Author{2}{Lastname}#=%=#Qiu
+Author{2}{Username}#=%=#minghuiqiu
+Author{2}{Email}#=%=#minghuiqiu@gmail.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Yaliang
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#yaliangli
+Author{3}{Email}#=%=#yaliang.li@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Haitao
+Author{4}{Lastname}#=%=#Zheng
+Author{4}{Username}#=%=#zheng.haitao
+Author{4}{Email}#=%=#2568771@qq.com
+Author{4}{Affiliation}#=%=#Tsinghua University, Shenzhen International Graduate School.
+Author{5}{Firstname}#=%=#Ying
+Author{5}{Lastname}#=%=#Shen
+Author{5}{Username}#=%=#yingshenpku
+Author{5}{Email}#=%=#sheny76@mail.sysu.edu.cn
+Author{5}{Affiliation}#=%=#Sun Yat-Sen University
+
+==========

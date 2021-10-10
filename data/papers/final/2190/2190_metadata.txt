@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2190
+FinalPaperTitle#=%=#Skim-Attention: Learning to Focus via Document Layout
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Nguyen
+JobTitle#==#
+Organization#==#Sorbonne Université, CNRS, LIP6, 4 Pl. Jussieu, 75005 Paris, France
+reciTAL, 34 boulevard de Bonne Nouvelle, 75010 Paris, France
+Abstract#==#Transformer-based pre-training techniques of text and layout have proven effective in a number of document understanding tasks. Despite this success, multimodal pre-training models suffer from very high computational and memory costs. Motivated by human reading strategies, this paper presents Skim-Attention, a new attention mechanism that takes advantage of the structure of the document and its layout. Skim-Attention only attends to the 2-dimensional position of the words in a document. Our experiments show that Skim-Attention obtains a lower perplexity than prior works, while being more computationally efficient. Skim-Attention can be further combined with long-range Transformers to efficiently process long documents. We also show how Skim-Attention can be used off-the-shelf as a mask for any Pre-trained Language Model, allowing to improve their performance while restricting attention. Finally, we show the emergence of a document structure representation in Skim-Attention.
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Email}#=%=#laura@recital.ai
+Author{1}{Affiliation}#=%=#LIP6 & reciTAL
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Scialom
+Author{2}{Username}#=%=#thomas_nlp
+Author{2}{Email}#=%=#thomas@recital.ai
+Author{2}{Affiliation}#=%=#reciTAL, LIP6
+Author{3}{Firstname}#=%=#Jacopo
+Author{3}{Lastname}#=%=#Staiano
+Author{3}{Username}#=%=#jacopostaiano
+Author{3}{Email}#=%=#jacopo@recital.ai
+Author{3}{Affiliation}#=%=#reciTAL
+Author{4}{Firstname}#=%=#Benjamin
+Author{4}{Lastname}#=%=#Piwowarski
+Author{4}{Username}#=%=#bpiwowar
+Author{4}{Email}#=%=#b@piwowarski.fr
+Author{4}{Affiliation}#=%=#CNRS, Sorbonne Universités, UPMC Univ Paris 06, LIP6 UMR 7606
+
+==========

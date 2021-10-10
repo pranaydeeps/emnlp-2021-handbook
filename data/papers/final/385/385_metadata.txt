@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#385
+FinalPaperTitle#=%=#Extracting Event Temporal Relations via Hyperbolic Geometry
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Xingwei Tan
+JobTitle#==#
+Organization#==#University of Warwick
+Coventry, England, UK, CV4 7AL
+Abstract#==#Detecting events and their evolution through time is a crucial task in natural language understanding. Recent neural approaches to event temporal relation extraction typically map events to embeddings in the Euclidean space and train a classifier to detect temporal relations between event pairs. However, embeddings in the Euclidean space cannot capture richer asymmetric relations such as event temporal relations. We thus propose to embed events into hyperbolic spaces, which are intrinsically oriented at modeling hierarchical structures. We introduce two approaches to encode events and their temporal relations in hyperbolic spaces. One approach leverages hyperbolic embeddings to directly infer event relations through simple geometrical operations. In the second one, we devise an end-to-end architecture composed of hyperbolic neural units tailored for the temporal relation extraction task. Thorough experimental assessments on widely used datasets have shown the benefits of revisiting the tasks on a different geometrical space, resulting in state-of-the-art performance on several standard metrics. Finally, the ablation study and several qualitative analyses highlighted the rich event semantics implicitly encoded into hyperbolic spaces.
+Author{1}{Firstname}#=%=#Xingwei
+Author{1}{Lastname}#=%=#Tan
+Author{1}{Username}#=%=#lastdier
+Author{1}{Email}#=%=#Xingwei.Tan@warwick.ac.uk
+Author{1}{Affiliation}#=%=#University of Warwick
+Author{2}{Firstname}#=%=#Gabriele
+Author{2}{Lastname}#=%=#Pergola
+Author{2}{Username}#=%=#pergolag
+Author{2}{Email}#=%=#gabriele.pergola@warwick.ac.uk
+Author{2}{Affiliation}#=%=#University of Warwick
+Author{3}{Firstname}#=%=#Yulan
+Author{3}{Lastname}#=%=#He
+Author{3}{Username}#=%=#yulanhe
+Author{3}{Email}#=%=#yulan.he@warwick.ac.uk
+Author{3}{Affiliation}#=%=#University of Warwick
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3625
+FinalPaperTitle#=%=#Mind the Context: The Impact of Contextualization in Neural Module Networks for Grounding Visual Referring Expressions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Arjun Reddy Akula
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural module networks (NMN) are a popular approach for grounding visual referring expressions. Prior implementations of NMN use pre-defined and fixed textual inputs in their module instantiation. This necessitates a large number of modules as they lack the ability to share weights and exploit associations between similar textual contexts (e.g. "dark cube on the left" vs. "black cube on the left"). In this work, we address these limitations and evaluate the impact of contextual clues in improving the performance of NMN models. First, we address the problem of fixed textual inputs by parameterizing the module  arguments. This substantially reduce the number of modules in NMN by up to 75% without any loss in performance. Next we propose a method to contextualize our parameterized model to enhance the module’s capacity in exploiting the visiolinguistic associations. Our model outperforms the state-of-the-art NMN model on CLEVR-Ref+ dataset with +8.1% improvement in accuracy on the single-referent test set and +4.3% on the full test set. Additionally, we demonstrate that contextualization provides +11.2% and +1.7% improvements in accuracy over prior NMN models on CLOSURE and NLVR2. We further evaluate the impact of our contextualization by constructing a contrast set for CLEVR-Ref+, which we call CC-Ref+.  We significantly outperform the baselines by as much as +10.4% absolute accuracy on CC-Ref+, illustrating the generalization skills of our approach.
+Author{1}{Firstname}#=%=#Arjun
+Author{1}{Lastname}#=%=#Akula
+Author{1}{Username}#=%=#arjunakula
+Author{1}{Email}#=%=#aakula@ucla.edu
+Author{1}{Affiliation}#=%=#University of California, Los Angeles
+Author{2}{Firstname}#=%=#Spandana
+Author{2}{Lastname}#=%=#Gella
+Author{2}{Username}#=%=#spandanagella
+Author{2}{Email}#=%=#spandanagella@gmail.com
+Author{2}{Affiliation}#=%=#Amazon AI
+Author{3}{Firstname}#=%=#Keze
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#wangkeze
+Author{3}{Email}#=%=#kezewang@gmail.com
+Author{3}{Affiliation}#=%=#University of California, Los Angeles
+Author{4}{Firstname}#=%=#Song-Chun
+Author{4}{Lastname}#=%=#Zhu
+Author{4}{Username}#=%=#sczhu
+Author{4}{Email}#=%=#sczhu@stat.ucla.edu
+Author{4}{Affiliation}#=%=#UCLA
+Author{5}{Firstname}#=%=#Siva
+Author{5}{Lastname}#=%=#Reddy
+Author{5}{Username}#=%=#sivareddy
+Author{5}{Email}#=%=#siva.reddy@mila.quebec
+Author{5}{Affiliation}#=%=#McGill University
+
+==========

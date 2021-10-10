@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1007
+FinalPaperTitle#=%=#UniKER: A Unified Framework for Combining Embedding and Definite Horn Rule Reasoning for Knowledge Graph Inference
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Kewei Cheng
+JobTitle#==#
+Organization#==#University of California, Los Angeles
+Los Angeles, CA, 90024
+Abstract#==#Knowledge graph inference has been studied extensively due to its wide applications. It has been addressed by two lines of research, i.e., the more traditional logical rule reasoning and the more recent knowledge graph embedding (KGE). Several attempts have been made to combine KGE and logical rules for better knowledge graph inference. Unfortunately, they either simply treat logical rules as additional constraints into KGE loss or use probabilistic model to approximate the exact logical inference (i.e., MAX-SAT). Even worse, both approaches need to sample ground rules to tackle the scalability issue, as the total number of ground rules is intractable in practice, making them less effective in handling logical rules. In this paper, we propose a novel framework UniKER to address these challenges by restricting logical rules to be definite Horn rules, which can fully exploit the knowledge in logical rules and enable the mutual enhancement of logical rule-based reasoning and KGE in an extremely efficient way. Extensive experiments have demonstrated that our approach is superior to existing state-of-the-art algorithms in terms of both efficiency and effectiveness.
+Author{1}{Firstname}#=%=#kewei
+Author{1}{Lastname}#=%=#cheng
+Author{1}{Username}#=%=#viviancheng
+Author{1}{Email}#=%=#viviancheng1993@gmail.com
+Author{1}{Affiliation}#=%=#UCLA
+Author{2}{Firstname}#=%=#ziqing
+Author{2}{Lastname}#=%=#yang
+Author{2}{Email}#=%=#yangziqing@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Ming
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#mzhang@net.pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University, China
+Author{4}{Firstname}#=%=#Yizhou
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Username}#=%=#yzsun
+Author{4}{Email}#=%=#yzsun@cs.ucla.edu
+Author{4}{Affiliation}#=%=#UCLA
+
+==========

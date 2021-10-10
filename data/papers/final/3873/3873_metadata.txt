@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3873
+FinalPaperTitle#=%=#Neural Natural Logic Inference for Interpretable Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jihao Shi
+JobTitle#==#
+Organization#==#
+Abstract#==#Many open-domain question answering problems can be cast as a textual entailment task, where a question and candidate answers are concatenated to form hypotheses. A QA system then determines if the supporting knowledge bases, regarded as potential premises, entail the hypotheses. In this paper, we investigate a neural-symbolic QA approach that integrates natural logic reasoning within deep learning architectures, towards developing effective and yet explainable question answering models. The proposed model gradually bridges a hypothesis and candidate premises following natural logic inference steps to build proof paths. Entailment scores between the acquired intermediate hypotheses and candidate premises are measured to determine if a premise entails the hypothesis. As the natural logic reasoning process forms a tree-like, hierarchical structure, we embed hypotheses and premises in a Hyperbolic space rather than Euclidean space to acquire more precise representations. Empirically, our method outperforms prior work on answering multiple-choice science questions, achieving the best results on two publicly available datasets. The natural logic inference process inherently provides evidence to help explain the prediction process.
+Author{1}{Firstname}#=%=#Jihao
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Username}#=%=#chuck0314
+Author{1}{Email}#=%=#jhshi@ir.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Xiao
+Author{2}{Lastname}#=%=#Ding
+Author{2}{Username}#=%=#dingxiao613
+Author{2}{Email}#=%=#xding@ir.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Li
+Author{3}{Lastname}#=%=#Du
+Author{3}{Username}#=%=#lidu
+Author{3}{Email}#=%=#ldu@ir.hit.edu.cn
+Author{3}{Affiliation}#=%=#HIT
+Author{4}{Firstname}#=%=#Ting
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#tliu72
+Author{4}{Email}#=%=#tliu72@qq.com
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology
+Author{5}{Firstname}#=%=#Bing
+Author{5}{Lastname}#=%=#Qin
+Author{5}{Username}#=%=#qinb
+Author{5}{Email}#=%=#qinb@ir.hit.edu.cn
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#288
+FinalPaperTitle#=%=#TWEETSUMM - A Dialog Summarization Dataset for Customer Service
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Guy Feigenblat
+JobTitle#==#
+Organization#==#IBM Research  AI
+Abstract#==#In a typical customer service chat scenario, customers contact a support center to ask for help or raise complaints, and human agents try to solve the issues. In most cases, at the end of the conversation, agents are asked to write a short summary emphasizing the problem and the proposed solution, usually for the benefit of other agents that may have to deal with the same customer or issue. The goal of the present article is advancing the automation of this task. We introduce the first large scale, high quality, customer care dialog summarization dataset with close to 6500 human annotated summaries. The data is based on real-world customer support dialogs and includes both extractive and abstractive summaries. We also introduce a new unsupervised, extractive summarization method specific to dialogs.
+Author{1}{Firstname}#=%=#Guy
+Author{1}{Lastname}#=%=#Feigenblat
+Author{1}{Username}#=%=#guyfe
+Author{1}{Email}#=%=#guy.feigenblat@gmail.com
+Author{1}{Affiliation}#=%=#IBM Research AI
+Author{2}{Firstname}#=%=#Chulaka
+Author{2}{Lastname}#=%=#Gunasekara
+Author{2}{Username}#=%=#chulakar
+Author{2}{Email}#=%=#chulaka.gunasekara@ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Benjamin
+Author{3}{Lastname}#=%=#Sznajder
+Author{3}{Email}#=%=#benjams@il.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research AI
+Author{4}{Firstname}#=%=#Sachindra
+Author{4}{Lastname}#=%=#Joshi
+Author{4}{Username}#=%=#sachindra
+Author{4}{Email}#=%=#jsachind@in.ibm.com
+Author{4}{Affiliation}#=%=#IBM
+Author{5}{Firstname}#=%=#David
+Author{5}{Lastname}#=%=#Konopnicki
+Author{5}{Email}#=%=#davidko@il.ibm.com
+Author{5}{Affiliation}#=%=#IBM Research AI
+Author{6}{Firstname}#=%=#Ranit
+Author{6}{Lastname}#=%=#Aharonov
+Author{6}{Username}#=%=#ranita
+Author{6}{Email}#=%=#ranitah1@gmail.com
+Author{6}{Affiliation}#=%=#IBM Research
+
+==========

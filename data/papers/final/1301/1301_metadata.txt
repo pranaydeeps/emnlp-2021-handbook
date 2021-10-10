@@ -1,0 +1,16 @@
+SubmissionNumber#=%=#1301
+FinalPaperTitle#=%=#Improving End-to-End Task-Oriented Dialog System with A Simple Auxiliary Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Yohan Lee
+JobTitle#==#Researcher
+Organization#==#Electronics and Telecommunications Research Institute
+218, Gajeong-ro, Yuseong-gu, Daejeon, South Korea
+Abstract#==#The paradigm of leveraging large pre-trained language models has made significant progress on benchmarks on task-oriented dialogue (TOD) systems. In this paper, we combine this paradigm with multi-task learning framework for end-to-end TOD modeling by adopting span prediction as an auxiliary task. In end-to-end setting, our model achieves new state-of-the-art results with combined scores of 108.3 and 107.5 on MultiWOZ 2.0 and MultiWOZ 2.1, respectively. Furthermore, we demonstrate that multi-task learning improves not only the performance of model but its generalization capability through domain adaptation experiments in the few-shot setting. The code is available at github.com/bepoetree/MTTOD.
+Author{1}{Firstname}#=%=#Yohan
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#carep
+Author{1}{Email}#=%=#carep@etri.re.kr
+Author{1}{Affiliation}#=%=#Electronics and Telecommunications Research Institute
+
+==========

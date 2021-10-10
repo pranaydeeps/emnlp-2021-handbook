@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#4085
+FinalPaperTitle#=%=#Think about it! Improving defeasible reasoning by first modeling the question scenario.
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Aman Madaan
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Defeasible reasoning is the mode of reasoning where conclusions can be overturned by taking into account new evidence. Existing cognitive science literature on defeasible reasoning suggests that a person forms a ``mental model'' of the problem scenario before answering questions. Our research goal asks whether neural models can similarly benefit from envisioning the question scenario before answering a defeasible query. Our approach is, given a question, to have a model first create a graph of relevant influences, and then leverage that graph as an additional input when answering the question. Our system, CURIOUS, achieves a new state-of-the-art on three different defeasible reasoning datasets. This result is significant as it illustrates that performance can be improved by guiding a system to ``think about'' a question and explicitly model the scenario, rather than answering reflexively.
+Author{1}{Firstname}#=%=#Aman
+Author{1}{Lastname}#=%=#Madaan
+Author{1}{Username}#=%=#amnmadaan
+Author{1}{Email}#=%=#amadaan@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Niket
+Author{2}{Lastname}#=%=#Tandon
+Author{2}{Username}#=%=#ntandon
+Author{2}{Email}#=%=#nikett@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{3}{Firstname}#=%=#Dheeraj
+Author{3}{Lastname}#=%=#Rajagopal
+Author{3}{Username}#=%=#dheeraj091
+Author{3}{Email}#=%=#dheeraj.gopal@gmail.com
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Peter
+Author{4}{Lastname}#=%=#Clark
+Author{4}{Username}#=%=#peterc
+Author{4}{Email}#=%=#peterc@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for AI
+Author{5}{Firstname}#=%=#Yiming
+Author{5}{Lastname}#=%=#Yang
+Author{5}{Username}#=%=#yiming
+Author{5}{Email}#=%=#yiming.yang2@gmail.com
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Firstname}#=%=#Eduard
+Author{6}{Lastname}#=%=#Hovy
+Author{6}{Username}#=%=#hovy
+Author{6}{Email}#=%=#hovy@cmu.edu
+Author{6}{Affiliation}#=%=#CMU
+
+==========

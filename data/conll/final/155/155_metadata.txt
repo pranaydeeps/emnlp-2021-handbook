@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#155
+FinalPaperTitle#=%=#Pragmatic competence of pre-trained language models through the lens of discourse connectives
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Lalchand Pandia
+JobTitle#==#
+Organization#==#
+Abstract#==#As pre-trained language models (LMs) continue to dominate NLP, it is increasingly important that we understand the depth of language capabilities in these models. In this paper, we target pre-trained LMs' competence in pragmatics, with a focus on pragmatics relating to discourse connectives. We formulate cloze-style tests using a combination of naturally-occurring data and controlled inputs drawn from psycholinguistics. We focus on testing models' ability to use pragmatic cues to predict discourse connectives, models' ability to understand implicatures relating to connectives, and the extent to which models show humanlike preferences regarding temporal dynamics of connectives. We find that although models predict connectives reasonably well in the context of naturally-occurring data, when we control contexts to isolate high-level pragmatic cues, model sensitivity is much lower. Models also do not show substantial humanlike temporal preferences. Overall, the findings suggest that at present, dominant pre-training paradigms do not result in substantial pragmatic competence in our models.
+Author{1}{Firstname}#=%=#Lalchand
+Author{1}{Lastname}#=%=#Pandia
+Author{1}{Username}#=%=#lalchand
+Author{1}{Email}#=%=#lcpandia@gmail.com
+Author{1}{Affiliation}#=%=#n/a
+Author{2}{Firstname}#=%=#Yan
+Author{2}{Lastname}#=%=#Cong
+Author{2}{Username}#=%=#yancong
+Author{2}{Email}#=%=#congyan@msu.edu
+Author{2}{Affiliation}#=%=#Michigan State University
+Author{3}{Firstname}#=%=#Allyson
+Author{3}{Lastname}#=%=#Ettinger
+Author{3}{Username}#=%=#aettinger
+Author{3}{Email}#=%=#aettinger@uchicago.edu
+Author{3}{Affiliation}#=%=#University of Chicago
+
+==========

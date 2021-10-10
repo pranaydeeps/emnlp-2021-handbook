@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Low Resource Quadratic Forms for Knowledge Graph Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jeffery Kline
+JobTitle#==#
+Organization#==#American Family Insurance
+6000 American Parkway
+Madison, WI 53783
+Abstract#==#We address the problem of {\em link prediction} between entities and relations of knowledge graphs.  State of the art techniques that address this problem, while increasingly accurate, are computationally intensive.  In this paper we cast link prediction as a {sparse} {convex program} whose solution defines a quadratic form that is used as a ranking function. The structure of our convex program is such that standard support vector machine software packages, which are numerically robust and efficient, can solve it. We show that on benchmark data sets, our model's performance is competitive with state of the art models, but training times can be reduced by a factor of 40 using only CPU-based (and not GPU-accelerated) computing resources.  This approach may be suitable for applications where balancing the demands of graph completion performance against computational efficiency is a desirable trade-off.
+Author{1}{Firstname}#=%=#Zachary
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#zzhou246@wisc.edu
+Author{1}{Affiliation}#=%=#University of Wisconsin – Madison
+Author{2}{Firstname}#=%=#Jeffery
+Author{2}{Lastname}#=%=#Kline
+Author{2}{Username}#=%=#jkline
+Author{2}{Email}#=%=#jklin1@amfam.com
+Author{2}{Affiliation}#=%=#American Family Insurance
+Author{3}{Firstname}#=%=#Devin
+Author{3}{Lastname}#=%=#Conathan
+Author{3}{Email}#=%=#DCONATHA@amfam.com
+Author{3}{Affiliation}#=%=#American Family Insurance
+Author{4}{Firstname}#=%=#Glenn
+Author{4}{Lastname}#=%=#Fung
+Author{4}{Email}#=%=#GFUNG@amfam.com
+Author{4}{Affiliation}#=%=#American Family Insurance
+
+==========

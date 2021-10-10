@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#DramaCoref: A Hybrid Coreference Resolution System for German Theater Plays
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Janis Pagel
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a system for resolving coreference on theater plays, DramaCoref. The system uses neural network techniques to provide a list of potential mentions. These mentions are assigned to common entities using generic and domain-specific rules. We find that DramaCoref works well on the theater plays when compared to corpora from other domains and profits from the inclusion of information specific to theater plays. On the best-performing setup, it achieves a CoNLL score of 32% when using automatically detected mentions and 55% when using gold mentions. Single rules achieve high precision scores; however, rules designed on other domains are often not applicable or yield unsatisfactory results. Error analysis shows that the mention detection is the main weakness of the system, providing directions for future improvements.
+Author{1}{Firstname}#=%=#Janis
+Author{1}{Lastname}#=%=#Pagel
+Author{1}{Username}#=%=#janispagel
+Author{1}{Email}#=%=#janis.pagel@uni-koeln.de
+Author{1}{Affiliation}#=%=#Department of Digital Humanities, University of Cologne
+Author{2}{Firstname}#=%=#Nils
+Author{2}{Lastname}#=%=#Reiter
+Author{2}{Username}#=%=#nilsreiter
+Author{2}{Email}#=%=#nils.reiter@uni-koeln.de
+Author{2}{Affiliation}#=%=#University of Cologne
+
+==========

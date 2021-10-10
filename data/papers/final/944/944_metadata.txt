@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#944
+FinalPaperTitle#=%=#Plan-then-Generate: Controlled Data-to-Text Generation via Planning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Yixuan Su
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent developments in neural networks have led to the advance in data-to-text generation. However, the lack of ability of neural models to control the structure of generated output can be limiting in certain real-world applications. In this study, we propose a novel Plan-then-Generate (PlanGen) framework to improve the controllability of neural data-to-text models. Extensive experiments and analyses are conducted on two benchmark datasets, ToTTo and WebNLG. The results show that our model is able to control both the intra-sentence and inter-sentence structure of the generated output. Furthermore, empirical comparisons against previous state-of-the-art methods show that our model improves the generation quality as well as the output diversity as judged by human and automatic evaluations.
+Author{1}{Firstname}#=%=#Yixuan
+Author{1}{Lastname}#=%=#Su
+Author{1}{Username}#=%=#pangpang666
+Author{1}{Email}#=%=#ys484@outlook.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Vandyke
+Author{2}{Username}#=%=#vandykeuc
+Author{2}{Email}#=%=#vandyke.d@gmail.com
+Author{2}{Affiliation}#=%=#Apple
+Author{3}{Firstname}#=%=#Sihui
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#sw776
+Author{3}{Email}#=%=#sihui0602@icloud.com
+Author{3}{Affiliation}#=%=#Apple Inc.
+Author{4}{Firstname}#=%=#Yimai
+Author{4}{Lastname}#=%=#Fang
+Author{4}{Username}#=%=#yfang
+Author{4}{Email}#=%=#yimai_fang@apple.com
+Author{4}{Affiliation}#=%=#Apple
+Author{5}{Firstname}#=%=#Nigel
+Author{5}{Lastname}#=%=#Collier
+Author{5}{Username}#=%=#collier
+Author{5}{Email}#=%=#nhc30@cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+
+==========

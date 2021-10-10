@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#416
+FinalPaperTitle#=%=#{YASO}: {A} Targeted Sentiment Analysis Evaluation Dataset for Open-Domain Reviews
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#matan orbach
+JobTitle#==#
+Organization#==#
+Abstract#==#Current TSA evaluation in a cross-domain setup is restricted to the small set of review domains available in existing datasets. Such an evaluation is limited, and may not reflect true performance on sites like Amazon or Yelp that host diverse reviews from many domains. To address this gap, we present YASO -- a new TSA evaluation dataset of open-domain user reviews. YASO contains 2,215 English sentences from dozens of review domains, annotated with target terms and their sentiment. Our analysis verifies the reliability of these annotations, and explores the characteristics of the collected data. Benchmark results using five contemporary TSA systems show there is ample room for improvement on this challenging new dataset. YASO is available at https://github.com/IBM/yaso-tsa.
+Author{1}{Firstname}#=%=#Matan
+Author{1}{Lastname}#=%=#Orbach
+Author{1}{Username}#=%=#matanorbach
+Author{1}{Email}#=%=#matan.orbach@gmail.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Orith
+Author{2}{Lastname}#=%=#Toledo-Ronen
+Author{2}{Username}#=%=#oritht
+Author{2}{Email}#=%=#oritht@il.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Artem
+Author{3}{Lastname}#=%=#Spector
+Author{3}{Username}#=%=#artems
+Author{3}{Email}#=%=#artems@il.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Ranit
+Author{4}{Lastname}#=%=#Aharonov
+Author{4}{Username}#=%=#ranita
+Author{4}{Email}#=%=#ranitah1@gmail.com
+Author{4}{Affiliation}#=%=#IBM Research
+Author{5}{Firstname}#=%=#Yoav
+Author{5}{Lastname}#=%=#Katz
+Author{5}{Username}#=%=#yoavkatz
+Author{5}{Email}#=%=#katz@il.ibm.com
+Author{5}{Affiliation}#=%=#IBM Research AI
+Author{6}{Firstname}#=%=#Noam
+Author{6}{Lastname}#=%=#Slonim
+Author{6}{Username}#=%=#noamslonim
+Author{6}{Email}#=%=#noams@il.ibm.com
+Author{6}{Affiliation}#=%=#IBM Research
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Data-Driven Detection of General Chiasmi Using Lexical and Semantic Features
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Felix Schneider
+JobTitle#==#Research Associate
+Organization#==#Friedrich-Schiller-Universität Jena
+Fürstengraben 1
+07743 Jena
+Germany
+Abstract#==#Automatic detection of stylistic devices is an important tool for literary studies, e.g., for stylometric analysis or argument mining. A particularly striking device is the rhetorical figure called chiasmus, which involves the inversion of semantically or syntactically related words. Existing works focus on a special case of chiasmi that involve identical words in an A B B A pattern, so-called antimetaboles. In contrast, we propose an approach targeting the more general and challenging case A B B' A', where the words A, A' and B, B' constituting the chiasmus do not need to be identical but just related in meaning. To this end, we generalize the established candidate phrase mining strategy from antimetaboles to general chiasmi and propose novel features based on word embeddings and lemmata for capturing both semantic and syntactic information. These features serve as input for a logistic regression classifier, which learns to distinguish between rhetorical chiasmi and coincidental chiastic word orders without special meaning. We evaluate our approach on two datasets consisting of classical German dramas, four texts with annotated chiasmi and 500 unannotated texts. Compared to previous methods for chiasmus detection, our novel features improve the average precision from 17% to 28% and the precision among the top 100 results from 13% to 35%.
+Author{1}{Firstname}#=%=#Felix
+Author{1}{Lastname}#=%=#Schneider
+Author{1}{Username}#=%=#felixschneider
+Author{1}{Email}#=%=#felix.schneider@uni-jena.de
+Author{1}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+Author{2}{Firstname}#=%=#Björn
+Author{2}{Lastname}#=%=#Barz
+Author{2}{Username}#=%=#bjoern.barz
+Author{2}{Email}#=%=#bjoern.barz@uni-jena.de
+Author{2}{Affiliation}#=%=#Friedrich Schiller University Jena
+Author{3}{Firstname}#=%=#Phillip
+Author{3}{Lastname}#=%=#Brandes
+Author{3}{Username}#=%=#phillipbrandes
+Author{3}{Email}#=%=#phillip.brandes@uni-jena.de
+Author{3}{Affiliation}#=%=#Friedrich Schiller Universität Jena
+Author{4}{Firstname}#=%=#Sophie
+Author{4}{Lastname}#=%=#Marshall
+Author{4}{Username}#=%=#smarshall
+Author{4}{Email}#=%=#sophie.marshall@uni-jena.de
+Author{4}{Affiliation}#=%=#University of Jena
+Author{5}{Firstname}#=%=#Joachim
+Author{5}{Lastname}#=%=#Denzler
+Author{5}{Username}#=%=#joachimdenzler
+Author{5}{Email}#=%=#joachim.denzler@uni-jena.de
+Author{5}{Affiliation}#=%=#Friedrich-Schiller-University Jena
+
+==========

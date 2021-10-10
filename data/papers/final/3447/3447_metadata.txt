@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3447
+FinalPaperTitle#=%=#Towards Realistic Single-Task Continuous Learning Research for NER
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Justin Payan
+JobTitle#==#
+Organization#==#
+Abstract#==#There is an increasing interest in continuous learning (CL), as data privacy is becoming a priority for real-world machine learning applications. Meanwhile, there is still a lack of academic NLP benchmarks that are applicable for realistic CL settings, which is a major challenge for the advancement of the field. In this paper we discuss some of the unrealistic data characteristics of public datasets, study the challenges of realistic single-task continuous learning as well as the effectiveness of data rehearsal as a way to mitigate accuracy loss. We construct a CL NER dataset from an existing publicly available dataset and release it along with the code to the research community.
+Author{1}{Firstname}#=%=#Justin
+Author{1}{Lastname}#=%=#Payan
+Author{1}{Username}#=%=#jpayan
+Author{1}{Email}#=%=#jpayan@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Yuval
+Author{2}{Lastname}#=%=#Merhav
+Author{2}{Username}#=%=#yuval
+Author{2}{Email}#=%=#merhavy@amazon.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#He
+Author{3}{Lastname}#=%=#Xie
+Author{3}{Username}#=%=#hexie
+Author{3}{Email}#=%=#hexie@amazon.com
+Author{3}{Affiliation}#=%=#Amazon Alexa AI
+Author{4}{Firstname}#=%=#Satyapriya
+Author{4}{Lastname}#=%=#Krishna
+Author{4}{Username}#=%=#y12uc231
+Author{4}{Email}#=%=#svboston7@gmail.com
+Author{4}{Affiliation}#=%=#Amazon Alexa
+Author{5}{Firstname}#=%=#Anil
+Author{5}{Lastname}#=%=#Ramakrishna
+Author{5}{Username}#=%=#anilramakrishna
+Author{5}{Email}#=%=#anil.k.ramakrishna@gmail.com
+Author{5}{Affiliation}#=%=#Amazon
+Author{6}{Firstname}#=%=#Mukund
+Author{6}{Lastname}#=%=#Sridhar
+Author{6}{Username}#=%=#mukundhs
+Author{6}{Email}#=%=#harakere@amazon.com
+Author{6}{Affiliation}#=%=#Amazon Alexa AI
+Author{7}{Firstname}#=%=#Rahul
+Author{7}{Lastname}#=%=#Gupta
+Author{7}{Username}#=%=#guptarah
+Author{7}{Email}#=%=#gupra@amazon.com
+Author{7}{Affiliation}#=%=#Amazon.com
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#56
+FinalPaperTitle#=%=#To what extent do human explanations of model behavior align with actual model behavior?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Grusha Prasad
+JobTitle#==#
+Organization#==#
+Abstract#==#Given the increasingly prominent role NLP models (will) play in our lives, it is important for human expectations of model behavior to align with actual model behavior. Using Natural Language Inference (NLI) as a case study, we investigate the extent to which human-generated explanations of models’ inference decisions align with how models actually make these decisions. More specifically, we define three alignment metrics that quantify how well natural language explanations align with model sensitivity to input words, as measured by integrated gradients. Then, we evaluate eight different models (the base and large versions of BERT,RoBERTa and ELECTRA, as well as anRNN and bag-of-words model), and find that the BERT-base model has the highest alignment with human-generated explanations, for all alignment metrics. Focusing in on transformers, we find that the base versions tend to have higher alignment with human-generated explanations than their larger counterparts, suggesting that increasing the number of model parameters leads, in some cases, to worse alignment with human explanations. Finally, we find that a model’s alignment with human explanations is not predicted by the model’s accuracy, suggesting that accuracy and alignment are complementary ways to evaluate models.
+Author{1}{Firstname}#=%=#Grusha
+Author{1}{Lastname}#=%=#Prasad
+Author{1}{Username}#=%=#grusha.prasad
+Author{1}{Email}#=%=#grusha.prasad@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Yixin
+Author{2}{Lastname}#=%=#Nie
+Author{2}{Username}#=%=#easonnie
+Author{2}{Email}#=%=#yixin1@cs.unc.edu
+Author{2}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{3}{Firstname}#=%=#Mohit
+Author{3}{Lastname}#=%=#Bansal
+Author{3}{Username}#=%=#mbansal
+Author{3}{Email}#=%=#mbansal@cs.unc.edu
+Author{3}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{4}{Firstname}#=%=#Robin
+Author{4}{Lastname}#=%=#Jia
+Author{4}{Username}#=%=#robinjia
+Author{4}{Email}#=%=#robinjia@usc.edu
+Author{4}{Affiliation}#=%=#Facebook AI Research
+Author{5}{Firstname}#=%=#Douwe
+Author{5}{Lastname}#=%=#Kiela
+Author{5}{Username}#=%=#douwe.kiela
+Author{5}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{5}{Affiliation}#=%=#Facebook
+Author{6}{Firstname}#=%=#Adina
+Author{6}{Lastname}#=%=#Williams
+Author{6}{Username}#=%=#adinawilliams
+Author{6}{Email}#=%=#adinawilliams@nyu.edu
+Author{6}{Affiliation}#=%=#Facebook, Inc.
+
+==========

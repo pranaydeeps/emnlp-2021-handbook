@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#884
+FinalPaperTitle#=%=#Intention Reasoning Network for Multi-Domain End-to-end Task-Oriented Dialogue
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Jianjun Li
+JobTitle#==#Assoc. Prof
+Organization#==#Huazhong University of Science and Technology, Luoyu Road 1037#, Wuhan, Hubei, Chian.
+Abstract#==#Recent years has witnessed the remarkable success in end-to-end task-oriented dialog system, especially when incorporating external knowledge information.  However, the quality of most existing models' generated response is still limited, mainly due to their lack of fine-grained reasoning on deterministic knowledge  (w.r.t. conceptual tokens), which makes them difficult to capture the concept shifts and identify user's real intention in cross-task scenarios. To address these issues,  we propose a novel intention mechanism to better model deterministic entity knowledge. Based on such a mechanism,  we further propose an intention reasoning network (IR-Net), which consists of joint and multi-hop reasoning, to obtain intention-aware representations of conceptual tokens that can be used to capture the concept shifts involved in task-oriented conversations, so as to effectively identify user's intention and generate more accurate responses.  Experimental results verify the effectiveness of IR-Net, showing that it achieves the state-of-the-art performance on two representative multi-domain dialog datasets.
+Author{1}{Firstname}#=%=#Zhiyuan
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Username}#=%=#zhiyuanma
+Author{1}{Email}#=%=#zhiyuanma@hust.edu.cn
+Author{1}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{2}{Firstname}#=%=#Jianjun
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#jianjunli
+Author{2}{Email}#=%=#jianjunli@hust.edu.cn
+Author{2}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{3}{Firstname}#=%=#Zezheng
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#zgsdr0620
+Author{3}{Email}#=%=#m201973267@hust.edu.cn
+Author{3}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{4}{Firstname}#=%=#Guohui
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#guohuili@hust.edu.cn
+Author{4}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{5}{Firstname}#=%=#Yongjing
+Author{5}{Lastname}#=%=#Cheng
+Author{5}{Email}#=%=#davidcheng1001@163.com
+Author{5}{Affiliation}#=%=#National University of Defense Technology
+
+==========

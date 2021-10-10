@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#3056
+FinalPaperTitle#=%=#Neural Attention-Aware Hierarchical Topic Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuan Jin
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural topic models (NTMs) apply deep neural networks to topic modelling. Despite their success, NTMs generally ignore two important aspects: (1) only document-level word count information is utilized for the training, while more fine-grained sentence-level information is ignored, and (2) external semantic knowledge regarding documents, sentences and words are not exploited for the training. To address these issues, we propose a variational autoencoder (VAE) NTM model that jointly reconstructs the sentence and document word counts using combinations of bag-of-words (BoW) topical embeddings and pre-trained semantic embeddings. The pre-trained embeddings are first transformed into a common latent topical space to align their semantics with the BoW embeddings. Our model also features hierarchical KL divergence to leverage embeddings of each document to regularize those of their sentences, paying more attention to semantically relevant sentences.
+
+Both quantitative and qualitative experiments have shown the efficacy of our model in 1) lowering the reconstruction errors at both the sentence and document levels, and 2) discovering more coherent topics from real-world datasets.
+Author{1}{Firstname}#=%=#YUAN
+Author{1}{Lastname}#=%=#JIN
+Author{1}{Username}#=%=#yjin48
+Author{1}{Email}#=%=#yuan.jin@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#He
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#ethanhezhao
+Author{2}{Email}#=%=#ethan.zhao@monash.edu
+Author{2}{Affiliation}#=%=#Faculty of IT, Monash University
+Author{3}{Firstname}#=%=#Ming
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#liumingliu
+Author{3}{Email}#=%=#m.liu@deakin.edu.au
+Author{3}{Affiliation}#=%=#Deakin University
+Author{4}{Firstname}#=%=#Lan
+Author{4}{Lastname}#=%=#Du
+Author{4}{Username}#=%=#dulan520
+Author{4}{Email}#=%=#lan.du@monash.edu
+Author{4}{Affiliation}#=%=#Department of Data Science and AI, Monash University
+Author{5}{Firstname}#=%=#Wray
+Author{5}{Lastname}#=%=#Buntine
+Author{5}{Username}#=%=#wray.buntine
+Author{5}{Email}#=%=#wray.buntine@monash.edu
+Author{5}{Affiliation}#=%=#Monash University
+
+==========

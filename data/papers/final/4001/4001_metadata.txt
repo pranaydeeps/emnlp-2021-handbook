@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#4001
+FinalPaperTitle#=%=#Task-Oriented Clustering for Dialogues
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#lvchenxu
+JobTitle#==#
+Organization#==#Beijing University of Posts and Telecommunications
+Abstract#==#A reliable clustering algorithm for task-oriented dialogues can help developer analysis and define dialogue tasks efficiently. It is challenging to directly apply prior normal text clustering algorithms for task-oriented dialogues, due to the inherent differences between them, such as coreference, omission and diversity expression. In this paper, we propose a Dialogue Task Clustering Network model for task-oriented clustering. The proposed model combines context-aware utterance representations and cross-dialogue utterance cluster representations for task-oriented dialogues clustering. An iterative end-to-end training strategy is utilized for dialogue clustering and representation learning jointly. Experiments on three public datasets show that our model significantly outperform strong baselines in all metrics.
+Author{1}{Firstname}#=%=#chenxu
+Author{1}{Lastname}#=%=#lv
+Author{1}{Username}#=%=#lvchenxu
+Author{1}{Email}#=%=#chenxulv@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Hengtong
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Username}#=%=#luhengtong
+Author{2}{Email}#=%=#luhengtong@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{3}{Firstname}#=%=#Shuyu
+Author{3}{Lastname}#=%=#Lei
+Author{3}{Username}#=%=#leishuyu_thriving
+Author{3}{Email}#=%=#leishuyu@meituan.com
+Author{3}{Affiliation}#=%=#Meituan
+Author{4}{Firstname}#=%=#Huixing
+Author{4}{Lastname}#=%=#Jiang
+Author{4}{Username}#=%=#huixingjiang
+Author{4}{Email}#=%=#jianghuixing@meituan.com
+Author{4}{Affiliation}#=%=#Meituan Group
+Author{5}{Firstname}#=%=#Wei
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#wuwei
+Author{5}{Email}#=%=#wuwei19850318@gmail.com
+Author{5}{Affiliation}#=%=#meituan
+Author{6}{Firstname}#=%=#Caixia
+Author{6}{Lastname}#=%=#Yuan
+Author{6}{Username}#=%=#yuancx
+Author{6}{Email}#=%=#yuancx@bupt.edu.cn
+Author{6}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{7}{Firstname}#=%=#Xiaojie
+Author{7}{Lastname}#=%=#WANG
+Author{7}{Username}#=%=#xjwang
+Author{7}{Email}#=%=#xjwang@bupt.edu.cn
+Author{7}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+
+==========

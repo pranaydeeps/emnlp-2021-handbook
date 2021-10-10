@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#520
+FinalPaperTitle#=%=#BFClass: A Backdoor-free Text Classification Framework
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Dheeraj Mekala
+JobTitle#==#
+Organization#==#
+Abstract#==#Backdoor attack introduces artificial vulnerabilities into the model by poisoning a subset of the training data via injecting triggers and modifying labels. Various trigger design strategies have been explored to attack text classifiers, however, defending such attacks remains an open problem. In this work, we propose BFClass, a novel efficient backdoor-free training framework for text classification. 
+The backbone of BFClass is a pre-trained discriminator that predicts whether each token in the corrupted input was replaced by a masked language model. To identify triggers, we utilize this discriminator to locate the most suspicious token from each training sample and then distill a concise set by considering their association strengths with particular labels. To recognize the poisoned subset, we examine the training samples with these identified triggers as the most suspicious token, and check if removing the trigger will change the poisoned model's prediction. Extensive experiments demonstrate that BFClass can identify all the triggers, remove 95% poisoned training samples with very limited false alarms, and achieve almost the same performance as the models trained on the benign training data.
+Author{1}{Firstname}#=%=#Zichao
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#zichaoli
+Author{1}{Email}#=%=#zil023@ucsd.edu
+Author{1}{Affiliation}#=%=#University of California, San Diego
+Author{2}{Firstname}#=%=#Dheeraj
+Author{2}{Lastname}#=%=#Mekala
+Author{2}{Username}#=%=#dheeraj7596
+Author{2}{Email}#=%=#dmekala@ucsd.edu
+Author{2}{Affiliation}#=%=#University of California San Diego
+Author{3}{Firstname}#=%=#Chengyu
+Author{3}{Lastname}#=%=#Dong
+Author{3}{Username}#=%=#chengyu77
+Author{3}{Email}#=%=#cdong@ucsd.edu
+Author{3}{Affiliation}#=%=#University of California, San Diego
+Author{4}{Firstname}#=%=#Jingbo
+Author{4}{Lastname}#=%=#Shang
+Author{4}{Username}#=%=#shangjingbo
+Author{4}{Email}#=%=#jshang@ucsd.edu
+Author{4}{Affiliation}#=%=#University of California, San Diego
+
+==========

@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#2350
+FinalPaperTitle#=%=#CodRED: A Cross-Document Relation Extraction Dataset for Acquiring Knowledge in the Wild
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Yuan Yao
+JobTitle#==#
+Organization#==#
+Abstract#==#Existing relation extraction (RE) methods typically focus on extracting relational facts between entity pairs within single sentences or documents. However, a large quantity of relational facts in knowledge bases can only be inferred across documents in practice. In this work, we present the problem of cross-document RE, making an initial step towards knowledge acquisition in the wild. To facilitate the research, we construct the first human-annotated cross-document RE dataset CodRED. Compared to existing RE datasets, CodRED presents two key challenges: Given two entities, (1) it requires finding the relevant documents that can provide clues for identifying their relations; (2) it requires reasoning over multiple documents to extract the relational facts. We conduct comprehensive experiments to show that CodRED is challenging to existing RE methods including strong BERT-based models.
+Author{1}{Firstname}#=%=#Yuan
+Author{1}{Lastname}#=%=#Yao
+Author{1}{Username}#=%=#yaoyuanthu
+Author{1}{Email}#=%=#yaoyuanthu@163.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Jiaju
+Author{2}{Lastname}#=%=#Du
+Author{2}{Username}#=%=#kafuuchino
+Author{2}{Email}#=%=#i@dujiaju.me
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Yankai
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Username}#=%=#lyk423
+Author{3}{Email}#=%=#yankailin@tencent.com
+Author{3}{Affiliation}#=%=#Pattern Recognition Center, WeChat, Tencent
+Author{4}{Firstname}#=%=#Peng
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lipeng17
+Author{4}{Email}#=%=#patrickpli@tencent.com
+Author{4}{Affiliation}#=%=#WeChat AI, Tencent Inc., China
+Author{5}{Firstname}#=%=#Zhiyuan
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#lzy.thu
+Author{5}{Email}#=%=#liuzy@tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua University
+Author{6}{Firstname}#=%=#Jie
+Author{6}{Lastname}#=%=#Zhou
+Author{6}{Username}#=%=#jerryitp
+Author{6}{Email}#=%=#withtomzhou@tencent.com
+Author{6}{Affiliation}#=%=#Tencent Inc.
+Author{7}{Firstname}#=%=#Maosong
+Author{7}{Lastname}#=%=#Sun
+Author{7}{Username}#=%=#sms
+Author{7}{Email}#=%=#sms@tsinghua.edu.cn
+Author{7}{Affiliation}#=%=#Tsinghua University
+
+==========

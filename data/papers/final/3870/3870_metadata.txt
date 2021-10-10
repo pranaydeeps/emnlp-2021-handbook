@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3870
+FinalPaperTitle#=%=#Simple Entity-Centric Questions Challenge Dense Retrievers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Christopher Sciavolino
+JobTitle#==#
+Organization#==#
+Abstract#==#Open-domain question answering has exploded in popularity recently due to the success of dense retrieval models, which have surpassed sparse models using only a few supervised training examples. However, in this paper, we demonstrate current dense models are not yet the holy grail of retrieval. We first construct EntityQuestions, a set of simple, entity-rich questions based on facts from Wikidata (e.g., "Where  was  Arve  Furset  born?"), and observe that dense retrievers drastically under-perform sparse methods. We investigate this issue and uncover that dense retrievers can only generalize to common entities unless the question pattern is explicitly observed during training. We discuss two simple solutions towards addressing this critical problem. First, we demonstrate that data augmentation is unable to fix the generalization problem. Second, we argue a more robust passage encoder helps facilitate better question adaptation using specialized question encoders. We hope our work can shed light on the challenges in  creating a robust, universal dense retriever that works well across different input distributions.
+Author{1}{Firstname}#=%=#Christopher
+Author{1}{Lastname}#=%=#Sciavolino
+Author{1}{Username}#=%=#cdsciavolino
+Author{1}{Email}#=%=#cds3@cs.princeton.edu
+Author{1}{Affiliation}#=%=#Princeton University
+Author{2}{Firstname}#=%=#Zexuan
+Author{2}{Lastname}#=%=#Zhong
+Author{2}{Username}#=%=#zexuan2
+Author{2}{Email}#=%=#zzhong@princeton.edu
+Author{2}{Affiliation}#=%=#Princeton University
+Author{3}{Firstname}#=%=#Jinhyuk
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#jinhyuk
+Author{3}{Email}#=%=#jinhyuk_lee@korea.ac.kr
+Author{3}{Affiliation}#=%=#Korea University
+Author{4}{Firstname}#=%=#Danqi
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#cdq10131
+Author{4}{Email}#=%=#danqic@cs.princeton.edu
+Author{4}{Affiliation}#=%=#Princeton University
+
+==========

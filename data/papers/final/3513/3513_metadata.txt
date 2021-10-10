@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#3513
+FinalPaperTitle#=%=#Uncertainty-Aware Machine Translation Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Chrysoula Zerva
+JobTitle#==#
+Organization#==#Instituto de Telecomunicações (IT) 
+Instituto Superior Técnico - Torre Norte - Piso 10
+Av. Rovisco Pais, 1
+1049 - 001 Lisboa - Portugal
+Abstract#==#Several neural-based metrics have been recently proposed to evaluate machine translation quality. However, all of them resort to point estimates, which provide limited information at segment level. This is made worse as they are trained on noisy, biased and scarce human judgements, often resulting in unreliable quality predictions.
+In this paper, we introduce uncertainty-aware MT evaluation and analyze the trustworthiness of the predicted quality.
+We combine the COMET framework with two uncertainty estimation methods, Monte Carlo dropout and deep ensembles, to obtain quality scores along with confidence intervals. 
+We compare the performance of our uncertainty-aware MT evaluation methods across multiple language pairs from the QT21 dataset and the WMT20 metrics task, augmented with MQM annotations. We experiment with varying numbers of references and further discuss the usefulness of uncertainty-aware quality estimation (without references) to flag possibly critical translation mistakes.
+Author{1}{Firstname}#=%=#Taisiya
+Author{1}{Lastname}#=%=#Glushkova
+Author{1}{Username}#=%=#glushkovato
+Author{1}{Email}#=%=#taisiya.glushkova@tecnico.ulisboa.pt
+Author{1}{Affiliation}#=%=#Instituto de Telecomunicações, Instituto Superior Técnico, University of Lisbon
+Author{2}{Firstname}#=%=#Chrysoula
+Author{2}{Lastname}#=%=#Zerva
+Author{2}{Username}#=%=#chryssa
+Author{2}{Email}#=%=#chrysoula.zerva@tecnico.ulisboa.pt
+Author{2}{Affiliation}#=%=#Instituto de Telecomunicações, Instituto Superior Técnico, University of Lisbon
+Author{3}{Firstname}#=%=#Ricardo
+Author{3}{Lastname}#=%=#Rei
+Author{3}{Username}#=%=#ricardorei
+Author{3}{Email}#=%=#ricardo.rei@unbabel.com
+Author{3}{Affiliation}#=%=#Unbabel/INESC-ID
+Author{4}{Firstname}#=%=#André F. T.
+Author{4}{Lastname}#=%=#Martins
+Author{4}{Username}#=%=#afm
+Author{4}{Email}#=%=#andre.t.martins@tecnico.ulisboa.pt
+Author{4}{Affiliation}#=%=#Unbabel, Instituto de Telecomunicacoes
+
+==========

@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#402
+FinalPaperTitle#=%=#Explore Better Relative Position Embeddings from Encoding Perspective for Transformer Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Anlin Qu
+JobTitle#==#
+Organization#==#Beihang University
+Abstract#==#Relative position embedding (RPE) is a successful method to explicitly and efficaciously encode position information into Transformer models. In this paper, we investigate the potential problems in Shaw-RPE and XL-RPE, which are the most representative and prevalent RPEs, and propose two novel RPEs called Low-level Fine-grained High-level Coarse-grained (LFHC) RPE and Gaussian Cumulative Distribution Function (GCDF) RPE. LFHC-RPE is an improvement of Shaw-RPE, which enhances the perception ability at medium and long relative positions. GCDF-RPE utilizes the excellent properties of the Gaussian function to amend the prior encoding mechanism in XL-RPE. Experimental results on nine authoritative datasets demonstrate the effectiveness of our methods empirically. Furthermore, GCDF-RPE achieves the best overall performance among five different RPEs.
+Author{1}{Firstname}#=%=#Anlin
+Author{1}{Lastname}#=%=#Qu
+Author{1}{Username}#=%=#menghuanlater
+Author{1}{Email}#=%=#anlin781205936@buaa.edu.cn
+Author{1}{Affiliation}#=%=#Beihang University
+Author{2}{Firstname}#=%=#Jianwei
+Author{2}{Lastname}#=%=#Niu
+Author{2}{Username}#=%=#niujianwei
+Author{2}{Email}#=%=#niujianwei@buaa.edu.cn
+Author{3}{Firstname}#=%=#Shasha
+Author{3}{Lastname}#=%=#Mo
+Author{3}{Username}#=%=#shashamo
+Author{3}{Email}#=%=#moshasha@buaa.edu.cn
+Author{3}{Affiliation}#=%=#Beihang University
+
+==========

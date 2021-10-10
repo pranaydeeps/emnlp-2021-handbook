@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#1061
+FinalPaperTitle#=%=#Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yu Meng
+JobTitle#==#
+Organization#==#
+Abstract#==#We study the problem of training named entity recognition (NER) models using only distantly-labeled data, which can be automatically obtained by matching entity mentions in the raw text with entity types in a knowledge base.
+The biggest challenge of distantly-supervised NER is that the distant supervision may induce incomplete and noisy labels, rendering the straightforward application of supervised learning ineffective.
+In this paper, we propose (1) a noise-robust learning scheme comprised of a new loss function and a noisy label removal step, for training NER models on distantly-labeled data, and (2) a self-training method that uses contextualized augmentations created by pre-trained language models to improve the generalization ability of the NER model.
+On three benchmark datasets, our method achieves superior performance, outperforming existing distantly-supervised NER models by significant margins.
+Author{1}{Firstname}#=%=#Yu
+Author{1}{Lastname}#=%=#Meng
+Author{1}{Username}#=%=#yumeng5
+Author{1}{Email}#=%=#yumeng5@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Yunyi
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#yzhan238
+Author{2}{Email}#=%=#yzhan238@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois Urbana-Champaign
+Author{3}{Firstname}#=%=#Jiaxin
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Username}#=%=#teapot123
+Author{3}{Email}#=%=#jiaxinh3@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois Urbana-Champaign
+Author{4}{Firstname}#=%=#Xuan
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#xuanwang
+Author{4}{Email}#=%=#xwang174@illinois.edu
+Author{4}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{5}{Firstname}#=%=#Yu
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#yuzhimanhua
+Author{5}{Email}#=%=#yuz9@illinois.edu
+Author{5}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{6}{Firstname}#=%=#Heng
+Author{6}{Lastname}#=%=#Ji
+Author{6}{Username}#=%=#hengjirpi
+Author{6}{Email}#=%=#hengji@illinois.edu
+Author{6}{Affiliation}#=%=#University of Illinois at Urbana-Champaign and Amazon (Amazon Scholar)
+Author{7}{Firstname}#=%=#Jiawei
+Author{7}{Lastname}#=%=#Han
+Author{7}{Username}#=%=#hanj
+Author{7}{Email}#=%=#hanj@illinois.edu
+Author{7}{Affiliation}#=%=#UIUC
+
+==========

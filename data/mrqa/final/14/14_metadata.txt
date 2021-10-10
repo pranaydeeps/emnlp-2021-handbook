@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#What Would it Take to get Biomedical QA Systems into Practice?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Gregory Kell
+JobTitle#==#
+Organization#==#
+Abstract#==#Medical question answering (QA) systems have the potential to answer clinicians' uncertainties about treatment and diagnosis on-demand, informed by the latest evidence.    However, despite the significant progress in general QA made by the NLP community, medical QA systems are still not widely used in clinical environments.  One likely reason for this is that clinicians may not readily trust QA system outputs, in part because transparency,  trustworthiness, and provenance have not been key considerations in the design of such models.  In this paper we discuss a set of criteria that, if met, we argue would likely increase the utility of biomedical QA systems, which may in turn lead to adoption of such systems in practice.  We assess existing models, tasks, and datasets with respect to these criteria, highlighting shortcomings of previously proposed approaches and pointing toward what might be more usable QA systems.
+Author{1}{Firstname}#=%=#Gregory
+Author{1}{Lastname}#=%=#Kell
+Author{1}{Username}#=%=#gregory.kell
+Author{1}{Email}#=%=#gregory.kell@kcl.ac.uk
+Author{1}{Affiliation}#=%=#King's College London
+Author{2}{Firstname}#=%=#Iain
+Author{2}{Lastname}#=%=#Marshall
+Author{2}{Email}#=%=#iain.marshall@kcl.ac.uk
+Author{2}{Affiliation}#=%=#King's College London
+Author{3}{Firstname}#=%=#Byron
+Author{3}{Lastname}#=%=#Wallace
+Author{3}{Username}#=%=#byron.wallace
+Author{3}{Email}#=%=#byron.wallace@gmail.com
+Author{3}{Affiliation}#=%=#Northeastern
+Author{4}{Firstname}#=%=#Andre
+Author{4}{Lastname}#=%=#Jaun
+Author{4}{Email}#=%=#ajaun@metadvice.com
+Author{4}{Affiliation}#=%=#Metadvice
+
+==========

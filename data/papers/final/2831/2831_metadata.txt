@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#2831
+FinalPaperTitle#=%=#Feedback Attribution for Counterfactual Bandit Learning in Multi-Domain Spoken Language Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Tobias Falke
+JobTitle#==#
+Organization#==#Amazon Development Center Germany GmbH
+Krausenstr. 38
+10117 Berlin, Germany
+Abstract#==#With counterfactual bandit learning, models can be trained based on positive and negative feedback received for historical predictions, with no labeled data needed. Such feedback is often available in real-world dialog systems, however, the modularized architecture commonly used in large-scale systems prevents the direct application of such algorithms. In this paper, we study the feedback attribution problem that arises when using counterfactual bandit learning for multi-domain spoken language understanding. We introduce an experimental setup to simulate the problem on small-scale public datasets, propose attribution methods inspired by multi-agent reinforcement learning and evaluate them against multiple baselines. We find that while directly using overall feedback leads to disastrous performance, our proposed attribution methods can allow training competitive models from user feedback.
+Author{1}{Firstname}#=%=#Tobias
+Author{1}{Lastname}#=%=#Falke
+Author{1}{Username}#=%=#falke
+Author{1}{Email}#=%=#tobias_falke@web.de
+Author{1}{Affiliation}#=%=#Amazon Alexa AI
+Author{2}{Firstname}#=%=#Patrick
+Author{2}{Lastname}#=%=#Lehnen
+Author{2}{Username}#=%=#patrick.lehnen
+Author{2}{Email}#=%=#lehnen@cs.rwth-aachen.de
+Author{2}{Affiliation}#=%=#Human Language Technology and Pattern Recognition, Computer Science Department, RWTH Aachen University, Aachen, Germany
+
+==========

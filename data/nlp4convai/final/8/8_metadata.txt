@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Multilingual Paraphrase Generation For Bootstrapping New Features in Task-Oriented Dialog Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tobias Falke
+JobTitle#==#
+Organization#==#Amazon Development Center Germany GmbH, Krausenstr. 38, 10117 Berlin
+Abstract#==#The lack of labeled training data for new features is a common problem in rapidly changing real-world dialog systems. As a solution, we propose a multilingual paraphrase generation model that can be used to generate novel utterances for a target feature and target language. The generated utterances can be used to augment existing training data to improve intent classification and slot labeling models. We evaluate the quality of generated utterances using intrinsic evaluation metrics and by conducting downstream evaluation experiments with English as the source language and nine different target languages. Our method shows promise across languages, even in a zero-shot setting where no seed data is available.
+Author{1}{Firstname}#=%=#Subhadarshi
+Author{1}{Lastname}#=%=#Panda
+Author{1}{Username}#=%=#subhadarship
+Author{1}{Email}#=%=#spanda@gradcenter.cuny.edu
+Author{1}{Affiliation}#=%=#Graduate Center CUNY
+Author{2}{Firstname}#=%=#Caglar
+Author{2}{Lastname}#=%=#Tirkaz
+Author{2}{Username}#=%=#caglartirkaz
+Author{2}{Email}#=%=#caglartirkaz@gmail.com
+Author{3}{Firstname}#=%=#Tobias
+Author{3}{Lastname}#=%=#Falke
+Author{3}{Username}#=%=#falke
+Author{3}{Email}#=%=#tobias_falke@web.de
+Author{3}{Affiliation}#=%=#Amazon Alexa AI
+Author{4}{Firstname}#=%=#Patrick
+Author{4}{Lastname}#=%=#Lehnen
+Author{4}{Username}#=%=#patrick.lehnen
+Author{4}{Email}#=%=#lehnen@cs.rwth-aachen.de
+Author{4}{Affiliation}#=%=#Human Language Technology and Pattern Recognition, Computer Science Department, RWTH Aachen University, Aachen, Germany
+
+==========

@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#GermanQuAD and GermanDPR: Improving Non-English Question Answering and Passage Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Julian Risch
+JobTitle#==#
+Organization#==#
+Abstract#==#A major challenge of research on non-English machine reading for question answering (QA) is the lack of annotated datasets. In this paper, we present GermanQuAD, a dataset of 13,722 extractive question/answer pairs. To improve the reproducibility of the dataset creation approach and foster QA research on other languages, we summarize lessons learned and evaluate reformulation of question/answer pairs as a way to speed up the annotation process. An extractive QA model trained on GermanQuAD significantly outperforms multilingual models and also shows that machine-translated training data cannot fully substitute hand-annotated training data in the target language. Finally, we demonstrate the wide range of applications of GermanQuAD by adapting it to GermanDPR, a training dataset for dense passage retrieval (DPR), and train and evaluate one of the first non-English DPR models.
+Author{1}{Firstname}#=%=#Timo
+Author{1}{Lastname}#=%=#Möller
+Author{1}{Email}#=%=#timo.moeller@deepset.ai
+Author{1}{Affiliation}#=%=#deepset
+Author{2}{Firstname}#=%=#Julian
+Author{2}{Lastname}#=%=#Risch
+Author{2}{Username}#=%=#jrisch
+Author{2}{Email}#=%=#julian.risch@hpi.de
+Author{2}{Affiliation}#=%=#deepset
+Author{3}{Firstname}#=%=#Malte
+Author{3}{Lastname}#=%=#Pietsch
+Author{3}{Email}#=%=#malte.pietsch@deepset.ai
+Author{3}{Affiliation}#=%=#deepset
+
+==========

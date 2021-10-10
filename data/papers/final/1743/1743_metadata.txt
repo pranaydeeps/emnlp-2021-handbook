@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1743
+FinalPaperTitle#=%=#Span Pointer Networks for Non-Autoregressive Task-Oriented Semantic Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Akshat Shrivastava
+JobTitle#==#ML Engineer
+Organization#==#Facebook
+Abstract#==#An effective recipe for building seq2seq, non-autoregressive, task-oriented parsers to map utterances to semantic frames proceeds in three steps: encoding an utterance x, predicting a frame's length |y|, and decoding a |y|-sized frame with utterance and ontology tokens. Though empirically strong, these models are typically bottlenecked by length prediction, as even small inaccuracies change the syntactic and semantic characteristics of resulting frames. In our work, we propose span pointer networks, non-autoregressive parsers which shift the decoding task from text generation to span prediction; that is, when imputing utterance spans into frame slots, our model produces endpoints (e.g., [i, j]) as opposed to text (e.g., "6pm"). This natural quantization of the output space reduces the variability of gold frames, therefore improving length prediction and, ultimately, exact match. Furthermore, length prediction is now responsible for frame syntax and the decoder is responsible for frame semantics, resulting in a coarse-to-fine model. We evaluate our approach on several task-oriented semantic parsing datasets. Notably, we bridge the quality gap between non-autogressive and autoregressive parsers, achieving 87 EM on TOPv2 (Chen et al. 2020). Furthermore, due to our more consistent gold frames, we show strong improvements in model generalization in both cross-domain and cross-lingual transfer in low-resource settings. Finally, due to our diminished output vocabulary, we observe 70% reduction in latency and 83% reduction in memory at beam size 5 compared to prior non-autoregressive parsers.
+Author{1}{Firstname}#=%=#Akshat
+Author{1}{Lastname}#=%=#Shrivastava
+Author{1}{Username}#=%=#akshats
+Author{1}{Email}#=%=#akshat.shrivastava1998@gmail.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Pierce
+Author{2}{Lastname}#=%=#Chuang
+Author{2}{Username}#=%=#pichuang
+Author{2}{Email}#=%=#pichuang@fb.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Arun
+Author{3}{Lastname}#=%=#Babu
+Author{3}{Username}#=%=#arbabu
+Author{3}{Email}#=%=#toarunbabu@gmail.com
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Shrey
+Author{4}{Lastname}#=%=#Desai
+Author{4}{Username}#=%=#shreydesai
+Author{4}{Email}#=%=#shreyd@fb.com
+Author{4}{Affiliation}#=%=#Facebook
+Author{5}{Firstname}#=%=#Abhinav
+Author{5}{Lastname}#=%=#Arora
+Author{5}{Username}#=%=#abhinavarora
+Author{5}{Email}#=%=#abhinavarora28@gmail.com
+Author{5}{Affiliation}#=%=#Facebook
+Author{6}{Firstname}#=%=#Alexander
+Author{6}{Lastname}#=%=#Zotov
+Author{6}{Username}#=%=#alexzotov
+Author{6}{Email}#=%=#alexzotov@msn.com
+Author{6}{Affiliation}#=%=#Facebook Inc.
+Author{7}{Firstname}#=%=#Ahmed
+Author{7}{Lastname}#=%=#Aly
+Author{7}{Username}#=%=#ahhegazy
+Author{7}{Email}#=%=#ahmedhegazy89@gmail.com
+Author{7}{Affiliation}#=%=#Facebook
+
+==========

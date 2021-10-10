@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2847
+FinalPaperTitle#=%=#Generic resources are what you need: Style transfer tasks without task-specific parallel training data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Huiyuan Lai
+JobTitle#==#
+Organization#==#
+Abstract#==#Style transfer aims to rewrite a source text in a different target style while preserving its content. We propose a novel approach to this task that leverages generic resources, and without using any task-specific parallel (source–target)  data outperforms existing unsupervised approaches on the two most popular style transfer tasks: formality transfer and polarity swap. In practice, we adopt a multi-step procedure which builds on a generic pre-trained sequence-to-sequence model (BART). First, we strengthen the model's ability to rewrite by further pre-training BART on both an existing collection of generic paraphrases, as well as on synthetic pairs created using a general-purpose lexical resource. Second, through an iterative back-translation approach, we train two models, each in a transfer direction, so that they can provide each other with synthetically generated pairs, dynamically in the training process. Lastly, we let our best resulting model generate static synthetic pairs to be used in a supervised training regime. Besides methodology and state-of-the-art results, a core contribution of this work is a reflection on the nature of the two tasks we address, and how their differences are highlighted by their response to our approach.
+Author{1}{Firstname}#=%=#Huiyuan
+Author{1}{Lastname}#=%=#Lai
+Author{1}{Username}#=%=#lawe
+Author{1}{Email}#=%=#h.lai@rug.nl
+Author{1}{Affiliation}#=%=#University of Groningen
+Author{2}{Firstname}#=%=#Antonio
+Author{2}{Lastname}#=%=#Toral
+Author{2}{Username}#=%=#atoral
+Author{2}{Email}#=%=#a.toral.ruiz@rug.nl
+Author{2}{Affiliation}#=%=#University of Groningen
+Author{3}{Firstname}#=%=#Malvina
+Author{3}{Lastname}#=%=#Nissim
+Author{3}{Username}#=%=#malvina
+Author{3}{Email}#=%=#m.nissim@rug.nl
+Author{3}{Affiliation}#=%=#University of Groningen
+
+==========

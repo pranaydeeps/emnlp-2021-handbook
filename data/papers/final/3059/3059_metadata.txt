@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#3059
+FinalPaperTitle#=%=#Sequential Randomized Smoothing for Adversarially Robust Speech Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Raphael Olivier
+JobTitle#==#
+Organization#==#Carnegie Mellon University, Language Technologies Institute
+5000 Forbes avenue, Pittsburgh PA 15213, USA
+Abstract#==#While Automatic Speech Recognition has been shown to be vulnerable to adversarial attacks, defenses against these attacks are still lagging. Existing, naive defenses can be partially broken with an adaptive attack. In classification tasks, the Randomized Smoothing paradigm has been shown to be effective at defending models. However, it is difficult to apply this paradigm to ASR tasks, due to their complexity and the sequential nature of their outputs. Our paper overcomes some of these challenges by leveraging speech-specific tools like enhancement and ROVER voting to design an ASR model that is robust to perturbations. We apply adaptive versions of state-of-the-art attacks, such as the Imperceptible ASR attack, to our model, and show that our strongest defense is robust to all attacks that use inaudible noise, and can only be broken with very high distortion.
+Author{1}{Firstname}#=%=#Raphael
+Author{1}{Lastname}#=%=#Olivier
+Author{1}{Username}#=%=#rolivier
+Author{1}{Email}#=%=#rolivier@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Bhiksha
+Author{2}{Lastname}#=%=#Raj
+Author{2}{Username}#=%=#bhiksha
+Author{2}{Email}#=%=#bhiksha@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

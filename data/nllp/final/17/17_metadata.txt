@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#JuriBERT: A Masked-Language Model Adaptation for French Legal Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Stella Douka
+JobTitle#==#
+Organization#==#Ecole Polytechnique, Paris
+Abstract#==#Language models have proven to be very useful when adapted to specific domains. Nonetheless, little research has been done on the adaptation of domain-specific BERT models in the French language. In this paper, we focus on creating a language model adapted to French legal text with the goal of helping law professionals. We conclude that some specific tasks do not benefit from generic language models pre-trained on large amounts of data. We explore the use of smaller architectures in domain-specific sub-languages and their benefits for French legal text. We prove that domain-specific pre-trained models can perform better than their equivalent generalised ones in the legal domain. Finally, we release JuriBERT, a new set of BERT models adapted to the French legal domain.
+Author{1}{Firstname}#=%=#Stella
+Author{1}{Lastname}#=%=#Douka
+Author{1}{Username}#=%=#stelladk
+Author{1}{Email}#=%=#douka@lix.polytechnique.fr
+Author{1}{Affiliation}#=%=#Ecole Polytechnique
+Author{2}{Firstname}#=%=#Hadi
+Author{2}{Lastname}#=%=#Abdine
+Author{2}{Username}#=%=#hadi-polytechnique
+Author{2}{Email}#=%=#hadi.abdine@polytechnique.edu
+Author{2}{Affiliation}#=%=#Ecole polytechnique
+Author{3}{Firstname}#=%=#Michalis
+Author{3}{Lastname}#=%=#Vazirgiannis
+Author{3}{Username}#=%=#mvazirg
+Author{3}{Email}#=%=#mvazirg@lix.polytechnique.fr
+Author{3}{Affiliation}#=%=#Ecole Polytechnique
+Author{4}{Firstname}#=%=#Rajaa
+Author{4}{Lastname}#=%=#El Hamdani
+Author{4}{Email}#=%=#el-hamdani@hec.fr
+Author{4}{Affiliation}#=%=#HEC Paris
+Author{5}{Firstname}#=%=#David
+Author{5}{Lastname}#=%=#Restrepo Amariles
+Author{5}{Email}#=%=#restrepo-amariles@hec.fr
+Author{5}{Affiliation}#=%=#HEC Paris
+
+==========

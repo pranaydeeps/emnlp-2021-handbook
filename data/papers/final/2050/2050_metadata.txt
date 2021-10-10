@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#2050
+FinalPaperTitle#=%=#Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Thomas Scialom
+JobTitle#==#PhD student
+Organization#==#recital
+Abstract#==#Coupled with the availability of large scale datasets, deep learning architectures have enabled rapid progress on the Question Answering task. However, most of those datasets are in English, and the performances of state-of-the-art multilingual models are significantly lower when evaluated on non-English data. Due to high data collection costs, it is not realistic to obtain annotated data for each language one desires to support. 
+
+We propose a method to improve the Cross-lingual Question Answering performance without requiring additional annotated data, leveraging Question Generation models to produce synthetic samples in a cross-lingual fashion. We show that the proposed method allows to significantly outperform the baselines trained on English data only. We report a new state-of-the-art on four datasets: MLQA, XQuAD, SQuAD-it and PIAF (fr).
+Author{1}{Firstname}#=%=#Arij
+Author{1}{Lastname}#=%=#riabi
+Author{1}{Username}#=%=#arij
+Author{1}{Email}#=%=#arij.riabi@inria.fr
+Author{1}{Affiliation}#=%=#Inria
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Scialom
+Author{2}{Username}#=%=#thomas_nlp
+Author{2}{Email}#=%=#thomas@recital.ai
+Author{2}{Affiliation}#=%=#reciTAL, LIP6
+Author{3}{Firstname}#=%=#Rachel
+Author{3}{Lastname}#=%=#Keraron
+Author{3}{Email}#=%=#rachel@recital.ai
+Author{3}{Affiliation}#=%=#reciTAL
+Author{4}{Firstname}#=%=#Benoît
+Author{4}{Lastname}#=%=#Sagot
+Author{4}{Username}#=%=#benoit.sagot
+Author{4}{Email}#=%=#benoit.sagot@inria.fr
+Author{4}{Affiliation}#=%=#Inria
+Author{5}{Firstname}#=%=#Djamé
+Author{5}{Lastname}#=%=#Seddah
+Author{5}{Username}#=%=#djame
+Author{5}{Email}#=%=#djame.seddah@gmail.com
+Author{5}{Affiliation}#=%=#Inria
+Author{6}{Firstname}#=%=#Jacopo
+Author{6}{Lastname}#=%=#Staiano
+Author{6}{Username}#=%=#jacopostaiano
+Author{6}{Email}#=%=#jacopo@recital.ai
+Author{6}{Affiliation}#=%=#reciTAL
+
+==========

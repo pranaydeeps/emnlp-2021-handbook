@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#341
+FinalPaperTitle#=%=#Frame Semantic-Enhanced Sentence Modeling for Sentence-level Extractive Text Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Yong Guan
+JobTitle#==#
+Organization#==#
+Abstract#==#Sentence-level extractive text summarization aims to select important sentences from a given document. However, it is very challenging to model the importance of sentences. In this paper, we propose a novel Frame Semantic-Enhanced Sentence Modeling for Extractive Summarization, which leverages Frame semantics to model sentences from both intra-sentence level and inter-sentence level, facilitating  the text summarization task. In particular, intra-sentence level semantics leverage Frames and Frame Elements to model internal semantic structure within a sentence, while inter-sentence level semantics leverage Frame-to-Frame relations to model relationships among sentences. Extensive experiments on two benchmark corpus CNN/DM and NYT demonstrate  that our model outperforms six state-of-the-art methods significantly.
+Author{1}{Firstname}#=%=#Yong
+Author{1}{Lastname}#=%=#Guan
+Author{1}{Username}#=%=#batian
+Author{1}{Email}#=%=#guanyong0130@163.com
+Author{1}{Affiliation}#=%=#Shanxi University
+Author{2}{Firstname}#=%=#Shaoru
+Author{2}{Lastname}#=%=#Guo
+Author{2}{Username}#=%=#guoshaoru
+Author{2}{Email}#=%=#guoshaoru0928@163.com
+Author{2}{Affiliation}#=%=#Shanxi University
+Author{3}{Firstname}#=%=#Ru
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#liru
+Author{3}{Email}#=%=#liru@sxu.edu.cn
+Author{3}{Affiliation}#=%=#School of Computer and Information Technology，Shanxi University
+Author{4}{Firstname}#=%=#Xiaoli
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#xiaolili
+Author{4}{Email}#=%=#xlli@i2r.a-star.edu.sg
+Author{4}{Affiliation}#=%=#Institute for Infocomm Research/Nanyang Technological University
+Author{5}{Firstname}#=%=#Hongye
+Author{5}{Lastname}#=%=#Tan
+Author{5}{Username}#=%=#tanhongye
+Author{5}{Email}#=%=#tanhongye@sxu.edu.cn
+Author{5}{Affiliation}#=%=#School of Computer Science and Info. Tech. of Shanxi University
+
+==========

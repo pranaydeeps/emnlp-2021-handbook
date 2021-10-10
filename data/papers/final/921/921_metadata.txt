@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#921
+FinalPaperTitle#=%=#Multiplex Graph Neural Network for Extractive Text Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Baoyu Jing
+JobTitle#==#
+Organization#==#
+Abstract#==#Extractive text summarization aims at extracting the most representative sentences from a given document as its summary.  To extract a good summary from a long text document, sentence embedding plays an important role. Recent studies have leveraged graph neural networks to capture the inter-sentential relationship (e.g., the discourse graph) within the documents to learn contextual sentence embedding. However, those approaches neither consider multiple types of inter-sentential relationships (e.g., semantic similarity and natural connection relationships), nor model intra-sentential relationships (e.g, semantic similarity and syntactic relationship among words). To address these problems, we propose a novel Multiplex Graph Convolutional Network (Multi-GCN) to jointly model different types of relationships among sentences and words. Based on Multi-GCN, we propose a Multiplex Graph Summarization (Multi-GraS) model for extractive text summarization. Finally, we evaluate the proposed models on the CNN/DailyMail benchmark dataset to demonstrate effectiveness of our method.
+Author{1}{Firstname}#=%=#Baoyu
+Author{1}{Lastname}#=%=#Jing
+Author{1}{Username}#=%=#jby2018
+Author{1}{Email}#=%=#jingby1994@gmail.com
+Author{1}{Affiliation}#=%=#UIUC
+Author{2}{Firstname}#=%=#Zeyu
+Author{2}{Lastname}#=%=#You
+Author{2}{Username}#=%=#zeyuyou8688
+Author{2}{Email}#=%=#youzeyu860423@gmail.com
+Author{2}{Affiliation}#=%=#Tencent Hippocrates Research Lab
+Author{3}{Firstname}#=%=#Tao
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Username}#=%=#taoyang1989
+Author{3}{Email}#=%=#tytaoyang@tencent.com
+Author{3}{Affiliation}#=%=#Tencent Hippocrates Research Lab
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Fan
+Author{4}{Email}#=%=#davidwfan@tencent.com
+Author{4}{Affiliation}#=%=#Tencent
+Author{5}{Firstname}#=%=#Hanghang
+Author{5}{Lastname}#=%=#Tong
+Author{5}{Username}#=%=#htong
+Author{5}{Email}#=%=#htong@illinois.edu
+Author{5}{Affiliation}#=%=#UIUC
+
+==========

@@ -1,0 +1,65 @@
+SubmissionNumber#=%=#3860
+FinalPaperTitle#=%=#Zero-Shot Dialogue State Tracking via Cross-Task Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhaojiang Lin
+JobTitle#==#
+Organization#==#
+Abstract#==#Zero-shot transfer learning for dialogue state tracking (DST) enables us to handle a variety of task-oriented dialogue domains without the expense of collecting in-domain data. In this work, we propose to transfer the cross-task knowledge from general question answering (QA) corpora for the zero-shot DST task. Specifically, we propose TransferQA, a transferable generative QA model that seamlessly combines extractive QA and multi-choice QA via a text-to-text transformer framework, and tracks both categorical slots and non-categorical slots in DST. In addition, we introduce two effective ways to construct unanswerable questions, namely, negative question sampling and context truncation, which enable our model to handle none value slots in the zero-shot DST setting. The extensive experiments show that our approaches substantially improve the existing zero-shot and few-shot results on MultiWoz. Moreover, compared to the fully trained baseline on the Schema-Guided Dialogue dataset, our approach shows better generalization ability in unseen domains.
+Author{1}{Firstname}#=%=#Zhaojiang
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#zlinao
+Author{1}{Email}#=%=#zlinao@connect.ust.hk
+Author{1}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Bing
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#bingl1
+Author{2}{Email}#=%=#v.bingliu@gmail.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Andrea
+Author{3}{Lastname}#=%=#Madotto
+Author{3}{Username}#=%=#andreamad8
+Author{3}{Email}#=%=#amadotto@connect.ust.hk
+Author{3}{Affiliation}#=%=#The Hong Kong University Of Science and Technology
+Author{4}{Firstname}#=%=#Seungwhan
+Author{4}{Lastname}#=%=#Moon
+Author{4}{Username}#=%=#shanemoon
+Author{4}{Email}#=%=#me@shanemoon.com
+Author{4}{Affiliation}#=%=#Facebook Reality Labs
+Author{5}{Firstname}#=%=#Zhenpeng
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Username}#=%=#lightingghost
+Author{5}{Email}#=%=#zhenp3ngzhou@gmail.com
+Author{5}{Affiliation}#=%=#Facebook
+Author{6}{Firstname}#=%=#Paul
+Author{6}{Lastname}#=%=#Crook
+Author{6}{Username}#=%=#pacrook
+Author{6}{Email}#=%=#pacrook@fb.com
+Author{6}{Affiliation}#=%=#Facebook
+Author{7}{Firstname}#=%=#Zhiguang
+Author{7}{Lastname}#=%=#Wang
+Author{7}{Username}#=%=#stephenwang813
+Author{7}{Email}#=%=#zgwang813@gmail.com
+Author{7}{Affiliation}#=%=#Facebook AI
+Author{8}{Firstname}#=%=#Zhou
+Author{8}{Lastname}#=%=#Yu
+Author{8}{Username}#=%=#zhouyu
+Author{8}{Email}#=%=#zhouyu@cs.columbia.edu
+Author{8}{Affiliation}#=%=#Columbia University
+Author{9}{Firstname}#=%=#Eunjoon
+Author{9}{Lastname}#=%=#Cho
+Author{9}{Username}#=%=#ejcho623
+Author{9}{Email}#=%=#ejcho@fb.com
+Author{9}{Affiliation}#=%=#Facebook
+Author{10}{Firstname}#=%=#Rajen
+Author{10}{Lastname}#=%=#Subba
+Author{10}{Username}#=%=#rasubba
+Author{10}{Email}#=%=#rasubba@fb.com
+Author{10}{Affiliation}#=%=#Facebook
+Author{11}{Firstname}#=%=#Pascale
+Author{11}{Lastname}#=%=#Fung
+Author{11}{Username}#=%=#pascale
+Author{11}{Email}#=%=#pascale@ece.ust.hk
+Author{11}{Affiliation}#=%=#Hong Kong University of Science and Technology
+
+==========

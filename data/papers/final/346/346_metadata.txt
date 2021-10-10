@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#346
+FinalPaperTitle#=%=#A Simple and Effective Positional Encoding for Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Pu-Chin Chen
+JobTitle#==#
+Organization#==#Name: Google Research
+Address: 1600 Amphitheatre Parkway, Mountain View, CA 94043
+Abstract#==#Transformer models are permutation equivariant. To supply the order and type information of the input tokens, position and segment embeddings are usually added to the input. Recent works proposed variations of positional encodings with relative position encodings achieving better performance. Our analysis shows that the gain actually comes from moving positional information to attention layer from the input. Motivated by this, we introduce Decoupled Positional Attention for Transformers (DIET), a simple yet effective mechanism to encode position and segment information into the Transformer models. The proposed method has faster training and inference time, while achieving competitive performance on GLUE, XTREME and WMT benchmarks. We further generalize our method to long-range transformers and show performance gain.
+Author{1}{Firstname}#=%=#Pu-Chin
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#puchinchen
+Author{1}{Email}#=%=#puchin@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Henry
+Author{2}{Lastname}#=%=#Tsai
+Author{2}{Username}#=%=#henrytsai_google
+Author{2}{Email}#=%=#scan33scan33@gmail.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Srinadh
+Author{3}{Lastname}#=%=#Bhojanapalli
+Author{3}{Username}#=%=#bsrinadh
+Author{3}{Email}#=%=#bsrinadh@google.com
+Author{3}{Affiliation}#=%=#Google research
+Author{4}{Firstname}#=%=#Hyung Won
+Author{4}{Lastname}#=%=#Chung
+Author{4}{Username}#=%=#hwchung
+Author{4}{Email}#=%=#hwchung@google.com
+Author{4}{Affiliation}#=%=#Google Research
+Author{5}{Firstname}#=%=#Yin-Wen
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Username}#=%=#yinwen
+Author{5}{Email}#=%=#yinwen@google.com
+Author{5}{Affiliation}#=%=#Google Inc.
+Author{6}{Firstname}#=%=#Chun-Sung
+Author{6}{Lastname}#=%=#Ferng
+Author{6}{Username}#=%=#csferngg
+Author{6}{Email}#=%=#csferng@google.com
+Author{6}{Affiliation}#=%=#Google Research
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#4319
+FinalPaperTitle#=%=#Perturbation CheckLists for Evaluating {NLG} Evaluation Metrics
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Ananya B. Sai
+JobTitle#==#
+Organization#==#
+Abstract#==#Natural Language Generation (NLG) evaluation is a multifaceted task requiring assessment of multiple desirable criteria, e.g., fluency, coherency, coverage, relevance, adequacy, overall quality, etc. Across existing datasets for 6 NLG tasks, we observe that the human evaluation scores on these multiple criteria are often not correlated. For example, there is a very low correlation between human scores on fluency and data coverage for the task of structured data to text generation. This suggests that the current recipe of proposing new automatic evaluation metrics for NLG by showing that they correlate well with scores assigned by humans for a single criteria (overall quality) alone is inadequate. Indeed, our extensive study involving 25 automatic evaluation metrics across 6 different tasks and 18 different evaluation criteria shows that there is no single metric which correlates well with human scores on all desirable criteria, for most NLG tasks.
+Given this situation, we propose CheckLists for better design and evaluation of automatic metrics. We design templates which target a specific criteria (e.g., coverage) and perturb the output such that the quality gets affected only along this specific criteria (e.g., the coverage drops). We show that existing evaluation metrics are not robust against even such simple perturbations and disagree with scores assigned by humans to the perturbed output. The proposed templates thus allow for a fine-grained assessment of automatic evaluation metrics exposing their limitations and will facilitate better design, analysis and evaluation of such metrics. Our templates and code are available at https://iitmnlp.github.io/EvalEval/
+Author{1}{Firstname}#=%=#Ananya B.
+Author{1}{Lastname}#=%=#Sai
+Author{1}{Username}#=%=#ananyabsai
+Author{1}{Email}#=%=#ananya.b.sai@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology, Madras
+Author{2}{Firstname}#=%=#Tanay
+Author{2}{Lastname}#=%=#Dixit
+Author{2}{Email}#=%=#dixittanay@gmail.com
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Madras
+Author{3}{Firstname}#=%=#Dev Yashpal
+Author{3}{Lastname}#=%=#Sheth
+Author{3}{Email}#=%=#devsheth@cse.iitm.ac.in
+Author{3}{Affiliation}#=%=#Indian Institute of Technology, Madras
+Author{4}{Firstname}#=%=#Sreyas
+Author{4}{Lastname}#=%=#Mohan
+Author{4}{Email}#=%=#sm7582@nyu.edu
+Author{4}{Affiliation}#=%=#Center for Data Science, New York University
+Author{5}{Firstname}#=%=#Mitesh M.
+Author{5}{Lastname}#=%=#Khapra
+Author{5}{Username}#=%=#miteshk
+Author{5}{Email}#=%=#miteshk@cse.iitm.ac.in
+Author{5}{Affiliation}#=%=#Indian Institute of Technology Madras
+
+==========

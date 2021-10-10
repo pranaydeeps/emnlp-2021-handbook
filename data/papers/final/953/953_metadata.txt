@@ -1,0 +1,198 @@
+SubmissionNumber#=%=#953
+FinalPaperTitle#=%=#What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Sang-Woo Lee
+JobTitle#==#
+Organization#==#
+Abstract#==#GPT-3 shows remarkable in-context learning ability of large-scale language models (LMs) trained on hundreds of billion scale data.
+Here we address some remaining issues less reported by the GPT-3 paper, such as a non-English LM, the performances of different sized models, and the effect of recently introduced prompt optimization on in-context learning.
+To achieve this, we introduce HyperCLOVA, a Korean variant of 82B GPT-3 trained on a Korean-centric corpus of 560B tokens.
+Enhanced by our Korean-specific tokenization, HyperCLOVA with our training configuration shows state-of-the-art in-context zero-shot and few-shot learning performances on various downstream tasks in Korean. Also, we show the performance benefits of prompt-based learning and demonstrate how it can be integrated into the prompt engineering pipeline. Then we discuss the possibility of materializing the No Code AI paradigm by providing AI prototyping capabilities to non-experts of ML by introducing HyperCLOVA studio, an interactive prompt engineering interface. Lastly, we demonstrate the potential of our methods with three successful in-house applications.
+Author{1}{Firstname}#=%=#Boseop
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Username}#=%=#boseop.kim
+Author{1}{Email}#=%=#boseop.kim@navercorp.com
+Author{1}{Affiliation}#=%=#NAVER Clova
+Author{2}{Firstname}#=%=#HyoungSeok
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Username}#=%=#alex_kim
+Author{2}{Email}#=%=#hyoungseok.k@navercorp.com
+Author{2}{Affiliation}#=%=#NAVER Clova
+Author{3}{Firstname}#=%=#Sang-Woo
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#drafity
+Author{3}{Email}#=%=#sang.woo.lee@navercorp.com
+Author{3}{Affiliation}#=%=#NAVER Clova
+Author{4}{Firstname}#=%=#Gichang
+Author{4}{Lastname}#=%=#Lee
+Author{4}{Username}#=%=#gichang.lee
+Author{4}{Email}#=%=#gichang.lee@navercorp.com
+Author{4}{Affiliation}#=%=#NAVER CLOVA
+Author{5}{Firstname}#=%=#Donghyun
+Author{5}{Lastname}#=%=#Kwak
+Author{5}{Username}#=%=#imcomking
+Author{5}{Email}#=%=#donghyun.kwak@navercorp.com
+Author{5}{Affiliation}#=%=#Naver Clova
+Author{6}{Firstname}#=%=#Jeon
+Author{6}{Lastname}#=%=#Dong Hyeon
+Author{6}{Username}#=%=#jdh3577
+Author{6}{Email}#=%=#donghyeon.jeon@navercorp.com
+Author{6}{Affiliation}#=%=#NAVER Search
+Author{7}{Firstname}#=%=#Sunghyun
+Author{7}{Lastname}#=%=#Park
+Author{7}{Username}#=%=#pshy410
+Author{7}{Email}#=%=#sunghyun.park95@navercorp.com
+Author{7}{Affiliation}#=%=#Search Solutions, Inc
+Author{8}{Firstname}#=%=#Sungju
+Author{8}{Lastname}#=%=#Kim
+Author{8}{Username}#=%=#goddoe
+Author{8}{Email}#=%=#sungju.kim@navercorp.com
+Author{8}{Affiliation}#=%=#NAVER Clova
+Author{9}{Firstname}#=%=#Seonhoon
+Author{9}{Lastname}#=%=#Kim
+Author{9}{Username}#=%=#seankim902
+Author{9}{Email}#=%=#seonhoon.kim@navercorp.com
+Author{9}{Affiliation}#=%=#Naver Search
+Author{10}{Firstname}#=%=#dongpil
+Author{10}{Lastname}#=%=#seo
+Author{10}{Username}#=%=#dongpil
+Author{10}{Email}#=%=#dongpil.seo@navercorp.com
+Author{10}{Affiliation}#=%=#NAVER Clova
+Author{11}{Firstname}#=%=#Heungsub
+Author{11}{Lastname}#=%=#Lee
+Author{11}{Username}#=%=#heungsub.lee
+Author{11}{Email}#=%=#heungsub.lee@navercorp.com
+Author{11}{Affiliation}#=%=#NAVER Clova
+Author{12}{Firstname}#=%=#Minyoung
+Author{12}{Lastname}#=%=#Jeong
+Author{12}{Username}#=%=#kkung
+Author{12}{Email}#=%=#my.jeong@navercorp.com
+Author{12}{Affiliation}#=%=#NAVER CLOVA
+Author{13}{Firstname}#=%=#Sungjae
+Author{13}{Lastname}#=%=#Lee
+Author{13}{Username}#=%=#sung-jae.lee
+Author{13}{Email}#=%=#sung-jae.lee@navercorp.com
+Author{13}{Affiliation}#=%=#NAVER Clova
+Author{14}{Firstname}#=%=#Minsub
+Author{14}{Lastname}#=%=#Kim
+Author{14}{Username}#=%=#appleeji
+Author{14}{Email}#=%=#minssub.kim@navercorp.com
+Author{14}{Affiliation}#=%=#NAVER Clova
+Author{15}{Firstname}#=%=#Suk Hyun
+Author{15}{Lastname}#=%=#Ko
+Author{15}{Username}#=%=#noah.go
+Author{15}{Email}#=%=#noah.go@navercorp.com
+Author{15}{Affiliation}#=%=#NAVER Clova
+Author{16}{Firstname}#=%=#Seokhun
+Author{16}{Lastname}#=%=#Kim
+Author{16}{Username}#=%=#seokhun.kim
+Author{16}{Email}#=%=#seokhun.kim@navercorp.com
+Author{16}{Affiliation}#=%=#NAVER Clova
+Author{17}{Firstname}#=%=#Taeyong
+Author{17}{Lastname}#=%=#Park
+Author{17}{Username}#=%=#parktaeyong
+Author{17}{Email}#=%=#park.taeyong@navercorp.com
+Author{17}{Affiliation}#=%=#NAVER Clova
+Author{18}{Firstname}#=%=#JINUK
+Author{18}{Lastname}#=%=#KIM
+Author{18}{Username}#=%=#jinuk.kim
+Author{18}{Email}#=%=#jinuk.kim@navercorp.com
+Author{18}{Affiliation}#=%=#NAVER Clova
+Author{19}{Firstname}#=%=#Soyoung
+Author{19}{Lastname}#=%=#Kang
+Author{19}{Username}#=%=#sy.kang
+Author{19}{Email}#=%=#sy.kang@navercorp.com
+Author{19}{Affiliation}#=%=#NAVER Clova
+Author{20}{Firstname}#=%=#Na-Hyeon
+Author{20}{Lastname}#=%=#Ryu
+Author{20}{Username}#=%=#nahyeonryu0422
+Author{20}{Email}#=%=#nahyeon.ryu@navercorp.com
+Author{20}{Affiliation}#=%=#NAVER Clova
+Author{21}{Firstname}#=%=#Kang Min
+Author{21}{Lastname}#=%=#Yoo
+Author{21}{Username}#=%=#kaniblu
+Author{21}{Email}#=%=#kangmin.yoo@navercorp.com
+Author{21}{Affiliation}#=%=#NAVER AI Lab
+Author{22}{Firstname}#=%=#Minsuk
+Author{22}{Lastname}#=%=#Chang
+Author{22}{Username}#=%=#minsukchang
+Author{22}{Email}#=%=#minsuk.chang@navercorp.com
+Author{22}{Affiliation}#=%=#Naver AI Lab
+Author{23}{Firstname}#=%=#soobin
+Author{23}{Lastname}#=%=#suh
+Author{23}{Username}#=%=#soobinsuh
+Author{23}{Email}#=%=#soobin.suh@navercorp.com
+Author{23}{Affiliation}#=%=#NAVER Clova
+Author{24}{Firstname}#=%=#Sookyo
+Author{24}{Lastname}#=%=#In
+Author{24}{Username}#=%=#dlstnry123
+Author{24}{Email}#=%=#sookyo.in@navercorp.com
+Author{24}{Affiliation}#=%=#NAVER Clova
+Author{25}{Firstname}#=%=#Jinseong
+Author{25}{Lastname}#=%=#Park
+Author{25}{Username}#=%=#bak723
+Author{25}{Email}#=%=#jinseong.park@navercorp.com
+Author{25}{Affiliation}#=%=#NAVER Clova
+Author{26}{Firstname}#=%=#Kyungduk
+Author{26}{Lastname}#=%=#Kim
+Author{26}{Username}#=%=#getta83
+Author{26}{Email}#=%=#kyungduk.kim@navercorp.com
+Author{26}{Affiliation}#=%=#NAVER Clova
+Author{27}{Firstname}#=%=#Hiun
+Author{27}{Lastname}#=%=#Kim
+Author{27}{Username}#=%=#hiunkim
+Author{27}{Email}#=%=#hiun.kim@navercorp.com
+Author{27}{Affiliation}#=%=#NAVER Clova
+Author{28}{Firstname}#=%=#Jisu
+Author{28}{Lastname}#=%=#Jeong
+Author{28}{Username}#=%=#jisujeong
+Author{28}{Email}#=%=#jisu.jeong@navercorp.com
+Author{28}{Affiliation}#=%=#NAVER AI Lab
+Author{29}{Firstname}#=%=#Yong Goo
+Author{29}{Lastname}#=%=#Yeo
+Author{29}{Username}#=%=#yeoyg98
+Author{29}{Email}#=%=#joseph.yeo@navercorp.com
+Author{29}{Affiliation}#=%=#NAVER Clova
+Author{30}{Firstname}#=%=#Donghoon
+Author{30}{Lastname}#=%=#Ham
+Author{30}{Username}#=%=#dhham
+Author{30}{Email}#=%=#donghoon.ham@navercorp.com
+Author{30}{Affiliation}#=%=#Naver Clova
+Author{31}{Firstname}#=%=#Dongju
+Author{31}{Lastname}#=%=#Park
+Author{31}{Username}#=%=#toriving
+Author{31}{Email}#=%=#dongju.park@navercorp.com
+Author{31}{Affiliation}#=%=#NAVER Clova
+Author{32}{Firstname}#=%=#Min Young
+Author{32}{Lastname}#=%=#Lee
+Author{32}{Username}#=%=#mlee981001
+Author{32}{Email}#=%=#min.young.lee@navercorp.com
+Author{32}{Affiliation}#=%=#NAVER Clova
+Author{33}{Firstname}#=%=#Jaewook
+Author{33}{Lastname}#=%=#Kang
+Author{33}{Username}#=%=#jaewook.kang
+Author{33}{Email}#=%=#jaewook.kang@navercorp.com
+Author{33}{Affiliation}#=%=#NAVER Clova
+Author{34}{Firstname}#=%=#INHO
+Author{34}{Lastname}#=%=#KANG
+Author{34}{Username}#=%=#ihkang
+Author{34}{Email}#=%=#once.ihkang@navercorp.com
+Author{34}{Affiliation}#=%=#NAVER Clova
+Author{35}{Firstname}#=%=#Jung-Woo
+Author{35}{Lastname}#=%=#Ha
+Author{35}{Username}#=%=#hjw9096
+Author{35}{Email}#=%=#jungwoo.ha@navercorp.com
+Author{35}{Affiliation}#=%=#NAVER AI Lab
+Author{36}{Firstname}#=%=#Woomyoung
+Author{36}{Lastname}#=%=#Park
+Author{36}{Username}#=%=#wpark1602
+Author{36}{Email}#=%=#max.park@navercorp.com
+Author{36}{Affiliation}#=%=#NAVER Clova
+Author{37}{Firstname}#=%=#Nako
+Author{37}{Lastname}#=%=#Sung
+Author{37}{Username}#=%=#nakosung
+Author{37}{Email}#=%=#nako.sung@navercorp.com
+Author{37}{Affiliation}#=%=#NAVER Clova
+
+==========

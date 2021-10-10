@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#888
+FinalPaperTitle#=%=#Improving Multimodal fusion via Mutual Dependency Maximisation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Pierre Colombo
+JobTitle#==#
+Organization#==#
+Abstract#==#Multimodal sentiment analysis is a trending area of research, and multimodal fusion is one of its most active topic. Acknowledging humans communicate through a variety of channels (i.e visual, acoustic, linguistic), multimodal systems aim at integrating different unimodal representations into a synthetic one. So far, a consequent effort has been made on developing complex architectures allowing the fusion of these modalities. However, such systems are mainly trained by minimising simple losses such as $L_1$ or cross-entropy. In this work, we investigate unexplored penalties and propose a set of new objectives that measure the dependency between modalities. We demonstrate that our new penalties lead to a consistent improvement (up to $4.3$ on accuracy) across a large variety of state-of-the-art models on two well-known sentiment analysis datasets: \texttt{CMU-MOSI} and \texttt{CMU-MOSEI}. Our method not only achieves a new SOTA on both datasets but also produces representations that are more robust to modality drops. Finally, a by-product of our methods includes a statistical network which can be used to interpret the high dimensional representations learnt by the model.
+Author{1}{Firstname}#=%=#Pierre
+Author{1}{Lastname}#=%=#Colombo
+Author{1}{Username}#=%=#pcolombo
+Author{1}{Email}#=%=#pierre.colombo@telecom-paristech.fr
+Author{1}{Affiliation}#=%=#Telecom ParisTech
+Author{2}{Firstname}#=%=#Emile
+Author{2}{Lastname}#=%=#Chapuis
+Author{2}{Username}#=%=#emchapuis
+Author{2}{Email}#=%=#emile.chapuis@telecom-paris.fr
+Author{2}{Affiliation}#=%=#Telecom Paris
+Author{3}{Firstname}#=%=#Matthieu
+Author{3}{Lastname}#=%=#Labeau
+Author{3}{Username}#=%=#matthieulabeau
+Author{3}{Email}#=%=#matthieu.labeau@telecom-paris.fr
+Author{3}{Affiliation}#=%=#Telecom Paris
+Author{4}{Firstname}#=%=#Chloé
+Author{4}{Lastname}#=%=#Clavel
+Author{4}{Username}#=%=#cclavel
+Author{4}{Email}#=%=#chloe.clavel@telecom-paristech.fr
+Author{4}{Affiliation}#=%=#LTCI, Telecom-Paris, Institut Polytechnique de Paris
+
+==========

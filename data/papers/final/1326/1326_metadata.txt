@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#1326
+FinalPaperTitle#=%=#Back to the Basics: A Quantitative Analysis of Statistical and Graph-Based Term Weighting Schemes for Keyword Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Asahi Ushio
+JobTitle#==#
+Organization#==#Cardiff NLP, Caridiff University, United Kingdom.
+Abstract#==#Term weighting schemes are widely used in Natural Language Processing and Information Retrieval. In particular, term weighting is the basis for keyword extraction. However, there are relatively few evaluation studies that shed light about the strengths and shortcomings of each weighting scheme. In fact, in most cases researchers and practitioners resort to the well-known tf-idf as default, despite the existence of other suitable alternatives, including graph-based models. In this paper, we perform an exhaustive and large-scale empirical comparison of both statistical and graph-based term weighting methods in the context of keyword extraction. Our analysis reveals some interesting findings such as the advantages of the less-known lexical specificity with respect to tf-idf, or the qualitative differences between statistical and graph-based methods. Finally, based on our findings we discuss and devise some suggestions for practitioners. Source code to reproduce our experimental results, including a keyword extraction library, are available in the following repository:  https://github.com/asahi417/kex
+Author{1}{Firstname}#=%=#Asahi
+Author{1}{Lastname}#=%=#Ushio
+Author{1}{Username}#=%=#asahi417
+Author{1}{Email}#=%=#ushioa@cardiff.ac.uk
+Author{1}{Affiliation}#=%=#Cardiff University
+Author{2}{Firstname}#=%=#Federico
+Author{2}{Lastname}#=%=#Liberatore
+Author{2}{Email}#=%=#LiberatoreF@cardiff.ac.uk
+Author{2}{Affiliation}#=%=#Cardiff University
+Author{3}{Firstname}#=%=#Jose
+Author{3}{Lastname}#=%=#Camacho-Collados
+Author{3}{Username}#=%=#pedrada
+Author{3}{Email}#=%=#camachocolladosj@cardiff.ac.uk
+Author{3}{Affiliation}#=%=#Cardiff University
+
+==========

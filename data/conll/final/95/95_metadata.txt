@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#95
+FinalPaperTitle#=%=#Enriching Language Models with Visually-grounded Word Vectors and the Lancaster Sensorimotor Norms
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Casey Kennington
+JobTitle#==#
+Organization#==#
+Abstract#==#Language models are trained only on text despite the fact that humans learn their first language in a highly interactive and multimodal environment where the first set of learned words are largely concrete, denoting physical entities and embodied states. To enrich language models with some of this missing experience, we leverage two sources of information: (1) the Lancaster Sensorimotor norms, which provide ratings (means and standard deviations) for over 40,000 English words along several dimensions of embodiment, and which capture the extent to which something is experienced across 11 different sensory modalities, and (2) vectors from coefficients of binary classifiers trained on images for the BERT vocabulary. We pre-trained the ELECTRA model and fine-tuned the RoBERTa model with these two sources of information then evaluate using the established GLUE benchmark and the Visual Dialog benchmark. We find that enriching language models with the Lancaster norms and image vectors improves results in both tasks, with some implications for robust language models that capture holistic linguistic meaning in a language learning context.
+Author{1}{Firstname}#=%=#Casey
+Author{1}{Lastname}#=%=#Kennington
+Author{1}{Username}#=%=#bakuzen
+Author{1}{Email}#=%=#caseykennington@boisestate.edu
+Author{1}{Affiliation}#=%=#Boise State University
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1848
+FinalPaperTitle#=%=#Zero-Shot Dialogue Disentanglement by Self-Supervised Entangled Response Selection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ta-Chung Chi
+JobTitle#==#
+Organization#==#
+Abstract#==#Dialogue disentanglement aims to group utterances in a long and multi-participant dialogue into threads. This is useful for discourse analysis and downstream applications such as dialogue response selection, where it can be the first step to construct a clean context/response set.
+Unfortunately, labeling all~\emph{reply-to} links takes quadratic effort w.r.t the number of utterances: an annotator must check all preceding utterances to identify the one to which the current utterance is a reply.
+In this paper, we are the first to propose a~\textbf{zero-shot} dialogue disentanglement solution. Firstly, we train a model on a multi-participant response selection dataset harvested from the web which is not annotated; we then apply the trained model to perform zero-shot dialogue disentanglement. Without any labeled data, our model can achieve a cluster F1 score of 25. We also fine-tune the model using various amounts of labeled data. Experiments show that with only 10\% of the data, we achieve nearly the same performance of using the full dataset\footnote{Code is released at \url{https://github.com/chijames/zero_shot_dialogue_disentanglement}}.
+Author{1}{Firstname}#=%=#Ta-Chung
+Author{1}{Lastname}#=%=#Chi
+Author{1}{Username}#=%=#chijames
+Author{1}{Email}#=%=#tachungc@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#carnegie mellon university
+Author{2}{Firstname}#=%=#alexander
+Author{2}{Lastname}#=%=#rudnicky
+Author{2}{Username}#=%=#air
+Author{2}{Email}#=%=#air@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

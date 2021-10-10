@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#2954
+FinalPaperTitle#=%=#Asking It All: Generating Contextualized Questions for any Semantic Role
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Valentina Pyatkin
+JobTitle#==#
+Organization#==#
+Abstract#==#Asking questions about a situation is an inherent step towards understanding it. 
+To this end, we introduce the task of role question generation, which, given a predicate mention and a passage, requires producing a set of questions asking about all possible semantic roles of the predicate. We develop a two-stage model for this task, which first produces a context-independent question prototype for each role and then revises it to be contextually appropriate for the passage.
+Unlike most existing approaches to question generation, our approach does not require conditioning on existing answers in the text.
+Instead, we condition on the type of information to inquire about, regardless of whether the answer appears explicitly in the text, could be inferred from it, or should be sought elsewhere.
+Our evaluation demonstrates that we generate diverse and well-formed questions for a large, broad-coverage ontology of predicates and roles.
+Author{1}{Firstname}#=%=#Valentina
+Author{1}{Lastname}#=%=#Pyatkin
+Author{1}{Username}#=%=#valentina.pyatkin
+Author{1}{Email}#=%=#valpyatkin@gmail.com
+Author{1}{Affiliation}#=%=#Bar-Ilan University
+Author{2}{Firstname}#=%=#Paul
+Author{2}{Lastname}#=%=#Roit
+Author{2}{Username}#=%=#plroit
+Author{2}{Email}#=%=#plroit@gmail.com
+Author{2}{Affiliation}#=%=#Bar-Ilan University
+Author{3}{Firstname}#=%=#Julian
+Author{3}{Lastname}#=%=#Michael
+Author{3}{Username}#=%=#julianjm
+Author{3}{Email}#=%=#julianjm@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Yoav
+Author{4}{Lastname}#=%=#Goldberg
+Author{4}{Username}#=%=#yoav.goldberg
+Author{4}{Email}#=%=#yoav.goldberg@gmail.com
+Author{4}{Affiliation}#=%=#Bar Ilan University
+Author{5}{Firstname}#=%=#Reut
+Author{5}{Lastname}#=%=#Tsarfaty
+Author{5}{Username}#=%=#reut
+Author{5}{Email}#=%=#reut.tsarfaty@biu.ac.il
+Author{5}{Affiliation}#=%=#Bar-Ilan University
+Author{6}{Firstname}#=%=#Ido
+Author{6}{Lastname}#=%=#Dagan
+Author{6}{Username}#=%=#dagan
+Author{6}{Email}#=%=#dagan@cs.biu.ac.il
+Author{6}{Affiliation}#=%=#Bar-Ilan University
+
+==========

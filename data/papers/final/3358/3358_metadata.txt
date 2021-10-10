@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#3358
+FinalPaperTitle#=%=#Leveraging Pretrained Models for Automatic Summarization of Doctor-Patient Conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Longxiang Zhang
+JobTitle#==#Machine Learning Researcher
+Organization#==#3M MModal, 7540 Thomas Boulevard, Pittsburgh, PA 15208
+Abstract#==#Fine-tuning pretrained models for automatically summarizing doctor-patient conversation transcripts presents many challenges: limited training data, significant domain shift, long and noisy transcripts, and high target summary variability. In this paper, we explore the feasibility of using pretrained transformer models for automatically summarizing doctor-patient conversations directly from transcripts. We show that fluent and adequate summaries can be generated with limited training data by fine-tuning BART on a specially constructed dataset. The resulting models greatly surpass the performance of an average human annotator and the quality of previous published work for the task.
+  We evaluate multiple methods for handling long conversations, comparing them to the obvious baseline of truncating the conversation to fit the pretrained model length limit. We introduce a multistage approach that tackles the task by learning two fine-tuned models: one for summarizing conversation chunks into partial summaries, followed by one for rewriting the collection of partial summaries into a complete summary. Using a carefully chosen fine-tuning dataset, this method is shown to be effective at handling longer conversations, improving the quality of generated summaries. We conduct both an automatic evaluation (through ROUGE and two concept-based metrics focusing on medical findings) and a human evaluation (through qualitative examples from literature, assessing hallucination, generalization, fluency, and general quality of the generated summaries).
+Author{1}{Firstname}#=%=#Longxiang
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#longxiangzhang
+Author{1}{Email}#=%=#longxiaz@alumni.cmu.edu
+Author{1}{Affiliation}#=%=#3M | M*Modal
+Author{2}{Firstname}#=%=#Renato
+Author{2}{Lastname}#=%=#Negrinho
+Author{2}{Username}#=%=#negrinho
+Author{2}{Email}#=%=#negrinho@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Arindam
+Author{3}{Lastname}#=%=#Ghosh
+Author{3}{Username}#=%=#arndm_ghsh
+Author{3}{Email}#=%=#arindam.gm@gmail.com
+Author{3}{Affiliation}#=%=#3M
+Author{4}{Firstname}#=%=#Vasudevan
+Author{4}{Lastname}#=%=#Jagannathan
+Author{4}{Username}#=%=#juggy
+Author{4}{Email}#=%=#juggy@mmm.com
+Author{4}{Affiliation}#=%=#3M
+Author{5}{Firstname}#=%=#Hamid Reza
+Author{5}{Lastname}#=%=#Hassanzadeh
+Author{5}{Username}#=%=#hassanzadeh
+Author{5}{Email}#=%=#ha.hassanzadeh@gmail.com
+Author{5}{Affiliation}#=%=#NLP Researcher at 3M HIS
+Author{6}{Firstname}#=%=#Thomas
+Author{6}{Lastname}#=%=#Schaaf
+Author{6}{Username}#=%=#tschaaf
+Author{6}{Email}#=%=#tschaaf@reihl-schaaf.net
+Author{6}{Affiliation}#=%=#3M | M*Modal
+Author{7}{Firstname}#=%=#Matthew R.
+Author{7}{Lastname}#=%=#Gormley
+Author{7}{Username}#=%=#mgormley
+Author{7}{Email}#=%=#mgormley@cs.cmu.edu
+Author{7}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

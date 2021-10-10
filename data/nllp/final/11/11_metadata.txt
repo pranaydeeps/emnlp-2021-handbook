@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#jurBERT: A Romanian BERT Model for Legal Judgement Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Mihai Masala
+JobTitle#==#
+Organization#==#
+Abstract#==#Transformer-based models have become the de facto standard in the field of Natural Language Processing (NLP). By leveraging large unlabeled text corpora, they enable efficient transfer learning leading to state-of-the-art results on numerous NLP tasks. Nevertheless, for low resource languages and highly specialized tasks, transformer models tend to lag behind more classical approaches (e.g. SVM, LSTM) due to the lack of aforementioned corpora. In this paper we focus on the legal domain and we introduce a Romanian BERT model pre-trained on a large specialized corpus. Our model outperforms several strong baselines for legal judgement prediction on two different corpora consisting of cases from trials involving banks in Romania.
+Author{1}{Firstname}#=%=#Mihai
+Author{1}{Lastname}#=%=#Masala
+Author{1}{Username}#=%=#mihai.masala
+Author{1}{Email}#=%=#mihaimasala@gmail.com
+Author{1}{Affiliation}#=%=#University Politehnica of Bucharest
+Author{2}{Firstname}#=%=#Radu Cristian Alexandru
+Author{2}{Lastname}#=%=#Iacob
+Author{2}{Username}#=%=#raduiacob23
+Author{2}{Email}#=%=#radu.iacob23@gmail.com
+Author{2}{Affiliation}#=%=#University Politehnica of Bucharest
+Author{3}{Firstname}#=%=#Ana Sabina
+Author{3}{Lastname}#=%=#Uban
+Author{3}{Username}#=%=#anauban
+Author{3}{Email}#=%=#ana.uban@gmail.com
+Author{3}{Affiliation}#=%=#Universitat Politecnica de Valencia, University of Bucharest
+Author{4}{Firstname}#=%=#Marina
+Author{4}{Lastname}#=%=#Cidota
+Author{4}{Username}#=%=#marina1
+Author{4}{Email}#=%=#marina.cidota@gmail.com
+Author{4}{Affiliation}#=%=#University of Bucharest
+Author{5}{Firstname}#=%=#Horia
+Author{5}{Lastname}#=%=#Velicu
+Author{5}{Username}#=%=#horiavelicu
+Author{5}{Email}#=%=#horia.velicu@gmail.com
+Author{5}{Affiliation}#=%=#BRD Groupe Societe Generale
+Author{6}{Firstname}#=%=#Traian
+Author{6}{Lastname}#=%=#Rebedea
+Author{6}{Username}#=%=#trebedea
+Author{6}{Email}#=%=#trebedea@gmail.com
+Author{6}{Affiliation}#=%=#University Politehnica of Bucharest
+Author{7}{Firstname}#=%=#Marius
+Author{7}{Lastname}#=%=#Popescu
+Author{7}{Username}#=%=#popescunmarius
+Author{7}{Email}#=%=#popescunmarius@gmail.com
+Author{7}{Affiliation}#=%=#University of Bucharest
+
+==========

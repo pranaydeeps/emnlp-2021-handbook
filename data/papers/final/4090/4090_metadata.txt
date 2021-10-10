@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#4090
+FinalPaperTitle#=%=#Rethinking Denoised Auto-Encoding in Language Pre-Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Fuli Luo
+JobTitle#==#
+Organization#==#
+Abstract#==#Pre-trained self-supervised models such as BERT have achieved striking success in learning sequence representations, especially for natural language processing. These models typically corrupt the given sequences with certain types of noise, such as masking, shuffling, or substitution, and then try to recover the original input. However, such pre-training approaches are prone to learning representations that are covariant with the noise, leading to the discrepancy between the pre-training and fine-tuning stage. To remedy this, we present ContrAstive Pre-Training (CAPT) to learn noise invariant sequence representations. The proposed CAPT encourages the consistency between representations of the original sequence and its corrupted version via unsupervised instance-wise training signals. In this way, it not only alleviates the pretrain-finetune discrepancy induced by the noise of pre-training, but also aids the pre-trained model in better capturing global semantics of the input via more effective sentence-level supervision. Different from most prior work that focuses on a particular modality, comprehensive empirical evidence on 11 natural language understanding and cross-modal tasks illustrates that CAPT is applicable for both language and vision-language tasks, and obtains surprisingly consistent improvement, including 0.6% absolute gain on GLUE benchmarks and 0.8% absolute increment on NLVR2.
+Author{1}{Firstname}#=%=#Fuli
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Username}#=%=#luofuli
+Author{1}{Email}#=%=#luofuli@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Pengcheng
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#ypengc7512
+Author{2}{Email}#=%=#yang_pc@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Shicheng
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#lisc99
+Author{3}{Email}#=%=#lisc99@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Xuancheng
+Author{4}{Lastname}#=%=#Ren
+Author{4}{Username}#=%=#jklj077
+Author{4}{Email}#=%=#renxc@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Xu
+Author{5}{Lastname}#=%=#Sun
+Author{5}{Username}#=%=#xusun26
+Author{5}{Email}#=%=#xusun@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Songfang
+Author{6}{Lastname}#=%=#Huang
+Author{6}{Username}#=%=#sfhuang
+Author{6}{Email}#=%=#songfang.hsf@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{7}{Firstname}#=%=#Fei
+Author{7}{Lastname}#=%=#Huang
+Author{7}{Username}#=%=#fei.huang
+Author{7}{Email}#=%=#feirhuang@gmail.com
+Author{7}{Affiliation}#=%=#Alibaba DAMO Academy
+
+==========

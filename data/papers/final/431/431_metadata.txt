@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#431
+FinalPaperTitle#=%=#CAPE: Context-Aware Private Embeddings for Private Language Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Richard Plant
+JobTitle#==#
+Organization#==#Edinburgh Napier University, 10 Colinton Road, Edinburgh, EH10 5DT, United Kingdom
+Abstract#==#Neural language models have contributed to state-of-the-art results in a number of downstream applications including sentiment analysis, intent classification and others. However, obtaining text representations or embeddings using these models risks encoding personally identifiable information learned from language and context cues that may lead to privacy leaks. To ameliorate this issue, we propose Context-Aware Private Embeddings (CAPE), a novel approach which combines differential privacy and adversarial learning to preserve privacy during training of embeddings. Specifically, CAPE firstly applies calibrated noise through differential privacy to maintain the privacy of text representations by preserving the encoded semantic links while obscuring sensitive information. Next, CAPE employs an adversarial training regime that obscures identified private variables. Experimental results demonstrate that our proposed approach is more effective in reducing private information leakage than either single intervention, with approximately a 3% reduction in attacker performance compared to the best-performing current method.
+Author{1}{Firstname}#=%=#Richard
+Author{1}{Lastname}#=%=#Plant
+Author{1}{Username}#=%=#richplant
+Author{1}{Email}#=%=#r.plant@napier.ac.uk
+Author{1}{Affiliation}#=%=#Edinburgh Napier University
+Author{2}{Firstname}#=%=#Dimitra
+Author{2}{Lastname}#=%=#Gkatzia
+Author{2}{Username}#=%=#dimitraedi
+Author{2}{Email}#=%=#d.gkatzia@napier.ac.uk
+Author{2}{Affiliation}#=%=#Edinburgh Napier University
+Author{3}{Firstname}#=%=#Valerio
+Author{3}{Lastname}#=%=#Giuffrida
+Author{3}{Username}#=%=#v.giuffrida
+Author{3}{Email}#=%=#v.giuffrida@napier.ac.uk
+Author{3}{Affiliation}#=%=#Edinburgh Napier University
+
+==========

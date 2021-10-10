@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#99
+FinalPaperTitle#=%=#Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jason Phang
+JobTitle#==#
+Organization#==#Center for Data Science, New York University
+60 5th Ave
+New York, NY 10011
+Abstract#==#Despite the success of fine-tuning pretrained language encoders like BERT for downstream natural language understanding (NLU) tasks, it is still poorly understood how neural networks change after fine-tuning. In this work, we use centered kernel alignment (CKA), a method for comparing learned representations, to measure the similarity of representations in task-tuned models across layers. In experiments across twelve NLU tasks, we discover a consistent block diagonal structure in the similarity of representations within fine-tuned RoBERTa and ALBERT models, with strong similarity within clusters of earlier and later layers, but not between them. The similarity of later layer representations implies that later layers only marginally contribute to task performance, and we verify in experiments that the top few layers of fine-tuned Transformers can be discarded without hurting performance, even with no further tuning.
+Author{1}{Firstname}#=%=#Jason
+Author{1}{Lastname}#=%=#Phang
+Author{1}{Username}#=%=#zphang
+Author{1}{Email}#=%=#jasonphang@nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Haokun
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#hl3236@nyu.edu
+Author{2}{Affiliation}#=%=#NYU
+Author{3}{Firstname}#=%=#Samuel R.
+Author{3}{Lastname}#=%=#Bowman
+Author{3}{Username}#=%=#sbowman
+Author{3}{Email}#=%=#bowman@nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+
+==========

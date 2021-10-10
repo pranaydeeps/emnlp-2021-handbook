@@ -1,0 +1,78 @@
+SubmissionNumber#=%=#3489
+FinalPaperTitle#=%=#Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Seth Ebner
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N. Charles Street
+Baltimore, MD 21218
+Abstract#==#Zero-shot cross-lingual information extraction (IE) describes the construction of an IE model for some target language, given existing annotations exclusively in some other language, typically English.  While the advance of pretrained multilingual encoders suggests an easy optimism of "train on English, run on any language", we find through a thorough exploration and extension of techniques that a combination of approaches, both new and old, leads to better performance than any one cross-lingual strategy in particular. We explore techniques including data projection and self-training, and how different pretrained encoders impact them. We use English-to-Arabic IE as our initial example, demonstrating strong performance in this setting for event extraction, named entity recognition, part-of-speech tagging, and dependency parsing.
+We then apply data projection and self-training to three tasks across eight target languages. Because no single set of techniques performs the best across all tasks, we encourage practitioners to explore various configurations of the techniques described in this work when seeking to improve on zero-shot training.
+Author{1}{Firstname}#=%=#Mahsa
+Author{1}{Lastname}#=%=#Yarmohammadi
+Author{1}{Username}#=%=#yarmoham
+Author{1}{Email}#=%=#mahsa.yarmohamadi@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Shijie
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#w5s5j
+Author{2}{Email}#=%=#shijie.wu@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Marc
+Author{3}{Lastname}#=%=#Marone
+Author{3}{Username}#=%=#marcmarone
+Author{3}{Email}#=%=#marone.marc@gmail.com
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Haoran
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Username}#=%=#coran123
+Author{4}{Email}#=%=#hxu64@jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+Author{5}{Firstname}#=%=#Seth
+Author{5}{Lastname}#=%=#Ebner
+Author{5}{Username}#=%=#sebner
+Author{5}{Email}#=%=#sebner1@jhu.edu
+Author{5}{Affiliation}#=%=#Johns Hopkins University
+Author{6}{Firstname}#=%=#Guanghui
+Author{6}{Lastname}#=%=#Qin
+Author{6}{Username}#=%=#hiaoxui
+Author{6}{Email}#=%=#gqin2@jhu.edu
+Author{6}{Affiliation}#=%=#Johns Hopkins University
+Author{7}{Firstname}#=%=#Yunmo
+Author{7}{Lastname}#=%=#Chen
+Author{7}{Username}#=%=#yunmochen
+Author{7}{Email}#=%=#yunmo@jhu.edu
+Author{7}{Affiliation}#=%=#Johns Hopkins University
+Author{8}{Firstname}#=%=#Jialiang
+Author{8}{Lastname}#=%=#Guo
+Author{8}{Username}#=%=#craigguo
+Author{8}{Email}#=%=#craigguo41@gmail.com
+Author{8}{Affiliation}#=%=#Johns Hopkins University
+Author{9}{Firstname}#=%=#Craig
+Author{9}{Lastname}#=%=#Harman
+Author{9}{Username}#=%=#charman
+Author{9}{Email}#=%=#craig@craigharman.net
+Author{9}{Affiliation}#=%=#Johns Hopkins University
+Author{10}{Firstname}#=%=#Kenton
+Author{10}{Lastname}#=%=#Murray
+Author{10}{Username}#=%=#kentonmurray
+Author{10}{Email}#=%=#kenton@jhu.edu
+Author{10}{Affiliation}#=%=#Johns Hopkins University
+Author{11}{Firstname}#=%=#Aaron Steven
+Author{11}{Lastname}#=%=#White
+Author{11}{Username}#=%=#aswhite
+Author{11}{Email}#=%=#aaron.white@rochester.edu
+Author{11}{Affiliation}#=%=#University of Rochester
+Author{12}{Firstname}#=%=#Mark
+Author{12}{Lastname}#=%=#Dredze
+Author{12}{Username}#=%=#mdredze
+Author{12}{Email}#=%=#mdredze@cs.jhu.edu
+Author{12}{Affiliation}#=%=#Johns Hopkins University
+Author{13}{Firstname}#=%=#Benjamin
+Author{13}{Lastname}#=%=#Van Durme
+Author{13}{Username}#=%=#vandurme
+Author{13}{Email}#=%=#vandurme@cs.jhu.edu
+Author{13}{Affiliation}#=%=#Johns Hopkins University
+
+==========

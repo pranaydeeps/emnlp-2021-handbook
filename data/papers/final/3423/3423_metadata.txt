@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3423
+FinalPaperTitle#=%=#LAMAD: A Linguistic Attentional Model for Arabic Text Diacritization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Jianliang Gao
+JobTitle#==#
+Organization#==#
+Abstract#==#In Arabic Language, diacritics are used to specify meanings as well as pronunciations. However, diacritics are often omitted from written texts, which increases the number of possible meanings and pronunciations. This leads to an ambiguous text and makes the computational process on undiacritized text more difficult. In this paper, we propose a Linguistic Attentional Model for Arabic text Diacritization (LAMAD). In LAMAD, a new linguistic feature representation is presented, which utilizes both word and character contextual features. Then, a linguistic attention mechanism is proposed to capture the important linguistic features. In addition, we explore the impact of the linguistic features extracted from the text on Arabic text diacritization (ATD) by introducing them to the linguistic attention mechanism. The extensive experimental results on three datasets with different sizes illustrate that LAMAD outperforms the existing state-of-the-art models.
+Author{1}{Firstname}#=%=#Raeed
+Author{1}{Lastname}#=%=#AL-SABRI
+Author{1}{Username}#=%=#raeed
+Author{1}{Email}#=%=#alsabriraeed@tu.edu.ye
+Author{1}{Affiliation}#=%=#Central South University
+Author{2}{Firstname}#=%=#Jianliang
+Author{2}{Lastname}#=%=#Gao
+Author{2}{Username}#=%=#gaojianliang
+Author{2}{Email}#=%=#gaojianliang@csu.edu.cn
+Author{2}{Affiliation}#=%=#Central South University
+
+==========

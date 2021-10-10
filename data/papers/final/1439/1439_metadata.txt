@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1439
+FinalPaperTitle#=%=#Open-domain clarification question generation without question examples
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Julia White
+JobTitle#==#
+Organization#==#
+Abstract#==#An overarching goal of natural language processing is to enable machines to communicate seamlessly with humans. However, natural language can be ambiguous or unclear. In cases of uncertainty, humans engage in an interactive process known as repair: asking questions and seeking clarification until their uncertainty is resolved. We propose a framework for building a visually grounded question-asking model capable of producing polar (yes-no) clarification questions to resolve misunderstandings in dialogue. Our model uses an expected information gain objective to derive informative questions from an off-the-shelf image captioner without requiring any supervised question-answer data. We demonstrate our model's ability to pose questions that improve communicative success in a goal-oriented 20 questions game with synthetic and human answerers.
+Author{1}{Firstname}#=%=#Julia
+Author{1}{Lastname}#=%=#White
+Author{1}{Username}#=%=#juliawhi
+Author{1}{Email}#=%=#juliawhi@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Gabriel
+Author{2}{Lastname}#=%=#Poesia
+Author{2}{Username}#=%=#poesia
+Author{2}{Email}#=%=#poesia@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Robert
+Author{3}{Lastname}#=%=#Hawkins
+Author{3}{Username}#=%=#hawkrobe
+Author{3}{Email}#=%=#hawkrobe@gmail.com
+Author{3}{Affiliation}#=%=#Princeton University
+Author{4}{Firstname}#=%=#Dorsa
+Author{4}{Lastname}#=%=#Sadigh
+Author{4}{Username}#=%=#sadigh
+Author{4}{Email}#=%=#dorsa@cs.stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+Author{5}{Firstname}#=%=#Noah
+Author{5}{Lastname}#=%=#Goodman
+Author{5}{Username}#=%=#ngoodman
+Author{5}{Email}#=%=#ngoodman@stanford.edu
+Author{5}{Affiliation}#=%=#Stanford University
+
+==========

@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#Distiller: A Systematic Study of Model Distillation Methods in Natural Language Processing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Haoyu He
+JobTitle#==#
+Organization#==#
+Abstract#==#Knowledge Distillation (KD) offers a natural way to reduce the latency and memory/energy usage of massive  pretrained models that have come to dominate Natural Language Processing (NLP) in recent years. While numerous sophisticated variants of KD algorithms have been proposed for NLP applications, the key factors underpinning the optimal distillation performance are often confounded and remain unclear. We aim to identify how different components in the KD pipeline affect the resulting performance and how much the optimal KD pipeline varies across different datasets/tasks, such as the data augmentation policy, the loss function, and the intermediate representation for transferring the knowledge between teacher and student. To tease apart their effects, we propose Distiller, a meta KD framework that systematically combines a broad range of  techniques across different stages of the KD pipeline, which enables us to quantify each component's contribution. Within Distiller, we unify commonly used objectives for distillation of intermediate representations under a universal mutual information (MI) objective and propose a class of MI-\alpha objective functions with better bias/variance trade-off for estimating the MI between the teacher and the student. On a diverse set of NLP datasets, the best Distiller configurations are identified via large-scale hyper-parameter optimization. Our experiments reveal the following: 1) the approach used to distill the intermediate  representations is the most important factor in KD performance, 2) among different objectives for intermediate distillation, MI-\alpha performs the best, and 3) data augmentation provides a large boost for small training datasets or small student networks. Moreover, we find that different datasets/tasks prefer different KD algorithms, and thus propose a simple AutoDistiller algorithm that can recommend a good KD pipeline for a new dataset.
+Author{1}{Firstname}#=%=#Haoyu
+Author{1}{Lastname}#=%=#He
+Author{1}{Username}#=%=#hhy
+Author{1}{Email}#=%=#he.haoy@northeastern.edu
+Author{1}{Affiliation}#=%=#Northeastern University
+Author{2}{Firstname}#=%=#Xingjian
+Author{2}{Lastname}#=%=#Shi
+Author{2}{Username}#=%=#sxjscience
+Author{2}{Email}#=%=#xjshi@amazon.com
+Author{2}{Affiliation}#=%=#Amazon Web Services
+Author{3}{Firstname}#=%=#Jonas
+Author{3}{Lastname}#=%=#Mueller
+Author{3}{Username}#=%=#jonasmueller
+Author{3}{Email}#=%=#jonaswmueller@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Sheng
+Author{4}{Lastname}#=%=#Zha
+Author{4}{Username}#=%=#zhasheng
+Author{4}{Email}#=%=#zhasheng@amazon.com
+Author{4}{Affiliation}#=%=#Amazon Web Services
+Author{5}{Firstname}#=%=#Mu
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#mli@amazon.com
+Author{5}{Affiliation}#=%=#Amazon Web Services
+Author{6}{Firstname}#=%=#George
+Author{6}{Lastname}#=%=#Karypis
+Author{6}{Username}#=%=#karypis
+Author{6}{Email}#=%=#karypis@umn.edu
+Author{6}{Affiliation}#=%=#University of Minnesota
+
+==========

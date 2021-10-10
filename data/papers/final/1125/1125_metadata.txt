@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1125
+FinalPaperTitle#=%=#Cross Attention Augmented Transducer Networks for Simultaneous Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Dan Liu
+JobTitle#==#
+Organization#==#University of Science and Technology of China, Hefei, China
+Abstract#==#This paper proposes a novel architecture, Cross Attention Augmented Transducer (CAAT), for simultaneous translation. The framework aims to jointly optimize the policy and translation models. To effectively consider all possible READ-WRITE simultaneous translation action paths, we adapt the online automatic speech recognition (ASR) model, RNN-T, but remove the strong monotonic constraint, which is critical for the translation task to consider reordering. To make CAAT work, we introduce a novel latency loss whose expectation can be optimized by a forward-backward algorithm. We implement CAAT with Transformer while the general CAAT architecture can also be implemented with other attention-based encoder-decoder frameworks. Experiments on both speech-to-text (S2T) and text-to-text (T2T) simultaneous translation tasks show that CAAT achieves significantly better latency-quality trade-offs compared to the state-of-the-art simultaneous translation approaches.
+Author{1}{Firstname}#=%=#Dan
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#danliu_ifly
+Author{1}{Email}#=%=#danliu@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#University of Science and Technology of China
+Author{2}{Firstname}#=%=#Mengge
+Author{2}{Lastname}#=%=#Du
+Author{2}{Email}#=%=#mgdou@iflytek.com
+Author{2}{Affiliation}#=%=#iFlytek Research, Hefei, China
+Author{3}{Firstname}#=%=#Xiaoxi
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#xxli8@iflytek.com
+Author{3}{Affiliation}#=%=#iFlytek Research, Hefei, China
+Author{4}{Firstname}#=%=#Ya
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#yali8@iflytek.com
+Author{4}{Affiliation}#=%=#iFlytek Research, Hefei, China
+Author{5}{Firstname}#=%=#Enhong
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#cheneh@ustc.edu.cn
+Author{5}{Affiliation}#=%=#University of Science and Technology of China, Hefei, China
+
+==========

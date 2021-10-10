@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#A Corpus for Multilingual Analysis of Online Terms of Service
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Marco Lippi
+JobTitle#==#
+Organization#==#Department of Sciences and Methods for Engineering
+University of Modena and Reggio Emilia
+via Amendola 2
+42122 Reggio Emilia
+Italy
+Abstract#==#We present the first annotated corpus for multilingual analysis of potentially unfair clauses in online Terms of Service. The data set comprises a total of 100 contracts, obtained from 25 documents annotated in four different languages: English, German, Italian, and Polish. For each contract, potentially unfair clauses for the consumer are annotated, for nine different unfairness categories. We show how a simple yet efficient annotation projection technique based on sentence embeddings could be used to automatically transfer annotations across languages.
+Author{1}{Firstname}#=%=#Kasper
+Author{1}{Lastname}#=%=#Drawzeski
+Author{1}{Email}#=%=#kasper.drawzeski@eui.eu
+Author{1}{Affiliation}#=%=#BEUC
+Author{2}{Firstname}#=%=#Andrea
+Author{2}{Lastname}#=%=#Galassi
+Author{2}{Username}#=%=#a.galassi
+Author{2}{Email}#=%=#a.galassi@unibo.it
+Author{2}{Affiliation}#=%=#University of Bologna
+Author{3}{Firstname}#=%=#Agnieszka
+Author{3}{Lastname}#=%=#Jablonowska
+Author{3}{Email}#=%=#agnieszka.jablonowska@eui.eu
+Author{3}{Affiliation}#=%=#European University Institute
+Author{4}{Firstname}#=%=#Francesca
+Author{4}{Lastname}#=%=#Lagioia
+Author{4}{Email}#=%=#francesca.lagioia@eui.eu
+Author{4}{Affiliation}#=%=#European University Institute
+Author{5}{Firstname}#=%=#Marco
+Author{5}{Lastname}#=%=#Lippi
+Author{5}{Username}#=%=#marco.lippi
+Author{5}{Email}#=%=#marco.lippi@unimore.it
+Author{5}{Affiliation}#=%=#University of Modena and Reggio Emilia
+Author{6}{Firstname}#=%=#Hans Wolfgang
+Author{6}{Lastname}#=%=#Micklitz
+Author{6}{Email}#=%=#hans.micklitz@eui.eu
+Author{6}{Affiliation}#=%=#European University Institute
+Author{7}{Firstname}#=%=#Giovanni
+Author{7}{Lastname}#=%=#Sartor
+Author{7}{Email}#=%=#giovanni.sartor@eui.eu
+Author{7}{Affiliation}#=%=#European University Institute
+Author{8}{Firstname}#=%=#Giacomo
+Author{8}{Lastname}#=%=#Tagiuri
+Author{8}{Email}#=%=#giacomo.tagiuri@eui.eu
+Author{8}{Affiliation}#=%=#European University Institute
+Author{9}{Firstname}#=%=#Paolo
+Author{9}{Lastname}#=%=#Torroni
+Author{9}{Username}#=%=#paolo
+Author{9}{Email}#=%=#paolo.torroni@unibo.it
+Author{9}{Affiliation}#=%=#Alma Mater - Università di Bologna
+
+==========

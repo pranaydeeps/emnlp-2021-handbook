@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#635
+FinalPaperTitle#=%=#CoLV: A Collaborative Latent Variable Model for Knowledge-Grounded Dialogue Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Haolan Zhan
+JobTitle#==#
+Organization#==#University of Chinese Academy of Sciences
+Abstract#==#Knowledge-grounded dialogue generation has achieved promising performance with the engagement of external knowledge sources. Typical approaches towards this task usually perform relatively independent two sub-tasks, i.e., knowledge selection and knowledge-aware response generation.
+In this paper, in order to improve the diversity of both knowledge selection and knowledge-aware response generation, we propose a collaborative latent variable (CoLV) model to integrate these two aspects simultaneously in separate yet collaborative latent spaces, so as to capture the inherent correlation between knowledge selection and response generation. During generation, our proposed model firstly draws knowledge candidate from the latent space conditioned on the dialogue context, and then samples a response from another collaborative latent space conditioned on both the context and the selected knowledge. Experimental results on two widely-used knowledge-grounded dialogue datasets show that our model outperforms previous methods on both knowledge selection and response generation.
+Author{1}{Firstname}#=%=#Haolan
+Author{1}{Lastname}#=%=#Zhan
+Author{1}{Username}#=%=#zhanhaolan
+Author{1}{Email}#=%=#zhanhaolan316@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Lei
+Author{2}{Lastname}#=%=#Shen
+Author{2}{Username}#=%=#victoriashin
+Author{2}{Email}#=%=#shenlei17z@ict.ac.cn
+Author{2}{Affiliation}#=%=#Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Hongshen
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#chenhongshen
+Author{3}{Email}#=%=#ac@chenhongshen.com
+Author{3}{Affiliation}#=%=#JD.com
+Author{4}{Firstname}#=%=#Hainan
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#zhanghainan
+Author{4}{Email}#=%=#zhanghainan1990@163.com
+Author{4}{Affiliation}#=%=#Data Science Lab JD.com
+
+==========

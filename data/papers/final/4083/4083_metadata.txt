@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4083
+FinalPaperTitle#=%=#Compression, Transduction, and Creation: A Unified Framework for Evaluating Natural Language Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#26
+CopyrightSigned#=%=#Mingkai Deng
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#Natural language generation (NLG) spans a broad range of tasks, each of which serves for specific objectives and desires different properties of generated text. The complexity makes automatic evaluation of NLG particularly challenging. Previous work has typically focused on a single task and developed individual evaluation metrics based on specific intuitions. In this paper, we propose a unifying perspective based on the nature of information change in NLG tasks, including compression (e.g., summarization), transduction (e.g., text rewriting), and creation (e.g., dialog). _Information alignment_ between input, context, and output text plays a common central role in characterizing the generation. With automatic alignment prediction models, we develop a family of interpretable metrics that are suitable for evaluating key aspects of different NLG tasks, often without need of gold reference data. Experiments show the uniformly designed metrics achieve stronger or comparable correlations with human judgement compared to state-of-the-art metrics in each of diverse tasks, including text summarization, style transfer, and knowledge-grounded dialog.
+Author{1}{Firstname}#=%=#Mingkai
+Author{1}{Lastname}#=%=#Deng
+Author{1}{Username}#=%=#mingkaid
+Author{1}{Email}#=%=#mingkaid@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Bowen
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Username}#=%=#bowentan
+Author{2}{Email}#=%=#btan2@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Zhengzhong
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#hunterhector
+Author{3}{Email}#=%=#liu@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University; Petuum INC.
+Author{4}{Firstname}#=%=#Eric
+Author{4}{Lastname}#=%=#Xing
+Author{4}{Username}#=%=#happybird
+Author{4}{Email}#=%=#epxing@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Zhiting
+Author{5}{Lastname}#=%=#Hu
+Author{5}{Username}#=%=#huzhiting
+Author{5}{Email}#=%=#zhh019@ucsd.edu
+Author{5}{Affiliation}#=%=#UC San Diego
+
+==========

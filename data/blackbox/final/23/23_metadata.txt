@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Efficient Explanations from Empirical Explainers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Robert Schwarzenberg
+JobTitle#==#
+Organization#==#
+Abstract#==#Amid a discussion about Green AI in which we see explainability neglected, we explore the possibility to efficiently approximate computationally expensive explainers. To this end, we propose feature attribution modelling with Empirical Explainers. Empirical Explainers learn from data to predict the attribution maps of expensive explainers. We train and test Empirical Explainers in the language domain and find that they model their expensive counterparts surprisingly well, at a fraction of the cost. They could thus mitigate the computational burden of neural explanations significantly, in applications that tolerate an approximation error.
+Author{1}{Firstname}#=%=#Robert
+Author{1}{Lastname}#=%=#Schwarzenberg
+Author{1}{Username}#=%=#rbtsbg
+Author{1}{Email}#=%=#rbts@posteo.de
+Author{1}{Affiliation}#=%=#German Research Center For Artificial Intelligence (DFKI)
+Author{2}{Firstname}#=%=#Nils
+Author{2}{Lastname}#=%=#Feldhus
+Author{2}{Username}#=%=#nfel
+Author{2}{Email}#=%=#nils.feldhus@dfki.de
+Author{2}{Affiliation}#=%=#German Research Center for Artificial Intelligence (DFKI)
+Author{3}{Firstname}#=%=#Sebastian
+Author{3}{Lastname}#=%=#Möller
+Author{3}{Username}#=%=#sebastianmoeller
+Author{3}{Email}#=%=#sebastian.moeller@tu-berlin.de
+Author{3}{Affiliation}#=%=#Quality and Usability Lab, TU Berlin
+
+==========

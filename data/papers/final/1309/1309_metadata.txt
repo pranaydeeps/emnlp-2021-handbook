@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1309
+FinalPaperTitle#=%=#Multilingual Neural Machine Translation: Can Linguistic Hierarchies Help?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Fahimeh Saleh
+JobTitle#==#PhD student
+Organization#==#Monash University, Clayton, Australia
+Abstract#==#Multilingual Neural Machine Translation (MNMT) trains a single NMT model that supports translation between multiple languages, rather than training separate models for different languages. Learning a single model can enhance the low-resource translation by leveraging data from multiple languages. However, the performance of an MNMT model is highly dependent on the type of languages used in training, as transferring knowledge from a diverse set of languages degrades the translation performance due to negative transfer. In this paper, we propose a Hierarchical Knowledge Distillation (HKD) approach for MNMT which capitalises on language groups generated according to typological features and phylogeny of languages to overcome the issue of negative transfer. HKD generates a set of multilingual teacher-assistant models via a selective knowledge distillation mechanism based on the language groups, and then distills the ultimate multilingual model from those assistants in an adaptive way. Experimental results derived from the TED dataset with 53 languages demonstrate the effectiveness of our approach in avoiding the negative transfer effect in MNMT, leading to an improved translation performance (about 1 BLEU score in average) compared to strong baselines.
+Author{1}{Firstname}#=%=#Fahimeh
+Author{1}{Lastname}#=%=#Saleh
+Author{1}{Username}#=%=#fahimehsaleh
+Author{1}{Email}#=%=#fahimeh.saleh@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Wray
+Author{2}{Lastname}#=%=#Buntine
+Author{2}{Username}#=%=#wray.buntine
+Author{2}{Email}#=%=#wray.buntine@monash.edu
+Author{2}{Affiliation}#=%=#Monash University
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Username}#=%=#reza.haffari
+Author{3}{Email}#=%=#gholamreza.haffari@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+Author{4}{Firstname}#=%=#Lan
+Author{4}{Lastname}#=%=#Du
+Author{4}{Username}#=%=#dulan520
+Author{4}{Email}#=%=#lan.du@monash.edu
+Author{4}{Affiliation}#=%=#Department of Data Science and AI, Monash University
+
+==========

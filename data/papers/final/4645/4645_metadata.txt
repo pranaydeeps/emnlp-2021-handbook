@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4645
+FinalPaperTitle#=%=#Incorporating Circumstances into Narrative Event Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shichao Wang
+JobTitle#==#
+Organization#==#94 Weijin Road, Nankai District, Tianjin, P.R.China 300071
+Abstract#==#The narrative event prediction aims to predict what happens after a sequence of events, which is essential to modeling sophisticated real-world events. Existing studies focus on mining the inter-events relationships while ignoring how the events happened, which we called circumstances. With our observation, the event circumstances indicate what will happen next. To incorporate event circumstances into the narrative event prediction, we propose the CircEvent, which adopts the two multi-head attention to retrieve circumstances at the local and global levels. We also introduce a regularization of attention weights to leverage the alignment between events and local circumstances. The experimental results demonstrate our CircEvent outperforms existing baselines by 12.2%. The further analysis demonstrates the effectiveness of our multi-head attention modules and regularization.
+Author{1}{Firstname}#=%=#Shichao
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#wangshichao
+Author{1}{Email}#=%=#wangshichao@dbis.nankai.edu.cn
+Author{1}{Affiliation}#=%=#Nankai University
+Author{2}{Firstname}#=%=#Xiangrui
+Author{2}{Lastname}#=%=#Cai
+Author{2}{Username}#=%=#xiangrui
+Author{2}{Email}#=%=#caixr@nankai.edu.cn
+Author{2}{Affiliation}#=%=#Nankai University
+Author{3}{Firstname}#=%=#HongBin
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#hongbinwang
+Author{3}{Email}#=%=#hongbin.wang03@msxf.com
+Author{3}{Affiliation}#=%=#Mashang Consumer Finance Co.,Ltd.
+Author{4}{Firstname}#=%=#Xiaojie
+Author{4}{Lastname}#=%=#Yuan
+Author{4}{Username}#=%=#nkyuanxj
+Author{4}{Email}#=%=#yuanxj@nankai.edu.cn
+Author{4}{Affiliation}#=%=#Nankai University
+
+==========

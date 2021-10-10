@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#59
+FinalPaperTitle#=%=#Style Control for Schema-Guided Natural Language Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Shereen Oraby
+JobTitle#==#
+Organization#==#Amazon Alexa AI
+Abstract#==#Natural Language Generation (NLG) for task-oriented dialogue systems focuses on communicating specific content accurately, fluently, and coherently. While these attributes are crucial for a successful dialogue, it is also desirable to simultaneously accomplish specific stylistic goals, such as response length, point-of-view, descriptiveness, sentiment, formality, and empathy. In this work, we focus on stylistic control and evaluation for schema-guided NLG, with joint goals of achieving both semantic and stylistic control. We experiment in detail with various controlled generation methods for large pretrained language models: specifically, conditional training, guided fine-tuning, and guided decoding. We discuss their advantages and limitations, and evaluate them with a broad range of automatic and human evaluation metrics. Our results show that while high style accuracy and semantic correctness are easier to achieve for more lexically-defined styles with conditional training, stylistic control is also achievable for more semantically complex styles using discriminator-based guided decoding methods. The results also suggest that methods that are more scalable (with less hyper-parameters tuning) and that disentangle context generation and stylistic variations are more effective at achieving semantic correctness and style accuracy.
+Author{1}{Firstname}#=%=#Alicia
+Author{1}{Lastname}#=%=#Tsai
+Author{1}{Username}#=%=#aliciatsai
+Author{1}{Email}#=%=#aliciatsai@berkeley.edu
+Author{1}{Affiliation}#=%=#University of California at Berkeley
+Author{2}{Firstname}#=%=#Shereen
+Author{2}{Lastname}#=%=#Oraby
+Author{2}{Username}#=%=#shereenoraby
+Author{2}{Email}#=%=#shereenoraby@gmail.com
+Author{2}{Affiliation}#=%=#Amazon Alexa AI
+Author{3}{Firstname}#=%=#Vittorio
+Author{3}{Lastname}#=%=#Perera
+Author{3}{Username}#=%=#vperera
+Author{3}{Email}#=%=#vittorio.perera@gmail.com
+Author{3}{Affiliation}#=%=#Amazon Alexa AI
+Author{4}{Firstname}#=%=#Jiun-Yu
+Author{4}{Lastname}#=%=#Kao
+Author{4}{Username}#=%=#jiunyk
+Author{4}{Email}#=%=#jiunyk@amazon.com
+Author{4}{Affiliation}#=%=#Amazon
+Author{5}{Firstname}#=%=#Yuheng
+Author{5}{Lastname}#=%=#Du
+Author{5}{Username}#=%=#yuhengdu
+Author{5}{Email}#=%=#yuheng.du.hust@gmail.com
+Author{5}{Affiliation}#=%=#Amazon Alexa AI
+Author{6}{Firstname}#=%=#Anjali
+Author{6}{Lastname}#=%=#Narayan-Chen
+Author{6}{Username}#=%=#anjaliync
+Author{6}{Email}#=%=#naraanja@amazon.com
+Author{6}{Affiliation}#=%=#Amazon Alexa AI
+Author{7}{Firstname}#=%=#Tagyoung
+Author{7}{Lastname}#=%=#Chung
+Author{7}{Username}#=%=#tchung
+Author{7}{Email}#=%=#tagyoung.chung@gmail.com
+Author{7}{Affiliation}#=%=#Amazon Alexa AI
+Author{8}{Firstname}#=%=#Dilek
+Author{8}{Lastname}#=%=#Hakkani-Tur
+Author{8}{Username}#=%=#dilekha
+Author{8}{Email}#=%=#dilek@ieee.org
+Author{8}{Affiliation}#=%=#Amazon Alexa AI
+
+==========

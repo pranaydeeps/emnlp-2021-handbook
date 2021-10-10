@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4685
+FinalPaperTitle#=%=#Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Daria Pylypenko
+JobTitle#==#
+Organization#==#
+Abstract#==#Traditional hand-crafted linguistically-informed features have often been used for distinguishing between translated and original non-translated texts. By contrast, to date, neural architectures without manual feature engineering have been less explored for this task. In this work, we (i) compare the traditional feature-engineering-based approach to the feature-learning-based one and (ii) analyse the neural architectures in order to investigate how well the hand-crafted features explain the variance in the neural models' predictions. We use pre-trained neural word embeddings, as well as several end-to-end neural architectures in both monolingual and multilingual settings and compare them to feature-engineering-based SVM classifiers. We show that (i) neural architectures outperform other approaches by more than 20 accuracy points, with the BERT-based model performing the best in both the monolingual and multilingual settings; (ii) while many individual hand-crafted translationese features correlate with neural model predictions, feature importance analysis shows that the most important features for neural and classical architectures differ; and (iii) our multilingual experiments provide empirical evidence for translationese universals across languages.
+Author{1}{Firstname}#=%=#Daria
+Author{1}{Lastname}#=%=#Pylypenko
+Author{1}{Username}#=%=#daria_pylypenko
+Author{1}{Email}#=%=#daria.pylypenko@uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University, Saarland Informatics Campus
+Author{2}{Firstname}#=%=#Kwabena
+Author{2}{Lastname}#=%=#Amponsah-Kaakyire
+Author{2}{Username}#=%=#kamponsah
+Author{2}{Email}#=%=#amponsahkaakyirek@gmail.com
+Author{2}{Affiliation}#=%=#DFKI, Saarland University
+Author{3}{Firstname}#=%=#Koel
+Author{3}{Lastname}#=%=#Dutta Chowdhury
+Author{3}{Username}#=%=#koeldc
+Author{3}{Email}#=%=#koeldc@lst.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland Informatics Campus,Saarland University
+Author{4}{Firstname}#=%=#Josef
+Author{4}{Lastname}#=%=#van Genabith
+Author{4}{Username}#=%=#josefvangenabith
+Author{4}{Email}#=%=#josef.van_genabith@dfki.de
+Author{4}{Affiliation}#=%=#DFKI
+Author{5}{Firstname}#=%=#Cristina
+Author{5}{Lastname}#=%=#España-Bonet
+Author{5}{Username}#=%=#cristinae
+Author{5}{Email}#=%=#cristinae.uni@gmail.com
+Author{5}{Affiliation}#=%=#DFKI GmbH
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Searching for Legal Documents at Paragraph Level: Automating Label Generation and Use of an Extended Attention Mask for Boosting Neural Models of Semantic Similarity
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Li Tang
+JobTitle#==#
+Organization#==#Institute of Computational Linguistics, University of Zurich, Andreasstrasse 15,
+8050 Zurich, Switzerland
+Abstract#==#Searching for legal documents is a specialized Information Retrieval task that is relevant for expert users (lawyers and their assistants) and for non-expert users. By searching previous court decisions (cases), a user can better prepare the legal reasoning of a new case. Being able to search using a natural language text snippet instead of a more artificial query could help to prevent query formulation issues. Also, if semantic similarity could be modeled beyond exact lexical matches, more relevant results can be found even if the query terms don’t match exactly. For this domain, we formulated a task to compare different ways of modeling semantic similarity at paragraph level, using neural and non-neural systems. We compared systems that encode the query and the search collection paragraphs as vectors, enabling the use of cosine similarity for results ranking. After building a German dataset for cases and statutes from Switzerland, and extracting citations from cases to statutes, we developed an algorithm for estimating semantic similarity at paragraph level, using a link-based similarity method. When evaluating different systems in this way, we find that semantic similarity modeling by neural systems can be boosted with an extended attention mask that quenches noise in the inputs.
+Author{1}{Firstname}#=%=#Li
+Author{1}{Lastname}#=%=#Tang
+Author{1}{Username}#=%=#lily88
+Author{1}{Email}#=%=#li.tang@uzh.ch
+Author{1}{Affiliation}#=%=#Institut für Computerlinguistik, Universitäten Zürich
+Author{2}{Firstname}#=%=#Simon
+Author{2}{Lastname}#=%=#Clematide
+Author{2}{Email}#=%=#simon.clematide@uzh.ch
+Author{2}{Affiliation}#=%=#University of Zurich
+
+==========

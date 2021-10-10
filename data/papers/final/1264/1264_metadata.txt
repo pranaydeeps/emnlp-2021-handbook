@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1264
+FinalPaperTitle#=%=#Not Just Classification: Recognizing Implicit Discourse Relation on Joint Modeling of Classification and Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Feng Jiang
+JobTitle#==#
+Organization#==#
+Abstract#==#Implicit discourse relation recognition (IDRR) is a critical task in discourse analysis. Previous studies only regard it as a classification task and lack an in-depth understanding of the semantics of different relations. Therefore, we first view IDRR as a generation task and further propose a method joint modeling of the classification and generation. Specifically, we propose a joint model, CG-T5, to recognize the relation label and generate the target sentence containing the meaning of relations simultaneously. Furthermore, we design three target sentence forms, including the question form, for the generation model to incorporate prior knowledge. To address the issue that large discourse units are hardly embedded into the target sentence, we also propose a target sentence construction mechanism that automatically extracts core sentences from those large discourse units. Experimental results both on Chinese MCDTB and English PDTB datasets show that our model CG-T5 achieves the best performance against several state-of-the-art systems.
+Author{1}{Firstname}#=%=#Feng
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Username}#=%=#jiangfeng
+Author{1}{Email}#=%=#fjiang@stu.suda.edu.cn
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Yaxin
+Author{2}{Lastname}#=%=#Fan
+Author{2}{Username}#=%=#fanyaxin
+Author{2}{Email}#=%=#yxfansupery@stu.suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Xiaomin
+Author{3}{Lastname}#=%=#Chu
+Author{3}{Username}#=%=#saychester
+Author{3}{Email}#=%=#xmchu@suda.edu.cn
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Peifeng
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#pfli
+Author{4}{Email}#=%=#pfli@suda.edu.cn
+Author{4}{Affiliation}#=%=#Soochow University
+Author{5}{Firstname}#=%=#Qiaoming
+Author{5}{Lastname}#=%=#Zhu
+Author{5}{Username}#=%=#qmzhu
+Author{5}{Email}#=%=#qmzhu@suda.edu.cn
+Author{5}{Affiliation}#=%=#Soochow University
+
+==========

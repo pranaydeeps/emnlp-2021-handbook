@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#609
+FinalPaperTitle#=%=#Recurrent Attention for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jiali Zeng
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent research questions the importance of the dot-product self-attention in Transformer models and shows that most attention heads learn simple positional patterns.
+In this paper, we push further in this research line and propose a novel substitute mechanism for self-attention: Recurrent AtteNtion (RAN) .
+RAN directly learns attention weights without any token-to-token interaction and further improves their capacity by layer-to-layer interaction.
+Across an extensive set of experiments on 10 machine translation tasks, we find that RAN models are competitive and outperform their Transformer counterpart in certain scenarios, with fewer parameters and inference time.
+Particularly, when apply RAN to the decoder of Transformer, there brings consistent improvements by about +0.5 BLEU on 6 translation tasks and +1.0 BLEU on Turkish-English translation task. 
+In addition, we conduct extensive analysis on the attention weights of RAN to confirm their reasonableness.
+Our RAN is a promising alternative to build more effective and efficient NMT models.
+Author{1}{Firstname}#=%=#Jiali
+Author{1}{Lastname}#=%=#Zeng
+Author{1}{Username}#=%=#jializeng
+Author{1}{Email}#=%=#lemooon@foxmail.com
+Author{1}{Affiliation}#=%=#Tencent Technology Co., Ltd, Beijing, China
+Author{2}{Firstname}#=%=#Shuangzhi
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#shuangzhi_wu
+Author{2}{Email}#=%=#frostwu@tencent.com
+Author{2}{Affiliation}#=%=#Tencent
+Author{3}{Firstname}#=%=#Yongjing
+Author{3}{Lastname}#=%=#Yin
+Author{3}{Username}#=%=#yinyongjing
+Author{3}{Email}#=%=#yinyongjing@westlake.edu.cn
+Author{3}{Affiliation}#=%=#Westlake University
+Author{4}{Firstname}#=%=#Yufan
+Author{4}{Lastname}#=%=#Jiang
+Author{4}{Username}#=%=#jiangyingjun
+Author{4}{Email}#=%=#garyyfjiang@tencent.com
+Author{4}{Affiliation}#=%=#Tencent
+Author{5}{Firstname}#=%=#Mu
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#muli
+Author{5}{Email}#=%=#limugx@qq.com
+Author{5}{Affiliation}#=%=#Tencent Inc.
+
+==========

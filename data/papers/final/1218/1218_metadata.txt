@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#1218
+FinalPaperTitle#=%=#Domain-Lifelong Learning for Dialogue State Tracking via Knowledge Preservation Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Qingbin Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Dialogue state tracking (DST), which estimates user goals given a dialogue context, is an essential component of task-oriented dialogue systems. Conventional DST models are usually trained offline, which requires a fixed dataset prepared in advance. This paradigm is often impractical in real-world applications since online dialogue systems usually involve continually emerging new data and domains. Therefore, this paper explores Domain-Lifelong Learning for Dialogue State Tracking (DLL-DST), which aims to continually train a DST model on new data to learn incessantly emerging new domains while avoiding catastrophically forgetting old learned domains. To this end, we propose a novel domain-lifelong learning method, called Knowledge Preservation Networks (KPN), which consists of multi-prototype enhanced retrospection and multi-strategy knowledge distillation, to solve the problems of expression diversity and combinatorial explosion in the DLL-DST task. Experimental results show that KPN effectively alleviates catastrophic forgetting and outperforms previous state-of-the-art lifelong learning methods by 4.25% and 8.27% of whole joint goal accuracy on the MultiWOZ benchmark and the SGD benchmark, respectively.
+Author{1}{Firstname}#=%=#Qingbin
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#qingbinliu
+Author{1}{Email}#=%=#qingbin.liu@nlpr.ia.ac.cn
+Author{1}{Affiliation}#=%=#National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Pengfei
+Author{2}{Lastname}#=%=#Cao
+Author{2}{Username}#=%=#pengfei.cao
+Author{2}{Email}#=%=#pengfei.cao@nlpr.ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Cao
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#liucao
+Author{3}{Email}#=%=#liucao@meituan.com
+Author{3}{Affiliation}#=%=#Meituan
+Author{4}{Firstname}#=%=#Jiansong
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#jingqizu
+Author{4}{Email}#=%=#chenjiansong@meituan.com
+Author{4}{Affiliation}#=%=#Meituan
+Author{5}{Firstname}#=%=#Xunliang
+Author{5}{Lastname}#=%=#Cai
+Author{5}{Username}#=%=#xlicai
+Author{5}{Email}#=%=#caixunliang@meituan.com
+Author{5}{Affiliation}#=%=#Meituan
+Author{6}{Firstname}#=%=#Fan
+Author{6}{Lastname}#=%=#Yang
+Author{6}{Username}#=%=#yanglz2015
+Author{6}{Email}#=%=#yangfan79@meituan.com
+Author{6}{Affiliation}#=%=#Meituan
+Author{7}{Firstname}#=%=#Shizhu
+Author{7}{Lastname}#=%=#He
+Author{7}{Username}#=%=#shizhuhe
+Author{7}{Email}#=%=#shizhu.he@nlpr.ia.ac.cn
+Author{7}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{8}{Firstname}#=%=#Kang
+Author{8}{Lastname}#=%=#Liu
+Author{8}{Username}#=%=#micalkang
+Author{8}{Email}#=%=#kliu@nlpr.ia.ac.cn
+Author{8}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{9}{Firstname}#=%=#Jun
+Author{9}{Lastname}#=%=#Zhao
+Author{9}{Username}#=%=#jzhao
+Author{9}{Email}#=%=#jzhao@nlpr.ia.ac.cn
+Author{9}{Affiliation}#=%=#Chinese Academy of Sciences
+
+==========

@@ -1,0 +1,55 @@
+* Wednesday, November 10, 2021
+= 09:00--12:00 CODI-CRAC Shared Task
++ 09:05--09:30 Welcome
+! 09:05--09:30 The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis Resolution in Dialogue %by Sopan Khosla, Juntao Yu, Ramesh Manuvinakurike, Vincent Ng, Massimo Poesio, Michael Strube and Carolyn Ros{\'e}
+! 09:30--09:45 Neural Anaphora Resolution in Dialogues %by Hideo Kobayashi, Shengjie Li and Vincent Ng
+! 09:45--10:00 Anaphora Resolution in Dialogue: Description of the DFKI-TalkingRobots System for the CODI-CRAC 2021 Shared-Task %by Tatiana Anikina, Cennet Oguz, Natalia Skachkova, Siyu Tao, Sharmila Upadhyaya and Ivana Kruijff-Korbayova
++ 10:00--10:30 Coffee Break
+! 10:30--10:45 The Pipeline Model for Resolution of Anaphoric Reference and Resolution of Entity Reference %by Hongjin Kim, Damrin Kim and Harksoo Kim
+! 10:45--11:00 An End-to-End Approach for Full Bridging Resolution %by Joseph Renner, Priyansh Trivedi, Gaurav Maheshwari, R{\'e}mi Gilleron and Pascal Denis
+! 11:00--11:15 Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues %by Liyan Xu and Jinho D. D. Choi
+! 11:15--11:30 Anaphora Resolution in Dialogue: Cross-Team Analysis of the DFKI-TalkingRobots Team Submissions for the CODI-CRAC 2021 Shared-Task %by Natalia Skachkova, Cennet Oguz, Tatiana Anikina, Siyu Tao, Sharmila Upadhyaya and Ivana Kruijff-Korbayova
+! 11:30--11:45 The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis Resolution in Dialogue: A Cross-Team Analysis %by Shengjie Li, Hideo Kobayashi, and Vincent Ng
+= 11:45--12:00 Plenary Session
++ 11:45--12:00 Visioning Discussion and Next Steps
++ 12:00--13:30 Lunch Break
+= 13:30--14:30 Plenary Session
+! 13:30--14:30 Invited Talk %by Jackie Chi Kit Cheung
++ 14:30--14:45 Mini Break
+= 14:45--15:45 Pragmatics and Applications
+3 14:45--15:00  # "I___ll be there for you": The One with Understanding Indirect Answers
+9 15:00--15:10  # Improving Text Generation via Neural Discourse Planning
+23 15:10--15:25  # Developing Conversational Data and Detection of Conversational Humor in Telugu
+1 15:25--15:35  # Investigating non lexical markers of the language of schizophrenia in spontaneous conversations
+21 15:35--15:45  # Discourse-Driven Integrated Dialogue Development Environment for Open-Domain Dialogue Systems
+= 15:50--16:15 Anaphora and Coreference
+8 15:50--16:00  # Coreference Chains Categorization by Sequence Clustering
+12 16:00--16:15  # Resolving Implicit References in Instructional Texts
++ 16:15--16:45 Coffee Break
+= 16:45--18:15 Discourse Relations
+11 16:45--17:00  # A practical perspective on connective generation
+6 17:00--17:15  # Semi-automatic discourse annotation in a low-resource language: Developing a connective lexicon for Nigerian Pidgin
+15 17:15--17:30  # Comparison of methods for explicit discourse connective identification across various domains
+20 17:30--17:40  # A Novel Corpus of Discourse Structure in Humans and Computers
+13 17:40--17:55  # Revisiting Shallow Discourse Parsing in the PDTB-3: Handling Intra-sentential Implicits
+18 17:55--18:05  # Improving Multi-Party Dialogue Discourse Parsing via Domain Integration
+10 18:05--18:15  # discopy: A Neural System for Shallow Discourse Parsing
+* Thursday, November 11, 2021
+= 09:00--10:00 Plenary Session
+! 09:00--10:00 Invited Talk: Inter annotator agreement in discourse annotation -- the role of domain knowledge and individual differences %by Vera Demberg
+= 10:25--11:15 Discourse and Multilinguality
+5 10:25--10:35  # Tracing variation in discourse connectives in translation and interpreting through neural semantic spaces
+7 10:35--10:50  # Capturing document context inside sentence-level neural machine translation models with self-training
+14 10:50--11:05  # DMRST: A Joint Framework for Document-Level Multilingual RST Discourse Segmentation and Parsing
+19 11:05--11:15  # Visualizing Cross___Lingual Discourse Relations in Multilingual TED Corpora
+= 11:15--12:00 Discussion and Closing of Main CODI Workshop
++ 12:00--13:30 Lunch Break
+= 13:30--15:30 DISRPT 2021 Shared Task Session 1
+! 13:50--14:20 A Transformer Based Approach towards Identification of Discourse Unit Segments and Connectives %by Sahil Bakshi and Dipti Misra Sharma
+! 14:20--14:50 Multi-lingual Discourse Segmentation and Connective Identification: MELODI at DISRPT2021 %by Morteza Ezzabady, Philippe Muller, and Chlo{\'e} Braud
+! 14:50--15:20 Delexicalised Multilingual Discourse Segmentation for DISRPT 2021 and Tense, Mood, Voice and Modality Tagging for 11 Languages %by Tillmann D{\''o}nicke
++ 15:30--16:00 Coffee Break
+= 16:00--17:30 DISRPT 2021 Shared Task Session 2
+! 16:00--16:30 A Unified Approach to Discourse Relation Classification in nine Languages %by Hanna Varachkina and Franziska Pannach
+! 16:30--17:00 DisCoDisCo at the DISRPT2021 Shared Task: A System for Discourse Segmentation, Classification, and Connective Detection %by Luke Gessler, Shabnam Behzad, Yang Janet Liu, Siyao Peng, Yilun Zhu, Amir Zeldes
++ 17:00--17:15 Closing Remarks

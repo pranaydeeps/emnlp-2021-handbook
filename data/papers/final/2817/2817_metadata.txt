@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2817
+FinalPaperTitle#=%=#Locality Preserving Sentence Encoding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Changrong Min
+JobTitle#==#
+Organization#==#Dalian University of Technology
+Abstract#==#Although researches on word embeddings have made great progress in recent years, many tasks in natural language processing are on the sentence level. Thus, it is essential to learn sentence embeddings. Recently, Sentence BERT (SBERT) is proposed to learn embeddings on the sentence level, and it uses the inner product (or, cosine similarity) to compute semantic similarity between sentences. However, this measurement cannot well describe the semantic structures among sentences. The reason is that sentences may lie on a manifold in the ambient space rather than distribute in an Euclidean space. Thus, cosine similarity cannot approximate distances on the manifold. To tackle the severe problem, we propose a novel sentence embedding method called Sentence BERT with Locality Preserving (SBERT-LP), which discovers the sentence submanifold from a high-dimensional space and yields a compact sentence representation subspace by locally preserving geometric structures of sentences. We compare the SBERT-LP with several existing sentence embedding approaches from three perspectives: sentence similarity, sentence classification and sentence clustering. Experimental results and case studies demonstrate that our method encodes sentences better in the sense of semantic structures.
+Author{1}{Firstname}#=%=#Changrong
+Author{1}{Lastname}#=%=#Min
+Author{1}{Username}#=%=#changrongmin
+Author{1}{Email}#=%=#11909060@mail.dlut.edu.cn
+Author{1}{Affiliation}#=%=#Dalian University of Technology
+Author{2}{Firstname}#=%=#yonghe
+Author{2}{Lastname}#=%=#chu
+Author{2}{Username}#=%=#yonghechu
+Author{2}{Email}#=%=#yhchu@mail.dlut.edu.cn
+Author{2}{Affiliation}#=%=#Dalian University of Technology
+Author{3}{Firstname}#=%=#Liang
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Username}#=%=#liangyang
+Author{3}{Email}#=%=#yangliang@mail.dlut.edu.cn
+Author{3}{Affiliation}#=%=#Dalian University of Technology
+Author{4}{Firstname}#=%=#Bo
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Username}#=%=#smartbob
+Author{4}{Email}#=%=#xubo@dlut.edu.cn
+Author{4}{Affiliation}#=%=#Dalian University of Technology
+Author{5}{Firstname}#=%=#Hongfei
+Author{5}{Lastname}#=%=#LIN
+Author{5}{Username}#=%=#hflin
+Author{5}{Email}#=%=#hflin@dlut.edu.cn
+Author{5}{Affiliation}#=%=#Dalian University of Technology
+
+==========

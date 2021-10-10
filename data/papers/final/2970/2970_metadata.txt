@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2970
+FinalPaperTitle#=%=#Integrating Deep Event-Level and Script-Level Information for Script Event Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Long Bai
+JobTitle#==#
+Organization#==#Institute of Computing Technology, Chinese Academy of Sciences
+Abstract#==#Scripts are structured sequences of events together with the participants, which are extracted from the texts. Script event prediction aims to predict the subsequent event given the historical events in the script. Two kinds of information facilitate this task, namely, the event-level information and the script-level information. At the event level, existing studies view an event as a verb with its participants, while neglecting other useful properties, such as the state of the participants. At the script level, most existing studies only consider a single event sequence corresponding to one common protagonist. In this paper, we propose a Transformer-based model, called MCPredictor, which integrates deep event-level and script-level information for script event prediction. At the event level, MCPredictor utilizes the rich information in the text to obtain more comprehensive event semantic representations. At the script-level, it considers multiple event sequences corresponding to different participants of the subsequent event. The experimental results on the widely-used New York Times corpus demonstrate the effectiveness and superiority of the proposed model.
+Author{1}{Firstname}#=%=#Long
+Author{1}{Lastname}#=%=#Bai
+Author{1}{Username}#=%=#waltbai
+Author{1}{Email}#=%=#bailong18b@ict.ac.cn
+Author{1}{Affiliation}#=%=#School of Computer Science and Technology, University of Chinese Academy of Sciences; CAS Key Laboratory of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Saiping
+Author{2}{Lastname}#=%=#Guan
+Author{2}{Username}#=%=#gsp
+Author{2}{Email}#=%=#guansaiping@ict.ac.cn
+Author{2}{Affiliation}#=%=#School of Computer Science and Technology, University of Chinese Academy of Sciences; CAS Key Laboratory of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Jiafeng
+Author{3}{Lastname}#=%=#Guo
+Author{3}{Username}#=%=#guojiafeng
+Author{3}{Email}#=%=#guojiafeng@ict.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{4}{Firstname}#=%=#Zixuan
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lizixuan
+Author{4}{Email}#=%=#lizixuan@software.ict.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Xiaolong
+Author{5}{Lastname}#=%=#Jin
+Author{5}{Username}#=%=#jinxiaolong
+Author{5}{Email}#=%=#jinxiaolong@ict.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{6}{Firstname}#=%=#Xueqi
+Author{6}{Lastname}#=%=#Cheng
+Author{6}{Username}#=%=#cxq
+Author{6}{Email}#=%=#cxq@ict.ac.cn
+Author{6}{Affiliation}#=%=#Institute of Computing Technology, CAS
+
+==========

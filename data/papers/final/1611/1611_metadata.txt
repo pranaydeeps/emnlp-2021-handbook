@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#1611
+FinalPaperTitle#=%=#Narrative Theory for Computational Narrative Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#David Bamman
+JobTitle#==#
+Organization#==#
+Abstract#==#Over the past decade, the field of natural language processing has developed a wide array of  computational methods for reasoning about narrative, including summarization, commonsense inference, and event detection. While this work has brought an important empirical lens for examining narrative, it is by and large divorced from the large body of theoretical work on narrative within the humanities, social and cognitive sciences.  In this position paper, we introduce the dominant theoretical frameworks to the NLP community, situate current research in NLP within distinct narratological traditions, and argue that linking computational work in NLP to theory opens up a range of new empirical questions that would both help advance our understanding of narrative and open up new practical applications.
+Author{1}{Firstname}#=%=#Andrew
+Author{1}{Lastname}#=%=#Piper
+Author{1}{Username}#=%=#andrew.piper
+Author{1}{Email}#=%=#andrew.piper@mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Richard Jean
+Author{2}{Lastname}#=%=#So
+Author{2}{Email}#=%=#richard.so@mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Bamman
+Author{3}{Username}#=%=#dbamman
+Author{3}{Email}#=%=#dbamman@berkeley.edu
+Author{3}{Affiliation}#=%=#University of California, Berkeley
+
+==========

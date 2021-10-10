@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#A howling success or a working sea? Testing what BERT knows about metaphors
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Paolo Pedinotti
+JobTitle#==#
+Organization#==#University of Pisa
+Abstract#==#Metaphor is a widespread linguistic and cognitive phenomenon that is ruled by mechanisms which have received attention in the literature. Transformer Language Models such as BERT have brought improvements in metaphor-related tasks. However, they have been used only in application contexts, while their knowledge of the phenomenon has not been analyzed. To test what BERT knows about metaphors, we challenge it on a new dataset that we designed to test various aspects of this phenomenon such as variations in linguistic structure, variations in conventionality, the boundaries of the plausibility of a metaphor and the interpretations that we attribute to metaphoric expressions. Results bring out some tendencies that suggest that the model can reproduce some human intuitions about metaphors.
+Author{1}{Firstname}#=%=#Paolo
+Author{1}{Lastname}#=%=#Pedinotti
+Author{1}{Username}#=%=#paolopedinotti
+Author{1}{Email}#=%=#pedinotti.paolo@gmail.com
+Author{1}{Affiliation}#=%=#University of Pisa
+Author{2}{Firstname}#=%=#Eliana
+Author{2}{Lastname}#=%=#Di Palma
+Author{2}{Username}#=%=#elianadipalma
+Author{2}{Email}#=%=#eliana.dipalma@outlook.it
+Author{2}{Affiliation}#=%=#University of Pisa
+Author{3}{Firstname}#=%=#Ludovica
+Author{3}{Lastname}#=%=#Cerini
+Author{3}{Username}#=%=#ludovicacerini
+Author{3}{Email}#=%=#ludovica.cerini@phd.unipi.it
+Author{3}{Affiliation}#=%=#University of Pisa
+Author{4}{Firstname}#=%=#Alessandro
+Author{4}{Lastname}#=%=#Lenci
+Author{4}{Username}#=%=#lenci
+Author{4}{Email}#=%=#alessandro.lenci@unipi.it
+Author{4}{Affiliation}#=%=#University of Pisa
+
+==========

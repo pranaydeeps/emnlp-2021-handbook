@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#2440
+FinalPaperTitle#=%=#How much pretraining data do language models need to learn syntax?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Laura Pérez-Mayos
+JobTitle#==#
+Organization#==#Pompeu Fabra University
+Poblenou Campus
+Carrer de Tànger, 122, 140
+08018 Barcelona
+Spain
+Abstract#==#Transformers-based pretrained language models achieve outstanding results in many well-known NLU benchmarks. However, while pretraining methods are very convenient, they are expensive in terms of time and resources. This calls for a study of the impact of pretraining data size on the knowledge of the models.  We explore this impact on the syntactic capabilities of RoBERTa, using models trained on incremental sizes of raw text data. First, we use syntactic structural probes to determine whether models pretrained on more data encode a higher amount of syntactic information. Second, we perform a targeted syntactic evaluation to analyze the impact of pretraining data size on the syntactic generalization performance of the models. Third, we compare the performance of the different models on three downstream applications: part-of-speech tagging, dependency parsing and paraphrase identification. We complement our study with an analysis of the cost-benefit trade-off of training such models. Our experiments show that while models pretrained on more data encode more syntactic knowledge and perform better on downstream applications, they do not always offer a better performance across the different syntactic phenomena and come at a higher financial and environmental cost.
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Pérez-Mayos
+Author{1}{Username}#=%=#lpmayos
+Author{1}{Email}#=%=#laura.perezm@upf.edu
+Author{1}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{2}{Firstname}#=%=#Miguel
+Author{2}{Lastname}#=%=#Ballesteros
+Author{2}{Username}#=%=#miguelballesteros
+Author{2}{Email}#=%=#miguelballesteros1@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Leo
+Author{3}{Lastname}#=%=#Wanner
+Author{3}{Username}#=%=#leo.wanner
+Author{3}{Email}#=%=#leo.wanner@upf.edu
+Author{3}{Affiliation}#=%=#ICREA and Pompeu Fabra University
+
+==========

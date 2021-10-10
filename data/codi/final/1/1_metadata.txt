@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Investigating non lexical markers of the language of schizophrenia in spontaneous conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Chuyuan Li
+JobTitle#==#
+Organization#==#Universite de Lorraine, CNRS, Inria, LORIA, F-54000 Nancy, France
+Abstract#==#We investigate linguistic markers associated with schizophrenia in clinical conversations by detecting predictive features among French-speaking patients. Dealing with human-human dialogues makes for a realistic situation, but it calls for strategies to represent the context and face data sparsity. We compare different approaches for data representation – from individual speech turns to entire conversations –, and data modeling, using lexical, morphological, syntactic, and discourse features, dimensions presumed to be tightly connected to the language of schizophrenia. Previous English models were mostly lexical and reached high performance, here replicated  (93.7% acc.). However, our analysis reveals that these models are heavily biased, which probably concerns most datasets on this task. Our new delexicalized models are more general and robust, with the best accuracy score at 77.9%.
+Author{1}{Firstname}#=%=#Chuyuan
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#chuyuan
+Author{1}{Email}#=%=#chuyuan.li@loria.fr
+Author{1}{Affiliation}#=%=#LORIA
+Author{2}{Firstname}#=%=#Maxime
+Author{2}{Lastname}#=%=#Amblard
+Author{2}{Username}#=%=#amblard
+Author{2}{Email}#=%=#maxime.amblard@univ-lorraine.fr
+Author{2}{Affiliation}#=%=#Université de Lorraine
+Author{3}{Firstname}#=%=#Chloé
+Author{3}{Lastname}#=%=#Braud
+Author{3}{Username}#=%=#cbraud
+Author{3}{Email}#=%=#chloe.braud@irit.fr
+Author{3}{Affiliation}#=%=#IRIT - CNRS - ANITI
+Author{4}{Firstname}#=%=#caroline
+Author{4}{Lastname}#=%=#demily
+Author{4}{Username}#=%=#cdemily
+Author{4}{Email}#=%=#caroline.demily@ch-le-vinatier.fr
+Author{4}{Affiliation}#=%=#Centre Hospitalier Le Vinatier
+Author{5}{Firstname}#=%=#Nicolas
+Author{5}{Lastname}#=%=#Franck
+Author{5}{Username}#=%=#nfranck
+Author{5}{Email}#=%=#nicolas.franck@ch-le-vinatier.fr
+Author{5}{Affiliation}#=%=#Centre Hospitalier le Vinatier & UMR 5229, CNRS - University Lyon 1 at Lyon (France)
+Author{6}{Firstname}#=%=#Michel
+Author{6}{Lastname}#=%=#Musiol
+Author{6}{Username}#=%=#musiol
+Author{6}{Email}#=%=#michel.musiol@inria.fr
+Author{6}{Affiliation}#=%=#INRIA Sémagrame & CNRS Atilf UMR 7118
+
+==========

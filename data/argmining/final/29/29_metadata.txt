@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Is Stance Detection Topic-Independent and Cross-topic Generalizable? - A Reproduction Study
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Myrthe Reuver
+JobTitle#==#PhD candidate
+Organization#==#Free University of Amsterdam
+Abstract#==#Cross-topic stance detection is the task to automatically detect stances (pro, against, or neutral) on unseen topics. We successfully reproduce state-of-the-art cross-topic stance detection work (Reimers et. al, 2019), and systematically analyze its reproducibility. Our attention then turns to the cross-topic aspect of this work, and the specificity of topics in terms of vocabulary and socio-cultural context. 
+We ask: To what extent is stance detection topic-independent and generalizable across topics? We compare the model's performance on various unseen topics, and find topic (e.g. abortion, cloning), class (e.g. pro, con), and their interaction affecting the model's performance. We conclude that investigating performance on different topics, and addressing topic-specific vocabulary and context, is a future avenue for cross-topic stance detection.
+
+References
+
+Nils  Reimers,  Benjamin  Schiller,  Tilman  Beck,  Johannes   Daxenberger,   Christian   Stab,   and   Iryna Gurevych.  2019.   Classification  and  Clustering  of Arguments with Contextualized Word Embeddings. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 567–578, Florence, Italy. Association for Computational Linguistics.
+Author{1}{Firstname}#=%=#Myrthe
+Author{1}{Lastname}#=%=#Reuver
+Author{1}{Username}#=%=#rehtrym
+Author{1}{Email}#=%=#myrthe.reuver@vu.nl
+Author{1}{Affiliation}#=%=#VU Amsterdam
+Author{2}{Firstname}#=%=#Suzan
+Author{2}{Lastname}#=%=#Verberne
+Author{2}{Username}#=%=#s.verberne
+Author{2}{Email}#=%=#s.verberne@liacs.leidenuniv.nl
+Author{2}{Affiliation}#=%=#LIACS, Leiden University
+Author{3}{Firstname}#=%=#Roser
+Author{3}{Lastname}#=%=#Morante
+Author{3}{Username}#=%=#roser.morante
+Author{3}{Email}#=%=#roser.morante@gmail.com
+Author{3}{Affiliation}#=%=#VU Amsterdam
+Author{4}{Firstname}#=%=#Antske
+Author{4}{Lastname}#=%=#Fokkens
+Author{4}{Username}#=%=#antske
+Author{4}{Email}#=%=#antske.fokkens@vu.nl
+Author{4}{Affiliation}#=%=#VU Amsterdam
+
+==========

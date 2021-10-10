@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#673
+FinalPaperTitle#=%=#Cross-Domain Label-Adaptive Stance Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Momchil Hardalov
+JobTitle#==#
+Organization#==#
+Abstract#==#Stance detection concerns the classification of a writer's viewpoint towards a target. There are different task variants, e.g., stance of a tweet vs. a full article, or stance with respect to a claim vs. an (implicit) topic. Moreover, task definitions vary, which includes the label inventory, the data collection, and the annotation protocol. All these aspects hinder cross-domain studies, as they require changes to standard domain adaptation approaches. In this paper, we perform an in-depth analysis of 16 stance detection datasets, and we explore the possibility for cross-domain learning from them. Moreover, we propose an end-to-end unsupervised framework for out-of-domain prediction of unseen, user-defined labels. In particular, we combine domain adaptation techniques such as mixture of experts and domain-adversarial training with label embeddings, and we demonstrate sizable performance gains over strong baselines, both (i) in-domain, i.e., for seen targets, and (ii) out-of-domain, i.e., for unseen targets. Finally, we perform an exhaustive analysis of the cross-domain results, and we highlight the important factors influencing the model performance.
+Author{1}{Firstname}#=%=#Momchil
+Author{1}{Lastname}#=%=#Hardalov
+Author{1}{Username}#=%=#mhardalov
+Author{1}{Email}#=%=#momchil.hardalov@gmail.com
+Author{1}{Affiliation}#=%=#Sofia University "St. Kliment Ohridski"
+Author{2}{Firstname}#=%=#Arnav
+Author{2}{Lastname}#=%=#Arora
+Author{2}{Username}#=%=#arnav
+Author{2}{Email}#=%=#aar@di.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Firstname}#=%=#Preslav
+Author{3}{Lastname}#=%=#Nakov
+Author{3}{Username}#=%=#preslav
+Author{3}{Email}#=%=#preslav.nakov@gmail.com
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{4}{Firstname}#=%=#Isabelle
+Author{4}{Lastname}#=%=#Augenstein
+Author{4}{Username}#=%=#isabelle_augenstein
+Author{4}{Email}#=%=#augenstein@di.ku.dk
+Author{4}{Affiliation}#=%=#Department of Computer Science, University of Copenhagen
+
+==========

@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3473
+FinalPaperTitle#=%=#Perhaps PTLMs Should Go to School – A Task to Assess Open Book and Closed Book QA
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Manuel R. Ciosici
+JobTitle#==#
+Organization#==#University of Southern California – Information Sciences Institute
+4676 Admiralty Way, Suite 1001
+Marina del Rey, CA 90292
+United States of America
+Abstract#==#Our goal is to deliver a new task and leaderboard to stimulate research on question answering and pre-trained language models (PTLMs) to understand a signiﬁcant instructional document, e.g., an introductory college textbook or a manual. PTLMs have shown great success in many question-answering tasks, given signiﬁcant supervised training, but much less so in zero-shot settings. We propose a new task that includes two college-level introductory texts in the social sciences (American Government 2e) and humanities (U.S. History), hundreds of true/false statements based on review questions written by the textbook authors, validation/development tests based on the ﬁrst eight chapters of the textbooks, blind tests based on the remaining textbook chapters, and baseline results given state-of-the-art PTLMs.
+
+Since the questions are balanced, random performance should be ~50%. T5, ﬁne-tuned with BoolQ achieves the same performance, suggesting that the textbook’s content is not pre-represented in the PTLM. Taking the exam closed book, but having read the textbook (i.e., adding the textbook to T5’s pre-training), yields at best minor improvement (56%), suggesting that the PTLM may not have “understood” the textbook (or perhaps misunderstood the questions). Performance is better (~60%) when the exam is taken open-book (i.e., allowing the machine to automatically retrieve a paragraph and use it to answer the question).
+Author{1}{Firstname}#=%=#Manuel
+Author{1}{Lastname}#=%=#Ciosici
+Author{1}{Username}#=%=#manuel_1
+Author{1}{Email}#=%=#manuelrciosici@gmail.com
+Author{1}{Affiliation}#=%=#University of Southern California – Information Sciences Institute
+Author{2}{Firstname}#=%=#Joe
+Author{2}{Lastname}#=%=#Cecil
+Author{2}{Username}#=%=#jcecil
+Author{2}{Email}#=%=#jcecil@isi.edu
+Author{2}{Affiliation}#=%=#USC Information Sciences Institute
+Author{3}{Firstname}#=%=#Dong-Ho
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#danny911kr
+Author{3}{Email}#=%=#dongho.lee@usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+Author{4}{Firstname}#=%=#Alex
+Author{4}{Lastname}#=%=#Hedges
+Author{4}{Username}#=%=#aphedges
+Author{4}{Email}#=%=#ahedges@isi.edu
+Author{4}{Affiliation}#=%=#USC Information Sciences Institute
+Author{5}{Firstname}#=%=#Marjorie
+Author{5}{Lastname}#=%=#Freedman
+Author{5}{Username}#=%=#marjorie.freedman
+Author{5}{Email}#=%=#mrf@isi.edu
+Author{5}{Affiliation}#=%=#USC ISI
+Author{6}{Firstname}#=%=#Ralph
+Author{6}{Lastname}#=%=#Weischedel
+Author{6}{Username}#=%=#ralphweischedel
+Author{6}{Email}#=%=#rweischedel@netscape.net
+Author{6}{Affiliation}#=%=#USC ISI
+
+==========

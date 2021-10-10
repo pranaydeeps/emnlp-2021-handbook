@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#4705
+FinalPaperTitle#=%=#DialogueCSE: Dialogue-based Contrastive Learning of Sentence Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Che Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Learning sentence embeddings from dialogues has drawn increasing attention due to its low annotation cost and high domain adaptability.
+Conventional approaches employ the siamese-network for this task, which obtains the sentence embeddings through modeling the context-response semantic relevance by applying a feed-forward network on top of the sentence encoders.
+However, as the semantic textual similarity is commonly measured through the element-wise distance metrics (e.g. cosine and L2 distance), such architecture yields a large gap between training and evaluating.
+In this paper, we propose DialogueCSE, a dialogue-based contrastive learning approach to tackle this issue.
+DialogueCSE first introduces a novel matching-guided embedding (MGE) mechanism, which generates a context-aware embedding for each candidate response embedding (i.e. the context-free embedding) according to the guidance of the multi-turn context-response matching matrices.
+Then it pairs each context-aware embedding with its corresponding context-free embedding and finally minimizes the contrastive loss across all pairs.
+We evaluate our model on three multi-turn dialogue datasets: the Microsoft Dialogue Corpus, the Jing Dong Dialogue Corpus, and the E-commerce Dialogue Corpus.
+Evaluation results show that our approach significantly outperforms the baselines across all three datasets in terms of MAP and Spearman's correlation measures, demonstrating its effectiveness.
+Further quantitative experiments show that our approach achieves better performance when leveraging more dialogue context and remains robust when less training data is provided.
+Author{1}{Firstname}#=%=#Che
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#liuche.lc
+Author{1}{Email}#=%=#466035924@qq.com
+Author{1}{Affiliation}#=%=#DAMO Academy, Alibaba Group
+Author{2}{Firstname}#=%=#Rui
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangruicn
+Author{2}{Email}#=%=#wr1994@126.com
+Author{2}{Affiliation}#=%=#DAMO Academy, Alibaba Group
+Author{3}{Firstname}#=%=#jinghua
+Author{3}{Lastname}#=%=#liu
+Author{3}{Username}#=%=#jinghua
+Author{3}{Email}#=%=#shaohan.ljh@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Jian
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Username}#=%=#qianjue.sj
+Author{4}{Email}#=%=#jian.sun@alibaba-inc.com
+Author{4}{Affiliation}#=%=#Alibaba Group
+Author{5}{Firstname}#=%=#Fei
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Username}#=%=#fei.huang
+Author{5}{Email}#=%=#feirhuang@gmail.com
+Author{5}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{6}{Firstname}#=%=#Luo
+Author{6}{Lastname}#=%=#Si
+Author{6}{Username}#=%=#warmstar
+Author{6}{Email}#=%=#luo.si@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba Group Inc
+
+==========

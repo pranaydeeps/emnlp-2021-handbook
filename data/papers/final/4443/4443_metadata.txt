@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#4443
+FinalPaperTitle#=%=#MS-Mentions: Consistently Annotating Entity Mentions in Materials Science Procedural Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Timothy Joseph OGorman
+JobTitle#==#
+Organization#==#UMass-Amherst and MIT
+Abstract#==#Material science synthesis procedures are a promising domain for scientific NLP, as proper modeling of these recipes could provide insight into new ways of creating materials.  However, a fundamental challenge in building information extraction models for material science synthesis procedures is getting accurate labels for the materials, operations, and other entities of those procedures. We present a new corpus of entity mention annotations over 595 Material Science synthesis procedural texts (157,488 tokens), which greatly expands the training data available for the Named Entity Recognition task. We outline a new label inventory designed to provide consistent annotations and a new annotation approach intended to maximize the consistency and annotation speed of domain experts. Inter-annotator agreement studies and baseline models trained upon the data suggest that the corpus provides high-quality annotations of these mention types. This corpus helps lay a foundation for future high-quality modeling of synthesis procedures.
+Author{1}{Firstname}#=%=#Tim
+Author{1}{Lastname}#=%=#O'Gorman
+Author{1}{Username}#=%=#timjogorman
+Author{1}{Email}#=%=#togorman@iesl.cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Zach
+Author{2}{Lastname}#=%=#Jensen
+Author{2}{Username}#=%=#zjensen
+Author{2}{Email}#=%=#zjensen@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#Sheshera
+Author{3}{Lastname}#=%=#Mysore
+Author{3}{Username}#=%=#msheshera
+Author{3}{Email}#=%=#smysore@cs.umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{4}{Firstname}#=%=#Kevin
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Username}#=%=#kjhuang
+Author{4}{Email}#=%=#kjhuang@mit.edu
+Author{4}{Affiliation}#=%=#MIT
+Author{5}{Firstname}#=%=#Rubayyat
+Author{5}{Lastname}#=%=#Mahbub
+Author{5}{Username}#=%=#rmahbub
+Author{5}{Email}#=%=#rmahbub@mit.edu
+Author{5}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{6}{Firstname}#=%=#Elsa
+Author{6}{Lastname}#=%=#Olivetti
+Author{6}{Username}#=%=#elsao
+Author{6}{Email}#=%=#elsao@mit.edu
+Author{6}{Affiliation}#=%=#MIT
+Author{7}{Firstname}#=%=#Andrew
+Author{7}{Lastname}#=%=#McCallum
+Author{7}{Username}#=%=#mccallum
+Author{7}{Email}#=%=#mccallum@cs.umass.edu
+Author{7}{Affiliation}#=%=#UMass Amherst
+
+==========

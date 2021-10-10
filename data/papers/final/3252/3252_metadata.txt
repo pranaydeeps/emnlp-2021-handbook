@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3252
+FinalPaperTitle#=%=#Are {T}ransformers a Modern Version of {ELIZA}? {O}bservations on {F}rench Object Verb Agreement
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Bingzhi LI
+JobTitle#==#
+Organization#==#
+Abstract#==#Many recent works have demonstrated that unsupervised sentence representations of neural networks encode syntactic information by observing that neural language models are able to predict the agreement between a verb and its subject.  We take a critical look at this line of research by showing that it is possible to achieve high accuracy on this agreement task with simple surface heuristics, indicating a possible flaw in our assessment of neural networks' syntactic ability. Our fine-grained analyses of results on the long-range French object-verb agreement show that contrary to LSTMs, Transformers are able to capture a non-trivial amount of grammatical structure.
+Author{1}{Firstname}#=%=#Bingzhi
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#bingzhili
+Author{1}{Email}#=%=#bingzhi.li@etu.u-paris.fr
+Author{1}{Affiliation}#=%=#LLF,University of Paris
+Author{2}{Firstname}#=%=#Guillaume
+Author{2}{Lastname}#=%=#Wisniewski
+Author{2}{Username}#=%=#gwisniewski
+Author{2}{Email}#=%=#guillaume.wisniewski@u-paris.fr
+Author{2}{Affiliation}#=%=#Université Paris and LLF
+Author{3}{Firstname}#=%=#Benoit
+Author{3}{Lastname}#=%=#Crabbé
+Author{3}{Username}#=%=#bcrabbe
+Author{3}{Email}#=%=#benoit.crabbe@gmail.com
+Author{3}{Affiliation}#=%=#University of Paris
+
+==========

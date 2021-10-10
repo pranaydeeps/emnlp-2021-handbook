@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Unsupervised Multiple Choices Question Answering: Start Learning from Basic Knowledge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chi-Liang Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we study the possibility of unsupervised  Multiple Choices Question Answering (MCQA).
+From very basic knowledge, the MCQA model knows that some choices have higher probabilities of being correct than others.
+The information, though very noisy, guides the training of an MCQA model.
+The proposed method is shown to outperform the baseline approaches on RACE and is even comparable with some supervised learning approaches on MC500.
+Author{1}{Firstname}#=%=#Chi-Liang
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#liangtaiwan
+Author{1}{Email}#=%=#liangtaiwan1230@gmail.com
+Author{1}{Affiliation}#=%=#National Taiwan University
+Author{2}{Firstname}#=%=#Hung-yi
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Username}#=%=#tlkagk
+Author{2}{Email}#=%=#tlkagkb93901106@gmail.com
+Author{2}{Affiliation}#=%=#National Taiwan University (NTU)
+
+==========

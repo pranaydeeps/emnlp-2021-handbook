@@ -1,0 +1,65 @@
+SubmissionNumber#=%=#2490
+FinalPaperTitle#=%=#XTREME-R: Towards More Challenging and Nuanced Multilingual Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#31
+CopyrightSigned#=%=#Sebastian Ruder
+JobTitle#==#
+Organization#==#DeepMind, 6 Pancras Square, London N1C 4AG, UK
+Abstract#==#Machine learning has brought striking advances in multilingual natural language processing capabilities over the past year. For example, the latest techniques have improved the state-of-the-art performance on the XTREME multilingual benchmark by more than 13 points. While a sizeable gap to human-level performance remains, improvements have been easier to achieve in some tasks than in others. This paper analyzes the current state of cross-lingual transfer learning and summarizes some lessons learned. In order to catalyze meaningful progress, we extend XTREME to XTREME-R, which consists of an improved set of ten natural language understanding tasks, including challenging language-agnostic retrieval tasks, and covers 50 typologically diverse languages. In addition, we provide a massively multilingual diagnostic suite and fine-grained multi-dataset evaluation capabilities through an interactive public leaderboard to gain a better understanding of such models.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Ruder
+Author{1}{Username}#=%=#sebastianruder
+Author{1}{Email}#=%=#ruder.sebastian@gmail.com
+Author{1}{Affiliation}#=%=#DeepMind
+Author{2}{Firstname}#=%=#Noah
+Author{2}{Lastname}#=%=#Constant
+Author{2}{Username}#=%=#nconstant
+Author{2}{Email}#=%=#nconstant@google.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Jan
+Author{3}{Lastname}#=%=#Botha
+Author{3}{Username}#=%=#janbot
+Author{3}{Email}#=%=#jabot@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Aditya
+Author{4}{Lastname}#=%=#Siddhant
+Author{4}{Username}#=%=#asiddhan
+Author{4}{Email}#=%=#siddhantaditya01@gmail.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Orhan
+Author{5}{Lastname}#=%=#Firat
+Author{5}{Username}#=%=#orhanf
+Author{5}{Email}#=%=#orhanf@google.com
+Author{5}{Affiliation}#=%=#Google AI
+Author{6}{Firstname}#=%=#Jinlan
+Author{6}{Lastname}#=%=#Fu
+Author{6}{Username}#=%=#jlfu
+Author{6}{Email}#=%=#fujl16@fudan.edu.cn
+Author{6}{Affiliation}#=%=#Fudan University
+Author{7}{Firstname}#=%=#Pengfei
+Author{7}{Lastname}#=%=#Liu
+Author{7}{Username}#=%=#stefan
+Author{7}{Email}#=%=#stefanpengfei@gmail.com
+Author{7}{Affiliation}#=%=#Carnegie Mellon University
+Author{8}{Firstname}#=%=#Junjie
+Author{8}{Lastname}#=%=#Hu
+Author{8}{Username}#=%=#junjieh
+Author{8}{Email}#=%=#junjieh@cs.cmu.edu
+Author{8}{Affiliation}#=%=#Carnegie Mellon University
+Author{9}{Firstname}#=%=#Dan
+Author{9}{Lastname}#=%=#Garrette
+Author{9}{Username}#=%=#dhgarrette
+Author{9}{Email}#=%=#dhgarrette@gmail.com
+Author{9}{Affiliation}#=%=#Google Research
+Author{10}{Firstname}#=%=#Graham
+Author{10}{Lastname}#=%=#Neubig
+Author{10}{Username}#=%=#gneubig
+Author{10}{Email}#=%=#gneubig@cs.cmu.edu
+Author{10}{Affiliation}#=%=#Carnegie Mellon University
+Author{11}{Firstname}#=%=#Melvin
+Author{11}{Lastname}#=%=#Johnson
+Author{11}{Username}#=%=#melvinj
+Author{11}{Email}#=%=#jmelvinjose@gmail.com
+Author{11}{Affiliation}#=%=#Google
+
+==========

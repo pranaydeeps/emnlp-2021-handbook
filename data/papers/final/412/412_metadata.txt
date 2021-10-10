@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#412
+FinalPaperTitle#=%=#STANKER: Stacking Network based on Level-grained Attention-masked BERT for Rumor Detection on Social Media
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Dongning Rao
+JobTitle#==#
+Organization#==#School of Computer, Guangdong University of Technology, Guangzhou 510006, P. R. China
+No. 100, Waihuan West Road, University Town, Guangzhou, Guangdong
+Abstract#==#Rumor detection on social media puts pre-trained language models (LMs), such as BERT, and auxiliary features, such as comments, into use. However, on the one hand, rumor detection datasets in Chinese companies with comments are rare; on the other hand, intensive interaction of attention on Transformer-based models like BERT may hinder performance improvement. To alleviate these problems, we build a new Chinese microblog dataset named Weibo20 by collecting posts and associated comments from Sina Weibo and propose a new ensemble named STANKER (Stacking neTwork bAsed-on atteNtion-masKed BERT). STANKER adopts two level-grained attention-masked BERT (LGAM-BERT) models as base encoders. Unlike the original BERT, our new LGAM-BERT model takes comments as important auxiliary features and masks co-attention between posts and comments on lower-layers. Experiments on Weibo20 and three existing social media datasets showed that STANKER  outperformed all compared models, especially beating the old state-of-the-art on Weibo dataset.
+Author{1}{Firstname}#=%=#Dongning
+Author{1}{Lastname}#=%=#Rao
+Author{1}{Username}#=%=#dongning_rao
+Author{1}{Email}#=%=#raodn@gdut.edu.cn
+Author{1}{Affiliation}#=%=#Guangdong University of Technology
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Miao
+Author{2}{Username}#=%=#xin_miao
+Author{2}{Email}#=%=#miaox@mail2.gdut.edu.cn
+Author{2}{Affiliation}#=%=#Guangdong University of Technology
+Author{3}{Firstname}#=%=#Zhihua
+Author{3}{Lastname}#=%=#Jiang
+Author{3}{Username}#=%=#zhihua_jiang
+Author{3}{Email}#=%=#tjiangzhh@jnu.edu.cn
+Author{3}{Affiliation}#=%=#Jinan University
+Author{4}{Firstname}#=%=#Ran
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#ran_li
+Author{4}{Email}#=%=#2111905160@mail2.gdut.edu.cn
+Author{4}{Affiliation}#=%=#Guangdong University of Technology
+
+==========

@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#2098
+FinalPaperTitle#=%=#Segment, Mask, and Predict: Augmenting Chinese Word Segmentation with Self-Supervision
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Mieradilijiang Maimaiti
+JobTitle#==#
+Organization#==#Department of Computer Science and Technology, Tsinghua University, Beijing, China
+Abstract#==#Recent state-of-the-art (SOTA) effective neural network methods and fine-tuning methods based on pre-trained models (PTM) have been used in Chinese word segmentation (CWS), and they achieve great results. However, previous works focus on training the models with the fixed corpus at every iteration. The intermediate generated information is also valuable. Besides, the robustness of the previous neural methods is limited by the large-scale annotated data. There are a few noises in the annotated corpus. Limited efforts have been made by previous studies to deal with such problems.
+In this work, we propose a self-supervised CWS approach with a straightforward and effective architecture.
+First, we train a word segmentation model and use it to generate the segmentation results.
+Then, we use a revised masked language model (MLM) to evaluate the quality of the segmentation results based on the predictions of the MLM. Finally, we leverage the evaluations to aid the training of the segmenter by improved minimum risk training. Experimental results show that our approach outperforms previous methods on 9 different CWS datasets with single criterion training and multiple criteria training and achieves better robustness.
+Author{1}{Firstname}#=%=#Mieradilijiang
+Author{1}{Lastname}#=%=#Maimaiti
+Author{1}{Username}#=%=#hero51
+Author{1}{Email}#=%=#meadljmm15@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#liuyang2011
+Author{2}{Email}#=%=#liuyang2011@tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Yuanhang
+Author{3}{Lastname}#=%=#Zheng
+Author{3}{Username}#=%=#zyh111
+Author{3}{Email}#=%=#zheng-yh19@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Gang
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#cg18
+Author{4}{Email}#=%=#cg18@mails.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Kaiyu
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Username}#=%=#kaiyuhuang
+Author{5}{Email}#=%=#kaiyuhuang@mail.dlut.edu.cn
+Author{5}{Affiliation}#=%=#Dalian University of Technology
+Author{6}{Firstname}#=%=#Ji
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#zj122146
+Author{6}{Email}#=%=#zj122146@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba Group
+Author{7}{Firstname}#=%=#Huanbo
+Author{7}{Lastname}#=%=#Luan
+Author{7}{Username}#=%=#luanhuanbo
+Author{7}{Email}#=%=#luanhuanbo@gmail.com
+Author{7}{Affiliation}#=%=#Tsinghua University
+Author{8}{Firstname}#=%=#Maosong
+Author{8}{Lastname}#=%=#Sun
+Author{8}{Username}#=%=#sms
+Author{8}{Email}#=%=#sms@tsinghua.edu.cn
+Author{8}{Affiliation}#=%=#Tsinghua University
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#748
+FinalPaperTitle#=%=#Idiosyncratic but not Arbitrary: Learning Idiolects in Online Registers Reveals Distinctive yet Consistent Individual Styles
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Jian Zhu
+JobTitle#==#
+Organization#==#
+Abstract#==#An individual's variation in writing style is often a function of both social and personal attributes. While structured social variation has been extensively studied, e.g., gender based variation, far less is known about how to characterize individual styles due to their idiosyncratic nature. We introduce a new approach to studying idiolects through a massive cross-author comparison to identify and encode stylistic features. The neural model achieves strong performance at authorship identification on short texts and through an analogy-based probing task, showing that the learned representations exhibit surprising regularities that encode qualitative and quantitative shifts of idiolectal styles. Through text perturbation, we quantify the relative contributions of different linguistic elements to idiolectal variation. Furthermore, we provide a description of idiolects through measuring inter- and intra-author variation, showing that variation in idiolects is often distinctive yet consistent.
+Author{1}{Firstname}#=%=#Jian
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Username}#=%=#lukez
+Author{1}{Email}#=%=#lingjzhu@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Jurgens
+Author{2}{Username}#=%=#davidjurgens
+Author{2}{Email}#=%=#jurgens@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#171
+FinalPaperTitle#=%=#R^3Net:Relation-embedded Representation Reconstruction Network for Change Captioning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yunbin Tu
+JobTitle#==#
+Organization#==#
+Abstract#==#Change captioning is to use a natural language sentence to describe the fine-grained disagreement between two similar images. Viewpoint change is the most typical distractor in this task, because it changes the scale and location of the objects and overwhelms the representation of real change. In this paper, we propose a Relation-embedded Representation Reconstruction Network (R^3Net) to explicitly distinguish the real change from the large amount of clutter and irrelevant changes. Specifically, a relation-embedded module is first devised to explore potential changed objects in the large amount of clutter. Then, based on the semantic similarities of corresponding locations in the two images, a representation reconstruction module (RRM) is designed to learn the reconstruction representation and further model the difference representation. Besides, we introduce a syntactic skeleton predictor (SSP) to enhance the semantic interaction between change localization and caption generation. Extensive experiments show that the proposed method achieves the state-of-the-art results on two public datasets.
+Author{1}{Firstname}#=%=#Yunbin
+Author{1}{Lastname}#=%=#Tu
+Author{1}{Username}#=%=#tuyunbin
+Author{1}{Email}#=%=#tuyunbin1995@foxmail.com
+Author{1}{Affiliation}#=%=#Kunming University of Science and Technology
+Author{2}{Firstname}#=%=#Liang
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#liangli1986
+Author{2}{Email}#=%=#liang.li@ict.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{3}{Firstname}#=%=#Chenggang
+Author{3}{Lastname}#=%=#Yan
+Author{3}{Username}#=%=#cgyan
+Author{3}{Email}#=%=#cgyan@hdu.edu.cn
+Author{3}{Affiliation}#=%=#Hangzhou Dianzi University
+Author{4}{Firstname}#=%=#Shengxiang
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Username}#=%=#gaosx
+Author{4}{Email}#=%=#gaoshengxiang.yn@foxmail.com
+Author{4}{Affiliation}#=%=#Kunming University of Science and Technology
+Author{5}{Firstname}#=%=#Zhengtao
+Author{5}{Lastname}#=%=#YU
+Author{5}{Username}#=%=#ztyu
+Author{5}{Email}#=%=#ztyu@hotmail.com
+Author{5}{Affiliation}#=%=#Kunming University of Science and Technology
+
+==========

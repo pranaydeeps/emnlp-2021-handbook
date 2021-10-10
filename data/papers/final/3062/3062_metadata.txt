@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3062
+FinalPaperTitle#=%=#NewsBERT: Distilling Pre-trained Language Model for Intelligent News Application
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chuhan Wu
+JobTitle#==#
+Organization#==#
+Abstract#==#Pre-trained language models (PLMs) like BERT have made great progress in NLP. News articles usually contain rich textual information, and PLMs have the potentials to enhance news text modeling for various intelligent news applications like news recommendation and retrieval. However, most existing PLMs are in huge size with hundreds of millions of parameters. Many online news applications need to serve millions of users with low latency tolerance, which poses great challenges to incorporating PLMs in these scenarios. Knowledge distillation techniques can compress a large PLM into a much smaller one and meanwhile keeps good performance. However, existing language models are pre-trained and distilled on general corpus like Wikipedia, which has gaps with the news domain and may be suboptimal for news intelligence. In this paper, we propose NewsBERT, which can distill PLMs for efficient and effective news intelligence. In our approach, we design a teacher-student joint learning and distillation framework to collaboratively learn both teacher and student models, where the student model can learn from the learning experience of the teacher model. In addition, we propose a momentum distillation method by incorporating the gradients of teacher model into the update of student model to better transfer the knowledge learned by the teacher model. Thorough experiments on two real-world datasets with three tasks show that NewsBERT can empower various intelligent news applications with much smaller models.
+Author{1}{Firstname}#=%=#Chuhan
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Username}#=%=#wuchuhan
+Author{1}{Email}#=%=#wuch15@tsinghua.org.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Fangzhao
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#wufangzhao
+Author{2}{Email}#=%=#wufangzhao@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Yang
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#yy613
+Author{3}{Email}#=%=#tomyu613@icloud.com
+Author{3}{Affiliation}#=%=#Department of Computer Science and Technology, University of Science and Technology of China
+Author{4}{Firstname}#=%=#Tao
+Author{4}{Lastname}#=%=#Qi
+Author{4}{Username}#=%=#taoqi
+Author{4}{Email}#=%=#taoqi.qt@gmail.com
+Author{4}{Affiliation}#=%=#Department of Electronic Engineering, Tsinghua University
+Author{5}{Firstname}#=%=#Yongfeng
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Username}#=%=#yfhuang
+Author{5}{Email}#=%=#yfhuang@mail.tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua University
+Author{6}{Firstname}#=%=#Qi
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#qiliuql
+Author{6}{Email}#=%=#qiliuql@ustc.edu.cn
+Author{6}{Affiliation}#=%=#University of Science and Technology of China
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#4621
+FinalPaperTitle#=%=#Towards Zero-Shot Knowledge Distillation for Natural Language Processing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ahmad Rashid
+JobTitle#==#
+Organization#==#Huawei Noah's Ark Lab, Montreal Research Center, Canada
+
+7101 Park Ave
+Montreal, QC H3N 1X9
+Canada
+Abstract#==#Knowledge distillation (KD) is a common knowledge transfer algorithm used for model compression across a variety of deep learning based natural language processing (NLP) solutions. In its regular manifestations, KD requires access to the teacher's training data for knowledge transfer to the student network. However, privacy concerns, data regulations and proprietary reasons may prevent access to such data. We present, to the best of our knowledge, the first work on Zero-shot Knowledge Distillation for NLP, where the student learns from the much larger teacher without any task specific data. Our solution combines out-of-domain data and adversarial training to learn the teacher's output distribution. We investigate six tasks from the GLUE benchmark and demonstrate that we can achieve between 75% and 92% of the teacher's classification score (accuracy or F1) while compressing the model 30 times.
+Author{1}{Firstname}#=%=#Ahmad
+Author{1}{Lastname}#=%=#Rashid
+Author{1}{Username}#=%=#ahmadrashid
+Author{1}{Email}#=%=#ahmad.rashid@huawei.com
+Author{1}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{2}{Firstname}#=%=#Vasileios
+Author{2}{Lastname}#=%=#Lioutas
+Author{2}{Username}#=%=#billiout
+Author{2}{Email}#=%=#contact@vlioutas.com
+Author{2}{Affiliation}#=%=#University of British Columbia
+Author{3}{Firstname}#=%=#Abbas
+Author{3}{Lastname}#=%=#Ghaddar
+Author{3}{Username}#=%=#ghaddara
+Author{3}{Email}#=%=#abbas.ghaddar@huawei.com
+Author{3}{Affiliation}#=%=#Huawei Noah's Ark Lab, Montreal Research Center
+Author{4}{Firstname}#=%=#Mehdi
+Author{4}{Lastname}#=%=#Rezagholizadeh
+Author{4}{Username}#=%=#mrgzadeh
+Author{4}{Email}#=%=#mehdi.rezagholizadeh@gmail.com
+Author{4}{Affiliation}#=%=#Noah's Ark Lab Huawei
+
+==========

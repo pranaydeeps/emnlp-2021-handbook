@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#362
+FinalPaperTitle#=%=#Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Gi-Cheon Kang
+JobTitle#==#
+Organization#==#
+Abstract#==#Visual dialog is a task of answering a sequence of questions grounded in an image using the previous dialog history as context. In this paper, we study how to address two fundamental challenges for this task: (1) reasoning over underlying semantic structures among dialog rounds and (2) identifying several appropriate answers to the given question. To address these challenges, we propose a Sparse Graph Learning (SGL) method to formulate visual dialog as a graph structure learning task. SGL infers inherently sparse dialog structures by incorporating binary and score edges and leveraging a new structural loss function. Next, we introduce a Knowledge Transfer (KT) method that extracts the answer predictions from the teacher model and uses them as pseudo labels. We propose KT to remedy the shortcomings of single ground-truth labels, which severely limit the ability of a model to obtain multiple reasonable answers. As a result, our proposed model significantly improves reasoning capability compared to baseline methods and outperforms the state-of-the-art approaches on the VisDial v1.0 dataset. The source code is available at https://github.com/gicheonkang/SGLKT-VisDial.
+Author{1}{Firstname}#=%=#Gi-Cheon
+Author{1}{Lastname}#=%=#Kang
+Author{1}{Username}#=%=#gi_cheon_kang
+Author{1}{Email}#=%=#chonkang@snu.ac.kr
+Author{1}{Affiliation}#=%=#Seoul National University
+Author{2}{Firstname}#=%=#Junseok
+Author{2}{Lastname}#=%=#Park
+Author{2}{Username}#=%=#junseokpark
+Author{2}{Email}#=%=#jspark227@snu.ac.kr
+Author{2}{Affiliation}#=%=#Seoul National University
+Author{3}{Firstname}#=%=#Hwaran
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#hwaran.lee
+Author{3}{Email}#=%=#hwaran.lee@gmail.com
+Author{3}{Affiliation}#=%=#NAVER AI Lab
+Author{4}{Firstname}#=%=#Byoung-Tak
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#btzhang
+Author{4}{Email}#=%=#btzhang@bi.snu.ac.kr
+Author{4}{Affiliation}#=%=#Seoul National University
+Author{5}{Firstname}#=%=#Jin-Hwa
+Author{5}{Lastname}#=%=#Kim
+Author{5}{Username}#=%=#jnhwkim
+Author{5}{Email}#=%=#jnhwkim@gmail.com
+Author{5}{Affiliation}#=%=#SK Telecom
+
+==========

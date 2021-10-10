@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1315
+FinalPaperTitle#=%=#Generalization in Text-based Games via Hierarchical Reinforcement Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yunqiu Xu
+JobTitle#==#
+Organization#==#
+Abstract#==#Deep reinforcement learning provides a promising approach for text-based games in studying natural language communication between humans and artificial agents. However, the generalization still remains a big challenge as the agents depend critically on the complexity and variety of training tasks. 
+In this paper, we address this problem by introducing a hierarchical framework built upon the knowledge graph-based RL agent. In the high level, a meta-policy is executed to decompose the whole game into a set of subtasks specified by textual goals, and select one of them based on the KG. Then a sub-policy in the low level is executed to conduct goal-conditioned reinforcement learning. We carry out experiments on games with various difficulty levels and show that the proposed method enjoys favorable generalizability.
+Author{1}{Firstname}#=%=#Yunqiu
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#yunqiuxu1991
+Author{1}{Email}#=%=#yunqiu.xu@student.uts.edu.au
+Author{1}{Affiliation}#=%=#University of Technology Sydney
+Author{2}{Firstname}#=%=#Meng
+Author{2}{Lastname}#=%=#Fang
+Author{2}{Username}#=%=#moe
+Author{2}{Email}#=%=#m.fang@tue.nl
+Author{2}{Affiliation}#=%=#Eindhoven University of Technology
+Author{3}{Firstname}#=%=#Ling
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#acllingchen
+Author{3}{Email}#=%=#ling.chen@uts.edu.au
+Author{3}{Affiliation}#=%=#University of Technology Sydney
+Author{4}{Firstname}#=%=#Yali
+Author{4}{Lastname}#=%=#Du
+Author{4}{Username}#=%=#yalidu
+Author{4}{Email}#=%=#yali.dux@gmail.com
+Author{4}{Affiliation}#=%=#University College London
+Author{5}{Firstname}#=%=#Chengqi
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#aclchengqizhang
+Author{5}{Email}#=%=#chengqi.zhang@uts.edu.au
+Author{5}{Affiliation}#=%=#University of Technology Sydney
+
+==========

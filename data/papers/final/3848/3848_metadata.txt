@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3848
+FinalPaperTitle#=%=#Non-Parametric Unsupervised Domain Adaptation for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Xin Zheng
+JobTitle#==#
+Organization#==#
+Abstract#==#Recently, kNN-MT (Khandelwal et al., 2020) has shown the promising capability of directly incorporating the pre-trained neural machine translation (NMT) model with domain-specific token-level k-nearest-neighbor (kNN) retrieval to achieve domain adaptation without retraining. Despite being conceptually attractive, it heavily relies on high-quality in-domain parallel corpora, limiting its capability on unsupervised domain adaptation, where in-domain parallel corpora are scarce or nonexistent. In this paper, we propose a novel framework that directly uses in-domain monolingual sentences in the target language to construct an effective datastore for k-nearest-neighbor retrieval. To this end, we first introduce an autoencoder task based on the target language, and then insert lightweight adapters into the original NMT model to map the token-level representation of this task to the ideal representation of the translation task. Experiments on multi-domain datasets demonstrate that our proposed approach significantly improves the translation accuracy with target-side monolingual data, while achieving comparable performance with back-translation. Our implementation is open-sourced at https://github. com/zhengxxn/UDA-KNN.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Zheng
+Author{1}{Username}#=%=#zhengxin9703
+Author{1}{Email}#=%=#zhengxin@smail.nju.edu.cn
+Author{1}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{2}{Firstname}#=%=#Zhirui
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zrustc11acl
+Author{2}{Email}#=%=#zrustc11@gmail.com
+Author{2}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{3}{Firstname}#=%=#Shujian
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Username}#=%=#huangshujian
+Author{3}{Email}#=%=#huangsj@nju.edu.cn
+Author{3}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{4}{Firstname}#=%=#Boxing
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#boxing.chen
+Author{4}{Email}#=%=#chenboxing@gmail.com
+Author{4}{Affiliation}#=%=#Alibaba
+Author{5}{Firstname}#=%=#Jun
+Author{5}{Lastname}#=%=#Xie
+Author{5}{Username}#=%=#stiffxj
+Author{5}{Email}#=%=#stiffxj@qq.com
+Author{5}{Affiliation}#=%=#Alibaba
+Author{6}{Firstname}#=%=#Weihua
+Author{6}{Lastname}#=%=#Luo
+Author{6}{Username}#=%=#luoweihua
+Author{6}{Email}#=%=#weihua.luowh@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba Group
+Author{7}{Firstname}#=%=#Jiajun
+Author{7}{Lastname}#=%=#CHEN
+Author{7}{Username}#=%=#chenjj
+Author{7}{Email}#=%=#chenjj@nju.edu.cn
+Author{7}{Affiliation}#=%=#Nanjing University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#3643
+FinalPaperTitle#=%=#Translation-based Supervision for Policy Generation in Simultaneous Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ashkan Alinejad
+JobTitle#==#Student
+Organization#==#Simon Fraser University
+8888 University Drive, Burnaby, BC, Canada.
+Abstract#==#In simultaneous machine translation, finding an agent with the optimal action sequence of reads and writes that maintain a high level of translation quality while minimizing the average lag in producing target tokens remains an extremely challenging problem. We propose a novel supervised learning approach for training an agent that can detect the minimum number of reads required for generating each target token by comparing simultaneous translations against full-sentence translations during training to generate oracle action sequences. These oracle sequences can then be used to train a supervised model for action generation at inference time. Our approach provides an alternative to current heuristic methods in simultaneous translation by introducing a new training objective, which is easier to train than previous attempts at training the agent using reinforcement learning techniques for this task. Our experimental results show that our novel training method for action generation produces much higher quality translations while minimizing the average lag in simultaneous translation.
+Author{1}{Firstname}#=%=#Ashkan
+Author{1}{Lastname}#=%=#Alinejad
+Author{1}{Username}#=%=#aalineja
+Author{1}{Email}#=%=#aalineja@sfu.ca
+Author{1}{Affiliation}#=%=#Simon Fraser University
+Author{2}{Firstname}#=%=#Hassan S.
+Author{2}{Lastname}#=%=#Shavarani
+Author{2}{Username}#=%=#sshavara
+Author{2}{Email}#=%=#sshavara@sfu.ca
+Author{2}{Affiliation}#=%=#sfu.ca
+Author{3}{Firstname}#=%=#Anoop
+Author{3}{Lastname}#=%=#Sarkar
+Author{3}{Username}#=%=#anoop
+Author{3}{Email}#=%=#anoop@sfu.ca
+Author{3}{Affiliation}#=%=#Simon Fraser University
+
+==========

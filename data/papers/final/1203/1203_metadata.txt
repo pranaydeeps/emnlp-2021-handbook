@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1203
+FinalPaperTitle#=%=#COVR: A Test-Bed for Visually Grounded Compositional Generalization with Real Images
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Ben Bogin
+JobTitle#==#
+Organization#==#Tel Aviv University
+Abstract#==#While interest in models that generalize at test time to new compositions has risen in recent years, benchmarks in the visually-grounded domain have thus far been restricted to synthetic images. In this work, we propose COVR, a new test-bed for visually-grounded compositional generalization with real images. To create COVR, we use real images annotated with scene graphs, and propose an almost fully automatic procedure for generating question-answer pairs along with a set of context images. COVR focuses on questions that require complex reasoning, including higher-order operations such as quantification and aggregation. Due to the automatic generation process, COVR facilitates the creation of compositional splits, where models at test time need to generalize to new concepts and compositions in a zero- or few-shot setting. 
+We construct compositional splits using COVR and demonstrate a myriad of cases where state-of-the-art pre-trained language-and-vision models struggle to compositionally generalize.
+Author{1}{Firstname}#=%=#Ben
+Author{1}{Lastname}#=%=#Bogin
+Author{1}{Username}#=%=#benb
+Author{1}{Email}#=%=#ben.bogin@cs.tau.ac.il
+Author{1}{Affiliation}#=%=#Tel Aviv University
+Author{2}{Firstname}#=%=#Shivanshu
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Username}#=%=#shivanshu
+Author{2}{Email}#=%=#shivanshugupta1995@gmail.com
+Author{2}{Affiliation}#=%=#University of California Irvine
+Author{3}{Firstname}#=%=#Matt
+Author{3}{Lastname}#=%=#Gardner
+Author{3}{Username}#=%=#mattg
+Author{3}{Email}#=%=#matthewjgardner1@gmail.com
+Author{4}{Firstname}#=%=#Jonathan
+Author{4}{Lastname}#=%=#Berant
+Author{4}{Username}#=%=#joberant
+Author{4}{Email}#=%=#joberant@cs.tau.ac.il
+Author{4}{Affiliation}#=%=#Tel Aviv University and AI2
+
+==========

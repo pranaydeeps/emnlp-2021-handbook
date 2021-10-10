@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4310
+FinalPaperTitle#=%=#Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Yan Song
+JobTitle#==#
+Organization#==#The Chinese University of Hong Kong (Shenzhen), Longgang, Shenzhen, China
+Abstract#==#Aspect-based sentiment analysis (ABSA) predicts the sentiment polarity towards a particular aspect term in a sentence, which is an important task in real-world applications. To perform ABSA, the trained model is required to have a good understanding of the contextual information, especially the particular patterns that suggest the sentiment polarity. However, these patterns typically vary in different sentences, especially when the sentences come from different sources (domains), which makes ABSA still very challenging. Although combining labeled data across different sources (domains) is a promising solution to address the challenge, in practical applications, these labeled data are usually stored at different locations and might be inaccessible to each other due to privacy or legal concerns (e.g., the data are owned by different companies). To address this issue and make the best use of all labeled data, we propose a novel ABSA model with federated learning (FL) adopted to overcome the data isolation limitations and incorporate topic memory (TM) proposed to take the cases of data from diverse sources (domains) into consideration. Particularly, TM aims to identify different isolated data sources due to data inaccessibility by providing useful categorical information for localized predictions. Experimental results on a simulated environment for FL with three nodes demonstrate the effectiveness of our approach, where TM-FL outperforms different baselines including some well-designed FL frameworks.
+Author{1}{Firstname}#=%=#Han
+Author{1}{Lastname}#=%=#Qin
+Author{1}{Username}#=%=#espeon
+Author{1}{Email}#=%=#qhdnf74@gmail.com
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong (Shenzhen)
+Author{2}{Firstname}#=%=#Guimin
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#ichbinderek
+Author{2}{Email}#=%=#chenguimin@foxmail.com
+Author{2}{Affiliation}#=%=#Qtrade
+Author{3}{Firstname}#=%=#Yuanhe
+Author{3}{Lastname}#=%=#Tian
+Author{3}{Username}#=%=#yhtian
+Author{3}{Email}#=%=#yhtian@uw.edu
+Author{3}{Affiliation}#=%=#Department of Linguistics, University of Washington
+Author{4}{Firstname}#=%=#Yan
+Author{4}{Lastname}#=%=#Song
+Author{4}{Username}#=%=#mattsure
+Author{4}{Email}#=%=#mattsure@gmail.com
+Author{4}{Affiliation}#=%=#CUHK-SZ
+
+==========

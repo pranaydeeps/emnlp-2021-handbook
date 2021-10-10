@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2055
+FinalPaperTitle#=%=#Learning grounded word meaning representations on similarity graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#Mariella Dimiccoli
+JobTitle#==#
+Organization#==#Institut de Robòtica i Informàtica Industrial, CSIC-UPC 
+Llorens i Artigas 4-6, 08028 Barcelona, Spain
+Abstract#==#This paper introduces a novel approach to learn visually grounded meaning representations of words as low-dimensional node embeddings on an underlying graph hierarchy.
+The lower level of the hierarchy models modality-specific word representations, conditioned to another modality, through dedicated but communicating graphs, while the higher level puts these representations together on a single graph to learn a representation jointly from both modalities. 
+The topology of each graph models similarity relations among words, and is estimated jointly with the graph embedding.
+The assumption underlying this model is that words sharing similar meaning correspond to communities in an underlying graph in a low-dimensional space.
+We named this model Hierarchical Multi-Modal Similarity Graph Embedding (HM-SGE).
+Experimental results validate the ability of HM-SGE to simulate human similarity judgments and concept categorization, outperforming the state of the art.
+Author{1}{Firstname}#=%=#Mariella
+Author{1}{Lastname}#=%=#Dimiccoli
+Author{1}{Username}#=%=#mdimiccoli
+Author{1}{Email}#=%=#mdimiccoli@iri.upc.edu
+Author{1}{Affiliation}#=%=#Institut de Robòtica e Informàtica Industrial (CSIC-UPC)
+Author{2}{Firstname}#=%=#Herwig
+Author{2}{Lastname}#=%=#Wendt
+Author{2}{Email}#=%=#herwig.wendt@irit.fr
+Author{2}{Affiliation}#=%=#University of Toulouse
+Author{3}{Firstname}#=%=#Pau
+Author{3}{Lastname}#=%=#Batlle Franch
+Author{3}{Username}#=%=#paubatlle
+Author{3}{Email}#=%=#pau.batlle.franch@gmail.com
+Author{3}{Affiliation}#=%=#California Institute of Technology (Caltech)
+
+==========

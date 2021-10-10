@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#3182
+FinalPaperTitle#=%=#Multilingual and Cross-Lingual Intent Detection from Spoken Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ivan Vulić
+JobTitle#==#Senior Scientist
+Organization#==#PolyAI, 3 Waterhouse Square, 138 - 142 Holborn, London EC1N 2SW, United Kingdom
+Abstract#==#We present a systematic study on multilingual and cross-lingual intent detection (ID) from spoken data. The study leverages a new resource put forth in this work, termed MInDS-14, a first training and evaluation resource for the ID task with spoken data. It covers 14 intents extracted from a commercial system in the e-banking domain, associated with spoken examples in 14 diverse language varieties. Our key results indicate that combining machine translation models with state-of-the-art multilingual sentence encoders (e.g., LaBSE) yield strong intent detectors in the majority of target languages covered in MInDS-14, and offer comparative analyses across different axes: e.g., translation direction, impact of speech recognition, data augmentation from a related domain. We see this work as an important step towards more inclusive development and evaluation of multilingual ID from spoken data, hopefully in a much wider spectrum of languages compared to prior work.
+Author{1}{Firstname}#=%=#Daniela
+Author{1}{Lastname}#=%=#Gerz
+Author{1}{Username}#=%=#dgerz
+Author{1}{Email}#=%=#dan@poly-ai.com
+Author{1}{Affiliation}#=%=#PolyAI
+Author{2}{Firstname}#=%=#Pei-Hao
+Author{2}{Lastname}#=%=#Su
+Author{2}{Username}#=%=#eddy0613
+Author{2}{Email}#=%=#eddysu@poly-ai.com
+Author{2}{Affiliation}#=%=#PolyAI
+Author{3}{Firstname}#=%=#Razvan
+Author{3}{Lastname}#=%=#Kusztos
+Author{3}{Email}#=%=#razvan@poly-ai.com
+Author{3}{Affiliation}#=%=#PolyAI
+Author{4}{Firstname}#=%=#Avishek
+Author{4}{Lastname}#=%=#Mondal
+Author{4}{Email}#=%=#avishek@poly-ai.com
+Author{4}{Affiliation}#=%=#PolyAI
+Author{5}{Firstname}#=%=#Michał
+Author{5}{Lastname}#=%=#Lis
+Author{5}{Email}#=%=#michal@poly-ai.com
+Author{5}{Affiliation}#=%=#PolyAI
+Author{6}{Firstname}#=%=#Eshan
+Author{6}{Lastname}#=%=#Singhal
+Author{6}{Email}#=%=#eshan@poly-ai.com
+Author{6}{Affiliation}#=%=#PolyAI
+Author{7}{Firstname}#=%=#Nikola
+Author{7}{Lastname}#=%=#Mrkšić
+Author{7}{Username}#=%=#nmrksic
+Author{7}{Email}#=%=#nikola.mrksic@gmail.com
+Author{7}{Affiliation}#=%=#PolyAI
+Author{8}{Firstname}#=%=#Tsung-Hsien
+Author{8}{Lastname}#=%=#Wen
+Author{8}{Username}#=%=#shawnwen
+Author{8}{Email}#=%=#shawnwen@poly-ai.com
+Author{8}{Affiliation}#=%=#PolyAI
+Author{9}{Firstname}#=%=#Ivan
+Author{9}{Lastname}#=%=#Vulić
+Author{9}{Username}#=%=#ivulic
+Author{9}{Email}#=%=#iv250@cam.ac.uk
+Author{9}{Affiliation}#=%=#University of Cambridge
+
+==========

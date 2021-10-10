@@ -1,0 +1,57 @@
+SubmissionNumber#=%=#87
+FinalPaperTitle#=%=#What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zhouhang Xie
+JobTitle#==#
+Organization#==#University of California, Irvine CA
+Abstract#==#Adversarial attacks curated against NLP models are increasingly becoming practical threats. Although various methods have been developed to detect adversarial attacks, securing learning-based NLP systems in practice would require more than identifying and evading perturbed instances. To address these issues, we propose a new set of adversary identification tasks, Attacker Attribute Classification via Textual Analysis  (AACTA), that attempts to obtain more detailed information about the attackers from adversarial texts. Specifically, given a piece of adversarial text, we hope to accomplish tasks such as localizing perturbed tokens, identifying the attacker's access level to the target model, determining the evasion mechanism imposed, and specifying the perturbation type employed by the attacking algorithm. Our contributions are as follows: we formalize the task of classifying attacker attributes, and create a benchmark on various target models from sentiment classification and abuse detection domains. We show that signals from BERT models and target models can be used to train classifiers that reveal the properties of the attacking algorithms. We demonstrate that adversarial attacks leave interpretable traces in both feature spaces of pre-trained language models and target models, making AACTA a promising direction towards more trustworthy NLP systems.
+Author{1}{Firstname}#=%=#Zhouhang
+Author{1}{Lastname}#=%=#Xie
+Author{1}{Username}#=%=#zhouhanx
+Author{1}{Email}#=%=#zhouhanx@uci.edu
+Author{1}{Affiliation}#=%=#University of California, Irvine
+Author{2}{Firstname}#=%=#Jonathan
+Author{2}{Lastname}#=%=#Brophy
+Author{2}{Username}#=%=#jbrophy
+Author{2}{Email}#=%=#jbrophy@cs.uoregon.edu
+Author{2}{Affiliation}#=%=#University of Oregon
+Author{3}{Firstname}#=%=#Adam
+Author{3}{Lastname}#=%=#Noack
+Author{3}{Username}#=%=#anoack2
+Author{3}{Email}#=%=#anoack2@cs.uoregon.edu
+Author{3}{Affiliation}#=%=#University of Oregon
+Author{4}{Firstname}#=%=#Wencong
+Author{4}{Lastname}#=%=#You
+Author{4}{Username}#=%=#wyou
+Author{4}{Email}#=%=#wyou@cs.uoregon.edu
+Author{4}{Affiliation}#=%=#University of Oregon
+Author{5}{Firstname}#=%=#Kalyani
+Author{5}{Lastname}#=%=#Asthana
+Author{5}{Username}#=%=#kalyaniasthana
+Author{5}{Email}#=%=#kasthana@uci.edu
+Author{5}{Affiliation}#=%=#University of California Irvine
+Author{6}{Firstname}#=%=#Carter
+Author{6}{Lastname}#=%=#Perkins
+Author{6}{Email}#=%=#carterp@cs.uoregon.edu
+Author{6}{Affiliation}#=%=#University of Oregon
+Author{7}{Firstname}#=%=#Sabrina
+Author{7}{Lastname}#=%=#Reis
+Author{7}{Email}#=%=#sreis@uoregon.edu
+Author{7}{Affiliation}#=%=#University of Oregon
+Author{8}{Firstname}#=%=#Zayd
+Author{8}{Lastname}#=%=#Hammoudeh
+Author{8}{Email}#=%=#zayd@cs.uoregon.edu
+Author{8}{Affiliation}#=%=#University of Oregon
+Author{9}{Firstname}#=%=#Daniel
+Author{9}{Lastname}#=%=#Lowd
+Author{9}{Username}#=%=#lowd
+Author{9}{Email}#=%=#lowd@cs.uoregon.edu
+Author{9}{Affiliation}#=%=#University of Oregon
+Author{10}{Firstname}#=%=#Sameer
+Author{10}{Lastname}#=%=#Singh
+Author{10}{Username}#=%=#sameer
+Author{10}{Email}#=%=#sameer@uci.edu
+Author{10}{Affiliation}#=%=#University of California, Irvine
+
+==========

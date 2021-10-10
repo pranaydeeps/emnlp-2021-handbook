@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#180
+FinalPaperTitle#=%=#Decomposing Complex Questions Makes Multi-Hop QA Easier and More Interpretable
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ruiliu Fu
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-hop QA requires the machine to answer complex questions through finding multiple clues and reasoning, and provide explanatory evidence to demonstrate the machine’s reasoning process. We propose Relation Extractor-Reader and Comparator (RERC), a three-stage framework based on complex question decomposition. The Relation Extractor decomposes the complex question, and then the Reader answers the sub-questions in turn, and finally the Comparator performs numerical comparison and summarizes all to get the final answer, where the entire process itself constitutes a complete reasoning evidence path. In the 2WikiMultiHopQA dataset, our RERC model has achieved the state-of-the-art performance, with a winning joint F1 score of 53.58 on the leaderboard. All indicators of our RERC are close to human performance, with only 1.95 behind the human level in F1 score of support fact. At the same time, the evidence path provided by our RERC framework has excellent readability and faithfulness.
+Author{1}{Firstname}#=%=#Ruiliu
+Author{1}{Lastname}#=%=#Fu
+Author{1}{Username}#=%=#furuiliu
+Author{1}{Email}#=%=#furuiliu@hccl.ioa.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Acoustics, Chinese Academy of Sciences;  University of Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Han
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#code_han
+Author{2}{Email}#=%=#wanghan@hccl.ioa.ac.cn
+Author{2}{Affiliation}#=%=#1.Institute of Acoustics,Chinese Academy of Sciences 2.University of Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Xuejun
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#zhangxuejun
+Author{3}{Email}#=%=#zhangxuejun@hccl.ioa.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Acoustics, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Jun
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Email}#=%=#zhoujun@hccl.ioa.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Acoustics, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#yonghong
+Author{5}{Lastname}#=%=#yan
+Author{5}{Username}#=%=#yanyonghong
+Author{5}{Email}#=%=#yonghong.yan@outlook.com
+Author{5}{Affiliation}#=%=#Chinese Academy of Sciences, Institute of Acoustics
+
+==========

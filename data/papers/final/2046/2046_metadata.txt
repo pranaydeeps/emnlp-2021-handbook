@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#2046
+FinalPaperTitle#=%=#Heterogeneous Graph Neural Networks for Keyphrase Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiacheng Ye
+JobTitle#==#
+Organization#==#Shanghai Key Laboratory of Intelligent Information Processing, Fudan University
+School of Computer Science, Fudan University
+Songhu Road 2005, Shanghai, China
+Abstract#==#The encoder–decoder framework achieves state-of-the-art results in keyphrase generation (KG) tasks by predicting both present keyphrases that appear in the source document and absent keyphrases that do not. However, relying solely on the source document can result in generating uncontrollable and inaccurate absent keyphrases. To address these problems, we propose a novel graph-based method that can capture explicit knowledge from related references. Our model first retrieves some document-keyphrases pairs similar to the source document from a pre-defined index as references. Then a heterogeneous graph is constructed to capture relations with different levels of granularity of the source document and its retrieved references. To guide the decoding process, a hierarchical attention and copy mechanism is introduced, which directly copies appropriate words from both source document and its references based on their relevance and significance. 
+The experimental results on multiple KG benchmarks show that the proposed model achieves significant improvements against other baseline models, especially with regard to the absent keyphrase prediction.
+Author{1}{Firstname}#=%=#Jiacheng
+Author{1}{Lastname}#=%=#Ye
+Author{1}{Username}#=%=#yjc19
+Author{1}{Email}#=%=#yejc19@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Ruijian
+Author{2}{Lastname}#=%=#Cai
+Author{2}{Username}#=%=#suikin
+Author{2}{Email}#=%=#19210240253@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Tao
+Author{3}{Lastname}#=%=#Gui
+Author{3}{Username}#=%=#guitao
+Author{3}{Email}#=%=#tgui16@fudan.edu.cn
+Author{3}{Affiliation}#=%=#fudan university
+Author{4}{Firstname}#=%=#Qi
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#lloydzq
+Author{4}{Email}#=%=#qz@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+
+==========

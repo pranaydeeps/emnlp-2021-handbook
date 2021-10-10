@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#3475
+FinalPaperTitle#=%=#QA-Align: Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Daniela Brook Weiss
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-text applications, such as multi-document summarization, are typically required to model redundancies across related texts.    
+Current methods confronting consolidation struggle to fuse overlapping information.
+In order to explicitly represent content overlap, we propose to align predicate-argument relations across texts, providing a potential scaffold for information consolidation. 
+We go beyond clustering coreferring mentions, and instead model overlap with respect to redundancy at a propositional level, rather than merely detecting shared referents. Our setting exploits QA-SRL, utilizing question-answer pairs to capture predicate-argument relations, facilitating laymen annotation of cross-text alignments.
+We employ crowd-workers for constructing a dataset of QA-based alignments,
+and present a baseline QA alignment model trained over our dataset.
+Analyses show that our new task is semantically challenging, capturing content overlap
+beyond lexical similarity and complements cross-document coreference with proposition-level links, offering potential use for downstream tasks.
+Author{1}{Firstname}#=%=#Daniela
+Author{1}{Lastname}#=%=#Brook Weiss
+Author{1}{Username}#=%=#danielastep
+Author{1}{Email}#=%=#dani.b.weiss@gmail.com
+Author{1}{Affiliation}#=%=#Bar Ilan University
+Author{2}{Firstname}#=%=#Paul
+Author{2}{Lastname}#=%=#Roit
+Author{2}{Username}#=%=#plroit
+Author{2}{Email}#=%=#plroit@gmail.com
+Author{2}{Affiliation}#=%=#Bar-Ilan University
+Author{3}{Firstname}#=%=#Ayal
+Author{3}{Lastname}#=%=#Klein
+Author{3}{Username}#=%=#kleinay
+Author{3}{Email}#=%=#ayal.s.klein@gmail.com
+Author{3}{Affiliation}#=%=#Bar Ilan University
+Author{4}{Firstname}#=%=#Ori
+Author{4}{Lastname}#=%=#Ernst
+Author{4}{Username}#=%=#oriern
+Author{4}{Email}#=%=#oriern@gmail.com
+Author{4}{Affiliation}#=%=#Bar-Ilan University
+Author{5}{Firstname}#=%=#Ido
+Author{5}{Lastname}#=%=#Dagan
+Author{5}{Username}#=%=#dagan
+Author{5}{Email}#=%=#dagan@cs.biu.ac.il
+Author{5}{Affiliation}#=%=#Bar-Ilan University
+
+==========

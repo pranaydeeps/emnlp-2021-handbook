@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2305
+FinalPaperTitle#=%=#Towards Incremental Transformers: {A}n Empirical Analysis of Transformer Models for Incremental {NLU}
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Patrick Kahardipraja
+JobTitle#==#
+Organization#==#University of Potsdam
+Department Linguistics
+Haus 14
+Karl-Liebknecht-Straße 24-25
+14476 Potsdam
+Germany
+Abstract#==#Incremental processing allows interactive systems to respond based on partial inputs, which is a desirable property e.g. in dialogue agents. The currently popular Transformer architecture inherently processes sequences as a whole, abstracting away the notion of time. Recent work attempts to apply Transformers incrementally via restart-incrementality by repeatedly feeding, to an unchanged model, increasingly longer input prefixes to produce partial outputs. However, this approach is computationally costly and does not scale efficiently for long sequences. In parallel, we witness efforts to make Transformers more efficient, e.g. the Linear Transformer (LT) with a recurrence mechanism. In this work, we examine the feasibility of LT for incremental NLU in English. Our results show that the recurrent LT model has better incremental performance and faster inference speed compared to the standard Transformer and LT with restart-incrementality, at the cost of part of the non-incremental (full sequence) quality. We show that the performance drop can be mitigated by training the model to wait for right context before committing to an output and that training with input prefixes is beneficial for delivering correct partial outputs.
+Author{1}{Firstname}#=%=#Patrick
+Author{1}{Lastname}#=%=#Kahardipraja
+Author{1}{Username}#=%=#patrick.kahardipraja
+Author{1}{Email}#=%=#kahardipraja@uni-potsdam.de
+Author{1}{Affiliation}#=%=#University of Potsdam
+Author{2}{Firstname}#=%=#Brielen
+Author{2}{Lastname}#=%=#Madureira
+Author{2}{Username}#=%=#brielen
+Author{2}{Email}#=%=#madureiralasota@uni-potsdam.de
+Author{2}{Affiliation}#=%=#University of Potsdam
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Schlangen
+Author{3}{Username}#=%=#david.schlangen
+Author{3}{Email}#=%=#david.schlangen@uni-potsdam.de
+Author{3}{Affiliation}#=%=#University of Potsdam
+
+==========

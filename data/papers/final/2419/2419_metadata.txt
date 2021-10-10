@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2419
+FinalPaperTitle#=%=#A Graph-Based Neural Model for End-to-End Frame Semantic Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhichao Lin
+JobTitle#==#
+Organization#==#
+Abstract#==#Frame semantic parsing is a semantic analysis task based on FrameNet which has received great attention recently. The task usually involves three subtasks sequentially: (1) target identification, (2) frame classification and (3) semantic role labeling. The three subtasks are closely related while previous studies model them individually, which ignores their intern connections and meanwhile induces error propagation problem. In this work, we propose an end-to-end neural model to tackle the task jointly. Concretely, we exploit a graph-based method, regarding frame semantic parsing as a graph construction problem. All predicates and roles are treated as graph nodes, and their relations are taken as graph edges. Experiment results on two benchmark datasets of frame semantic parsing show that our method is highly competitive, resulting in better performance than pipeline models.
+Author{1}{Firstname}#=%=#ZhiChao
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#chaosmyth
+Author{1}{Email}#=%=#ch4osmy7h@gmail.com
+Author{1}{Affiliation}#=%=#Tianjin University
+Author{2}{Firstname}#=%=#Yueheng
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#yueheng_sun
+Author{2}{Email}#=%=#yhs@tju.edu.cn
+Author{2}{Affiliation}#=%=#Tianjin University
+Author{3}{Firstname}#=%=#Meishan
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#masonzms
+Author{3}{Email}#=%=#mason.zms@gmail.com
+Author{3}{Affiliation}#=%=#Tianjin University, China
+
+==========

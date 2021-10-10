@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Key Point Analysis via Contrastive Learning and Extractive Argument Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Milad Alshomary
+JobTitle#==#
+Organization#==#Paderborn University
+Abstract#==#Key point analysis is the task of extracting a set of concise and high-level statements from a given collection of arguments, representing the gist of these arguments. This paper presents our proposed approach to the Key Point Analysis Shared Task, colocated with the 8th Workshop on Argument Mining. The approach integrates two complementary components. One component employs contrastive learning via a siamese neural network for matching arguments to key points; the other is a graph-based extractive summarization model for generating key points. In both automatic and manual evaluation, our approach was ranked best among all submissions to the shared task.
+Author{1}{Firstname}#=%=#Milad
+Author{1}{Lastname}#=%=#Alshomary
+Author{1}{Username}#=%=#miladalsh
+Author{1}{Email}#=%=#milad.alshomary@uni-paderborn.de
+Author{1}{Affiliation}#=%=#Paderborn University
+Author{2}{Firstname}#=%=#Timon
+Author{2}{Lastname}#=%=#Gurcke
+Author{2}{Username}#=%=#tgurcke
+Author{2}{Email}#=%=#timon.gurcke@uni-paderborn.de
+Author{2}{Affiliation}#=%=#Paderborn University
+Author{3}{Firstname}#=%=#Shahbaz
+Author{3}{Lastname}#=%=#Syed
+Author{3}{Username}#=%=#shahbaz51
+Author{3}{Email}#=%=#shahbaz.syed@uni-leipzig.de
+Author{3}{Affiliation}#=%=#Leipzig University
+Author{4}{Firstname}#=%=#Philipp
+Author{4}{Lastname}#=%=#Heinisch
+Author{4}{Username}#=%=#phhei
+Author{4}{Email}#=%=#pheinisch@techfak.uni-bielefeld.de
+Author{4}{Affiliation}#=%=#Bielefeld University
+Author{5}{Firstname}#=%=#Maximilian
+Author{5}{Lastname}#=%=#Spliethöver
+Author{5}{Username}#=%=#mspl
+Author{5}{Email}#=%=#mspl@mail.uni-paderborn.de
+Author{5}{Affiliation}#=%=#Paderborn University
+Author{6}{Firstname}#=%=#Philipp
+Author{6}{Lastname}#=%=#Cimiano
+Author{6}{Username}#=%=#cimiano
+Author{6}{Email}#=%=#philipp@cimiano.de
+Author{6}{Affiliation}#=%=#Univ. Bielefeld
+Author{7}{Firstname}#=%=#Martin
+Author{7}{Lastname}#=%=#Potthast
+Author{7}{Username}#=%=#potthast
+Author{7}{Email}#=%=#martin.potthast@uni-leipzig.de
+Author{7}{Affiliation}#=%=#Leipzig University
+Author{8}{Firstname}#=%=#Henning
+Author{8}{Lastname}#=%=#Wachsmuth
+Author{8}{Username}#=%=#hwachsmuth
+Author{8}{Email}#=%=#henningw@upb.de
+Author{8}{Affiliation}#=%=#Paderborn University
+
+==========

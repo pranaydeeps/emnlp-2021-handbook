@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1749
+FinalPaperTitle#=%=#Towards Making the Most of Dialogue Characteristics for Neural Chat Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Yunlong Liang
+JobTitle#==#
+Organization#==#Beijing Jiaotong University
+Abstract#==#Neural Chat Translation (NCT) aims to translate conversational text between speakers of different languages. Despite the promising performance of sentence-level and context-aware neural machine translation models, there still remain limitations in current NCT models because the inherent dialogue characteristics of chat, such as dialogue coherence and speaker personality, are neglected. In this paper, we propose to promote the chat translation by introducing the modeling of dialogue characteristics into the NCT model. To this end, we design four auxiliary tasks including monolingual response generation, cross-lingual response generation, next utterance discrimination, and speaker identification. Together with the main chat translation task, we optimize the enhanced NCT model through the training objectives of all these tasks. By this means, the NCT model can be enhanced by capturing the inherent dialogue characteristics, thus generating more coherent and speaker-relevant translations. Comprehensive experiments on four language directions (English<->German and English<->Chinese) verify the effectiveness and superiority of the proposed approach.
+Author{1}{Firstname}#=%=#Yunlong
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Username}#=%=#yunlongliang
+Author{1}{Email}#=%=#yunlonliang@gmail.com
+Author{1}{Affiliation}#=%=#Beijing Jiaotong University
+Author{2}{Firstname}#=%=#Chulun
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Username}#=%=#zhouchulun
+Author{2}{Email}#=%=#clzhou@stu.xmu.edu.cn
+Author{2}{Affiliation}#=%=#Xiamen University
+Author{3}{Firstname}#=%=#Fandong
+Author{3}{Lastname}#=%=#Meng
+Author{3}{Username}#=%=#mengfandong
+Author{3}{Email}#=%=#fandongmeng@tencent.com
+Author{3}{Affiliation}#=%=#WeChat AI, Tencent
+Author{4}{Firstname}#=%=#Jinan
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Username}#=%=#jaxu
+Author{4}{Email}#=%=#jaxu@bjtu.edu.cn
+Author{4}{Affiliation}#=%=#Beijing Jiaotong University
+Author{5}{Firstname}#=%=#Yufeng
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Username}#=%=#chenyf
+Author{5}{Email}#=%=#chenyf@bjtu.edu.cn
+Author{5}{Affiliation}#=%=#Beijing Jiaotong University
+Author{6}{Firstname}#=%=#Jinsong
+Author{6}{Lastname}#=%=#Su
+Author{6}{Username}#=%=#jssu
+Author{6}{Email}#=%=#jssu@xmu.edu.cn
+Author{6}{Affiliation}#=%=#Xiamen university
+Author{7}{Firstname}#=%=#Jie
+Author{7}{Lastname}#=%=#Zhou
+Author{7}{Username}#=%=#jerryitp
+Author{7}{Email}#=%=#withtomzhou@tencent.com
+Author{7}{Affiliation}#=%=#Tencent Inc.
+
+==========

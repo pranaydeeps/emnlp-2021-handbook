@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2876
+FinalPaperTitle#=%=##HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yuji Zhang
+JobTitle#==#
+Organization#==#Department of Computing, The Hong Kong Polytechnic University, HKSAR, China
+Abstract#==#Millions of hashtags are created on social media every day to cross-refer messages concerning similar topics. To help people find the topics they want to discuss, this paper characterizes a user's hashtagging preferences via predicting how likely they will post with a hashtag. It is hypothesized that one's interests in a hashtag are related with what they said before (user history) and the existing posts present the hashtag (hashtag contexts). These factors are married in the deep semantic space built with a pre-trained BERT and a neural topic model via multitask learning. In this way, user interests learned from the past can be customized to match future hashtags, which is beyond the capability of existing methods assuming unchanged hashtag semantics. Furthermore, we propose a novel personalized topic attention to capture salient contents to personalize hashtag contexts. Experiments on a large-scale Twitter dataset show that our model significantly outperforms the state-of-the-art recommendation approach without exploiting latent topics.
+Author{1}{Firstname}#=%=#Yuji
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#yuji_zhang
+Author{1}{Email}#=%=#yu-ji.zhang@connect.polyu.hk
+Author{1}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{2}{Firstname}#=%=#Yubo
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zhang_yubo
+Author{2}{Email}#=%=#yubo.zhang@connect.polyu.hk
+Author{2}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{3}{Firstname}#=%=#Chunpu
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#cpx
+Author{3}{Email}#=%=#chunpu.xu@polyu.edu.hk
+Author{3}{Affiliation}#=%=#Department of Computing, The Hong Kong Polytechnic University
+Author{4}{Firstname}#=%=#Jing
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lijing
+Author{4}{Email}#=%=#jing-amelia.li@polyu.edu.hk
+Author{4}{Affiliation}#=%=#Department of Computing, The Hong Kong Polytechnic University
+Author{5}{Firstname}#=%=#Ziyan
+Author{5}{Lastname}#=%=#Jiang
+Author{5}{Username}#=%=#jzy
+Author{5}{Email}#=%=#zjiang28@jhu.edu
+Author{5}{Affiliation}#=%=#Amazon
+Author{6}{Firstname}#=%=#Baolin
+Author{6}{Lastname}#=%=#Peng
+Author{6}{Username}#=%=#blpeng
+Author{6}{Email}#=%=#bapeng@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research
+
+==========

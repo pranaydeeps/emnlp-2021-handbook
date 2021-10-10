@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#770
+FinalPaperTitle#=%=#Are Gender-Neutral Queries Really Gender-Neutral? Mitigating Gender Bias in Image Search
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Jialu Wang
+JobTitle#==#
+Organization#==#University of California, Santa Cruz
+1156 High St, Santa Cruz, CA 95064, USA
+Abstract#==#Internet search affects people's cognition of the world, so mitigating biases in search results and learning fair models is imperative for social good. We study a unique gender bias in image search in this work: the search images are often gender-imbalanced for gender-neutral natural language queries. We diagnose two typical image search models, the specialized model trained on in-domain datasets and the generalized representation model pre-trained on massive image and text data across the internet. Both models suffer from severe gender bias. Therefore, we introduce two novel debiasing approaches: an in-processing fair sampling method to address the gender imbalance issue for training models, and a post-processing feature clipping method base on mutual information to debias multimodal representations of pre-trained models. Extensive experiments on MS-COCO and Flickr30K benchmarks show that our methods significantly reduce the gender bias in image search models.
+Author{1}{Firstname}#=%=#Jialu
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#faldict
+Author{1}{Email}#=%=#faldict@ucsc.edu
+Author{1}{Affiliation}#=%=#University of California, Santa Cruz
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#yangl0320
+Author{2}{Email}#=%=#yangliu@ucsc.edu
+Author{2}{Affiliation}#=%=#UC Santa Cruz
+Author{3}{Firstname}#=%=#Xin
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#xwang_ucsb
+Author{3}{Email}#=%=#aifumu.wx@gmail.com
+Author{3}{Affiliation}#=%=#University of California, Santa Cruz
+
+==========

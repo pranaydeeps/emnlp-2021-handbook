@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#757
+FinalPaperTitle#=%=#{N}egat{ER}: {U}nsupervised {D}iscovery of {N}egatives in {C}ommonsense {K}nowledge {B}ases
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Tara Safavi
+JobTitle#==#
+Organization#==#
+Abstract#==#Codifying commonsense knowledge in machines is a longstanding goal of artificial intelligence. Recently, much progress toward this goal has been made with automatic knowledge base (KB) construction techniques. However, such techniques focus primarily on the acquisition of positive (true) KB statements, even though negative (false) statements are often also important for discriminative reasoning over commonsense KBs. As a first step toward the latter, this paper proposes NegatER, a framework that ranks potential negatives in commonsense KBs using a contextual language model (LM). Importantly, as most KBs do not contain negatives, NegatER relies only on the positive knowledge in the LM and does not require ground-truth negative examples. Experiments demonstrate that, compared to multiple contrastive data augmentation approaches, NegatER yields negatives that are more grammatical, coherent, and informative---leading to statistically significant accuracy improvements in a challenging KB completion task and confirming that the positive knowledge in LMs can be "re-purposed" to generate negative knowledge.
+Author{1}{Firstname}#=%=#Tara
+Author{1}{Lastname}#=%=#Safavi
+Author{1}{Username}#=%=#tsafavi
+Author{1}{Email}#=%=#tsafavi@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Jing
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Email}#=%=#jingzhuu@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Danai
+Author{3}{Lastname}#=%=#Koutra
+Author{3}{Username}#=%=#danai
+Author{3}{Email}#=%=#dkoutra@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan, Ann Arbor
+
+==========

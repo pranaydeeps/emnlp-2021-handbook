@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#1640
+FinalPaperTitle#=%=#A New Representation for Span-based CCG Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yoshihide Kato
+JobTitle#==#
+Organization#==#Nagoya University
+Furo-cho, Chikusa-ku, Nagoya, 464-8601 JAPAN
+Abstract#==#This paper proposes a new representation for CCG derivations. CCG derivations are represented as trees whose nodes are labeled with categories strictly restricted by CCG rule schemata. This characteristic is not suitable for span-based parsing models because they predict node labels independently. In other words, span-based models may generate invalid CCG derivations that violate the rule schemata. Our proposed representation decomposes CCG derivations into several independent pieces and prevents the span-based parsing models from violating the schemata. Our experimental result shows that an off-the-shelf span-based parser with our representation is comparable with previous CCG parsers.
+Author{1}{Firstname}#=%=#Yoshihide
+Author{1}{Lastname}#=%=#Kato
+Author{1}{Username}#=%=#yoshihide
+Author{1}{Email}#=%=#yoshihide@icts.nagoya-u.ac.jp
+Author{1}{Affiliation}#=%=#Nagoya University
+Author{2}{Firstname}#=%=#Shigeki
+Author{2}{Lastname}#=%=#Matsubara
+Author{2}{Username}#=%=#matubara
+Author{2}{Email}#=%=#matubara@nagoya-u.jp
+Author{2}{Affiliation}#=%=#Nagoya University
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1691
+FinalPaperTitle#=%=#Scheduled Sampling Based on Decoding Steps for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yijin Liu
+JobTitle#==#
+Organization#==#Wechat AI, Tencent, China
+Abstract#==#Scheduled sampling is widely used to mitigate the exposure bias problem for neural machine translation. Its core motivation is to simulate the inference scene during training by replacing ground-truth tokens with predicted tokens, thus bridging the gap between training and inference. However, vanilla scheduled sampling is merely based on training steps and equally treats all decoding steps. Namely, it simulates an inference scene with uniform error rates, which disobeys the real inference scene, where larger decoding steps usually have higher error rates due to error accumulations. To alleviate the above discrepancy, we propose scheduled sampling methods based on decoding steps, increasing the selection chance of predicted tokens with the growth of decoding steps. Consequently, we can more realistically simulate the inference scene during training, thus better bridging the gap between training and inference. Moreover, we investigate scheduled sampling based on both training steps and decoding steps for further improvements. Experimentally, our approaches significantly outperform the Transformer baseline and vanilla scheduled sampling on three large-scale WMT tasks. Additionally, 
+our approaches also generalize well to the text summarization task on two popular benchmarks.
+Author{1}{Firstname}#=%=#Yijin
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#yijinliu
+Author{1}{Email}#=%=#yijinliu@tencent.com
+Author{1}{Affiliation}#=%=#Pattern Recognition Center, WeChat AI, Tencent
+Author{2}{Firstname}#=%=#Fandong
+Author{2}{Lastname}#=%=#Meng
+Author{2}{Username}#=%=#mengfandong
+Author{2}{Email}#=%=#fandongmeng@tencent.com
+Author{2}{Affiliation}#=%=#WeChat AI, Tencent
+Author{3}{Firstname}#=%=#Yufeng
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#chenyf
+Author{3}{Email}#=%=#chenyf@bjtu.edu.cn
+Author{3}{Affiliation}#=%=#Beijing Jiaotong University
+Author{4}{Firstname}#=%=#Jinan
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Username}#=%=#jaxu
+Author{4}{Email}#=%=#jaxu@bjtu.edu.cn
+Author{4}{Affiliation}#=%=#Beijing Jiaotong University
+Author{5}{Firstname}#=%=#Jie
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Username}#=%=#jerryitp
+Author{5}{Email}#=%=#withtomzhou@tencent.com
+Author{5}{Affiliation}#=%=#Tencent Inc.
+
+==========

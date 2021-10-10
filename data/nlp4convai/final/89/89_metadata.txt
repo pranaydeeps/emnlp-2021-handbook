@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#89
+FinalPaperTitle#=%=#Towards Zero and Few-shot Knowledge-seeking Turn Detection in Task-orientated Dialogue Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Di Jin
+JobTitle#==#Applied Scientist
+Organization#==#Amazon Alexa AI, Sunnyvale, CA, USA
+Abstract#==#Most prior work on task-oriented dialogue systems is restricted to  supporting domain APIs. However, users may have requests that are out of the scope of these APIs. This work focuses on identifying such user requests. Existing methods for this task mainly rely on fine-tuning pre-trained models on large annotated data. We propose a novel method, REDE, based on adaptive representation learning and density estimation. REDE can be applied to zero-shot cases, and quickly learns a high-performing detector with only a few shots by updating less than 3K parameters. We demonstrate REDE's competitive performance on DSTC9 data and our newly collected test set.
+Author{1}{Firstname}#=%=#Di
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Username}#=%=#jindi
+Author{1}{Email}#=%=#djinamzn@amazon.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Shuyang
+Author{2}{Lastname}#=%=#Gao
+Author{2}{Username}#=%=#biubiugao
+Author{2}{Email}#=%=#shuyag@amazon.com
+Author{2}{Affiliation}#=%=#Amazon.com, Inc.
+Author{3}{Firstname}#=%=#Seokhwan
+Author{3}{Lastname}#=%=#Kim
+Author{3}{Username}#=%=#megaup
+Author{3}{Email}#=%=#seokhwk@amazon.com
+Author{3}{Affiliation}#=%=#Amazon Alexa AI
+Author{4}{Firstname}#=%=#Yang
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#yangliu00
+Author{4}{Email}#=%=#yang.yangl@gmail.com
+Author{4}{Affiliation}#=%=#Amazon
+Author{5}{Firstname}#=%=#Dilek
+Author{5}{Lastname}#=%=#Hakkani-Tur
+Author{5}{Username}#=%=#dilekha
+Author{5}{Email}#=%=#dilek@ieee.org
+Author{5}{Affiliation}#=%=#Amazon Alexa AI
+
+==========

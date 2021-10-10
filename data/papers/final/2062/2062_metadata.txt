@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#2062
+FinalPaperTitle#=%=#QuestEval: Summarization Asks for Fact-based Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Thomas Scialom
+JobTitle#==#PhD student
+Organization#==#recital
+Abstract#==#Summarization evaluation remains an open research problem: current metrics such as ROUGE are known to be limited and to correlate poorly with human judgments. To alleviate this issue, recent work has proposed evaluation metrics which rely on question answering models to assess whether a summary contains all the relevant information in its source document. 
+Though promising, the proposed approaches have so far failed to correlate better than ROUGE with human judgments. 
+
+In this paper, we extend previous approaches and propose a unified framework, named QuestEval. 
+In contrast to established metrics such as ROUGE or BERTScore, QuestEval does not require any ground-truth reference. Nonetheless, QuestEval substantially improves the correlation with human judgments over four evaluation dimensions (consistency, coherence, fluency, and relevance), as shown in extensive experiments.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Scialom
+Author{1}{Username}#=%=#thomas_nlp
+Author{1}{Email}#=%=#thomas@recital.ai
+Author{1}{Affiliation}#=%=#reciTAL, LIP6
+Author{2}{Firstname}#=%=#Paul-Alexis
+Author{2}{Lastname}#=%=#Dray
+Author{2}{Username}#=%=#pad2097
+Author{2}{Email}#=%=#paul.alexis.dray@gmail.com
+Author{2}{Affiliation}#=%=#reciTAL
+Author{3}{Firstname}#=%=#Sylvain
+Author{3}{Lastname}#=%=#Lamprier
+Author{3}{Username}#=%=#slamprier
+Author{3}{Email}#=%=#sylvain.lamprier@lip6.fr
+Author{3}{Affiliation}#=%=#LIP6 - SU
+Author{4}{Firstname}#=%=#Benjamin
+Author{4}{Lastname}#=%=#Piwowarski
+Author{4}{Username}#=%=#bpiwowar
+Author{4}{Email}#=%=#b@piwowarski.fr
+Author{4}{Affiliation}#=%=#CNRS, Sorbonne Universités, UPMC Univ Paris 06, LIP6 UMR 7606
+Author{5}{Firstname}#=%=#Jacopo
+Author{5}{Lastname}#=%=#Staiano
+Author{5}{Username}#=%=#jacopostaiano
+Author{5}{Email}#=%=#jacopo@recital.ai
+Author{5}{Affiliation}#=%=#reciTAL
+Author{6}{Firstname}#=%=#Alex
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Email}#=%=#alexwang@nyu.edu
+Author{6}{Affiliation}#=%=#NYU
+Author{7}{Firstname}#=%=#patrick
+Author{7}{Lastname}#=%=#Gallinari
+Author{7}{Username}#=%=#gallinari
+Author{7}{Email}#=%=#patrick.gallinari@lip6.fr
+Author{7}{Affiliation}#=%=#Sorbonne University, FR, Criteo AI Lab, Fr
+
+==========

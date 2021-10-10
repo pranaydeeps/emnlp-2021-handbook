@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1532
+FinalPaperTitle#=%=#Distantly-Supervised Dense Retrieval Enables Open-Domain Question Answering without Evidence Annotation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chen Zhao
+JobTitle#==#
+Organization#==#
+Abstract#==#Open-domain question answering answers a question based on evidence retrieved from a large corpus. State-of-the-art neural approaches require intermediate evidence annotations for training. However, such intermediate annotations are expensive, and methods that rely on them cannot transfer to the more common setting, where only question–answer pairs are available. This paper investigates whether models can learn to find evidence from a large corpus, with only distant supervision from answer labels for model training, thereby generating no additional annotation cost. We introduce a novel approach (DistDR) that iteratively improves over a weak retriever by alternately finding evidence from the up-to-date model and encouraging the model to learn the most likely evidence. Without using any evidence labels, DistDR is on par with fully-supervised state-of-the-art methods on both multi-hop and single-hop QA benchmarks. Our analysis confirms that DistDR finds more accurate evidence over iterations, which leads to model improvements. The code is available at https://github.com/henryzhao5852/DistDR.
+Author{1}{Firstname}#=%=#Chen
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Username}#=%=#zhaochen4321
+Author{1}{Email}#=%=#henryzhao4321@gmail.com
+Author{1}{Affiliation}#=%=#University of Maryland, college park
+Author{2}{Firstname}#=%=#Chenyan
+Author{2}{Lastname}#=%=#Xiong
+Author{2}{Username}#=%=#xiongchenyan
+Author{2}{Email}#=%=#Chenyan.Xiong@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Jordan
+Author{3}{Lastname}#=%=#Boyd-Graber
+Author{3}{Username}#=%=#ezubaric
+Author{3}{Email}#=%=#jbg@umiacs.umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland
+Author{4}{Firstname}#=%=#Hal
+Author{4}{Lastname}#=%=#Daumé III
+Author{4}{Username}#=%=#hal
+Author{4}{Email}#=%=#me@hal3.name
+Author{4}{Affiliation}#=%=#UMD
+
+==========

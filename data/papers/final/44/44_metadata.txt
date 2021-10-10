@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Language Clustering for Multilingual Named Entity Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kyle Shaffer
+JobTitle#==#
+Organization#==#Language Weaver (RWS Group)
+6100 Center Drive, Suite 1190
+Los Angeles, CA, 90045
+United States of America
+Abstract#==#Recent work in multilingual natural language processing has shown progress in various tasks such as natural language inference and joint multilingual translation. Despite success in learning across many languages, challenges arise where multilingual training regimes often boost performance on some languages at the expense of others. For multilingual named entity recognition (NER) we propose a simple technique that groups similar languages together by using embeddings from a pre-trained masked language model, and automatically discovering language clusters in this embedding space. Specifically, we fine-tune an XLM-Roberta model on a language identification task, and use embeddings from this model for clustering. We conduct experiments on 15 diverse languages in the WikiAnn dataset and show our technique largely outperforms three baselines: (1) training a multilingual model jointly on all available languages, (2) training one monolingual model per language, and (3) grouping languages by linguistic family. We also conduct analyses showing meaningful multilingual transfer for low-resource languages (Swahili and Yoruba), despite being automatically grouped with other seemingly disparate languages.
+Author{1}{Firstname}#=%=#Kyle
+Author{1}{Lastname}#=%=#Shaffer
+Author{1}{Username}#=%=#shaf496
+Author{1}{Email}#=%=#kyle.james.shaffer@gmail.com
+Author{1}{Affiliation}#=%=#RWS Research
+
+==========

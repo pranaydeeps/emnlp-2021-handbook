@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Quantifying Contextual Aspects of Inter-annotator Agreement in Intertextuality Research
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Enrique Manjavacas
+JobTitle#==#
+Organization#==#
+Abstract#==#We report on an inter-annotator agreement experiment involving instances of text reuse focusing on the well-known case of biblical intertextuality in medieval literature. We target the application use case of literary scholars whose aim is to document instances of biblical references in the `apparatus fontium' of a prospective digital edition. We develop a Bayesian implementation of Cohen's kappa for multiple annotators that allows us to assess the influence of various contextual effects on the inter-annotator agreement, producing both more robust estimates of the agreement indices as well as insights into the annotation process that leads to the estimated indices. As a result, we are able to produce a novel and nuanced estimation of inter-annotator agreement in the context of intertextuality, exploring the challenges that arise from manually annotating a dataset of biblical references in the writings of Bernard of Clairvaux. Among others, our method was able to unveil the fact that the obtained agreement depends heavily on the biblical source book of the proposed reference, as well as the underlying algorithm used to retrieve the candidate match.
+Author{1}{Firstname}#=%=#Enrique
+Author{1}{Lastname}#=%=#Manjavacas Arevalo
+Author{1}{Username}#=%=#emanjavacas
+Author{1}{Email}#=%=#enrique.manjavacas@gmail.com
+Author{1}{Affiliation}#=%=#University of Leiden
+Author{2}{Firstname}#=%=#Laurence
+Author{2}{Lastname}#=%=#Mellerin
+Author{2}{Email}#=%=#laurence.mellerin@mom.fr
+Author{2}{Affiliation}#=%=#Source Chretiennes Institute
+Author{3}{Firstname}#=%=#Mike
+Author{3}{Lastname}#=%=#Kestemont
+Author{3}{Username}#=%=#mike.kestemont
+Author{3}{Email}#=%=#mike.kestemont@uantwerpen.be
+Author{3}{Affiliation}#=%=#University of Antwerp
+
+==========

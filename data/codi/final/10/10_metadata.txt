@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#discopy: A Neural System for Shallow Discourse Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#René Knaebel
+JobTitle#==#
+Organization#==#Applied Computational Linguistics, Department of Linguistics, University of Potsdam, Karl-Liebknecht-Str. 24-25, 14476, Germany
+Abstract#==#This paper demonstrates discopy, a novel framework that makes it easy to design components for end-to-end shallow discourse parsing. For the purpose of demonstration, we implement recent neural approaches and integrate contextualized word embeddings to predict explicit and non-explicit discourse relations. Our proposed neural feature-free system performs competitively to systems presented at the latest Shared Task on Shallow Discourse Parsing. Finally, a web front end is shown that simplifies the inspection of annotated documents. The source code, documentation, and pretrained models are publicly accessible.
+Author{1}{Firstname}#=%=#René
+Author{1}{Lastname}#=%=#Knaebel
+Author{1}{Username}#=%=#rknaebel
+Author{1}{Email}#=%=#rene.knaebel@uni-potsdam.de
+Author{1}{Affiliation}#=%=#University of Potsdam
+
+==========

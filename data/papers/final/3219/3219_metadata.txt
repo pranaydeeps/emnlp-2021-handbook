@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3219
+FinalPaperTitle#=%=#Learning and Analyzing Generation Order for Undirected Sequence Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yichen Jiang
+JobTitle#==#
+Organization#==#UNC Chapel Hill
+Abstract#==#Undirected neural sequence models have achieved performance competitive with the state-of-the-art directed sequence models that generate monotonically from left to right in machine translation tasks. In this work, we train a policy that learns the generation order for a pre-trained, undirected translation model via reinforcement learning. We show that the translations decoded by our learned orders achieve higher BLEU scores than the outputs decoded from left to right or decoded by the learned order from Mansimov et al. (2019) on the WMT’14 German-English translation task. On examples with a maximum source and target length of 30 from De-En and WMT’16 English-Romanian tasks, our learned order outperforms all heuristic generation orders on three out of four language pairs. We next carefully analyze the learned order patterns via qualitative and quantitative analysis. We show that our policy generally follows an outer-to-inner order, predicting the left-most and right-most positions first, and then moving toward the middle while skipping less important words at the beginning. Furthermore, the policy usually predicts positions for a single syntactic constituent structure in consecutive steps. We believe our findings could provide more insights on the mechanism of undirected generation models and encourage further research in this direction.
+Author{1}{Firstname}#=%=#Yichen
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Username}#=%=#yichenj
+Author{1}{Email}#=%=#yichenj@live.unc.edu
+Author{1}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{2}{Firstname}#=%=#Mohit
+Author{2}{Lastname}#=%=#Bansal
+Author{2}{Username}#=%=#mbansal
+Author{2}{Email}#=%=#mbansal@cs.unc.edu
+Author{2}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#931
+FinalPaperTitle#=%=#A Bag of Tricks for Dialogue Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Muhammad Khalifa
+JobTitle#==#
+Organization#==#
+Abstract#==#Dialogue summarization comes with its own peculiar challenges as opposed to news or scientific articles summarization. In this work, we explore four different challenges of the task: handling and differentiating parts of the dialogue belonging to multiple speakers, negation understanding, reasoning about the situation, and informal language understanding. Using a pretrained sequence-to-sequence language model, we explore speaker name substitution, negation scope highlighting, multi-task learning with relevant tasks, and pretraining on in-domain data. Our experiments show that our proposed techniques indeed improve summarization performance, outperforming strong baselines.
+Author{1}{Firstname}#=%=#Muhammad
+Author{1}{Lastname}#=%=#Khalifa
+Author{1}{Username}#=%=#mkhalifa
+Author{1}{Email}#=%=#muhammad.e.khalifa@gmail.com
+Author{1}{Affiliation}#=%=#Cairo University
+Author{2}{Firstname}#=%=#Miguel
+Author{2}{Lastname}#=%=#Ballesteros
+Author{2}{Username}#=%=#miguelballesteros
+Author{2}{Email}#=%=#miguelballesteros1@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Kathleen
+Author{3}{Lastname}#=%=#McKeown
+Author{3}{Username}#=%=#kathy
+Author{3}{Email}#=%=#kathy@cs.columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University and Amazon (Amazon Scholar)
+
+==========

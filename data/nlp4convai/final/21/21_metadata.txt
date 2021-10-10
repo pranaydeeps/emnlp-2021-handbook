@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#On the Robustness of Intent Classification and Slot Labeling in Goal-oriented Dialog Systems to Real-world Noise
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sailik Sengupta
+JobTitle#==#
+Organization#==#
+Abstract#==#Intent Classification (IC) and Slot Labeling (SL) models, which form the basis of dialogue systems, often encounter noisy data in real-word environments. In this work, we investigate how robust IC/SL models are to noisy data. We collect and publicly release a test-suite for seven common noise types found in production human-to-bot conversations (abbreviations, casing, misspellings, morphological variants, paraphrases, punctuation and synonyms). On this test-suite, we show that common noise types substantially degrade the IC accuracy and SL F1 performance of state-of-the-art BERT-based IC/SL models. By leveraging cross-noise robustness transfer, i.e. training on one noise type to improve robustness on another noise type, we design aggregate data-augmentation approaches that increase the model performance across all seven noise types by $+10.8\%$ for IC accuracy and $+15$ points for SL F1 on average. To the best of our knowledge, this is the first work to present a single IC/SL model that is robust to a wide range of noise phenomena.
+Author{1}{Firstname}#=%=#Sailik
+Author{1}{Lastname}#=%=#Sengupta
+Author{1}{Username}#=%=#sailiks
+Author{1}{Email}#=%=#sailik.cse.jdvu@gmail.com
+Author{1}{Affiliation}#=%=#Amazon AI
+Author{2}{Firstname}#=%=#Jason
+Author{2}{Lastname}#=%=#Krone
+Author{2}{Username}#=%=#jasonkrone
+Author{2}{Email}#=%=#jasonkrone@me.com
+Author{2}{Affiliation}#=%=#AWS AI
+Author{3}{Firstname}#=%=#Saab
+Author{3}{Lastname}#=%=#Mansour
+Author{3}{Username}#=%=#mansour
+Author{3}{Email}#=%=#saib.mn@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#693
+FinalPaperTitle#=%=#Sparsity and Sentence Structure in Encoder-Decoder Attention of Summarization Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Potsawee Manakul
+JobTitle#==#
+Organization#==#Department of Engineering, University of Cambridge - Trumpington Street, Cambridge, CB2 1PZ, United Kingdom.
+Abstract#==#Transformer models have achieved state-of-the-art results in a wide range of NLP tasks including summarization. Training and inference using large transformer models can be computationally expensive. Previous work has focused on one important bottleneck, the quadratic self-attention mechanism in the encoder. Modified encoder architectures such as LED or LoBART use local attention patterns to address this problem for summarization. In contrast, this work focuses on the transformer's encoder-decoder attention mechanism. The cost of this attention becomes more significant in inference or training approaches that require model-generated histories. First, we examine the complexity of the encoder-decoder attention. We demonstrate empirically that there is a sparse sentence structure in document summarization that can be exploited by constraining the attention mechanism to a subset of input sentences, whilst maintaining system performance. Second, we propose a modified architecture that selects the subset of sentences to constrain the encoder-decoder attention. Experiments are carried out on abstractive summarization tasks, including CNN/DailyMail, XSum, Spotify Podcast, and arXiv.
+Author{1}{Firstname}#=%=#Potsawee
+Author{1}{Lastname}#=%=#Manakul
+Author{1}{Username}#=%=#potsawee
+Author{1}{Email}#=%=#pm574@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Gales
+Author{2}{Username}#=%=#mjfg
+Author{2}{Email}#=%=#mjfg@eng.cam.ac.uk
+Author{2}{Affiliation}#=%=#Cambridge University
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1421
+FinalPaperTitle#=%=#On the Relation between Syntactic Divergence and Zero-Shot Performance
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Ofir Arviv
+JobTitle#==#
+Organization#==#
+Abstract#==#We explore the link between the extent to which syntactic relations are preserved in translation and the ease of correctly constructing a parse tree in a zero-shot setting. While previous work suggests such a relation, it tends to focus on the macro level and not on the level of individual edges---a gap we aim to address.
+As a test case, we take the transfer of Universal Dependencies (UD) parsing from English to a diverse set of languages and conduct two sets of experiments. In one, we analyze zero-shot performance based on the extent to which English source edges are preserved in translation. In another, we apply three linguistically motivated transformations to UD, creating more cross-lingually stable versions of it, and assess their zero-shot parsability. In order to compare parsing performance across different schemes, we perform extrinsic evaluation on the downstream task of cross-lingual relation extraction (RE) using a subset of a standard English RE benchmark translated to Russian and Korean.
+In both sets of experiments, our results suggest a strong relation between cross-lingual stability and zero-shot parsing performance.
+Author{1}{Firstname}#=%=#Ofir
+Author{1}{Lastname}#=%=#Arviv
+Author{1}{Username}#=%=#ofirarviv
+Author{1}{Email}#=%=#ofir.arviv@mail.huji.ac.il
+Author{1}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{2}{Firstname}#=%=#Dmitry
+Author{2}{Lastname}#=%=#Nikolaev
+Author{2}{Username}#=%=#macleginn
+Author{2}{Email}#=%=#dnikolaev@fastmail.com
+Author{2}{Affiliation}#=%=#Stockholm University
+Author{3}{Firstname}#=%=#Taelin
+Author{3}{Lastname}#=%=#Karidi
+Author{3}{Username}#=%=#tailin
+Author{3}{Email}#=%=#taelin.karidi@mail.huji.ac.il
+Author{3}{Affiliation}#=%=#Hebrew University of Jerusalem
+Author{4}{Firstname}#=%=#Omri
+Author{4}{Lastname}#=%=#Abend
+Author{4}{Username}#=%=#omria01
+Author{4}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{4}{Affiliation}#=%=#The Hebrew University of Jerusalem
+
+==========

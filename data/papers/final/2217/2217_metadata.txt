@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2217
+FinalPaperTitle#=%=#Expanding End-to-End Question Answering on Differentiable Knowledge Graphs with Intersection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Priyanka Sen
+JobTitle#==#
+Organization#==#
+Abstract#==#End-to-end question answering using a differentiable knowledge graph is a promising technique that requires only weak supervision, produces interpretable results, and is fully differentiable. Previous implementations of this technique (Cohen et al, 2020) have focused on single-entity questions using a relation following operation. In this paper, we propose a model that explicitly handles multiple-entity questions by implementing a new intersection operation, which identifies the shared elements between two sets of entities. We find that introducing intersection improves performance over a baseline model on two datasets, WebQuestionsSP (69.6% to 73.3% Hits@1) and ComplexWebQuestions (39.8% to 48.7% Hits@1), and in particular, improves performance on questions with multiple entities by over 14% on WebQuestionsSP and by 19% on ComplexWebQuestions.
+Author{1}{Firstname}#=%=#Priyanka
+Author{1}{Lastname}#=%=#Sen
+Author{1}{Username}#=%=#priyankasen
+Author{1}{Email}#=%=#sepriyan@amazon.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Armin
+Author{2}{Lastname}#=%=#Oliya
+Author{2}{Username}#=%=#aooliya
+Author{2}{Email}#=%=#armin.oliya@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Amir
+Author{3}{Lastname}#=%=#Saffari
+Author{3}{Username}#=%=#amirsaffari
+Author{3}{Email}#=%=#amir@ymer.org
+Author{3}{Affiliation}#=%=#Amazon
+
+==========

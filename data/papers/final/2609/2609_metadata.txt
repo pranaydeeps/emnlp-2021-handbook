@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2609
+FinalPaperTitle#=%=#Effective Fine-Tuning Methods for Cross-lingual Adaptation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tao Yu
+JobTitle#==#
+Organization#==#
+Abstract#==#Large scale multilingual pre-trained language models have shown promising results in zero- and few-shot cross-lingual tasks. However, recent studies have shown their lack of generalizability when the languages are structurally dissimilar. In this work, we propose a novel fine-tuning method based on co-training that aims to learn more generalized semantic equivalences as a complementary to multilingual language modeling using the unlabeled data in the target language.  We also propose an adaption method based on contrastive learning to better capture the semantic relationship in the parallel data, when a few translation pairs are available. To show our method's effectiveness, we conduct extensive experiments on cross-lingual inference and review classification tasks across various languages. We report significant gains compared to directly fine-tuning multilingual pre-trained models and other semi-supervised alternatives.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#vodemolt
+Author{1}{Email}#=%=#tao003@e.ntu.edu.sg
+Author{1}{Affiliation}#=%=#ntu.edu.sg
+Author{2}{Firstname}#=%=#Shafiq
+Author{2}{Lastname}#=%=#Joty
+Author{2}{Username}#=%=#rjoty
+Author{2}{Email}#=%=#srjoty@ntu.edu.sg
+Author{2}{Affiliation}#=%=#Nanyang Technological University; Salesforce AI Research
+
+==========

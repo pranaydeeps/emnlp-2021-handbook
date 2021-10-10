@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1930
+FinalPaperTitle#=%=#Neuro-Symbolic Approaches for Text-Based Policy Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Subhajit Chaudhury
+JobTitle#==#
+Organization#==#IBM Research
+Abstract#==#Text-Based Games (TBGs) have emerged as important testbeds for reinforcement learning (RL) in the natural language domain. Previous methods using LSTM-based action policies are uninterpretable and often overfit the training games showing poor performance to unseen test games. We present SymboLic Action policy for Textual Environments (SLATE), that learns interpretable action policy rules from symbolic abstractions of textual observations for improved generalization. We outline a method for end-to-end differentiable symbolic rule learning and show that such symbolic policies outperform previous state-of-the-art methods in text-based RL for the coin collector environment from 5-10x fewer training games. Additionally, our method provides human-understandable policy rules that can be readily verified for their logical consistency and can be easily debugged.
+Author{1}{Firstname}#=%=#Subhajit
+Author{1}{Lastname}#=%=#Chaudhury
+Author{1}{Username}#=%=#subhajit_ibm_1412
+Author{1}{Email}#=%=#subhajit@jp.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Prithviraj
+Author{2}{Lastname}#=%=#Sen
+Author{2}{Username}#=%=#prithvi_r_s
+Author{2}{Email}#=%=#senp@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Masaki
+Author{3}{Lastname}#=%=#Ono
+Author{3}{Username}#=%=#moono
+Author{3}{Email}#=%=#moono@jp.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research - Tokyo
+Author{4}{Firstname}#=%=#Daiki
+Author{4}{Lastname}#=%=#Kimura
+Author{4}{Username}#=%=#daiki.kimura
+Author{4}{Email}#=%=#daiki@jp.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research AI
+Author{5}{Firstname}#=%=#Michiaki
+Author{5}{Lastname}#=%=#Tatsubori
+Author{5}{Username}#=%=#tatsubori
+Author{5}{Email}#=%=#mich@jp.ibm.com
+Author{5}{Affiliation}#=%=#IBM Research - Tokyo
+Author{6}{Firstname}#=%=#Asim
+Author{6}{Lastname}#=%=#Munawar
+Author{6}{Username}#=%=#asimmunawar
+Author{6}{Email}#=%=#asim@ibm.com
+Author{6}{Affiliation}#=%=#IBM Research - Tokyo
+
+==========

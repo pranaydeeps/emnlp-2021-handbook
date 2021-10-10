@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#BAHP: Benchmark of Assessing Word Embeddings in Historical Portuguese
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zuoyu Tian
+JobTitle#==#
+Organization#==#Zuoyu Tian
+Indiana University
+Bloomington, Indiana, US
+Abstract#==#High quality distributional models can capture lexical and semantic relations between words. Hence, researchers design various intrinsic tasks to test whether such relations are captured.
+However, most of the intrinsic tasks are designed for modern languages, and there is a lack of evaluation methods for distributional models of historical corpora.
+In this paper, we conducted BAHP: a benchmark of assessing word embeddings in Historical Portuguese, which contains four types of tests: analogy, similarity, outlier detection, and coherence. We examined word2vec models generated from two historical Portuguese corpora in these four test sets. The results demonstrate that our test sets are capable of measuring the quality of vector space models and can provide a holistic view of the model's ability to capture syntactic and semantic information. Furthermore, the methodology for the creation of our test sets can be easily extended to other historical languages.
+Author{1}{Firstname}#=%=#Zuoyu
+Author{1}{Lastname}#=%=#Tian
+Author{1}{Username}#=%=#zytian9
+Author{1}{Email}#=%=#zuoytian@iu.edu
+Author{1}{Affiliation}#=%=#Indiana University
+Author{2}{Firstname}#=%=#Dylan
+Author{2}{Lastname}#=%=#Jarrett
+Author{2}{Username}#=%=#dsjarrett
+Author{2}{Email}#=%=#dsjarret@iu.edu
+Author{2}{Affiliation}#=%=#Indiana University, Bloomington
+Author{3}{Firstname}#=%=#Juan
+Author{3}{Lastname}#=%=#Escalona Torres
+Author{3}{Username}#=%=#jumescal
+Author{3}{Email}#=%=#jme252@cornell.edu
+Author{3}{Affiliation}#=%=#Cornell University
+Author{4}{Firstname}#=%=#Patricia
+Author{4}{Lastname}#=%=#Amaral
+Author{4}{Username}#=%=#pamaral
+Author{4}{Email}#=%=#pamaral@indiana.edu
+Author{4}{Affiliation}#=%=#Indiana University
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#103
+FinalPaperTitle#=%=#Controlling Prosody in End-to-End TTS: A Case Study on Contrastive Focus Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Laurent Besacier
+JobTitle#==#
+Organization#==#Naver Labs Europe, France
+Abstract#==#While End-2-End Text-to-Speech (TTS) has made significant progresses over the past few years, these systems still lack intuitive user controls over prosody. For instance, generating speech with fine-grained prosody control (prosodic prominence, contextually appropriate emotions) is still an open challenge.
+  In this paper, we investigate whether we can control prosody directly from the input text, in order to code information related to contrastive focus which emphasizes a specific word that is contrary to the presuppositions of the interlocutor. We build and share a specific dataset for this purpose and show that it allows to train a TTS system were this fine-grained prosodic feature can be correctly conveyed using control tokens. 
+  Our evaluation compares synthetic and natural utterances and shows that prosodic patterns of contrastive focus (variations of Fo, Intensity and Duration) can be learnt accurately. Such a milestone is important to allow, for example, smart speakers to be programmatically controlled in terms of output prosody.
+Author{1}{Firstname}#=%=#Siddique
+Author{1}{Lastname}#=%=#Latif
+Author{1}{Username}#=%=#siddique
+Author{1}{Email}#=%=#siddique.latif@usq.edu.au
+Author{1}{Affiliation}#=%=#University of Southern Queensland Australia/Distributed Sensing Systems Group, Data61, CSIRO Australia
+Author{2}{Firstname}#=%=#Inyoung
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Username}#=%=#khethy
+Author{2}{Email}#=%=#inyoung.kim@naverlabs.com
+Author{2}{Affiliation}#=%=#Naver Labs Europe
+Author{3}{Firstname}#=%=#Ioan
+Author{3}{Lastname}#=%=#Calapodescu
+Author{3}{Username}#=%=#ioan.calapodescu
+Author{3}{Email}#=%=#ioan.calapodescu@naverlabs.com
+Author{3}{Affiliation}#=%=#Naver Labs Europe
+Author{4}{Firstname}#=%=#Laurent
+Author{4}{Lastname}#=%=#Besacier
+Author{4}{Username}#=%=#laurent.besacier
+Author{4}{Email}#=%=#laurent.besacier@imag.fr
+Author{4}{Affiliation}#=%=#LIG
+
+==========

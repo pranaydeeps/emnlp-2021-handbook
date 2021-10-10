@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#3947
+FinalPaperTitle#=%=#Chinese Opinion Role Labeling with Corpus Translation: A Pivot Study
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ranran Zhen
+JobTitle#==#
+Organization#==#School of Computer Science and Technology, Heilongjiang University, China
+74 Xuefu Road, Nangang District, Harbin, Heilongjiang, China
+Abstract#==#Opinion Role Labeling (ORL), aiming to identify the key roles of opinion, has received increasing interest. Unlike most of the previous works focusing on the English language, in this paper, we present the first work of Chinese ORL. We construct a Chinese dataset by manually translating and projecting annotations from a standard English MPQA dataset. Then, we investigate the effectiveness of cross-lingual transfer methods, including model transfer and corpus translation. We exploit multilingual BERT with Contextual Parameter Generator and Adapter methods to examine the potentials of unsupervised cross-lingual learning and our experiments and analyses for both bilingual and multilingual transfers establish a foundation for the future research of this task.
+Author{1}{Firstname}#=%=#Ranran
+Author{1}{Lastname}#=%=#Zhen
+Author{1}{Username}#=%=#zenrran
+Author{1}{Email}#=%=#zenrran@gmail.com
+Author{1}{Affiliation}#=%=#Heilongjiang University
+Author{2}{Firstname}#=%=#Rui
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#mars198356
+Author{2}{Email}#=%=#mars198356@hotmail.com
+Author{2}{Affiliation}#=%=#Vipshop (China) Co., Ltd.
+Author{3}{Firstname}#=%=#Guohong
+Author{3}{Lastname}#=%=#Fu
+Author{3}{Username}#=%=#ghfu
+Author{3}{Email}#=%=#ghfu@hotmail.com
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Chengguo
+Author{4}{Lastname}#=%=#Lv
+Author{4}{Username}#=%=#cgl257
+Author{4}{Email}#=%=#cgl257@163.com
+Author{4}{Affiliation}#=%=#Heilongjiang University
+Author{5}{Firstname}#=%=#Meishan
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#masonzms
+Author{5}{Email}#=%=#mason.zms@gmail.com
+Author{5}{Affiliation}#=%=#Tianjin University, China
+
+==========

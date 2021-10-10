@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#2120
+FinalPaperTitle#=%=#What If Sentence-hood is Hard to Define: A Case Study in Chinese Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jiawei Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Machine reading comprehension (MRC) is a challenging NLP task for it requires to carefully deal with all linguistic granularities from word, sentence to passage. For extractive MRC, the answer span has been shown mostly determined by key evidence linguistic units, in which it is a sentence in most cases. However, we recently discovered that sentences may not be clearly defined in many languages to different extents, so that this causes so-called location unit ambiguity problem and as a result makes it difficult for the model to determine which sentence exactly contains the answer span when sentence itself has not been clearly defined at all. Taking Chinese language as a case study, we explain and analyze such a linguistic phenomenon and correspondingly propose a reader with Explicit Span-Sentence Predication to alleviate such a problem. Our proposed reader eventually helps achieve a new state-of-the-art on Chinese MRC benchmark and shows great potential in dealing with other languages.
+Author{1}{Firstname}#=%=#Jiawei
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#wangjw
+Author{1}{Email}#=%=#wjw_sjt@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Hai
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#areal
+Author{2}{Email}#=%=#zhaohai@cs.sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Yinggong
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Email}#=%=#ygzhao@leyantech.com
+Author{3}{Affiliation}#=%=#Leyan Technologies
+Author{4}{Firstname}#=%=#Libin
+Author{4}{Lastname}#=%=#Shen
+Author{4}{Email}#=%=#libin@leyantech.com
+Author{4}{Affiliation}#=%=#Leyan Technologies
+
+==========

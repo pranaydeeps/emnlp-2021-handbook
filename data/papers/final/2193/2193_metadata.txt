@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#2193
+FinalPaperTitle#=%=#{M}ulti-Class Grammatical Error Detection for Correction: {A} Tale of Two Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Zheng Yuan
+JobTitle#==#
+Organization#==#Department of Computer Science and Technology
+University of Cambridge
+United Kingdom
+Abstract#==#In this paper, we show how a multi-class grammatical error detection (GED) system can be used to improve grammatical error correction (GEC) for English. Specifically, we first develop a new state-of-the-art binary detection system based on pre-trained ELECTRA, and then extend it to multi-class detection using different error type tagsets derived from the ERRANT framework. Output from this detection system is used as auxiliary input to fine-tune a novel encoder-decoder GEC model, and we subsequently re-rank the N-best GEC output to find the hypothesis that most agrees with the GED output. Results show that fine-tuning the GEC system using 4-class GED produces the best model, but re-ranking using 55-class GED leads to the best performance overall. This suggests that different multi-class GED systems benefit GEC in different ways. Ultimately, our system outperforms all other previous work that combines GED and GEC, and achieves a new single-model NMT-based state of the art on the BEA-test benchmark.
+Author{1}{Firstname}#=%=#Zheng
+Author{1}{Lastname}#=%=#Yuan
+Author{1}{Username}#=%=#zhengyuan
+Author{1}{Email}#=%=#zy249@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Shiva
+Author{2}{Lastname}#=%=#Taslimipoor
+Author{2}{Username}#=%=#shiva.taslimi
+Author{2}{Email}#=%=#sh.taslimi@gmail.com
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Christopher
+Author{3}{Lastname}#=%=#Davis
+Author{3}{Username}#=%=#chrisdavis
+Author{3}{Email}#=%=#ccd38@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Christopher
+Author{4}{Lastname}#=%=#Bryant
+Author{4}{Username}#=%=#chrisb
+Author{4}{Email}#=%=#cjb255@cl.cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#70
+FinalPaperTitle#=%=#Teach Me What to Say and I Will Learn What to Pick: \\ Unsupervised Knowledge Selection Through Response Generation with Pretrained Generative Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Ehsan Lotfi
+JobTitle#==#
+Organization#==#
+Abstract#==#Knowledge Grounded Conversation Models are usually based on a selection/retrieval module and a generation module, trained separately or simultaneously, with or without having access to a `gold' knowledge option. With the introduction of large pre-trained generative models, the selection and generation part have become more and more entangled, shifting the focus towards enhancing knowledge incorporation (from multiple sources) instead of trying to pick the best knowledge option. These approaches however depend on knowledge labels and/or a separate dense retriever for their best performance.
+In this work we study the unsupervised selection abilities of pre-trained generative models (e.g. BART) and show that by adding a score-and-aggregate module between encoder and decoder, they are capable of learning to pick the proper knowledge through minimising the language modelling loss (i.e. without having access to knowledge labels). Trained as such,  our model -  K-Mine - shows competitive selection and generation performance against models that benefit from knowledge labels and/or separate dense retriever.
+Author{1}{Firstname}#=%=#Ehsan
+Author{1}{Lastname}#=%=#Lotfi
+Author{1}{Username}#=%=#elotfi
+Author{1}{Email}#=%=#ehsan.lotfi@uantwerpen.be
+Author{1}{Affiliation}#=%=#University of Antwerp, CLiPS
+Author{2}{Firstname}#=%=#Maxime
+Author{2}{Lastname}#=%=#De Bruyn
+Author{2}{Username}#=%=#maximedb
+Author{2}{Email}#=%=#maxime.debruyn@uantwerpen.be
+Author{2}{Affiliation}#=%=#Antwerp University
+Author{3}{Firstname}#=%=#Jeska
+Author{3}{Lastname}#=%=#Buhmann
+Author{3}{Username}#=%=#jeskabuhmann
+Author{3}{Email}#=%=#jeska.buhmann@uantwerpen.be
+Author{3}{Affiliation}#=%=#University of Antwerp
+Author{4}{Firstname}#=%=#Walter
+Author{4}{Lastname}#=%=#Daelemans
+Author{4}{Username}#=%=#daelemans
+Author{4}{Email}#=%=#walter.daelemans@uantwerpen.be
+Author{4}{Affiliation}#=%=#University of Antwerp, CLiPS
+
+==========

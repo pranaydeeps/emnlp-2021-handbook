@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#446
+FinalPaperTitle#=%=#Bayesian Topic Regression for Causal Inference
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#27
+CopyrightSigned#=%=#Maximilian Ahrens
+JobTitle#==#
+Organization#==#University of Oxford
+Oxford-Man-Institute
+Eagle House
+25 Walton Well Rd
+Oxford OX2 6ED
+United Kingdom
+Abstract#==#Causal inference using observational text data is becoming increasingly popular in many research areas.  This paper presents the Bayesian Topic Regression (BTR) model that uses both text and numerical information to model an outcome variable. It allows estimation of both discrete and continuous treatment effects. Furthermore, it allows for the inclusion of additional numerical confounding factors next to text data. To this end, we combine a supervised Bayesian topic model with a Bayesian regression framework and perform supervised representation learning for the text features jointly with the regression parameter training, respecting the Frisch-Waugh-Lovell theorem.
+Our paper makes two main contributions. First, we provide a regression framework that allows causal inference in settings when both text and numerical confounders are of relevance. We show with synthetic and semi-synthetic datasets that our joint approach recovers ground truth with lower bias than any benchmark model, when text and numerical features are correlated.
+Second, experiments on two real-world datasets demonstrate that a joint and supervised learning strategy also yields superior prediction results compared to strategies that estimate regression weights for text and non-text features separately, being even competitive with more complex deep neural networks.
+Author{1}{Firstname}#=%=#Maximilian
+Author{1}{Lastname}#=%=#Ahrens
+Author{1}{Username}#=%=#maximilianahrens
+Author{1}{Email}#=%=#maximilian.ahrens@eng.ox.ac.uk
+Author{1}{Affiliation}#=%=#Oxford University
+Author{2}{Firstname}#=%=#Julian
+Author{2}{Lastname}#=%=#Ashwin
+Author{2}{Email}#=%=#julian.ashwin@nuffield.ox.ac.uk
+Author{2}{Affiliation}#=%=#Oxford University
+Author{3}{Firstname}#=%=#Jan-Peter
+Author{3}{Lastname}#=%=#Calliess
+Author{3}{Email}#=%=#jan-peter.calliess@oxford-man.ox.ac.uk
+Author{3}{Affiliation}#=%=#Oxford University
+Author{4}{Firstname}#=%=#Vu
+Author{4}{Lastname}#=%=#Nguyen
+Author{4}{Email}#=%=#vu@ieee.org
+Author{4}{Affiliation}#=%=#Oxford University, Amazon Research
+
+==========

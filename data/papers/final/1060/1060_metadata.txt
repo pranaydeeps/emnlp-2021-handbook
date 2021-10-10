@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1060
+FinalPaperTitle#=%=#Injecting Entity Types into Entity-Guided Text Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Wenhao Yu
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent successes in deep generative modeling have led to significant advances in natural language generation (NLG). Incorporating entities into neural generation models has demonstrated great improvements by assisting to infer the summary topic and to generate coherent content. To enhance the role of entity in NLG, in this paper, we aim to model the entity type in the decoding phase to generate contextual words accurately. We develop a novel NLG model to produce a target sequence based on a given list of entities. Our model has a multi-step decoder that injects the entity types into the process of entity mention generation. Experiments on two public news datasets demonstrate type injection performs better than existing type embedding concatenation baselines.
+Author{1}{Firstname}#=%=#Xiangyu
+Author{1}{Lastname}#=%=#Dong
+Author{1}{Username}#=%=#xdong2
+Author{1}{Email}#=%=#xdong2@nd.edu
+Author{1}{Affiliation}#=%=#University of Notre Dame
+Author{2}{Firstname}#=%=#Wenhao
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Username}#=%=#wenhaoyu97
+Author{2}{Email}#=%=#wyu1@nd.edu
+Author{2}{Affiliation}#=%=#University of Notre Dame
+Author{3}{Firstname}#=%=#Chenguang
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Username}#=%=#zcgzcgzcg
+Author{3}{Email}#=%=#zcg.cs60@gmail.com
+Author{3}{Affiliation}#=%=#Microsoft Cognitive Services Research Group
+Author{4}{Firstname}#=%=#Meng
+Author{4}{Lastname}#=%=#Jiang
+Author{4}{Username}#=%=#mjiang89
+Author{4}{Email}#=%=#mjiang2@nd.edu
+Author{4}{Affiliation}#=%=#University of Notre Dame
+
+==========

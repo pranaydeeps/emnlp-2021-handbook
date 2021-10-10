@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2389
+FinalPaperTitle#=%=#Profanity-Avoiding Training Framework for Seq2seq Models with Certified Robustness
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hengtong Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Seq2seq models have demonstrated their incredible effectiveness in a large variety of applications. However, recent research has shown that inappropriate language in training samples and well-designed testing cases can induce seq2seq models to output profanity. These outputs may potentially hurt the usability of seq2seq models and make the end-users feel offended. To address this problem, we propose a training framework with certified robustness to eliminate the causes that trigger the generation of profanity. The proposed training framework leverages merely a short list of profanity examples to prevent seq2seq models from generating a broader spectrum of profanity. The framework is composed of a pattern-eliminating training component to suppress the impact of language patterns with profanity in the training set, and a trigger-resisting training component to provide certified robustness for seq2seq models against intentionally injected profanity-triggering expressions in test samples. In the experiments, we consider two representative NLP tasks that seq2seq can be applied to, i.e., style transfer and dialogue generation.  Extensive experimental results show that the proposed training framework can successfully prevent the NLP models from generating profanity.
+Author{1}{Firstname}#=%=#Hengtong
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#htzhang90
+Author{1}{Email}#=%=#htzhang.work@gmail.com
+Author{1}{Affiliation}#=%=#SUNY at Buffalo
+Author{2}{Firstname}#=%=#Tianhang
+Author{2}{Lastname}#=%=#Zheng
+Author{2}{Username}#=%=#tianzheng4
+Author{2}{Email}#=%=#th.zheng@mail.utoronto.ca
+Author{2}{Affiliation}#=%=#University of Toronto
+Author{3}{Firstname}#=%=#Yaliang
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#yaliangli
+Author{3}{Email}#=%=#yaliang.li@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Jing
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Username}#=%=#jingub
+Author{4}{Email}#=%=#jinggao@purdue.edu
+Author{4}{Affiliation}#=%=#Purdue University
+Author{5}{Firstname}#=%=#Lu
+Author{5}{Lastname}#=%=#Su
+Author{5}{Username}#=%=#lusu
+Author{5}{Email}#=%=#lusu@purdue.edu
+Author{5}{Affiliation}#=%=#Purdue University
+Author{6}{Firstname}#=%=#Bo
+Author{6}{Lastname}#=%=#Li
+Author{6}{Username}#=%=#lbo
+Author{6}{Email}#=%=#lbo@illinois.edu
+Author{6}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+
+==========

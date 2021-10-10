@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2263
+FinalPaperTitle#=%=#Informed Sampling for Diversity in Concept-to-Text NLG
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Giulio Zhou
+JobTitle#==#
+Organization#==#
+Abstract#==#Deep-learning models for language generation tasks tend to produce repetitive output. Various methods have been proposed to encourage lexical diversity during decoding, but this often comes at a cost to the perceived fluency and adequacy of the output. In this work, we propose to ameliorate this cost by using an Imitation Learning approach to explore the level of diversity that a language generation model can reliably produce. Specifically, we augment the decoding process with a meta-classifier trained to distinguish which words at any given timestep will lead to high-quality output. We focus our experiments on concept-to-text generation where models are sensitive to the inclusion of irrelevant words due to the strict relation between input and output. Our analysis shows that previous methods for diversity underperform in this setting, while human evaluation suggests that our proposed method achieves a high level of diversity with minimal effect on the output's fluency and adequacy.
+Author{1}{Firstname}#=%=#Giulio
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#giuliozh
+Author{1}{Email}#=%=#giuliozhou@gmail.com
+Author{1}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{2}{Firstname}#=%=#Gerasimos
+Author{2}{Lastname}#=%=#Lampouras
+Author{2}{Username}#=%=#glampouras
+Author{2}{Email}#=%=#gerasimos.lampouras@gmail.com
+Author{2}{Affiliation}#=%=#Huawei Noah’s Ark Lab
+
+==========

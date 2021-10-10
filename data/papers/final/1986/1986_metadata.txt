@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1986
+FinalPaperTitle#=%=#Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhengyan Li
+JobTitle#==#
+Organization#==#Shanghai Key Laboratory of Intelligent Information Processing, School of Computer Science, Fudan University, Shanghai, China
+Abstract#==#Aspect-based sentiment analysis aims to identify the sentiment polarity of a specific aspect in product reviews. We notice that about 30% of reviews do not contain obvious opinion words, but still convey clear human-aware sentiment orientation, which is known as implicit sentiment. However, recent neural network-based approaches paid little attention to implicit sentiment entailed in the reviews. To overcome this issue, we adopt Supervised Contrastive Pre-training on large-scale sentiment-annotated corpora retrieved from in-domain language resources. By aligning the representation of implicit sentiment expressions to those with the same sentiment label, the pre-training process leads to better capture of both implicit and explicit sentiment orientation towards aspects in reviews. Experimental results show that our method achieves state-of-the-art performance on SemEval2014 benchmarks, and comprehensive analysis validates its effectiveness on learning implicit sentiment.
+Author{1}{Firstname}#=%=#Zhengyan
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#zhengyanli
+Author{1}{Email}#=%=#lizy19@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Yicheng
+Author{2}{Lastname}#=%=#Zou
+Author{2}{Username}#=%=#rowitzou
+Author{2}{Email}#=%=#yczou18@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Chong
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#chongzhang20
+Author{3}{Email}#=%=#chongzhang20@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Qi
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#lloydzq
+Author{4}{Email}#=%=#qz@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+Author{5}{Firstname}#=%=#Zhongyu
+Author{5}{Lastname}#=%=#Wei
+Author{5}{Username}#=%=#zywei
+Author{5}{Email}#=%=#zywei@fudan.edu.cn
+Author{5}{Affiliation}#=%=#School of Data Science, Fudan University
+
+==========

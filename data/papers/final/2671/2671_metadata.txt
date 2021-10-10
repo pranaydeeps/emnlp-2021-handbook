@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#2671
+FinalPaperTitle#=%=#KFCNet: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haonan Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Pre-trained language models have led to substantial gains over a broad range of natural language processing (NLP) tasks, but have been shown to have limitations for natural language generation tasks with high-quality requirements on the output, such as commonsense generation and ad keyword generation. 
+In this work, we present a novel Knowledge Filtering and Contrastive learning Network (KFCNet) which references external knowledge and achieves better generation performance. Specifically, we propose a BERT-based filter model to remove low-quality candidates, and apply contrastive learning separately to each of the encoder and decoder, within a general encoder--decoder architecture. 
+The encoder contrastive module helps to capture global target semantics during encoding, and the decoder contrastive module enhances the utility of retrieved prototypes while learning general features.
+Extensive experiments on the CommonGen benchmark show that our model outperforms the previous state of the art by a large margin: +6.6 points (42.5 vs. 35.9) for BLEU-4, +3.7 points (33.3 vs. 29.6) for SPICE, and +1.3 points (18.3 vs. 17.0) for CIDEr.
+We further verify the effectiveness of the proposed contrastive module on ad keyword generation, and show that our model has potential commercial value.
+Author{1}{Firstname}#=%=#Haonan
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#haonanl5
+Author{1}{Email}#=%=#haonanl5@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Yeyun
+Author{2}{Lastname}#=%=#Gong
+Author{2}{Username}#=%=#nlpanda
+Author{2}{Email}#=%=#yegong@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Jian
+Author{3}{Lastname}#=%=#Jiao
+Author{3}{Username}#=%=#jjiao
+Author{3}{Email}#=%=#jian.jiao@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Ruofei
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#rfzhang
+Author{4}{Email}#=%=#bzhang@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Timothy
+Author{5}{Lastname}#=%=#Baldwin
+Author{5}{Username}#=%=#tbaldwin
+Author{5}{Email}#=%=#tb@ldwin.net
+Author{5}{Affiliation}#=%=#The University of Melbourne
+Author{6}{Firstname}#=%=#Nan
+Author{6}{Lastname}#=%=#Duan
+Author{6}{Username}#=%=#nanduan
+Author{6}{Email}#=%=#nanduan@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research Asia
+
+==========

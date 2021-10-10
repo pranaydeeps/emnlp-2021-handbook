@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#4069
+FinalPaperTitle#=%=#An Exploratory Study on Long Dialogue Summarization: What Works and What's Next
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Yusen Zhang
+JobTitle#==#
+Organization#==#The Penn State University, 201 Old Main, University Park, Pennsylvania 16802
+Abstract#==#Dialogue summarization helps readers capture salient information from long conversations in meetings, interviews, and TV series. However, real-world dialogues pose a great challenge to current summarization models, as the dialogue length typically exceeds the input limits imposed by recent transformer-based pre-trained models, and the interactive nature of dialogues makes relevant information more context-dependent and sparsely distributed than news articles. In this work, we perform a comprehensive study on long dialogue summarization by investigating three strategies to deal with the lengthy input problem and locate relevant information: (1) extended transformer models such as Longformer, (2) retrieve-then-summarize pipeline models with several dialogue utterance retrieval methods, and (3) hierarchical dialogue encoding models such as HMNet. Our experimental results on three long dialogue datasets (QMSum, MediaSum, SummScreen) show that the retrieve-then-summarize pipeline models yield the best performance. We also demonstrate that the summary quality can be further improved with a stronger retrieval model and pretraining on proper external summarization datasets.
+Author{1}{Firstname}#=%=#Yusen
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#yusenzhang
+Author{1}{Email}#=%=#yfz5488@psu.edu
+Author{1}{Affiliation}#=%=#Penn State University
+Author{2}{Firstname}#=%=#Ansong
+Author{2}{Lastname}#=%=#Ni
+Author{2}{Username}#=%=#niansong1996
+Author{2}{Email}#=%=#ansong.ni@yale.edu
+Author{2}{Affiliation}#=%=#Yale University
+Author{3}{Firstname}#=%=#Tao
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#taoyds
+Author{3}{Email}#=%=#tao.yu@yale.edu
+Author{3}{Affiliation}#=%=#Yale University
+Author{4}{Firstname}#=%=#Rui
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#ryanzh
+Author{4}{Email}#=%=#rmz5227@psu.edu
+Author{4}{Affiliation}#=%=#Penn State University
+Author{5}{Firstname}#=%=#Chenguang
+Author{5}{Lastname}#=%=#Zhu
+Author{5}{Username}#=%=#zcgzcgzcg
+Author{5}{Email}#=%=#zcg.cs60@gmail.com
+Author{5}{Affiliation}#=%=#Microsoft Cognitive Services Research Group
+Author{6}{Firstname}#=%=#Budhaditya
+Author{6}{Lastname}#=%=#Deb
+Author{6}{Username}#=%=#budhadityadeb
+Author{6}{Email}#=%=#budeb@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Corporation
+Author{7}{Firstname}#=%=#Asli
+Author{7}{Lastname}#=%=#Celikyilmaz
+Author{7}{Username}#=%=#asli
+Author{7}{Email}#=%=#asli.ca@live.com
+Author{7}{Affiliation}#=%=#Facebook AI Research
+Author{8}{Firstname}#=%=#Ahmed Hassan
+Author{8}{Lastname}#=%=#Awadallah
+Author{8}{Username}#=%=#ahmedh
+Author{8}{Email}#=%=#hassanam@microsoft.com
+Author{8}{Affiliation}#=%=#Microsoft Research
+Author{9}{Firstname}#=%=#Dragomir
+Author{9}{Lastname}#=%=#Radev
+Author{9}{Username}#=%=#radev
+Author{9}{Email}#=%=#dragomir.radev@yale.edu
+Author{9}{Affiliation}#=%=#Yale University
+
+==========

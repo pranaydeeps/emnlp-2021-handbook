@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3857
+FinalPaperTitle#=%=#Salience-Aware Event Chain Modeling for Narrative Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xiyang Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Storytelling, whether via fables, news reports, documentaries, or memoirs, can be thought of as the communication of interesting and related events that, taken together, form a concrete process. It is desirable to extract the event chains that represent such processes. However, this extraction remains a challenging problem. We posit that this is due to the nature of the texts from which chains are discovered. Natural language text interleaves a narrative of concrete, salient events with background information, contextualization, opinion, and other elements that are important for a variety of necessary discourse and pragmatics acts but are not part of the principal chain of events being communicated. We introduce methods for extracting this principal chain from natural language text, by filtering away non-salient events and supportive sentences. We demonstrate the effectiveness of our methods at isolating critical event chains by comparing their effect on downstream tasks. We show that by pre-training large language models on our extracted chains, we obtain improvements in two tasks that benefit from a clear understanding of event chains: narrative prediction and event-based temporal question answering. The demonstrated improvements and ablative studies confirm that our extraction method isolates critical event chains.
+Author{1}{Firstname}#=%=#Xiyang
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#xiyangzh
+Author{1}{Email}#=%=#xiyangzh@isi.edu
+Author{1}{Affiliation}#=%=#USC Information Sciences Institute
+Author{2}{Firstname}#=%=#Muhao
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#muhaochen
+Author{2}{Email}#=%=#muhaochen@ucla.edu
+Author{2}{Affiliation}#=%=#USC
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#May
+Author{3}{Username}#=%=#jonmay
+Author{3}{Email}#=%=#jonmay@gmail.com
+Author{3}{Affiliation}#=%=#USC Information Sciences Institute
+
+==========

@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#527
+FinalPaperTitle#=%=#Learning to Selectively Learn for Weakly-supervised Paraphrase Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kaize Ding
+JobTitle#==#
+Organization#==#Kaize Ding
+699 South Mill Ave, Tempe, AZ, 85281, USA
+Abstract#==#Paraphrase generation is a longstanding NLP task that has diverse applications on downstream NLP tasks. However, the effectiveness of existing efforts predominantly relies on large amounts of golden labeled data. Though unsupervised endeavors have been proposed to alleviate this issue, they may fail to generate meaningful paraphrases due to the lack of supervision signals. In this work, we go beyond the existing paradigms and propose a novel approach to generate high-quality paraphrases with data of weak supervision. Specifically, we tackle the weakly-supervised paraphrase generation problem by: (1) obtaining abundant weakly-labeled parallel sentences via retrieval-based pseudo paraphrase expansion; and (2) developing a meta-learning framework to progressively select valuable samples for fine-tuning a pre-trained language model BART on the sentential paraphrasing task. We demonstrate that our approach achieves significant improvements over existing unsupervised approaches, and is even comparable in performance with supervised state-of-the-arts.
+Author{1}{Firstname}#=%=#Kaize
+Author{1}{Lastname}#=%=#Ding
+Author{1}{Username}#=%=#kaize0409
+Author{1}{Email}#=%=#kding9@asu.edu
+Author{1}{Affiliation}#=%=#Arizona State University
+Author{2}{Firstname}#=%=#Dingcheng
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#leonleeldc
+Author{2}{Email}#=%=#dingchengl@gmail.com
+Author{2}{Affiliation}#=%=#Amazon Alexa AI
+Author{3}{Firstname}#=%=#Alexander Hanbo
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#lihanbo90
+Author{3}{Email}#=%=#hanboli@amazon.com
+Author{3}{Affiliation}#=%=#AWS AI Labs
+Author{4}{Firstname}#=%=#Xing
+Author{4}{Lastname}#=%=#Fan
+Author{4}{Username}#=%=#fanxing1219
+Author{4}{Email}#=%=#fanxing1219@gmail.com
+Author{4}{Affiliation}#=%=#Amazon Corporation
+Author{5}{Firstname}#=%=#Chenlei
+Author{5}{Lastname}#=%=#Guo
+Author{5}{Username}#=%=#chenleiguo
+Author{5}{Email}#=%=#chenlei.guo@gmail.com
+Author{5}{Affiliation}#=%=#Amazon Alexa
+Author{6}{Firstname}#=%=#Yang
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#yangliu00
+Author{6}{Email}#=%=#yang.yangl@gmail.com
+Author{6}{Affiliation}#=%=#Amazon
+Author{7}{Firstname}#=%=#Huan
+Author{7}{Lastname}#=%=#Liu
+Author{7}{Username}#=%=#huanliu
+Author{7}{Email}#=%=#huan.liu@asu.edu
+Author{7}{Affiliation}#=%=#Arizona State University
+
+==========

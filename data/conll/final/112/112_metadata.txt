@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#112
+FinalPaperTitle#=%=#Predicting non-native speech perception using the Perceptual Assimilation Model and state-of-the-art acoustic models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Juliette Millet
+JobTitle#==#
+Organization#==#5 rue Thomas Mann, 75013 Paris
+Abstract#==#Our native language influences the way we perceive speech sounds, affecting our ability to discriminate non-native sounds. We compare two ideas about the influence of the native language on speech perception: the Perceptual Assimilation Model, which appeals to a mental classification of sounds into native phoneme categories, versus the idea that rich, fine-grained phonetic representations tuned to the statistics of the native language, are sufficient. We operationalise this idea using representations from two state-of-the-art speech models, a Dirichlet process Gaussian mixture model and the more recent wav2vec 2.0 model. We present a new, open dataset of French- and English-speaking participants' speech perception behaviour for 61 vowel sounds from six languages. We show that phoneme assimilation is a better predictor than fine-grained phonetic modelling, both for the discrimination behaviour as a whole, and for predicting differences in discriminability associated with differences in native language background. We also show that wav2vec 2.0, while not good at capturing the effects of native language on speech perception, is complementary to information about native phoneme assimilation, and provides a good model of low-level phonetic representations, supporting the idea that both categorical and fine-grained perception are used during speech perception.
+Author{1}{Firstname}#=%=#Juliette
+Author{1}{Lastname}#=%=#Millet
+Author{1}{Username}#=%=#juliettemillet
+Author{1}{Email}#=%=#juliette.millet@cri-paris.org
+Author{1}{Affiliation}#=%=#LLF, Université de Paris and CoML team, LSCP, ENS Paris
+Author{2}{Firstname}#=%=#Ioana
+Author{2}{Lastname}#=%=#Chitoran
+Author{2}{Username}#=%=#ioana.chitoran
+Author{2}{Email}#=%=#ioana.chitoran@univ-paris-diderot.fr
+Author{2}{Affiliation}#=%=#Universite de Paris
+Author{3}{Firstname}#=%=#Ewan
+Author{3}{Lastname}#=%=#Dunbar
+Author{3}{Username}#=%=#emd
+Author{3}{Email}#=%=#ewan.dunbar@utoronto.ca
+Author{3}{Affiliation}#=%=#University of Toronto
+
+==========

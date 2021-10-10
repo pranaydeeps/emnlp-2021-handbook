@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1534
+FinalPaperTitle#=%=#Optimal Neural Program Synthesis from Multimodal Specifications
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Xi Ye
+JobTitle#==#
+Organization#==#
+Abstract#==#Multimodal program synthesis, which leverages different types of user input to synthesize a desired program, is an attractive way to scale program synthesis to challenging settings; however, it requires integrating noisy signals from the user, like natural language, with hard constraints on the program's behavior. This paper proposes an \emph{optimal neural synthesis} approach where the goal is to find a program that satisfies user-provided constraints while also maximizing the program's score with respect to a neural model. Specifically, we focus on multimodal synthesis tasks in which the user intent is expressed using a combination of natural language (NL) and input-output examples. At the core of our method is a top-down recurrent neural model that places distributions over abstract syntax trees conditioned on the NL input. This model not only allows for efficient search over the space of syntactically valid programs, but it allows us to leverage automated program analysis techniques for pruning the search space based on infeasibility of partial programs with respect to the user's constraints. The experimental results on a multimodal synthesis dataset (StructuredRegex) show that our method substantially outperforms prior state-of-the-art techniques in terms of accuracy and efficiency, and finds model-optimal programs more frequently.
+Author{1}{Firstname}#=%=#Xi
+Author{1}{Lastname}#=%=#Ye
+Author{1}{Username}#=%=#xiye17
+Author{1}{Email}#=%=#xiye17@gmail.com
+Author{1}{Affiliation}#=%=#The University of Texas at Austin
+Author{2}{Firstname}#=%=#Qiaochu
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#qiaochuc
+Author{2}{Email}#=%=#qchen@cs.utexas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+Author{3}{Firstname}#=%=#Isil
+Author{3}{Lastname}#=%=#Dillig
+Author{3}{Username}#=%=#isil
+Author{3}{Email}#=%=#idillig@gmail.com
+Author{3}{Affiliation}#=%=#University of Texas at Austin
+Author{4}{Firstname}#=%=#Greg
+Author{4}{Lastname}#=%=#Durrett
+Author{4}{Username}#=%=#gdurrett
+Author{4}{Email}#=%=#gdurrett@cs.utexas.edu
+Author{4}{Affiliation}#=%=#UT Austin
+
+==========

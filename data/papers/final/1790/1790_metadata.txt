@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#1790
+FinalPaperTitle#=%=#Condenser: a Pre-training Architecture for Dense Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Luyu Gao
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#Pre-trained Transformer language models (LM) have become go-to text representation encoders. Prior research fine-tunes deep LMs to encode text sequences such as sentences and passages into single dense vector representations for efficient text comparison and retrieval. However, dense encoders require a lot of data and sophisticated techniques to effectively train and suffer in low data situations. This paper finds a key reason is that standard LMs' internal attention structure is not ready-to-use for dense encoders, which needs to aggregate text information into the dense representation. We propose to pre-train towards dense encoder with a novel Transformer architecture, Condenser, where LM prediction CONditions on DENSE Representation. Our experiments show Condenser improves over standard LM by large margins on various text retrieval and similarity tasks.
+Author{1}{Firstname}#=%=#Luyu
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Username}#=%=#luyugao
+Author{1}{Email}#=%=#luyug@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Jamie
+Author{2}{Lastname}#=%=#Callan
+Author{2}{Username}#=%=#jamiecallan
+Author{2}{Email}#=%=#callan@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

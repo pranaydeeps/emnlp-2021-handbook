@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Laura Aina
+JobTitle#==#
+Organization#==#
+Abstract#==#Temporary syntactic ambiguities arise when the beginning of a sentence is compatible with multiple syntactic analyses. We inspect to which extent neural language models (LMs) exhibit uncertainty over such analyses when processing temporarily ambiguous inputs, and how that uncertainty is modulated by disambiguating cues. We probe the LM’s expectations by generating from it: we use stochastic decoding to derive a set of sentence completions, and estimate the probability that the LM assigns to each interpretation based on the distribution of parses across completions. Unlike scoring-based methods for targeted syntactic evaluation, this technique makes it possible to explore completions that are not hypothesized in advance by the researcher. We apply this method to study the behavior of two LMs (GPT2 and an LSTM) on three types of temporary ambiguity, using materials from human sentence processing experiments. We find that LMs can track multiple analyses simultaneously; the degree of uncertainty varies across constructions and contexts. As a response to disambiguating cues, the LMs often select the correct interpretation, but occasional errors point to potential areas of improvement
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Aina
+Author{1}{Username}#=%=#laura-aina
+Author{1}{Email}#=%=#laura.aina@upf.edu
+Author{1}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{2}{Firstname}#=%=#Tal
+Author{2}{Lastname}#=%=#Linzen
+Author{2}{Username}#=%=#tallinzen
+Author{2}{Email}#=%=#linzen@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+
+==========

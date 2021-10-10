@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2637
+FinalPaperTitle#=%=#"Be nice to your wife! The restaurants are closed": Can Gender Stereotype Detection Improve Sexism Classification?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Patricia Chiril
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we focus on the detection of sexist hate speech against women in tweets studying for the first time the impact of gender stereotype detection on sexism classification. We propose: (1) the first dataset  annotated for gender stereotype detection, (2) a new method for data augmentation based on sentence similarity with multilingual external datasets, and (3) a set of deep learning experiments first to detect gender stereotypes and then, to use this auxiliary task for sexism detection. Although the presence of stereotypes does not necessarily entail hateful content, our results show that sexism classification can definitively benefit from gender stereotype detection.
+Author{1}{Firstname}#=%=#Patricia
+Author{1}{Lastname}#=%=#Chiril
+Author{1}{Username}#=%=#patri
+Author{1}{Email}#=%=#patricia.chiril@irit.fr
+Author{1}{Affiliation}#=%=#IRIT
+Author{2}{Firstname}#=%=#Farah
+Author{2}{Lastname}#=%=#Benamara
+Author{2}{Username}#=%=#benamara
+Author{2}{Email}#=%=#benamara@irit.fr
+Author{2}{Affiliation}#=%=#University of toulouse
+Author{3}{Firstname}#=%=#Véronique
+Author{3}{Lastname}#=%=#MORICEAU
+Author{3}{Username}#=%=#moriceau
+Author{3}{Email}#=%=#veronique.moriceau@irit.fr
+Author{3}{Affiliation}#=%=#IRIT, Université Toulouse 3
+
+==========

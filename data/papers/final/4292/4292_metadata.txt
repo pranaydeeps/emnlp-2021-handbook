@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4292
+FinalPaperTitle#=%=#Beyond Text: Incorporating Metadata and Label Structure for Multi-Label Document Classification using Heterogeneous Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Chenchen Ye
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-label document classification, associating one document instance with a set of relevant labels, is attracting more and more research attention. Existing methods explore the incorporation of information beyond text, such as document metadata or label structure. These approaches however either simply utilize the semantic information of metadata or employ the predefined parent-child label hierarchy, ignoring the heterogeneous graphical structures of metadata and labels, which we believe are crucial for accurate multi-label document classification. Therefore, in this paper, we propose a novel neural network based approach for multi-label document classification, in which two heterogeneous graphs are constructed and learned using heterogeneous graph transformers. One is metadata heterogeneous graph, which models various types of metadata and their topological relations. The other is label heterogeneous graph, which is constructed based on both the labels' hierarchy and their statistical dependencies. Experimental results on two benchmark datasets show the proposed approach outperforms several state-of-the-art baselines.
+Author{1}{Firstname}#=%=#Chenchen
+Author{1}{Lastname}#=%=#Ye
+Author{1}{Username}#=%=#chenchenye
+Author{1}{Email}#=%=#chenchenye@seu.edu.cn
+Author{1}{Affiliation}#=%=#Southeast University
+Author{2}{Firstname}#=%=#Linhai
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#lzhang472
+Author{2}{Email}#=%=#lzhang472@seu.edu.cn
+Author{2}{Affiliation}#=%=#Southeast University
+Author{3}{Firstname}#=%=#Yulan
+Author{3}{Lastname}#=%=#He
+Author{3}{Username}#=%=#yulanhe
+Author{3}{Email}#=%=#yulan.he@warwick.ac.uk
+Author{3}{Affiliation}#=%=#University of Warwick
+Author{4}{Firstname}#=%=#Deyu
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#d.zhou
+Author{4}{Email}#=%=#d.zhou@seu.edu.cn
+Author{4}{Affiliation}#=%=#Southeast University
+Author{5}{Firstname}#=%=#Jie
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#wujie79
+Author{5}{Email}#=%=#wujie79@huawei.com
+Author{5}{Affiliation}#=%=#Huawei Technologies
+
+==========

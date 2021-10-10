@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1327
+FinalPaperTitle#=%=#EventKE: Event-Enhanced Knowledge Graph Embedding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Zixuan Zhang
+JobTitle#==#
+Organization#==#University of Illinois Urbana-Champaign
+Abstract#==#Relations in most of the traditional knowledge graphs (KGs) only reflect static and factual connections, but fail to represent the dynamic activities and state changes about entities. In this paper, we emphasize the importance of incorporating events in KG representation learning, and propose an event-enhanced KG embedding model EventKE. Specifically, given the original KG, we first incorporate event nodes by building a heterogeneous network, where entity nodes and event nodes are distributed on the two sides of the network inter-connected by event argument links. We then use entity-entity relations from the original KG and event-event temporal links to inner-connect entity and event nodes respectively. We design a novel and effective attention-based message passing method, which is conducted on entity-entity, event-entity, and event-event relations to fuse the event information into KG embeddings. Experimental results on real-world datasets demonstrate that events can greatly improve the quality of the KG embeddings on multiple downstream tasks.
+Author{1}{Firstname}#=%=#Zixuan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zixuan11
+Author{1}{Email}#=%=#zixuan11@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois Urbana-Champaign
+Author{2}{Firstname}#=%=#Hongwei
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#hongweiw@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois Urbana-Champaign
+Author{3}{Firstname}#=%=#Han
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Email}#=%=#hanzhao@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois Urbana-Champaign
+Author{4}{Firstname}#=%=#Hanghang
+Author{4}{Lastname}#=%=#Tong
+Author{4}{Username}#=%=#htong
+Author{4}{Email}#=%=#htong@illinois.edu
+Author{4}{Affiliation}#=%=#UIUC
+Author{5}{Firstname}#=%=#Heng
+Author{5}{Lastname}#=%=#Ji
+Author{5}{Username}#=%=#hengjirpi
+Author{5}{Email}#=%=#hengji@illinois.edu
+Author{5}{Affiliation}#=%=#University of Illinois at Urbana-Champaign and Amazon (Amazon Scholar)
+
+==========

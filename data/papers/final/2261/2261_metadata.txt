@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2261
+FinalPaperTitle#=%=#Competence-based Curriculum Learning for Multilingual Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Mingliang Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Currently, multilingual machine translation is receiving more and more attention since it brings better performance for low resource languages (LRLs) and saves more space. However, existing multilingual machine translation models face a severe challenge: imbalance. As a result, the translation performance of different languages in multilingual translation models are quite different. We argue that this imbalance problem stems from the different learning competencies of different languages. Therefore, we focus on balancing the learning competencies of different languages and propose Competence-based Curriculum Learning for Multilingual Machine Translation, named CCL-M. Specifically, we firstly define two competencies to help schedule the high resource languages (HRLs) and the low resource languages: 1) Self-evaluated Competence, evaluating how well the language itself has been learned; and 2) HRLs-evaluated Competence, evaluating whether an LRL is ready to be learned according to HRLs’ Self-evaluated Competence. Based on the above competencies, we utilize the proposed CCL-M algorithm to gradually add new languages into the training set in a curriculum learning manner. Furthermore, we propose a novel competence-aware dynamic balancing sampling strategy for better selecting training samples in multilingual training. Experimental results show that our approach has achieved a steady and significant performance gain compared to the previous state-of-the-art approach on the TED talks dataset.
+Author{1}{Firstname}#=%=#Mingliang
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zml24
+Author{1}{Email}#=%=#zml24@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Fandong
+Author{2}{Lastname}#=%=#Meng
+Author{2}{Username}#=%=#mengfandong
+Author{2}{Email}#=%=#fandongmeng@tencent.com
+Author{2}{Affiliation}#=%=#WeChat AI, Tencent
+Author{3}{Firstname}#=%=#Yunhai
+Author{3}{Lastname}#=%=#Tong
+Author{3}{Username}#=%=#yhtong
+Author{3}{Email}#=%=#yhtong@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Jie
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#jerryitp
+Author{4}{Email}#=%=#withtomzhou@tencent.com
+Author{4}{Affiliation}#=%=#Tencent Inc.
+
+==========

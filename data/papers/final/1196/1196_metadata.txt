@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1196
+FinalPaperTitle#=%=#Global Explainability of BERT-Based Evaluation Metrics by Disentangling along Linguistic Factors
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Wei Zhao
+JobTitle#==#
+Organization#==#
+Abstract#==#Evaluation metrics are a key ingredient for progress of text generation systems. In recent
+years, several BERT-based evaluation metrics have been proposed (including BERTScore,
+MoverScore, BLEURT, etc.) which correlate much better with human assessment of text generation quality than BLEU or ROUGE, invented two decades ago. However, little is known what these metrics, which are based on black-box language model representations, actually capture (it is typically assumed they model semantic similarity). In this work, we use a simple regression based global explainability technique to disentangle metric scores along linguistic factors, including semantics, syntax, morphology, and lexical overlap. We show that the different metrics capture all aspects to some degree, but that they are all substantially sensitive to lexical overlap, just like BLEU and ROUGE. This exposes limitations of these novelly proposed metrics, which we also highlight in an adversarial test scenario.
+Author{1}{Firstname}#=%=#Marvin
+Author{1}{Lastname}#=%=#Kaster
+Author{1}{Username}#=%=#marvinkaster
+Author{1}{Email}#=%=#marvin.kaster@stud.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#Technical University of Darmstadt
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#andyweizhao1
+Author{2}{Email}#=%=#andyweizhao1@gmail.com
+Author{2}{Affiliation}#=%=#TU Darmstadt
+Author{3}{Firstname}#=%=#Steffen
+Author{3}{Lastname}#=%=#Eger
+Author{3}{Username}#=%=#steffen2
+Author{3}{Email}#=%=#eger.steffen@gmail.com
+Author{3}{Affiliation}#=%=#NLLG Lab, Technische Universität Darmstadt
+
+==========

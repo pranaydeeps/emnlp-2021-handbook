@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2210
+FinalPaperTitle#=%=#Attention-based Contrastive Learning for Winograd Schemas
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Tassilo Klein
+JobTitle#==#
+Organization#==#
+Abstract#==#Self-supervised learning has recently attracted considerable attention in the NLP community for its ability to learn discriminative features using a contrastive objective. This paper investigates whether contrastive learning can be extended to Transfomer attention to tackling the Winograd Schema Challenge. To this end, we propose a novel self-supervised framework, leveraging a contrastive loss directly at the level of self-attention. Experimental analysis of our attention-based models on multiple datasets demonstrates superior commonsense reasoning capabilities. The proposed approach outperforms all comparable unsupervised approaches while occasionally surpassing supervised ones.
+Author{1}{Firstname}#=%=#Tassilo
+Author{1}{Lastname}#=%=#Klein
+Author{1}{Username}#=%=#tjklein
+Author{1}{Email}#=%=#tassilo.klein@sap.com
+Author{1}{Affiliation}#=%=#SAP SE
+Author{2}{Firstname}#=%=#Moin
+Author{2}{Lastname}#=%=#Nabi
+Author{2}{Username}#=%=#moinnabi
+Author{2}{Email}#=%=#m.nabi@sap.com
+Author{2}{Affiliation}#=%=#SAP AI Research
+
+==========

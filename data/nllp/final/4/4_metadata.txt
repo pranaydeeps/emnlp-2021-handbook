@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Capturing Logical Structure of Visually Structured Documents with Multimodal Transition Parser
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuta Koreeda
+JobTitle#==#Researcher
+Organization#==#Hitachi America Ltd.
+Abstract#==#While many NLP pipelines assume raw, clean texts, many texts we encounter in the wild, including a vast majority of legal documents, are not so clean, with many of them being visually structured documents (VSDs) such as PDFs. Conventional preprocessing tools for VSDs mainly focused on word segmentation and coarse layout analysis, whereas fine-grained logical structure analysis (such as identifying paragraph boundaries and their hierarchies) of VSDs is underexplored. To that end, we proposed to formulate the task as prediction of "transition labels" between text fragments that maps the fragments to a tree, and developed a feature-based machine learning system that fuses visual, textual and semantic cues. Our system is easily customizable to different types of VSDs and it significantly outperformed baselines in identifying different structures in VSDs. For example, our system obtained a paragraph boundary detection F1 score of 0.953 which is significantly better than a popular PDF-to-text tool with an F1 score of 0.739.
+Author{1}{Firstname}#=%=#Yuta
+Author{1}{Lastname}#=%=#Koreeda
+Author{1}{Username}#=%=#koreeda
+Author{1}{Email}#=%=#yuta.koreeda@hal.hitachi.com
+Author{1}{Affiliation}#=%=#Research & Development Group, Hitachi America Ltd.
+Author{2}{Firstname}#=%=#Christopher
+Author{2}{Lastname}#=%=#Manning
+Author{2}{Username}#=%=#manning
+Author{2}{Email}#=%=#manning@cs.stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+
+==========

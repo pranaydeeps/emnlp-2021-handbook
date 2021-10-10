@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#254
+FinalPaperTitle#=%=#Generating Datasets with Pretrained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Timo Schick
+JobTitle#==#
+Organization#==#Ludwig-Maximilians-Universität München
+Geschwister-Scholl-Platz 1
+80539 München
+Abstract#==#To obtain high-quality sentence embeddings from pretrained language models (PLMs), they must either be augmented with additional pretraining objectives or finetuned on a large set of labeled text pairs. While the latter approach typically outperforms the former, it requires great human effort to generate suitable datasets of sufficient size.
+In this paper, we show how PLMs can be leveraged to obtain high-quality sentence embeddings without the need for labeled data, finetuning or modifications to the pretraining objective: We utilize the generative abilities of large and high-performing PLMs to generate entire datasets of labeled text pairs from scratch, which we then use for finetuning much smaller and more efficient models. Our fully unsupervised approach outperforms strong  baselines on several semantic textual similarity datasets.
+Author{1}{Firstname}#=%=#Timo
+Author{1}{Lastname}#=%=#Schick
+Author{1}{Username}#=%=#timoschick
+Author{1}{Email}#=%=#timo.schick@sulzer.de
+Author{1}{Affiliation}#=%=#LMU Munich / Sulzer GmbH / Google
+Author{2}{Firstname}#=%=#Hinrich
+Author{2}{Lastname}#=%=#Schütze
+Author{2}{Username}#=%=#cislmu
+Author{2}{Email}#=%=#inquiries@cislmu.org
+Author{2}{Affiliation}#=%=#Center for Information and Language Processing, University of Munich
+
+==========

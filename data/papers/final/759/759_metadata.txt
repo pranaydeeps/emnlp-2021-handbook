@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#759
+FinalPaperTitle#=%=#Efficient Test Time Adapter Ensembling for Low-resource Language Varieties
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Adapters are light-weight modules that allow parameter-efficient fine-tuning of pretrained models. Specialized language and task adapters have recently been proposed to facilitate cross-lingual transfer of multilingual pretrained models (Pfeiffer et al., 2020b). However, this approach requires training a separate language adapter for every language one wishes to support, which can be impractical for languages with limited data. An intuitive solution is to use a related language adapter for the new language variety, but we observe that this solution can lead to sub-optimal performance. In this paper, we aim to improve the robustness of language adapters to uncovered languages without training new adapters. We find that ensembling multiple existing language adapters makes the fine-tuned model significantly more robust to other language varieties not included in these adapters. Building upon this observation, we propose Entropy Minimized Ensemble of Adapters (EMEA), a method that optimizes the ensemble weights of the pretrained language adapters for each test sentence by minimizing the entropy of its predictions. Experiments on three diverse groups of language varieties show that our method leads to significant improvements on both named entity recognition and part-of-speech tagging across all languages.
+Author{1}{Firstname}#=%=#Xinyi
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#xinyiw1
+Author{1}{Email}#=%=#xinyiw1@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Yulia
+Author{2}{Lastname}#=%=#Tsvetkov
+Author{2}{Username}#=%=#yulia.tsvetkov
+Author{2}{Email}#=%=#yuliats@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Sebastian
+Author{3}{Lastname}#=%=#Ruder
+Author{3}{Username}#=%=#sebastianruder
+Author{3}{Email}#=%=#ruder.sebastian@gmail.com
+Author{3}{Affiliation}#=%=#DeepMind
+Author{4}{Firstname}#=%=#Graham
+Author{4}{Lastname}#=%=#Neubig
+Author{4}{Username}#=%=#gneubig
+Author{4}{Email}#=%=#gneubig@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

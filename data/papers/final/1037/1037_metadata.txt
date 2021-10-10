@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1037
+FinalPaperTitle#=%=#Task-adaptive Pre-training and Self-training are Complementary for Natural Language Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shiyang Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Task-adaptive pre-training (TAPT) and Self-training (ST) have emerged as the major semi-supervised approaches to improve natural language understanding (NLU) tasks with massive amount of unlabeled data. However, it's unclear whether they learn similar representations or they can be effectively combined. In this paper, we show that TAPT and ST can be complementary with simple TFS protocol by following TAPT -> Finetuning  -> Self-training (TFS) process. Experimental results show that TFS protocol can effectively utilize unlabeled data to achieve strong combined gains consistently across six datasets covering sentiment classification, paraphrase identification, natural language inference, named entity recognition and dialogue slot classification. We investigate various semi-supervised settings and consistently show that gains from TAPT and ST can be strongly additive by following TFS procedure. We hope that TFS could serve as an important semi-supervised baseline for future NLP studies.
+Author{1}{Firstname}#=%=#Shiyang
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#shiyang_li
+Author{1}{Email}#=%=#shiyangli@ucsb.edu
+Author{1}{Affiliation}#=%=#UC Santa Barbara
+Author{2}{Firstname}#=%=#Semih
+Author{2}{Lastname}#=%=#Yavuz
+Author{2}{Username}#=%=#syavuz
+Author{2}{Email}#=%=#syavuz@salesforce.com
+Author{2}{Affiliation}#=%=#Salesforce Research
+Author{3}{Firstname}#=%=#Wenhu
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#wenhu
+Author{3}{Email}#=%=#wenhuchen@cs.ucsb.edu
+Author{3}{Affiliation}#=%=#University of California, Santa Barbara
+Author{4}{Firstname}#=%=#Xifeng
+Author{4}{Lastname}#=%=#Yan
+Author{4}{Username}#=%=#xifeng
+Author{4}{Email}#=%=#xyan@cs.ucsb.edu
+Author{4}{Affiliation}#=%=#University of California at Santa Barbara
+
+==========

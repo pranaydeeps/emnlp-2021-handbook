@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Transferring Knowledge from Vision to Language: How to Achieve it and how to Measure it?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Lovisa Hagström
+JobTitle#==#
+Organization#==#
+Abstract#==#Large language models are known to suffer from the hallucination problem in that they are prone to output statements that are false or inconsistent, indicating a lack of knowledge. A proposed solution to this is to provide the model with additional data modalities that complements the knowledge obtained through text. We investigate the use of visual data to complement the knowledge of large language models by proposing a method for evaluating visual knowledge transfer to text for uni- or multimodal language models. The method is based on two steps, 1) a novel task querying for knowledge of memory colors, i.e. typical colors of well-known objects, and 2) filtering of model training data to clearly separate knowledge contributions. Additionally, we introduce a model architecture that involves a visual imagination step and evaluate it with our proposed method. We find that our method can successfully be used to measure visual knowledge transfer capabilities in models and that our novel model architecture shows promising results for leveraging multimodal knowledge in a unimodal setting.
+Author{1}{Firstname}#=%=#Tobias
+Author{1}{Lastname}#=%=#Norlund
+Author{1}{Email}#=%=#tobiasno@chalmers.se
+Author{1}{Affiliation}#=%=#Chalmers University of Technology and Recorded Future
+Author{2}{Firstname}#=%=#Lovisa
+Author{2}{Lastname}#=%=#Hagström
+Author{2}{Username}#=%=#lovhag
+Author{2}{Email}#=%=#lovhag@chalmers.se
+Author{2}{Affiliation}#=%=#Chalmers University of Technology
+Author{3}{Firstname}#=%=#Richard
+Author{3}{Lastname}#=%=#Johansson
+Author{3}{Username}#=%=#richardjohansson
+Author{3}{Email}#=%=#richard.johansson@gu.se
+Author{3}{Affiliation}#=%=#University of Gothenburg
+
+==========

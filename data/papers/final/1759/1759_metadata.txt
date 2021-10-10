@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#1759
+FinalPaperTitle#=%=#ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Yuta Koreeda
+JobTitle#==#
+Organization#==#Hitachi America Ltd.
+2535 Augustine Dr, Santa Clara, CA 95054
+Abstract#==#Reviewing contracts is a time-consuming procedure that incurs large expenses to companies and social inequality to those who cannot afford it. In this work, we propose "document-level natural language inference (NLI) for contracts", a novel, real-world application of NLI that addresses such problems. In this task, a system is given a set of hypotheses (such as "Some obligations of Agreement may survive termination.") and a contract, and it is asked to classify whether each hypothesis is "entailed by", "contradicting to" or "not mentioned by" (neutral to) the contract as well as identifying "evidence" for the decision as spans in the contract. We annotated and release the largest corpus to date consisting of 607 annotated contracts. We then show that existing models fail badly on our task and introduce a strong baseline, which (a) models evidence identification as multi-label classification over spans instead of trying to predict start and end tokens, and (b) employs more sophisticated context segmentation for dealing with long documents. We also show that linguistic characteristics of contracts, such as negations by exceptions, are contributing to the difficulty of this task and that there is much room for improvement.
+Author{1}{Firstname}#=%=#Yuta
+Author{1}{Lastname}#=%=#Koreeda
+Author{1}{Username}#=%=#koreeda
+Author{1}{Email}#=%=#yuta.koreeda@hal.hitachi.com
+Author{1}{Affiliation}#=%=#Research & Development Group, Hitachi America Ltd.
+Author{2}{Firstname}#=%=#Christopher
+Author{2}{Lastname}#=%=#Manning
+Author{2}{Username}#=%=#manning
+Author{2}{Email}#=%=#manning@cs.stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+
+==========

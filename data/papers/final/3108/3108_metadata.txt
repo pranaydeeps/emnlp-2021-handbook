@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3108
+FinalPaperTitle#=%=#Frequency Effects on Syntactic Rule Learning in Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Jason Wei
+JobTitle#==#
+Organization#==#
+Abstract#==#Pre-trained language models perform well on a variety of linguistic tasks that require symbolic reasoning, raising the question of whether such models implicitly represent abstract symbols and rules. We investigate this question using the case study of BERT's performance on English subject--verb agreement. Unlike prior work, we train multiple instances of BERT from scratch, allowing us to perform a series of controlled interventions at pre-training time. We show that BERT often generalizes well to subject--verb pairs that never occurred in training, suggesting a degree of rule-governed behavior. We also find, however, that performance is heavily influenced by word frequency, with experiments showing that both the absolute frequency of a verb form, as well as the frequency relative to the alternate inflection, are causally implicated in the predictions BERT makes at inference time. Closer analysis of these frequency effects reveals that BERT's behavior is consistent with a system that correctly applies the SVA rule in general but struggles to overcome strong training priors and to estimate agreement features (singular vs. plural) on infrequent lexical items.
+Author{1}{Firstname}#=%=#Jason
+Author{1}{Lastname}#=%=#Wei
+Author{1}{Username}#=%=#jasonwei
+Author{1}{Email}#=%=#jason.weng.wei@gmail.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Dan
+Author{2}{Lastname}#=%=#Garrette
+Author{2}{Username}#=%=#dhgarrette
+Author{2}{Email}#=%=#dhgarrette@gmail.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Tal
+Author{3}{Lastname}#=%=#Linzen
+Author{3}{Username}#=%=#tallinzen
+Author{3}{Email}#=%=#linzen@nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+Author{4}{Firstname}#=%=#Ellie
+Author{4}{Lastname}#=%=#Pavlick
+Author{4}{Username}#=%=#epavlick
+Author{4}{Email}#=%=#ellie_pavlick@brown.edu
+Author{4}{Affiliation}#=%=#Brown University
+
+==========

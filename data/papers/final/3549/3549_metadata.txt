@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#3549
+FinalPaperTitle#=%=#A Corpus-based Syntactic Analysis of Two-termed Unlike Coordination
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Julie Kallini
+JobTitle#==#
+Organization#==#Department of Computer Science, Princeton University
+35 Olden Street, Princeton, NJ 08540-5233
+Abstract#==#Coordination is a phenomenon of language that conjoins two or more terms or phrases using a coordinating conjunction. Although coordination has been explored extensively in the linguistics literature, the rules and constraints that govern its structure are still largely elusive and widely debated amongst linguists. This paper presents a study of two-termed unlike coordinations in particular, where the two conjuncts of the coordination phrase form valid constituents but have distinct categories. We conducted a syntactic analysis of the phrasal categories that can be conjoined in such unlike coordinations through a computational corpus-based approach, utilizing the Corpus of Contemporary American English (COCA) as the main data source, as well as the Penn Treebank (PTB). The results show that the two conjuncts within unlike coordinations display different properties based on their position, supporting an antisymmetric view of the structure of coordination. This research provides new data and perspectives through the use of statistical techniques that can help shape future theories and models of coordination.
+Author{1}{Firstname}#=%=#Julie
+Author{1}{Lastname}#=%=#Kallini
+Author{1}{Username}#=%=#jkallini
+Author{1}{Email}#=%=#jkallini@alumni.princeton.edu
+Author{1}{Affiliation}#=%=#Princeton University
+Author{2}{Firstname}#=%=#Christiane
+Author{2}{Lastname}#=%=#Fellbaum
+Author{2}{Username}#=%=#fellbaum
+Author{2}{Email}#=%=#fellbaum@princeton.edu
+Author{2}{Affiliation}#=%=#Princeton University
+
+==========

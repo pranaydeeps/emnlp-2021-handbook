@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#150
+FinalPaperTitle#=%=#Who’s on First?: Probing the Learning and Representation Capabilities of Language Models on Deterministic Closed Domains
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#David Demeter
+JobTitle#==#
+Organization#==#Northwestern University
+Department of Computer Science
+Mudd Hall
+2233 Tech Drive, Third Floor
+Evanston, IL 60208
+Abstract#==#The capabilities of today's natural language processing systems are typically evaluated using large datasets of curated questions and answers.  While these are critical benchmarks of progress, they also suffer from weakness due to artificial distributions and incomplete knowledge.  Artifacts arising from artificial distributions can overstate language model performance, while incomplete knowledge limits fine-grained analysis.
+
+In this work, we introduce a complementary benchmarking approach based on SimPlified Language Activity Traces (SPLAT).  SPLATs are corpora of language encodings of activity in some closed domain (we study traces from chess and baseball games in this work).  SPLAT datasets use naturally-arising distributions, allow the generation of question-answer pairs at scale, and afford complete knowledge in their closed domains.  We show that language models of three different architectures can answer questions about world states using only verb-like encodings of activity.  Our approach is extensible to new language models and additional question-answering tasks.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Demeter
+Author{1}{Username}#=%=#ddemeter
+Author{1}{Email}#=%=#dwdemeter@gmail.com
+Author{1}{Affiliation}#=%=#Northwestern University
+Author{2}{Firstname}#=%=#Doug
+Author{2}{Lastname}#=%=#Downey
+Author{2}{Username}#=%=#ddowney
+Author{2}{Email}#=%=#ddowney@eecs.northwestern.edu
+Author{2}{Affiliation}#=%=#Allen Institute for AI, Northwestern University
+
+==========

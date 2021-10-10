@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#2221
+FinalPaperTitle#=%=#Speaker-Oriented Latent Structures for Dialogue-Based Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Nan Guoshun
+JobTitle#==#
+Organization#==#8 Somapah Rd, Singapore 487372, Singapore University of Technology and Design
+Abstract#==#Dialogue-based relation extraction (DiaRE) aims to detect the structural information from unstructured utterances in dialogues. Existing relation extraction models may be unsatisfactory under such a conversational setting, due to the entangled logic and information sparsity issues in utterances involving multiple speakers. To this end, we introduce SOLS, a novel model which can explicitly induce speaker-oriented latent structures for better DiaRE. Specifically, we learn latent structures to capture the relationships among tokens beyond the utterance boundaries, alleviating the entangled logic issue. 
+During the learning process, our speaker-specific regularization method progressively highlights speaker-related key clues and erases the irrelevant ones, alleviating the information sparsity issue.
+Experiments on three public datasets demonstrate the effectiveness of our proposed approach.
+Author{1}{Firstname}#=%=#Guoshun
+Author{1}{Lastname}#=%=#Nan
+Author{1}{Username}#=%=#ngs
+Author{1}{Email}#=%=#nanguoshun@gmail.com
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Guoqing
+Author{2}{Lastname}#=%=#Luo
+Author{2}{Username}#=%=#excelsior
+Author{2}{Email}#=%=#gluo@ualberta.ca
+Author{2}{Affiliation}#=%=#University of Alberta
+Author{3}{Firstname}#=%=#Sicong
+Author{3}{Lastname}#=%=#Leng
+Author{3}{Username}#=%=#lengsicong
+Author{3}{Email}#=%=#sicong_leng@mymail.sutd.edu.sg
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{4}{Firstname}#=%=#Yao
+Author{4}{Lastname}#=%=#Xiao
+Author{4}{Username}#=%=#xiaoy
+Author{4}{Email}#=%=#119033910058@sjtu.edu.cn
+Author{4}{Affiliation}#=%=#shanghai jiaotong university
+Author{5}{Firstname}#=%=#Wei
+Author{5}{Lastname}#=%=#Lu
+Author{5}{Username}#=%=#luwei
+Author{5}{Email}#=%=#luweinlp@gmail.com
+Author{5}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

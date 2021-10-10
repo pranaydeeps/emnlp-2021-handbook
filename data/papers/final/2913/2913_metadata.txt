@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#2913
+FinalPaperTitle#=%=#ONION: A Simple and Effective Defense Against Textual Backdoor Attacks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Fanchao Qi
+JobTitle#==#
+Organization#==#
+Abstract#==#Backdoor attacks are a kind of emergent training-time threat to deep neural networks (DNNs). They can manipulate the output of DNNs and possess high insidiousness. In the field of natural language processing, some attack methods have been proposed and achieve very high attack success rates on multiple popular models. Nevertheless, there are few studies on defending against textual backdoor attacks. In this paper, we propose a simple and effective textual backdoor defense named ONION, which is based on outlier word detection and, to the best of our knowledge, is the first method that can handle all the textual backdoor attack situations. Experiments demonstrate the effectiveness of our model in defending BiLSTM and BERT against five different backdoor attacks. All the code and data of this paper can be obtained at https://github.com/thunlp/ONION.
+Author{1}{Firstname}#=%=#Fanchao
+Author{1}{Lastname}#=%=#Qi
+Author{1}{Username}#=%=#qfc.thu
+Author{1}{Email}#=%=#qfc17@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Yangyi
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#chenyangyi
+Author{2}{Email}#=%=#yangyichen6666@gmail.com
+Author{2}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{3}{Firstname}#=%=#Mukai
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#limukaikiaia
+Author{3}{Email}#=%=#limukaikiaia@163.com
+Author{3}{Affiliation}#=%=#Beihang University
+Author{4}{Firstname}#=%=#Yuan
+Author{4}{Lastname}#=%=#Yao
+Author{4}{Username}#=%=#yaoyuanthu
+Author{4}{Email}#=%=#yaoyuanthu@163.com
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Zhiyuan
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#lzy.thu
+Author{5}{Email}#=%=#liuzy@tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua University
+Author{6}{Firstname}#=%=#Maosong
+Author{6}{Lastname}#=%=#Sun
+Author{6}{Email}#=%=#sms.thu@gmail.com
+Author{6}{Affiliation}#=%=#Tsinghua University
+
+==========

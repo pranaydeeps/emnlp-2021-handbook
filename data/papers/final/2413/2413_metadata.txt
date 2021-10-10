@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2413
+FinalPaperTitle#=%=#Bridge to Target Domain by Prototypical Contrastive Learning and Label Confusion: Re-explore Zero-Shot Learning for Slot Filling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Liwen Wang
+JobTitle#==#
+Organization#==#Beijing University of Posts and Telecommunications, 10 Xitucheng Road, Haidian District, Beijing.
+Abstract#==#Zero-shot cross-domain slot filling alleviates the data dependence in the case of data scarcity in the target domain, which has aroused extensive research. However, as most of the existing methods do not achieve effective knowledge transfer to the target domain, they just fit the distribution of the seen slot and show poor performance on unseen slot in the target domain. To solve this, we propose a novel approach based on prototypical contrastive learning with a dynamic label confusion strategy for zero-shot slot filling. The prototypical contrastive learning aims to reconstruct the semantic constraints of labels, and we introduce the label confusion strategy to establish the label dependence between the source domains and the target domain on-the-fly. Experimental results show that our model achieves significant improvement on the unseen slots, while also set new state-of-the-arts on slot filling task.
+Author{1}{Firstname}#=%=#Liwen
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#bupt_pris731
+Author{1}{Email}#=%=#w_liwen@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Xuefeng
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#xuefengli
+Author{2}{Email}#=%=#lixuefeng@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{3}{Firstname}#=%=#Jiachi
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#albert.liu
+Author{3}{Email}#=%=#ljc1997@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Keqing
+Author{4}{Lastname}#=%=#He
+Author{4}{Username}#=%=#heliche
+Author{4}{Email}#=%=#kqin@bupt.cn
+Author{4}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{5}{Firstname}#=%=#Yuanmeng
+Author{5}{Lastname}#=%=#Yan
+Author{5}{Username}#=%=#yanyuanmeng
+Author{5}{Email}#=%=#yanyuanmeng@bupt.edu.cn
+Author{5}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{6}{Firstname}#=%=#Weiran
+Author{6}{Lastname}#=%=#Xu
+Author{6}{Username}#=%=#xuweiran
+Author{6}{Email}#=%=#xuweiran@bupt.edu.cn
+Author{6}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2635
+FinalPaperTitle#=%=#Label-Enhanced Hierarchical Contextualized Representation for Sequential Metaphor Identification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shuqun Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent metaphor identification approaches mainly consider the contextual text features within a sentence or introduce external linguistic features to the model. But they usually ignore the extra information that the data can provide, such as the contextual metaphor information and broader discourse information. In this paper, we propose a model augmented with hierarchical contextualized representation to extract more information from both sentence-level and discourse-level. At the sentence level, we leverage the metaphor information of words that except the target word in the sentence to strengthen the reasoning ability of our model via a novel label-enhanced contextualized representation. At the discourse level, the position-aware global memory network is adopted to learn long-range dependency among the same words within a discourse. Finally, our model combines the representations obtained from these two parts. The experiment results on two tasks of the VUA dataset show that our model outperforms every other state-of-the-art method that also does not use any external knowledge except what the pre-trained language model contains.
+Author{1}{Firstname}#=%=#Shuqun
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#zhengchang
+Author{1}{Email}#=%=#shuqunli@mail.dlut.edu.cn
+Author{1}{Affiliation}#=%=#Department of Computer Science, Dalian University of Technology
+Author{2}{Firstname}#=%=#Liang
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#yangliang1986
+Author{2}{Email}#=%=#liang@dlut.edu.cn
+Author{2}{Affiliation}#=%=#Dalian University of Technology
+Author{3}{Firstname}#=%=#Weidong
+Author{3}{Lastname}#=%=#He
+Author{3}{Username}#=%=#heweidong
+Author{3}{Email}#=%=#heweidong@mail.dlut.edu.cn
+Author{3}{Affiliation}#=%=#Department of Computer Science, Dalian University of Technology
+Author{4}{Firstname}#=%=#Shiqi
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#shiqi_zhang
+Author{4}{Email}#=%=#22009191@mail.dlut.edu.cn
+Author{4}{Affiliation}#=%=#Department of Computer Science, Dalian University of Technology
+Author{5}{Firstname}#=%=#Jingjie
+Author{5}{Lastname}#=%=#Zeng
+Author{5}{Username}#=%=#jjmagic
+Author{5}{Email}#=%=#zjjmagic5@163.com
+Author{5}{Affiliation}#=%=#Department of Computer Science, Dalian University of Technology
+Author{6}{Firstname}#=%=#Hongfei
+Author{6}{Lastname}#=%=#LIN
+Author{6}{Username}#=%=#hflin
+Author{6}{Email}#=%=#hflin@dlut.edu.cn
+Author{6}{Affiliation}#=%=#Dalian University of Technology
+
+==========

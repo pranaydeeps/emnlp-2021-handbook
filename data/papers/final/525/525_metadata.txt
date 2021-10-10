@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#525
+FinalPaperTitle#=%=#Hyperbolic Geometry is Not Necessary: Lightweight Euclidean-Based Models for Low-Dimensional Knowledge Graph Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kai Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent knowledge graph embedding (KGE) models based on hyperbolic geometry have shown great potential in a low-dimensional embedding space. However, the necessity of hyperbolic space in KGE is still questionable, because the calculation based on hyperbolic geometry is much more complicated than Euclidean operations. In this paper, based on the state-of-the-art hyperbolic-based model RotH, we develop two lightweight Euclidean-based models, called RotL and Rot2L. The RotL model simplifies the hyperbolic operations while keeping the flexible normalization effect. Utilizing a novel two-layer stacked transformation and based on RotL, the Rot2L model obtains an improved representation capability, yet costs fewer parameters and calculations than RotH. The experiments on link prediction show that Rot2L achieves the state-of-the-art performance on two widely-used datasets in low-dimensional knowledge graph embeddings. Furthermore, RotL achieves similar performance as RotH but only requires half of the training time.
+Author{1}{Firstname}#=%=#Kai
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#kaiwang
+Author{1}{Email}#=%=#kai_wang@mail.dlut.edu.cn
+Author{1}{Affiliation}#=%=#Dalian University of Technology
+Author{2}{Firstname}#=%=#Yu
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#yuliuboston
+Author{2}{Email}#=%=#yuliu@dlut.edu.cn
+Author{2}{Affiliation}#=%=#Dalian University of Technology
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Username}#=%=#danlin
+Author{3}{Email}#=%=#lindan0823@mail.dlut.edu.cn
+Author{3}{Affiliation}#=%=#Dalian University of Technology
+Author{4}{Firstname}#=%=#Michael
+Author{4}{Lastname}#=%=#Sheng
+Author{4}{Username}#=%=#michaelsheng
+Author{4}{Email}#=%=#michael.sheng@mq.edu.au
+Author{4}{Affiliation}#=%=#Macquarie University
+
+==========

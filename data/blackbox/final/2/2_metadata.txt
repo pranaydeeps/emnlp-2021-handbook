@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Marianna Apidianaki
+JobTitle#==#
+Organization#==#University of Helsinki, Unioninkatu 40, 00170 Helsinki, Finland
+Abstract#==#Large scale language models encode rich commonsense knowledge acquired through exposure to massive data during pre-training, but their understanding of entities and their semantic properties is unclear. We probe BERT (Devlin et al., 2019) for the properties of English nouns as expressed by adjectives that do not restrict the reference scope of the noun they modify (as in "red car"), but instead emphasise some inherent aspect ("red strawberry"). We base our study on psycholinguistics datasets that capture the association strength between nouns and their semantic features. We probe BERT using cloze tasks and in a classification setting, and show that the model has marginal knowledge of these features and their prevalence as expressed in these datasets. We discuss factors that make evaluation challenging and impede drawing general conclusions about the models’ knowledge of noun properties. Finally, we show that when tested in a fine-tuning setting addressing entailment, BERT successfully leverages the information needed for reasoning about the meaning of adjective-noun constructions outperforming previous methods.
+Author{1}{Firstname}#=%=#Marianna
+Author{1}{Lastname}#=%=#Apidianaki
+Author{1}{Username}#=%=#marianna.apidianaki
+Author{1}{Email}#=%=#marianna.apidianaki@helsinki.fi
+Author{1}{Affiliation}#=%=#University of Helsinki
+Author{2}{Firstname}#=%=#Aina
+Author{2}{Lastname}#=%=#Garí Soler
+Author{2}{Username}#=%=#aina.gari
+Author{2}{Email}#=%=#aina.garisoler@telecom-paris.fr
+Author{2}{Affiliation}#=%=#LTCI, Télécom-Paris, Institut Polytechnique de Paris
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#591
+FinalPaperTitle#=%=#An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Samuel Mensah
+JobTitle#==#
+Organization#==#
+Abstract#==#Target-oriented opinion words extraction (TOWE) (Fan et al., 2019b) is a new subtask of target-oriented sentiment analysis that aims to extract opinion words for a given aspect in text. Current state-of-the-art methods leverage position embeddings to capture the relative position of a word to the target. However, the performance of these methods depends on the ability to incorporate this information into word representations. In this paper, we explore a variety of text encoders based on pretrained word embeddings or language models that leverage part-of-speech and position embeddings, aiming to examine the actual contribution of each component in TOWE. We also adapt a graph convolutional network (GCN) to enhance word representations by incorporating syntactic information. Our experimental results demonstrate that BiLSTM-based models can effectively encode position information into word representations while using a GCN only achieves marginal gains. Interestingly, our simple methods outperform several state-of-the-art complex neural structures.
+Author{1}{Firstname}#=%=#Samuel
+Author{1}{Lastname}#=%=#Mensah
+Author{1}{Username}#=%=#samensah
+Author{1}{Email}#=%=#s.mensah@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Kai
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#sunkai123456
+Author{2}{Email}#=%=#13061148@buaa.edu.cn
+Author{2}{Affiliation}#=%=#Beihang University
+Author{3}{Firstname}#=%=#Nikolaos
+Author{3}{Lastname}#=%=#Aletras
+Author{3}{Username}#=%=#aletras
+Author{3}{Email}#=%=#nikos.aletras@gmail.com
+Author{3}{Affiliation}#=%=#University of Sheffield
+
+==========

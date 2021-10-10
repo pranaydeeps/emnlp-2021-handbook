@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#1579
+FinalPaperTitle#=%=#Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#DEEPAK GUPTA
+JobTitle#==#
+Organization#==#
+Abstract#==#Pre-trained language-vision models have
+shown remarkable performance on the visual
+question answering (VQA) task. However,
+most pre-trained models are trained by only
+considering monolingual learning, especially
+the resource-rich language like English.
+Training such models for multilingual setups demand high computing resources and
+multilingual language-vision dataset which
+hinders their application in practice. To
+alleviate these challenges, we propose a
+knowledge distillation approach to extend
+an English language-vision model (teacher)
+into an equally effective multilingual and
+code-mixed model (student). Unlike the existing knowledge distillation methods, which
+only use the output from the last layer of the
+teacher network for distillation, our student
+model learns and imitates the teacher from
+multiple intermediate layers (language and
+vision encoders) with appropriately designed
+distillation objectives for incremental knowledge extraction. We also create the large-scale
+multilingual and code-mixed VQA dataset in
+eleven different language setups considering
+the multiple Indian and European languages.
+Experimental results and in-depth analysis
+show the effectiveness of the proposed VQA
+model over the pre-trained language-vision
+models on eleven diverse language setups.
+Author{1}{Firstname}#=%=#Humair
+Author{1}{Lastname}#=%=#Raj Khan
+Author{1}{Username}#=%=#khumairraj
+Author{1}{Email}#=%=#hkhan@bt.iitr.ac.in
+Author{1}{Affiliation}#=%=#Indian Institute of Technology, Patna
+Author{2}{Firstname}#=%=#Deepak
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Username}#=%=#deepak1357
+Author{2}{Email}#=%=#deepak.gupta651@gmail.com
+Author{2}{Affiliation}#=%=#National Library of Medicine, NIH
+Author{3}{Firstname}#=%=#Asif
+Author{3}{Lastname}#=%=#Ekbal
+Author{3}{Username}#=%=#asifiitpatna
+Author{3}{Email}#=%=#asif.ekbal@gmail.com
+Author{3}{Affiliation}#=%=#IIT Patna
+
+==========

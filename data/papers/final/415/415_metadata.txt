@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#415
+FinalPaperTitle#=%=#Adversarial Mixing Policy for Relaxing Locally Linear Constraints in Mixup
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Liu Guang
+JobTitle#==#
+Organization#==#
+Abstract#==#Mixup is a recent regularizer for current deep classification networks. Through training a neural network on convex combinations of pairs of examples and their labels, it imposes locally linear constraints on the model’s input space. However, such strict linear constraints often lead to under-fitting which degrades the effects of regularization. Noticeably, this issue is getting more serious when the resource is extremely limited. To address these issues, we propose the Adversarial Mixing Policy (AMP), organized in a ``min-max-rand'' formulation, to relax the Locally Linear Constraints in Mixup. Specifically, AMP adds a small adversarial perturbation to the mixing coefficients rather than the examples. Thus, slight non-linearity is injected in-between the synthetic examples and synthetic labels. By training on these data, the deep networks are further regularized, and thus achieve a lower predictive error rate. Experiments on five text classification benchmarks and five backbone models have empirically shown that our methods reduce the error rate over Mixup variants in a significant margin (up to 31.3%), especially in low-resource conditions (up to 17.5%).
+Author{1}{Firstname}#=%=#Guang
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#marscrazy_90
+Author{1}{Email}#=%=#liuguang230@pingan.com.cn
+Author{1}{Affiliation}#=%=#PingAn Life Insurance of China
+Author{2}{Firstname}#=%=#yuzhao
+Author{2}{Lastname}#=%=#mao
+Author{2}{Username}#=%=#maoyuzhao
+Author{2}{Email}#=%=#maoyuzhao@126.com
+Author{2}{Affiliation}#=%=#Pingan Life Insurance of China
+Author{3}{Firstname}#=%=#Huang
+Author{3}{Lastname}#=%=#Hailong
+Author{3}{Email}#=%=#huanghailong590@pingan.com.cn
+Author{3}{Affiliation}#=%=#Pingan Life Insurance of China
+Author{4}{Firstname}#=%=#Gao
+Author{4}{Lastname}#=%=#Weiguo
+Author{4}{Email}#=%=#gaoweiguo801@pingan.com.cn
+Author{4}{Affiliation}#=%=#Pingan Life Insurance of China
+Author{5}{Firstname}#=%=#Li
+Author{5}{Lastname}#=%=#Xuan
+Author{5}{Email}#=%=#Lixuan208@pingan.com.cn
+Author{5}{Affiliation}#=%=#Pingan Life Insurance of China
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2245
+FinalPaperTitle#=%=#BARThez: a Skilled Pretrained French Sequence-to-Sequence Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#22
+CopyrightSigned#=%=#Moussa Kamal Eddine
+JobTitle#==#
+Organization#==#
+Abstract#==#Inductive transfer learning has taken the entire NLP field by storm, with models such as BERT and BART setting new state of the art on countless NLU tasks. However, most of the available models and research have been conducted for English. In this work, we introduce BARThez, the first large-scale pretrained seq2seq model for French. Being based on BART, BARThez is particularly well-suited for generative tasks. We evaluate BARThez on five discriminative tasks from the FLUE benchmark and two generative tasks from a novel summarization dataset, OrangeSum, that we created for this research. We show BARThez to be very competitive with state-of-the-art BERT-based French language models such as CamemBERT and FlauBERT. We also continue the pretraining of a multilingual BART on BARThez' corpus, and show our resulting model, mBARThez, to significantly boost BARThez' generative performance.
+Author{1}{Firstname}#=%=#Moussa
+Author{1}{Lastname}#=%=#Kamal Eddine
+Author{1}{Username}#=%=#moussakam
+Author{1}{Email}#=%=#moussa.kamal-eddine@polytechnique.edu
+Author{1}{Affiliation}#=%=#École polytechnique
+Author{2}{Firstname}#=%=#Antoine
+Author{2}{Lastname}#=%=#Tixier
+Author{2}{Username}#=%=#tixierae
+Author{2}{Email}#=%=#antoine.tixier-1@colorado.edu
+Author{2}{Affiliation}#=%=#Ecole Polytechnique, Palaiseau, France
+Author{3}{Firstname}#=%=#Michalis
+Author{3}{Lastname}#=%=#Vazirgiannis
+Author{3}{Username}#=%=#mvazirg
+Author{3}{Email}#=%=#mvazirg@lix.polytechnique.fr
+Author{3}{Affiliation}#=%=#Ecole Polytechnique
+
+==========

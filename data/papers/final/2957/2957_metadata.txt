@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2957
+FinalPaperTitle#=%=#An animated picture says at least a thousand words: Selecting Gif-based Replies in Multimodal Dialog
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#30
+CopyrightSigned#=%=#Xingyao Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Online conversations include more than just text. Increasingly, image-based responses such as memes and animated gifs serve as culturally recognized and often humorous responses in conversation. However, while NLP has broadened to multimodal models, conversational dialog systems have largely focused only on generating text replies. Here, we introduce a new dataset of 1.56M text-gif conversation turns and introduce a new multimodal conversational model Pepe the King Prawn for selecting gif-based replies. We demonstrate that our model produces relevant and high-quality gif responses and, in a large randomized control trial of multiple models replying to real users, we show that our model replies with gifs that are significantly better received by the community.
+Author{1}{Firstname}#=%=#Xingyao
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#xingyaow
+Author{1}{Email}#=%=#xingyaow@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Jurgens
+Author{2}{Username}#=%=#davidjurgens
+Author{2}{Email}#=%=#jurgens@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+
+==========

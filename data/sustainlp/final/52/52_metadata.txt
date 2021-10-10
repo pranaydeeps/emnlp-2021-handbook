@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#52
+FinalPaperTitle#=%=#Unsupervised Contextualized Document Representation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ankur Gupta
+JobTitle#==#
+Organization#==#
+Abstract#==#Several NLP  tasks  need  the  effective  repre-sentation  of  text  documents.Arora  et  al.,2017  demonstrate  that  simple  weighted  aver-aging of word vectors frequently outperformsneural  models.   SCDV  (Mekala  et  al.,  2017)further  extends  this  from  sentences  to  docu-ments  by  employing  soft  and  sparse  cluster-ing  over  pre-computed  word  vectors.    How-ever,   both  techniques  ignore  the  polysemyand  contextual  character  of  words.In  thispaper,   we  address  this  issue  by  proposingSCDV+BERT(ctxd), a simple and effective un-supervised  representation  that  combines  con-textualized BERT (Devlin et al., 2019) basedword  embedding  for  word  sense  disambigua-tion with SCDV soft clustering approach.  Weshow  that  our  embeddings  outperform  origi-nal SCDV, pre-train BERT, and several otherbaselines on many classification datasets.  Wealso  demonstrate  our  embeddings  effective-ness  on  other  tasks,  such  as  concept  match-ing   and   sentence   similarity.In   addition,we show that SCDV+BERT(ctxd) outperformsfine-tune  BERT  and  different  embedding  ap-proaches  in  scenarios  with  limited  data  andonly few shots examples.
+Author{1}{Firstname}#=%=#Ankur
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Username}#=%=#ankugupt
+Author{1}{Email}#=%=#ankugupt@iitk.ac.in
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Kanpur
+Author{2}{Firstname}#=%=#Vivek
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Username}#=%=#vgupta
+Author{2}{Email}#=%=#keviv9@gmail.com
+Author{2}{Affiliation}#=%=#School of Computing, University of Utah
+
+==========

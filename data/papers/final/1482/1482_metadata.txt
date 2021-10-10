@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1482
+FinalPaperTitle#=%=#HypoGen: Hyperbole Generation with Commonsense and Counterfactual Knowledge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yufei Tian
+JobTitle#==#
+Organization#==#
+Abstract#==#A hyperbole is an intentional and creative exaggeration not to be taken literally. Despite its ubiquity in daily life, the computational explorations of hyperboles are scarce. In this paper, we tackle the under-explored and challenging task: sentence-level hyperbole generation. 
+We start with a representative syntactic pattern for intensification and systematically study the semantic (commonsense and counterfactual) relationships between each component in such hyperboles. We then leverage commonsense and counterfactual inference to generate hyperbole candidates based on our findings from the pattern, and train neural classifiers to rank and select high-quality hyperboles. 
+Automatic and human evaluations show that our generation method is able to generate hyperboles with high success rate, intensity, funniness, and creativity.
+Author{1}{Firstname}#=%=#Yufei
+Author{1}{Lastname}#=%=#Tian
+Author{1}{Username}#=%=#ninatian
+Author{1}{Email}#=%=#yufeit@ucla.edu
+Author{1}{Affiliation}#=%=#UCLA
+Author{2}{Firstname}#=%=#Arvind krishna
+Author{2}{Lastname}#=%=#Sridhar
+Author{2}{Username}#=%=#arvindkrishna
+Author{2}{Email}#=%=#arvindkrishna97@g.ucla.edu
+Author{2}{Affiliation}#=%=#University of California, Los Angeles
+Author{3}{Firstname}#=%=#Nanyun
+Author{3}{Lastname}#=%=#Peng
+Author{3}{Username}#=%=#npeng
+Author{3}{Email}#=%=#violetpeng@cs.ucla.edu
+Author{3}{Affiliation}#=%=#University of California, Los Angeles
+
+==========

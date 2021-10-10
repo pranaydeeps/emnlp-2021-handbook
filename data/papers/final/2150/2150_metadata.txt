@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2150
+FinalPaperTitle#=%=#DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Zeming Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we provide a bilingual parallel human-to-human recommendation dialog dataset (DuRecDial 2.0) to enable researchers to explore a challenging task of multilingual and cross-lingual conversational recommendation. The difference between DuRecDial 2.0 and existing conversational recommendation datasets is that the data item (Profile, Goal, Knowledge, Context, Response) in DuRecDial 2.0 is annotated in two languages, both English and Chinese, while other datasets are built with the setting of a single language. We collect 8.2k dialogs aligned across English and Chinese languages (16.5k dialogs and 255k utterances in total) that are annotated by crowdsourced workers with strict quality control procedure. We then build monolingual, multilingual, and cross-lingual conversational recommendation baselines on DuRecDial 2.0. Experiment results show that the use of additional English data can bring performance improvement for Chinese conversational recommendation, indicating the benefits of DuRecDial 2.0. Finally, this dataset provides a challenging testbed for future studies of monolingual, multilingual, and cross-lingual conversational recommendation.
+Author{1}{Firstname}#=%=#Zeming
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#cstghitpku
+Author{1}{Email}#=%=#cstghitpku@yeah.net
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Haifeng
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wanghaifeng
+Author{2}{Email}#=%=#wanghaifeng@baidu.com
+Author{2}{Affiliation}#=%=#Baidu
+Author{3}{Firstname}#=%=#Zheng-Yu
+Author{3}{Lastname}#=%=#Niu
+Author{3}{Username}#=%=#niuzhengyu
+Author{3}{Email}#=%=#niuzhengyu@baidu.com
+Author{3}{Affiliation}#=%=#Baidu Inc.
+Author{4}{Firstname}#=%=#Hua
+Author{4}{Lastname}#=%=#Wu
+Author{4}{Username}#=%=#wu_hua
+Author{4}{Email}#=%=#wu_hua@baidu.com
+Author{4}{Affiliation}#=%=#Baidu
+Author{5}{Firstname}#=%=#Wanxiang
+Author{5}{Lastname}#=%=#Che
+Author{5}{Username}#=%=#wanxiang
+Author{5}{Email}#=%=#wanxiang@gmail.com
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

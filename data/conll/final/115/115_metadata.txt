@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#115
+FinalPaperTitle#=%=#Imposing Relation Structure in Language-Model Embeddings Using Contrastive Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Christos Theodoropoulos
+JobTitle#==#Ph.D. Researcher
+Organization#==#KU Leuven, Celestijnenlaan 200A, 3001 Leuven
+Abstract#==#Though language model text embeddings have revolutionized NLP research, their ability to capture high-level semantic information, such as relations between entities in text, is limited. In this paper, we propose a novel contrastive learning framework that trains sentence embeddings to encode the relations in a graph structure. Given a sentence (unstructured text) and its graph, we use contrastive learning to impose relation-related structure on the token level representations of the sentence obtained with a CharacterBERT (El Boukkouri et al., 2020) model. The resulting relation-aware sentence embeddings achieve state-of-the-art results on the relation extraction task using only a simple KNN classifier, thereby demonstrating the success of the proposed method. Additional visualization by a tSNE analysis shows the effectiveness of the learned representation space compared to baselines. Furthermore, we show that we can learn a different space for named entity recognition, again using a contrastive learning objective, and demonstrate how to successfully combine both representation spaces in an entity-relation task.
+Author{1}{Firstname}#=%=#Christos
+Author{1}{Lastname}#=%=#Theodoropoulos
+Author{1}{Username}#=%=#christos42
+Author{1}{Email}#=%=#christos.theodoropoulos@kuleuven.be
+Author{1}{Affiliation}#=%=#KU Leuven
+Author{2}{Firstname}#=%=#James
+Author{2}{Lastname}#=%=#Henderson
+Author{2}{Email}#=%=#james.henderson@idiap.ch
+Author{2}{Affiliation}#=%=#Idiap Research Institute
+Author{3}{Firstname}#=%=#Andrei Catalin
+Author{3}{Lastname}#=%=#Coman
+Author{3}{Email}#=%=#andrei.coman@idiap.ch
+Author{3}{Affiliation}#=%=#Idiap Research Institute / EPFL
+Author{4}{Firstname}#=%=#Marie-Francine
+Author{4}{Lastname}#=%=#Moens
+Author{4}{Email}#=%=#sien.moens@kuleuven.be
+Author{4}{Affiliation}#=%=#KU Leuven
+
+==========

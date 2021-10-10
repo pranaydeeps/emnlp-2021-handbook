@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#4641
+FinalPaperTitle#=%=#Knowledge Graph Representation Learning using Ordinary Differential Equations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Mojtaba Nayyeri
+JobTitle#==#PhD student
+Organization#==#
+Abstract#==#Knowledge Graph Embeddings (KGEs) have shown promising performance on link prediction tasks by mapping the entities and relations from a knowledge graph into a geometric space.
+The capability of KGEs in preserving graph characteristics including structural aspects and semantics, highly depends on the design of their score function, as well as the inherited abilities from the underlying geometry. Many KGEs use the Euclidean geometry which renders them incapable of preserving complex structures and consequently causes wrong inferences by the models. To address this problem, we propose a neuro differential KGE that embeds nodes of a KG on the trajectories of Ordinary Differential Equations (ODEs). To this end, we represent each relation (edge) in a KG as a vector field on several manifolds. We specifically parameterize ODEs by a neural network to represent complex manifolds and complex vector fields on the manifolds. Therefore, the underlying embedding space is capable to assume the shape of various geometric forms to encode heterogeneous subgraphs. Experiments on synthetic and benchmark datasets using state-of-the-art KGE models justify the ODE trajectories as a means to enable structure preservation and consequently avoiding wrong inferences.
+Author{1}{Firstname}#=%=#Mojtaba
+Author{1}{Lastname}#=%=#Nayyeri
+Author{1}{Username}#=%=#mojtabanayyeri
+Author{1}{Email}#=%=#nayyeri@iai.uni-bonn.de
+Author{1}{Affiliation}#=%=#University Of Bonn
+Author{2}{Firstname}#=%=#Chengjin
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Username}#=%=#chengjinxu
+Author{2}{Email}#=%=#xuc@iai.uni-bonn.de
+Author{2}{Affiliation}#=%=#University of Bonn
+Author{3}{Firstname}#=%=#Franca
+Author{3}{Lastname}#=%=#Hoffmann
+Author{3}{Email}#=%=#franca.hoffmann@hcm.uni-bonn.de
+Author{3}{Affiliation}#=%=#University Of Bonn
+Author{4}{Firstname}#=%=#Mirza Mohtashim
+Author{4}{Lastname}#=%=#Alam
+Author{4}{Username}#=%=#mirza_mohtashim
+Author{4}{Email}#=%=#mohtasim@infai.org
+Author{4}{Affiliation}#=%=#PhD student
+Author{5}{Firstname}#=%=#Jens
+Author{5}{Lastname}#=%=#Lehmann
+Author{5}{Username}#=%=#lehmann
+Author{5}{Email}#=%=#jens.lehmann@cs.uni-bonn.de
+Author{5}{Affiliation}#=%=#University of Bonn and Fraunhofer IAIS
+Author{6}{Firstname}#=%=#sahar
+Author{6}{Lastname}#=%=#vahdati
+Author{6}{Username}#=%=#vahdati
+Author{6}{Email}#=%=#vahdati@infai.org
+Author{6}{Affiliation}#=%=#InfAI
+
+==========

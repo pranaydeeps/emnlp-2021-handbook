@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#60
+FinalPaperTitle#=%=#Using Pause Information for More Accurate Entity Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Joel Ruben Antony Moniz
+JobTitle#==#
+Organization#==#
+Abstract#==#Entity tags in human-machine dialog are integral to natural language understanding (NLU) tasks in conversational assistants. However, current systems struggle to accurately parse spoken queries with the typical use of text input alone, and often fail to understand the user intent. Previous work in linguistics has identified a cross-language tendency for longer speech pauses surrounding nouns as compared to verbs. We demonstrate that the linguistic observation on pauses can be used to improve accuracy in machine-learnt language understanding tasks. Analysis of pauses in French and English utterances from a commercial voice
+ assistant shows the statistically significant difference in pause duration around multi-token entity span boundaries compared to within entity spans. Additionally, in contrast to text-based NLU, we apply pause duration to enrich contextual embeddings to improve shallow parsing of entities. Results show that our proposed novel embeddings improve the relative error rate by up to 8% consistently across three domains for French, without any added annotation or alignment costs to the parser.
+Author{1}{Firstname}#=%=#Sahas
+Author{1}{Lastname}#=%=#Dendukuri
+Author{1}{Email}#=%=#sahasd@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Pooja
+Author{2}{Lastname}#=%=#Chitkara
+Author{2}{Username}#=%=#chitkarapooja
+Author{2}{Email}#=%=#chitkarapooja@yahoo.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Joel Ruben Antony
+Author{3}{Lastname}#=%=#Moniz
+Author{3}{Username}#=%=#joelmoniz_apple
+Author{3}{Email}#=%=#joelrubenantony_moniz@apple.com
+Author{3}{Affiliation}#=%=#Apple
+Author{4}{Firstname}#=%=#Xiao
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Email}#=%=#graceyx.scut@gmail.com
+Author{4}{Affiliation}#=%=#Facebook
+Author{5}{Firstname}#=%=#Manos
+Author{5}{Lastname}#=%=#Tsagkias
+Author{5}{Username}#=%=#e.tsagkias
+Author{5}{Email}#=%=#e.tsagkias@uva.nl
+Author{5}{Affiliation}#=%=#University of Amsterdam
+Author{6}{Firstname}#=%=#Stephen
+Author{6}{Lastname}#=%=#Pulman
+Author{6}{Username}#=%=#sgpulman
+Author{6}{Email}#=%=#spulman@apple.com
+Author{6}{Affiliation}#=%=#Apple Inc.
+
+==========

@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#100
+FinalPaperTitle#=%=#BERT Has Uncommon Sense: Similarity Ranking for Word Sense BERTology
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Luke Gessler
+JobTitle#==#
+Organization#==#Georgetown University
+3700 O St NW, Washington, DC 20057
+Abstract#==#An important question concerning contextualized word embedding (CWE) models like BERT is how well they can represent different word senses, especially those in the long tail of uncommon senses. Rather than build a WSD system as in previous work, we investigate contextualized embedding neighborhoods directly, formulating a query-by-example nearest neighbor retrieval task and examining ranking performance for words and senses in different frequency bands. In an evaluation on two English sense-annotated corpora, we find that several popular CWE models all outperform a random baseline even for proportionally rare senses, without explicit sense supervision. However, performance varies considerably even among models with similar architectures and pretraining regimes, with especially large differences for rare word senses, revealing that CWE models are not all created equal when it comes to approximating word senses in their native representations.
+Author{1}{Firstname}#=%=#Luke
+Author{1}{Lastname}#=%=#Gessler
+Author{1}{Username}#=%=#lgessler
+Author{1}{Email}#=%=#lukegessler@gmail.com
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Nathan
+Author{2}{Lastname}#=%=#Schneider
+Author{2}{Username}#=%=#nschneid
+Author{2}{Email}#=%=#nathan.schneider@georgetown.edu
+Author{2}{Affiliation}#=%=#Georgetown University
+
+==========

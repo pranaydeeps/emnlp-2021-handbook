@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2725
+FinalPaperTitle#=%=#{I}mportance {E}stimation from {M}ultiple {P}erspectives for {K}eyphrase {E}xtraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Mingyang Song
+JobTitle#==#Student
+Organization#==#Beijing Jiaotong University
+Abstract#==#Keyphrase extraction is a fundamental task in Natural Language Processing, which usually contains two main parts: candidate keyphrase extraction and keyphrase importance estimation. From the view of human understanding documents, we typically measure the importance of phrase according to its syntactic accuracy, information saliency, and concept consistency simultaneously. However, most existing keyphrase extraction approaches only focus on the part of them, which leads to biased results. In this paper, we propose a new approach to estimate the importance of keyphrase from multiple perspectives (called as \textit{KIEMP}) and further improve the performance of keyphrase extraction. Specifically, \textit{KIEMP} estimates the importance of phrase with three modules: a chunking module to measure its syntactic accuracy, a ranking module to check its information saliency, and a matching module to judge the concept (i.e., topic) consistency between phrase and the whole document. These three modules are seamlessly jointed together via an end-to-end multi-task learning model, which is helpful for three parts to enhance each other and balance the effects of three perspectives. Experimental results on six benchmark datasets show that \textit{KIEMP} outperforms the existing state-of-the-art keyphrase extraction approaches in most cases.
+Author{1}{Firstname}#=%=#Mingyang
+Author{1}{Lastname}#=%=#Song
+Author{1}{Username}#=%=#songmingyang
+Author{1}{Email}#=%=#mingyang.song@bjtu.edu.cn
+Author{1}{Affiliation}#=%=#Beijing Jiaotong University
+Author{2}{Firstname}#=%=#Liping
+Author{2}{Lastname}#=%=#Jing
+Author{2}{Username}#=%=#lpjing
+Author{2}{Email}#=%=#lpjing@bjtu.edu.cn
+Author{2}{Affiliation}#=%=#Beijing Jiaotong Univesity
+Author{3}{Firstname}#=%=#Lin
+Author{3}{Lastname}#=%=#Xiao
+Author{3}{Username}#=%=#xiaolin1207
+Author{3}{Email}#=%=#17112079@bjtu.edu.cn
+Author{3}{Affiliation}#=%=#Beijing Jiaotong University
+
+==========

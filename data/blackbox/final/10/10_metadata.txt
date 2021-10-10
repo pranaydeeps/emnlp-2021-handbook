@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Discrete representations in neural models of spoken language
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Bertrand Higy
+JobTitle#==#
+Organization#==#Tilburg University
+Warandelaan 2
+5037 AB Tilburg
+Abstract#==#The distributed and continuous representations used by neural networks are at odds with representations employed in linguistics, which are typically symbolic. Vector quantization has been proposed as a way to induce discrete neural representations that are closer in nature to their linguistic counterparts. However, it is not clear which metrics are the best-suited to analyze such discrete representations. We compare the merits of four commonly used metrics in the context of weakly supervised models of spoken language.  We compare the results they show when applied to two different models, while systematically studying the effect of the placement and size of the discretization layer.  We find that different evaluation regimes can give inconsistent results. While we can attribute them to the properties of the different metrics in most cases, one point of concern remains: the use of minimal pairs of phoneme triples as stimuli disadvantages larger discrete unit inventories, unlike metrics applied to complete utterances. Furthermore, while in general vector quantization induces representations that correlate with units posited in linguistics, the strength of this correlation is only moderate.
+Author{1}{Firstname}#=%=#Bertrand
+Author{1}{Lastname}#=%=#Higy
+Author{1}{Username}#=%=#bhigy
+Author{1}{Email}#=%=#b.j.r.higy@tilburguniversity.edu
+Author{1}{Affiliation}#=%=#Tilburg University
+Author{2}{Firstname}#=%=#Lieke
+Author{2}{Lastname}#=%=#Gelderloos
+Author{2}{Username}#=%=#lgelderloos
+Author{2}{Email}#=%=#l.j.gelderloos@uvt.nl
+Author{2}{Affiliation}#=%=#Tilburg University
+Author{3}{Firstname}#=%=#Afra
+Author{3}{Lastname}#=%=#Alishahi
+Author{3}{Username}#=%=#a.alishahi
+Author{3}{Email}#=%=#A.Alishahi@uvt.nl
+Author{3}{Affiliation}#=%=#Tilburg University
+Author{4}{Firstname}#=%=#Grzegorz
+Author{4}{Lastname}#=%=#Chrupała
+Author{4}{Username}#=%=#gchrupala
+Author{4}{Email}#=%=#grzegorz@chrupala.me
+Author{4}{Affiliation}#=%=#Tilburg University
+
+==========

@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1307
+FinalPaperTitle#=%=#Diagnosing the First-Order Logical Reasoning Ability Through LogicNLI
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jidong Tian
+JobTitle#==#
+Organization#==#Jidong Tian
+MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University.
+Abstract#==#Recently, language models (LMs) have achieved significant performance on many NLU tasks, which has spurred widespread interest for their possible applications in the scientific and social area. However, LMs have faced much criticism of whether they are truly capable of reasoning in NLU. In this work, we propose a diagnostic method for first-order logic (FOL) reasoning with a new proposed benchmark, LogicNLI. LogicNLI is an NLI-style dataset that effectively disentangles the target FOL reasoning from commonsense inference and can be used to diagnose LMs from four perspectives: accuracy, robustness, generalization, and interpretability. Experiments on BERT, RoBERTa, and XLNet, have uncovered the weaknesses of these LMs on FOL reasoning, which motivates future exploration to enhance the reasoning ability.
+Author{1}{Firstname}#=%=#Jidong
+Author{1}{Lastname}#=%=#Tian
+Author{1}{Username}#=%=#jiang.tian
+Author{1}{Email}#=%=#frank92@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#State Key Lab of Advanced Optical Communication System and Network, Shanghai Jiao Tong University; Artificial Intelligence Institute, Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Yitian
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#liyitian
+Author{2}{Email}#=%=#yitian_li@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Wenqing
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#wenqingchen
+Author{3}{Email}#=%=#wenqingchen@sjtu.edu.cn
+Author{3}{Affiliation}#=%=#State Key Lab of Advanced Optical Communication System and Network, Shanghai Jiao Tong University;Artificial Intelligence Institute, Shanghai Jiao Tong University
+Author{4}{Firstname}#=%=#Liqiang
+Author{4}{Lastname}#=%=#Xiao
+Author{4}{Username}#=%=#liqiangxiao
+Author{4}{Email}#=%=#xiaoliqiang@sjtu.edu.cn
+Author{4}{Affiliation}#=%=#Artificial Intelligence Institute, Shanghai Jiao Tong University
+Author{5}{Firstname}#=%=#Hao
+Author{5}{Lastname}#=%=#He
+Author{5}{Username}#=%=#hehao
+Author{5}{Email}#=%=#hehao@sjtu.edu.cn
+Author{5}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{6}{Firstname}#=%=#Yaohui
+Author{6}{Lastname}#=%=#Jin
+Author{6}{Username}#=%=#jinyh
+Author{6}{Email}#=%=#jinyh@sjtu.edu.cn
+Author{6}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

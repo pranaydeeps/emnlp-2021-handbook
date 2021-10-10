@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1862
+FinalPaperTitle#=%=#Compositional Data and Task Augmentation for Instruction Following
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#SOHAM DAN
+JobTitle#==#
+Organization#==#University of Pennsylvania
+Abstract#==#Executing natural language instructions in a physically grounded domain requires a model that understands both spatial concepts such as "left of" and "above", and the compositional language used to identify landmarks and articulate instructions relative to them. In this paper, we study instruction understanding in the blocks world domain. Given an initial arrangement of blocks and a natural language instruction, the system executes the instruction by manipulating selected blocks. The highly compositional instructions are composed of atomic components and understanding these components is a necessary step to executing the instruction. We show that while end-to-end training (supervised only by the correct block location) fails to address the challenges of this task and performs poorly on instructions involving a single atomic component, knowledge-free auxiliary signals can be used to significantly improve performance by providing supervision for the instruction's components. Specifically, we generate signals that aim at helping the model gradually understand components of the compositional instructions, as well as those that help it better understand spatial concepts, and show their benefit to the overall task for two datasets and two state-of-the-art (SOTA) models, especially when the training data is limited---which is usual in such tasks.
+Author{1}{Firstname}#=%=#Soham
+Author{1}{Lastname}#=%=#Dan
+Author{1}{Username}#=%=#sdan
+Author{1}{Email}#=%=#sohamdan@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Xinran
+Author{2}{Lastname}#=%=#Han
+Author{2}{Username}#=%=#xinranhan
+Author{2}{Email}#=%=#hanxr3@gmail.com
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Roth
+Author{3}{Username}#=%=#danr
+Author{3}{Email}#=%=#danroth@seas.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2432
+FinalPaperTitle#=%=#Biomedical Concept Normalization by Leveraging Hypernyms
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Cheng Yan
+JobTitle#==#
+Organization#==#National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
+Abstract#==#Biomedical Concept Normalization (BCN) is widely used in biomedical text processing as a fundamental module. Owing to numerous surface variants of biomedical concepts, BCN still remains challenging and unsolved. In this paper, we exploit biomedical concept hypernyms to facilitate BCN. We propose Biomedical Concept Normalizer with Hypernyms (BCNH), a novel framework that adopts list-wise training to make use of both hypernyms and synonyms, and also employs norm constraint on the representation of hypernym-hyponym entity pairs. The experimental results show that BCNH outperforms the previous state-of-the-art model on the NCBI dataset.
+Author{1}{Firstname}#=%=#Cheng
+Author{1}{Lastname}#=%=#Yan
+Author{1}{Username}#=%=#yancheng
+Author{1}{Email}#=%=#cheng.yan@nlpr.ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Yuanzhe
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#yzzhang
+Author{2}{Email}#=%=#yzzhang@nlpr.ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Kang
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#micalkang
+Author{3}{Email}#=%=#kliu@nlpr.ia.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Jun
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Username}#=%=#jzhao
+Author{4}{Email}#=%=#jzhao@nlpr.ia.ac.cn
+Author{4}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Yafei
+Author{5}{Lastname}#=%=#Shi
+Author{5}{Username}#=%=#shiguang002
+Author{5}{Email}#=%=#shiyafei@unisound.com
+Author{5}{Affiliation}#=%=#Unisound AI Labs
+Author{6}{Firstname}#=%=#Shengping
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#liushengping
+Author{6}{Email}#=%=#liushengping@unisound.com
+Author{6}{Affiliation}#=%=#Unisound AI Labs
+
+==========

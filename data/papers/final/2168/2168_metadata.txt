@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2168
+FinalPaperTitle#=%=#Robustness Evaluation of Entity Disambiguation Using Prior Probes: the Case of Entity Overshadowing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Vera Provatorova
+JobTitle#==#
+Organization#==#University of Amsterdam
+1012 WX Amsterdam, The Netherlands
+Abstract#==#Entity disambiguation (ED) is the last step of entity linking (EL), when candidate entities are reranked according to the context they appear in. All datasets for training and evaluating models for EL consist of convenience samples, such as news articles and tweets, that propagate the prior probability bias of the entity distribution towards more frequently occurring entities.  It was shown that the performance of the EL systems on such datasets is overestimated since it is possible to obtain higher accuracy scores by merely learning the prior. To provide a more adequate evaluation benchmark, we introduce the ShadowLink dataset, which includes 16K short text snippets annotated with entity mentions. We evaluate and report the performance of popular EL systems on the ShadowLink benchmark. The results show a considerable difference in accuracy between more and less common entities for all of the EL systems under evaluation, demonstrating the effect of prior probability bias and entity overshadowing.
+Author{1}{Firstname}#=%=#Vera
+Author{1}{Lastname}#=%=#Provatorova
+Author{1}{Username}#=%=#vera_pro
+Author{1}{Email}#=%=#v.provatorova@uva.nl
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Samarth
+Author{2}{Lastname}#=%=#Bhargav
+Author{2}{Username}#=%=#samarthbhargav
+Author{2}{Email}#=%=#samarth.bhargav92@gmail.com
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Svitlana
+Author{3}{Lastname}#=%=#Vakulenko
+Author{3}{Username}#=%=#vendi
+Author{3}{Email}#=%=#s.vakulenko@uva.nl
+Author{3}{Affiliation}#=%=#University of Amsterdam
+Author{4}{Firstname}#=%=#Evangelos
+Author{4}{Lastname}#=%=#Kanoulas
+Author{4}{Username}#=%=#ekanou
+Author{4}{Email}#=%=#ekanoulas@gmail.com
+Author{4}{Affiliation}#=%=#University of Amsterdam
+
+==========

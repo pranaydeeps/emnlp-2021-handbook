@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2730
+FinalPaperTitle#=%=#Balancing Methods for Multi-label Text Classification with Long-Tailed Class Distribution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Abdullatif Köksal
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-label text classification is a challenging task because it requires capturing label dependencies. It becomes even more challenging when class distribution is long-tailed. Resampling and re-weighting are common approaches used for addressing the class imbalance problem, however, they are not effective when there is label dependency besides class imbalance because they result in oversampling of common labels. Here, we introduce the application of balancing loss functions for multi-label text classification. We perform experiments on a general domain dataset with 90 labels (Reuters-21578) and a domain-specific dataset from PubMed with 18211 labels. We find that a distribution-balanced loss function, which inherently addresses both the class imbalance and label linkage problems, outperforms commonly used loss functions. Distribution balancing methods have been successfully used in the image recognition field. Here, we show their effectiveness in natural language processing. Source code is available at https://github.com/blessu/BalancedLossNLP.
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#blessu
+Author{1}{Email}#=%=#yi.huang.yh4@roche.com
+Author{1}{Affiliation}#=%=#Roche (China) Holding Ltd
+Author{2}{Firstname}#=%=#Buse
+Author{2}{Lastname}#=%=#Giledereli
+Author{2}{Username}#=%=#buse.giledereli
+Author{2}{Email}#=%=#buse.giledereli@roche.com
+Author{2}{Affiliation}#=%=#Roche Müstahzarları Sanayi Anonim Şirketi
+Author{3}{Firstname}#=%=#Abdullatif
+Author{3}{Lastname}#=%=#Köksal
+Author{3}{Username}#=%=#akoksal
+Author{3}{Email}#=%=#abdullatifkoksal@gmail.com
+Author{3}{Affiliation}#=%=#Boğaziçi University
+Author{4}{Firstname}#=%=#Arzucan
+Author{4}{Lastname}#=%=#Özgür
+Author{4}{Username}#=%=#arzucani
+Author{4}{Email}#=%=#arzucan.ozgur@boun.edu.tr
+Author{4}{Affiliation}#=%=#Bogazici University
+Author{5}{Firstname}#=%=#Elif
+Author{5}{Lastname}#=%=#Ozkirimli
+Author{5}{Username}#=%=#elif.ozkirimli
+Author{5}{Email}#=%=#elif.ozkirimli@roche.com
+Author{5}{Affiliation}#=%=#Roche AG Switzerland
+
+==========

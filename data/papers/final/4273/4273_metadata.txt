@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4273
+FinalPaperTitle#=%=#Abstract, Rationale, Stance: A Joint Model for Scientific Claim Verification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jiyi Li
+JobTitle#==#Assistant Professor
+Organization#==#University of Yamanashi, Takeda 4-3-11, Kofu, Yamanashi, 400-8511 Japan
+Abstract#==#Scientific claim verification can help the researchers to easily find the target scientific papers with the sentence evidence from a large corpus for the given claim. Some existing works propose pipeline models on the three tasks of abstract retrieval, rationale selection and stance prediction. Such works have the problems of error propagation among the modules in the pipeline and lack of sharing valuable information among modules. We thus propose an approach, named as ARSJoint, that jointly learns the modules for the three tasks with a machine reading comprehension framework by including claim information. In addition, we enhance the information exchanges and constraints among tasks by proposing a regularization term between the sentence attention scores of abstract retrieval and the estimated outputs of rational selection. The experimental results on the benchmark dataset SciFact show that our approach outperforms the existing works.
+Author{1}{Firstname}#=%=#Zhiwei
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zhiweizhang
+Author{1}{Email}#=%=#hduxiaozhi97@gmail.com
+Author{1}{Affiliation}#=%=#Hangzhou Dianzi University
+Author{2}{Firstname}#=%=#Jiyi
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#garfieldpigljy
+Author{2}{Email}#=%=#jyli@yamanashi.ac.jp
+Author{2}{Affiliation}#=%=#University of Yamanashi
+Author{3}{Firstname}#=%=#Fumiyo
+Author{3}{Lastname}#=%=#Fukumoto
+Author{3}{Username}#=%=#fukumoto
+Author{3}{Email}#=%=#fukumoto@yamanashi.ac.jp
+Author{3}{Affiliation}#=%=#University of Yamanashi
+Author{4}{Firstname}#=%=#Yanming
+Author{4}{Lastname}#=%=#Ye
+Author{4}{Username}#=%=#yeym
+Author{4}{Email}#=%=#yeym@hdu.edu.cn
+Author{4}{Affiliation}#=%=#Hangzhou Dianzi University
+
+==========

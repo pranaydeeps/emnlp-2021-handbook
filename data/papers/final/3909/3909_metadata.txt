@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#3909
+FinalPaperTitle#=%=#Few-Shot Named Entity Recognition: An Empirical Baseline Study
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Jiaxin Huang
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents an empirical study to efficiently build named entity recognition (NER) systems when a small amount of in-domain labeled data is available.
+Based upon recent Transformer-based self-supervised pre-trained language models (PLMs), we investigate three orthogonal schemes to improve model generalization ability in few-shot settings: (1) meta-learning to construct prototypes for different entity types, (2) task-specific supervised pre-training on noisy web data to extract entity-related representations and (3) self-training to leverage unlabeled in-domain data.
+On 10 public NER datasets, we perform extensive empirical comparisons over the proposed schemes and their combinations with various proportions of labeled data, our experiments show that (i)in the few-shot learning setting, the proposed NER schemes significantly improve or outperform the commonly used baseline, a PLM-based linear classifier fine-tuned using domain labels. (ii) We create new state-of-the-art results on both few-shot and training-free settings compared with existing methods.
+Author{1}{Firstname}#=%=#Jiaxin
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#teapot123
+Author{1}{Email}#=%=#jiaxinh3@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois Urbana-Champaign
+Author{2}{Firstname}#=%=#Chunyuan
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#chunyuanli
+Author{2}{Email}#=%=#chunyuan.li@hotmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Krishan
+Author{3}{Lastname}#=%=#Subudhi
+Author{3}{Email}#=%=#krkusuk@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Damien
+Author{4}{Lastname}#=%=#Jose
+Author{4}{Email}#=%=#dajose@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Shobana
+Author{5}{Lastname}#=%=#Balakrishnan
+Author{5}{Email}#=%=#shobanab@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft
+Author{6}{Firstname}#=%=#Weizhu
+Author{6}{Lastname}#=%=#Chen
+Author{6}{Username}#=%=#chenweizhu
+Author{6}{Email}#=%=#wzchen@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft
+Author{7}{Firstname}#=%=#Baolin
+Author{7}{Lastname}#=%=#Peng
+Author{7}{Username}#=%=#blpeng
+Author{7}{Email}#=%=#bapeng@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft Research
+Author{8}{Firstname}#=%=#Jianfeng
+Author{8}{Lastname}#=%=#Gao
+Author{8}{Username}#=%=#jfgao
+Author{8}{Email}#=%=#jfgao@microsoft.com
+Author{8}{Affiliation}#=%=#Microsoft Research, Redmond
+Author{9}{Firstname}#=%=#Jiawei
+Author{9}{Lastname}#=%=#Han
+Author{9}{Username}#=%=#hanj
+Author{9}{Email}#=%=#hanj@illinois.edu
+Author{9}{Affiliation}#=%=#UIUC
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#SPaR.txt, a Cheap Shallow Parsing Approach for Regulatory Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Ruben Kruiper
+JobTitle#==#
+Organization#==#
+Abstract#==#Automated Compliance Checking (ACC) systems aim to semantically parse building regulations to a set of rules. However, semantic parsing is known to be hard and requires large amounts of training data. The complexity of creating such training data has led to research that focuses on small sub-tasks, such as shallow parsing or the extraction of a limited subset of rules. This study introduces a shallow parsing task for which training data is relatively cheap to create, with the aim of learning a lexicon for ACC. We annotate a small domain-specific dataset of 200 sentences, SPaR.txt, and train a sequence tagger that achieves 79,93 F1-score on the test set. We then show through manual evaluation that the model identifies most (89,84%) defined terms in a set of building regulation documents, and that both contiguous and discontiguous Multi-Word Expressions (MWE) are discovered with reasonable accuracy (70,3%).
+Author{1}{Firstname}#=%=#Ruben
+Author{1}{Lastname}#=%=#Kruiper
+Author{1}{Username}#=%=#kruiper
+Author{1}{Email}#=%=#rubenkruiper@gmail.com
+Author{1}{Affiliation}#=%=#Heriot-Watt University
+Author{2}{Firstname}#=%=#Ioannis
+Author{2}{Lastname}#=%=#Konstas
+Author{2}{Username}#=%=#konstas
+Author{2}{Email}#=%=#i.konstas@hw.ac.uk
+Author{2}{Affiliation}#=%=#Heriot-Watt University
+Author{3}{Firstname}#=%=#Alasdair J.G.
+Author{3}{Lastname}#=%=#Gray
+Author{3}{Email}#=%=#A.J.G.Gray@hw.ac.uk
+Author{3}{Affiliation}#=%=#Heriot-Watt University
+Author{4}{Firstname}#=%=#Farhad
+Author{4}{Lastname}#=%=#Sadeghineko
+Author{4}{Email}#=%=#farhad.sadeghineko@northumbria.ac.uk
+Author{4}{Affiliation}#=%=#Northumbria University
+Author{5}{Firstname}#=%=#Richard
+Author{5}{Lastname}#=%=#Watson
+Author{5}{Email}#=%=#richard.watson@northumbria.ac.uk
+Author{5}{Affiliation}#=%=#Northumbria University
+Author{6}{Firstname}#=%=#Bimal
+Author{6}{Lastname}#=%=#Kumar
+Author{6}{Email}#=%=#bimal.kumar@northumbria.ac.uk
+Author{6}{Affiliation}#=%=#Northumbria University
+
+==========

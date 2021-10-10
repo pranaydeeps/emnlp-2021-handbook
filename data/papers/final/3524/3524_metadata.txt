@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3524
+FinalPaperTitle#=%=#From None to Severe: {P}redicting Severity in Movie Scripts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yigeng Zhang
+JobTitle#==#
+Organization#==#University of Houston
+4800 Calhoun Rd, Houston, TX 77004, USA
+Abstract#==#In this paper, we introduce the task of predicting severity of age-restricted aspects of movie content based solely on the dialogue script. We first investigate categorizing the ordinal severity of movies on 5 aspects: Sex, Violence, Profanity, Substance consumption, and Frightening scenes. The problem is handled using a siamese network-based multitask framework which concurrently improves the interpretability of the predictions. The experimental results show that our method outperforms the previous state-of-the-art model and provides useful information to interpret model predictions. The proposed dataset and source code are publicly available at our GitHub repository.
+Author{1}{Firstname}#=%=#Yigeng
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#yigengzhang
+Author{1}{Email}#=%=#yigengzhang@gmail.com
+Author{1}{Affiliation}#=%=#University of Houston
+Author{2}{Firstname}#=%=#Mahsa
+Author{2}{Lastname}#=%=#Shafaei
+Author{2}{Username}#=%=#mshafaei
+Author{2}{Email}#=%=#mshafaei@uh.edu
+Author{2}{Affiliation}#=%=#university of Houston
+Author{3}{Firstname}#=%=#Fabio
+Author{3}{Lastname}#=%=#Gonzalez
+Author{3}{Username}#=%=#fagonzalezo
+Author{3}{Email}#=%=#fagonzalezo@unal.edu.co
+Author{3}{Affiliation}#=%=#Universidad Nacional de Colombia
+Author{4}{Firstname}#=%=#Thamar
+Author{4}{Lastname}#=%=#Solorio
+Author{4}{Username}#=%=#solorio
+Author{4}{Email}#=%=#thamar.solorio@gmail.com
+Author{4}{Affiliation}#=%=#University of Houston
+
+==========

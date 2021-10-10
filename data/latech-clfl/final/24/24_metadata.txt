@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Thomas Schmidt
+JobTitle#==#
+Organization#==#Media Informatics Group, University of Regensburg, D-93040 Regensburg, Germany
+Abstract#==#We present results of a project on  emotion classification on historical German plays of Enlightenment, Storm and Stress, and German Classicism. We have developed a hierarchical annotation scheme consisting of 13 sub-emotions like suffering, love and joy that sum up to 6 main and 2 polarity classes (positive/negative). We have conducted textual annotations on 11 German plays and have acquired over 13,000 emotion annotations by two annotators per play. We have evaluated multiple traditional machine learning approaches as well as transformer-based models pretrained on historical and contemporary language for a single-label text sequence emotion classification for the different emotion categories. The evaluation is carried out on three different instances of the corpus: (1) taking all annotations, (2) filtering overlapping annotations by annotators, (3) applying a heuristic for speech-based analysis. Best results are achieved on the filtered corpus with the best models being large transformer-based models pretrained on contemporary German language. For the polarity classification accuracies of up to 90\% are achieved. The accuracies become lower for settings with a higher number of classes,  achieving 66\% for 13 sub-emotions. Further pretraining of a historical model with a corpus of dramatic texts led to no improvements.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Schmidt
+Author{1}{Username}#=%=#thomas.schmidt.ur
+Author{1}{Email}#=%=#thomas.schmidt@ur.de
+Author{1}{Affiliation}#=%=#Media Informatics Group, University of Regensburg
+Author{2}{Firstname}#=%=#Katrin
+Author{2}{Lastname}#=%=#Dennerlein
+Author{2}{Email}#=%=#katrin.dennerlein@uni-wuerzburg.de
+Author{2}{Affiliation}#=%=#German Literary Studies and Computational Literary Studies, University of Würzburg
+Author{3}{Firstname}#=%=#Christian
+Author{3}{Lastname}#=%=#Wolff
+Author{3}{Username}#=%=#chwolff
+Author{3}{Email}#=%=#christian.wolff@ur.de
+Author{3}{Affiliation}#=%=#University of Regensburg
+
+==========

@@ -1,0 +1,60 @@
+SubmissionNumber#=%=#1648
+FinalPaperTitle#=%=#DyLex: Incoporating Dynamic Lexicons into BERT for Sequence Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Baojun Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Incorporating lexical knowledge into deep learning models has been proved to be very effective for sequence labeling tasks. However, previous works commonly have difficulty dealing with large-scale dynamic lexicons which often cause excessive matching noise and problems of frequent updates. In this paper, we propose DyLex, a plug-in lexicon incorporation approach for BERT based sequence labeling tasks. Instead of leveraging embeddings of words in the lexicon as in conventional methods, we adopt word-agnostic tag embeddings to avoid re-training the representation while updating the lexicon. Moreover, we employ an effective supervised lexical knowledge denoising method to smooth out matching noise. Finally, we introduce a col-wise attention based knowledge fusion mechanism to guarantee the pluggability of the proposed framework. Experiments on ten datasets of three tasks show that the proposed framework achieves new SOTA, even with very large scale lexicons.
+Author{1}{Firstname}#=%=#Baojun
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#puking.w
+Author{1}{Email}#=%=#puking.w@huawei.com
+Author{1}{Affiliation}#=%=#Noah's Ark Lab of Huawei
+Author{2}{Firstname}#=%=#Zhao
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#anozz
+Author{2}{Email}#=%=#zhangzhao54@huawei.com
+Author{2}{Affiliation}#=%=#Huawei Technologies Co., Ltd.
+Author{3}{Firstname}#=%=#Kun
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#kunxu
+Author{3}{Email}#=%=#xukun24@huawei.com
+Author{3}{Affiliation}#=%=#Huawei Technologies Co., Ltd
+Author{4}{Firstname}#=%=#Guang-Yuan
+Author{4}{Lastname}#=%=#Hao
+Author{4}{Username}#=%=#lincoln_freeman
+Author{4}{Email}#=%=#guangyuanhao@outlook.com
+Author{4}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{5}{Firstname}#=%=#Yuyang
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#yuyangzhang
+Author{5}{Email}#=%=#zhangyuyang4@huawei.com
+Author{5}{Affiliation}#=%=#Noah's Ark Lab of Huawei
+Author{6}{Firstname}#=%=#Lifeng
+Author{6}{Lastname}#=%=#Shang
+Author{6}{Username}#=%=#lifengshang
+Author{6}{Email}#=%=#lifengshang@gmail.com
+Author{6}{Affiliation}#=%=#Noah’s Ark Lab Huawei Technologies Co. Ltd. Sha Tin, Hong Kong
+Author{7}{Firstname}#=%=#Linlin
+Author{7}{Lastname}#=%=#Li
+Author{7}{Username}#=%=#ridingwind
+Author{7}{Email}#=%=#lynn.lilinlin@huawei.com
+Author{7}{Affiliation}#=%=#Huawei Technologies Co., Ltd.
+Author{8}{Firstname}#=%=#Xiao
+Author{8}{Lastname}#=%=#Chen
+Author{8}{Username}#=%=#gooorillax
+Author{8}{Email}#=%=#chen.xiao2@huawei.com
+Author{8}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{9}{Firstname}#=%=#Xin
+Author{9}{Lastname}#=%=#Jiang
+Author{9}{Username}#=%=#jxfeb
+Author{9}{Email}#=%=#jiang.xin@huawei.com
+Author{9}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{10}{Firstname}#=%=#Qun
+Author{10}{Lastname}#=%=#Liu
+Author{10}{Username}#=%=#liuqun
+Author{10}{Email}#=%=#qun.liu@huawei.com
+Author{10}{Affiliation}#=%=#Huawei Noah's Ark Lab
+
+==========

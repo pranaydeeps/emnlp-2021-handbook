@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#4622
+FinalPaperTitle#=%=#Synchronous Dual Network with Cross-Type Attention for Joint Entity and Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hui Wu
+JobTitle#==#
+Organization#==#
+Abstract#==#Joint entity and relation extraction is challenging due to the complex interaction of interaction between named entity recognition and relation extraction. Although most existing works tend to jointly train these two tasks through a shared network, they fail to fully utilize the interdependence between entity types and relation types. In this paper, we design a novel synchronous dual network (SDN) with cross-type attention via separately and interactively considering the entity types and relation types. On the one hand, SDN adopts two isomorphic bi-directional type-attention LSTM to encode the entity type enhanced representations and the relation type enhanced representations, respectively. On the other hand, SDN explicitly models the interdependence between entity types and relation types via cross-type attention mechanism. In addition, we also propose a new multi-task learning strategy via modeling the interaction of two types of information. Experiments on NYT and WebNLG datasets verify the effectiveness of the proposed model, achieving state-of-the-art performance.
+Author{1}{Firstname}#=%=#Hui
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Username}#=%=#crazybird
+Author{1}{Email}#=%=#huistudent@stu.xmu.edu.cn
+Author{1}{Affiliation}#=%=#Xiamen University
+Author{2}{Firstname}#=%=#xiaodong
+Author{2}{Lastname}#=%=#shi
+Author{2}{Username}#=%=#xiaodongshi
+Author{2}{Email}#=%=#mandel@xmu.edu.cn
+Author{2}{Affiliation}#=%=#Xiamen University
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1788
+FinalPaperTitle#=%=#Graph Based Network with Contextualized Representations of Turns in Dialogue
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Bongseok Lee
+JobTitle#==#
+Organization#==#
+Abstract#==#Dialogue-based relation extraction (RE) aims to extract relation(s) between two arguments that appear in a dialogue. Because dialogues have the characteristics of high personal pronoun occurrences and low information density, and since most relational facts in dialogues are not supported by any single sentence, dialogue-based relation extraction requires a comprehensive understanding of dialogue. In this paper, we propose the TUrn COntext awaRE Graph Convolutional Network (TUCORE-GCN) modeled by paying attention to the way people understand dialogues. In addition, we propose a novel approach which treats the task of emotion recognition in conversations (ERC) as a dialogue-based RE. Experiments on a dialogue-based RE dataset and three ERC datasets demonstrate that our model is very effective in various dialogue-based natural language understanding tasks. In these experiments, TUCORE-GCN outperforms the state-of-the-art models on most of the benchmark datasets. Our code is available at https://github.com/BlackNoodle/TUCORE-GCN.
+Author{1}{Firstname}#=%=#Bongseok
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#tjr4090
+Author{1}{Email}#=%=#tjr4090@hanyang.ac.kr
+Author{1}{Affiliation}#=%=#Hanyang University
+Author{2}{Firstname}#=%=#Yong Suk
+Author{2}{Lastname}#=%=#Choi
+Author{2}{Username}#=%=#yongchoi30
+Author{2}{Email}#=%=#cys@hanyang.ac.kr
+Author{2}{Affiliation}#=%=#Hanyang University
+
+==========

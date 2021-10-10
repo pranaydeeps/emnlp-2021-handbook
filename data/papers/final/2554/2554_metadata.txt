@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#2554
+FinalPaperTitle#=%=#Adversarial Regularization as Stackelberg Game: An Unrolled Optimization Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Simiao Zuo
+JobTitle#==#
+Organization#==#
+Abstract#==#Adversarial regularization has been shown to improve the generalization performance of deep learning models in various natural language processing tasks. Existing works usually formulate the method as a zero-sum game, which is solved by alternating gradient descent/ascent algorithms. Such a formulation treats the adversarial and the defending players equally, which is undesirable because only the defending player contributes to the generalization performance. To address this issue, we propose Stackelberg Adversarial Regularization (SALT), which formulates adversarial regularization as a Stackelberg game. This formulation induces a competition between a leader and a follower, where the follower generates perturbations, and the leader trains the model subject to the perturbations. Different from conventional approaches, in SALT, the leader is in an advantageous position. When the leader moves, it recognizes the strategy of the follower and takes the anticipated follower's outcomes into consideration. Such a leader's advantage enables us to improve the model fitting to the unperturbed data. The leader's strategic information is captured by the Stackelberg gradient, which is obtained using an unrolling algorithm. Our experimental results on a set of machine translation and natural language understanding tasks show that SALT outperforms existing adversarial regularization baselines across all tasks. Our code is publicly available.
+Author{1}{Firstname}#=%=#Simiao
+Author{1}{Lastname}#=%=#Zuo
+Author{1}{Username}#=%=#simiaozuo
+Author{1}{Email}#=%=#simiaozuo@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Chen
+Author{2}{Lastname}#=%=#Liang
+Author{2}{Username}#=%=#cliang73
+Author{2}{Email}#=%=#cliang73@gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Haoming
+Author{3}{Lastname}#=%=#Jiang
+Author{3}{Username}#=%=#hjiang98
+Author{3}{Email}#=%=#jianghm@gatech.edu
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+Author{4}{Firstname}#=%=#Xiaodong
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#allen.lao
+Author{4}{Email}#=%=#xiaodl@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+Author{5}{Firstname}#=%=#Pengcheng
+Author{5}{Lastname}#=%=#He
+Author{5}{Username}#=%=#hepc
+Author{5}{Email}#=%=#penhe@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft
+Author{6}{Firstname}#=%=#Jianfeng
+Author{6}{Lastname}#=%=#Gao
+Author{6}{Username}#=%=#jfgao
+Author{6}{Email}#=%=#jfgao@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research, Redmond
+Author{7}{Firstname}#=%=#Weizhu
+Author{7}{Lastname}#=%=#Chen
+Author{7}{Username}#=%=#chenweizhu
+Author{7}{Email}#=%=#wzchen@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft
+Author{8}{Firstname}#=%=#Tuo
+Author{8}{Lastname}#=%=#Zhao
+Author{8}{Username}#=%=#tourzhao
+Author{8}{Email}#=%=#tourzhao@gatech.edu
+Author{8}{Affiliation}#=%=#Georgia Tech
+
+==========

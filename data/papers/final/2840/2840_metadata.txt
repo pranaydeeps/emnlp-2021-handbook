@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#2840
+FinalPaperTitle#=%=#Knowledge Representation Learning with Contrastive Completion Coding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Bo Ouyang
+JobTitle#==#
+Organization#==#Tsinghua University
+Tsinghua University, Beijing, P.R.China
+Abstract#==#Knowledge representation learning (KRL) has been used in plenty of knowledge-driven tasks. Despite fruitfully progress, existing methods still suffer from the immaturity on tackling potentially-imperfect knowledge graphs and highly-imbalanced positive-negative instances during training, both of which would hinder the performance of KRL. In this paper, we propose Contrastive Completion Coding ($C^3$), a novel KRL framework that is composed of two functional components:
+\textbf{1.} Hierarchical Architecture, which integrates both low-level standalone features and high-level topology-aware features to yield robust embedding for each entity/relation.
+\textbf{2.} Normalized Contrasitive Training, which conducts normalized one-to-many contrasitive learning to emphasize different negatives with different weights, delivering better convergence compared to conventional training losses. 
+Extensive experiments on several benchmarks verify the efficacy of the two proposed techniques and combing them together generally achieves superior performance against state-of-the-art approaches.
+Author{1}{Firstname}#=%=#Bo
+Author{1}{Lastname}#=%=#Ouyang
+Author{1}{Username}#=%=#bo_ouyang
+Author{1}{Email}#=%=#oyb19@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Wenbing
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Username}#=%=#hwenbing
+Author{2}{Email}#=%=#hwenbing@126.com
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Runfa
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#crf18
+Author{3}{Email}#=%=#crf18@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Zhixing
+Author{4}{Lastname}#=%=#Tan
+Author{4}{Username}#=%=#playinf
+Author{4}{Email}#=%=#playinf@stu.xmu.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Yang
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#liuyang2011
+Author{5}{Email}#=%=#liuyang2011@tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua University
+Author{6}{Firstname}#=%=#Maosong
+Author{6}{Lastname}#=%=#Sun
+Author{6}{Username}#=%=#sms
+Author{6}{Email}#=%=#sms@tsinghua.edu.cn
+Author{6}{Affiliation}#=%=#Tsinghua University
+Author{7}{Firstname}#=%=#Jihong
+Author{7}{Lastname}#=%=#Zhu
+Author{7}{Username}#=%=#jihong_zhu
+Author{7}{Email}#=%=#jihong_zhu@hotmail.com
+Author{7}{Affiliation}#=%=#Tsinghua University
+
+==========

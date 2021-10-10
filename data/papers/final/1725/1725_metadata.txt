@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1725
+FinalPaperTitle#=%=#Enhancing Visual Dialog Questioner with Entity-based Strategy Learning and Augmented Guesser
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Duo Zheng
+JobTitle#==#
+Organization#==#Beijing University of Posts and Telecommunications
+Abstract#==#Considering the importance of building a good Visual Dialog (VD) Questioner, many researchers study the topic under a Q-Bot-A-Bot image-guessing game setting, where the Questioner needs to raise a series of questions to collect information of an undisclosed image. Despite progress has been made in Supervised Learning (SL) and Reinforcement Learning (RL), issues still exist. Firstly, previous methods do not provide explicit and effective guidance for Questioner to generate visually related and informative questions. Secondly, the effect of RL is hampered by an incompetent component, i.e., the Guesser, who makes image predictions based on the generated dialogs and assigns rewards accordingly. To enhance VD Questioner: 1) we propose a Related entity enhanced Questioner (ReeQ) that generates questions under the guidance of related entities and learns entity-based questioning strategy from human dialogs; 2) we propose an Augmented Guesser that is strong and is optimized for VD especially. Experimental results on the VisDial v1.0 dataset show that our approach achieves state-of-the-art performance on both image-guessing task and question diversity. Human study further verifies that our model generates more visually related, informative and coherent questions.
+Author{1}{Firstname}#=%=#Duo
+Author{1}{Lastname}#=%=#Zheng
+Author{1}{Username}#=%=#zd11024
+Author{1}{Email}#=%=#zd@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Zipeng
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Username}#=%=#xuzp
+Author{2}{Email}#=%=#xuzp@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{3}{Firstname}#=%=#Fandong
+Author{3}{Lastname}#=%=#Meng
+Author{3}{Username}#=%=#mengfandong
+Author{3}{Email}#=%=#fandongmeng@tencent.com
+Author{3}{Affiliation}#=%=#WeChat AI, Tencent
+Author{4}{Firstname}#=%=#Xiaojie
+Author{4}{Lastname}#=%=#WANG
+Author{4}{Username}#=%=#xjwang
+Author{4}{Email}#=%=#xjwang@bupt.edu.cn
+Author{4}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{5}{Firstname}#=%=#Jiaan
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Username}#=%=#krystal4n
+Author{5}{Email}#=%=#jawang1@stu.suda.edu.cn
+Author{5}{Affiliation}#=%=#Institute of Artificial Intelligence, School of Computer Science and Technology, Soochow University, Suzhou, China
+Author{6}{Firstname}#=%=#Jie
+Author{6}{Lastname}#=%=#Zhou
+Author{6}{Username}#=%=#jerryitp
+Author{6}{Email}#=%=#withtomzhou@tencent.com
+Author{6}{Affiliation}#=%=#Tencent Inc.
+
+==========

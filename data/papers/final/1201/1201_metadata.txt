@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1201
+FinalPaperTitle#=%=#{D}iscoDVT: {G}enerating Long Text with Discourse-Aware Discrete Variational Transformer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Haozhe Ji
+JobTitle#==#Ph.D. candidate
+Organization#==#Tsinghua University
+Abstract#==#Despite the recent advances in applying pre-trained language models to generate high-quality texts, generating long passages that maintain long-range coherence is yet challenging for these models. In this paper, we propose DiscoDVT, a discourse-aware discrete variational Transformer to tackle the incoherence issue. DiscoDVT learns a discrete variable sequence that summarizes the global structure of the text and then applies it to guide the generation process at each decoding step. To further embed discourse-aware information into the discrete latent representations, we introduce an auxiliary objective to model the discourse relations within the text. We conduct extensive experiments on two open story generation datasets and demonstrate that the latent codes learn meaningful correspondence to the discourse structures that guide the model to generate long texts with better long-range coherence.
+Author{1}{Firstname}#=%=#Haozhe
+Author{1}{Lastname}#=%=#Ji
+Author{1}{Username}#=%=#haozhe
+Author{1}{Email}#=%=#jhz20@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Minlie
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Username}#=%=#aihuang
+Author{2}{Email}#=%=#huangminlie@126.com
+Author{2}{Affiliation}#=%=#Tsinghua University
+
+==========

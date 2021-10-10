@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#395
+FinalPaperTitle#=%=#{MLEC-QA}: {A} {C}hinese {M}ulti-{C}hoice {B}iomedical {Q}uestion {A}nswering {D}ataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Jing Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Question Answering (QA) has been successfully applied in scenarios of human-computer interaction such as chatbots and search engines. However, for the specific biomedical domain, QA systems are still immature due to expert-annotated datasets being limited by category and scale. In this paper, we present MLEC-QA, the largest-scale Chinese multi-choice biomedical QA dataset, collected from the National Medical Licensing Examination in China. The dataset is composed of five subsets with 136,236 biomedical multi-choice questions with extra materials (images or tables) annotated by human experts, and first covers the following biomedical sub-fields: Clinic, Stomatology, Public Health, Traditional Chinese Medicine, and Traditional Chinese Medicine Combined with Western Medicine. We implement eight representative control methods and open-domain QA methods as baselines. Experimental results demonstrate that even the current best model can only achieve accuracies between 40% to 55% on five subsets, especially performing poorly on questions that require sophisticated reasoning ability. We hope the release of the MLEC-QA dataset can serve as a valuable resource for research and evaluation in open-domain QA, and also make advances for biomedical QA systems.
+Author{1}{Firstname}#=%=#Jing
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#lijing19
+Author{1}{Email}#=%=#jl223vy@outlook.com
+Author{1}{Affiliation}#=%=#Fuzhou University
+Author{2}{Firstname}#=%=#Shangping
+Author{2}{Lastname}#=%=#Zhong
+Author{2}{Username}#=%=#spzhong
+Author{2}{Email}#=%=#spzhong@fzu.edu.cn
+Author{2}{Affiliation}#=%=#Fuzhou University
+Author{3}{Firstname}#=%=#Kaizhi
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#kzcheng
+Author{3}{Email}#=%=#ckz@fzu.edu.cn
+Author{3}{Affiliation}#=%=#Fuzhou University
+
+==========

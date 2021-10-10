@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1536
+FinalPaperTitle#=%=#CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#27
+CopyrightSigned#=%=#Qinyuan Ye
+JobTitle#==#
+Organization#==#
+Abstract#==#Humans can learn a new language task efficiently with only few examples, by leveraging their knowledge obtained when learning prior tasks. In this paper, we explore whether and how such cross-task generalization ability can be acquired, and further applied to build better few-shot learners across diverse NLP tasks. We introduce CrossFit, a problem setup for studying cross-task generalization ability, which standardizes seen/unseen task partitions, data access during different learning stages, and the evaluation protocols. To instantiate different seen/unseen task partitions in CrossFit and facilitate in-depth analysis, we present the NLP Few-shot Gym, a repository of 160 diverse few-shot NLP tasks created from open-access NLP datasets and converted to a unified text-to-text format. Our analysis reveals that the few-shot learning ability on unseen tasks can be improved via an upstream learning stage using a set of seen tasks. We also observe that the selection of upstream learning tasks can significantly influence few-shot performance on unseen tasks, asking further analysis on task similarity and transferability.
+Author{1}{Firstname}#=%=#Qinyuan
+Author{1}{Lastname}#=%=#Ye
+Author{1}{Username}#=%=#yeqy15
+Author{1}{Email}#=%=#qinyuany@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Bill Yuchen
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Username}#=%=#yuchenlin
+Author{2}{Email}#=%=#yuchen.lin@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Xiang
+Author{3}{Lastname}#=%=#Ren
+Author{3}{Username}#=%=#xren7
+Author{3}{Email}#=%=#xiangren@usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+
+==========

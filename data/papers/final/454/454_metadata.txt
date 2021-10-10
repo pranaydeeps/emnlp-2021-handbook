@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#454
+FinalPaperTitle#=%=#Cartography Active Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mike Zhang
+JobTitle#==#
+Organization#==#IT University of Copenhagen
+Rued Langgaards Vej 7 
+DK-2300 Copenhagen S
+Denmark
+Abstract#==#We propose Cartography Active Learning (CAL), a novel Active Learning (AL) algorithm that exploits  the behavior of the model on individual instances during training as a proxy to find the most informative instances for labeling. CAL is inspired by data maps, which were recently proposed to derive insights into dataset quality (Swayamdipta et al., 2020). We compare our method on popular text classification tasks to commonly used AL strategies, which instead rely on post-training behavior. We demonstrate that CAL is competitive to other common AL methods, showing that training dynamics derived from small seed data can be successfully used for AL. We provide insights into our new AL method by analyzing batch-level statistics utilizing the data maps. Our results further show that CAL results in a more data-efficient learning strategy, achieving comparable or better results with considerably less training data.
+Author{1}{Firstname}#=%=#Mike
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#mikz
+Author{1}{Email}#=%=#mikz@itu.dk
+Author{1}{Affiliation}#=%=#IT University of Copenhagen
+Author{2}{Firstname}#=%=#Barbara
+Author{2}{Lastname}#=%=#Plank
+Author{2}{Username}#=%=#bplank
+Author{2}{Email}#=%=#bplank@gmail.com
+Author{2}{Affiliation}#=%=#IT University of Copenhagen
+
+==========

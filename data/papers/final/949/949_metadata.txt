@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#949
+FinalPaperTitle#=%=#AM2iCo: Evaluating Word Meaning in Context across Low-Resource Languages with Adversarial Examples
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Qianchu Liu
+JobTitle#==#
+Organization#==#Language Technology Lab, University of Cambridge
+Abstract#==#Capturing word meaning in context and distinguishing between correspondences and variations across languages is key to building successful multilingual and cross-lingual text representation models. However, existing multilingual evaluation datasets that evaluate lexical semantics ``in-context'' have various limitations. In particular,  1) their language coverage is restricted to high-resource languages and skewed in favor of only a few language families and areas, 2) a design that makes the task solvable via superficial cues, which results in artificially inflated (and sometimes super-human) performances of pretrained encoders, and 3) no support for cross-lingual evaluation. In order to address these gaps, we present AM2iCo (Adversarial and Multilingual Meaning in Context), a wide-coverage cross-lingual and multilingual evaluation set; it aims to faithfully assess the ability of state-of-the-art (SotA) representation models to understand the identity of word meaning in cross-lingual contexts for 14 language pairs. We conduct a series of experiments in a wide range of setups and demonstrate the challenging nature of AM2iCo. The results reveal that current SotA pretrained encoders substantially lag behind human performance, and the largest gaps are observed for low-resource languages and languages dissimilar to English.
+Author{1}{Firstname}#=%=#Qianchu
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#qianchu
+Author{1}{Email}#=%=#ql261@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Edoardo Maria
+Author{2}{Lastname}#=%=#Ponti
+Author{2}{Username}#=%=#ducadauge
+Author{2}{Email}#=%=#edoardo-maria.ponti@mila.quebec
+Author{2}{Affiliation}#=%=#Mila Montreal / University of Cambridge
+Author{3}{Firstname}#=%=#Diana
+Author{3}{Lastname}#=%=#McCarthy
+Author{3}{Username}#=%=#diana
+Author{3}{Email}#=%=#diana@dianamccarthy.co.uk
+Author{3}{Affiliation}#=%=#University of Cambridge (DTAL)
+Author{4}{Firstname}#=%=#Ivan
+Author{4}{Lastname}#=%=#Vulić
+Author{4}{Username}#=%=#ivulic
+Author{4}{Email}#=%=#iv250@cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+Author{5}{Firstname}#=%=#Anna
+Author{5}{Lastname}#=%=#Korhonen
+Author{5}{Username}#=%=#anna.korhonen
+Author{5}{Email}#=%=#alk23@cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+
+==========

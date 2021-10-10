@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2836
+FinalPaperTitle#=%=#Putting Words in BERT's Mouth: Navigating Contextualized Vector Spaces with Pseudowords
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Taelin Karidi
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a method for exploring regions around individual points in a contextualized vector space (particularly, BERT space), as a way to investigate how these regions correspond to word senses. By inducing a contextualized "pseudoword'' vector as a stand-in for a static embedding in the input layer, and then performing masked prediction of a word in the sentence, we are able to investigate the geometry of the BERT-space in a controlled manner around individual instances. Using our method on a set of carefully constructed sentences targeting highly ambiguous English words, we find substantial regularity in the contextualized space, with regions that correspond to distinct word senses; but between these regions there are occasionally "sense voids''—regions that do not correspond to any intelligible sense.
+Author{1}{Firstname}#=%=#Taelin
+Author{1}{Lastname}#=%=#Karidi
+Author{1}{Username}#=%=#tailin
+Author{1}{Email}#=%=#taelin.karidi@mail.huji.ac.il
+Author{1}{Affiliation}#=%=#Hebrew University of Jerusalem
+Author{2}{Firstname}#=%=#Yichu
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Username}#=%=#yichuzhou
+Author{2}{Email}#=%=#flyaway@cs.utah.edu
+Author{2}{Affiliation}#=%=#University of Utah
+Author{3}{Firstname}#=%=#Nathan
+Author{3}{Lastname}#=%=#Schneider
+Author{3}{Username}#=%=#nschneid
+Author{3}{Email}#=%=#nathan.schneider@georgetown.edu
+Author{3}{Affiliation}#=%=#Georgetown University
+Author{4}{Firstname}#=%=#Omri
+Author{4}{Lastname}#=%=#Abend
+Author{4}{Username}#=%=#omria01
+Author{4}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{4}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{5}{Firstname}#=%=#Vivek
+Author{5}{Lastname}#=%=#Srikumar
+Author{5}{Username}#=%=#vsrikum2
+Author{5}{Email}#=%=#svivek@cs.utah.edu
+Author{5}{Affiliation}#=%=#University of Utah
+
+==========

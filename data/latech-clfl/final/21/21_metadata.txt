@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#End-to-end style-conditioned poetry generation: What does it take to learn from examples alone?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Steffen Eger
+JobTitle#==#
+Organization#==#
+Abstract#==#In this work, we design an end-to-end model for poetry generation based on conditioned recurrent neural network (RNN) language models whose goal is to learn stylistic features (poem length, sentiment, alliteration, and rhyming) from examples alone. We show this model successfully learns the `meaning' of length and sentiment, as we can control it to generate longer or shorter as well as more positive or more negative poems. However, the model does not grasp sound phenomena like alliteration and rhyming, but instead exploits low-level statistical cues. Possible reasons include the size of the training data, the relatively low frequency and difficulty of these sublexical phenomena as well as model biases. We show that more recent GPT-2 models also have problems learning sublexical phenomena such as rhyming from examples alone.
+Author{1}{Firstname}#=%=#Jörg
+Author{1}{Lastname}#=%=#Wöckener
+Author{1}{Email}#=%=#jwoeckener@gmx.de
+Author{1}{Affiliation}#=%=#TU Darmstadt
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Haider
+Author{2}{Username}#=%=#thaider
+Author{2}{Email}#=%=#thomas.haider@ae.mpg.de
+Author{2}{Affiliation}#=%=#Max Planck Institute for Empirical Aesthetics
+Author{3}{Firstname}#=%=#Tristan
+Author{3}{Lastname}#=%=#Miller
+Author{3}{Username}#=%=#psychonaut
+Author{3}{Email}#=%=#tristan.miller@ofai.at
+Author{3}{Affiliation}#=%=#Austrian Research Institute for Artificial Intelligence
+Author{4}{Firstname}#=%=#The-Khang
+Author{4}{Lastname}#=%=#Nguyen
+Author{4}{Email}#=%=#tn60sisu@gmail.com
+Author{4}{Affiliation}#=%=#TU Darmstadt
+Author{5}{Firstname}#=%=#Thanh Tung Linh
+Author{5}{Lastname}#=%=#Nguyen
+Author{5}{Email}#=%=#linhnt96@gmail.com
+Author{5}{Affiliation}#=%=#TU Darmstadt
+Author{6}{Firstname}#=%=#Minh Vu
+Author{6}{Lastname}#=%=#Pham
+Author{6}{Email}#=%=#minh.vu.pham@stud.tu-darmstadt.de
+Author{6}{Affiliation}#=%=#TU Darmstadt
+Author{7}{Firstname}#=%=#Jonas
+Author{7}{Lastname}#=%=#Belouadi
+Author{7}{Email}#=%=#jonasjohannjonasjohannesfranz.belouadi@stud.tu-darmstadt.de
+Author{7}{Affiliation}#=%=#TU Darmstadt
+Author{8}{Firstname}#=%=#Steffen
+Author{8}{Lastname}#=%=#Eger
+Author{8}{Username}#=%=#steffen2
+Author{8}{Email}#=%=#eger.steffen@gmail.com
+Author{8}{Affiliation}#=%=#NLLG Lab, Technische Universität Darmstadt
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3332
+FinalPaperTitle#=%=#Do Long-Range Language Models Actually Use Long-Range Context?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Simeng Sun
+JobTitle#==#
+Organization#==#
+Abstract#==#Language models are generally trained on short, truncated input sequences, which limits their ability to use discourse-level information present in long-range context to improve their predictions. Recent efforts to improve the efficiency of self-attention have led to a proliferation of long-range Transformer language models, which can process much longer sequences than models of the past. However, the ways in which such models take advantage of the long-range context remain unclear. In this paper, we perform a fine-grained analysis of two long-range Transformer language models (including the Routing Transformer, which achieves state-of-the-art perplexity on the PG-19 long-sequence LM benchmark dataset) that accept input sequences of up to 8K tokens. Our results reveal that providing long-range context (i.e., beyond the previous 2K tokens) to these models only improves their predictions on a small set of tokens (e.g., those that can be copied from the distant context) and does not help at all for sentence-level prediction tasks. Finally, we discover that PG-19 contains a variety of different document types and domains, and that long-range context helps most for literary novels (as opposed to textbooks or magazines).
+Author{1}{Firstname}#=%=#Simeng
+Author{1}{Lastname}#=%=#Sun
+Author{1}{Username}#=%=#simsun
+Author{1}{Email}#=%=#simengsun@umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Kalpesh
+Author{2}{Lastname}#=%=#Krishna
+Author{2}{Username}#=%=#kalpeshk2011
+Author{2}{Email}#=%=#kalpesh@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Andrew
+Author{3}{Lastname}#=%=#Mattarella-Micke
+Author{3}{Username}#=%=#mattare2
+Author{3}{Email}#=%=#mattare2@uchicago.edu
+Author{3}{Affiliation}#=%=#Intuit
+Author{4}{Firstname}#=%=#Mohit
+Author{4}{Lastname}#=%=#Iyyer
+Author{4}{Username}#=%=#miyyer
+Author{4}{Email}#=%=#m.iyyer@gmail.com
+Author{4}{Affiliation}#=%=#University of Massachusetts Amherst
+
+==========

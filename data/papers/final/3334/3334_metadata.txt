@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#3334
+FinalPaperTitle#=%=#{G}ated {T}ransformer for {R}obust {D}e-noised {S}equence-to-{S}equence {M}odelling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Ayan Sengupta
+JobTitle#==#
+Organization#==#
+Abstract#==#Robust sequence-to-sequence modelling is an essential task in the real world where the inputs are often noisy. Both user-generated and machine generated inputs contain various kinds of noises in the form of spelling mistakes, grammatical errors, character recognition errors, all of which impact downstream tasks and affect interpretability of texts. In this work, we devise a novel sequence-to-sequence architecture for detecting and correcting different real world and artificial noises (adversarial attacks) from English texts. Towards that we propose a modified Transformer-based  encoder-decoder architecture that uses a gating mechanism to detect types of corrections required and accordingly corrects texts. Experimental results show that our gated architecture with pre-trained language models perform significantly better that the non-gated counterparts and other state-of-the-art error correction models in correcting spelling and grammatical errors. Extrinsic evaluation of our model on Machine Translation (MT) and Summarization tasks show the competitive performance of the model against other generative sequence-to-sequence models under noisy inputs.
+Author{1}{Firstname}#=%=#Ayan
+Author{1}{Lastname}#=%=#Sengupta
+Author{1}{Username}#=%=#ayans007
+Author{1}{Email}#=%=#ayan.sengupta007@gmail.com
+Author{1}{Affiliation}#=%=#UnitedHealth Group
+Author{2}{Firstname}#=%=#Amit
+Author{2}{Lastname}#=%=#Kumar
+Author{2}{Email}#=%=#amit.kumar75@optum.com
+Author{2}{Affiliation}#=%=#UnitedHealth Group
+Author{3}{Firstname}#=%=#Sourabh Kumar
+Author{3}{Lastname}#=%=#Bhattacharjee
+Author{3}{Username}#=%=#skbhattacharjee
+Author{3}{Email}#=%=#sourabhb398@gmail.com
+Author{3}{Affiliation}#=%=#UnitedHealth Group
+Author{4}{Firstname}#=%=#Suman
+Author{4}{Lastname}#=%=#Roy
+Author{4}{Username}#=%=#suman_roy
+Author{4}{Email}#=%=#suman.roy@optum.com
+Author{4}{Affiliation}#=%=#Optum Global Solutions India Pvt Ltd (UnitedHealth Group)
+
+==========

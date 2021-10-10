@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#2710
+FinalPaperTitle#=%=#{FAME}: {F}eature-Based Adversarial Meta-Embeddings for Robust Input Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Lukas Lange
+JobTitle#==#
+Organization#==#Robert Bosch GmbH
+Robert-Bosch-Campus 1
+71272 Renningen
+Germany
+Abstract#==#Combining several embeddings typically improves performance in downstream tasks as different embeddings encode different information. It has been shown that even models using embeddings from transformers still benefit from the inclusion of standard word embeddings.
+However, the combination of embeddings of different types and dimensions is challenging. As an alternative to attention-based meta-embeddings, we propose feature-based adversarial meta-embeddings (FAME) with an attention function that is guided by features reflecting word-specific properties, such as shape and frequency, and show that this is beneficial to handle subword-based embeddings.
+In addition, FAME uses adversarial training to optimize the mappings of differently-sized embeddings to the same space. 
+We demonstrate that FAME works effectively across languages and domains for sequence labeling and sentence classification, in particular in low-resource settings. FAME sets the new state of the art for POS tagging in 27 languages, various NER settings and question classification in different domains.
+Author{1}{Firstname}#=%=#Lukas
+Author{1}{Lastname}#=%=#Lange
+Author{1}{Username}#=%=#llange
+Author{1}{Email}#=%=#lukas.lange@de.bosch.com
+Author{1}{Affiliation}#=%=#Bosch Center for Artificial Intelligence
+Author{2}{Firstname}#=%=#Heike
+Author{2}{Lastname}#=%=#Adel
+Author{2}{Username}#=%=#heikeadel
+Author{2}{Email}#=%=#heike.adel@de.bosch.com
+Author{2}{Affiliation}#=%=#Bosch Center for Artificial Intelligence
+Author{3}{Firstname}#=%=#Jannik
+Author{3}{Lastname}#=%=#Strötgen
+Author{3}{Username}#=%=#jannik.stroetgen
+Author{3}{Email}#=%=#jannik.stroetgen@gmail.com
+Author{3}{Affiliation}#=%=#Bosch Center for Artificial Intelligence
+Author{4}{Firstname}#=%=#Dietrich
+Author{4}{Lastname}#=%=#Klakow
+Author{4}{Username}#=%=#dietrich.klakow
+Author{4}{Email}#=%=#dklakow@lsv.uni-saarland.de
+Author{4}{Affiliation}#=%=#Saarland University
+
+==========

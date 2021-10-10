@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#806
+FinalPaperTitle#=%=#An Uncertainty-Aware Encoder for Aspect Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kiem-Hieu Nguyen
+JobTitle#==#
+Organization#==#Hanoi University of Science and Technology, No 1, Dai Co Viet, Hai Ba Trung, Hanoi, Vietnam
+Abstract#==#Aspect detection is a fundamental task in opinion mining. Previous works use seed words either as priors of topic models, as anchors to guide the learning of aspects, or as features of aspect classifiers. This paper presents a novel weakly-supervised method to exploit seed words for aspect detection based on an encoder architecture. The encoder maps segments and aspects into a low-dimensional embedding space. The goal is approximating similarity between segments and aspects in the embedding space and their ground-truth similarity generated from seed words. An objective function is proposed to capture the uncertainty of ground-truth similarity. Our method outperforms previous works on several benchmarks in various domains.
+Author{1}{Firstname}#=%=#Thi-Nhung
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Username}#=%=#nhungnt
+Author{1}{Email}#=%=#nguyennhung0799@gmail.com
+Author{1}{Affiliation}#=%=#Hanoi University of Science and Technology
+Author{2}{Firstname}#=%=#Kiem-Hieu
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Username}#=%=#hieukieng
+Author{2}{Email}#=%=#hieunk@soict.hust.edu.vn
+Author{2}{Affiliation}#=%=#Hanoi Univ of Science and Technology
+Author{3}{Firstname}#=%=#Young-In
+Author{3}{Lastname}#=%=#Song
+Author{3}{Username}#=%=#youngin.song
+Author{3}{Email}#=%=#song.youngin@navercorp.com
+Author{3}{Affiliation}#=%=#NAVER
+Author{4}{Firstname}#=%=#Tuan-Dung
+Author{4}{Lastname}#=%=#Cao
+Author{4}{Username}#=%=#dungct
+Author{4}{Email}#=%=#dungct@soict.hust.edu.vn
+Author{4}{Affiliation}#=%=#Hanoi University of Science and Technology
+
+==========

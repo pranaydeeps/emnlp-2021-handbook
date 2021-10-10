@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3459
+FinalPaperTitle#=%=#Towards Automatic Bias Detection in Knowledge Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Daphna Keidar
+JobTitle#==#
+Organization#==#ETH Zurich, Rämistrasse 101, 8092 Zürich, Switzerland
+Abstract#==#With the recent surge in social applications relying on knowledge graphs, the need for techniques to  ensure fairness in KG based methods is becoming increasingly evident. Previous works have  demonstrated that KGs are prone to various social biases, and have proposed multiple methods for  debiasing them. However, in such studies, the focus has been on debiasing techniques, while the  relations to be debiased are specified manually by the user. As manual specification is itself susceptible to human cognitive bias, there is a need for a system capable of quantifying and exposing biases, that can support more informed decisions on what to debias. To address this gap in the literature, we describe a framework for identifying biases present in knowledge graph embeddings, based on numerical bias metrics. We illustrate the framework with three different bias measures on the task of profession prediction, and it can be flexibly extended to further bias definitions and applications. The relations flagged as biased can then be handed to decision makers for judgement upon subsequent debiasing.
+Author{1}{Firstname}#=%=#Daphna
+Author{1}{Lastname}#=%=#Keidar
+Author{1}{Username}#=%=#daphy
+Author{1}{Email}#=%=#daphiya@gmail.com
+Author{1}{Affiliation}#=%=#ETH Zurich
+Author{2}{Firstname}#=%=#Mian
+Author{2}{Lastname}#=%=#Zhong
+Author{2}{Email}#=%=#mzhong@student.ethz.ch
+Author{2}{Affiliation}#=%=#ETH Zürich
+Author{3}{Firstname}#=%=#Ce
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#ce.zhang@inf.ethz.ch
+Author{3}{Affiliation}#=%=#ETH Zürich, Department of Computer Science
+Author{4}{Firstname}#=%=#Yash Raj
+Author{4}{Lastname}#=%=#Shrestha
+Author{4}{Email}#=%=#yshrestha@ethz.ch
+Author{4}{Affiliation}#=%=#University of Zurich
+Author{5}{Firstname}#=%=#Bibek
+Author{5}{Lastname}#=%=#Paudel
+Author{5}{Email}#=%=#bibekp@stanford.edu
+Author{5}{Affiliation}#=%=#Stanford University
+
+==========

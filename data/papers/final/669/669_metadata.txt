@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#669
+FinalPaperTitle#=%=#Casting the Same Sentiment Classification Problem
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Erik Körner
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce and study a problem variant of sentiment analysis, namely the "same sentiment classification problem", where, given a pair of texts, the task is to determine if they have the same sentiment, disregarding the actual sentiment polarity. Among other things, our goal is to enable a more topic-agnostic sentiment classification. We study the problem using the Yelp business review dataset, demonstrating how sentiment data needs to be prepared for this task, and then carry out sequence pair classification using the BERT language model. In a series of experiments, we achieve an accuracy above 83% for category subsets across topics, and 89% on average.
+Author{1}{Firstname}#=%=#Erik
+Author{1}{Lastname}#=%=#Körner
+Author{1}{Username}#=%=#ekoerner
+Author{1}{Email}#=%=#erik.koerner@uni-leipzig.de
+Author{1}{Affiliation}#=%=#Leipzig University
+Author{2}{Firstname}#=%=#Ahmad Dawar
+Author{2}{Lastname}#=%=#Hakimi
+Author{2}{Username}#=%=#ahmaddawar
+Author{2}{Email}#=%=#hakimi@informatik.uni-leipzig.de
+Author{2}{Affiliation}#=%=#Leipzig University
+Author{3}{Firstname}#=%=#Gerhard
+Author{3}{Lastname}#=%=#Heyer
+Author{3}{Username}#=%=#heyer
+Author{3}{Email}#=%=#heyer@informatik.uni-leipzig.de
+Author{3}{Affiliation}#=%=#University of Leipzig
+Author{4}{Firstname}#=%=#Martin
+Author{4}{Lastname}#=%=#Potthast
+Author{4}{Username}#=%=#potthast
+Author{4}{Email}#=%=#martin.potthast@uni-leipzig.de
+Author{4}{Affiliation}#=%=#Leipzig University
+
+==========

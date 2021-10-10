@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2868
+FinalPaperTitle#=%=#Unpacking the Interdependent Systems of Discrimination: Ableist Bias in NLP Systems through an Intersectional Lens
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Saad Hassan
+JobTitle#==#
+Organization#==#Rochester Institute of Technology, Rochester, New York
+Abstract#==#Much of the world's population experiences some form of disability during their lifetime. Caution must be exercised while designing natural language processing (NLP) systems to prevent systems from inadvertently perpetuating ableist bias against people with disabilities, i.e., prejudice that favors those with typical abilities. We report on various analyses based on word predictions of a large-scale BERT language model. Statistically significant results demonstrate that people with disabilities can be disadvantaged. Findings also explore overlapping forms of discrimination related to interconnected gender and race identities.
+Author{1}{Firstname}#=%=#Saad
+Author{1}{Lastname}#=%=#Hassan
+Author{1}{Username}#=%=#saadhassan
+Author{1}{Email}#=%=#sh2513@rit.edu
+Author{1}{Affiliation}#=%=#Rochester Institute of Technology
+Author{2}{Firstname}#=%=#Matt
+Author{2}{Lastname}#=%=#Huenerfauth
+Author{2}{Username}#=%=#huenerfauth
+Author{2}{Email}#=%=#matt.huenerfauth@rit.edu
+Author{2}{Affiliation}#=%=#Rochester Institute of Technology
+Author{3}{Firstname}#=%=#Cecilia Ovesdotter
+Author{3}{Lastname}#=%=#Alm
+Author{3}{Username}#=%=#coagla
+Author{3}{Email}#=%=#coagla@rit.edu
+Author{3}{Affiliation}#=%=#Rochester Institute of Technology
+
+==========

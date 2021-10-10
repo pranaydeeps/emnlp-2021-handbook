@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#The Emergence of the Shape Bias Results from Communicative Efficiency
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Eva Portelance
+JobTitle#==#
+Organization#==#Stanford University, Department of Linguistics
+Building 460 Rm. 127
+Stanford, CA 94305
+Abstract#==#By the age of two, children tend to assume that new word categories are based on objects’ shape, rather than their color or texture; this assumption is called the shape bias. They are thought to learn this bias by observing that their caregiver's language is biased towards shape based categories. This presents a chicken and egg problem: if the shape bias must be present in the language in order for children to learn it, how did it arise in language in the first place? In this paper, we propose that communicative efficiency explains both how the shape bias emerged and why it persists across generations. We model this process with neural emergent language agents that learn to communicate about raw pixelated images. First, we show that the shape bias emerges as a result of efficient communication strategies employed by agents. Second, we show that pressure brought on by communicative need is also necessary for it to persist across generations; simply having a shape bias in an agent’s input language is insufficient. These results suggest that, over and above the operation of other learning strategies, the shape bias in human learners may emerge and be sustained by communicative pressures.
+Author{1}{Firstname}#=%=#Eva
+Author{1}{Lastname}#=%=#Portelance
+Author{1}{Username}#=%=#portelan
+Author{1}{Email}#=%=#portelan@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Michael C.
+Author{2}{Lastname}#=%=#Frank
+Author{2}{Email}#=%=#mcfrank@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Jurafsky
+Author{3}{Username}#=%=#jurafsky
+Author{3}{Email}#=%=#jurafsky@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Alessandro
+Author{4}{Lastname}#=%=#Sordoni
+Author{4}{Email}#=%=#alsordon@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Montreal
+Author{5}{Firstname}#=%=#Romain
+Author{5}{Lastname}#=%=#Laroche
+Author{5}{Username}#=%=#romainlaroche
+Author{5}{Email}#=%=#romain.laroche@gmail.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+
+==========

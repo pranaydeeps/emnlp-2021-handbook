@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#3263
+FinalPaperTitle#=%=#Contextual Rephrase Detection for Reducing Friction in Dialogue Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zhuoyi Wang
+JobTitle#==#Research Assistant
+Organization#==#The University of Texas at Dallas
+800 W Campbell Rd, Richardson, TX 75080
+
+Amazon Alexa AI
+300 Pine S, Seattle, Washington, 98101
+Abstract#==#For voice assistants like Alexa, Google Assistant, and Siri, correctly interpreting users' intentions is of utmost importance.  However, users sometimes experience friction with these assistants, caused by errors from different system components or user errors such as slips of the tongue. Users tend to rephrase their queries until they get a satisfactory response. 
+Rephrase detection is used to identify the rephrases and has long been treated as a task with pairwise input, which does not fully utilize the contextual information (e.g. users' implicit feedback). To this end, we propose a contextual rephrase detection model ContReph to automatically identify rephrases from multi-turn dialogues. We showcase how to leverage the dialogue context and user-agent interaction signals, including the user's implicit feedback and the time gap between different turns, which can help significantly outperform the pairwise rephrase detection models.
+Author{1}{Firstname}#=%=#Zhuoyi
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#vitvicky
+Author{1}{Email}#=%=#zxw151030@utdallas.edu
+Author{1}{Affiliation}#=%=#University Of Texas at Dallas
+Author{2}{Firstname}#=%=#Saurabh
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Username}#=%=#saurabh3949
+Author{2}{Email}#=%=#gsaur@amazon.com
+Author{2}{Affiliation}#=%=#Alexa AI, Amazon.com
+Author{3}{Firstname}#=%=#Jie
+Author{3}{Lastname}#=%=#Hao
+Author{3}{Username}#=%=#jiehao
+Author{3}{Email}#=%=#haoj8711@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Xing
+Author{4}{Lastname}#=%=#Fan
+Author{4}{Username}#=%=#fanxing1219
+Author{4}{Email}#=%=#fanxing1219@gmail.com
+Author{4}{Affiliation}#=%=#Amazon Corporation
+Author{5}{Firstname}#=%=#Dingcheng
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#leonleeldc
+Author{5}{Email}#=%=#dingchengl@gmail.com
+Author{5}{Affiliation}#=%=#Amazon Alexa AI
+Author{6}{Firstname}#=%=#Alexander Hanbo
+Author{6}{Lastname}#=%=#Li
+Author{6}{Username}#=%=#lihanbo90
+Author{6}{Email}#=%=#hanboli@amazon.com
+Author{6}{Affiliation}#=%=#AWS AI Labs
+Author{7}{Firstname}#=%=#Chenlei
+Author{7}{Lastname}#=%=#Guo
+Author{7}{Username}#=%=#chenleiguo
+Author{7}{Email}#=%=#chenlei.guo@gmail.com
+Author{7}{Affiliation}#=%=#Amazon Alexa
+
+==========

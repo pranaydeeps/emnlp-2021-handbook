@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3192
+FinalPaperTitle#=%=#Conditional Poisson Stochastic Beams
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Clara Meister
+JobTitle#==#
+Organization#==#
+Abstract#==#Beam search is the default decoding strategy for many sequence generation tasks in NLP. The set of approximate K-best items returned by the algorithm is a useful summary of the distribution for many applications; however, the candidates typically exhibit high overlap and may give a highly biased estimate for expectations under our model. These problems can be addressed by instead using stochastic decoding strategies. In this work, we propose a new method for turning beam search into a stochastic process: Conditional Poisson stochastic beam search. Rather than taking the maximizing set at each iteration, we sample K candidates without replacement according to the conditional Poisson sampling design. We view this as a more natural alternative to Kool et al. (2019)’s stochastic beam search (SBS). Furthermore, we show how samples generated under the CPSBS design can be used to build consistent estimators and sample diverse sets from sequence models. In our experiments, we
+observe CPSBS produces lower variance and more efficient estimators than SBS, even showing improvements in high entropy settings.
+Author{1}{Firstname}#=%=#Clara
+Author{1}{Lastname}#=%=#Meister
+Author{1}{Username}#=%=#cmeister
+Author{1}{Email}#=%=#clara.meister@inf.ethz.ch
+Author{1}{Affiliation}#=%=#ETH Zurich
+Author{2}{Firstname}#=%=#Afra
+Author{2}{Lastname}#=%=#Amini
+Author{2}{Username}#=%=#afraamini
+Author{2}{Email}#=%=#afra.amini@gmail.com
+Author{2}{Affiliation}#=%=#ETH Zürich
+Author{3}{Firstname}#=%=#Tim
+Author{3}{Lastname}#=%=#Vieira
+Author{3}{Username}#=%=#timv
+Author{3}{Email}#=%=#tim.f.vieira@gmail.com
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Ryan
+Author{4}{Lastname}#=%=#Cotterell
+Author{4}{Username}#=%=#rcotterell
+Author{4}{Email}#=%=#ryan.cotterell@gmail.com
+Author{4}{Affiliation}#=%=#ETH Zürich
+
+==========

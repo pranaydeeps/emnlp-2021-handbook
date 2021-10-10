@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3452
+FinalPaperTitle#=%=#Hitting your MARQ: Multimodal ARgument Quality Assessment in Long Debate Video
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Md Kamrul Hasan
+JobTitle#==#
+Organization#==#
+Abstract#==#The combination of gestures, intonations, and textual content plays a key role in argument delivery. However, the current literature mostly considers textual content while assessing the quality of an argument, and it is limited to datasets containing short sequences (18-48 words). In this paper, we study argument quality assessment in a multimodal context, and experiment on DBATES, a publicly available dataset of long debate videos. First, we propose a set of interpretable debate centric features such as clarity, content variation, body movement cues, and pauses, inspired by theories of argumentation quality. Second, we design the Multimodal ARgument Quality assessor (MARQ) -- a hierarchical neural network model that summarizes the multimodal signals on long sequences and enriches the multimodal embedding with debate centric features. Our proposed MARQ model achieves an accuracy of 81.91% on the argument quality prediction task and outperforms established baseline models with an error rate reduction of 22.7%. Through ablation studies, we demonstrate the importance of multimodal cues in modeling argument quality.
+Author{1}{Firstname}#=%=#Md Kamrul
+Author{1}{Lastname}#=%=#Hasan
+Author{1}{Username}#=%=#mhasan8
+Author{1}{Email}#=%=#mhasan8@cs.rochester.edu
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#James
+Author{2}{Lastname}#=%=#Spann
+Author{2}{Username}#=%=#jspann2
+Author{2}{Email}#=%=#jspann2@cs.rochester.edu
+Author{2}{Affiliation}#=%=#University of Rochester
+Author{3}{Firstname}#=%=#Masum
+Author{3}{Lastname}#=%=#Hasan
+Author{3}{Username}#=%=#masum6
+Author{3}{Email}#=%=#masum@ra.cse.buet.ac.bd
+Author{3}{Affiliation}#=%=#Bangladesh University of Engineering and Technology
+Author{4}{Firstname}#=%=#Md Saiful
+Author{4}{Lastname}#=%=#Islam
+Author{4}{Username}#=%=#saiful1105020
+Author{4}{Email}#=%=#mislam6@ur.rochester.edu
+Author{4}{Affiliation}#=%=#University of Rochester
+Author{5}{Firstname}#=%=#Kurtis
+Author{5}{Lastname}#=%=#Haut
+Author{5}{Username}#=%=#kghaut
+Author{5}{Email}#=%=#khaut@u.rochester.edu
+Author{5}{Affiliation}#=%=#University of Rochester
+Author{6}{Firstname}#=%=#Rada
+Author{6}{Lastname}#=%=#Mihalcea
+Author{6}{Username}#=%=#rada
+Author{6}{Email}#=%=#mihalcea@umich.edu
+Author{6}{Affiliation}#=%=#University of Michigan
+Author{7}{Firstname}#=%=#Ehsan
+Author{7}{Lastname}#=%=#Hoque
+Author{7}{Username}#=%=#mehoque2020
+Author{7}{Email}#=%=#mehoque@cs.rochester.edu
+Author{7}{Affiliation}#=%=#University of Rochester
+
+==========

@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#808
+FinalPaperTitle#=%=#Improving Unsupervised Question Answering via Summarization-Informed Question Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Chenyang Lyu
+JobTitle#==#
+Organization#==#Dublin City University, Glasnevin, Dublin, Ireland
+Abstract#==#Question Generation (QG) is the task of generating a plausible question for a given <passage, answer> pair. Template-based QG uses linguistically-informed heuristics to transform declarative sentences into interrogatives, whereas supervised QG uses existing Question Answering (QA) datasets to train a system to generate a question given a passage and an answer. A disadvantage of the heuristic approach is that the generated questions are heavily tied to their declarative counterparts. A disadvantage of the supervised approach is that they are heavily tied to the domain/language of the QA dataset used as training data. In order to overcome these shortcomings, we propose a distantly-supervised QG method which uses questions generated heuristically from summaries as a source of training data for a  QG system. We make use of freely available news summary data, transforming declarative summary sentences into appropriate questions using heuristics informed by dependency parsing, named entity recognition and semantic role labeling. The resulting questions are then combined with the original news articles to train an end-to-end neural QG model. We extrinsically evaluate our approach using unsupervised QA: our QG model is used to  generate synthetic QA pairs for training a QA model. Experimental results show that, trained with only 20k English Wikipedia-based synthetic QA pairs, the QA model substantially outperforms previous unsupervised models on three in-domain datasets (SQuAD1.1, Natural Questions, TriviaQA) and three out-of-domain datasets (NewsQA, BioASQ, DuoRC), demonstrating the transferability of the approach.
+Author{1}{Firstname}#=%=#Chenyang
+Author{1}{Lastname}#=%=#Lyu
+Author{1}{Username}#=%=#chenyanglyu
+Author{1}{Email}#=%=#chenyang.lyu2@mail.dcu.ie
+Author{1}{Affiliation}#=%=#Dublin City University
+Author{2}{Firstname}#=%=#Lifeng
+Author{2}{Lastname}#=%=#Shang
+Author{2}{Username}#=%=#lifengshang
+Author{2}{Email}#=%=#lifengshang@gmail.com
+Author{2}{Affiliation}#=%=#Noah’s Ark Lab Huawei Technologies Co. Ltd. Sha Tin, Hong Kong
+Author{3}{Firstname}#=%=#Yvette
+Author{3}{Lastname}#=%=#Graham
+Author{3}{Username}#=%=#yvettegraham
+Author{3}{Email}#=%=#graham.yvette@gmail.com
+Author{3}{Affiliation}#=%=#ADAPT, Trinity College Dublin
+Author{4}{Firstname}#=%=#Jennifer
+Author{4}{Lastname}#=%=#Foster
+Author{4}{Username}#=%=#jfoster
+Author{4}{Email}#=%=#fosterjen@gmail.com
+Author{4}{Affiliation}#=%=#Dublin City University
+Author{5}{Firstname}#=%=#Xin
+Author{5}{Lastname}#=%=#Jiang
+Author{5}{Email}#=%=#jiang.xin@huawei.com
+Author{5}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{6}{Firstname}#=%=#Qun
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#liuqun
+Author{6}{Email}#=%=#qun.liu@huawei.com
+Author{6}{Affiliation}#=%=#Huawei Noah's Ark Lab
+
+==========

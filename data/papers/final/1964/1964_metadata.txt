@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1964
+FinalPaperTitle#=%=#Graphine: A Dataset for Graph-aware Terminology Definition Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zequn Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Precisely defining the terminology is the first step in scientific communication. Developing neural text generation models for definition generation can circumvent the labor-intensity curation, further accelerating scientific discovery. Unfortunately, the lack of large-scale terminology definition dataset hinders the process toward definition generation. In this paper, we present a large-scale terminology definition dataset Graphine covering 2,010,648 terminology definition pairs, spanning 227 biomedical subdisciplines. Terminologies in each subdiscipline further form a directed acyclic graph, opening up new avenues for developing graph-aware text generation models. We then proposed a novel graph-aware definition generation model Graphex that integrates transformer with graph neural network. Our model outperforms existing text generation models by exploiting the graph structure of terminologies. We further demonstrated how Graphine can be used to evaluate pretrained language models, compare graph representation learning methods and predict sentence granularity. We envision Graphine to be a unique resource for definition generation and many other NLP tasks in biomedicine.
+Author{1}{Firstname}#=%=#Zequn
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#dlib2019
+Author{1}{Email}#=%=#tslzq1997@pku.edu.cn
+Author{1}{Affiliation}#=%=#School of EECS, Peking University
+Author{2}{Firstname}#=%=#Shukai
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#shukaiwang
+Author{2}{Email}#=%=#1800017858@pku.edu.cn
+Author{2}{Affiliation}#=%=#+86 13811631980
+Author{3}{Firstname}#=%=#Yiyang
+Author{3}{Lastname}#=%=#Gu
+Author{3}{Username}#=%=#liamgu
+Author{3}{Email}#=%=#guyiyang@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Ruiyi
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#ruiyizhang
+Author{4}{Email}#=%=#zhangruiyi@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Ming
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#mzhang_eecs
+Author{5}{Email}#=%=#mzhang@net.pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Sheng
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Username}#=%=#wangshengpkucn
+Author{6}{Email}#=%=#wangshengpkucn@gmail.com
+Author{6}{Affiliation}#=%=#University of Washington
+
+==========

@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#684
+FinalPaperTitle#=%=#$Q^{2}$: {E}valuating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Or Honovich
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural knowledge-grounded generative models for dialogue often produce content that is factually inconsistent with the knowledge they rely on, making them unreliable and limiting their applicability. 
+Inspired by recent work on evaluating factual consistency in abstractive summarization, we propose an automatic evaluation metric for factual consistency in knowledge-grounded dialogue using automatic question generation and question answering. Our metric, denoted $Q^2$, compares answer spans using natural language inference (NLI), instead of token-based matching as done in previous work.
+To foster proper evaluation, we curate a novel dataset of dialogue system outputs for the Wizard-of-Wikipedia dataset, manually annotated for factual consistency. We perform a thorough meta-evaluation of $Q^2$ against other metrics using this dataset and two others, where it consistently shows higher correlation with human judgements.
+Author{1}{Firstname}#=%=#Or
+Author{1}{Lastname}#=%=#Honovich
+Author{1}{Username}#=%=#or.honovich
+Author{1}{Email}#=%=#or.honovich@gmail.com
+Author{1}{Affiliation}#=%=#Google Research
+Author{2}{Firstname}#=%=#Leshem
+Author{2}{Lastname}#=%=#Choshen
+Author{2}{Username}#=%=#borgr
+Author{2}{Email}#=%=#leshem.choshen@mail.huji.ac.il
+Author{2}{Affiliation}#=%=#Hebrew University Jerusalem Israel
+Author{3}{Firstname}#=%=#Roee
+Author{3}{Lastname}#=%=#Aharoni
+Author{3}{Username}#=%=#roeeaharoni
+Author{3}{Email}#=%=#roee.aharoni@gmail.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Ella
+Author{4}{Lastname}#=%=#Neeman
+Author{4}{Username}#=%=#ella.neeman
+Author{4}{Email}#=%=#ella.neeeman@mail.huji.ac.il
+Author{4}{Affiliation}#=%=#Hebrew University of Jerusalem
+Author{5}{Firstname}#=%=#Idan
+Author{5}{Lastname}#=%=#Szpektor
+Author{5}{Username}#=%=#idan
+Author{5}{Email}#=%=#szpektor@google.com
+Author{5}{Affiliation}#=%=#Google Research
+Author{6}{Firstname}#=%=#Omri
+Author{6}{Lastname}#=%=#Abend
+Author{6}{Username}#=%=#omria01
+Author{6}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{6}{Affiliation}#=%=#The Hebrew University of Jerusalem
+
+==========

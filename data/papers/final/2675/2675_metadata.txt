@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#2675
+FinalPaperTitle#=%=#Ultra-High Dimensional Sparse Representations with Binarization for Efficient Text Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Kyoung-Rok Jang
+JobTitle#==#
+Organization#==#
+Abstract#==#The semantic matching capabilities of neural information retrieval can ameliorate synonymy and polysemy problems of symbolic approaches. However, neural models' dense representations are more suitable for re-ranking, due to their inefficiency. Sparse representations, either in symbolic or latent form, are more efficient with an inverted index. Taking the merits of the sparse and dense representations, we propose an ultra-high dimensional (UHD) representation scheme equipped with directly controllable sparsity. UHD's large capacity and minimal noise and interference among the dimensions allow for binarized representations, which are highly efficient for storage and search. Also proposed is a bucketing method, where the embeddings from multiple layers of BERT are selected/merged to represent diverse linguistic aspects. We test our models with MS MARCO and TREC CAR, showing that our models outperforms other sparse models.
+Author{1}{Firstname}#=%=#Kyoung-Rok
+Author{1}{Lastname}#=%=#Jang
+Author{1}{Username}#=%=#kjang0517
+Author{1}{Email}#=%=#kyoungrok.jang@kaist.ac.kr
+Author{1}{Affiliation}#=%=#KAIST
+Author{2}{Firstname}#=%=#Junmo
+Author{2}{Lastname}#=%=#Kang
+Author{2}{Username}#=%=#junmo.kang
+Author{2}{Email}#=%=#junmo.kang@kaist.ac.kr
+Author{2}{Affiliation}#=%=#KAIST
+Author{3}{Firstname}#=%=#Giwon
+Author{3}{Lastname}#=%=#Hong
+Author{3}{Username}#=%=#gch02518
+Author{3}{Email}#=%=#gch02518@kaist.ac.kr
+Author{3}{Affiliation}#=%=#KAIST School of Computing
+Author{4}{Firstname}#=%=#Sung-Hyon
+Author{4}{Lastname}#=%=#Myaeng
+Author{4}{Username}#=%=#myaeng
+Author{4}{Email}#=%=#myaeng@kaist.ac.kr
+Author{4}{Affiliation}#=%=#School of Computing, KAIST
+Author{5}{Firstname}#=%=#Joohee
+Author{5}{Lastname}#=%=#Park
+Author{5}{Username}#=%=#blackmochi
+Author{5}{Email}#=%=#james.joohee.park@navercorp.com
+Author{5}{Affiliation}#=%=#Naver
+Author{6}{Firstname}#=%=#Taewon
+Author{6}{Lastname}#=%=#Yoon
+Author{6}{Username}#=%=#river0726
+Author{6}{Email}#=%=#taewon.yoon@navercorp.com
+Author{6}{Affiliation}#=%=#Naver Corp.
+Author{7}{Firstname}#=%=#Heecheol
+Author{7}{Lastname}#=%=#Seo
+Author{7}{Username}#=%=#adagio33
+Author{7}{Email}#=%=#heecheol.seo@navercorp.com
+Author{7}{Affiliation}#=%=#Naver
+
+==========

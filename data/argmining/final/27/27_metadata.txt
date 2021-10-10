@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Key Point Matching with Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Emanuele Cosenza
+JobTitle#==#MSc student
+Organization#==#University of Pisa, Italy
+Abstract#==#This work aims at describing a solution for the Track 1 of the KPA 2021 shared task, analyzing different methodologies for the specific problem of key point matching. The analysis focuses on transformer based architectures, experimentally investigating the effectiveness of variants specifically tailored to the task.
+Author{1}{Firstname}#=%=#Emanuele
+Author{1}{Lastname}#=%=#Cosenza
+Author{1}{Username}#=%=#e.cosenza
+Author{1}{Email}#=%=#e.cosenza3@studenti.unipi.it
+Author{1}{Affiliation}#=%=#University of Pisa
+
+==========

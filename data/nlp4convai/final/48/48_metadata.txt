@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#48
+FinalPaperTitle#=%=#Improving Dialogue State Tracking by Joint Slot Modeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ting-Rui Chiang
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#Dialogue state tracking models play an important role in a task-oriented dialogue system. However, most of them model the slot types conditionally independently given the input. We discover that it may cause the model to be confused by slot types that share the same data type. To mitigate this issue, we propose TripPy-MRF and TripPy-LSTM that models the slots jointly. Our results show that they are able to alleviate the confusion mentioned above, and they push the state-of-the-art on dataset MultiWoz 2.1 from 58.7 to 61.3.
+Author{1}{Firstname}#=%=#Ting-Rui
+Author{1}{Lastname}#=%=#Chiang
+Author{1}{Username}#=%=#tinray
+Author{1}{Email}#=%=#ctinray@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Yi-Ting
+Author{2}{Lastname}#=%=#Yeh
+Author{2}{Username}#=%=#exe1023
+Author{2}{Email}#=%=#yitingye@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

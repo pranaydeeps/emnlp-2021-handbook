@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3389
+FinalPaperTitle#=%=#Contrastive Out-of-Distribution Detection for Pretrained Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Wenxuan Zhou
+JobTitle#==#
+Organization#==#University of Southern California
+Abstract#==#Pretrained Transformers achieve remarkable performance when training and test data are from the same distribution. However, in real-world scenarios, the model often faces out-of-distribution (OOD) instances that can cause severe semantic shift problems at inference time. Therefore, in practice, a reliable model should identify such instances, and then either reject them during inference or pass them over to models that handle another distribution. In this paper, we develop an unsupervised OOD detection method, in which only the in-distribution (ID) data are used in training. We propose to fine-tune the Transformers with a contrastive loss, which improves the compactness of representations, such that OOD instances can be better differentiated from ID ones. These OOD instances can then be accurately detected using the Mahalanobis distance in the model's penultimate layer. We experiment with comprehensive settings and achieve near-perfect OOD detection performance, outperforming baselines drastically. We further investigate the rationales behind the improvement, finding that more compact representations through margin-based contrastive learning bring the improvement. We release our code to the community for future research.
+Author{1}{Firstname}#=%=#Wenxuan
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#wzhouad
+Author{1}{Email}#=%=#zhouwenx@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Fangyu
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#liugfangyu1996
+Author{2}{Email}#=%=#fl399@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Muhao
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#muhaochen
+Author{3}{Email}#=%=#muhaochen@ucla.edu
+Author{3}{Affiliation}#=%=#USC
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1101
+FinalPaperTitle#=%=#Improving Abstractive Dialogue Summarization with Hierarchical Pretraining and Topic Segment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#MengNan Qi
+JobTitle#==#
+Organization#==#
+Abstract#==#With the increasing abundance of meeting transcripts, meeting summary has attracted more and more attention from researchers. The unsupervised pre-training method based on transformer structure combined with fine-tuning of downstream tasks has achieved great success in the field of text summarization. However, the semantic structure and style of meeting transcripts are quite different from that of articles. In this work, we propose a hierarchical transformer encoder-decoder network with multi-task pre-training. Specifically, we mask key sentences at the word-level encoder and generate them at the decoder. Besides, we randomly mask some of the role alignments in the input text and force the model to recover the original role tags to complete the alignments. In addition, we introduce a topic segmentation mechanism to further improve the quality of the generated summaries. The experimental results show that our model is superior to the previous methods in meeting summary datasets AMI and ICSI.
+Author{1}{Firstname}#=%=#MengNan
+Author{1}{Lastname}#=%=#Qi
+Author{1}{Username}#=%=#qmn1998
+Author{1}{Email}#=%=#qmn1998@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#liu
+Author{2}{Lastname}#=%=#hao
+Author{2}{Username}#=%=#liuh236
+Author{2}{Email}#=%=#liuh236@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#yuzhuo
+Author{3}{Lastname}#=%=#fu
+Author{3}{Username}#=%=#fuyuzhuo
+Author{3}{Email}#=%=#yzfu@sjtu.edu.cn
+Author{3}{Affiliation}#=%=#SHANGHAI JIAOTONG UNIVERSITY
+Author{4}{Firstname}#=%=#Ting
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#louisa_liu
+Author{4}{Email}#=%=#louisa_liu@sjtu.edu.cn
+Author{4}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

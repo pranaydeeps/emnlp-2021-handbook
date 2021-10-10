@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3479
+FinalPaperTitle#=%=#Can NLI Models Verify QA Systems' Predictions?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Jifan Chen
+JobTitle#==#
+Organization#==#University of Texas at Austin
+Abstract#==#To build robust question answering systems, we need the ability to verify whether answers to questions are truly correct, not just "good enough" in the context of imperfect QA datasets. We explore the use of natural language inference (NLI) as a way to achieve this goal, as NLI inherently requires the premise (document context) to contain all necessary information to support the hypothesis (proposed answer to the question). We leverage large pre-trained models and recent prior datasets to construct powerful question conversion and decontextualization modules, which can reformulate QA instances as premise-hypothesis pairs with very high reliability. Then, by combining standard NLI datasets with NLI examples automatically derived from QA training data, we can train NLI models to evaluate QA models' proposed answers. We show that our approach improves the confidence estimation of a QA model across different domains, evaluated in a selective QA setting. Careful manual analysis over the predictions of our NLI model shows that it can further identify cases where the QA model produces the right answer for the wrong reason, i.e., when the answer sentence cannot address all aspects of the question.
+Author{1}{Firstname}#=%=#Jifan
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#jifan_chen
+Author{1}{Email}#=%=#jf_chen@utexas.edu
+Author{1}{Affiliation}#=%=#UT Austin
+Author{2}{Firstname}#=%=#Eunsol
+Author{2}{Lastname}#=%=#Choi
+Author{2}{Username}#=%=#echoi
+Author{2}{Email}#=%=#eunsol@utexas.edu
+Author{2}{Affiliation}#=%=#UT Austin
+Author{3}{Firstname}#=%=#Greg
+Author{3}{Lastname}#=%=#Durrett
+Author{3}{Username}#=%=#gdurrett
+Author{3}{Email}#=%=#gdurrett@cs.utexas.edu
+Author{3}{Affiliation}#=%=#UT Austin
+
+==========

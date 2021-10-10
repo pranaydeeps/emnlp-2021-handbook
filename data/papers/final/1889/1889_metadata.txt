@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1889
+FinalPaperTitle#=%=#GenerativeRE: Incorporating a Novel Copy Mechanism and Pretrained Model for Joint Entity and Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Jiarun Cao
+JobTitle#==#
+Organization#==#
+Abstract#==#Previous neural Seq2Seq models have shown the effectiveness for jointly extracting relation triplets. However, most of these models  suffer from incompletion and disorder problems when they extract multi-token entities from input sentences. To tackle these problems, we propose a generative, multi-task learning framework, named GenerativeRE. We firstly propose a special entity labelling method on both input and output sequences. During the training stage, GenerativeRE fine-tunes the pre-trained generative model and learns the special entity labels simultaneously. During the inference stage, we propose a novel copy mechanism equipped with three mask strategies, to generate the most probable tokens by diminishing the scope of the model decoder. Experimental results show that our model achieves 4.6% and 0.9% F1 score improvements over the current state-of-the-art methods in the NYT24 and NYT29 benchmark datasets respectively.
+Author{1}{Firstname}#=%=#Jiarun
+Author{1}{Lastname}#=%=#Cao
+Author{1}{Username}#=%=#jerrycao
+Author{1}{Email}#=%=#jiarun.cao@manchester.ac.uk
+Author{1}{Affiliation}#=%=#University of Manchester
+Author{2}{Firstname}#=%=#Sophia
+Author{2}{Lastname}#=%=#Ananiadou
+Author{2}{Username}#=%=#effie
+Author{2}{Email}#=%=#sophia.ananiadou@manchester.ac.uk
+Author{2}{Affiliation}#=%=#University of Manchester
+
+==========

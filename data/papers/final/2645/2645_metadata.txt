@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2645
+FinalPaperTitle#=%=#Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Ruiqi Zhong
+JobTitle#==#
+Organization#==#EECS Department of University of California, Berkeley
+2626 Hearst Ave, Berkeley, CA 94720
+Abstract#==#Large pre-trained language models (LMs) such as GPT-3 have acquired a surprising ability to perform zero-shot learning. For example, to classify sentiment without any training examples, we can "prompt" the LM with the review and the label description "Does the user like this movie?", and ask whether the next word is "yes" or "no". However, the next word prediction training objective is still misaligned with the target zero-shot learning objective. To address this weakness, we propose meta-tuning, which directly optimizes the zero-shot learning objective by fine-tuning pre-trained language models on a collection of datasets. We focus on classification tasks, and construct the meta-dataset by aggregating 43 existing datasets and annotating 441 label descriptions in a question-answering (QA) format. When evaluated on unseen tasks, meta-tuned models outperform a same-sized QA model and the previous SOTA zero-shot learning system based on natural language inference. Additionally, increasing parameter count from 220M to 770M improves AUC-ROC scores by 6.3%, and we forecast that even larger models would perform better. Therefore, measuring zero-shot learning performance on language models out-of-the-box might underestimate their true potential, and community-wide efforts on aggregating datasets and unifying their formats can help build models that answer prompts better.
+Author{1}{Firstname}#=%=#Ruiqi
+Author{1}{Lastname}#=%=#Zhong
+Author{1}{Username}#=%=#rz2383
+Author{1}{Email}#=%=#ruiqi-zhong@berkeley.edu
+Author{1}{Affiliation}#=%=#University of California, Berkeley
+Author{2}{Firstname}#=%=#Kristy
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Username}#=%=#kristylee
+Author{2}{Email}#=%=#kristylee@berkeley.edu
+Author{2}{Affiliation}#=%=#University of California, Berkeley
+Author{3}{Firstname}#=%=#Zheng
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#jackyzhang1216
+Author{3}{Email}#=%=#zhengzhang1216@berkeley.edu
+Author{3}{Affiliation}#=%=#University of California, Berkeley
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Klein
+Author{4}{Username}#=%=#klein
+Author{4}{Email}#=%=#klein@berkeley.edu
+Author{4}{Affiliation}#=%=#UC Berkeley / Microsoft
+
+==========

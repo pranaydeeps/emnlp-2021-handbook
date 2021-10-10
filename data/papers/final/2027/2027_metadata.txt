@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2027
+FinalPaperTitle#=%=#CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Yue Wang
+JobTitle#==#
+Organization#==#Salesforce Research Asia, 5 Temasek Blvd, Singapore
+Abstract#==#Pre-trained models for Natural Languages (NL) like BERT and GPT have been recently shown to transfer well to Programming Languages (PL) and largely benefit a broad set of code-related tasks. Despite their success, most current methods either rely on an encoder-only (or decoder-only) pre-training that is suboptimal for generation (resp. understanding) tasks or process the code snippet in the same way as NL, neglecting the special characteristics of PL such as token types. We present CodeT5, a unified pre-trained encoder-decoder Transformer model that better leverages the code semantics conveyed from the developer-assigned identifiers. Our model employs a unified framework to seamlessly support both code understanding and generation tasks and allows for multi-task learning. Besides, we propose a novel identifier-aware pre-training task that enables the model to distinguish which code tokens are identifiers and to recover them when they are masked. Furthermore, we propose to exploit the user-written code comments with a bimodal dual generation task for better NL-PL alignment. Comprehensive experiments show that CodeT5 significantly outperforms prior methods on understanding tasks such as code defect detection and clone detection, and generation tasks across various directions including PL-NL, NL-PL, and PL-PL. Further analysis reveals that our model can better capture semantic information from code.  Our code and pre-trained models are released at https://github.com/salesforce/CodeT5.
+Author{1}{Firstname}#=%=#Yue
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#ayueei
+Author{1}{Email}#=%=#wangyue2714@gmail.com
+Author{1}{Affiliation}#=%=#Salesforce Research
+Author{2}{Firstname}#=%=#Weishi
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wws202299
+Author{2}{Email}#=%=#weishi001@e.ntu.edu.sg
+Author{2}{Affiliation}#=%=#Nanyang Technological University
+Author{3}{Firstname}#=%=#Shafiq
+Author{3}{Lastname}#=%=#Joty
+Author{3}{Username}#=%=#rjoty
+Author{3}{Email}#=%=#srjoty@ntu.edu.sg
+Author{3}{Affiliation}#=%=#Nanyang Technological University; Salesforce AI Research
+Author{4}{Firstname}#=%=#Steven C.H.
+Author{4}{Lastname}#=%=#Hoi
+Author{4}{Username}#=%=#stevenhoi
+Author{4}{Email}#=%=#shoi@salesforce.com
+Author{4}{Affiliation}#=%=#Salesforce
+
+==========

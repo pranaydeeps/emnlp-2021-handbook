@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3183
+FinalPaperTitle#=%=#Revisiting the Uniform Information Density Hypothesis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Clara Meister
+JobTitle#==#
+Organization#==#ETH Zurich, Zurich Switzerland
+Abstract#==#The uniform information density (UID) hypothesis posits a preference among language users for utterances structured such that information is distributed uniformly across a signal. While its implications on language production have been well explored, the hypothesis potentially makes predictions about language comprehension and linguistic acceptability as well. Further, it is unclear how uniformity in a linguistic signal---or lack thereof---should be measured, and over which linguistic unit, e.g., the sentence or language level, this uniformity should hold. Here we investigate these facets of the UID hypothesis using reading time and acceptability data. While our reading time results are generally consistent with previous work, they are also consistent with a weakly super-linear effect of surprisal, which would be compatible with UID's predictions. For acceptability judgments, we find clearer evidence that non-uniformity in information density is predictive of lower acceptability. We then explore multiple operationalizations of UID, motivated by different interpretations of the original hypothesis, and analyze the scope over which the pressure towards uniformity is exerted. The explanatory power of a subset of the proposed operationalizations suggests that the strongest trend may be a regression towards a mean surprisal across the language, rather than the phrase, sentence, or document---a finding that supports a typical interpretation of UID, namely that it is the byproduct of language users maximizing the use of a (hypothetical) communication channel.
+Author{1}{Firstname}#=%=#Clara
+Author{1}{Lastname}#=%=#Meister
+Author{1}{Username}#=%=#cmeister
+Author{1}{Email}#=%=#clara.meister@inf.ethz.ch
+Author{1}{Affiliation}#=%=#ETH Zurich
+Author{2}{Firstname}#=%=#Tiago
+Author{2}{Lastname}#=%=#Pimentel
+Author{2}{Username}#=%=#tpimentel
+Author{2}{Email}#=%=#tpimentelms@gmail.com
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Patrick
+Author{3}{Lastname}#=%=#Haller
+Author{3}{Username}#=%=#haller
+Author{3}{Email}#=%=#haller@cl.uzh.ch
+Author{3}{Affiliation}#=%=#University of Zurich
+Author{4}{Firstname}#=%=#Lena
+Author{4}{Lastname}#=%=#Jäger
+Author{4}{Username}#=%=#lena
+Author{4}{Email}#=%=#jaeger@cl.uzh.ch
+Author{4}{Affiliation}#=%=#University of Zurich
+Author{5}{Firstname}#=%=#Ryan
+Author{5}{Lastname}#=%=#Cotterell
+Author{5}{Username}#=%=#rcotterell
+Author{5}{Email}#=%=#ryan.cotterell@gmail.com
+Author{5}{Affiliation}#=%=#ETH Zürich
+Author{6}{Firstname}#=%=#Roger
+Author{6}{Lastname}#=%=#Levy
+Author{6}{Username}#=%=#rlevy
+Author{6}{Email}#=%=#rplevy@mit.edu
+Author{6}{Affiliation}#=%=#Massachusetts Institute of Technology
+
+==========

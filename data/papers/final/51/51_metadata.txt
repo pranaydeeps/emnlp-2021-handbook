@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#51
+FinalPaperTitle#=%=#Neural News Recommendation with Collaborative News Encoding and Structural User Encoding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zhiming Mao
+JobTitle#==#
+Organization#==#Department of System Engineering and Engineering Management, The Chinese University of Hong Kong
+Abstract#==#Automatic news recommendation has gained much attention from the academic community and industry. Recent studies reveal that the key to this task lies within the effective representation learning of both news and users. Existing works typically encode news title and content separately while neglecting their semantic interaction, which is inadequate for news text comprehension. Besides, previous models encode user browsing history without leveraging the structural correlation of user browsed news to reflect user interests explicitly. In this work, we propose a news recommendation framework consisting of collaborative news encoding (CNE) and structural user encoding (SUE) to enhance news and user representation learning. CNE equipped with bidirectional LSTMs encodes news title and content collaboratively with cross-selection and cross-attention modules to learn semantic-interactive news representations. SUE utilizes graph convolutional networks to extract cluster-structural features of user history, followed by intra-cluster and inter-cluster attention modules to learn hierarchical user interest representations. Experiment results on the MIND dataset validate the effectiveness of our model to improve the performance of news recommendation.
+Author{1}{Firstname}#=%=#Zhiming
+Author{1}{Lastname}#=%=#Mao
+Author{1}{Username}#=%=#zhimingmao
+Author{1}{Email}#=%=#zmmao@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Xingshan
+Author{2}{Lastname}#=%=#Zeng
+Author{2}{Username}#=%=#zxshamson
+Author{2}{Email}#=%=#zeng.xingshan@huawei.com
+Author{2}{Affiliation}#=%=#Huawei Noah’s Ark Lab
+Author{3}{Firstname}#=%=#Kam-Fai
+Author{3}{Lastname}#=%=#Wong
+Author{3}{Username}#=%=#kfwong
+Author{3}{Email}#=%=#kfwong@se.cuhk.edu.hk
+Author{3}{Affiliation}#=%=#Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hong Kong
+
+==========

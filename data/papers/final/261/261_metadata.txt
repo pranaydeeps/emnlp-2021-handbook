@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#261
+FinalPaperTitle#=%=#Visually Grounded Concept Composition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Bowen Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#We investigate ways to compose complex concepts in texts from primitive ones while grounding them in images. We propose Concept and Relation Graph (CRG), which builds on top of constituency analysis and consists of recursively combined concepts with predicate functions. Meanwhile, we propose a concept composition neural network called Composer to leverage the CRG for visually grounded concept learning. Specifically, we learn the grounding of both primitive and all composed concepts by aligning them to images and show that learning to compose leads to more robust grounding results, measured in text-to-image matching accuracy. Notably, our model can model grounded concepts forming at both the finer-grained sentence level and the coarser-grained intermediate level (or word-level). Composer leads to pronounced improvement in  matching accuracy when the evaluation data has significant compound divergence from the training data.
+Author{1}{Firstname}#=%=#Bowen
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zbwglory
+Author{1}{Email}#=%=#zhan734@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Hexiang
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Username}#=%=#hexianghu
+Author{2}{Email}#=%=#hexiang.frank.hu@gmail.com
+Author{2}{Affiliation}#=%=#USC
+Author{3}{Firstname}#=%=#Linlu
+Author{3}{Lastname}#=%=#Qiu
+Author{3}{Username}#=%=#linluqiu
+Author{3}{Email}#=%=#linluqiu@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Peter
+Author{4}{Lastname}#=%=#Shaw
+Author{4}{Username}#=%=#petershaw
+Author{4}{Email}#=%=#petershaw@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Fei
+Author{5}{Lastname}#=%=#Sha
+Author{5}{Username}#=%=#feisha
+Author{5}{Email}#=%=#fsha@google.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#166
+FinalPaperTitle#=%=#Matching-oriented Embedding Quantization For Ad-hoc Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shitao Xiao
+JobTitle#==#
+Organization#==#
+Abstract#==#Product quantization (PQ) is a widely used technique for ad-hoc retrieval. Recent studies propose supervised PQ, where the embedding and quantization models can be jointly trained with supervised learning. However, there is a lack of appropriate formulation of the joint training objective; thus, the improvements over previous non-supervised baselines are limited in reality. In this work, we propose the Matching-oriented Product Quantization (MoPQ), where a novel objective Multinoulli Contrastive Loss (MCL) is formulated. With the minimization of MCL, we are able to maximize the matching probability of query and ground-truth key, which contributes to the optimal retrieval accuracy. Given that the exact computation of MCL is intractable due to the demand of vast contrastive samples, we further propose the Differentiable Cross-device Sampling (DCS), which significantly augments the contrastive samples for precise approximation of MCL. We conduct extensive experimental studies on four real-world datasets, whose results verify the effectiveness of MoPQ. The code is available at https://github.com/microsoft/MoPQ.
+Author{1}{Firstname}#=%=#Shitao
+Author{1}{Lastname}#=%=#Xiao
+Author{1}{Username}#=%=#shitaoxiao
+Author{1}{Email}#=%=#stxiao@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Zheng
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#zhengliu
+Author{2}{Email}#=%=#zhengliu@microsoft.com
+Author{2}{Affiliation}#=%=#MSRA
+Author{3}{Firstname}#=%=#Yingxia
+Author{3}{Lastname}#=%=#Shao
+Author{3}{Username}#=%=#shaoyx
+Author{3}{Email}#=%=#shaoyx@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Defu
+Author{4}{Lastname}#=%=#Lian
+Author{4}{Username}#=%=#defulian
+Author{4}{Email}#=%=#dove.ustc@gmail.com
+Author{4}{Affiliation}#=%=#University of Science and Technology of China
+Author{5}{Firstname}#=%=#Xing
+Author{5}{Lastname}#=%=#Xie
+Author{5}{Username}#=%=#xing
+Author{5}{Email}#=%=#xingx@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research Asia
+
+==========

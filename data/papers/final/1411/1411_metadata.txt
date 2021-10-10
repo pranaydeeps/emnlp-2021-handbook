@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1411
+FinalPaperTitle#=%=#Time-dependent Entity Embedding is not All You Need: A Re-evaluation of Temporal Knowledge Graph Completion Models under a Unified Framework
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Zhen Han
+JobTitle#==#
+Organization#==#
+Abstract#==#Various temporal knowledge graph (KG) completion models have been proposed in the recent literature. The models usually contain two parts, a temporal embedding layer and a score function derived from existing static KG modeling approaches. Since the approaches differ along several dimensions, including different score functions and training strategies, the individual contributions of different temporal embedding techniques to model performance are not always clear. In this work, we systematically study six temporal embedding approaches and empirically quantify their performance across a wide range of configurations with about 3000 experiments and 13159 GPU hours. 
+We classify the temporal embeddings into two classes: (1) timestamp embeddings and (2) time-dependent entity embeddings. Despite the common belief that the latter is more expressive, an extensive experimental study shows that timestamp embeddings can achieve on-par or even better performance with significantly fewer parameters. Moreover, we find that when trained appropriately, the relative performance differences between various temporal embeddings often shrink and sometimes even reverse when compared to prior results. For example, TTransE \citep{leblay2018deriving}, one of the first temporal KG models, can outperform more recent architectures on ICEWS datasets. To foster further research, we provide the first unified open-source framework for temporal KG completion models with full composability, where temporal embeddings, score functions, loss functions, regularizers, and the explicit modeling of reciprocal relations can be combined arbitrarily.
+Author{1}{Firstname}#=%=#Zhen
+Author{1}{Lastname}#=%=#Han
+Author{1}{Username}#=%=#jeff20100601
+Author{1}{Email}#=%=#zhen.han@campus.lmu.de
+Author{1}{Affiliation}#=%=#Ludwig Maximilian University of Munich
+Author{2}{Firstname}#=%=#Gengyuan
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#gengyuanmax@gmail.com
+Author{2}{Affiliation}#=%=#Technical University of Munich
+Author{3}{Firstname}#=%=#Yunpu
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Username}#=%=#lacrimosaxxx
+Author{3}{Email}#=%=#cognitive.yunpu@gmail.com
+Author{3}{Affiliation}#=%=#LMU
+Author{4}{Firstname}#=%=#Volker
+Author{4}{Lastname}#=%=#Tresp
+Author{4}{Username}#=%=#tresp
+Author{4}{Email}#=%=#volker.tresp@lmu.de
+Author{4}{Affiliation}#=%=#LMU
+
+==========

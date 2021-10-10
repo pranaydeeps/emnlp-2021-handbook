@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1949
+FinalPaperTitle#=%=#Devil's Advocate: Novel Boosting Ensemble Method from Psychological Findings for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hwiyeol Jo
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a new form of ensemble method--Devil's Advocate, which uses a deliberately dissenting model  to force other submodels within the ensemble to better collaborate. Our method consists of two different training settings: one follows the conventional training process (Norm), and the other is trained by artificially generated labels (DevAdv). After training the models, Norm models are fine-tuned through an additional loss function, which uses the DevAdv model as a constraint. In making a final decision, the proposed ensemble model sums the scores of Norm models and then subtracts the score of the DevAdv model. The DevAdv model improves the overall performance of the other models within the ensemble. In addition to our ensemble framework being based on psychological background, it also shows comparable or improved performance on 5 text classification tasks when compared to conventional ensemble methods.
+Author{1}{Firstname}#=%=#Hwiyeol
+Author{1}{Lastname}#=%=#Jo
+Author{1}{Username}#=%=#hwiyeoljo
+Author{1}{Email}#=%=#hwiyeolj@gmail.com
+Author{1}{Affiliation}#=%=#Seoul National University
+Author{2}{Firstname}#=%=#Jaeseo
+Author{2}{Lastname}#=%=#Lim
+Author{2}{Username}#=%=#jaeseolim
+Author{2}{Email}#=%=#jaeseolim@snu.ac.kr
+Author{2}{Affiliation}#=%=#Seoul National University
+Author{3}{Firstname}#=%=#Byoung-Tak
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#btzhang
+Author{3}{Email}#=%=#btzhang@bi.snu.ac.kr
+Author{3}{Affiliation}#=%=#Seoul National University
+
+==========

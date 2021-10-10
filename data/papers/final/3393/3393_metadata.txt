@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3393
+FinalPaperTitle#=%=#Improving Stance Detection with Multi-Dataset Learning and Knowledge Distillation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Yingjie Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Stance detection determines whether the author of a text is in favor of, against or neutral to a specific target and provides valuable insights into important events such as legalization of abortion. Despite significant progress on this task, one of the remaining challenges is the scarcity of annotations. Besides, most previous works focused on a hard-label training in which meaningful similarities among categories are discarded during training. To address these challenges, first, we evaluate a multi-target and a multi-dataset training settings by training one model on each dataset and datasets of different domains, respectively. We show that models can learn more universal representations with respect to targets in these settings. Second, we investigate the knowledge distillation in stance detection and observe that transferring knowledge from a teacher model to a student model can be beneficial in our proposed training settings. Moreover, we propose an Adaptive Knowledge Distillation (AKD) method that applies instance-specific temperature scaling to the teacher and student predictions. Results show that the multi-dataset model performs best on all datasets and it can be further improved by the proposed AKD, outperforming the state-of-the-art by a large margin. We publicly release our code.
+Author{1}{Firstname}#=%=#Yingjie
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#yingjie_li
+Author{1}{Email}#=%=#yli300@uic.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Chenye
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#yeye8863
+Author{2}{Email}#=%=#czhao43@uic.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Chicago
+Author{3}{Firstname}#=%=#Cornelia
+Author{3}{Lastname}#=%=#Caragea
+Author{3}{Username}#=%=#cornelia.caragea
+Author{3}{Email}#=%=#cornelia@uic.edu
+Author{3}{Affiliation}#=%=#University of Illinois at Chicago
+
+==========

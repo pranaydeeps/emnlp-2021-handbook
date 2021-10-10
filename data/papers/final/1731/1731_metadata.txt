@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1731
+FinalPaperTitle#=%=#Powering Comparative Classification with Sentiment Analysis via Domain Adaptive Knowledge Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Zeyu Li
+JobTitle#==#
+Organization#==#Department of Computer Science,
+UCLA, Los Angeles, 90095
+Abstract#==#We study Comparative Preference Classification (CPC) which aims at predicting whether a preference comparison exists between two entities in a given sentence and, if so, which entity is preferred over the other. High-quality CPC models can significantly benefit applications such as comparative question answering and review-based recommendation. Among the existing approaches, non-deep learning methods suffer from inferior performances. The state-of-the-art graph neural network-based ED-GAT (Ma et al., 2020) only considers syntactic information while ignoring the critical semantic relations and the sentiments to the compared entities. We propose Sentiment Analysis Enhanced COmparative Network (SAECON) which improves CPC accuracy with a sentiment analyzer that learns sentiments to individual entities via domain adaptive knowledge transfer. Experiments on the CompSent-19 (Panchenko et al.,  2019) dataset present a significant improvement on the F1 scores over the best existing CPC approaches.
+Author{1}{Firstname}#=%=#Zeyu
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#zeyuli
+Author{1}{Email}#=%=#zyli@cs.ucla.edu
+Author{1}{Affiliation}#=%=#UCLA
+Author{2}{Firstname}#=%=#Yilong
+Author{2}{Lastname}#=%=#Qin
+Author{2}{Email}#=%=#louisqin@g.ucla.edu
+Author{2}{Affiliation}#=%=#UCLA
+Author{3}{Firstname}#=%=#Zihan
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#zihanliu@g.ucla.edu
+Author{3}{Affiliation}#=%=#UCLA
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#weiwangucla
+Author{4}{Email}#=%=#weiwang@cs.ucla.edu
+Author{4}{Affiliation}#=%=#UCLA
+
+==========

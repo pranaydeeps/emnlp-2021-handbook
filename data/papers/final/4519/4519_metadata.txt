@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#4519
+FinalPaperTitle#=%=#Entity Relation Extraction as Dependency Parsing in Visually Rich Documents
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yue Zhang
+JobTitle#==#
+Organization#==#Alibaba Group
+West Tower T6, UK Center, EFC, No.1122, Xiang Wang Street, Yuhang District, Hangzhou, Zhejiang Province, China
+Abstract#==#Previous works on key information extraction from visually rich documents (VRDs) mainly focus on labeling the text within each bounding box (i.e.,semantic entity), while the relations  in-between  are  largely  unexplored.   In this  paper,  we  adapt  the  popular  dependency parsing  model,   the  biaffine  parser,   to  this entity  relation  extraction task. Being  different  from  the  original  dependency  parsing model which recognizes dependency relations between words, we identify relations between groups  of  words  with  layout  information  instead. We have compared different representations of the semantic entity, different VRD encoders, and different relation decoders. For the model training, we explore multi-task learning to combine entity labeling and relation extraction tasks; and for the evaluation, we conduct experiments on different datasets with filtering and  augmentation.    The  results  demonstrate that our proposed model achieves 65.96% F1 score on the FUNSD dataset.  As for the real-world application, our model has been applied to  the  in-house  customs  data,  achieving  reliable performance in the production setting.
+Author{1}{Firstname}#=%=#Yue
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zhangyue_nlp
+Author{1}{Email}#=%=#shiyu.zy@alibaba-inc.com
+Author{1}{Affiliation}#=%=#Alibaba Group
+Author{2}{Firstname}#=%=#Zhang
+Author{2}{Lastname}#=%=#Bo
+Author{2}{Username}#=%=#klayzhang
+Author{2}{Email}#=%=#klayzhang.zb@alibaba-inc.com
+Author{2}{Affiliation}#=%=#alibaba-inc.com
+Author{3}{Firstname}#=%=#Rui
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#mars198356
+Author{3}{Email}#=%=#mars198356@hotmail.com
+Author{3}{Affiliation}#=%=#Vipshop (China) Co., Ltd.
+Author{4}{Firstname}#=%=#Junjie
+Author{4}{Lastname}#=%=#Cao
+Author{4}{Username}#=%=#caojunjie
+Author{4}{Email}#=%=#junjie.junjiecao@alibaba-inc.com
+Author{4}{Affiliation}#=%=#Alibaba
+Author{5}{Firstname}#=%=#Chen
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#chenli_ust_hk
+Author{5}{Email}#=%=#puji.lc@alibaba-inc.com
+Author{5}{Affiliation}#=%=#Alibaba
+Author{6}{Firstname}#=%=#Zuyi
+Author{6}{Lastname}#=%=#Bao
+Author{6}{Username}#=%=#baozuyi
+Author{6}{Email}#=%=#zuyi.bzy@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba
+
+==========

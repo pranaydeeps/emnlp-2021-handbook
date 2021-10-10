@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#1537
+FinalPaperTitle#=%=#On the Influence of Masking Policies in Intermediate Pre-training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Qinyuan Ye
+JobTitle#==#
+Organization#==#
+Abstract#==#Current NLP models are predominantly trained through a two-stage "pre-train then fine-tune" pipeline. Prior work has shown that inserting an intermediate pre-training stage, using heuristic masking policies for masked language modeling (MLM), can significantly improve final performance. However, it is still unclear (1) in what cases such intermediate pre-training is helpful, (2) whether hand-crafted heuristic objectives are optimal for a given task, and (3) whether a masking policy designed for one task is generalizable beyond that task. In this paper, we perform a large-scale empirical study to investigate the effect of various masking policies in intermediate pre-training with nine selected tasks across three categories. Crucially, we introduce methods to automate the discovery of optimal masking policies via direct supervision or meta-learning. We conclude that the success of intermediate pre-training is dependent on appropriate pre-train corpus, selection of output format (i.e., masked spans or full sentence), and clear understanding of the role that MLM plays for the downstream task. In addition, we find our learned masking policies outperform the heuristic of masking named entities on TriviaQA, and policies learned from one task can positively transfer to other tasks in certain cases, inviting future research in this direction.
+Author{1}{Firstname}#=%=#Qinyuan
+Author{1}{Lastname}#=%=#Ye
+Author{1}{Username}#=%=#yeqy15
+Author{1}{Email}#=%=#qinyuany@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Belinda Z.
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#belindali
+Author{2}{Email}#=%=#bzl@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#Sinong
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#sinongwang
+Author{3}{Email}#=%=#sinongwang@fb.com
+Author{3}{Affiliation}#=%=#Facebook AI
+Author{4}{Firstname}#=%=#Benjamin
+Author{4}{Lastname}#=%=#Bolte
+Author{4}{Username}#=%=#bkbolte
+Author{4}{Email}#=%=#ben@bolte.cc
+Author{4}{Affiliation}#=%=#Facebook
+Author{5}{Firstname}#=%=#Hao
+Author{5}{Lastname}#=%=#Ma
+Author{5}{Username}#=%=#gabema
+Author{5}{Email}#=%=#gabe.hao.ma@gmail.com
+Author{5}{Affiliation}#=%=#Facebook AI
+Author{6}{Firstname}#=%=#Wen-tau
+Author{6}{Lastname}#=%=#Yih
+Author{6}{Username}#=%=#scottyih
+Author{6}{Email}#=%=#scottyih.review@gmail.com
+Author{6}{Affiliation}#=%=#Facebook AI Research
+Author{7}{Firstname}#=%=#Xiang
+Author{7}{Lastname}#=%=#Ren
+Author{7}{Username}#=%=#xren7
+Author{7}{Email}#=%=#xiangren@usc.edu
+Author{7}{Affiliation}#=%=#University of Southern California
+Author{8}{Firstname}#=%=#Madian
+Author{8}{Lastname}#=%=#Khabsa
+Author{8}{Username}#=%=#madian
+Author{8}{Email}#=%=#madian.kh@gmail.com
+Author{8}{Affiliation}#=%=#Facebook
+
+==========

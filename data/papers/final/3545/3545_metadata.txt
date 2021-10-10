@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3545
+FinalPaperTitle#=%=#"Was it "stated" or was it "claimed"?: How linguistic bias affects generative language models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Roma Patel
+JobTitle#==#
+Organization#==#
+Abstract#==#People use language in subtle and nuanced ways to convey their beliefs. For instance, saying \textit{claimed} instead of \textit{said} casts doubt on the truthfulness of the underlying proposition, thus representing the author's opinion on the matter. Several works have identified such linguistic classes of words that occur frequently in natural language text and are bias-inducing by virtue of their framing effects. In this paper, we test whether generative language models (including GPT-2 \cite{radford2019language} are sensitive to these linguistic framing effects. In particular, we test whether prompts that contain linguistic markers of author bias (e.g., hedges, implicatives, subjective intensifiers, assertives) influence the distribution of the generated text. Although these framing effects are subtle and stylistic, we find evidence that they lead to measurable style and topic differences in the generated text, leading to language that is, on average, more polarised and more skewed towards controversial entities and events.
+Author{1}{Firstname}#=%=#Roma
+Author{1}{Lastname}#=%=#Patel
+Author{1}{Username}#=%=#roma996
+Author{1}{Email}#=%=#romapatel@brown.edu
+Author{1}{Affiliation}#=%=#Brown University
+Author{2}{Firstname}#=%=#Ellie
+Author{2}{Lastname}#=%=#Pavlick
+Author{2}{Username}#=%=#epavlick
+Author{2}{Email}#=%=#ellie_pavlick@brown.edu
+Author{2}{Affiliation}#=%=#Brown University
+
+==========

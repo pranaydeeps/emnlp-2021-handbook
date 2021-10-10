@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1047
+FinalPaperTitle#=%=#Towards Document-Level Paraphrase Generation with Sentence Rewriting and Reordering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Zhe Lin
+JobTitle#==#
+Organization#==#Wangxuan Institute of Computer Technology, Peking University 
+Center for Data Science, Peking University
+The MOE Key Laboratory of Computational Linguistics, Peking University
+Abstract#==#Paraphrase generation is an important task in natural language processing. Previous works focus on sentence-level paraphrase generation, while ignoring document-level paraphrase generation, which is a more challenging and valuable task. In this paper, we explore the task of document-level paraphrase generation for the first time and focus on the inter-sentence diversity by considering sentence rewriting and reordering. We propose CoRPG (Coherence Relationship guided Paraphrase Generation), which leverages graph GRU to encode the coherence relationship graph and get the coherence-aware representation for each sentence, which can be used for re-arranging the multiple (possibly modified) input sentences. We create a pseudo document-level paraphrase dataset for training CoRPG. Automatic evaluation results show CoRPG outperforms several strong baseline models on the BERTScore and diversity scores. Human evaluation also shows our model can generate document paraphrase with more diversity and semantic preservation.
+Author{1}{Firstname}#=%=#Zhe
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#cscc
+Author{1}{Email}#=%=#linzhe@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yitao
+Author{2}{Lastname}#=%=#Cai
+Author{2}{Username}#=%=#y_cai
+Author{2}{Email}#=%=#caiyitao@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Xiaojun
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Username}#=%=#wanxiaojun
+Author{3}{Email}#=%=#wanxiaojun@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

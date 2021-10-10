@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#96
+FinalPaperTitle#=%=#{GFST}: {G}ender-Filtered Self-Training for More Accurate Gender in Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Anna Currey
+JobTitle#==#
+Organization#==#
+Abstract#==#Targeted evaluations have found that machine translation systems often output incorrect gender in translations, even when the gender is clear from context. Furthermore, these incorrectly gendered translations have the potential to reflect or amplify social biases. We propose gender-filtered self-training (GFST) to improve gender translation accuracy on unambiguously gendered inputs. Our GFST approach uses a source monolingual corpus and an initial model to generate gender-specific pseudo-parallel corpora which are then filtered and added to the training data. We evaluate GFST on translation from English into five languages, finding that it improves gender accuracy without damaging generic quality. We also show the viability of GFST on several experimental settings, including re-training from scratch, fine-tuning, controlling the gender balance of the data, forward translation, and back-translation.
+Author{1}{Firstname}#=%=#Prafulla Kumar
+Author{1}{Lastname}#=%=#Choubey
+Author{1}{Username}#=%=#prafullakchoubey
+Author{1}{Email}#=%=#pchoubey@salesforce.com
+Author{1}{Affiliation}#=%=#Salesforce Research
+Author{2}{Firstname}#=%=#Anna
+Author{2}{Lastname}#=%=#Currey
+Author{2}{Username}#=%=#annacurrey
+Author{2}{Email}#=%=#amscurrey@gmail.com
+Author{2}{Affiliation}#=%=#Amazon Web Services
+Author{3}{Firstname}#=%=#Prashant
+Author{3}{Lastname}#=%=#Mathur
+Author{3}{Username}#=%=#prashant
+Author{3}{Email}#=%=#pm.prashant@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Georgiana
+Author{4}{Lastname}#=%=#Dinu
+Author{4}{Username}#=%=#georgiana.dinu
+Author{4}{Email}#=%=#gddinu@amazon.com
+Author{4}{Affiliation}#=%=#Amazon AWS
+
+==========

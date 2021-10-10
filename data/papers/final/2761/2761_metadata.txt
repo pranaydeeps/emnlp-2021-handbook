@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#2761
+FinalPaperTitle#=%=#A Massively Multilingual Analysis of Cross-linguality in Shared Embedding Space
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Alexander Jones
+JobTitle#==#
+Organization#==#Dartmouth College
+Hanover, NH 03755
+Abstract#==#In cross-lingual language models, representations for many different languages live in the same space. Here, we investigate the linguistic and non-linguistic factors affecting sentence-level alignment in cross-lingual pretrained language models for 101 languages and 5,050 language pairs. Using BERT-based LaBSE and BiLSTM-based LASER as our models, and the Bible as our corpus, we compute a task-based measure of cross-lingual alignment in the form of bitext retrieval performance, as well as four intrinsic measures of vector space alignment and isomorphism. We then examine a range of linguistic, quasi-linguistic, and training-related features as potential predictors of these alignment metrics. The results of our analyses show that word order agreement and agreement in morphological complexity are two of the strongest linguistic predictors of cross-linguality. We also note in-family training data as a stronger predictor than language-specific training data across the board. We verify some of our linguistic findings by looking at the effect of morphological segmentation on English-Inuktitut alignment, in addition to examining the effect of word order agreement on isomorphism for 66 zero-shot language pairs from a different corpus. We make the data and code for our experiments publicly available.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Jones
+Author{1}{Username}#=%=#alexjones1925
+Author{1}{Email}#=%=#alexander.g.jones.23@dartmouth.edu
+Author{1}{Affiliation}#=%=#Dartmouth College
+Author{2}{Firstname}#=%=#William Yang
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangwilliamyang
+Author{2}{Email}#=%=#william@cs.ucsb.edu
+Author{2}{Affiliation}#=%=#Unversity of California, Santa Barbara
+Author{3}{Firstname}#=%=#Kyle
+Author{3}{Lastname}#=%=#Mahowald
+Author{3}{Username}#=%=#mahowak
+Author{3}{Email}#=%=#kmahowald@gmail.com
+Author{3}{Affiliation}#=%=#University of California, Santa Barbara
+
+==========

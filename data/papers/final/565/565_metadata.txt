@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#565
+FinalPaperTitle#=%=#Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Bo Zheng
+JobTitle#==#
+Organization#==#
+Abstract#==#Compared to monolingual models, cross-lingual models usually require a more expressive vocabulary to represent all languages adequately. We find that many languages are under-represented in recent cross-lingual language models due to the limited vocabulary capacity. To this end, we propose an algorithm VoCap to determine the desired vocabulary capacity of each language. However, increasing the vocabulary size significantly slows down the pre-training speed. In order to address the issues, we propose k-NN-based target sampling to accelerate the expensive softmax. Our experiments show that the multilingual vocabulary learned with VoCap benefits cross-lingual language model pre-training. Moreover, k-NN-based target sampling mitigates the side-effects of increasing the vocabulary size while achieving comparable performance and faster pre-training speed. The code and the pretrained multilingual vocabularies are available at https://github.com/bozheng-hit/VoCapXLM.
+Author{1}{Firstname}#=%=#Bo
+Author{1}{Lastname}#=%=#Zheng
+Author{1}{Username}#=%=#bzheng
+Author{1}{Email}#=%=#dsoul0621@gmail.com
+Author{1}{Affiliation}#=%=#Harbin institute of technology
+Author{2}{Firstname}#=%=#Li
+Author{2}{Lastname}#=%=#Dong
+Author{2}{Username}#=%=#donglixp
+Author{2}{Email}#=%=#donglixp@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Shaohan
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Username}#=%=#shaohan
+Author{3}{Email}#=%=#shaohanh@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia
+Author{4}{Firstname}#=%=#Saksham
+Author{4}{Lastname}#=%=#Singhal
+Author{4}{Username}#=%=#saksham.singhal1
+Author{4}{Email}#=%=#saksham.singhal1@outlook.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Wanxiang
+Author{5}{Lastname}#=%=#Che
+Author{5}{Username}#=%=#wanxiang
+Author{5}{Email}#=%=#wanxiang@gmail.com
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology
+Author{6}{Firstname}#=%=#Ting
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#tliu72
+Author{6}{Email}#=%=#tliu72@qq.com
+Author{6}{Affiliation}#=%=#Harbin Institute of Technology
+Author{7}{Firstname}#=%=#Xia
+Author{7}{Lastname}#=%=#Song
+Author{7}{Username}#=%=#xiaso1
+Author{7}{Email}#=%=#xiaso1@outlook.com
+Author{7}{Affiliation}#=%=#Microsoft
+Author{8}{Firstname}#=%=#Furu
+Author{8}{Lastname}#=%=#Wei
+Author{8}{Username}#=%=#fuwei
+Author{8}{Email}#=%=#fuwei@microsoft.com
+Author{8}{Affiliation}#=%=#Microsoft Research
+
+==========

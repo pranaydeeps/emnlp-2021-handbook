@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3370
+FinalPaperTitle#=%=#Distilling Knowledge for Empathy Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mahshid Hosseini
+JobTitle#==#
+Organization#==#
+Abstract#==#Empathy is the link between self and others. Detecting and understanding empathy is a key element for improving human-machine interaction.  However, annotating data for detecting empathy at a large scale is a challenging task. This paper employs multi-task training with knowledge distillation to incorporate knowledge from available resources (emotion and sentiment) to detect empathy from the natural language in different domains. This approach yields better results on an existing news-related empathy dataset compared to strong baselines. In addition, we build a new dataset for empathy prediction with fine-grained empathy direction, seeking or providing empathy, from Twitter.  We release our dataset for research purposes.
+Author{1}{Firstname}#=%=#Mahshid
+Author{1}{Lastname}#=%=#Hosseini
+Author{1}{Username}#=%=#mahshidhos
+Author{1}{Email}#=%=#mhosse4@uic.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Cornelia
+Author{2}{Lastname}#=%=#Caragea
+Author{2}{Username}#=%=#cornelia.caragea
+Author{2}{Email}#=%=#cornelia@uic.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Chicago
+
+==========

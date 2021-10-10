@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#4542
+FinalPaperTitle#=%=#Contrastive Representation Learning for Exemplar-Guided Paraphrase Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Haoran Yang
+JobTitle#==#
+Organization#==#The Chinese University of Hong Kong, Shatin, NT, Hong Kong SAR, The People's Republic of China
+Abstract#==#Exemplar-Guided Paraphrase Generation (EGPG) aims to generate a target sentence which conforms to the style  of the given exemplar while encapsulating the content information of the source sentence.
+In this paper, we propose a new method with the goal of learning a better representation of the style and the content. This method is mainly motivated by the recent success of contrastive learning which has demonstrated its power in unsupervised feature extraction tasks. The idea is to design two contrastive losses with respect to the content and the style by considering two problem characteristics during training. One characteristic is that the target sentence shares the same content with the source sentence, and the second characteristic is that the target sentence shares the same style with the exemplar. These two contrastive losses are incorporated into the general encoder-decoder paradigm. 
+Experiments on two datasets, namely QQP-Pos and ParaNMT, demonstrate the effectiveness of our proposed constrastive losses.
+Author{1}{Firstname}#=%=#Haoran
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#holen
+Author{1}{Email}#=%=#hryang@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Wai
+Author{2}{Lastname}#=%=#Lam
+Author{2}{Username}#=%=#wlam
+Author{2}{Email}#=%=#wlam@se.cuhk.edu.hk
+Author{2}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{3}{Firstname}#=%=#Piji
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#lipiji
+Author{3}{Email}#=%=#lipiji.pz@gmail.com
+Author{3}{Affiliation}#=%=#Tencent AI Lab
+
+==========

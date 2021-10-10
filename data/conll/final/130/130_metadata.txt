@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#130
+FinalPaperTitle#=%=#NOPE: A Corpus of Naturally-Occurring Presuppositions in English
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Sebastian Schuster
+JobTitle#==#
+Organization#==#Center for Data Science
+New York University
+60 5th Ave
+New York, NY 10011
+Abstract#==#Understanding language requires grasping not only the overtly stated content, but also making inferences about things that were left unsaid. 
+These inferences include presuppositions, a phenomenon by which a listener learns about new information through reasoning about what a speaker takes as given. Presuppositions require complex understanding of the lexical and syntactic properties that trigger them as well as the broader conversational context. In this work, we introduce the Naturally-Occurring Presuppositions in English (NOPE) Corpus to investigate the context-sensitivity of 10 different types of presupposition triggers and to evaluate machine learning models' ability to predict human inferences. We find that most of the triggers we investigate exhibit moderate variability. We further find that transformer-based models draw correct inferences in simple cases involving presuppositions, but they fail to capture the minority of exceptional cases in which human judgments reveal complex interactions between context and triggers.
+Author{1}{Firstname}#=%=#Alicia
+Author{1}{Lastname}#=%=#Parrish
+Author{1}{Username}#=%=#aliciaparrish
+Author{1}{Email}#=%=#alicia.v.parrish@nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Sebastian
+Author{2}{Lastname}#=%=#Schuster
+Author{2}{Username}#=%=#sebschu
+Author{2}{Email}#=%=#ss9536@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Alex
+Author{3}{Lastname}#=%=#Warstadt
+Author{3}{Username}#=%=#alexwarstadt
+Author{3}{Email}#=%=#alexwarstadt@gmail.com
+Author{3}{Affiliation}#=%=#New York University
+Author{4}{Firstname}#=%=#Omar
+Author{4}{Lastname}#=%=#Agha
+Author{4}{Username}#=%=#omarsagha
+Author{4}{Email}#=%=#agha@nyu.edu
+Author{4}{Affiliation}#=%=#New York University
+Author{5}{Firstname}#=%=#Soo-Hwan
+Author{5}{Lastname}#=%=#Lee
+Author{5}{Username}#=%=#soohwan
+Author{5}{Email}#=%=#soohwanstevenlee@gmail.com
+Author{5}{Affiliation}#=%=#New York University
+Author{6}{Firstname}#=%=#Zhuoye
+Author{6}{Lastname}#=%=#Zhao
+Author{6}{Username}#=%=#oahzz
+Author{6}{Email}#=%=#zhuoye.zhao@nyu.edu
+Author{6}{Affiliation}#=%=#NYU
+Author{7}{Firstname}#=%=#Samuel R.
+Author{7}{Lastname}#=%=#Bowman
+Author{7}{Username}#=%=#sbowman
+Author{7}{Email}#=%=#bowman@nyu.edu
+Author{7}{Affiliation}#=%=#New York University
+Author{8}{Firstname}#=%=#Tal
+Author{8}{Lastname}#=%=#Linzen
+Author{8}{Username}#=%=#tallinzen
+Author{8}{Email}#=%=#linzen@nyu.edu
+Author{8}{Affiliation}#=%=#New York University
+
+==========

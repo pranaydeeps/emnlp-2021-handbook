@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3013
+FinalPaperTitle#=%=#ConSeC: Word Sense Disambiguation as Continuous Sense Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Edoardo Barba
+JobTitle#==#
+Organization#==#Sapienza University of Rome
+Abstract#==#Supervised systems have nowadays become the standard recipe for Word Sense Disambiguation (WSD), with Transformer-based language models as their primary ingredient. However, while these systems have certainly attained unprecedented performances, virtually all of them operate under the constraining assumption that, given a context, each word can be disambiguated individually with no account of the other sense choices. To address this limitation and drop this assumption, we propose CONtinuous SEnse Comprehension (ConSeC), a novel approach to WSD: leveraging a recent re-framing of this task as a text extraction problem, we adapt it to our formulation and introduce a feedback loop strategy that allows the disambiguation of a target word to be conditioned not only on its context but also on the explicit senses assigned to nearby words. We evaluate ConSeC and examine how its components lead it to surpass all its competitors and set a new state of the art on English WSD. We also explore how ConSeC fares in the cross-lingual setting, focusing on 8 languages with various degrees of resource availability, and report significant improvements over prior systems. We release our code at https://github.com/SapienzaNLP/consec.
+Author{1}{Firstname}#=%=#Edoardo
+Author{1}{Lastname}#=%=#Barba
+Author{1}{Username}#=%=#edobobo
+Author{1}{Email}#=%=#barba@di.uniroma1.it
+Author{1}{Affiliation}#=%=#Sapienza University of Rome
+Author{2}{Firstname}#=%=#Luigi
+Author{2}{Lastname}#=%=#Procopio
+Author{2}{Username}#=%=#poccio
+Author{2}{Email}#=%=#procopio@di.uniroma1.it
+Author{2}{Affiliation}#=%=#PhD Student
+Author{3}{Firstname}#=%=#Roberto
+Author{3}{Lastname}#=%=#Navigli
+Author{3}{Username}#=%=#navigli
+Author{3}{Email}#=%=#roberto.navigli@uniroma1.it
+Author{3}{Affiliation}#=%=#Sapienza University of Rome
+
+==========

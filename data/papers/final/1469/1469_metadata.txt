@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#1469
+FinalPaperTitle#=%=#Few-Shot Text Generation with Natural Language Instructions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Timo Schick
+JobTitle#==#
+Organization#==#Ludwig-Maximilians-Universität München
+Geschwister-Scholl-Platz 1
+80539 München
+Abstract#==#Providing pretrained language models with simple task descriptions in natural language enables them to solve some tasks in a fully unsupervised fashion. Moreover, when combined with regular learning from examples, this idea yields impressive few-shot results for a wide range of text classification tasks. It is also a promising direction to improve data efficiency in generative settings, but there are several challenges to using a combination of task descriptions and example-based learning for text generation. In particular, it is crucial to find task descriptions that are easy to understand for the pretrained model and to ensure that it actually makes good use of them; furthermore, effective measures against overfitting have to be implemented.
+
+In this paper, we show how these challenges can be tackled: We introduce GenPET, a method for text generation that is based on pattern-exploiting training, a recent approach for combining textual instructions with supervised learning that only works for classification tasks. On several summarization and headline generation datasets, GenPET gives consistent improvements over strong baselines in few-shot settings.
+Author{1}{Firstname}#=%=#Timo
+Author{1}{Lastname}#=%=#Schick
+Author{1}{Username}#=%=#timoschick
+Author{1}{Email}#=%=#timo.schick@sulzer.de
+Author{1}{Affiliation}#=%=#LMU Munich / Sulzer GmbH / Google
+Author{2}{Firstname}#=%=#Hinrich
+Author{2}{Lastname}#=%=#Schütze
+Author{2}{Username}#=%=#cislmu
+Author{2}{Email}#=%=#inquiries@cislmu.org
+Author{2}{Affiliation}#=%=#Center for Information and Language Processing, University of Munich
+
+==========

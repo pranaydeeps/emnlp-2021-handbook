@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#4314
+FinalPaperTitle#=%=#Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Abhilash Nandy
+JobTitle#==#
+Organization#==#
+Abstract#==#Answering questions asked from instructional corpora such as E-manuals, recipe books, etc., has been far less studied than open-domain factoid context-based question answering. This can be primarily attributed to the absence of standard benchmark datasets. In this paper, we meticulously create a large amount of data connected with E-manuals and develop a suitable algorithm to exploit it. We collect E-Manual Corpus, a huge corpus of 307,957 E-manuals, and pretrain RoBERTa on this large corpus. We create various benchmark QA datasets which include question answer pairs curated by experts based upon two E-manuals,  real user questions from Community Question Answering Forum pertaining to E-manuals etc. We introduce EMQAP (E-Manual Question Answering Pipeline) that answers questions pertaining to electronics devices. Built upon the pretrained RoBERTa, it harbors a  supervised multi-task learning framework which efficiently performs the dual tasks of identifying the section in the E-manual where the answer can be found and the exact answer span within that section. For E-Manual annotated question-answer pairs, we show an improvement of about 40% in ROUGE-L F1 scores over most competitive baseline. We perform a detailed ablation study and establish the versatility of EMQAP across different circumstances. The code and datasets are shared at https://github.com/abhi1nandy2/EMNLP-2021-Findings, and the corresponding project website is https://sites.google.com/view/emanualqa/home.
+Author{1}{Firstname}#=%=#Abhilash
+Author{1}{Lastname}#=%=#Nandy
+Author{1}{Username}#=%=#abhi1nandy2
+Author{1}{Email}#=%=#nandyabhilash@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology, Kharagpur
+Author{2}{Firstname}#=%=#Soumya
+Author{2}{Lastname}#=%=#Sharma
+Author{2}{Username}#=%=#soummyaah
+Author{2}{Email}#=%=#soumyasharma20@gmail.com
+Author{2}{Affiliation}#=%=#Indian Institute of Technology, Kharagpur
+Author{3}{Firstname}#=%=#Shubham
+Author{3}{Lastname}#=%=#Maddhashiya
+Author{3}{Username}#=%=#sipah00
+Author{3}{Email}#=%=#shubhamsipah00@gmail.com
+Author{3}{Affiliation}#=%=#Indian Institute of Technology Kharagpur
+Author{4}{Firstname}#=%=#Kapil
+Author{4}{Lastname}#=%=#Sachdeva
+Author{4}{Username}#=%=#kapilsachdeva
+Author{4}{Email}#=%=#k.sachdeva@samsung.com
+Author{4}{Affiliation}#=%=#Samsung R&D Institute, India - Delhi
+Author{5}{Firstname}#=%=#Pawan
+Author{5}{Lastname}#=%=#Goyal
+Author{5}{Username}#=%=#pawang
+Author{5}{Email}#=%=#pawang.iitk@gmail.com
+Author{5}{Affiliation}#=%=#IIT Kharagpur
+Author{6}{Firstname}#=%=#NIloy
+Author{6}{Lastname}#=%=#Ganguly
+Author{6}{Username}#=%=#niloy
+Author{6}{Email}#=%=#niloy@cse.iitkgp.ac.in
+Author{6}{Affiliation}#=%=#IIT Kharagpur
+
+==========

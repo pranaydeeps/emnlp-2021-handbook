@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#83
+FinalPaperTitle#=%=#On the Limits of Minimal Pairs in Contrastive Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jannis Vamvas
+JobTitle#==#
+Organization#==#
+Abstract#==#Minimal sentence pairs are frequently used to analyze the behavior of language models. It is often assumed that model behavior on contrastive pairs is predictive of model behavior at large. We argue that two conditions are necessary for this assumption to hold: First, a tested hypothesis should be well-motivated, since experiments show that contrastive evaluation can lead to false positives. Secondly, test data should be chosen such as to minimize distributional discrepancy between evaluation time and deployment time. For a good approximation of deployment-time decoding, we recommend that minimal pairs are created based on machine-generated text, as opposed to human-written references. We present a contrastive evaluation suite for English–German MT that implements this recommendation.
+Author{1}{Firstname}#=%=#Jannis
+Author{1}{Lastname}#=%=#Vamvas
+Author{1}{Username}#=%=#jvamvas
+Author{1}{Email}#=%=#vamvas@cl.uzh.ch
+Author{1}{Affiliation}#=%=#Department of Computational Linguistics, University of Zurich
+Author{2}{Firstname}#=%=#Rico
+Author{2}{Lastname}#=%=#Sennrich
+Author{2}{Username}#=%=#rsennrich
+Author{2}{Email}#=%=#sennrich@cl.uzh.ch
+Author{2}{Affiliation}#=%=#University of Zurich
+
+==========

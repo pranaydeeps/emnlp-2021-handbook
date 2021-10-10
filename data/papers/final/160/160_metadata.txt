@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#160
+FinalPaperTitle#=%=#Language Models are Few-Shot Butlers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Vincent Micheli
+JobTitle#==#
+Organization#==#
+Abstract#==#Pretrained language models demonstrate strong performance in most NLP tasks when fine-tuned on small task-specific datasets. Hence, these autoregressive models constitute ideal agents to operate in text-based environments where language understanding and generative capabilities are essential. Nonetheless, collecting expert demonstrations in such environments is a time-consuming endeavour. We introduce a two-stage procedure to learn from a small set of demonstrations and further improve by interacting with an environment. We show that language models fine-tuned with only 1.2% of the expert demonstrations and a simple reinforcement learning algorithm achieve a 51% absolute improvement in success rate over existing methods in the ALFWorld environment.
+Author{1}{Firstname}#=%=#Vincent
+Author{1}{Lastname}#=%=#Micheli
+Author{1}{Username}#=%=#vmic
+Author{1}{Email}#=%=#vincent.micheli@unige.ch
+Author{1}{Affiliation}#=%=#University of Geneva
+Author{2}{Firstname}#=%=#Francois
+Author{2}{Lastname}#=%=#Fleuret
+Author{2}{Username}#=%=#francois_fleuret
+Author{2}{Email}#=%=#francois.fleuret@unige.ch
+Author{2}{Affiliation}#=%=#University of Geneva
+
+==========

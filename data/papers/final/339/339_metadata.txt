@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#339
+FinalPaperTitle#=%=#Mixup Decoding for Diverse Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jicheng Li
+JobTitle#==#
+Organization#==#Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)
+Abstract#==#Diverse machine translation aims at generating various target language translations for a given source language sentence. To leverage the linear relationship in the sentence latent space introduced by the mixup training, we propose a novel method, MixDiversity, to generate different translations for the input sentence by linearly interpolating it with different sentence pairs sampled from the training corpus during decoding. To further improve the faithfulness and diversity of the translations, we propose two simple but effective approaches to select diverse sentence pairs in the training corpus and adjust the interpolation weight for each pair correspondingly. Moreover, by controlling the interpolation weight, our method can achieve the trade-off between faithfulness and diversity without any additional training, which is required in most of the previous methods. Experiments on WMT'16 en-ro, WMT'14 en-de, and WMT'17 zh-en are conducted to show that our method substantially outperforms all previous diverse machine translation methods.
+Author{1}{Firstname}#=%=#Jicheng
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#lijicheng
+Author{1}{Email}#=%=#lijicheng@ict.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Pengzhi
+Author{2}{Lastname}#=%=#Gao
+Author{2}{Username}#=%=#gpengzhi
+Author{2}{Email}#=%=#gpengzhi@gmail.com
+Author{2}{Affiliation}#=%=#Baidu, Inc.
+Author{3}{Firstname}#=%=#Xuanfu
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Username}#=%=#xuanfuwu
+Author{3}{Email}#=%=#wuxuanfu20s@ict.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{4}{Firstname}#=%=#Yang
+Author{4}{Lastname}#=%=#Feng
+Author{4}{Username}#=%=#y.feng
+Author{4}{Email}#=%=#fengyang@ict.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Zhongjun
+Author{5}{Lastname}#=%=#He
+Author{5}{Username}#=%=#hezhongjun
+Author{5}{Email}#=%=#hezhongjun@baidu.com
+Author{5}{Affiliation}#=%=#Baidu, Inc.
+Author{6}{Firstname}#=%=#Hua
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Username}#=%=#wu_hua
+Author{6}{Email}#=%=#wu_hua@baidu.com
+Author{6}{Affiliation}#=%=#Baidu
+Author{7}{Firstname}#=%=#Haifeng
+Author{7}{Lastname}#=%=#Wang
+Author{7}{Username}#=%=#wanghaifeng
+Author{7}{Email}#=%=#wanghaifeng@baidu.com
+Author{7}{Affiliation}#=%=#Baidu
+
+==========

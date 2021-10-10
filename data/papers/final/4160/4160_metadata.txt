@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4160
+FinalPaperTitle#=%=#A multilabel approach to morphosyntactic probing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#39
+CopyrightSigned#=%=#Naomi Tachikawa Shapiro
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose using a multilabel probing task to assess the morphosyntactic representations of multilingual word embeddings. This tweak on canonical probing makes it easy to explore morphosyntactic representations, both holistically and at the level of individual features (e.g., gender, number, case), and leads more naturally to the study of how language models handle co-occurring features (e.g., agreement phenomena). We demonstrate this task with multilingual BERT (Devlin et al., 2018), training probes for seven typologically diverse languages: Afrikaans, Croatian, Finnish, Hebrew, Korean, Spanish, and Turkish. Through this simple but robust paradigm, we verify that multilingual BERT renders many morphosyntactic features simultaneously extractable. We further evaluate the probes on six held-out languages: Arabic, Chinese, Marathi, Slovenian, Tagalog, and Yoruba. This zero-shot style of probing has the added benefit of revealing which cross-linguistic properties a language model recognizes as being shared by multiple languages.
+Author{1}{Firstname}#=%=#Naomi
+Author{1}{Lastname}#=%=#Shapiro
+Author{1}{Username}#=%=#tsnaomi
+Author{1}{Email}#=%=#tsnaomi@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Amandalynne
+Author{2}{Lastname}#=%=#Paullada
+Author{2}{Username}#=%=#paullada
+Author{2}{Email}#=%=#paullada@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Shane
+Author{3}{Lastname}#=%=#Steinert-Threlkeld
+Author{3}{Username}#=%=#s.n.m.steinert-threlkeld
+Author{3}{Email}#=%=#shanest@uw.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

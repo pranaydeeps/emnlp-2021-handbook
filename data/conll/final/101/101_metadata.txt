@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#101
+FinalPaperTitle#=%=#Learning Zero-Shot Multifaceted Visually Grounded Word Embeddings via Multi-Task Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Hassan Shahmohammadi
+JobTitle#==#
+Organization#==#
+Abstract#==#Language grounding aims at linking the symbolic representation of language (e.g., words) into the rich perceptual knowledge of the outside world.  The general approach is to embed both textual and visual information into a common space -the grounded space- confined by an explicit relationship. We argue that since concrete and abstract words are processed differently in the brain, such approaches sacrifice the abstract knowledge obtained from textual statistics in the process of acquiring perceptual information.
+The focus of this paper is to solve this issue by implicitly grounding the word embeddings. Rather than learning two mappings into a joint space, our approach integrates modalities by implicit alignment. This is achieved by learning a reversible mapping between the textual and the grounded space by means of multi-task training.
+Intrinsic and extrinsic evaluations show that our way of visual grounding is highly beneficial for both abstract and concrete words. Our embeddings are correlated with human judgments and outperform previous works using pretrained word embeddings on a wide range of benchmarks. Our grounded embeddings are publicly available here.
+Author{1}{Firstname}#=%=#Hassan
+Author{1}{Lastname}#=%=#Shahmohammadi
+Author{1}{Username}#=%=#karazan
+Author{1}{Email}#=%=#hassan.shahmohammadi@uni-tuebingen.de
+Author{1}{Affiliation}#=%=#University of Tuebingen
+Author{2}{Firstname}#=%=#Hendrik P. A.
+Author{2}{Lastname}#=%=#Lensch
+Author{2}{Username}#=%=#lensch
+Author{2}{Email}#=%=#hendrik.lensch@uni-tuebingen.de
+Author{2}{Affiliation}#=%=#University of Tübingen
+Author{3}{Firstname}#=%=#R. Harald
+Author{3}{Lastname}#=%=#Baayen
+Author{3}{Username}#=%=#harald.baayen
+Author{3}{Email}#=%=#harald.baayen@uni-tuebingen.de
+Author{3}{Affiliation}#=%=#University of Tuebingen
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2883
+FinalPaperTitle#=%=#Wino-X: Multilingual Winograd Schemas for Commonsense Reasoning and Coreference Resolution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Denis Emelin
+JobTitle#==#
+Organization#==#
+Abstract#==#Winograd schemas are a well-established tool for evaluating coreference resolution (CoR) and commonsense reasoning (CSR) capabilities of computational models. So far, schemas remained largely confined to English, limiting their utility in multilingual settings. This work presents Wino-X, a parallel dataset of German, French, and Russian schemas, aligned with their English counterparts. We use this resource to investigate whether neural machine translation (NMT) models can perform CoR that requires commonsense knowledge and whether multilingual language models (MLLMs) are capable of CSR across multiple languages. Our findings show Wino-X to be exceptionally challenging for NMT systems that are prone to undesirable biases and unable to detect disambiguating information. We quantify biases using established statistical methods and define ways to address both of these issues. We furthermore present evidence of active cross-lingual knowledge transfer in MLLMs, whereby fine-tuning models on English schemas yields CSR improvements in other languages.
+Author{1}{Firstname}#=%=#Denis
+Author{1}{Lastname}#=%=#Emelin
+Author{1}{Username}#=%=#denis.emelin
+Author{1}{Email}#=%=#d.emelin@sms.ed.ac.uk
+Author{1}{Affiliation}#=%=#The University of Edinburgh
+Author{2}{Firstname}#=%=#Rico
+Author{2}{Lastname}#=%=#Sennrich
+Author{2}{Username}#=%=#rsennrich
+Author{2}{Email}#=%=#sennrich@cl.uzh.ch
+Author{2}{Affiliation}#=%=#University of Zurich
+
+==========

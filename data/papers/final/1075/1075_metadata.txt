@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1075
+FinalPaperTitle#=%=#Learning to Ground Visual Objects for Visual Dialog
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Feilong Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Visual dialog is challenging since it needs to answer a series of coherent questions based on understanding the visual environment. How to ground related visual objects is one of the key problems. Previous studies utilize the question and history to attend to the image and achieve satisfactory performance, while these methods are not sufficient to locate related visual objects without any guidance. The inappropriate grounding of visual objects prohibits the performance of visual dialog models. In this paper, we propose a novel approach to Learn to Ground visual objects for visual dialog, which employs a novel visual objects grounding mechanism where both prior and posterior distributions over visual objects are used to facilitate visual objects grounding. Specifically, a posterior distribution over visual objects is inferred from both context (history and questions) and answers, and it ensures the appropriate grounding of visual objects during the training process. Meanwhile, a prior distribution, which is inferred from context only, is used to approximate the posterior distribution so that appropriate visual objects can be grounding even without answers during the inference process. Experimental results on the VisDial v0.9 and v1.0 datasets demonstrate that our approach improves the previous strong models in both generative and discriminative settings by a significant margin.
+Author{1}{Firstname}#=%=#Feilong
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#phellonchen
+Author{1}{Email}#=%=#chenfeilong2018@ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of  Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Xiuyi
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#chenxiuyi
+Author{2}{Email}#=%=#chenxiuyi2017@ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences.
+Author{3}{Firstname}#=%=#Can
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#nlpxc
+Author{3}{Email}#=%=#caxu@microsoft.com
+Author{3}{Affiliation}#=%=#STCA NLP Group, Microsoft
+Author{4}{Firstname}#=%=#Daxin
+Author{4}{Lastname}#=%=#Jiang
+Author{4}{Username}#=%=#djiang
+Author{4}{Email}#=%=#djiang@microsoft.com
+Author{4}{Affiliation}#=%=#STCA NLP Group, Microsoft
+
+==========

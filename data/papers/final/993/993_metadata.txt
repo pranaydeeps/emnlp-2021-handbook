@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#993
+FinalPaperTitle#=%=#To Protect and To Serve? Analyzing Entity-Centric Framing of Police Violence
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Caleb Ziems
+JobTitle#==#
+Organization#==#
+Abstract#==#Framing has significant but subtle effects on public opinion and policy. We propose an NLP framework to measure entity-centric frames. We use it to understand media coverage on police violence in the United States in a new Police Violence Frames Corpus of 82k news articles spanning 7k police killings. Our work  uncovers more than a dozen framing devices and reveals significant differences in the way liberal and conservative news sources frame both the issue of police violence and the entities involved. Conservative sources emphasize when the victim is armed or attacking an officer and are more likely to mention the victim's criminal record. Liberal sources focus more on the underlying systemic injustice, highlighting the victim's race and that they were unarmed. We discover temporary spikes in these injustice frames near high-profile shooting events, and finally, we show protest volume correlates with and precedes media framing decisions.
+Author{1}{Firstname}#=%=#Caleb
+Author{1}{Lastname}#=%=#Ziems
+Author{1}{Username}#=%=#cjziems
+Author{1}{Email}#=%=#cjziems@gmail.com
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Diyi
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#diyiy
+Author{2}{Email}#=%=#diyi.yang@cc.gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

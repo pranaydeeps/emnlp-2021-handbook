@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3089
+FinalPaperTitle#=%=#Transformer over Pre-trained Transformer for Neural Text Segmentation with Enhanced Topic Coherence
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Kelvin Lo
+JobTitle#==#
+Organization#==#Faculty of Information Technology, Monash University, Australia
+Abstract#==#This paper proposes a transformer over transformer framework, called Transformer^2, to perform neural text segmentation. It consists of two components: bottom-level sentence encoders using pre-trained transformers, and an upper-level transformer-based segmentation model based on the sentence embeddings. The bottom-level component transfers the pre-trained knowledge learnt from large external corpora under both single and pair-wise supervised NLP tasks to model the sentence embeddings for the documents. Given the sentence embeddings, the upper-level transformer is trained to recover the segmentation boundaries as well as the topic labels of each sentence. Equipped with a multi-task loss and the pre-trained knowledge, Transformer^2 can better capture the semantic coherence within the same segments. Our experiments show that (1) Transformer^2$manages to surpass state-of-the-art text segmentation models in terms of a commonly-used semantic coherence measure; (2) in most cases, both single and pair-wise pre-trained knowledge contribute to the model performance; (3) bottom-level sentence encoders pre-trained on specific languages yield better performance than those pre-trained on specific domains.
+Author{1}{Firstname}#=%=#Kelvin
+Author{1}{Lastname}#=%=#Lo
+Author{1}{Username}#=%=#kelvin.lo.monash
+Author{1}{Email}#=%=#kelvin.lo@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#YUAN
+Author{2}{Lastname}#=%=#JIN
+Author{2}{Username}#=%=#yjin48
+Author{2}{Email}#=%=#yuan.jin@monash.edu
+Author{2}{Affiliation}#=%=#Monash University
+Author{3}{Firstname}#=%=#Weicong
+Author{3}{Lastname}#=%=#Tan
+Author{3}{Username}#=%=#weicongtan
+Author{3}{Email}#=%=#charles.tan@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+Author{4}{Firstname}#=%=#Ming
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#liumingliu
+Author{4}{Email}#=%=#m.liu@deakin.edu.au
+Author{4}{Affiliation}#=%=#Deakin University
+Author{5}{Firstname}#=%=#Lan
+Author{5}{Lastname}#=%=#Du
+Author{5}{Username}#=%=#dulan520
+Author{5}{Email}#=%=#lan.du@monash.edu
+Author{5}{Affiliation}#=%=#Department of Data Science and AI, Monash University
+Author{6}{Firstname}#=%=#Wray
+Author{6}{Lastname}#=%=#Buntine
+Author{6}{Username}#=%=#wray.buntine
+Author{6}{Email}#=%=#wray.buntine@monash.edu
+Author{6}{Affiliation}#=%=#Monash University
+
+==========

@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Memory-efficient Transformers via Top-k Attention
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Ankit Gupta
+JobTitle#==#
+Organization#==#
+Abstract#==#Following the success of dot-product attention in Transformers, numerous approximations have been recently proposed to address its quadratic complexity with respect to the input length.
+
+While these variants are memory and compute efficient, it is not possible to directly use them with popular pre-trained language models trained using vanilla attention, without an expensive corrective pre-training stage. 
+In this work, we propose a simple yet highly accurate approximation for vanilla attention. We process the queries in chunks, and for each query, compute the top-*k* scores with respect to the keys. Our approach offers several advantages: (a) its memory usage is linear in the input size, similar to linear attention variants, such as Performer and RFA (b) it is a drop-in replacement for vanilla attention that does not require any corrective pre-training, and (c) it can also lead to significant memory savings in the feed-forward layers after casting them into the familiar query-key-value framework. 
+
+We evaluate the quality of top-*k* approximation for multi-head attention layers on the Long Range Arena Benchmark, and for feed-forward layers of T5 and UnifiedQA on multiple QA datasets. We show our approach leads to accuracy that is nearly-identical to vanilla attention in multiple setups including training from scratch, fine-tuning, and zero-shot inference.
+Author{1}{Firstname}#=%=#Ankit
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Username}#=%=#ag1988
+Author{1}{Email}#=%=#ankitgupta.iitkanpur@gmail.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Guy
+Author{2}{Lastname}#=%=#Dar
+Author{2}{Email}#=%=#guyd1995@gmail.com
+Author{2}{Affiliation}#=%=#Tel Aviv University
+Author{3}{Firstname}#=%=#Shaya
+Author{3}{Lastname}#=%=#Goodman
+Author{3}{Email}#=%=#ishayahu156@gmail.com
+Author{3}{Affiliation}#=%=#Tel Aviv University
+Author{4}{Firstname}#=%=#David
+Author{4}{Lastname}#=%=#Ciprut
+Author{4}{Email}#=%=#davidciprut@gmail.com
+Author{4}{Affiliation}#=%=#Tel Aviv University
+Author{5}{Firstname}#=%=#Jonathan
+Author{5}{Lastname}#=%=#Berant
+Author{5}{Username}#=%=#joberant
+Author{5}{Email}#=%=#joberant@cs.tau.ac.il
+Author{5}{Affiliation}#=%=#Tel Aviv University and AI2
+
+==========

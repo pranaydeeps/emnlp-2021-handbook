@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#1360
+FinalPaperTitle#=%=#Topic-Guided Abstractive Multi-Document Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Peng Cui
+JobTitle#==#
+Organization#==#
+Abstract#==#A critical point of multi-document summarization (MDS) is to learn the relations among various documents. In this paper, we propose a novel abstractive MDS model, in which we represent multiple documents as a heterogeneous graph, taking semantic nodes of different granularities into account, and then apply a graph-to-sequence framework to generate summaries. Moreover, we employ a neural topic model to jointly discover latent topics that can act as cross-document semantic units to bridge different documents and provide global information to guide the summary generation. Since topic extraction can be viewed as a special type of summarization that “summarizes” texts into a more abstract format, i.e., a topic distribution, we adopt a multi-task learning strategy to jointly train the topic and summarization module, allowing the promotion of each other. Experimental results on the Multi-News dataset demonstrate that our model outperforms previous state-of-the-art MDS models on both Rouge scores and human evaluation, meanwhile learns high-quality topics.
+Author{1}{Firstname}#=%=#Peng
+Author{1}{Lastname}#=%=#Cui
+Author{1}{Username}#=%=#pengcui
+Author{1}{Email}#=%=#pcui@insun.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Le
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Email}#=%=#lhu@insun.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

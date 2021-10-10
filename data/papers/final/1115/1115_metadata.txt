@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1115
+FinalPaperTitle#=%=#Revisiting Pivot-Based Paraphrase Generation: Language Is Not the Only Optional Pivot
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Yitao Cai
+JobTitle#==#
+Organization#==#
+Abstract#==#Paraphrases refer to texts that convey the same meaning with different expression forms. Pivot-based methods, also known as the round-trip translation, have shown promising results in generating high-quality paraphrases.
+However, existing pivot-based methods all rely on language as the pivot, where large-scale, high-quality parallel bilingual texts are required. In this paper, we explore the feasibility of using semantic and syntactic representations as the pivot for paraphrase generation. Concretely, we transform a sentence into a variety of different semantic or syntactic representations (including AMR, UD, and latent semantic representation), and then decode the sentence back from the semantic representations. We further 
+explore a pretraining-based approach to compress the pipeline process into an end-to-end framework. We conduct experiments comparing different approaches with different kinds of pivots. Experimental results show that taking AMR as pivot can obtain paraphrases with better quality than taking language as the pivot. The end-to-end framework can reduce semantic shift when language is used as the pivot. Besides, several unsupervised pivot-based methods can generate paraphrases with similar quality as the supervised sequence-to-sequence model, which indicates that parallel data of paraphrases may not be necessary for paraphrase generation.
+Author{1}{Firstname}#=%=#Yitao
+Author{1}{Lastname}#=%=#Cai
+Author{1}{Username}#=%=#y_cai
+Author{1}{Email}#=%=#caiyitao@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Cao
+Author{2}{Username}#=%=#yuecao
+Author{2}{Email}#=%=#yuecao@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Xiaojun
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Username}#=%=#wanxiaojun
+Author{3}{Email}#=%=#wanxiaojun@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

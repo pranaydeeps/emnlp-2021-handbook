@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#869
+FinalPaperTitle#=%=#{R2-D2}: A Modular Baseline for Open-Domain Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Fajcik
+JobTitle#==#
+Organization#==#Faculty of Information Technology, Brno University of Technology,
+Božetěchova 1/2, 612 00 Brno-Královo Pole, Czech Republic
+Abstract#==#This work presents a novel four-stage open-domain QA pipeline R2-D2 (Rank twice, reaD twice). The pipeline is composed of a retriever, passage reranker, extractive reader, generative reader and a mechanism that aggregates the final prediction from all system's components. We demonstrate its strength across three open-domain QA datasets: NaturalQuestions, TriviaQA and EfficientQA, surpassing state-of-the-art on the first two. Our analysis demonstrates that: (i) combining extractive and generative reader yields absolute improvements up to 5 exact match and it is at least twice as effective as the posterior averaging ensemble of the same models with different parameters, (ii) the extractive reader with fewer parameters can match the performance of the generative reader on extractive QA datasets.
+Author{1}{Firstname}#=%=#Martin
+Author{1}{Lastname}#=%=#Fajcik
+Author{1}{Username}#=%=#ifajcik
+Author{1}{Email}#=%=#ifajcik@fit.vutbr.cz
+Author{1}{Affiliation}#=%=#Brno University of Technology
+Author{2}{Firstname}#=%=#Martin
+Author{2}{Lastname}#=%=#Docekal
+Author{2}{Username}#=%=#docekal
+Author{2}{Email}#=%=#idocekal@fit.vutbr.cz
+Author{2}{Affiliation}#=%=#Brno University of Technology, Faculty of Information Technology
+Author{3}{Firstname}#=%=#Karel
+Author{3}{Lastname}#=%=#Ondrej
+Author{3}{Username}#=%=#iondrej
+Author{3}{Email}#=%=#ondrej@fit.vutbr.cz
+Author{3}{Affiliation}#=%=#Brno University of Technology
+Author{4}{Firstname}#=%=#Pavel
+Author{4}{Lastname}#=%=#Smrz
+Author{4}{Username}#=%=#smrz
+Author{4}{Email}#=%=#smrz@fit.vut.cz
+Author{4}{Affiliation}#=%=#Brno University of Technology
+
+==========

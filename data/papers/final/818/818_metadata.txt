@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#818
+FinalPaperTitle#=%=#Transductive Learning for Unsupervised Text Style Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Fei Xiao
+JobTitle#==#
+Organization#==#
+Abstract#==#Unsupervised style transfer models are mainly based on an inductive learning approach, which represents the style as embeddings, decoder parameters, or discriminator parameters and directly applies these general rules to the test cases. However, the lacking of parallel corpus hinders the ability of these inductive learning methods on this task. As a result, it is likely to cause severe inconsistent style expressions, like ‘the salad is rude’. To tackle this problem, we propose a novel transductive learning approach in this paper, based on a retrieval-based context-aware style representation. Specifically, an attentional encoder-decoder with a retriever framework is utilized. It involves top-K relevant sentences in the target style in the transfer process. In this way, we can learn a context-aware style embedding to alleviate the above inconsistency problem. In this paper, both sparse (BM25) and dense retrieval functions (MIPS) are used, and two objective functions are designed to facilitate joint learning. Experimental results show that our method outperforms several strong baselines. The proposed transductive learning approach is general and effective to the task of unsupervised style transfer, and we will apply it to the other two typical methods in the future.
+Author{1}{Firstname}#=%=#Fei
+Author{1}{Lastname}#=%=#Xiao
+Author{1}{Username}#=%=#xiaofei
+Author{1}{Email}#=%=#xiaofei19s@ict.ac.cn
+Author{1}{Affiliation}#=%=#CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Liang
+Author{2}{Lastname}#=%=#Pang
+Author{2}{Username}#=%=#pl8787
+Author{2}{Email}#=%=#pl8787@gmail.com
+Author{2}{Affiliation}#=%=#Institute of Computing Technology of Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Yanyan
+Author{3}{Lastname}#=%=#Lan
+Author{3}{Username}#=%=#lanyanyan
+Author{3}{Email}#=%=#lanyanyan@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Yan
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#libertywing
+Author{4}{Email}#=%=#brandenwang@tencent.com
+Author{4}{Affiliation}#=%=#Tencent AI Lab
+Author{5}{Firstname}#=%=#Huawei
+Author{5}{Lastname}#=%=#Shen
+Author{5}{Username}#=%=#shenhuawei
+Author{5}{Email}#=%=#shenhuawei@ict.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{6}{Firstname}#=%=#Xueqi
+Author{6}{Lastname}#=%=#Cheng
+Author{6}{Username}#=%=#cxq
+Author{6}{Email}#=%=#cxq@ict.ac.cn
+Author{6}{Affiliation}#=%=#Institute of Computing Technology, CAS
+
+==========

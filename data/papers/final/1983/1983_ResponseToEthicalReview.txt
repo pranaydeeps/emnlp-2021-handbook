@@ -1,0 +1,1 @@
+To address the ethical reviewers' concerns, we have included a dedicated section on "ethical considerations" (Section 6), discussing the potential bias issues that could arise with generating text from language models and several remedies relevant to GPT3Mix to alleviate the bias issue.

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2211
+FinalPaperTitle#=%=#Give the Truth: Incorporate Semantic Slot into Abstractive Dialogue Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Lulu Zhao
+JobTitle#==#
+Organization#==#
+Abstract#==#Abstractive dialogue summarization suffers from a lots of factual errors, which are due to scattered salient elements in the multi-speaker information interaction process. In this work, we design a heterogeneous semantic slot graph with a slot-level mask cross-attention to enhance the slot features for more correct summarization. We also propose a slot-driven beam search algorithm in the decoding process to give priority to generating salient elements in a limited length by “filling-in-the-blanks”. Besides, an adversarial contrastive learning assisting the training process is introduced to alleviate the exposure bias. Experimental performance on different types of factual errors shows the effectiveness of our methods and human evaluation further verifies the results..
+Author{1}{Firstname}#=%=#Lulu
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Username}#=%=#zll1995
+Author{1}{Email}#=%=#zhaoll@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Weihao
+Author{2}{Lastname}#=%=#Zeng
+Author{2}{Username}#=%=#andrewzeng00
+Author{2}{Email}#=%=#zengwh@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{3}{Firstname}#=%=#Weiran
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#xuweiran
+Author{3}{Email}#=%=#xuweiran@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Jun
+Author{4}{Lastname}#=%=#Guo
+Author{4}{Username}#=%=#guojun
+Author{4}{Email}#=%=#guojun@bupt.edu.cn
+Author{4}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+
+==========

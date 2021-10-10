@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3856
+FinalPaperTitle#=%=#COUGH: A Challenge Dataset and Models for COVID-19 FAQ Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xinliang Frederick Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a large, challenging dataset, COUGH,  for COVID-19 FAQ retrieval. Similar to a standard FAQ dataset, COUGH consists of three parts: FAQ Bank, Query Bank and  Relevance Set. The FAQ Bank contains ~16K FAQ items scraped from 55 credible websites (e.g., CDC and WHO). For evaluation, we introduce Query Bank and  Relevance Set, where the former contains 1,236 human-paraphrased queries while the latter contains ~32 human-annotated FAQ items for each query. We analyze COUGH by testing different FAQ retrieval models built on top of BM25 and BERT, among which the best model achieves 48.8 under P@5, indicating a great challenge presented by COUGH and encouraging future research for further improvement.  Our COUGH dataset is available at https://github.com/sunlab-osu/covid-faq.
+Author{1}{Firstname}#=%=#Xinliang Frederick
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#frederickxzhang
+Author{1}{Email}#=%=#zhang.9975@osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Heming
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#sun201709
+Author{2}{Email}#=%=#sun201709@outlook.com
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#Xiang
+Author{3}{Lastname}#=%=#Yue
+Author{3}{Username}#=%=#yuexiang96
+Author{3}{Email}#=%=#yue.149@osu.edu
+Author{3}{Affiliation}#=%=#The Ohio State University
+Author{4}{Firstname}#=%=#Simon
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Username}#=%=#simon8duke
+Author{4}{Email}#=%=#sml006.work@gmail.com
+Author{4}{Affiliation}#=%=#Nationwide Children's Hospital
+Author{5}{Firstname}#=%=#Huan
+Author{5}{Lastname}#=%=#Sun
+Author{5}{Username}#=%=#huansun
+Author{5}{Email}#=%=#sun.397@osu.edu
+Author{5}{Affiliation}#=%=#The Ohio State University
+
+==========

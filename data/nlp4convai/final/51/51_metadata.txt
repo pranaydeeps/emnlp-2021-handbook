@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#51
+FinalPaperTitle#=%=#Personalized Search-based Query Rewrite System for Conversational AI
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Eunah Cho
+JobTitle#==#
+Organization#==#
+Abstract#==#Query rewrite (QR) is an emerging component in conversational AI systems, reducing user defect. User defect is caused by various reasons, such as errors in the spoken dialogue system, users' slips of the tongue or their abridged language. Many of the user defects stem from personalized factors, such as user's speech pattern, dialect, or preferences. In this work, we propose a personalized search-based QR framework, which focuses on automatic reduction of user defect. We build a personalized index for each user, which encompasses diverse affinity layers to reflect personal preferences for each user in the conversational AI. Our personalized QR system contains retrieval and ranking layers. Supported by user feedback based learning, training our models does not require hand-annotated data. Experiments on personalized test set showed that our personalized QR system is able to correct systematic and user errors by utilizing phonetic and semantic inputs.
+Author{1}{Firstname}#=%=#Eunah
+Author{1}{Lastname}#=%=#Cho
+Author{1}{Username}#=%=#eunah.cho
+Author{1}{Email}#=%=#eunahch@amazon.com
+Author{1}{Affiliation}#=%=#Amazon, Alexa AI
+Author{2}{Firstname}#=%=#Ziyan
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Email}#=%=#ziyjiang@amazon.com
+Author{2}{Affiliation}#=%=#Amazon, Alexa AI
+Author{3}{Firstname}#=%=#Jie
+Author{3}{Lastname}#=%=#Hao
+Author{3}{Email}#=%=#jieha@amazon.com
+Author{3}{Affiliation}#=%=#Amazon, Alexa AI
+Author{4}{Firstname}#=%=#Zheng
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#zgchen@amazon.com
+Author{4}{Affiliation}#=%=#Amazon, Alexa AI
+Author{5}{Firstname}#=%=#Saurabh
+Author{5}{Lastname}#=%=#Gupta
+Author{5}{Email}#=%=#gsaur@amazon.com
+Author{5}{Affiliation}#=%=#Amazon, Alexa AI
+Author{6}{Firstname}#=%=#Xing
+Author{6}{Lastname}#=%=#Fan
+Author{6}{Email}#=%=#fanxing@amazon.com
+Author{6}{Affiliation}#=%=#Amazon, Alexa AI
+Author{7}{Firstname}#=%=#Chenlei
+Author{7}{Lastname}#=%=#Guo
+Author{7}{Email}#=%=#guochenl@amazon.com
+Author{7}{Affiliation}#=%=#Amazon, Alexa AI
+
+==========

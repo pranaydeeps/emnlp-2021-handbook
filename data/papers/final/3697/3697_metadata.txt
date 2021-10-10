@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#3697
+FinalPaperTitle#=%=#Probing Commonsense Explanation in Dialogue Response Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Pei Zhou
+JobTitle#==#
+Organization#==#
+Abstract#==#Humans use commonsense reasoning (CSR) implicitly to produce natural and coherent responses in conversations. Aiming to close the gap between current response generation (RG) models and human communication abilities, we want to understand why RG models respond as they do by probing RG model's understanding of commonsense reasoning that elicits proper responses. We formalize the problem by framing commonsense as a latent variable in the RG task and using explanations for responses as textual form of commonsense. We collect 6k annotated explanations justifying responses from four dialogue datasets and ask humans to verify them and propose two probing settings to evaluate RG models' CSR capabilities. Probing results show that models fail to capture the logical relations between commonsense explanations and responses and fine-tuning on in-domain data and increasing model sizes do not lead to understanding of CSR for RG. We hope our study motivates more research in making RG models emulate the human reasoning process in pursuit of smooth human-AI communication.
+Author{1}{Firstname}#=%=#Pei
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#shaoxia57
+Author{1}{Email}#=%=#peiz@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Pegah
+Author{2}{Lastname}#=%=#Jandaghi
+Author{2}{Email}#=%=#jandaghi@isi.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Hyundong
+Author{3}{Lastname}#=%=#Cho
+Author{3}{Username}#=%=#wiseeast
+Author{3}{Email}#=%=#jcho@isi.edu
+Author{3}{Affiliation}#=%=#USC, Information Sciences Institute
+Author{4}{Firstname}#=%=#Bill Yuchen
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Username}#=%=#yuchenlin
+Author{4}{Email}#=%=#yuchen.lin@usc.edu
+Author{4}{Affiliation}#=%=#University of Southern California
+Author{5}{Firstname}#=%=#Jay
+Author{5}{Lastname}#=%=#Pujara
+Author{5}{Username}#=%=#puuj
+Author{5}{Email}#=%=#jay@cs.umd.edu
+Author{5}{Affiliation}#=%=#University of Southern California
+Author{6}{Firstname}#=%=#Xiang
+Author{6}{Lastname}#=%=#Ren
+Author{6}{Username}#=%=#xren7
+Author{6}{Email}#=%=#xiangren@usc.edu
+Author{6}{Affiliation}#=%=#University of Southern California
+
+==========

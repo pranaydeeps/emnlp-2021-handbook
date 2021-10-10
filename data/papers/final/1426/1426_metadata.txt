@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1426
+FinalPaperTitle#=%=#Mixture-of-Partitions: Infusing Large Biomedical Knowledge Graphs into BERT
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zaiqiao Meng
+JobTitle#==#
+Organization#==#
+Abstract#==#Infusing factual knowledge into pre-trained models is fundamental for many knowledge-intensive tasks. In this paper, we proposed Mixture-of-Partitions (MoP), an infusion approach that can handle a very large knowledge graph (KG) by partitioning it into smaller sub-graphs and infusing their specific knowledge into various BERT models using lightweight adapters. To leverage the overall factual knowledge for a target task, these sub-graph adapters are further fine-tuned along with the underlying BERT through a mixture layer. We evaluate our MoP with three biomedical BERTs (SciBERT, BioBERT, PubmedBERT) on six downstream tasks (inc. NLI, QA, Classification), and the results show that our MoP consistently enhances the underlying BERTs in task performance, and achieves new SOTA performances on five evaluated datasets.
+Author{1}{Firstname}#=%=#Zaiqiao
+Author{1}{Lastname}#=%=#Meng
+Author{1}{Username}#=%=#mengzaiqiao
+Author{1}{Email}#=%=#zaiqiao.meng@gmail.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Fangyu
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#liugfangyu1996
+Author{2}{Email}#=%=#fl399@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Thomas
+Author{3}{Lastname}#=%=#Clark
+Author{3}{Username}#=%=#thomashikaruclark
+Author{3}{Email}#=%=#thc44@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Ehsan
+Author{4}{Lastname}#=%=#Shareghi
+Author{4}{Username}#=%=#ehsann
+Author{4}{Email}#=%=#ehsan.shareghi@gmail.com
+Author{4}{Affiliation}#=%=#Monash University
+Author{5}{Firstname}#=%=#Nigel
+Author{5}{Lastname}#=%=#Collier
+Author{5}{Username}#=%=#collier
+Author{5}{Email}#=%=#nhc30@cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+
+==========

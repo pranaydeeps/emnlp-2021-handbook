@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1651
+FinalPaperTitle#=%=#fBERT: A Neural Transformer for Identifying Offensive Content
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Tharindu Ranasinghe
+JobTitle#==#
+Organization#==#
+Abstract#==#Transformer-based models such as BERT, XLNET, and XLM-R have achieved state-of-the-art performance across various NLP tasks including the identification of offensive language and hate speech, an important problem in social media. In this paper, we present fBERT, a BERT model retrained on SOLID, the largest English offensive language identification corpus available with over $1.4$ million offensive instances. We evaluate fBERT's performance on identifying offensive content on multiple English datasets and we test several thresholds for selecting instances from SOLID. The fBERT model will be made freely available to the community.
+Author{1}{Firstname}#=%=#Diptanu
+Author{1}{Lastname}#=%=#Sarkar
+Author{1}{Username}#=%=#dip10u
+Author{1}{Email}#=%=#ds9297@rit.edu
+Author{1}{Affiliation}#=%=#Rochester Institute of Technology
+Author{2}{Firstname}#=%=#Marcos
+Author{2}{Lastname}#=%=#Zampieri
+Author{2}{Username}#=%=#marcoszampieri
+Author{2}{Email}#=%=#mazgla@rit.edu
+Author{2}{Affiliation}#=%=#Rochester Institute of Technology
+Author{3}{Firstname}#=%=#Tharindu
+Author{3}{Lastname}#=%=#Ranasinghe
+Author{3}{Username}#=%=#tharindu
+Author{3}{Email}#=%=#rhtdranasinghe@gmail.com
+Author{3}{Affiliation}#=%=#University of Wolverhampton
+Author{4}{Firstname}#=%=#Alexander
+Author{4}{Lastname}#=%=#Ororbia
+Author{4}{Username}#=%=#agovcs
+Author{4}{Email}#=%=#ago@cs.rit.edu
+Author{4}{Affiliation}#=%=#Rochester Institute of Technology
+
+==========

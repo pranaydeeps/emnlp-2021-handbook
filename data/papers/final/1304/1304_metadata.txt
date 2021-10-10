@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1304
+FinalPaperTitle#=%=#{BiQUE}: {B}iquaternionic Embeddings of Knowledge Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Jia Guo
+JobTitle#==#
+Organization#==#National University of Singapore, Singapore
+Abstract#==#Knowledge graph embeddings (KGEs) compactly encode multi-relational knowledge graphs (KGs). Existing KGE models rely on geometric operations to model relational patterns. Euclidean (circular) rotation is useful for modeling patterns such as symmetry, but cannot represent hierarchical semantics. In contrast, hyperbolic models are effective at modeling hierarchical relations, but do not perform as well on patterns on which circular rotation excels. It is crucial for KGE models to unify multiple geometric transformations so as to fully cover the multifarious relations in KGs. To do so, we propose BiQUE, a novel model that employs {\it biquaternions} to integrate multiple geometric transformations, viz., scaling, translation, Euclidean rotation, and hyperbolic rotation. BiQUE makes the best trade-offs among geometric operators during training, picking the best one (or their best combination) for each relation. Experiments on five datasets show BiQUE's effectiveness.
+Author{1}{Firstname}#=%=#Jia
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Username}#=%=#jiag
+Author{1}{Email}#=%=#guojia@u.nus.edu
+Author{1}{Affiliation}#=%=#National University of Singapore
+Author{2}{Firstname}#=%=#Stanley
+Author{2}{Lastname}#=%=#Kok
+Author{2}{Username}#=%=#stanleykok
+Author{2}{Email}#=%=#skok@comp.nus.edu.sg
+Author{2}{Affiliation}#=%=#National University of Singapore
+
+==========

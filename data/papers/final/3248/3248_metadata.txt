@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#3248
+FinalPaperTitle#=%=#ConvAbuse: Data, Analysis, and Benchmarks for Nuanced Detection in Conversational AI
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Amanda Cercas Curry
+JobTitle#==#
+Organization#==#
+Abstract#==#We present the first English corpus study on abusive language towards three conversational AI systems gathered 'in the wild': an open-domain social bot, a rule-based chatbot, and a task-based system. 
+To account for the complexity of the task, we take a more 'nuanced' approach where our ConvAI dataset reflects fine-grained notions of abuse, as well as views from multiple expert annotators.
+We find that the distribution of abuse is vastly different compared to other commonly used datasets, with more sexually tinted aggression towards the virtual persona of these systems. Finally, we report results from bench-marking existing models against this data. Unsurprisingly, we find that there is substantial room for improvement with F1 scores below 90%.
+Author{1}{Firstname}#=%=#Amanda
+Author{1}{Lastname}#=%=#Cercas Curry
+Author{1}{Username}#=%=#acercascurry
+Author{1}{Email}#=%=#ac293@hw.ac.uk
+Author{1}{Affiliation}#=%=#Heriot-Watt University
+Author{2}{Firstname}#=%=#Gavin
+Author{2}{Lastname}#=%=#Abercrombie
+Author{2}{Username}#=%=#gavin_naiz
+Author{2}{Email}#=%=#g.abercrombie@hw.ac.uk
+Author{2}{Affiliation}#=%=#Heriot Watt University
+Author{3}{Firstname}#=%=#Verena
+Author{3}{Lastname}#=%=#Rieser
+Author{3}{Username}#=%=#verena.rieser
+Author{3}{Email}#=%=#v.t.rieser@hw.ac.uk
+Author{3}{Affiliation}#=%=#Heriot-Watt University
+
+==========

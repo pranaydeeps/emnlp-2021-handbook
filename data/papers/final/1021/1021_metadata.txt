@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1021
+FinalPaperTitle#=%=#{M}easuring Association Between Labels and Free-Text Rationales
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Sarah A Wiegreffe
+JobTitle#==#
+Organization#==#
+Abstract#==#In interpretable NLP, we require faithful rationales that reflect the model's decision-making process for an explained instance. While prior work focuses  on extractive rationales (a subset of the input words), we investigate their less-studied counterpart: free-text natural language rationales. We demonstrate that *pipelines*, models for faithful rationalization on information-extraction style tasks, do not work as well on "reasoning" tasks requiring free-text rationales. We turn to models that *jointly* predict and rationalize, a class of widely used high-performance models for free-text rationalization. We investigate the extent to which the labels and rationales predicted by these models are associated, a necessary property of faithful explanation. Via two tests, *robustness equivalence* and *feature importance agreement*, we find that state-of-the-art T5-based joint models exhibit desirable properties for explaining commonsense question-answering and natural language inference, indicating their potential for producing faithful free-text rationales.
+Author{1}{Firstname}#=%=#Sarah
+Author{1}{Lastname}#=%=#Wiegreffe
+Author{1}{Username}#=%=#swiegreffe
+Author{1}{Email}#=%=#swiegreffe6@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Ana
+Author{2}{Lastname}#=%=#Marasović
+Author{2}{Username}#=%=#anamarasovic
+Author{2}{Email}#=%=#anam@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for AI
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Username}#=%=#nasmith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

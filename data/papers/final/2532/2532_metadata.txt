@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2532
+FinalPaperTitle#=%=#Wav-BERT: Cooperative Acoustic and Linguistic Representation Learning for Low-Resource Speech Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#GuolinZheng
+JobTitle#==#
+Organization#==#
+Abstract#==#Unifying acoustic and linguistic representation learning has become increasingly crucial to transfer the knowledge learned on the abundance of high-resource language data for low-resource speech recognition.  Existing approaches simply cascade pre-trained acoustic and language models to learn the transfer from speech to text. However, how to solve the representation discrepancy of speech and text is unexplored, which hinders the utilization of acoustic and linguistic information. Moreover, previous works simply replace the embedding layer of the pre-trained language model with the acoustic features,  which may cause the catastrophic forgetting problem. In this work, we introduce Wav-BERT, a cooperative acoustic and linguistic representation learning method to fuse and utilize the contextual information of speech and text.  Specifically, we unify a pre-trained acoustic model (wav2vec 2.0) and a language model (BERT) into an end-to-end trainable framework. A Representation Aggregation Module is designed to aggregate acoustic and linguistic representation, and an Embedding Attention Module is introduced to incorporate acoustic information into BERT, which can effectively facilitate the cooperation of two pre-trained models and thus boost the representation learning. Extensive experiments show that our Wav-BERT significantly outperforms the existing approaches and achieves state-of-the-art performance on low-resource speech recognition.
+Author{1}{Firstname}#=%=#Guolin
+Author{1}{Lastname}#=%=#Zheng
+Author{1}{Username}#=%=#zhengguolin
+Author{1}{Email}#=%=#zhengglin@mail2.sysu.edu.cn
+Author{1}{Affiliation}#=%=#Sun Yat-sen University
+Author{2}{Firstname}#=%=#Yubei
+Author{2}{Lastname}#=%=#Xiao
+Author{2}{Username}#=%=#xiaoyubei
+Author{2}{Email}#=%=#xiaoyb5@mail2.sysu.edu.cn
+Author{2}{Affiliation}#=%=#Sun Yat-sen University
+Author{3}{Firstname}#=%=#Ke
+Author{3}{Lastname}#=%=#Gong
+Author{3}{Username}#=%=#kegong
+Author{3}{Email}#=%=#kegong936@gmail.com
+Author{3}{Affiliation}#=%=#dmai
+Author{4}{Firstname}#=%=#Pan
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#zhoupan
+Author{4}{Email}#=%=#zhoupan@sea.com
+Author{4}{Affiliation}#=%=#Sea Group
+Author{5}{Firstname}#=%=#Xiaodan
+Author{5}{Lastname}#=%=#Liang
+Author{5}{Username}#=%=#lemondan1991
+Author{5}{Email}#=%=#xdliang328@gmail.com
+Author{5}{Affiliation}#=%=#Sun Yat-sen University
+Author{6}{Firstname}#=%=#Liang
+Author{6}{Lastname}#=%=#Lin
+Author{6}{Username}#=%=#linliang
+Author{6}{Email}#=%=#linliang@ieee.org
+Author{6}{Affiliation}#=%=#Sun Yat-sen University
+
+==========

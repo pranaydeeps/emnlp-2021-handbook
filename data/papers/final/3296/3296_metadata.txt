@@ -1,0 +1,57 @@
+SubmissionNumber#=%=#3296
+FinalPaperTitle#=%=#A Secure and Efficient Federated Learning Framework for NLP
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jieren Deng
+JobTitle#==#
+Organization#==#University of Connecticut,
+115 North Eagleville Road, U-3225
+Storrs, CT 06269
+Abstract#==#In this work, we consider the problem of designing secure and efficient federated learning (FL) frameworks for NLP. Existing solutions under this literature either consider a trusted aggregator or require heavy-weight cryptographic primitives, which makes the performance significantly degraded. Moreover, many existing secure FL designs work only under the restrictive assumption that none of the clients can be dropped out from the training protocol. To tackle these problems, we propose SEFL, a secure and efficient federated learning framework that (1)~eliminates the need for the trusted entities; (2)~achieves similar and even better model accuracy compared with existing FL designs; (3)~is resilient to client dropouts.
+Author{1}{Firstname}#=%=#CHENGHONG
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#skiphoopwow
+Author{1}{Email}#=%=#skiphoopwow@gmail.com
+Author{1}{Affiliation}#=%=#Duke University
+Author{2}{Firstname}#=%=#Jieren
+Author{2}{Lastname}#=%=#Deng
+Author{2}{Username}#=%=#jieren
+Author{2}{Email}#=%=#jieren.deng@uconn.edu
+Author{2}{Affiliation}#=%=#University of Connecticut
+Author{3}{Firstname}#=%=#Xianrui
+Author{3}{Lastname}#=%=#Meng
+Author{3}{Email}#=%=#xianruimeng@gmail.com
+Author{3}{Affiliation}#=%=#Facebook Inc.
+Author{4}{Firstname}#=%=#Yijue
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#yijuewang
+Author{4}{Email}#=%=#yijue.wang@uconn.edu
+Author{4}{Affiliation}#=%=#University of Connecticut
+Author{5}{Firstname}#=%=#Ji
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#changzhouliji@gmail.com
+Author{5}{Affiliation}#=%=#Microsoft
+Author{6}{Firstname}#=%=#Sheng
+Author{6}{Lastname}#=%=#Lin
+Author{6}{Email}#=%=#lin.sheng@northeastern.edu
+Author{6}{Affiliation}#=%=#Tencent
+Author{7}{Firstname}#=%=#Shuo
+Author{7}{Lastname}#=%=#Han
+Author{7}{Email}#=%=#hanshuo@uic.edu
+Author{7}{Affiliation}#=%=#University of Illinois at Chicago
+Author{8}{Firstname}#=%=#Fei
+Author{8}{Lastname}#=%=#Miao
+Author{8}{Email}#=%=#fei.miao@uconn.edu
+Author{8}{Affiliation}#=%=#University of Connecticut
+Author{9}{Firstname}#=%=#Sanguthevar
+Author{9}{Lastname}#=%=#Rajasekaran
+Author{9}{Username}#=%=#sanguthevar
+Author{9}{Email}#=%=#sanguthevar.rajasekaran@uconn.edu
+Author{9}{Affiliation}#=%=#University of Connecticut
+Author{10}{Firstname}#=%=#Caiwen
+Author{10}{Lastname}#=%=#Ding
+Author{10}{Username}#=%=#dcw1988
+Author{10}{Email}#=%=#caiwen.ding@uconn.edu
+Author{10}{Affiliation}#=%=#University of Connecticut
+
+==========

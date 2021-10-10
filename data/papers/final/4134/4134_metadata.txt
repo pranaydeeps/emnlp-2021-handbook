@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#4134
+FinalPaperTitle#=%=#Low-resource Taxonomy Enrichment with Pretrained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Kunihiro Takeoka
+JobTitle#==#
+Organization#==#
+Abstract#==#Taxonomies are symbolic representations of hierarchical relationships between terms or entities. While taxonomies are useful in broad applications, manually updating or maintaining them is labor-intensive and difficult to scale in practice. Conventional supervised methods for this enrichment task fail to find optimal parents of new terms in low-resource settings where only small taxonomies are available because of overfitting to hierarchical relationships in the taxonomies. 
+
+To tackle the problem of low-resource taxonomy enrichment, we propose Musubu, an efficient framework for taxonomy enrichment in low-resource settings with pretrained language models (LMs) as knowledge bases to compensate for the shortage of information. Musubu leverages an LM-based classifier to determine whether or not inputted term pairs have hierarchical relationships. Musubu also utilizes Hearst patterns to generate queries to leverage implicit knowledge from the LM efficiently for more accurate prediction. We empirically demonstrate the effectiveness of our method in extensive experiments on taxonomies from both a SemEval task and real-world retailer datasets.
+Author{1}{Firstname}#=%=#Kunihiro
+Author{1}{Lastname}#=%=#Takeoka
+Author{1}{Username}#=%=#kunihirot
+Author{1}{Email}#=%=#k_takeoka@nec.com
+Author{1}{Affiliation}#=%=#NEC Corporation
+Author{2}{Firstname}#=%=#Kosuke
+Author{2}{Lastname}#=%=#Akimoto
+Author{2}{Username}#=%=#kosuke_akimoto
+Author{2}{Email}#=%=#kosuke_a@nec.com
+Author{2}{Affiliation}#=%=#NEC Corporation
+Author{3}{Firstname}#=%=#Masafumi
+Author{3}{Lastname}#=%=#Oyamada
+Author{3}{Username}#=%=#stillpedant
+Author{3}{Email}#=%=#oyamada@nec.com
+Author{3}{Affiliation}#=%=#NEC
+
+==========

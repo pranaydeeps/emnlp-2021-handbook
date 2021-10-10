@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#{S}peeding Up {T}ransformer Training By Using Dataset Subsampling - {A}n Exploratory Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Lovre Torbarina
+JobTitle#==#
+Organization#==#doXray B.V.
+Borculoseweg 41, 7161 GR Neede, Netherlands
+Abstract#==#Transformer-based models have greatly advanced the progress in the field of the natural language processing and while they achieve state-of-the-art results on a wide range of tasks, they are cumbersome in parameter size. Subsequently, even when pre-trained transformer models are used for fine-tuning on a given task, if the dataset is large, it may still not be feasible to fine-tune the model within a reasonable time. For this reason, we empirically test 8 subsampling methods for reducing the dataset size on text classification task and report the trade-off between metric score and training time. 7 out of 8 methods are simple methods, while the last one is CRAIG, a method for coreset construction for data-efficient model training. We obtain the best result with the CRAIG method, offering an average decrease of 0.03 points in f-score on test set while speeding up the training time on average by 63.93%, relative to the score and time obtained by using the full dataset. Lastly, we show the trade-off between speed and performance for all sampling methods on three different datasets.
+Author{1}{Firstname}#=%=#Lovre
+Author{1}{Lastname}#=%=#Torbarina
+Author{1}{Username}#=%=#lovre.torbarina
+Author{1}{Email}#=%=#lovre.torbarina@doxray.com
+Author{1}{Affiliation}#=%=#doXray
+Author{2}{Firstname}#=%=#Velimir
+Author{2}{Lastname}#=%=#Mihelčić
+Author{2}{Email}#=%=#velimir.mihelcic@doxray.com
+Author{2}{Affiliation}#=%=#doXray
+Author{3}{Firstname}#=%=#Bruno
+Author{3}{Lastname}#=%=#Šarlija
+Author{3}{Email}#=%=#bruno.sarlija@doxray.com
+Author{3}{Affiliation}#=%=#doXray
+Author{4}{Firstname}#=%=#Lukasz
+Author{4}{Lastname}#=%=#Roguski
+Author{4}{Email}#=%=#lukasz.roguski@doxray.com
+Author{4}{Affiliation}#=%=#doXray
+Author{5}{Firstname}#=%=#Željko
+Author{5}{Lastname}#=%=#Kraljević
+Author{5}{Email}#=%=#zeljko.kraljevic@doxray.com
+Author{5}{Affiliation}#=%=#doXray
+
+==========

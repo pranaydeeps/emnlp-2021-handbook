@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Automated Extraction of Sentencing Decisions from Court Cases in the Hebrew Language
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gabriel Stanovsky
+JobTitle#==#
+Organization#==#The Hebrew University of Jerusalem
+Abstract#==#We present the task of Automated Punishment Extraction (APE) in sentencing decisions from criminal court cases in Hebrew. Addressing APE will enable the identification of sentencing patterns and constitute an important stepping stone for many follow up legal NLP applications in Hebrew, including the prediction of sentencing decisions. We curate a dataset of sexual assault sentencing decisions and a manually-annotated evaluation dataset, and implement rule-based and supervised models. We find that while supervised models can identify the sentence containing the punishment with good accuracy, rule-based approaches outperform them on the full APE task. We conclude by presenting a first analysis of sentencing patterns in our dataset and analyze common models' errors, indicating avenues for future work, such as distinguishing between probation and actual imprisonment punishment. 
+We will make all our resources available upon request, including data, annotation, and first benchmark models.
+Author{1}{Firstname}#=%=#Mohr
+Author{1}{Lastname}#=%=#Wenger
+Author{1}{Email}#=%=#mohr.wenger@mail.huji.ac.il
+Author{1}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{2}{Firstname}#=%=#Tom
+Author{2}{Lastname}#=%=#Kalir
+Author{2}{Email}#=%=#tom.kalir@mail.huji.ac.il
+Author{2}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{3}{Firstname}#=%=#Noga
+Author{3}{Lastname}#=%=#Berger
+Author{3}{Email}#=%=#content@igud1202.org.il
+Author{3}{Affiliation}#=%=#The Association of Rape Crisis Centers in Israel
+Author{4}{Firstname}#=%=#Carmit Klar
+Author{4}{Lastname}#=%=#Chalamish
+Author{4}{Email}#=%=#carmit@klar.co.il
+Author{4}{Affiliation}#=%=#The Association of Rape Crisis Centers in Israel, Bar-Ilan University, Israel.
+Author{5}{Firstname}#=%=#Renana
+Author{5}{Lastname}#=%=#Keydar
+Author{5}{Username}#=%=#renanakeydar
+Author{5}{Email}#=%=#renana.keydar@mail.huji.ac.il
+Author{5}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{6}{Firstname}#=%=#Gabriel
+Author{6}{Lastname}#=%=#Stanovsky
+Author{6}{Username}#=%=#gabis1986
+Author{6}{Email}#=%=#gabriel.satanovsky@gmail.com
+Author{6}{Affiliation}#=%=#The Hebrew University of Jerusalem
+
+==========

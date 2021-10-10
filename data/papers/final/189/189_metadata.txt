@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#189
+FinalPaperTitle#=%=#Timeline Summarization based on Event Graph Compression via Time-Aware Optimal Transport
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Manling Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Timeline Summarization identifies major events from a news collection and describes them following temporal order, with key dates tagged. Previous methods generally generate summaries separately for each date after they determine the key dates of events. These methods overlook the events' intra-structures (arguments) and inter-structures (event-event connections). Following a different route, we propose to represent the news articles as an event-graph, thus the summarization becomes compressing the whole graph to its salient sub-graph. The key hypothesis is that the events connected through shared arguments and temporal order depict the skeleton of a timeline, containing events that are semantically related, temporally coherent and structurally salient in the global event graph. A time-aware optimal transport distance is then introduced for learning the compression model in an unsupervised manner. We show that our approach significantly improves on the state of the art on three real-world datasets, including two public standard benchmarks and our newly collected Timeline100 dataset.
+Author{1}{Firstname}#=%=#Manling
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#limanling
+Author{1}{Email}#=%=#manling2@illinois.edu
+Author{1}{Affiliation}#=%=#UIUC
+Author{2}{Firstname}#=%=#Tengfei
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#pursuer
+Author{2}{Email}#=%=#tengfei.ma1@ibm.com
+Author{2}{Affiliation}#=%=#IBM Research AI
+Author{3}{Firstname}#=%=#Mo
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#gflfof
+Author{3}{Email}#=%=#gflfof@gmail.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Lingfei
+Author{4}{Lastname}#=%=#Wu
+Author{4}{Username}#=%=#teddylfwu
+Author{4}{Email}#=%=#lwu@email.wm.edu
+Author{4}{Affiliation}#=%=#JD.COM Silicon Valley Research Center
+Author{5}{Firstname}#=%=#Tian
+Author{5}{Lastname}#=%=#Gao
+Author{5}{Username}#=%=#onguard
+Author{5}{Email}#=%=#tgao@us.ibm.com
+Author{5}{Affiliation}#=%=#IBM
+Author{6}{Firstname}#=%=#Heng
+Author{6}{Lastname}#=%=#Ji
+Author{6}{Username}#=%=#hengjirpi
+Author{6}{Email}#=%=#hengji@illinois.edu
+Author{6}{Affiliation}#=%=#University of Illinois at Urbana-Champaign and Amazon (Amazon Scholar)
+Author{7}{Firstname}#=%=#Kathleen
+Author{7}{Lastname}#=%=#McKeown
+Author{7}{Username}#=%=#kathy
+Author{7}{Email}#=%=#kathy@cs.columbia.edu
+Author{7}{Affiliation}#=%=#Columbia University and Amazon (Amazon Scholar)
+
+==========

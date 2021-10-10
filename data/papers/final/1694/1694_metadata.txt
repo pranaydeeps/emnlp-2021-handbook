@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#1694
+FinalPaperTitle#=%=#Generative Context Pair Selection for Multi-hop Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Dheeru Dua
+JobTitle#==#
+Organization#==#University of California, Irvine, CA, 92697
+Abstract#==#Compositional reasoning tasks such as multi-hop question answering require models to learn how to make latent decisions using only weak supervision from the final answer. Crowdsourced datasets gathered for these tasks, however, often contain only a slice of the underlying task distribution, which can induce unanticipated biases such as shallow word overlap between the question and context. Recent works have shown that discriminative training results in models that exploit these underlying biases to achieve a better held-out performance, without learning the right way to reason. We propose a generative context selection model for multi-hop QA that reasons about how the given question could have been generated given a context pair and not just independent contexts. We show that on HotpotQA, while being comparable to the state-of-the-art answering performance, our proposed generative passage selection model has a better performance (4.9% higher than baseline) on adversarial held-out set which tests robustness of model's multi-hop reasoning capabilities.
+Author{1}{Firstname}#=%=#Dheeru
+Author{1}{Lastname}#=%=#Dua
+Author{1}{Username}#=%=#ddua
+Author{1}{Email}#=%=#dheeru_dua@hotmail.com
+Author{1}{Affiliation}#=%=#University of California, Irvine
+Author{2}{Firstname}#=%=#Cicero
+Author{2}{Lastname}#=%=#Nogueira dos Santos
+Author{2}{Username}#=%=#cicerosantos
+Author{2}{Email}#=%=#nogueirati@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Patrick
+Author{3}{Lastname}#=%=#Ng
+Author{3}{Username}#=%=#patrickng
+Author{3}{Email}#=%=#patricng@amazon.com
+Author{3}{Affiliation}#=%=#Amazon.com
+Author{4}{Firstname}#=%=#Ben
+Author{4}{Lastname}#=%=#Athiwaratkun
+Author{4}{Username}#=%=#benathi
+Author{4}{Email}#=%=#ben.athiwaratkun@gmail.com
+Author{4}{Affiliation}#=%=#Amazon
+Author{5}{Firstname}#=%=#Bing
+Author{5}{Lastname}#=%=#Xiang
+Author{5}{Username}#=%=#bxiang
+Author{5}{Email}#=%=#bxiang@amazon.com
+Author{5}{Affiliation}#=%=#Amazon
+Author{6}{Firstname}#=%=#Matt
+Author{6}{Lastname}#=%=#Gardner
+Author{6}{Username}#=%=#mattg
+Author{6}{Email}#=%=#matthewjgardner1@gmail.com
+Author{7}{Firstname}#=%=#Sameer
+Author{7}{Lastname}#=%=#Singh
+Author{7}{Username}#=%=#sameer
+Author{7}{Email}#=%=#sameer@uci.edu
+Author{7}{Affiliation}#=%=#University of California, Irvine
+
+==========

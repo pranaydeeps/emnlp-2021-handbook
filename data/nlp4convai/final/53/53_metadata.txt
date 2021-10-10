@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#53
+FinalPaperTitle#=%=#Dialogue Response Generation via Contrastive Latent Representation Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Shuyang Dai
+JobTitle#==#
+Organization#==#
+Abstract#==#Large-scale auto-regressive models have achieved great success in dialogue response generation, with the help of Transformer layers. However, these models do not learn a representative latent space of the sentence distribution, making it hard to control the generation. Recent works have tried on learning sentence representations using Transformer-based framework, but do not model the context-response relationship embedded in the dialogue datasets. In this work, we aim to construct a robust sentence representation learning model, that is specifically designed for dialogue response generation, with Transformer-based encoder-decoder structure. An utterance-level contrastive learning is proposed, encoding predictive information in each context representation for its corresponding response. Extensive experiments are conducted to verify the robustness of the proposed representation learning mechanism. By using both reference-based and reference-free evaluation metrics, we provide detailed analysis on the generated sentences, demonstrating the effectiveness of our proposed model.
+Author{1}{Firstname}#=%=#Shuyang
+Author{1}{Lastname}#=%=#Dai
+Author{1}{Username}#=%=#sd301
+Author{1}{Email}#=%=#sd301@duke.edu
+Author{1}{Affiliation}#=%=#Duke University
+Author{2}{Firstname}#=%=#Guoyin
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#guoyinwang
+Author{2}{Email}#=%=#guoyinwang.duke@gmail.com
+Author{2}{Affiliation}#=%=#Amazon Alexa AI
+Author{3}{Firstname}#=%=#Sunghyun
+Author{3}{Lastname}#=%=#Park
+Author{3}{Username}#=%=#sunghyun.park.cs
+Author{3}{Email}#=%=#sunghyun.park.cs@gmail.com
+Author{3}{Affiliation}#=%=#Amazon Alexa AI
+Author{4}{Firstname}#=%=#Sungjin
+Author{4}{Lastname}#=%=#Lee
+Author{4}{Username}#=%=#junion
+Author{4}{Email}#=%=#junion.sjlee@gmail.com
+Author{4}{Affiliation}#=%=#Amazon Alexa AI
+
+==========

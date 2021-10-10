@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4284
+FinalPaperTitle#=%=#Aspect-based Sentiment Analysis in Question Answering Forums
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Wenxuan Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Aspect-based sentiment analysis (ABSA) typically focuses on extracting aspects and predicting their sentiments on individual sentences such as customer reviews. Recently, another kind of opinion sharing platform, namely question answering (QA) forum, has received increasing popularity, which accumulates a large number of user opinions towards various aspects. This motivates us to investigate the task of ABSA on QA forums (ABSA-QA), aiming to jointly detect the discussed aspects and their sentiment polarities for a given QA pair. Unlike review sentences, a QA pair is composed of two parallel sentences, which requires interaction modeling to align the aspect mentioned in the question and the associated opinion clues in the answer. To this end, we propose a model with a specific design of cross-sentence aspect-opinion interaction modeling to address this task. The proposed method is evaluated on three real-world datasets and the results show that our model outperforms several strong baselines adopted from related state-of-the-art models.
+Author{1}{Firstname}#=%=#Wenxuan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#wxzhang
+Author{1}{Email}#=%=#wxzhang@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Lastname}#=%=#Deng
+Author{2}{Username}#=%=#d123y456
+Author{2}{Email}#=%=#ydeng@se.cuhk.edu.hk
+Author{2}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{3}{Firstname}#=%=#Xin
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#lixin4ever
+Author{3}{Email}#=%=#lixin4ever@gmail.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Lidong
+Author{4}{Lastname}#=%=#Bing
+Author{4}{Username}#=%=#binglidong
+Author{4}{Email}#=%=#binglidong@gmail.com
+Author{4}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{5}{Firstname}#=%=#Wai
+Author{5}{Lastname}#=%=#Lam
+Author{5}{Username}#=%=#wlam
+Author{5}{Email}#=%=#wlam@se.cuhk.edu.hk
+Author{5}{Affiliation}#=%=#The Chinese University of Hong Kong
+
+==========

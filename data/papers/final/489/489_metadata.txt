@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#489
+FinalPaperTitle#=%=#GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Weicheng Ma
+JobTitle#==#PhD Student
+Organization#==#Department of Computer Science, Dartmouth College, 9 Maynard St., Hanover, NH, US
+Abstract#==#A key problem in multi-task learning (MTL) research is how to select high-quality auxiliary tasks automatically. This paper presents GradTS, an automatic auxiliary task selection method based on gradient calculation in Transformer-based models. Compared to AUTOSEM, a strong baseline method, GradTS improves the performance of MT-DNN with a bert-base-cased backend model, from 0.33% to 17.93% on 8 natural language understanding (NLU) tasks in the GLUE benchmarks. GradTS is also time-saving since (1) its gradient calculations are based on single-task experiments and (2) the gradients are re-used without additional experiments when the candidate task set changes. On the 8 GLUE classification tasks, for example, GradTS costs on average 21.32% less time than AUTOSEM with comparable GPU consumption. Further, we show the robustness of GradTS across various task settings and model selections, e.g. mixed objectives among candidate tasks. The efficiency and efficacy of GradTS in these case studies illustrate its general applicability in MTL research without requiring manual task filtering or costly parameter tuning.
+Author{1}{Firstname}#=%=#Weicheng
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Username}#=%=#weichengm
+Author{1}{Email}#=%=#weicheng.ma.gr@dartmouth.edu
+Author{1}{Affiliation}#=%=#Dartmouth College
+Author{2}{Firstname}#=%=#Renze
+Author{2}{Lastname}#=%=#Lou
+Author{2}{Username}#=%=#renzelou
+Author{2}{Email}#=%=#marionojump0722@gmail.com
+Author{2}{Affiliation}#=%=#Zhejiang University City College
+Author{3}{Firstname}#=%=#Kai
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#kaizhang
+Author{3}{Email}#=%=#drogozhang@gmail.com
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Lili
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#wll969
+Author{4}{Email}#=%=#lili.wang.gr@dartmouth.edu
+Author{4}{Affiliation}#=%=#Dartmouth College
+Author{5}{Firstname}#=%=#Soroush
+Author{5}{Lastname}#=%=#Vosoughi
+Author{5}{Username}#=%=#soroushv
+Author{5}{Email}#=%=#soroush@dartmouth.edu
+Author{5}{Affiliation}#=%=#Dartmouth
+
+==========

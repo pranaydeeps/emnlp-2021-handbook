@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2643
+FinalPaperTitle#=%=#From Alignment to Assignment: Frustratingly Simple Unsupervised Entity Alignment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xin Mao
+JobTitle#==#
+Organization#==#East China Normal University
+Abstract#==#Cross-lingual entity alignment (EA) aims to find the equivalent entities between crosslingual KGs (Knowledge Graphs), which is a crucial step for integrating KGs. Recently, many GNN-based EA methods are proposed and show decent performance improvements on several public datasets. However, existing GNN-based EA methods inevitably inherit poor interpretability and low efficiency from neural networks. Motivated by the isomorphic assumption of GNN-based methods, we successfully transform the cross-lingual EA problem into an assignment problem. Based on this re-definition, we propose a frustratingly Simple but Effective Unsupervised entity alignment method (SEU) without neural networks.
+Extensive experiments have been conducted to show that our proposed unsupervised approach even beats advanced supervised methods across all public datasets while having high efficiency, interpretability, and stability.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Mao
+Author{1}{Username}#=%=#xinmao
+Author{1}{Email}#=%=#xmao@stu.ecnu.edu.cn
+Author{1}{Affiliation}#=%=#ECNU
+Author{2}{Firstname}#=%=#wenting
+Author{2}{Lastname}#=%=#wang
+Author{2}{Email}#=%=#wenting.wang@lazada.com
+Author{2}{Affiliation}#=%=#alibaba group
+Author{3}{Firstname}#=%=#Yuanbin
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Username}#=%=#wuyuanbin.fdu
+Author{3}{Email}#=%=#wuyuanbin.fdu@gmail.com
+Author{3}{Affiliation}#=%=#East China Normal University
+Author{4}{Firstname}#=%=#Man
+Author{4}{Lastname}#=%=#Lan
+Author{4}{Username}#=%=#lanman
+Author{4}{Email}#=%=#mlan@cs.ecnu.edu.cn
+Author{4}{Affiliation}#=%=#East China Normal University
+
+==========

@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#3943
+FinalPaperTitle#=%=#FCM: A Fine-grained Comparison Model for Multi-turn Dialogue Reasoning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xu Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite the success of neural dialogue systems in achieving high performance on the leader-board, they cannot meet users' requirements in practice, due to their poor reasoning skills. The underlying reason is that most neural dialogue models only capture the syntactic and semantic information, but fail to model the logical consistency between the dialogue history and the generated response. 
+Recently, a new multi-turn dialogue reasoning task has been proposed, to facilitate dialogue reasoning research. However, this task is challenging, because there are only slight differences between the illogical response and the dialogue history. How to effectively solve this challenge is still worth exploring.
+This paper proposes a Fine-grained Comparison Model (FCM) to tackle this problem. Inspired by human's behavior in reading comprehension, a comparison mechanism is proposed to focus on the fine-grained differences in the representation of each response candidate. Specifically, each candidate representation is compared with the whole history to obtain a history consistency representation. Furthermore, the consistency signals between each candidate and the speaker's own history are considered to drive a model prefer a candidate that is logically consistent with the speaker's history logic. Finally, the above consistency representations are employed to output a ranking list of the candidate responses for multi-turn dialogue reasoning. Experimental results on two public dialogue datasets show that our method obtains higher ranking scores than the baseline models.
+Author{1}{Firstname}#=%=#Xu
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#xuanlv
+Author{1}{Email}#=%=#wxx@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications，State Key Laboratory of Networking and Switching Technology
+Author{2}{Firstname}#=%=#Hainan
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zhanghainan
+Author{2}{Email}#=%=#zhanghainan1990@163.com
+Author{2}{Affiliation}#=%=#Data Science Lab JD.com
+Author{3}{Firstname}#=%=#Shuai
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Username}#=%=#shuaizhao
+Author{3}{Email}#=%=#zhaoshuaiby@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Yanyan
+Author{4}{Lastname}#=%=#Zou
+Author{4}{Username}#=%=#yanyan_zou
+Author{4}{Email}#=%=#2296251368@qq.com
+Author{4}{Affiliation}#=%=#JD.com
+Author{5}{Firstname}#=%=#Hongshen
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Username}#=%=#chenhongshen
+Author{5}{Email}#=%=#ac@chenhongshen.com
+Author{5}{Affiliation}#=%=#JD.com
+Author{6}{Firstname}#=%=#Zhuoye
+Author{6}{Lastname}#=%=#Ding
+Author{6}{Username}#=%=#dingzhuoye
+Author{6}{Email}#=%=#dingzhuoye@jd.com
+Author{6}{Affiliation}#=%=#JD.com
+Author{7}{Firstname}#=%=#Bo
+Author{7}{Lastname}#=%=#Cheng
+Author{7}{Username}#=%=#chengboanns
+Author{7}{Email}#=%=#chengbo@bupt.edu.cn
+Author{7}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{8}{Firstname}#=%=#Yanyan
+Author{8}{Lastname}#=%=#Lan
+Author{8}{Username}#=%=#lanyanyan
+Author{8}{Email}#=%=#lanyanyan@tsinghua.edu.cn
+Author{8}{Affiliation}#=%=#Tsinghua University
+
+==========

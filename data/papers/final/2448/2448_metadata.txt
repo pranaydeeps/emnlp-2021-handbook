@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2448
+FinalPaperTitle#=%=#Caption Enriched Samples for Improving Hateful Memes Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Efrat Blaier
+JobTitle#==#
+Organization#==#
+Abstract#==#The recently introduced hateful meme challenge demonstrates the difficulty of determining whether a meme is hateful or not. Specifically, both unimodal language models and multimodal vision-language models cannot reach the human level of performance. Motivated by the need to model the contrast between the image content and the overlayed text, we suggest applying an off-the-shelf image captioning tool in order to capture the first. We demonstrate that the incorporation of such automatic captions during fine-tuning improves the results for various unimodal and multimodal models. Moreover, in the unimodal case, continuing the pre-training of language models on augmented and original caption pairs, is highly beneficial to the classification accuracy.
+Author{1}{Firstname}#=%=#Efrat
+Author{1}{Lastname}#=%=#Blaier
+Author{1}{Username}#=%=#efratblaier
+Author{1}{Email}#=%=#efrat.safanov@gmail.com
+Author{1}{Affiliation}#=%=#Tel Aviv University
+Author{2}{Firstname}#=%=#Itzik
+Author{2}{Lastname}#=%=#Malkiel
+Author{2}{Username}#=%=#itzikmalkiel
+Author{2}{Email}#=%=#itzik.malkiel@gmail.com
+Author{2}{Affiliation}#=%=#tel aviv university
+Author{3}{Firstname}#=%=#Lior
+Author{3}{Lastname}#=%=#Wolf
+Author{3}{Username}#=%=#wolf
+Author{3}{Email}#=%=#wolf@cs.tau.ac.il
+Author{3}{Affiliation}#=%=#Tel Aviv University
+
+==========

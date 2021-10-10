@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#2551
+FinalPaperTitle#=%=#Adversarial Attack against Cross-lingual Knowledge Graph Alignment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Yang Zhou
+JobTitle#==#
+Organization#==#Auburn University
+Abstract#==#Recent literatures have shown that knowledge graph (KG) learning models are highly vulnerable to adversarial attacks. However, there is still a paucity of vulnerability analyses of cross-lingual entity alignment under adversarial attacks. This paper proposes an adversarial attack model with two novel attack techniques to perturb the KG structure and degrade the quality of deep cross-lingual entity alignment. First, an entity density maximization method is employed to hide the attacked entities in dense regions in two KGs, such that the derived perturbations are unnoticeable. Second, an attack signal amplification method is developed to reduce the gradient vanishing issues in the process of adversarial attacks for further improving the attack effectiveness.
+Author{1}{Firstname}#=%=#Zeru
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zeru_zhang
+Author{1}{Email}#=%=#zzz0054@auburn.edu
+Author{1}{Affiliation}#=%=#Auburn University
+Author{2}{Firstname}#=%=#Zijie
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zzz0092@auburn.edu
+Author{2}{Affiliation}#=%=#Auburn University
+Author{3}{Firstname}#=%=#Yang
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Username}#=%=#yzhou86
+Author{3}{Email}#=%=#yangzhou@auburn.edu
+Author{3}{Affiliation}#=%=#Auburn University
+Author{4}{Firstname}#=%=#Lingfei
+Author{4}{Lastname}#=%=#Wu
+Author{4}{Username}#=%=#teddylfwu
+Author{4}{Email}#=%=#lwu@email.wm.edu
+Author{4}{Affiliation}#=%=#JD.COM Silicon Valley Research Center
+Author{5}{Firstname}#=%=#Sixing
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#mebiuw
+Author{5}{Email}#=%=#wusixing@pku.edu.cn
+Author{5}{Affiliation}#=%=#School of Electronics Engineering and Computer Science, Peking University
+Author{6}{Firstname}#=%=#Xiaoying
+Author{6}{Lastname}#=%=#Han
+Author{6}{Username}#=%=#xzh0003
+Author{6}{Email}#=%=#xzh0003@auburn.edu
+Author{6}{Affiliation}#=%=#Auburn University
+Author{7}{Firstname}#=%=#Dejing
+Author{7}{Lastname}#=%=#Dou
+Author{7}{Username}#=%=#dou
+Author{7}{Email}#=%=#dou@cs.uoregon.edu
+Author{7}{Affiliation}#=%=#University of Oregon
+Author{8}{Firstname}#=%=#Tianshi
+Author{8}{Lastname}#=%=#Che
+Author{8}{Username}#=%=#tzc0029
+Author{8}{Email}#=%=#tzc0029@auburn.edu
+Author{8}{Affiliation}#=%=#Auburn University
+Author{9}{Firstname}#=%=#Da
+Author{9}{Lastname}#=%=#Yan
+Author{9}{Username}#=%=#yanda
+Author{9}{Email}#=%=#yanda@uab.edu
+Author{9}{Affiliation}#=%=#The University of Alabama at Birmingham
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3922
+FinalPaperTitle#=%=#Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Thuy-Trang Vu
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper considers the unsupervised domain adaptation problem for neural machine translation (NMT), where we assume the access to only monolingual text in either the source or target language in the new domain. We propose a cross-lingual data selection method to extract in-domain sentences in the missing language side from a large generic monolingual corpus. Our proposed method trains an adaptive layer on top of multilingual BERT by contrastive learning to align the representation between the source and target language. This then enables the transferability of the domain classifier between the languages in a zero-shot manner. Once the in-domain data is detected by the classifier, the NMT model is then adapted to the new domain by jointly learning translation and domain discrimination tasks. We evaluate our cross-lingual data selection method on NMT across five diverse domains in three language pairs, as well as a real-world scenario of translation for COVID-19. The results show that our proposed method outperforms other selection baselines up to +1.5 BLEU score.
+Author{1}{Firstname}#=%=#Thuy-Trang
+Author{1}{Lastname}#=%=#Vu
+Author{1}{Username}#=%=#trangvu
+Author{1}{Email}#=%=#trang.vuthithuy@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Xuanli
+Author{2}{Lastname}#=%=#He
+Author{2}{Username}#=%=#xuanli.he
+Author{2}{Email}#=%=#zodiachy@gmail.com
+Author{2}{Affiliation}#=%=#Monash University
+Author{3}{Firstname}#=%=#Dinh
+Author{3}{Lastname}#=%=#Phung
+Author{3}{Username}#=%=#dinh
+Author{3}{Email}#=%=#dinh.phung@monash.edu
+Author{3}{Affiliation}#=%=#Monash University, Australia
+Author{4}{Firstname}#=%=#Gholamreza
+Author{4}{Lastname}#=%=#Haffari
+Author{4}{Username}#=%=#reza.haffari
+Author{4}{Email}#=%=#gholamreza.haffari@monash.edu
+Author{4}{Affiliation}#=%=#Monash University
+
+==========

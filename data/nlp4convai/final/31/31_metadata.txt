@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Amendable Generation for Dialogue State Tracking
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Xin Tian
+JobTitle#==#
+Organization#==#
+Abstract#==#In task-oriented dialogue systems, recent dialogue state tracking methods tend to perform one-pass generation of the dialogue state based on the previous dialogue state. The mistakes of these models made at the current turn are prone to be carried over to the next turn, causing error propagation. 
+In this paper, we propose a novel Amendable Generation for Dialogue State Tracking (AG-DST), which contains a two-pass generation process: (1) generating a primitive dialogue state based on the dialogue of the current turn and the previous dialogue state, and (2) amending the primitive dialogue state from the first pass. 
+With the additional amending generation pass, our model is tasked to learn more robust dialogue state tracking by amending the errors that still exist in the primitive dialogue state, which plays the role of reviser in the double-checking process and alleviates unnecessary error propagation.
+Experimental results show that AG-DST significantly outperforms previous works in two active DST datasets (MultiWOZ 2.2 and WOZ 2.0), achieving new state-of-the-art performances.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Tian
+Author{1}{Username}#=%=#shanetian
+Author{1}{Email}#=%=#tianxin06@baidu.com
+Author{1}{Affiliation}#=%=#Baidu Inc., China
+Author{2}{Firstname}#=%=#Liankai
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Username}#=%=#huanglk3
+Author{2}{Email}#=%=#huangliankai@baidu.com
+Author{2}{Affiliation}#=%=#Baidu Inc., China
+Author{3}{Firstname}#=%=#Yingzhan
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Username}#=%=#linyingzhan
+Author{3}{Email}#=%=#linyingzhan01@baidu.com
+Author{3}{Affiliation}#=%=#Baidu Inc., China
+Author{4}{Firstname}#=%=#Siqi
+Author{4}{Lastname}#=%=#Bao
+Author{4}{Username}#=%=#sbao
+Author{4}{Email}#=%=#baosiqi@baidu.com
+Author{4}{Affiliation}#=%=#Baidu
+Author{5}{Firstname}#=%=#Huang
+Author{5}{Lastname}#=%=#He
+Author{5}{Username}#=%=#sserdoubleh
+Author{5}{Email}#=%=#hehuang@baidu.com
+Author{5}{Affiliation}#=%=#Baidu
+Author{6}{Firstname}#=%=#Yunyi
+Author{6}{Lastname}#=%=#Yang
+Author{6}{Email}#=%=#yangyunyi01@baidu.com
+Author{6}{Affiliation}#=%=#Baidu Inc., China
+Author{7}{Firstname}#=%=#Hua
+Author{7}{Lastname}#=%=#Wu
+Author{7}{Username}#=%=#wu_hua
+Author{7}{Email}#=%=#wu_hua@baidu.com
+Author{7}{Affiliation}#=%=#Baidu
+Author{8}{Firstname}#=%=#Fan
+Author{8}{Lastname}#=%=#Wang
+Author{8}{Email}#=%=#wang.fan@baidu.com
+Author{8}{Affiliation}#=%=#Baidu Inc., China
+Author{9}{Firstname}#=%=#Shuqi
+Author{9}{Lastname}#=%=#Sun
+Author{9}{Email}#=%=#sunshuqi01@baidu.com
+Author{9}{Affiliation}#=%=#Baidu Inc., China
+
+==========

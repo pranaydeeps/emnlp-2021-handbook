@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#82
+FinalPaperTitle#=%=#Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Bin Liang
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we investigate the Aspect Category Sentiment Analysis (ACSA) task from a novel perspective by exploring a Beta Distribution guided aspect-aware graph construction based on external knowledge. That is, we are no longer entangled about how to laboriously search the sentiment clues for coarse-grained aspects from the context, but how to preferably find the words highly related to the aspects in the context and determine their importance based on the public knowledge base. In this way, the contextual sentiment clues can be explicitly tracked in ACSA for the aspects in the light of these aspect-related words. To be specific, we first regard each aspect as a pivot to derive aspect-aware words that are highly related to the aspect from external affective commonsense knowledge. Then, we employ Beta Distribution to educe the aspect-aware weight, which reflects the importance to the aspect, for each aspect-aware word. Afterward, the aspect-aware words are served as the substitutes of the coarse-grained aspect to construct graphs for leveraging the aspect-related contextual sentiment dependencies in ACSA. Experiments on 6 benchmark datasets show that our approach significantly outperforms the state-of-the-art baseline methods.
+Author{1}{Firstname}#=%=#Bin
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Username}#=%=#akuchi
+Author{1}{Email}#=%=#18B951033@stu.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{2}{Firstname}#=%=#Hang
+Author{2}{Lastname}#=%=#Su
+Author{2}{Username}#=%=#hitfst
+Author{2}{Email}#=%=#suhang@stu.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{3}{Firstname}#=%=#Rongdi
+Author{3}{Lastname}#=%=#Yin
+Author{3}{Username}#=%=#rongdiyin
+Author{3}{Email}#=%=#rongdiyin@gmail.com
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{4}{Firstname}#=%=#Lin
+Author{4}{Lastname}#=%=#Gui
+Author{4}{Username}#=%=#monta3pt
+Author{4}{Email}#=%=#guilin.nlp@gmail.com
+Author{4}{Affiliation}#=%=#University of Warwick
+Author{5}{Firstname}#=%=#Min
+Author{5}{Lastname}#=%=#Yang
+Author{5}{Username}#=%=#mirandayang3
+Author{5}{Email}#=%=#min.yang@siat.ac.cn
+Author{5}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{6}{Firstname}#=%=#Qin
+Author{6}{Lastname}#=%=#Zhao
+Author{6}{Username}#=%=#nothingkong
+Author{6}{Email}#=%=#zhaoqin@hit.edu.cn
+Author{6}{Affiliation}#=%=#Harbin Institute of Technology (Shenzhen)
+Author{7}{Firstname}#=%=#Xiaoqi
+Author{7}{Lastname}#=%=#Yu
+Author{7}{Email}#=%=#yuxiaoqi@cmschina.com.cn
+Author{7}{Affiliation}#=%=#China Merchants Securities Co ., Ltd.
+Author{8}{Firstname}#=%=#Ruifeng
+Author{8}{Lastname}#=%=#Xu
+Author{8}{Username}#=%=#xuruifeng.hitsz
+Author{8}{Email}#=%=#xuruifeng@hit.edu.cn
+Author{8}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+
+==========

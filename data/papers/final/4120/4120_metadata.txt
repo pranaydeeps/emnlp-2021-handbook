@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4120
+FinalPaperTitle#=%=#Collaborative Learning of Bidirectional Decoders for Unsupervised Text Style Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Yun Ma
+JobTitle#==#
+Organization#==#
+Abstract#==#Unsupervised text style transfer aims to alter the underlying style of the text to a desired value while keeping its style-independent semantics, without the support of parallel training corpora. Existing methods struggle to achieve both high style conversion rate and low content loss, exhibiting the over-transfer and under-transfer problems. We attribute these problems to the conflicting driving forces of the style conversion goal and content preservation goal. In this paper, we propose a collaborative learning framework for unsupervised text style transfer using a pair of bidirectional decoders, one decoding from left to right while the other decoding from right to left. In our collaborative learning mechanism, each decoder is regularized by knowledge from its peer which has a different knowledge acquisition process. The difference is guaranteed by their opposite decoding directions and a distinguishability constraint. As a result, mutual knowledge distillation drives both decoders to a better optimum and alleviates the over-transfer and under-transfer problems. Experimental results on two benchmark datasets show that our framework achieves strong empirical results on both style compatibility and content preservation.
+Author{1}{Firstname}#=%=#Yun
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Username}#=%=#yunma3
+Author{1}{Email}#=%=#mayun371@gmail.com
+Author{1}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{2}{Firstname}#=%=#Yangbin
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#robinchen
+Author{2}{Email}#=%=#ybchen@ie.cuhk.edu.hk
+Author{2}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{3}{Firstname}#=%=#Xudong
+Author{3}{Lastname}#=%=#Mao
+Author{3}{Username}#=%=#xudongmao
+Author{3}{Email}#=%=#xudong.xdmao@gmail.com
+Author{3}{Affiliation}#=%=#Xiamen University
+Author{4}{Firstname}#=%=#Qing
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#csqli
+Author{4}{Email}#=%=#csqli@comp.polyu.edu.hk
+Author{4}{Affiliation}#=%=#the Hong Kong Polytechnic University
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Visualizing Cross‑Lingual Discourse Relations in Multilingual TED Corpora
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zae Myung Kim
+JobTitle#==#
+Organization#==#NAVER LABS Europe
+6 Chem. de Maupertuis, 38240 Meylan, France
+Abstract#==#This paper presents an interactive data dashboard that provides users with an overview of the preservation of discourse relations among 28 language pairs. We display a graph network depicting the cross-lingual discourse relations between a pair of languages for multilingual TED talks and provide a search function to look for sentences with specific keywords or relation types, facilitating ease of analysis on the cross-lingual discourse relations.
+Author{1}{Firstname}#=%=#Zae Myung
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Username}#=%=#zaemyung
+Author{1}{Email}#=%=#zaemyung@gmail.com
+Author{1}{Affiliation}#=%=#NAVER LABS Europe
+Author{2}{Firstname}#=%=#Vassilina
+Author{2}{Lastname}#=%=#Nikoulina
+Author{2}{Username}#=%=#vassilina
+Author{2}{Email}#=%=#vassilina.nikoulina@naverlabs.com
+Author{2}{Affiliation}#=%=#Naver Labs Europe
+Author{3}{Firstname}#=%=#Dongyeop
+Author{3}{Lastname}#=%=#Kang
+Author{3}{Username}#=%=#dongyeok
+Author{3}{Email}#=%=#dykang85@gmail.com
+Author{3}{Affiliation}#=%=#University of California, Berkeley
+Author{4}{Firstname}#=%=#Didier
+Author{4}{Lastname}#=%=#Schwab
+Author{4}{Username}#=%=#schwab
+Author{4}{Email}#=%=#didier.schwab@univ-grenoble-alpes.fr
+Author{4}{Affiliation}#=%=#Univ. Grenoble Alpes
+Author{5}{Firstname}#=%=#Laurent
+Author{5}{Lastname}#=%=#Besacier
+Author{5}{Username}#=%=#laurent.besacier
+Author{5}{Email}#=%=#laurent.besacier@imag.fr
+Author{5}{Affiliation}#=%=#LIG
+
+==========

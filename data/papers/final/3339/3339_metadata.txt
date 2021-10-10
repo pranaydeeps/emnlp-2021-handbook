@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3339
+FinalPaperTitle#=%=#ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Rujun Han
+JobTitle#==#
+Organization#==#
+Abstract#==#While pre-trained language models (PTLMs) have achieved noticeable success on many NLP tasks, they still struggle for tasks that require event temporal reasoning, which is essential for event-centric applications. We present a continual pre-training approach that equips PTLMs with targeted knowledge about event temporal relations. We design self-supervised learning objectives to recover masked-out event and temporal indicators and to discriminate sentences from their corrupted counterparts (where event or temporal indicators got replaced). By further pre-training a PTLM with these objectives jointly, we reinforce its attention to event and temporal information, yielding enhanced capability on event temporal reasoning. This **E**ffective **CON**tinual pre-training framework for **E**vent **T**emporal reasoning (ECONET) improves the PTLMs' fine-tuning performances across five relation extraction and question answering tasks and achieves new or on-par state-of-the-art performances in most of our downstream tasks.
+Author{1}{Firstname}#=%=#Rujun
+Author{1}{Lastname}#=%=#Han
+Author{1}{Username}#=%=#rjh347
+Author{1}{Email}#=%=#rujunhan@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Xiang
+Author{2}{Lastname}#=%=#Ren
+Author{2}{Username}#=%=#xren7
+Author{2}{Email}#=%=#xiangren@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Nanyun
+Author{3}{Lastname}#=%=#Peng
+Author{3}{Username}#=%=#npeng
+Author{3}{Email}#=%=#violetpeng@cs.ucla.edu
+Author{3}{Affiliation}#=%=#University of California, Los Angeles
+
+==========

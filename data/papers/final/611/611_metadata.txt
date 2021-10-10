@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#611
+FinalPaperTitle#=%=#Meta Distant Transfer Learning for Pre-trained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chengyu Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#With the wide availability of Pre-trained Language Models (PLMs), multi-task fine-tuning across domains has been extensively applied. For tasks related to distant domains with different class label sets, PLMs may memorize non-transferable knowledge for the target domain and suffer from negative transfer. Inspired by meta-learning, we propose the Meta Distant Transfer Learning (Meta-DTL) framework to learn the cross-task knowledge for PLM-based methods. Meta-DTL first employs task representation learning to mine implicit relations among multiple tasks and classes. Based on the results, it trains a PLM-based meta-learner to capture the transferable knowledge across tasks. The weighted maximum entropy regularizers are proposed to make meta-learner more task-agnostic and unbiased. Finally, the meta-learner can be fine-tuned to fit each task with better parameter initialization. We evaluate Meta-DTL using both BERT and ALBERT on seven public datasets. Experiment results confirm the superiority of Meta-DTL as it consistently outperforms strong baselines. We find that Meta-DTL is highly effective when very few data is available for the target task.
+Author{1}{Firstname}#=%=#Chengyu
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#chywang2013
+Author{1}{Email}#=%=#chywang2013@gmail.com
+Author{1}{Affiliation}#=%=#Alibaba Group
+Author{2}{Firstname}#=%=#Haojie
+Author{2}{Lastname}#=%=#Pan
+Author{2}{Username}#=%=#hjpan
+Author{2}{Email}#=%=#myscarletpan@gmail.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Minghui
+Author{3}{Lastname}#=%=#Qiu
+Author{3}{Username}#=%=#minghuiqiu
+Author{3}{Email}#=%=#minghuiqiu@gmail.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#jun
+Author{4}{Lastname}#=%=#huang
+Author{4}{Username}#=%=#jhuang1207
+Author{4}{Email}#=%=#huangjun.hj@alibaba-inc.com
+Author{4}{Affiliation}#=%=#alibaba group
+Author{5}{Firstname}#=%=#Fei
+Author{5}{Lastname}#=%=#Yang
+Author{5}{Username}#=%=#zjyangfei
+Author{5}{Email}#=%=#yangf@zhejianglab.com
+Author{5}{Affiliation}#=%=#Zhejiang Lab
+Author{6}{Firstname}#=%=#Yin
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#zhangyin98
+Author{6}{Email}#=%=#zhangyin98@zju.edu.cn
+Author{6}{Affiliation}#=%=#Zhejiang University
+
+==========

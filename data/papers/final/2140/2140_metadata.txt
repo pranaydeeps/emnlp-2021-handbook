@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#2140
+FinalPaperTitle#=%=#Graph Algorithms for Multiparallel Word Alignment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Ayyoob Imanigooghari
+JobTitle#==#
+Organization#==#
+Abstract#==#With the advent of end-to-end deep learning approaches in machine translation, interest in word alignments initially decreased; however, they have again become a focus of research more recently.
+Alignments are useful for typological research, transferring formatting like markup to translated texts, and can be used in the decoding of machine translation systems. At the same time, massively multilingual processing is becoming an important NLP scenario, and pretrained language and machine translation models that are truly multilingual are proposed. However, most alignment algorithms rely on bitexts only and do not leverage the fact that many parallel corpora are multiparallel. In this work, we exploit the multiparallelity of corpora by representing an initial set of bilingual alignments as a graph and then predicting additional edges in the graph. We present two graph algorithms for edge prediction: one inspired by recommender systems and one based on network link prediction. Our experimental results show absolute improvements in F1
+of up to 28% over the baseline bilingual word aligner in different datasets.
+Author{1}{Firstname}#=%=#Ayyoob
+Author{1}{Lastname}#=%=#ImaniGooghari
+Author{1}{Username}#=%=#ayyoob
+Author{1}{Email}#=%=#ayyoob@cis.lmu.de
+Author{1}{Affiliation}#=%=#Center for Information and Language Processing, LMU Munich
+Author{2}{Firstname}#=%=#Masoud
+Author{2}{Lastname}#=%=#Jalili Sabet
+Author{2}{Username}#=%=#katerpillar
+Author{2}{Email}#=%=#masoud@cis.lmu.de
+Author{2}{Affiliation}#=%=#Center for Information and Speech Processing, Ludwig Maximilian University of Munich
+Author{3}{Firstname}#=%=#Lutfi Kerem
+Author{3}{Lastname}#=%=#Senel
+Author{3}{Username}#=%=#kerem
+Author{3}{Email}#=%=#lksenel@gmail.com
+Author{3}{Affiliation}#=%=#Center for Information and Language Processing (CIS), LMU Munich, Germany
+Author{4}{Firstname}#=%=#Philipp
+Author{4}{Lastname}#=%=#Dufter
+Author{4}{Username}#=%=#philipp
+Author{4}{Email}#=%=#philipp.dufter@cis.lmu.de
+Author{4}{Affiliation}#=%=#Center for Information and Language Processing, LMU Munich
+Author{5}{Firstname}#=%=#François
+Author{5}{Lastname}#=%=#Yvon
+Author{5}{Username}#=%=#francois.yvon
+Author{5}{Email}#=%=#francois.yvon@limsi.fr
+Author{5}{Affiliation}#=%=#LISN CNRS & Univ. Paris Saclay
+Author{6}{Firstname}#=%=#Hinrich
+Author{6}{Lastname}#=%=#Schütze
+Author{6}{Username}#=%=#cislmu
+Author{6}{Email}#=%=#inquiries@cislmu.org
+Author{6}{Affiliation}#=%=#Center for Information and Language Processing, University of Munich
+
+==========

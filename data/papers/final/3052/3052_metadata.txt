@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3052
+FinalPaperTitle#=%=#MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Sky CH-Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#An ideal integration of autonomous agents in a human world implies that they are able to collaborate on human terms. In particular, theory of mind plays an important role in maintaining common ground during human collaboration and communication. To enable theory of mind modeling in situated interactions, we introduce a fine-grained  dataset of collaborative tasks performed by pairs of human subjects in the 3D virtual blocks world of Minecraft. It provides information that captures partners' beliefs of the world and of each other as an interaction unfolds, bringing abundant opportunities to study human collaborative behaviors in situated language communication. As a first step towards our goal of developing embodied AI agents able to infer belief states of collaborative partners in situ, we build and present results on computational models for several theory of mind tasks.
+Author{1}{Firstname}#=%=#Cristian-Paul
+Author{1}{Lastname}#=%=#Bara
+Author{1}{Username}#=%=#cpbara
+Author{1}{Email}#=%=#cpbara@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Sky
+Author{2}{Lastname}#=%=#CH-Wang
+Author{2}{Username}#=%=#skywang329
+Author{2}{Email}#=%=#skywang@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Joyce
+Author{3}{Lastname}#=%=#Chai
+Author{3}{Username}#=%=#jchai
+Author{3}{Email}#=%=#chaijy@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+
+==========

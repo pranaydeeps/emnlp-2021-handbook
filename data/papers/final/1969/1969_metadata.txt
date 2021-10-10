@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1969
+FinalPaperTitle#=%=#Geo-BERT Pre-training Model for Query Rewriting in POI Search
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Xiao Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Query Rewriting (QR) is proposed to solve the problem of the word mismatch between queries and documents in Web search.
+  Existing approaches usually model QR with an end-to-end sequence-to-sequence (seq2seq) model. The state-of-the-art Transformer-based models can effectively learn textual semantics from user session logs, but they often ignore users' geographic location information that is crucial for the Point-of-Interest (POI) search of map services. In this paper, we proposed a pre-training model, called Geo-BERT, to integrate semantics and geographic information in the pre-trained representations of POIs. Firstly, we simulate POI distribution in the real world as a graph, in which nodes represent POIs and multiple geographic granularities. Then we use graph representation learning methods to get geographic representations. Finally, we train a BERT-like pre-training model with text and POIs’ graph embeddings to get an integrated representation of both geographic and semantic information, and apply it in the QR of POI search. The proposed model achieves excellent accuracy on a wide range of real-world datasets of map services.
+Author{1}{Firstname}#=%=#xiao
+Author{1}{Lastname}#=%=#liu
+Author{1}{Username}#=%=#superrrrrrlx
+Author{1}{Email}#=%=#samliuxiao@163.com
+Author{1}{Affiliation}#=%=#Didi Chuxing
+Author{2}{Firstname}#=%=#Juan
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Username}#=%=#hujuan
+Author{2}{Email}#=%=#hujuan@didiglobal.com
+Author{2}{Affiliation}#=%=#Didi Chuxing
+Author{3}{Firstname}#=%=#Qi
+Author{3}{Lastname}#=%=#Shen
+Author{3}{Username}#=%=#shenqi
+Author{3}{Email}#=%=#qishen@zju.edu.cn
+Author{3}{Affiliation}#=%=#Didi Chuxing
+Author{4}{Firstname}#=%=#Huan
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#chenhuan
+Author{4}{Email}#=%=#huangege@qq.com
+Author{4}{Affiliation}#=%=#Didi Chuxing
+
+==========

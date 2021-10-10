@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#971
+FinalPaperTitle#=%=#Robust Fragment-Based Framework for Cross-lingual Sentence Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Nattapol Trijakwanich
+JobTitle#==#
+Organization#==#
+Abstract#==#Cross-lingual Sentence Retrieval (CLSR) aims at retrieving parallel sentence pairs that are translations of each other from a multilingual set of comparable documents. The retrieved parallel sentence pairs can be used in other downstream NLP tasks such as machine translation and cross-lingual word sense disambiguation. We propose a CLSR framework called Robust Fragment-level Representation (RFR) CLSR framework to address Out-of-Domain (OOD) CLSR problems. In particular, we improve the sentence retrieval robustness by representing each sentence as a collection of fragments. In this way, we change the retrieval granularity from the sentence to the fragment level. We performed CLSR experiments based on three OOD datasets, four language pairs, and three base well-known sentence encoders: m-USE, LASER, and LaBSE. Experimental results show that RFR significantly improves the base encoders’ performance for more than 85% of the cases.
+Author{1}{Firstname}#=%=#Nattapol
+Author{1}{Lastname}#=%=#Trijakwanich
+Author{1}{Username}#=%=#ntrijakwanich
+Author{1}{Email}#=%=#nattapol.t_s17@vistec.ac.th
+Author{1}{Affiliation}#=%=#Vidyasirimedhi Institute of Science and Technology
+Author{2}{Firstname}#=%=#Peerat
+Author{2}{Lastname}#=%=#Limkonchotiwat
+Author{2}{Username}#=%=#peerat
+Author{2}{Email}#=%=#peerat.limkonchotiwat@gmail.com
+Author{2}{Affiliation}#=%=#School of Information Science and Technology, Vidyasirimedhi Institute of Science and Technology, Thailand
+Author{3}{Firstname}#=%=#Raheem
+Author{3}{Lastname}#=%=#Sarwar
+Author{3}{Username}#=%=#raheemsarwar
+Author{3}{Email}#=%=#R.Sarwar4@wlv.ac.uk
+Author{3}{Affiliation}#=%=#Research Group in Computational Linguistics, University of Wolverhampton, United Kingdom
+Author{4}{Firstname}#=%=#Wannaphong
+Author{4}{Lastname}#=%=#Phatthiyaphaibun
+Author{4}{Username}#=%=#wannaphong
+Author{4}{Email}#=%=#wannaphong@kkumail.com
+Author{4}{Affiliation}#=%=#Faculty of Interdisciplinary Studies, Khon Kaen University
+Author{5}{Firstname}#=%=#Ekapol
+Author{5}{Lastname}#=%=#Chuangsuwanich
+Author{5}{Email}#=%=#ekapolc@cp.eng.chula.ac.th
+Author{5}{Affiliation}#=%=#Department of Computer Engineering Chulalongkorn University, Thailand
+Author{6}{Firstname}#=%=#Sarana
+Author{6}{Lastname}#=%=#Nutanong
+Author{6}{Username}#=%=#snutanong
+Author{6}{Email}#=%=#snutanon@vistec.ac.th
+Author{6}{Affiliation}#=%=#School of Information Science and Technology, Vidyasirimedhi Institute of Science and Technology, Thailand
+
+==========

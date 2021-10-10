@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#The Multilingual Corpus of Survey Questionnaires Query Interface
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Danielly Sorato
+JobTitle#==#
+Organization#==#
+Abstract#==#The dawn of the digital age led to increasing demands for digital research resources, which shall be quickly processed and handled by computers.
+Due to the amount of data created by this digitization process, the design of tools that enable the analysis and management of data and metadata has become a relevant topic. 
+In this context, the Multilingual Corpus of Survey Questionnaires (MCSQ) contributes to the creation and distribution of data for the Social Sciences and Humanities (SSH) following FAIR (Findable, Accessible, Interoperable and Reusable) principles, and provides functionalities for end-users that are not acquainted with programming through an easy-to-use interface.
+By simply applying the desired filters in the graphic interface, users can build linguistic resources for the survey research and translation areas, such as translation memories, thus facilitating data access and usage.
+Author{1}{Firstname}#=%=#Danielly
+Author{1}{Lastname}#=%=#Sorato
+Author{1}{Username}#=%=#dsorato
+Author{1}{Email}#=%=#danielly.sorato@gmail.com
+Author{1}{Affiliation}#=%=#Universidad Pompeu Fabra
+Author{2}{Firstname}#=%=#Diana
+Author{2}{Lastname}#=%=#Zavala-Rojas
+Author{2}{Username}#=%=#dianazr
+Author{2}{Email}#=%=#diana.zavala@upf.edu
+Author{2}{Affiliation}#=%=#Universitat Pompeu Fabra
+
+==========

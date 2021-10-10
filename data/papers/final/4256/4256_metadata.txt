@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#4256
+FinalPaperTitle#=%=#Zero-Shot Information Extraction as a Unified Text-to-Triple Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Chenguang Wang
+JobTitle#==#
+Organization#==#UC Berkeley
+Berkeley, CA 94709
+Abstract#==#We cast a suite of information extraction tasks into a text-to-triple translation framework. Instead of solving each task relying on task-specific datasets and models, we formalize the task as a translation between task-specific input text and output triples. By taking the task-specific input, we enable a task-agnostic translation by leveraging the latent knowledge that a pre-trained language model has about the task. We further demonstrate that a simple pre-training task of predicting which relational information corresponds to which input text is an effective way to produce task-specific outputs. This enables the zero-shot transfer of our framework to downstream tasks. We study the zero-shot performance of this framework on open information extraction (OIE2016, NYT, WEB, PENN), relation classification (FewRel and TACRED), and factual probe (Google-RE and T-REx). The model transfers non-trivially to most tasks and is often competitive with a fully supervised method without the need for any task-specific training. For instance, we significantly outperform the F1 score of the supervised open information extraction without needing to use its training set.
+Author{1}{Firstname}#=%=#Chenguang
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#chenguangwang1989
+Author{1}{Email}#=%=#wangcg.pku@gmail.com
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Xiao
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#xiao190525@gmail.com
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Zui
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#chenzui19@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Haoyun
+Author{4}{Lastname}#=%=#Hong
+Author{4}{Email}#=%=#jacquelinehhy99@gmail.com
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Jie
+Author{5}{Lastname}#=%=#Tang
+Author{5}{Email}#=%=#jery.tang@gmail.com
+Author{5}{Affiliation}#=%=#Tsinghua University
+Author{6}{Firstname}#=%=#Dawn
+Author{6}{Lastname}#=%=#Song
+Author{6}{Email}#=%=#dawnsong@gmail.com
+Author{6}{Affiliation}#=%=#UC Berkeley
+
+==========

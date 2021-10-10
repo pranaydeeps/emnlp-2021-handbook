@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#521
+FinalPaperTitle#=%=#Multilingual Chart-based Constituency Parse Extraction from Pre-trained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Taeuk Kim
+JobTitle#==#
+Organization#==#Hanyang University, 222, Wangsimni-ro, Seongdong-gu, Seoul, 04763, Korea
+Abstract#==#As it has been unveiled that pre-trained language models (PLMs) are to some extent capable of recognizing syntactic concepts in natural language, much effort has been made to develop a method for extracting complete (binary) parses from PLMs without training separate parsers.
+We improve upon this paradigm by proposing a novel chart-based method and an effective top-K ensemble technique.
+Moreover, we demonstrate that we can broaden the scope of application of the approach into multilingual settings.
+Specifically, we show that by applying our method on multilingual PLMs, it becomes possible to induce non-trivial parses for sentences from nine languages in an integrated and language-agnostic manner, attaining performance superior or comparable to that of unsupervised PCFGs.
+We also verify that our approach is robust to cross-lingual transfer.
+Finally, we provide analyses on the inner workings of our method. For instance, we discover universal attention heads which are consistently sensitive to syntactic information irrespective of the input language.
+Author{1}{Firstname}#=%=#Taeuk
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Username}#=%=#taeuk
+Author{1}{Email}#=%=#kimtaeuk@hanyang.ac.kr
+Author{1}{Affiliation}#=%=#Hanyang University
+Author{2}{Firstname}#=%=#Bowen
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#bowenli
+Author{2}{Email}#=%=#bowen.li@ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Sang-goo
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#sglee
+Author{3}{Email}#=%=#sglee@europa.snu.ac.kr
+Author{3}{Affiliation}#=%=#Seoul National University
+
+==========

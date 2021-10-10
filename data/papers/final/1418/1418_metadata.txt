@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1418
+FinalPaperTitle#=%=#Efficient Multi-Task Auxiliary Learning: Selecting Auxiliary Data by Feature Similarity
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Po-Nien Kung
+JobTitle#==#
+Organization#==#Department of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan
+Abstract#==#Multi-task auxiliary learning utilizes a set of relevant auxiliary tasks to improve the performance of a primary task. A common usage is to manually select multiple auxiliary tasks for multi-task learning on all data, which raises two issues: (1) selecting beneficial auxiliary tasks for a primary task is nontrivial; (2) when the auxiliary datasets are large, training on all data becomes time-expensive and impractical. 
+Therefore, this paper focuses on addressing these problems and proposes a time-efficient sampling method to select the data that is most relevant to the primary task.
+The proposed method allows us to only train on the most beneficial sub-datasets from the auxiliary tasks, achieving efficient multi-task auxiliary learning.
+The experiments on three benchmark datasets (RTE, MRPC, STS-B) show that our method significantly outperforms random sampling and ST-DNN. Also, by applying our method, the model can surpass fully-trained MT-DNN on RTE, MRPC, STS-B, using only 50%, 66%, and 1% of data, respectively.
+Author{1}{Firstname}#=%=#Po-Nien
+Author{1}{Lastname}#=%=#Kung
+Author{1}{Username}#=%=#billkung
+Author{1}{Email}#=%=#b06902012@ntu.edu.tw
+Author{1}{Affiliation}#=%=#National Taiwan University
+Author{2}{Firstname}#=%=#Sheng-Siang
+Author{2}{Lastname}#=%=#Yin
+Author{2}{Username}#=%=#patrickyin
+Author{2}{Email}#=%=#b06902103@ntu.edu.tw
+Author{2}{Affiliation}#=%=#National Taiwan University
+Author{3}{Firstname}#=%=#Yi-Cheng
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#yichengethanchen
+Author{3}{Email}#=%=#b06902011@ntu.edu.tw
+Author{3}{Affiliation}#=%=#National Taiwan University
+Author{4}{Firstname}#=%=#Tse-Hsuan
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Username}#=%=#tsehsuan1102
+Author{4}{Email}#=%=#b06902032@ntu.edu.tw
+Author{4}{Affiliation}#=%=#National Taiwan University
+Author{5}{Firstname}#=%=#Yun-Nung
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Username}#=%=#yvchen
+Author{5}{Email}#=%=#y.v.chen@ieee.org
+Author{5}{Affiliation}#=%=#National Taiwan University
+
+==========

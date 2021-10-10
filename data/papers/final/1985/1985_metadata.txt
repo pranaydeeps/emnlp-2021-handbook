@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1985
+FinalPaperTitle#=%=#Knowledge Enhanced Fine-Tuning for Better Handling Unseen Entities in Dialogue Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Leyang Cui
+JobTitle#==#
+Organization#==#
+Abstract#==#Although pre-training models have achieved great success in dialogue generation, their performance drops dramatically when the input contains an entity that does not appear in pre-training and fine-tuning datasets (unseen entity). To address this issue, existing methods leverage an external knowledge base to generate appropriate responses. In real-world practical, the entity may not be included by the knowledge base or suffer from the precision of knowledge retrieval. 
+To deal with this problem, instead of introducing knowledge base as the input, we force the model to learn a better semantic representation by predicting the information in the knowledge base, only based on the input context. 
+Specifically, with the help of a knowledge base, we introduce two auxiliary training objectives: 1) Interpret Masked Word, which conjectures the meaning of the masked entity given the context; 2) Hypernym Generation, which predicts the hypernym of the entity based on the context. Experiment results on two dialogue corpus verify the effectiveness of our methods under both knowledge available and unavailable settings.
+Author{1}{Firstname}#=%=#Leyang
+Author{1}{Lastname}#=%=#Cui
+Author{1}{Username}#=%=#leyangcui
+Author{1}{Email}#=%=#cuileyang@westlake.edu.cn
+Author{1}{Affiliation}#=%=#Zhejiang University , Westlake University
+Author{2}{Firstname}#=%=#Yu
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#wumark
+Author{2}{Email}#=%=#wumark@126.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Shujie
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#shujliu
+Author{3}{Email}#=%=#shujliu@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia, Beijing, China
+Author{4}{Firstname}#=%=#Yue
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#frcchang
+Author{4}{Email}#=%=#yue.zhang@wias.org.cn
+Author{4}{Affiliation}#=%=#Westlake University
+
+==========

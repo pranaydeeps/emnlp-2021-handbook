@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2905
+FinalPaperTitle#=%=#Moral Stories: Situated Reasoning about Norms, Intents, Actions, and their Consequences
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Denis Emelin
+JobTitle#==#
+Organization#==#
+Abstract#==#In social settings, much of human behavior is governed by unspoken rules of conduct rooted in societal norms. For artificial systems to be fully integrated into social environments, adherence to such norms is a central prerequisite. To investigate whether language generation models can serve as behavioral priors for systems deployed in social settings, we evaluate their ability to generate action descriptions that achieve predefined goals under normative constraints. Moreover, we examine if models can anticipate likely consequences of actions that either observe or violate known norms, or explain why certain actions are preferable by generating relevant norm hypotheses. For this purpose, we introduce Moral Stories, a crowd-sourced dataset of structured, branching narratives for the study of grounded, goal-oriented social reasoning. Finally, we propose decoding strategies that combine multiple expert models to significantly improve the quality of generated actions, consequences, and norms compared to strong baselines.
+Author{1}{Firstname}#=%=#Denis
+Author{1}{Lastname}#=%=#Emelin
+Author{1}{Username}#=%=#denis.emelin
+Author{1}{Email}#=%=#d.emelin@sms.ed.ac.uk
+Author{1}{Affiliation}#=%=#The University of Edinburgh
+Author{2}{Firstname}#=%=#Ronan
+Author{2}{Lastname}#=%=#Le Bras
+Author{2}{Username}#=%=#ronanlebras
+Author{2}{Email}#=%=#ronanlb@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for AI
+Author{3}{Firstname}#=%=#Jena D.
+Author{3}{Lastname}#=%=#Hwang
+Author{3}{Username}#=%=#dhwang90
+Author{3}{Email}#=%=#jenah@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute for AI
+Author{4}{Firstname}#=%=#Maxwell
+Author{4}{Lastname}#=%=#Forbes
+Author{4}{Username}#=%=#mbforbes
+Author{4}{Email}#=%=#mbforbes@cs.uw.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Yejin
+Author{5}{Lastname}#=%=#Choi
+Author{5}{Username}#=%=#ychoi
+Author{5}{Email}#=%=#yejin@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

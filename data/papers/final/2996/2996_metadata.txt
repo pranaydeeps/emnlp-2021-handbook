@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2996
+FinalPaperTitle#=%=#SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Satwik Kottur
+JobTitle#==#
+Organization#==#Facebook Inc., 1 Hacker Way, Menlo Park, California, United State, 94025
+Abstract#==#Next generation task-oriented dialog systems need to understand conversational contexts with their perceived surroundings, to effectively help users in the real-world multimodal environment. Existing task-oriented dialog datasets aimed towards virtual assistance fall short and do not  situate the dialog in the user's multimodal context. To overcome, we present a new dataset for Situated and Interactive Multimodal Conversations, SIMMC 2.0, which includes 11K task-oriented user<->assistant dialogs (117K utterances) in the shopping domain, grounded in immersive and photo-realistic scenes.
+
+The dialogs are collection using a two-phase pipeline: (1) A novel multimodal dialog simulator generates simulated dialog flows, with an emphasis on diversity and richness of interactions, (2) Manual paraphrasing of generating utterances to draw from natural language distribution. We provide an in-depth analysis of the collected dataset, and describe in detail the four main benchmark tasks we propose for SIMMC 2.0. Our baseline model, powered by the state-of-the-art language model, shows promising  results, and highlights new challenges and directions for the community to study.
+Author{1}{Firstname}#=%=#Satwik
+Author{1}{Lastname}#=%=#Kottur
+Author{1}{Username}#=%=#skottur
+Author{1}{Email}#=%=#skottur@fb.com
+Author{1}{Affiliation}#=%=#Facebook AI
+Author{2}{Firstname}#=%=#Seungwhan
+Author{2}{Lastname}#=%=#Moon
+Author{2}{Username}#=%=#shanemoon
+Author{2}{Email}#=%=#me@shanemoon.com
+Author{2}{Affiliation}#=%=#Facebook Reality Labs
+Author{3}{Firstname}#=%=#Alborz
+Author{3}{Lastname}#=%=#Geramifard
+Author{3}{Username}#=%=#alborzg
+Author{3}{Email}#=%=#alborz.geramifard@gmail.com
+Author{3}{Affiliation}#=%=#Facebook AI
+Author{4}{Firstname}#=%=#Babak
+Author{4}{Lastname}#=%=#Damavandi
+Author{4}{Email}#=%=#babakd@fb.com
+Author{4}{Affiliation}#=%=#Facebook
+
+==========

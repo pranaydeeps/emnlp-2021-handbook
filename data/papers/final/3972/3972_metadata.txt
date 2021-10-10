@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3972
+FinalPaperTitle#=%=#Rethinking Zero-shot Neural Machine Translation: From a Perspective of Latent Variables
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Weizhi Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Zero-shot translation, directly translating between language pairs unseen in training, is a promising capability of multilingual neural machine translation (NMT). However, it usually suffers from capturing spurious correlations between the output language and language invariant semantics due to the maximum likelihood training objective, leading to poor transfer performance on zero-shot translation. In this paper, we introduce a denoising autoencoder objective based on pivot language into traditional training objective to improve the translation accuracy on zero-shot directions. The theoretical analysis from the perspective of latent variables shows that our approach actually implicitly maximizes the probability distributions for zero-shot directions. On two benchmark machine translation datasets, we demonstrate that the proposed method is able to effectively eliminate the spurious correlations and significantly outperforms state-of-the-art methods with a remarkable performance. Our code is available at https://github.com/Victorwz/zs-nmt-dae.
+Author{1}{Firstname}#=%=#Weizhi
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#ww351
+Author{1}{Email}#=%=#weizhi.wang@rutgers.edu
+Author{1}{Affiliation}#=%=#Rutgers University
+Author{2}{Firstname}#=%=#Zhirui
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zrustc11acl
+Author{2}{Email}#=%=#zrustc11@gmail.com
+Author{2}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{3}{Firstname}#=%=#Yichao
+Author{3}{Lastname}#=%=#Du
+Author{3}{Username}#=%=#ycdu
+Author{3}{Email}#=%=#duyichao@mail.ustc.edu.cn
+Author{3}{Affiliation}#=%=#University of Science and Technology of China
+Author{4}{Firstname}#=%=#Boxing
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#boxing.chen
+Author{4}{Email}#=%=#chenboxing@gmail.com
+Author{4}{Affiliation}#=%=#Alibaba
+Author{5}{Firstname}#=%=#Jun
+Author{5}{Lastname}#=%=#Xie
+Author{5}{Username}#=%=#stiffxj
+Author{5}{Email}#=%=#stiffxj@qq.com
+Author{5}{Affiliation}#=%=#Alibaba
+Author{6}{Firstname}#=%=#Weihua
+Author{6}{Lastname}#=%=#Luo
+Author{6}{Username}#=%=#luoweihua
+Author{6}{Email}#=%=#weihua.luowh@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba Group
+
+==========

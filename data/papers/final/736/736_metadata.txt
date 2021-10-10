@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#736
+FinalPaperTitle#=%=#How Suitable Are Subword Segmentation Strategies for Translating Non-Concatenative Morphology?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Chantal Amrhein
+JobTitle#==#
+Organization#==#
+Abstract#==#Data-driven subword segmentation has become the default strategy for open-vocabulary machine translation and other NLP tasks, but may not be sufficiently generic for optimal learning of non-concatenative morphology. We design a test suite to evaluate segmentation strategies on different types of morphological phenomena in a controlled, semi-synthetic setting. In our experiments, we compare how well machine translation models trained on subword- and character-level can translate these morphological phenomena. We find that learning to analyse and generate morphologically complex surface representations is still challenging, especially for non-concatenative morphological phenomena like reduplication or vowel harmony and for rare word stems. Based on our results, we recommend that novel text representation strategies be tested on a range of typologically diverse languages to minimise the risk of adopting a strategy that inadvertently disadvantages certain languages.
+Author{1}{Firstname}#=%=#Chantal
+Author{1}{Lastname}#=%=#Amrhein
+Author{1}{Username}#=%=#chanberg
+Author{1}{Email}#=%=#amrhein@cl.uzh.ch
+Author{1}{Affiliation}#=%=#Department of Computational Linguistics, University of Zurich
+Author{2}{Firstname}#=%=#Rico
+Author{2}{Lastname}#=%=#Sennrich
+Author{2}{Username}#=%=#rsennrich
+Author{2}{Email}#=%=#sennrich@cl.uzh.ch
+Author{2}{Affiliation}#=%=#University of Zurich
+
+==========

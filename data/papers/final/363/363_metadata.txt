@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#363
+FinalPaperTitle#=%=#Exploring Sentence Community for Document-Level Event Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yusheng Huang
+JobTitle#==#
+Organization#==#Department of Computer Science and Engineering, Shanghai Jiao Tong University, Shanghai, China
+Abstract#==#Document-level event extraction is critical to various natural language processing tasks for providing structured information. Existing approaches by sequential modeling neglect the complex logic structures for long texts. In this paper, we leverage the entity interactions and sentence interactions within long documents and transform each document into an undirected unweighted graph by exploiting the relationship between sentences. We introduce the Sentence Community to represent each event as a subgraph. Furthermore, our framework SCDEE maintains the ability to extract multiple events by sentence community detection using graph attention networks and alleviate the role overlapping issue by predicting arguments in terms of roles. Experiments demonstrate that our framework achieves competitive results over state-of-the-art methods on the large-scale document-level event extraction dataset.
+Author{1}{Firstname}#=%=#Yusheng
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#hys
+Author{1}{Email}#=%=#huangyusheng@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Weijia
+Author{2}{Lastname}#=%=#Jia
+Author{2}{Username}#=%=#jiawj
+Author{2}{Email}#=%=#weijiaj@gmail.com
+Author{2}{Affiliation}#=%=#BNU-UIC Joint AI Resrach Institute, Beijing Normal University (Zhuhai) & Shanghai Jiao Tong University
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3373
+FinalPaperTitle#=%=#DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Zeqiu Wu
+JobTitle#==#
+Organization#==#University of Washington
+Paul Allen Center, 185 E Stevens Way NE AE100R, Seattle, WA 98195
+Abstract#==#Identifying relevant knowledge to be used in conversational systems that are grounded in long documents is critical to effective response generation. We introduce a knowledge identification model that leverages the document structure to provide dialogue-contextualized passage encodings and better locate knowledge relevant to the conversation. An auxiliary loss captures the history of dialogue-document connections. We demonstrate the effectiveness of our model on two document-grounded conversational datasets and provide analyses showing generalization to unseen documents and long dialogue contexts.
+Author{1}{Firstname}#=%=#Zeqiu
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Username}#=%=#zeqiuwu1
+Author{1}{Email}#=%=#zeqiuwu1@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Bo-Ru
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Username}#=%=#roylu
+Author{2}{Email}#=%=#roylu@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Hannaneh
+Author{3}{Lastname}#=%=#Hajishirzi
+Author{3}{Username}#=%=#hannaneh
+Author{3}{Email}#=%=#hannaneh@washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Mari
+Author{4}{Lastname}#=%=#Ostendorf
+Author{4}{Username}#=%=#mostendorf
+Author{4}{Email}#=%=#ostendor@uw.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

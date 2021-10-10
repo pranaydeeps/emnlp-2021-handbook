@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#MSˆ2: Multi-Document Summarization of Medical Studies
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#jay deyoung
+JobTitle#==#
+Organization#==#Northeastern University
+360 Huntington Ave
+Boston, MA 02115
+Abstract#==#To assess the effectiveness of any medical intervention, researchers must conduct a time-intensive and manual literature review. NLP systems can help to automate or assist in parts of this expensive process. In support of this goal, we release MSˆ2 (Multi-Document Summarization of Medical Studies), a dataset of over 470k documents and 20K summaries derived from the scientific literature. This dataset facilitates the development of systems that can assess and aggregate contradictory evidence across multiple studies, and is the first large-scale, publicly available multi-document summarization dataset in the biomedical domain. We experiment with a summarization system based on BART, with promising early results, though significant work remains to achieve higher summarization quality. We formulate our summarization inputs and targets in both free text and structured forms and modify a recently proposed metric to assess the quality of our system’s generated  summaries. Data and models are available at https://github.com/allenai/ms2.
+Author{1}{Firstname}#=%=#Jay
+Author{1}{Lastname}#=%=#DeYoung
+Author{1}{Username}#=%=#jaydeyoung
+Author{1}{Email}#=%=#jay.b.deyoung@gmail.com
+Author{1}{Affiliation}#=%=#Northeastern University
+Author{2}{Firstname}#=%=#Iz
+Author{2}{Lastname}#=%=#Beltagy
+Author{2}{Username}#=%=#islam.beltagy
+Author{2}{Email}#=%=#iz@beltagy.net
+Author{2}{Affiliation}#=%=#Allen Institute for AI (AI2)
+Author{3}{Firstname}#=%=#Madeleine
+Author{3}{Lastname}#=%=#van Zuylen
+Author{3}{Username}#=%=#mvanzuylen
+Author{3}{Email}#=%=#madeleinev@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute for AI
+Author{4}{Firstname}#=%=#Bailey
+Author{4}{Lastname}#=%=#Kuehl
+Author{4}{Username}#=%=#baileykuehl
+Author{4}{Email}#=%=#baileyk@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for AI
+Author{5}{Firstname}#=%=#Lucy
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Username}#=%=#lucyw
+Author{5}{Email}#=%=#lucylw@uw.edu
+Author{5}{Affiliation}#=%=#(do not use)
+
+==========

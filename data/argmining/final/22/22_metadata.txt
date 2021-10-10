@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Assessing the Sufficiency of Arguments through Conclusion Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Timon Gurcke
+JobTitle#==#
+Organization#==#Universität Paderborn
+Warburger Str. 100
+33098 Paderborn
+Germany
+Abstract#==#The premises of an argument give evidence or other reasons to support a conclusion. However, the amount of support required depends on the generality of a conclusion, the nature of the individual premises, and similar. An argument whose premises make its conclusion rationally worthy to be drawn is called sufficient in argument quality research. Previous work tackled sufficiency assessment as a standard text classification problem, not modeling the inherent relation of premises and conclusion. In this paper, we hypothesize that the conclusion of a sufficient argument can be generated from its premises. To study this hypothesis, we explore the potential of assessing sufficiency based on the output of large-scale pre-trained language models.
+Our best model variant achieves an F1-score of .885, outperforming the previous state-of-the-art and being on par with human experts. While manual evaluation reveals the quality of the generated conclusions, their impact remains low ultimately.
+Author{1}{Firstname}#=%=#Timon
+Author{1}{Lastname}#=%=#Gurcke
+Author{1}{Username}#=%=#tgurcke
+Author{1}{Email}#=%=#timon.gurcke@uni-paderborn.de
+Author{1}{Affiliation}#=%=#Paderborn University
+Author{2}{Firstname}#=%=#Milad
+Author{2}{Lastname}#=%=#Alshomary
+Author{2}{Username}#=%=#miladalsh
+Author{2}{Email}#=%=#milad.alshomary@uni-paderborn.de
+Author{2}{Affiliation}#=%=#Paderborn University
+Author{3}{Firstname}#=%=#Henning
+Author{3}{Lastname}#=%=#Wachsmuth
+Author{3}{Username}#=%=#hwachsmuth
+Author{3}{Email}#=%=#henningw@upb.de
+Author{3}{Affiliation}#=%=#Paderborn University
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2593
+FinalPaperTitle#=%=#Counter-Interference Adapter for Multilingual Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#朱耀明
+JobTitle#==#
+Organization#==#ByteDance AI Lab
+Shanghai, China
+Abstract#==#Developing a unified multilingual model has been a long pursuing goal for machine translation. 
+However, existing approaches suffer from performance degradation - a single multilingual model is inferior to separately trained bilingual ones on rich-resource languages. 
+We conjecture that such a phenomenon is due to interference brought by joint training with multiple languages. 
+To accommodate the issue, we propose CIAT, an adapted Transformer model with a small parameter overhead for multilingual machine translation. We evaluate CIAT on multiple benchmark datasets, including IWSLT, OPUS-100, and WMT. 
+Experiments show that the CIAT consistently outperforms strong multilingual baselines on 64 of total 66 language directions, 42 of which have above 0.5 BLEU improvement.
+Author{1}{Firstname}#=%=#Yaoming
+Author{1}{Lastname}#=%=#ZHU
+Author{1}{Username}#=%=#yaoming95
+Author{1}{Email}#=%=#zhuyaoming@bytedance.com
+Author{1}{Affiliation}#=%=#ByteDance AI lab
+Author{2}{Firstname}#=%=#Jiangtao
+Author{2}{Lastname}#=%=#Feng
+Author{2}{Username}#=%=#fengjiangtao
+Author{2}{Email}#=%=#fengjiangtao@bytedance.com
+Author{2}{Affiliation}#=%=#Bytedance
+Author{3}{Firstname}#=%=#Chengqi
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Username}#=%=#zhaochengqi
+Author{3}{Email}#=%=#zhaochengqi.d@bytedance.com
+Author{3}{Affiliation}#=%=#ByteDance Inc.
+Author{4}{Firstname}#=%=#Mingxuan
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#wangmingxuan
+Author{4}{Email}#=%=#wangmingxuan.89@bytedance.com
+Author{4}{Affiliation}#=%=#Bytedance AI Lab
+Author{5}{Firstname}#=%=#Lei
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#leili
+Author{5}{Email}#=%=#lilei@ucsb.edu
+Author{5}{Affiliation}#=%=#UCSB
+
+==========

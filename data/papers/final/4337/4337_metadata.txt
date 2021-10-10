@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#4337
+FinalPaperTitle#=%=#Improving Multilingual Translation by Representation and Gradient Regularization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Yilin Yang
+JobTitle#==#
+Organization#==#Oregon State University
+Abstract#==#Multilingual Neural Machine Translation (NMT) enables one model to serve all translation directions, including ones that are unseen during training, i.e. zero-shot translation. Despite being theoretically attractive, current models often produce low quality translations -- commonly failing to even produce outputs in the right target language. In this work, we observe that off-target translation is dominant even in strong multilingual systems, trained on massive multilingual corpora. To address this issue, we propose a joint approach to regularize NMT models at both representation-level and gradient-level. At the representation level, we leverage an auxiliary target language prediction task to regularize decoder outputs to retain information about the target language. At the gradient level, we leverage a small amount of direct data (in thousands of sentence pairs) to regularize model gradients. Our results demonstrate that our approach is highly effective in both reducing off-target translation occurrences and improving zero-shot translation performance by +5.59 and +10.38 BLEU on WMT and OPUS datasets respectively. Moreover, experiments show that our method also works well when the small amount of direct data is not available.
+Author{1}{Firstname}#=%=#Yilin
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#yilinyang
+Author{1}{Email}#=%=#yilinyang721@gmail.com
+Author{1}{Affiliation}#=%=#Oregon State University
+Author{2}{Firstname}#=%=#Akiko
+Author{2}{Lastname}#=%=#Eriguchi
+Author{2}{Username}#=%=#eriguchiakiko
+Author{2}{Email}#=%=#erigchi@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Alexandre
+Author{3}{Lastname}#=%=#Muzio
+Author{3}{Username}#=%=#alexandremuzio
+Author{3}{Email}#=%=#alferre@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Prasad
+Author{4}{Lastname}#=%=#Tadepalli
+Author{4}{Username}#=%=#tadepalli
+Author{4}{Email}#=%=#tadepall@eecs.oregonstate.edu
+Author{4}{Affiliation}#=%=#Oregon State University
+Author{5}{Firstname}#=%=#Stefan
+Author{5}{Lastname}#=%=#Lee
+Author{5}{Username}#=%=#steflee
+Author{5}{Email}#=%=#leestef@oregonstate.edu
+Author{5}{Affiliation}#=%=#Oregon State
+Author{6}{Firstname}#=%=#Hany
+Author{6}{Lastname}#=%=#Hassan
+Author{6}{Username}#=%=#hanyh
+Author{6}{Email}#=%=#hanyh@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft
+
+==========

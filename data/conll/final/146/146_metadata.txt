@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#146
+FinalPaperTitle#=%=#Understanding Guided Image Captioning Performance across Domains
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Edwin Ng
+JobTitle#==#
+Organization#==#Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043, United States
+Abstract#==#Image captioning models generally lack the capability to take into account user interest, and usually default to global descriptions that try to balance readability, informativeness, and information overload. We present a Transformer-based model with the ability to produce captions focused on specific objects, concepts or actions in an image by providing them as guiding text to the model. Further, we evaluate the quality of these guided captions when trained on Conceptual Captions which contain 3.3M image-level captions compared to Visual Genome which contain 3.6M object-level captions. Counter-intuitively, we find that guided captions produced by the model trained on Conceptual Captions generalize better on out-of-domain data. Our human-evaluation results indicate that attempting in-the-wild guided image captioning requires access to large, unrestricted-domain training datasets, and that increased style diversity (even without increasing the number of unique tokens) is a key factor for improved performance.
+Author{1}{Firstname}#=%=#Edwin G.
+Author{1}{Lastname}#=%=#Ng
+Author{1}{Username}#=%=#edwinng
+Author{1}{Email}#=%=#eg.ng@alum.utoronto.ca
+Author{1}{Affiliation}#=%=#None
+Author{2}{Firstname}#=%=#Bo
+Author{2}{Lastname}#=%=#Pang
+Author{2}{Username}#=%=#bopang
+Author{2}{Email}#=%=#bopang42@gmail.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Piyush
+Author{3}{Lastname}#=%=#Sharma
+Author{3}{Username}#=%=#piyushsharma
+Author{3}{Email}#=%=#piyushsharma@google.com
+Author{3}{Affiliation}#=%=#Google Research
+Author{4}{Firstname}#=%=#Radu
+Author{4}{Lastname}#=%=#Soricut
+Author{4}{Username}#=%=#rsoricut
+Author{4}{Email}#=%=#radu.soricut@gmail.com
+Author{4}{Affiliation}#=%=#Google LLC
+
+==========

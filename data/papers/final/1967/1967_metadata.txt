@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1967
+FinalPaperTitle#=%=#Efficient Contrastive Learning via Novel Data Augmentation and Curriculum Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Seonghyeon Ye
+JobTitle#==#
+Organization#==#KAIST
+Abstract#==#We introduce EfficientCL, a memory-efficient continual pretraining method that applies contrastive learning with novel data augmentation and curriculum learning. For data augmentation, we stack two types of operation sequentially: cutoff and PCA jittering. While pretraining steps proceed, we apply curriculum learning by incrementing the augmentation degree for each difficulty step. After data augmentation is finished, contrastive learning is applied on projected embeddings of original and augmented examples. When finetuned on GLUE benchmark, our model outperforms baseline models, especially for sentence-level tasks. Additionally, this improvement is capable with only 70% of computational memory compared to the baseline model.
+Author{1}{Firstname}#=%=#Seonghyeon
+Author{1}{Lastname}#=%=#Ye
+Author{1}{Username}#=%=#vano1205
+Author{1}{Email}#=%=#vano1205@kaist.ac.kr
+Author{1}{Affiliation}#=%=#KAIST
+Author{2}{Firstname}#=%=#Jiseon
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Username}#=%=#seon
+Author{2}{Email}#=%=#jiseon_kim@kaist.ac.kr
+Author{2}{Affiliation}#=%=#KAIST
+Author{3}{Firstname}#=%=#Alice
+Author{3}{Lastname}#=%=#Oh
+Author{3}{Username}#=%=#alice.oh
+Author{3}{Email}#=%=#alice.oh@kaist.edu
+Author{3}{Affiliation}#=%=#KAIST
+
+==========

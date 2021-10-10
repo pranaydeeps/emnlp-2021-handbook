@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#4600
+FinalPaperTitle#=%=#Counterfactual Adversarial Learning with Representation Interpolation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Wei Wang
+JobTitle#==#
+Organization#==#Alibaba (China) Co., Ltd: 969 West Wen Yi Road, Yu Hang District, Hangzhou China. Zip code: 311121 
+Tel: (+86) 571-8502-2088 Fax: (+86) 571-8526-9066
+Abstract#==#Deep learning models exhibit a preference for statistical fitting over logical reasoning. Spurious correlations might be memorized when there exists statistical bias in training data, which severely limits the model performance especially in small data scenarios. In this work, we introduce Counterfactual Adversarial Training framework (CAT) to tackle the problem from a causality perspective. Particularly, for a specific sample, CAT first generates a counterfactual representation through latent space interpolation in an adversarial manner, and then performs Counterfactual Risk Minimization (CRM) on each original-counterfactual pair to adjust sample-wise loss weight dynamically, which encourages the model to explore the true causal effect. Extensive experiments demonstrate that CAT achieves substantial performance improvement over SOTA across different downstream tasks, including sentence classification, natural language inference and question answering.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#wangwei666
+Author{1}{Email}#=%=#luyang.ww@alibaba-inc.com
+Author{1}{Affiliation}#=%=#Alibaba Group
+Author{2}{Firstname}#=%=#Boxin
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#qweer28
+Author{2}{Email}#=%=#boxinw2@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{3}{Firstname}#=%=#Ning
+Author{3}{Lastname}#=%=#Shi
+Author{3}{Username}#=%=#mrshininnnnn
+Author{3}{Email}#=%=#shining.shi@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Jinfeng
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lijinfeng
+Author{4}{Email}#=%=#jinfengli.ljf@alibaba-inc.com
+Author{4}{Affiliation}#=%=#Alibaba Group
+Author{5}{Firstname}#=%=#Bingyu
+Author{5}{Lastname}#=%=#Zhu
+Author{5}{Username}#=%=#bingyuzhu
+Author{5}{Email}#=%=#zhubingyu.zby@alibaba-inc.com
+Author{5}{Affiliation}#=%=#Alibaba Group
+Author{6}{Firstname}#=%=#Xiangyu
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#binfenlxy
+Author{6}{Email}#=%=#binfenlxy@gmail.com
+Author{6}{Affiliation}#=%=#Alibaba Group
+Author{7}{Firstname}#=%=#Rong
+Author{7}{Lastname}#=%=#Zhang
+Author{7}{Username}#=%=#zhangrong
+Author{7}{Email}#=%=#stone.zhangr@alibaba-inc.com
+Author{7}{Affiliation}#=%=#Alibaba Group
+
+==========

@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Exploring Methodologies for Collecting High-Quality Implicit Reasoning in Arguments
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Keshav Singh
+JobTitle#==#
+Organization#==#
+Abstract#==#Annotation of implicit reasoning (i.e., warrant) in arguments is a critical resource to train models in gaining deeper understanding and correct interpretation of arguments. 
+However, warrants are usually annotated in unstructured form, having no restriction on their lexical structure which sometimes makes it difficult to interpret how warrants relate to any of the information given in claim and premise. 
+Moreover, assessing and determining better warrants from the large variety of reasoning patterns of unstructured warrants becomes a formidable task.
+Therefore, in order to annotate warrants in a more interpretative and restrictive way, we propose two methodologies to annotate warrants in a semi-structured form.
+To the best of our knowledge, we are the first to show how such semi-structured warrants can be annotated on a large scale via crowdsourcing. 
+We demonstrate through extensive quality evaluation that our methodologies enable collecting better quality warrants in comparison to unstructured annotations. 
+To further facilitate research towards the task of explicating warrants in arguments, we release our materials publicly (i.e., crowdsourcing guidelines and collected warrants).
+Author{1}{Firstname}#=%=#Keshav
+Author{1}{Lastname}#=%=#Singh
+Author{1}{Username}#=%=#keshav
+Author{1}{Email}#=%=#keshav.singh29@ecei.tohoku.ac.jp
+Author{1}{Affiliation}#=%=#Tohoku University
+Author{2}{Firstname}#=%=#Farjana Sultana
+Author{2}{Lastname}#=%=#Mim
+Author{2}{Username}#=%=#mim
+Author{2}{Email}#=%=#mim@ecei.tohoku.ac.jp
+Author{2}{Affiliation}#=%=#Tohoku University
+Author{3}{Firstname}#=%=#Naoya
+Author{3}{Lastname}#=%=#Inoue
+Author{3}{Username}#=%=#naoya-i
+Author{3}{Email}#=%=#naoya.inoue.lab@gmail.com
+Author{3}{Affiliation}#=%=#Stony Brook University / RIKEN
+Author{4}{Firstname}#=%=#Shoichi
+Author{4}{Lastname}#=%=#Naito
+Author{4}{Username}#=%=#shohichi.naitoh
+Author{4}{Email}#=%=#shohichi.naitoh@jp.ricoh.com
+Author{4}{Affiliation}#=%=#Ricoh Company, Ltd.
+Author{5}{Firstname}#=%=#Kentaro
+Author{5}{Lastname}#=%=#Inui
+Author{5}{Username}#=%=#k.inui
+Author{5}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{5}{Affiliation}#=%=#Tohoku University / Riken
+
+==========

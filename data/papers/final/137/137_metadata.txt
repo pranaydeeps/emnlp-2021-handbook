@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#137
+FinalPaperTitle#=%=#Cross-Modal Retrieval Augmentation for Multi-Modal Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Shir Gur
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent advances in using retrieval components over external knowledge sources have shown impressive results for a variety of downstream tasks in natural language processing. Here, we explore the use of unstructured external knowledge sources of images and their corresponding captions for improving visual question answering (VQA). First, we train a novel alignment model for embedding images and captions in the same space, 
+which achieves substantial improvement in performance on image-caption retrieval w.r.t. similar methods.
+Second, we show that retrieval-augmented multi-modal transformers using the trained alignment model
+improve results on VQA over strong baselines.
+We further conduct extensive experiments to establish the promise of this approach, and examine novel applications for inference time such as hot-swapping indices.
+Author{1}{Firstname}#=%=#Shir
+Author{1}{Lastname}#=%=#Gur
+Author{1}{Username}#=%=#shirgur
+Author{1}{Email}#=%=#shiretzet@gmail.com
+Author{1}{Affiliation}#=%=#Tel-Aviv University
+Author{2}{Firstname}#=%=#Natalia
+Author{2}{Lastname}#=%=#Neverova
+Author{2}{Username}#=%=#nneverova
+Author{2}{Email}#=%=#nneverova@fb.com
+Author{2}{Affiliation}#=%=#Facebook AI
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Lastname}#=%=#Stauffer
+Author{3}{Username}#=%=#stauffer
+Author{3}{Email}#=%=#thestauffer@gmail.com
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Ser-Nam
+Author{4}{Lastname}#=%=#Lim
+Author{4}{Username}#=%=#sernam
+Author{4}{Email}#=%=#sernamlim@fb.com
+Author{4}{Affiliation}#=%=#Facebook AI
+Author{5}{Firstname}#=%=#Douwe
+Author{5}{Lastname}#=%=#Kiela
+Author{5}{Username}#=%=#douwe.kiela
+Author{5}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{5}{Affiliation}#=%=#Facebook
+Author{6}{Firstname}#=%=#Austin
+Author{6}{Lastname}#=%=#Reiter
+Author{6}{Username}#=%=#austinreiter
+Author{6}{Email}#=%=#areiter@fb.com
+Author{6}{Affiliation}#=%=#Facebook
+
+==========

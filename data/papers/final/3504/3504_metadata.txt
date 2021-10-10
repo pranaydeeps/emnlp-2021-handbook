@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#3504
+FinalPaperTitle#=%=#Math Word Problem Generation with Mathematical Consistency and Problem Context Constraints
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Zichao Wang
+JobTitle#==#
+Organization#==#Rice University
+Houston, TX, USA
+Abstract#==#We study the problem of generating arithmetic math word problems (MWPs) given a math equation that specifies the mathematical computation and a context that specifies the problem scenario. 
+Existing approaches are prone to generating MWPs that are either mathematically invalid or have unsatisfactory language quality. 
+They also either ignore the context or require manual specification of a problem template, which compromises the diversity of the generated MWPs.
+In this paper, we develop a novel MWP generation approach that leverages i) pre-trained language models and a context keyword selection model to improve the language quality of generated MWPs and ii) an equation consistency constraint for math equations to improve the mathematical validity of the generated MWPs. 
+Extensive quantitative and qualitative experiments on three real-world MWP datasets demonstrate the superior performance of our approach compared to various baselines.
+Author{1}{Firstname}#=%=#Zichao
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#moonlightlane
+Author{1}{Email}#=%=#zw16@rice.edu
+Author{1}{Affiliation}#=%=#Rice University
+Author{2}{Firstname}#=%=#Andrew
+Author{2}{Lastname}#=%=#Lan
+Author{2}{Email}#=%=#andrewlan@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Richard
+Author{3}{Lastname}#=%=#Baraniuk
+Author{3}{Email}#=%=#richb@rice.edu
+Author{3}{Affiliation}#=%=#Rice University
+
+==========

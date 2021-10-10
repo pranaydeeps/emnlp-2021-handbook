@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#343
+FinalPaperTitle#=%=#Thinking Clearly, Talking Fast: Concept-Guided Non-Autoregressive Generation for Open-Domain Dialogue Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yicheng Zou
+JobTitle#==#
+Organization#==#Fudan University
+Abstract#==#Human dialogue contains evolving concepts, and speakers naturally associate multiple concepts to compose a response. However, current dialogue models with the seq2seq framework lack the ability to effectively manage concept transitions and can hardly introduce multiple concepts to responses in a sequential decoding manner. To facilitate a controllable and coherent dialogue, in this work, we devise a concept-guided non-autoregressive model (CG-nAR) for open-domain dialogue generation. The proposed model comprises a multi-concept planning module that learns to identify multiple associated concepts from a concept graph and a customized Insertion Transformer that performs concept-guided non-autoregressive generation to complete a response. The experimental results on two public datasets show that CG-nAR can produce diverse and coherent responses, outperforming state-of-the-art baselines in both automatic and human evaluations with substantially faster inference speed.
+Author{1}{Firstname}#=%=#Yicheng
+Author{1}{Lastname}#=%=#Zou
+Author{1}{Username}#=%=#rowitzou
+Author{1}{Email}#=%=#yczou18@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Zhihua
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#zhihua
+Author{2}{Email}#=%=#liuzh20@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Xingwu
+Author{3}{Lastname}#=%=#Hu
+Author{3}{Username}#=%=#huxingwu
+Author{3}{Email}#=%=#xwhu20@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Qi
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#lloydzq
+Author{4}{Email}#=%=#qz@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3134
+FinalPaperTitle#=%=#Modeling Users and Online Communities for Abuse Detection: A Position on Ethics and Explainability
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Pushkar Mishra
+JobTitle#==#
+Organization#==#
+Abstract#==#Abuse on the Internet is an important societal problem of our time. Millions of Internet users face harassment, racism, personal attacks, and other types of abuse across various platforms. The psychological effects of abuse on individuals can be profound and lasting. Consequently, over the past few years, there has been a substantial research effort towards automated abusive language detection in the field of NLP. In this position paper, we discuss the role that modeling of users and online communities plays in abuse detection. Specifically, we review and analyze the state of the art methods that leverage user or community information to enhance the understanding and detection of abusive language. We then explore the ethical challenges of incorporating user and community information, laying out considerations to guide future research. Finally, we address the topic of explainability in abusive language detection, proposing properties that an explainable method should aim to exhibit. We describe how user and community information can facilitate the realization of these properties and discuss the effective operationalization of explainability in view of the properties.
+Author{1}{Firstname}#=%=#Pushkar
+Author{1}{Lastname}#=%=#Mishra
+Author{1}{Username}#=%=#pushkarmishra
+Author{1}{Email}#=%=#pushkarmishra@fb.com
+Author{1}{Affiliation}#=%=#Facebook AI
+Author{2}{Firstname}#=%=#Helen
+Author{2}{Lastname}#=%=#Yannakoudakis
+Author{2}{Username}#=%=#egian
+Author{2}{Email}#=%=#hyannakoudakis@gmail.com
+Author{2}{Affiliation}#=%=#King's College London, University of Cambridge
+Author{3}{Firstname}#=%=#Ekaterina
+Author{3}{Lastname}#=%=#Shutova
+Author{3}{Username}#=%=#katia
+Author{3}{Email}#=%=#shutova.e@gmail.com
+Author{3}{Affiliation}#=%=#University of Amsterdam
+
+==========

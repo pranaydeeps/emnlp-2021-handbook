@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3803
+FinalPaperTitle#=%=#Cross-Attention is All You Need: {A}dapting Pretrained {T}ransformers for Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mozhdeh Gheini
+JobTitle#==#
+Organization#==#
+Abstract#==#We study the power of cross-attention in the Transformer architecture within the context of transfer learning for machine translation, and extend the findings of studies into cross-attention when training from scratch. We conduct a series of experiments through fine-tuning a translation model on data where either the source or target language has changed. These experiments reveal that fine-tuning only the cross-attention parameters is nearly as effective as fine-tuning all parameters (i.e., the entire translation model). We provide insights into why this is the case and observe that limiting fine-tuning in this manner yields cross-lingually aligned embeddings. The implications of this finding for researchers and practitioners include a mitigation of catastrophic forgetting, the potential for zero-shot translation, and the ability to extend machine translation models to several new language pairs with reduced parameter storage overhead.
+Author{1}{Firstname}#=%=#Mozhdeh
+Author{1}{Lastname}#=%=#Gheini
+Author{1}{Username}#=%=#mgheini
+Author{1}{Email}#=%=#gheini@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Xiang
+Author{2}{Lastname}#=%=#Ren
+Author{2}{Username}#=%=#xren7
+Author{2}{Email}#=%=#xiangren@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#May
+Author{3}{Username}#=%=#jonmay
+Author{3}{Email}#=%=#jonmay@gmail.com
+Author{3}{Affiliation}#=%=#USC Information Sciences Institute
+
+==========

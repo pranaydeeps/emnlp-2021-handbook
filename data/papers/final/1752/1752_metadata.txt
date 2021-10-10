@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1752
+FinalPaperTitle#=%=#Dimensional Emotion Detection from Categorical Emotion
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Sungjoon Park
+JobTitle#==#
+Organization#==#KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea
+Abstract#==#We present a model to predict fine-grained emotions along the continuous dimensions of valence, arousal, and dominance (VAD) with a corpus with categorical emotion annotations. Our model is trained by minimizing the EMD (Earth Mover's Distance) loss between the predicted VAD score distribution and the categorical emotion distributions sorted along VAD, and it can simultaneously classify the emotion categories and predict the VAD scores for a given sentence. We use pre-trained RoBERTa-Large and fine-tune on three different corpora with categorical labels and evaluate on EmoBank corpus with VAD scores. We show that our approach reaches comparable performance to that of the state-of-the-art classifiers in categorical emotion classification and shows significant positive correlations with the ground truth VAD scores. Also, further training with supervision of VAD labels leads to improved performance especially when dataset is small. We also present examples of predictions of appropriate emotion words that are not part of the original annotations.
+Author{1}{Firstname}#=%=#Sungjoon
+Author{1}{Lastname}#=%=#Park
+Author{1}{Username}#=%=#psj6512
+Author{1}{Email}#=%=#sungjoon.park@kaist.ac.kr
+Author{1}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+Author{2}{Firstname}#=%=#Jiseon
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Username}#=%=#seon
+Author{2}{Email}#=%=#jiseon_kim@kaist.ac.kr
+Author{2}{Affiliation}#=%=#KAIST
+Author{3}{Firstname}#=%=#Seonghyeon
+Author{3}{Lastname}#=%=#Ye
+Author{3}{Username}#=%=#vano1205
+Author{3}{Email}#=%=#vano1205@kaist.ac.kr
+Author{3}{Affiliation}#=%=#KAIST
+Author{4}{Firstname}#=%=#Jaeyeol
+Author{4}{Lastname}#=%=#Jeon
+Author{4}{Username}#=%=#jayten
+Author{4}{Email}#=%=#jaejeon@student.42seoul.kr
+Author{4}{Affiliation}#=%=#42 Seoul
+Author{5}{Firstname}#=%=#Hee Young
+Author{5}{Lastname}#=%=#Park
+Author{5}{Username}#=%=#heeyoungpark
+Author{5}{Email}#=%=#heeyng.park@gmail.com
+Author{5}{Affiliation}#=%=#Seoul National University
+Author{6}{Firstname}#=%=#Alice
+Author{6}{Lastname}#=%=#Oh
+Author{6}{Username}#=%=#alice.oh
+Author{6}{Email}#=%=#alice.oh@kaist.edu
+Author{6}{Affiliation}#=%=#KAIST
+
+==========

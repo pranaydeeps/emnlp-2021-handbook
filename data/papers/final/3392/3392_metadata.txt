@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3392
+FinalPaperTitle#=%=#Learning from Noisy Labels for Entity-Centric Information Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Wenxuan Zhou
+JobTitle#==#
+Organization#==#University of Southern California
+Abstract#==#Recent information extraction approaches have relied on training deep neural models. However, such models can easily overfit noisy labels and suffer from performance degradation. While it is very costly to filter noisy labels in large learning resources, recent studies show that such labels take more training steps to be memorized and are more frequently forgotten than clean labels, therefore are identifiable in training. Motivated by such properties, we propose a simple co-regularization framework for entity-centric information extraction, which consists of several neural models with identical structures but different parameter initialization. These models are jointly optimized with the task-specific losses and are regularized to generate similar predictions based on an agreement loss, which prevents overfitting on noisy labels. Extensive experiments on two widely used but noisy benchmarks for information extraction, TACRED and CoNLL03, demonstrate the effectiveness of our framework. We release our code to the community for future research.
+Author{1}{Firstname}#=%=#Wenxuan
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#wzhouad
+Author{1}{Email}#=%=#zhouwenx@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Muhao
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#muhaochen
+Author{2}{Email}#=%=#muhaochen@ucla.edu
+Author{2}{Affiliation}#=%=#USC
+
+==========

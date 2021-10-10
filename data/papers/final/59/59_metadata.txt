@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#59
+FinalPaperTitle#=%=#DWUG: A large Resource of Diachronic Word Usage Graphs in Four Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Dominik Schlechtweg
+JobTitle#==#
+Organization#==#Universität Stuttgart
+Institut für Maschinelle Sprachverarbeitung
+Pfaffenwaldring 5 b
+70569 Stuttgart
+Germany
+Abstract#==#Word meaning is notoriously difficult to capture, both synchronically and diachronically. In this paper, we describe the creation of the largest resource of graded contextualized, diachronic word meaning annotation in four different languages, based on 100,000 human semantic proximity judgments. We describe in detail the multi-round incremental annotation process, the choice for a clustering algorithm to group usages into senses, and possible – diachronic and synchronic – uses for this dataset.
+Author{1}{Firstname}#=%=#Dominik
+Author{1}{Lastname}#=%=#Schlechtweg
+Author{1}{Username}#=%=#garrafao
+Author{1}{Email}#=%=#dominik.schlechtweg@gmx.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Nina
+Author{2}{Lastname}#=%=#Tahmasebi
+Author{2}{Username}#=%=#tahmasebi
+Author{2}{Email}#=%=#nina@tahmasebi.se
+Author{2}{Affiliation}#=%=#University of Gothenburg
+Author{3}{Firstname}#=%=#Simon
+Author{3}{Lastname}#=%=#Hengchen
+Author{3}{Username}#=%=#shengche
+Author{3}{Email}#=%=#hengchen.simon@gmail.com
+Author{3}{Affiliation}#=%=#University of Gothenburg
+Author{4}{Firstname}#=%=#Haim
+Author{4}{Lastname}#=%=#Dubossarsky
+Author{4}{Username}#=%=#haimdub
+Author{4}{Email}#=%=#haim.dub@gmail.com
+Author{4}{Affiliation}#=%=#University of Cambridge
+Author{5}{Firstname}#=%=#Barbara
+Author{5}{Lastname}#=%=#McGillivray
+Author{5}{Username}#=%=#barbaramcgillivray
+Author{5}{Email}#=%=#bmcgillivray@turing.ac.uk
+Author{5}{Affiliation}#=%=#The Alan Turing Institute / University of Cambridge
+
+==========

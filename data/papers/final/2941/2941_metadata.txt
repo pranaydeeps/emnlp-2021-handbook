@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#2941
+FinalPaperTitle#=%=#Simultaneous Supervised Style and Attitude Transfer: Dataset and Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a novel dataset and a model for the task of simultaneous style and attitude transfer. The AttiStyle corpus contains 15,720 pairs of neutral and affective forms of a mobile virtual assistant's responses. The corpus has been manually created and checked by linguists. To the best of our knowledge, this is currently the only available corpus for the supervised simultaneous transfer of two aspects in the sentence - style and attitude.
+
+We also perform feasibility verification for the simultaneous transformation of text in a supervised manner by creating a model and setting a baseline for the aforementioned task. The results we obtain show that it is possible to create a model that simultaneously transforms a neutral sentence by adding style and attitude. We will make the AttiStyle corpus, instructions to annotators and the source code publicly available upon publication.
+Author{1}{Firstname}#=%=#Piotr
+Author{1}{Lastname}#=%=#Andruszkiewicz
+Author{1}{Username}#=%=#p.andruszki2
+Author{1}{Email}#=%=#p.andruszki2@samsung.com
+Author{1}{Affiliation}#=%=#Samsung R&D Poland
+Author{2}{Firstname}#=%=#Klaudia
+Author{2}{Lastname}#=%=#Firląg
+Author{2}{Username}#=%=#klaudia.firlag
+Author{2}{Email}#=%=#k.firlag@samsung.com
+Author{2}{Affiliation}#=%=#Samsung R&D Institute Poland
+
+==========

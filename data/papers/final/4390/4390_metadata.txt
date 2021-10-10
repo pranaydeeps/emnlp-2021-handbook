@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#4390
+FinalPaperTitle#=%=#QACE: Asking Questions to Evaluate an Image Caption
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Hwanhee Lee
+JobTitle#==#
+Organization#==#Seoul National University
+Abstract#==#In this paper we propose QACE, a new metric based on Question Answering for Caption Evaluation to evaluate image captioning based on Question Generation(QG) and Question Answering(QA) systems.
+QACE generates questions on the evaluated caption and check its content by asking the questions on either the reference caption or the source image. We first develop QACE_Ref that compares the answers of the evaluated caption to its reference, and report competitive results with the state-of-the-art metrics. To go further, we propose QACE_Img, that asks the questions directly on the image, instead of reference. A Visual-QA system is necessary for QACE_Img. Unfortunately, the standard VQA models are actually framed a classification among only few thousands categories. Instead, we propose Visual-T5, an abstractive VQA system. The resulting metric, QACE_Img is multi-modal, reference-less and explainable. Our experiments show that QACE_Img compares favorably w.r.t. other reference-less metrics.
+Author{1}{Firstname}#=%=#Hwanhee
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#hwanheelee
+Author{1}{Email}#=%=#wanted1007@snu.ac.kr
+Author{1}{Affiliation}#=%=#Seoul National University
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Scialom
+Author{2}{Username}#=%=#thomas_nlp
+Author{2}{Email}#=%=#thomas@recital.ai
+Author{2}{Affiliation}#=%=#reciTAL, LIP6
+Author{3}{Firstname}#=%=#Seunghyun
+Author{3}{Lastname}#=%=#Yoon
+Author{3}{Username}#=%=#mysmilesh
+Author{3}{Email}#=%=#syoon@adobe.com
+Author{3}{Affiliation}#=%=#Adobe Research
+Author{4}{Firstname}#=%=#Franck
+Author{4}{Lastname}#=%=#Dernoncourt
+Author{4}{Username}#=%=#franck.dernoncourt
+Author{4}{Email}#=%=#franck.dernoncourt@adobe.com
+Author{4}{Affiliation}#=%=#Adobe Research
+Author{5}{Firstname}#=%=#Kyomin
+Author{5}{Lastname}#=%=#Jung
+Author{5}{Username}#=%=#kjung
+Author{5}{Email}#=%=#kjung@snu.ac.kr
+Author{5}{Affiliation}#=%=#Seoul National University
+
+==========

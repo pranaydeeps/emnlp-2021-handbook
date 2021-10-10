@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#2887
+FinalPaperTitle#=%=#{R}e{G}en: {R}einforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Pierre L. Dognin
+JobTitle#==#
+Organization#==#
+Abstract#==#Automatic construction of relevant Knowledge Bases (KBs) from text, and generation of semantically meaningful text from KBs are both long-standing goals in Machine Learning.
+In this paper, we present ReGen, a bidirectional generation of text and graph leveraging Reinforcement Learning to improve performance. 
+Graph linearization enables us to re-frame both tasks as a sequence to sequence generation problem regardless of the generative direction, which in turn allows the use of Reinforcement Learning for sequence training where the model itself  is employed as its own critic leading to Self-Critical Sequence Training (SCST). 
+We present an extensive investigation demonstrating that the use of RL via SCST benefits graph and text generation on WebNLG+ 2020 and TekGen datasets.
+Our system provides state-of-the-art results on WebNLG+ 2020 by significantly improving upon published results from the WebNLG 2020+ Challenge for both text-to-graph and graph-to-text generation tasks. More details at https://github.com/IBM/regen.
+Author{1}{Firstname}#=%=#Pierre
+Author{1}{Lastname}#=%=#Dognin
+Author{1}{Username}#=%=#pdognin
+Author{1}{Email}#=%=#pdognin@us.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research AI
+Author{2}{Firstname}#=%=#Inkit
+Author{2}{Lastname}#=%=#Padhi
+Author{2}{Username}#=%=#inkpad
+Author{2}{Email}#=%=#inkit.padhi@gmail.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Igor
+Author{3}{Lastname}#=%=#Melnyk
+Author{3}{Username}#=%=#igoraries
+Author{3}{Email}#=%=#igor.melnyk@ibm.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Payel
+Author{4}{Lastname}#=%=#Das
+Author{4}{Username}#=%=#payel79
+Author{4}{Email}#=%=#daspa@us.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research AI
+
+==========

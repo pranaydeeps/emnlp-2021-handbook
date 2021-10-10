@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3682
+FinalPaperTitle#=%=#Weakly-Supervised Visual-Retriever-Reader for Knowledge-based Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Man Luo
+JobTitle#==#
+Organization#==#
+Abstract#==#Knowledge-based visual question answering (VQA) requires answering questions with external knowledge in addition to the content of images. One dataset that is mostly used in evaluating  knowledge-based VQA is OK-VQA, but it lacks a gold standard knowledge corpus for retrieval. Existing work leverage different knowledge bases (e.g., ConceptNet and Wikipedia) to obtain external knowledge. Because of varying knowledge bases, it is hard to fairly compare models' performance. To address this issue, we collect a natural language knowledge base that can be used for any VQA system.
+Moreover,  we propose a Visual Retriever-Reader pipeline to approach knowledge-based VQA. The visual retriever aims to retrieve relevant knowledge, and the visual reader seeks to predict answers based on given knowledge.  We introduce various ways to retrieve knowledge using text and images and two reader styles: classification and extraction. Both the retriever and reader are trained with weak supervision. Our experimental results show that a good retriever can significantly improve the reader's performance on the OK-VQA challenge. The code and corpus are provided in https://github.com/luomancs/retriever\_reader\_for\_okvqa.git.
+Author{1}{Firstname}#=%=#Man
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Username}#=%=#manluo
+Author{1}{Email}#=%=#mluo26@asu.edu
+Author{1}{Affiliation}#=%=#Arizona State University
+Author{2}{Firstname}#=%=#Yankai
+Author{2}{Lastname}#=%=#Zeng
+Author{2}{Username}#=%=#ykzeng
+Author{2}{Email}#=%=#yzeng55@asu.edu
+Author{2}{Affiliation}#=%=#Arizona State University
+Author{3}{Firstname}#=%=#Pratyay
+Author{3}{Lastname}#=%=#Banerjee
+Author{3}{Username}#=%=#pratyaybanerjee
+Author{3}{Email}#=%=#pbanerj6@asu.edu
+Author{3}{Affiliation}#=%=#Arizona State University
+Author{4}{Firstname}#=%=#Chitta
+Author{4}{Lastname}#=%=#Baral
+Author{4}{Username}#=%=#chitta66
+Author{4}{Email}#=%=#chitta@asu.edu
+Author{4}{Affiliation}#=%=#Arizona State University
+
+==========

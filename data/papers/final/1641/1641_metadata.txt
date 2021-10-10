@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1641
+FinalPaperTitle#=%=#Event Graph based Sentence Fusion
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ruifeng Yuan
+JobTitle#==#
+Organization#==#The Hong Kong Polytechnic University
+Abstract#==#Sentence fusion is a conditional generation task that merges several related sentences into a coherent one, which can be deemed as a summary sentence. The importance of sentence fusion has long been recognized by communities in natural language generation, especially in text summarization. It remains challenging for a state-of-the-art neural abstractive summarization model to generate a well-integrated summary sentence. In this paper, we explore the effective sentence fusion method in the context of text summarization. We propose to build an event graph from the input sentences to effectively capture and organize related events in a structured way and use the constructed event graph to guide sentence fusion. In addition to make use of the attention over the content of sentences and graph nodes, we further develop a graph flow attention mechanism to control the fusion process via the graph structure. When evaluated on sentence fusion data built from two summarization datasets, CNN/DaliyMail and Multi-News, our model shows to achieve state-of-the-art performance in terms of Rouge and other metrics like fusion rate and faithfulness.
+Author{1}{Firstname}#=%=#Ruifeng
+Author{1}{Lastname}#=%=#Yuan
+Author{1}{Username}#=%=#ruifeng
+Author{1}{Email}#=%=#ruifeng.yuan@connect.polyu.hk
+Author{1}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{2}{Firstname}#=%=#zili
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangzili
+Author{2}{Email}#=%=#ziliwang.do@gmail.com
+Author{2}{Affiliation}#=%=#Xidian University
+Author{3}{Firstname}#=%=#Wenjie
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#cswjli
+Author{3}{Email}#=%=#cswjli@comp.polyu.edu.hk
+Author{3}{Affiliation}#=%=#The Hong Kong Polytechnic University
+
+==========

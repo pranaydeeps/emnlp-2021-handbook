@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4492
+FinalPaperTitle#=%=#AutoEQA: Auto-Encoding Questions for Extractive Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Stalin Varanasi
+JobTitle#==#
+Organization#==#German Research Center for Artificial Intelligence (DFKI), D3.2, Saarland University, Saarbrücken, Germany
+Abstract#==#There has been a significant progress in the field of Extractive Question Answering (EQA) in the recent years. However, most of them are reliant on annotations of answer-spans in the corresponding passages. In this work, we address the problem of EQA when no annotations are present for the answer span, i.e., when the dataset contains only questions and corresponding passages. Our method is based on auto-encoding of the question that performs a question answering task during encoding and a question generation task during decoding. We show that our method performs well in a zero-shot setting and can provide an additional loss to boost performance for EQA.
+Author{1}{Firstname}#=%=#Stalin
+Author{1}{Lastname}#=%=#Varanasi
+Author{1}{Username}#=%=#stalin
+Author{1}{Email}#=%=#varanasi.stalin@gmail.com
+Author{1}{Affiliation}#=%=#DFKI
+Author{2}{Firstname}#=%=#Saadullah
+Author{2}{Lastname}#=%=#Amin
+Author{2}{Username}#=%=#suamin
+Author{2}{Email}#=%=#saadullahamin@gmail.com
+Author{2}{Affiliation}#=%=#DFKI
+Author{3}{Firstname}#=%=#Guenter
+Author{3}{Lastname}#=%=#Neumann
+Author{3}{Username}#=%=#neumann
+Author{3}{Email}#=%=#neumann@dfki.de
+Author{3}{Affiliation}#=%=#DFKI & Saarland University
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2247
+FinalPaperTitle#=%=#MTAdam: Automatic Balancing of Multiple Training Loss Terms
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#itzik malkiel
+JobTitle#==#
+Organization#==#tel aviv university
+Abstract#==#When training neural models, it is common to combine multiple loss terms. The balancing of these terms requires considerable human effort and is computationally demanding. Moreover, the optimal trade-off between the loss terms can change as training progresses, e.g., for adversarial terms. In this work, we generalize the Adam optimization algorithm to handle multiple loss terms. The guiding principle is that for every layer, the gradient magnitude of the terms should be balanced. To this end, the Multi-Term Adam (MTAdam) computes the derivative of each loss term separately, infers the first and second moments per parameter and loss term, and calculates a first moment for the magnitude per layer of the gradients arising from each loss. This magnitude is used to continuously balance the gradients across all layers, in a manner that both varies from one layer to the next and dynamically changes over time. Our results show that training with the new method leads to fast recovery from suboptimal initial loss weighting and to training outcomes that {match or improve} conventional training with the prescribed hyperparameters of each method.
+Author{1}{Firstname}#=%=#Itzik
+Author{1}{Lastname}#=%=#Malkiel
+Author{1}{Username}#=%=#itzikmalkiel
+Author{1}{Email}#=%=#itzik.malkiel@gmail.com
+Author{1}{Affiliation}#=%=#tel aviv university
+Author{2}{Firstname}#=%=#Lior
+Author{2}{Lastname}#=%=#Wolf
+Author{2}{Username}#=%=#wolf
+Author{2}{Email}#=%=#wolf@cs.tau.ac.il
+Author{2}{Affiliation}#=%=#Tel Aviv University
+
+==========

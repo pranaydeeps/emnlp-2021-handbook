@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#605
+FinalPaperTitle#=%=#On Pursuit of Designing Multi-modal Transformer for Video Grounding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Meng Cao
+JobTitle#==#
+Organization#==#
+Abstract#==#Video grounding aims to localize the temporal segment corresponding to a sentence query from an untrimmed video. Almost all existing video grounding methods fall into two frameworks: 1) Top-down model: It predefines a set of segment candidates and then conducts segment classification and regression. 2) Bottom-up model: It directly predicts frame-wise probabilities of the referential segment boundaries. However, all these methods are not end-to-end, i.e., they always rely on some time-consuming post-processing steps to refine predictions. To this end, we reformulate video grounding as a set prediction task and propose a novel end-to-end multi-modal Transformer model, dubbed as GTR. Specifically, GTR has two encoders for video and language encoding, and a cross-modal decoder for grounding prediction. To facilitate the end-to-end training, we use a Cubic Embedding layer to transform the raw videos into a set of visual tokens. To better fuse these two modalities in the decoder, we design a new Multi-head Cross-Modal Attention. The whole GTR is optimized via a Many-to-One matching loss. Furthermore, we conduct comprehensive studies to investigate different model design choices. Extensive results on three benchmarks have validated the superiority of GTR. All three typical GTR variants achieve record-breaking performance on all datasets and metrics, with several times faster inference speed.
+Author{1}{Firstname}#=%=#Meng
+Author{1}{Lastname}#=%=#Cao
+Author{1}{Username}#=%=#mengcao
+Author{1}{Email}#=%=#mengcao@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Long
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#zjuchenlong
+Author{2}{Email}#=%=#zjuchenlong@gmail.com
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Mike Zheng
+Author{3}{Lastname}#=%=#Shou
+Author{3}{Username}#=%=#mikeshou
+Author{3}{Email}#=%=#mike.zheng.shou@gmail.com
+Author{3}{Affiliation}#=%=#National University of Singapore
+Author{4}{Firstname}#=%=#Can
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#zhangcan
+Author{4}{Email}#=%=#zhangcan@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Yuexian
+Author{5}{Lastname}#=%=#Zou
+Author{5}{Username}#=%=#zouyx
+Author{5}{Email}#=%=#zouyx@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University Shenzhen Graduate School
+
+==========

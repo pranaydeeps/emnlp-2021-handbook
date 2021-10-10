@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#"It's our fault!'': Insights Into Users' Understanding and Interaction With an Explanatory Collaborative Dialog System
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Lindsey Vanderlyn
+JobTitle#==#
+Organization#==#
+Abstract#==#Human-AI collaboration, a long standing goal in AI, refers to a partnership where a human and artificial intelligence work together towards a shared goal. Collaborative dialog allows human-AI teams to communicate and leverage strengths from both partners. To design collaborative dialog systems, it is important to understand what mental models users form about their AI-dialog partners, however, how users perceive these systems is not fully understood. In this study, we designed a novel, collaborative, communication-based puzzle game and explanatory dialog system. We created a public    corpus from 117 conversations and post-surveys and used this to analyze what mental models users formed. Key takeaways include: Even when users were not engaged in the game, they perceived the AI-dialog partner as intelligent and likeable, implying they saw it as a partner separate from the game. This was further supported by users often overestimating the system's abilities and projecting human-like attributes which led to miscommunications. We conclude that creating shared mental models between users and AI systems is important to achieving successful dialogs. We propose that our insights on mental models and miscommunication, the game, and our corpus provide useful tools for designing collaborative dialog systems.
+Author{1}{Firstname}#=%=#Katharina
+Author{1}{Lastname}#=%=#Weitz
+Author{1}{Username}#=%=#katharina
+Author{1}{Email}#=%=#katharina.weitz@informatik.uni-augsburg.de
+Author{1}{Affiliation}#=%=#University of Augsburg, Lab for Human-Centered Artificial Intelligence
+Author{2}{Firstname}#=%=#Lindsey
+Author{2}{Lastname}#=%=#Vanderlyn
+Author{2}{Username}#=%=#vanderlyn
+Author{2}{Email}#=%=#lindsey.vanderlyn@gmail.com
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Firstname}#=%=#Ngoc Thang
+Author{3}{Lastname}#=%=#Vu
+Author{3}{Username}#=%=#thangvu
+Author{3}{Email}#=%=#thangvu@ims.uni-stuttgart.de
+Author{3}{Affiliation}#=%=#University of Stuttgart
+Author{4}{Firstname}#=%=#Elisabeth
+Author{4}{Lastname}#=%=#André
+Author{4}{Username}#=%=#elisabeth.andre
+Author{4}{Email}#=%=#andre@informatik.uni-augsburg.de
+Author{4}{Affiliation}#=%=#Universität Augsburg
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1784
+FinalPaperTitle#=%=#Implicit Premise Generation with Discourse-aware Commonsense Knowledge Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Tuhin Chakrabarty
+JobTitle#==#
+Organization#==#
+Abstract#==#Enthymemes are defined as arguments where a premise or conclusion is left implicit. We tackle the task of generating the \emph{implicit premise in an enthymeme}, which requires not only an understanding of the stated conclusion and premise but also additional inferences that could depend on commonsense knowledge. The largest available dataset for enthymemes (Habernal  et  al.,  2018)  consists of 1.7k samples, which is not large enough to train a neural text generation model. To address this issue, we take advantage of a similar task and dataset: Abductive reasoning in narrative text (Bhagavatula et al., 2020). However, we show that simply using a state-of-the-art seq2seq model fine-tuned on this data might not generate meaningful implicit premises associated with the given enthymemes.  We demonstrate that encoding discourse-aware commonsense during fine-tuning improves the quality of the generated implicit premises and outperforms all other baselines both in automatic and human evaluations on three different datasets.
+Author{1}{Firstname}#=%=#Tuhin
+Author{1}{Lastname}#=%=#Chakrabarty
+Author{1}{Username}#=%=#tuhin.chakrabarty
+Author{1}{Email}#=%=#tuhin.chakr@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Aadit
+Author{2}{Lastname}#=%=#Trivedi
+Author{2}{Username}#=%=#aadittrivedi
+Author{2}{Email}#=%=#aadit.trivedi03@gmail.com
+Author{2}{Affiliation}#=%=#Bellarmine College Preparatory
+Author{3}{Firstname}#=%=#Smaranda
+Author{3}{Lastname}#=%=#Muresan
+Author{3}{Username}#=%=#smuresan
+Author{3}{Email}#=%=#smara@columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+
+==========

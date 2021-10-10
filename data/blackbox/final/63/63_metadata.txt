@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#63
+FinalPaperTitle#=%=#Investigating Negation in Pre-trained Vision-and-language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Radina Dobreva
+JobTitle#==#
+Organization#==#School of Informatics, University of Edinburgh, 10 Crichton St, Newington, Edinburgh EH8 9AB, United Kingdom
+Abstract#==#Pre-trained vision-and-language models have achieved impressive results on a variety of tasks, including ones that require complex reasoning beyond object recognition. However, little is known about how they achieve these results or what their limitations are. In this paper, we focus on a particular linguistic capability, namely the understanding of negation. We borrow techniques from the analysis of language models to investigate the ability of pre-trained vision-and-language models to handle negation. We find that these models severely underperform in the presence of negation.
+Author{1}{Firstname}#=%=#Radina
+Author{1}{Lastname}#=%=#Dobreva
+Author{1}{Username}#=%=#rdobreva
+Author{1}{Email}#=%=#r.d.dobreva@sms.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Frank
+Author{2}{Lastname}#=%=#Keller
+Author{2}{Username}#=%=#keller
+Author{2}{Email}#=%=#keller@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

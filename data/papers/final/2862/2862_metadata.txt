@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2862
+FinalPaperTitle#=%=#Journalistic Guidelines Aware News Image Captioning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Xuewen Yang
+JobTitle#==#
+Organization#==#Dataminr Inc.
+Abstract#==#The task of news article image captioning aims to generate descriptive and informative captions for news article images. Unlike conventional image captions that simply describe the content of the image in general terms, news image captions follow journalistic guidelines and rely heavily on named entities to describe the image content, often drawing context from the whole article they are associated with. In this work, we propose a new approach to this task, motivated by caption guidelines that journalists follow. Our approach, Journalistic Guidelines Aware News Image Captioning (JoGANIC), leverages the structure of captions to improve the generation quality and guide our representation design. Experimental results, including detailed ablation studies, on two large-scale publicly available datasets show that JoGANIC substantially outperforms state-of-the-art methods both on caption generation and named entity related metrics.
+Author{1}{Firstname}#=%=#Xuewen
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#michelyang1990
+Author{1}{Email}#=%=#xuewen.yang@stonybrook.edu
+Author{1}{Affiliation}#=%=#Stony Brook University
+Author{2}{Firstname}#=%=#Svebor
+Author{2}{Lastname}#=%=#Karaman
+Author{2}{Username}#=%=#skaraman
+Author{2}{Email}#=%=#skaraman@dataminr.com
+Author{2}{Affiliation}#=%=#Dataminr
+Author{3}{Firstname}#=%=#Joel
+Author{3}{Lastname}#=%=#Tetreault
+Author{3}{Username}#=%=#tetreaul
+Author{3}{Email}#=%=#tetreaul@gmail.com
+Author{3}{Affiliation}#=%=#Dataminr
+Author{4}{Firstname}#=%=#Alejandro
+Author{4}{Lastname}#=%=#Jaimes
+Author{4}{Username}#=%=#ajaimes
+Author{4}{Email}#=%=#aj27@caa.columbia.edu
+Author{4}{Affiliation}#=%=#Dataminr
+
+==========

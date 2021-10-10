@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#810
+FinalPaperTitle#=%=#TransferNet: An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jiaxin Shi
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-hop Question Answering (QA) is a challenging task because it requires precise reasoning with entity relations at every step towards the answer. 
+The relations can be represented in terms of labels in knowledge graph (e.g., spouse) or text in text corpus (e.g., they have been married for 26 years).
+Existing models usually infer the answer by predicting the sequential relation path or aggregating the hidden graph features.
+The former is hard to optimize, and the latter lacks interpretability.
+In this paper, we propose TransferNet, an effective and transparent model for multi-hop QA, which supports both label and text relations in a unified framework.
+TransferNet jumps across entities at multiple steps.
+At each step, it attends to different parts of the question, computes activated scores for relations, and then transfer the previous entity scores along activated relations in a differentiable way.
+We carry out extensive experiments on three datasets and demonstrate that TransferNet surpasses the state-of-the-art models by a large margin.
+In particular, on MetaQA, it achieves 100% accuracy in 2-hop and 3-hop questions.
+By qualitative analysis, we show that TransferNet has transparent and interpretable intermediate results.
+Author{1}{Firstname}#=%=#Jiaxin
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Username}#=%=#shijiaxin
+Author{1}{Email}#=%=#shijx12@163.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Shulin
+Author{2}{Lastname}#=%=#Cao
+Author{2}{Username}#=%=#caoshulin
+Author{2}{Email}#=%=#caosl19@mails.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Lei
+Author{3}{Lastname}#=%=#Hou
+Author{3}{Username}#=%=#greener
+Author{3}{Email}#=%=#houlei@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Juanzi
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lijuanzi
+Author{4}{Email}#=%=#lijuanzi2008@gmail.com
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Hanwang
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#hanwangzhang
+Author{5}{Email}#=%=#hanwangzhang@ntu.edu.sg
+Author{5}{Affiliation}#=%=#Nanyang Technological University
+
+==========

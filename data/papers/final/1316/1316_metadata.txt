@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1316
+FinalPaperTitle#=%=#A Finer-grain Universal Dialogue Semantic Structures based Model For Abstractive Dialogue Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuejie Lei
+JobTitle#==#
+Organization#==#
+Abstract#==#Although abstractive summarization models have achieved impressive results on document summarization tasks, their performance on dialogue modeling is much less satisfactory due to the crude and straight methods for dialogue encoding. To address this question, we propose a novel end-to-end Transformer-based model FinDS for abstractive dialogue summarization that leverages Finer-grain universal Dialogue semantic Structures to model dialogue and generates better summaries. Experiments on the SAMsum dataset show that FinDS outperforms various dialogue summarization approaches and achieves new state-of-the-art (SOTA) ROUGE results. Finally, we apply FinDS to a more complex scenario, showing the robustness of our model. We also release our source code.
+Author{1}{Firstname}#=%=#Yuejie
+Author{1}{Lastname}#=%=#Lei
+Author{1}{Username}#=%=#bbb044
+Author{1}{Email}#=%=#2019110830@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Fujia
+Author{2}{Lastname}#=%=#Zheng
+Author{2}{Username}#=%=#zheng_123
+Author{2}{Email}#=%=#fujia_zheng@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Post and Telecommunication
+Author{3}{Firstname}#=%=#Yuanmeng
+Author{3}{Lastname}#=%=#Yan
+Author{3}{Username}#=%=#yanyuanmeng
+Author{3}{Email}#=%=#yanyuanmeng@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Keqing
+Author{4}{Lastname}#=%=#He
+Author{4}{Username}#=%=#heliche
+Author{4}{Email}#=%=#kqin@bupt.cn
+Author{4}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{5}{Firstname}#=%=#Weiran
+Author{5}{Lastname}#=%=#Xu
+Author{5}{Username}#=%=#xuweiran
+Author{5}{Email}#=%=#xuweiran@bupt.edu.cn
+Author{5}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+
+==========

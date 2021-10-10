@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2418
+FinalPaperTitle#=%=#Knowledge Base Completion Meets Transfer Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Vid Kocijan
+JobTitle#==#
+Organization#==#University of Oxford
+Abstract#==#The aim of knowledge base completion is to predict unseen facts from existing facts in knowledge bases.
+In this work, we introduce the first approach for transfer of knowledge from one collection of facts to another without the need for entity or relation matching.
+The method works for both canonicalized knowledge bases and uncanonicalized or open knowledge bases, i.e., knowledge bases where more than one copy of a real-world entity or relation may exist.
+Such knowledge bases are a natural output of automated information extraction tools that extract structured data from unstructured text. 
+Our main contribution is a method that can make use of a large-scale pretraining on facts, collected from unstructured text, to improve predictions on structured data from a specific domain.
+The introduced method is the most impactful on small datasets such as  ReVerb20K,  where we obtained a 6% absolute increase of mean reciprocal rank and 65% relative decrease of mean rank over the previously best method, despite not relying on large pre-trained models like BERT.
+Author{1}{Firstname}#=%=#Vid
+Author{1}{Lastname}#=%=#Kocijan
+Author{1}{Username}#=%=#vkocijan
+Author{1}{Email}#=%=#vid.kocijan@cs.ox.ac.uk
+Author{1}{Affiliation}#=%=#University of Oxford
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Lukasiewicz
+Author{2}{Username}#=%=#thomaslukasiewicz
+Author{2}{Email}#=%=#thomas.lukasiewicz@cs.ox.ac.uk
+Author{2}{Affiliation}#=%=#University of Oxford
+
+==========

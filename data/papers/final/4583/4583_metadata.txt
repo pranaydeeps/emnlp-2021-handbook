@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#4583
+FinalPaperTitle#=%=#Role of {L}anguage {R}elatedness in {M}ultilingual {F}ine­-tuning of {L}anguage {M}odels: {A} {C}ase {S}tudy in {I}ndo-­{A}ryan {L}anguages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#2
+CopyrightSigned#=%=#Rudra Murthy
+JobTitle#==#
+Organization#==#
+Abstract#==#We explore the impact of leveraging the relatedness of languages that belong to the same family in NLP models using multilingual fine-tuning. We hypothesize and validate that multilingual fine-tuning of pre-trained language models can yield better performance on downstream NLP applications, compared to models fine-tuned on individual languages. A first of its kind detailed study is presented to track performance change as languages are added to a base language in a graded and greedy (in the sense of best boost of performance) manner; which reveals that careful selection of subset of related languages can significantly improve performance than utilizing all related languages.
+The Indo-Aryan (IA) language family is chosen for the study, the exact languages being Bengali, Gujarati, Hindi, Marathi, Oriya, Punjabi and Urdu. The script barrier is crossed by simple rule-based transliteration of the text of all languages to Devanagari. Experiments are performed on mBERT, IndicBERT, MuRIL and two  RoBERTa-based LMs, the last two being pre-trained by us.  Low resource languages, such as Oriya and Punjabi, are found to be the largest beneficiaries of multilingual fine-tuning. Textual Entailment, Entity Classification, Section Title Prediction, tasks of IndicGLUE and POS tagging form our test bed. Compared to monolingual fine tuning we get relative performance improvement of up to 150\% in the downstream tasks. The surprise take-away is that for any language there is a particular combination of other languages which yields the best performance, and any additional language is in fact detrimental.
+Author{1}{Firstname}#=%=#Tejas
+Author{1}{Lastname}#=%=#Dhamecha
+Author{1}{Username}#=%=#tidhamecha
+Author{1}{Email}#=%=#tejasd@iiitd.ac.in
+Author{1}{Affiliation}#=%=#IBM Research - India
+Author{2}{Firstname}#=%=#Rudra
+Author{2}{Lastname}#=%=#Murthy
+Author{2}{Username}#=%=#rudra
+Author{2}{Email}#=%=#rmurthyv@in.ibm.com
+Author{2}{Affiliation}#=%=#IBM India Research Limited
+Author{3}{Firstname}#=%=#Samarth
+Author{3}{Lastname}#=%=#Bharadwaj
+Author{3}{Username}#=%=#samarthb
+Author{3}{Email}#=%=#samarth.b@in.ibm.com
+Author{3}{Affiliation}#=%=#Senior Research Scientist
+Author{4}{Firstname}#=%=#Karthik
+Author{4}{Lastname}#=%=#Sankaranarayanan
+Author{4}{Username}#=%=#kartsank
+Author{4}{Email}#=%=#kartsank@in.ibm.com
+Author{4}{Affiliation}#=%=#IBM Reseach
+Author{5}{Firstname}#=%=#Pushpak
+Author{5}{Lastname}#=%=#Bhattacharyya
+Author{5}{Username}#=%=#pushpak
+Author{5}{Email}#=%=#pushpakbh@gmail.com
+Author{5}{Affiliation}#=%=#Indian Institute of Technology Bombay and Patna
+
+==========

@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#79
+FinalPaperTitle#=%=#Data Augmentation of Incorporating Real Error Patterns and Linguistic Knowledge for Grammatical Error Correction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xia Li
+JobTitle#==#
+Organization#==#Guangdong University of Foreign Studies, Guangzhou, China.
+Abstract#==#Data augmentation aims at expanding training data with clean text using noising schemes to improve the performance of grammatical error correction (GEC). In practice, there are a great number of real error patterns in the manually annotated training data. We argue that these real error patterns can be introduced into clean text to effectively generate more real and high quality synthetic data, which is not fully explored by previous studies. Moreover, we also find that linguistic knowledge can be incorporated into data augmentation for generating more representative and more diverse synthetic data. In this paper, we propose a novel data augmentation method that fully considers the real error patterns and the linguistic knowledge for the GEC task. We conduct extensive experiments on public data sets and the experimental results show that our method outperforms several strong baselines with far less external unlabeled clean text data, highlighting its extraordinary effectiveness in the GEC task that lacks large-scale labeled training data.
+Author{1}{Firstname}#=%=#Xia
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#lixia
+Author{1}{Email}#=%=#xiali@gdufs.edu.cn
+Author{1}{Affiliation}#=%=#Guangdong University of Foreign Studies
+Author{2}{Firstname}#=%=#Junyi
+Author{2}{Lastname}#=%=#He
+Author{2}{Email}#=%=#1036534165@qq.com
+Author{2}{Affiliation}#=%=#Guangdong University of Foreign Studies
+
+==========

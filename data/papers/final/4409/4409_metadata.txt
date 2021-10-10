@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#4409
+FinalPaperTitle#=%=#Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ryo Yoshida
+JobTitle#==#
+Organization#==#Department of Language and Information Sciences
+Graduate School of Arts and Sciences
+University of Tokyo
+3-8-1 Komaba, Meguro-ku, Tokyo, 153-8902, JAPAN
+Abstract#==#In computational linguistics, it has been shown that hierarchical structures make language models (LMs) more human-like. However, the previous literature has been agnostic about a parsing strategy of the hierarchical models. In this paper, we investigated whether hierarchical structures make LMs more human-like, and if so, which parsing strategy is most cognitively plausible. In order to address this question, we evaluated three LMs against human reading times in Japanese with head-final left-branching structures: Long Short-Term Memory (LSTM) as a sequential model and Recurrent Neural Network Grammars (RNNGs) with top-down and left-corner parsing strategies as hierarchical models. Our computational modeling demonstrated that left-corner RNNGs outperformed top-down RNNGs and LSTM, suggesting that hierarchical and left-corner architectures are more cognitively plausible than top-down or sequential architectures. In addition, the relationships between the cognitive plausibility and (i) perplexity, (ii) parsing, and (iii) beam size will also be discussed.
+Author{1}{Firstname}#=%=#Ryo
+Author{1}{Lastname}#=%=#Yoshida
+Author{1}{Username}#=%=#yoshiryo0617
+Author{1}{Email}#=%=#yoshiryo0617@g.ecc.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#University of Tokyo
+Author{2}{Firstname}#=%=#Hiroshi
+Author{2}{Lastname}#=%=#Noji
+Author{2}{Username}#=%=#hiroshinoji
+Author{2}{Email}#=%=#h.nouji@gmail.com
+Author{2}{Affiliation}#=%=#Artificial Intelligence Research Center, AIST
+Author{3}{Firstname}#=%=#Yohei
+Author{3}{Lastname}#=%=#Oseki
+Author{3}{Username}#=%=#yoheioseki
+Author{3}{Email}#=%=#oseki@g.ecc.u-tokyo.ac.jp
+Author{3}{Affiliation}#=%=#University of Tokyo
+
+==========

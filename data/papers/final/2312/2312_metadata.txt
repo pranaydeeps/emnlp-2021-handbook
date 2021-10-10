@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2312
+FinalPaperTitle#=%=#{TEMP}: Taxonomy Expansion with Dynamic Margin Loss through Taxonomy-Paths
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zichen Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#As an essential form of knowledge representation, taxonomies are widely used in various downstream natural language processing tasks. However, with the continuously rising of new concepts, many existing taxonomies are unable to maintain coverage by manual expansion. In this paper, we propose TEMP, a self-supervised taxonomy expansion method, which predicts the position of new concepts by ranking the generated taxonomy-paths. For the first time, TEMP employs pre-trained contextual encoders in taxonomy construction and hypernym detection problems. Experiments prove that pre-trained contextual embeddings are able to capture hypernym-hyponym relations. To learn more detailed differences between taxonomy-paths, we train the model with dynamic margin loss by a novel dynamic margin function. Extensive evaluations exhibit that TEMP outperforms prior state-of-the-art taxonomy expansion approaches by 14.3% in accuracy and 15.8% in mean reciprocal rank on three public benchmarks.
+Author{1}{Firstname}#=%=#Zichen
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#zichen_liu
+Author{1}{Email}#=%=#liuzichen@dbis.nankai.edu.cn
+Author{1}{Affiliation}#=%=#TKLNDST, College of Computer Science, Nankai University
+Author{2}{Firstname}#=%=#Hongyuan
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Username}#=%=#hongyuan_xu
+Author{2}{Email}#=%=#xuhongyuan@dbis.nankai.edu.cn
+Author{2}{Affiliation}#=%=#TKLNDST, College of Computer Science, Nankai University
+Author{3}{Firstname}#=%=#Yanlong
+Author{3}{Lastname}#=%=#Wen
+Author{3}{Username}#=%=#dragonbaby
+Author{3}{Email}#=%=#wenyl@nankai.edu.cn
+Author{3}{Affiliation}#=%=#Nankai University
+Author{4}{Firstname}#=%=#Ning
+Author{4}{Lastname}#=%=#Jiang
+Author{4}{Username}#=%=#ningjiang
+Author{4}{Email}#=%=#ning.jiang02@msxf.com
+Author{4}{Affiliation}#=%=#Mashang Consumer Finance Co.,Ltd.
+Author{5}{Firstname}#=%=#HaiYing
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#haiyingwu
+Author{5}{Email}#=%=#haiying.wu02@msxf.com
+Author{5}{Affiliation}#=%=#Mashang Consumer Finance Co.,Ltd.
+Author{6}{Firstname}#=%=#Xiaojie
+Author{6}{Lastname}#=%=#Yuan
+Author{6}{Username}#=%=#nkyuanxj
+Author{6}{Email}#=%=#yuanxj@nankai.edu.cn
+Author{6}{Affiliation}#=%=#Nankai University
+
+==========

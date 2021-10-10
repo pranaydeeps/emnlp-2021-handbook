@@ -1,0 +1,1124 @@
+argmining
+Found 0 errors
+blackbox
+Format error on line 1
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Found 1 errors
+ci+nlp
+Warning on line 4
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 10
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Found 0 errors
+codi
+Format error on line 1
+  ->    found: * Nov. 10, 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 2
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 13
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 16
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 19
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 25
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 29
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Format error on line 37
+  ->    found: * Nov. 11, 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 38
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 40
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 45
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 47
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 52
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Found 2 errors
+conll
+Format error on line 1
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 3
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 8
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 10
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 11
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 17
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 18
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Format error on line 34
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 35
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 41
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 60
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 62
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 63
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 67
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 68
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 71
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Found 2 errors
+crac
+Format error on line 1
+  ->    found: * November 10, 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 2
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 6
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 7
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Format error on line 14
+  ->    found: * November 11, 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 15
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 16
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 23
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 25
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 26
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 35
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 36
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 41
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 44
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 45
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 51
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Found 2 errors
+eancs
+Found 0 errors
+econlp
+Format error on line 1
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 3
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 7
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 8
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 13
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 14
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 18
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 19
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Found 1 errors
+fever
+Format error on line 1
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Found 1 errors
+insights
+Found 0 errors
+latech-clfl
+Found 0 errors
+mrqa
+Format error on line 1
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 3
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 9
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 13
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 27
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 52
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Found 1 errors
+newsum
+Warning on line 1
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 9
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 13
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 21
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 26
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 28
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Found 0 errors
+nllp
+Found 0 errors
+nlp4convai
+Found 0 errors
+papers
+Format error on line 8
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 11
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 18
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 26
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 33
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 40
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 47
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 54
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 80
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 87
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 95
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 102
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 110
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 117
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 124
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 131
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 139
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 146
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 153
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 160
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 167
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 194
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 202
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 210
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 217
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 225
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 232
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 240
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Format error on line 530
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 531
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 539
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 546
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 553
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 561
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 569
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 577
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 604
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 900
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 907
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 914
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 922
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 929
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 936
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 944
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 969
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 976
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 983
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 991
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 998
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1006
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Format error on line 1013
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 1014
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1304
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1312
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1320
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1327
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1334
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1341
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1349
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1374
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1375
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1382
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1389
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1397
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1404
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1411
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 1419
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Found 3 errors
+proceedings
+Format error on line 1
+  ->    found: * November 10, 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Found 1 errors
+sustainlp
+Format error on line 1
+  ->    found: * November 10, 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Found 1 errors
+w-nut
+Found 0 errors
+wmt
+Format error on line 9
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 13
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 24
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 50
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 59
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 63
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 70
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 77
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 91
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 95
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Format error on line 103
+  ->    found: 16:15-16:45
+  -> expected: HH:MM--HH:MM (time range, 24-hour format, two dashes)
+     e.g., 12:30--13:30
+Warning on line 105
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Format error on line 113
+  ->    found: 2021
+  -> expected: * DAY, MONTH DATE, YEAR
+     e.g., Thursday, June 26, 2014
+Warning on line 115
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 125
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 131
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 141
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 148
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 162
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 170
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 179
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 184
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Warning on line 194
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Format error on line 196
+  ->    found: 16:15-16:45
+  -> expected: HH:MM--HH:MM (time range, 24-hour format, two dashes)
+     e.g., 12:30--13:30
+Warning on line 198
+  -> Header lines do not contain time ranges
+  -> Use "=" for headers (display only) and "+" for timed events, e.g.,
+     + 11:00--12:30 Poster Session: Shared Task
+     16  # Paper 1
+     18  # Paper 2
+     ...
+Found 4 errors

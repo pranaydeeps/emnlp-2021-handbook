@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4019
+FinalPaperTitle#=%=#Character-based PCFG Induction for Modeling the Syntactic Acquisition of Morphologically Rich Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Byung-Doh Oh
+JobTitle#==#
+Organization#==#
+Abstract#==#Unsupervised PCFG induction models, which build syntactic structures from raw text, can be used to evaluate the extent to which syntactic knowledge can be acquired from distributional information alone. However, many state-of-the-art PCFG induction models are word-based, meaning that they cannot directly inspect functional affixes, which may provide crucial information for syntactic acquisition in child learners. This work first introduces a neural PCFG induction model that allows a clean ablation of the influence of subword information in grammar induction. Experiments on child-directed speech demonstrate first that the incorporation of subword information results in more accurate grammars with categories that word-based induction models have difficulty finding, and second that this effect is amplified in morphologically richer languages that rely on functional affixes to express grammatical relations. A subsequent evaluation on multilingual treebanks shows that the model with subword information achieves state-of-the-art results on many languages, further supporting a distributional model of syntactic acquisition.
+Author{1}{Firstname}#=%=#Lifeng
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Username}#=%=#lain6631
+Author{1}{Email}#=%=#jin.544@osu.edu
+Author{1}{Affiliation}#=%=#Tencent AI Lab
+Author{2}{Firstname}#=%=#Byung-Doh
+Author{2}{Lastname}#=%=#Oh
+Author{2}{Username}#=%=#byungdoh
+Author{2}{Email}#=%=#oh.531@osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#William
+Author{3}{Lastname}#=%=#Schuler
+Author{3}{Username}#=%=#schuler
+Author{3}{Email}#=%=#schuler@ling.osu.edu
+Author{3}{Affiliation}#=%=#The Ohio State University
+
+==========

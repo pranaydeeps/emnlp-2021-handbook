@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4194
+FinalPaperTitle#=%=#Co-Teaching Student-Model through Submission Results of Shared Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kouta Nakayama
+JobTitle#==#
+Organization#==#
+Abstract#==#Shared tasks have a long history and have become the mainstream of NLP research. Most of the shared tasks require participants to submit only system outputs and descriptions. It is uncommon for the shared task to request submission of the system itself because of the license issues and implementation differences. Therefore, many systems are abandoned without being used in real applications or contributing to better systems. In this research, we propose a scheme to utilize all those systems which participated in the shared tasks. We use all participated system outputs as task teachers in this scheme and develop a new model as a student aiming to learn the characteristics of each system. We call this scheme "Co-Teaching." This scheme creates a unified system that performs better than the task's single best system. It only requires the system outputs, and slightly extra effort is needed for the participants and organizers. We apply this scheme to the "SHINRA2019-JP" shared task, which has nine participants with various output accuracies, confirming that the unified system outperforms the best system. Moreover, the code used in our experiments has been released.
+Author{1}{Firstname}#=%=#Kouta
+Author{1}{Lastname}#=%=#Nakayama
+Author{1}{Username}#=%=#kotanakayama
+Author{1}{Email}#=%=#kouta.nakayama@riken.jp
+Author{1}{Affiliation}#=%=#Riken AIP
+Author{2}{Firstname}#=%=#Shuhei
+Author{2}{Lastname}#=%=#Kurita
+Author{2}{Username}#=%=#kuritashuhei
+Author{2}{Email}#=%=#shuhei.kurita@riken.jp
+Author{2}{Affiliation}#=%=#Riken Center for Advanced Intelligence Project
+Author{3}{Firstname}#=%=#Akio
+Author{3}{Lastname}#=%=#Kobayashi
+Author{3}{Username}#=%=#a-kobayashi
+Author{3}{Email}#=%=#akio.kobayashi@affrc.go.jp
+Author{3}{Affiliation}#=%=#National Agriculture and Food Food Research Organization
+Author{4}{Firstname}#=%=#Yukino
+Author{4}{Lastname}#=%=#Baba
+Author{4}{Username}#=%=#yukino_baba
+Author{4}{Email}#=%=#baba@cs.tsukuba.ac.jp
+Author{4}{Affiliation}#=%=#University of Tsukuba
+Author{5}{Firstname}#=%=#Satoshi
+Author{5}{Lastname}#=%=#Sekine
+Author{5}{Username}#=%=#sekine
+Author{5}{Email}#=%=#satoshi.sekine@riken.jp
+Author{5}{Affiliation}#=%=#Riken, AIP
+
+==========

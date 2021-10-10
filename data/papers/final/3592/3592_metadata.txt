@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#3592
+FinalPaperTitle#=%=#BiSECT: Learning to Split and Rephrase Sentences with Bitexts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Mounica Maddela
+JobTitle#==#Graduate Student
+Organization#==#The Georgia Institute of Technology.
+North Ave NW, Atlanta, GA 30332
+Abstract#==#An important task in NLP applications such as sentence simplification is the ability to take a long, complex sentence and split it into shorter sentences, rephrasing as necessary.  We introduce a novel dataset and a new model for this `split and rephrase' task. Our BiSECT training data consists of 1 million long English sentences paired with shorter, meaning-equivalent English sentences. We obtain these by extracting 1-2 sentence alignments in bilingual parallel corpora and then using machine translation to convert both sides of the corpus into the same language. BiSECT contains higher quality training examples than the previous Split and Rephrase corpora, with sentence splits that require more significant modifications. We categorize examples in our corpus and use these categories in a novel model that allows us to target specific regions of the input sentence to be split and edited. Moreover, we show that models trained on BiSECT can perform a wider variety of split operations and improve upon previous state-of-the-art approaches in automatic and human evaluations.
+Author{1}{Firstname}#=%=#Joongwon
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Username}#=%=#danieljkim
+Author{1}{Email}#=%=#jkim0118@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Mounica
+Author{2}{Lastname}#=%=#Maddela
+Author{2}{Username}#=%=#maddelamounica
+Author{2}{Email}#=%=#mmaddela3@gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Reno
+Author{3}{Lastname}#=%=#Kriz
+Author{3}{Username}#=%=#rekriz
+Author{3}{Email}#=%=#rekriz@seas.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Username}#=%=#weixu
+Author{4}{Email}#=%=#wei.xu@cc.gatech.edu
+Author{4}{Affiliation}#=%=#Georgia Institute of Technology
+Author{5}{Firstname}#=%=#Chris
+Author{5}{Lastname}#=%=#Callison-Burch
+Author{5}{Username}#=%=#ccb
+Author{5}{Email}#=%=#ccb@cis.upenn.edu
+Author{5}{Affiliation}#=%=#University of Pennsylvania
+
+==========

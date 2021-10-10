@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2944
+FinalPaperTitle#=%=#The Impact of Positional Encodings on Multilingual Compression
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Vinit Ravishankar
+JobTitle#==#
+Organization#==#
+Abstract#==#In order to preserve word-order information in a non-autoregressive setting, transformer architectures tend to include positional knowledge, by (for instance) adding positional encodings to token embeddings. Several modifications have been proposed over the sinusoidal positional encodings used in the original transformer architecture; these include, for instance, separating position encodings and token embeddings, or directly modifying attention weights based on the distance between word pairs. We first show that surprisingly, while these modifications tend to improve monolingual language models, none of them result in better multilingual language models. We then answer why that is: sinusoidal encodings were explicitly designed to facilitate compositionality by allowing linear projections over arbitrary time steps. Higher variances in multilingual training distributions requires higher compression, in which case, compositionality becomes indispensable. Learned absolute positional encodings (e.g., in mBERT) tend to approximate sinusoidal embeddings in multilingual settings, but more complex positional encoding architectures lack the inductive bias to effectively learn cross-lingual alignment. In other words, while sinusoidal positional encodings were designed for monolingual applications, they are particularly useful in multilingual language models.
+Author{1}{Firstname}#=%=#Vinit
+Author{1}{Lastname}#=%=#Ravishankar
+Author{1}{Username}#=%=#vinit-ivar
+Author{1}{Email}#=%=#vinitr@ifi.uio.no
+Author{1}{Affiliation}#=%=#University of Oslo
+Author{2}{Firstname}#=%=#Anders
+Author{2}{Lastname}#=%=#Søgaard
+Author{2}{Username}#=%=#soegaard
+Author{2}{Email}#=%=#soegaard@di.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4028
+FinalPaperTitle#=%=#Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jong-Ryul Lee
+JobTitle#==#Senior Researcher
+Organization#==#Jong-Ryul Lee
+218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
+Abstract#==#Word embedding is essential for neural network models for various natural language processing tasks.
+Since the word embedding usually has a considerable size, in order to deploy a neural network model having it on edge devices, it should be effectively compressed.
+There was a study for proposing a block-wise low-rank approximation method for word embedding, called GroupReduce.
+Even if their structure is effective, the properties behind the concept of the block-wise word embedding compression were not sufficiently explored.
+Motivated by this, we improve GroupReduce in terms of word weighting and structuring.
+For word weighting, we propose a simple yet effective method inspired by the term frequency-inverse document frequency method and 
+a novel differentiable method.
+Based on them, we construct a discriminative word embedding compression algorithm.
+In the experiments, we demonstrate that the proposed algorithm more effectively finds word weights than competitors in most cases.
+In addition, we show that the proposed algorithm can act like a framework through successful cooperation with quantization.
+Author{1}{Firstname}#=%=#Jong-Ryul
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#hellcodes
+Author{1}{Email}#=%=#jongryul.lee@etri.re.kr
+Author{1}{Affiliation}#=%=#ETRI
+Author{2}{Firstname}#=%=#Yong-Ju
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Username}#=%=#yongjulee
+Author{2}{Email}#=%=#yongju@etri.re.kr
+Author{2}{Affiliation}#=%=#ETRI
+Author{3}{Firstname}#=%=#Yong-Hyuk
+Author{3}{Lastname}#=%=#Moon
+Author{3}{Username}#=%=#yhmoon
+Author{3}{Email}#=%=#yhmoon@etri.re.kr
+Author{3}{Affiliation}#=%=#ETRI
+
+==========

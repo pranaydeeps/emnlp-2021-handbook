@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4372
+FinalPaperTitle#=%=#Exploring Methods for Generating Feedback Comments for Writing Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Kazuaki Hanawa
+JobTitle#==#
+Organization#==#
+Abstract#==#The task of generating explanatory notes for language learners is known as feedback comment generation. Although various generation techniques are available, little is known about which methods are appropriate for this task.  Nagata (2019) demonstrates the effectiveness of neural-retrieval-based methods in generating feedback comments for preposition use.  Retrieval-based methods have limitations in that they can only output feedback comments existing in a given training data. Furthermore, feedback comments can be made on other grammatical and writing items than preposition use, which is still unaddressed. To shed light on these points, we investigate a wider range of methods for generating many feedback comments in this study. Our close analysis of the type of task leads us to investigate three different architectures for comment generation: (i) a neural-retrieval-based method as a baseline, (ii) a pointer-generator-based generation method as a neural seq2seq method, (iii) a retrieve-and-edit method, a hybrid of (i) and (ii).  Intuitively, the pointer-generator should outperform neural-retrieval, and retrieve-and-edit should perform best. However, in our experiments, this expectation is completely overturned. We closely analyze the results to reveal the major causes of these counter-intuitive results and report on our findings from the experiments.
+Author{1}{Firstname}#=%=#Kazuaki
+Author{1}{Lastname}#=%=#Hanawa
+Author{1}{Username}#=%=#hanawa
+Author{1}{Email}#=%=#kazuaki.hanawa@riken.jp
+Author{1}{Affiliation}#=%=#RIKEN AIP / Tohoku University
+Author{2}{Firstname}#=%=#Ryo
+Author{2}{Lastname}#=%=#Nagata
+Author{2}{Username}#=%=#ryo.nagata
+Author{2}{Email}#=%=#nagata-acl2021@ml.hyogo-u.ac.jp
+Author{2}{Affiliation}#=%=#Konan University
+Author{3}{Firstname}#=%=#Kentaro
+Author{3}{Lastname}#=%=#Inui
+Author{3}{Username}#=%=#k.inui
+Author{3}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{3}{Affiliation}#=%=#Tohoku University / Riken
+
+==========

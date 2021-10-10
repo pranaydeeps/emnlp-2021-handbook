@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1224
+FinalPaperTitle#=%=#Past, Present, and Future: Conversational Emotion Recognition through Structural Modeling of Psychological Knowledge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiangnan Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Conversational Emotion Recognition (CER) is a task to predict the emotion of an utterance in the context of a conversation. Although modeling the conversational context and interactions between speakers has been studied broadly, it is important to consider the speaker's psychological state, which controls the action and intention of the speaker. The state-of-the-art method introduces CommonSense Knowledge (CSK) to model psychological states in a sequential way (forwards and backwards). However, it ignores the structural psychological interactions between utterances. In this paper, we propose a pSychological-Knowledge-Aware Interaction Graph (SKAIG). In the locally connected graph, the targeted utterance will be enhanced with the information of action inferred from the past context and intention implied by the future context. The utterance is self-connected to consider the present effect from itself. Furthermore, we utilize CSK to enrich edges with knowledge representations and process the SKAIG with a graph transformer. Our method achieves state-of-the-art and competitive performance on four popular CER datasets.
+Author{1}{Firstname}#=%=#Jiangnan
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#lijiangnan
+Author{1}{Email}#=%=#lijiangnan@iie.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Zheng
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Username}#=%=#hazel2666
+Author{2}{Email}#=%=#linzheng@iie.ac.cn
+Author{2}{Affiliation}#=%=#IIE，CAS
+Author{3}{Firstname}#=%=#Peng
+Author{3}{Lastname}#=%=#Fu
+Author{3}{Username}#=%=#fupeng
+Author{3}{Email}#=%=#fupeng@iie.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Weiping
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#wangweiping
+Author{4}{Email}#=%=#wangweiping@iie.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+
+==========

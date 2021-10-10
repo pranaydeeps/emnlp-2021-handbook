@@ -1,0 +1,70 @@
+SubmissionNumber#=%=#3606
+FinalPaperTitle#=%=#Detecting Frames in News Headlines and Lead Images in U.S. Gun Violence Coverage
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Isidora Chara Tourni
+JobTitle#==#
+Organization#==#Boston University, School of Arts & Sciences
+Computer Science Department
+111 Cummington Mall, 02215, Boston, MA, USA
+Abstract#==#News media structure their reporting of events or issues using certain perspectives. When describing an incident involving gun violence, for example, some journalists may focus on mental health or gun regulation, while others may emphasize the discussion of gun rights. Such perspectives are called “frames” in communication research.We study, for the first time, the value of combining lead images and their contextual information with text to identify the frame of a given news article. We observe that using multiple modes of information(article- and image-derived features) improves prediction of news frames over any single mode of information when the images are relevant to the frames of the headlines.We also observe that frame image relevance is related to the ease of conveying frames via images, which we call frame concreteness. Additionally, we release the first multimodal news framing dataset related to gun violence in the U.S., curated and annotated by communication researchers. The dataset will allow researchers to further examine the use of multiple information modalities for studying media framing.
+Author{1}{Firstname}#=%=#Isidora
+Author{1}{Lastname}#=%=#Tourni
+Author{1}{Username}#=%=#isidora
+Author{1}{Email}#=%=#isidora@bu.edu
+Author{1}{Affiliation}#=%=#Boston University
+Author{2}{Firstname}#=%=#Lei
+Author{2}{Lastname}#=%=#Guo
+Author{2}{Username}#=%=#guolei1985
+Author{2}{Email}#=%=#guolei@bu.edu
+Author{2}{Affiliation}#=%=#Boston University
+Author{3}{Firstname}#=%=#Taufiq Husada
+Author{3}{Lastname}#=%=#Daryanto
+Author{3}{Email}#=%=#13518058@std.stei.itb.ac.id
+Author{3}{Affiliation}#=%=#Institut Teknologi Bandung
+Author{4}{Firstname}#=%=#Fabian
+Author{4}{Lastname}#=%=#Zhafransyah
+Author{4}{Email}#=%=#13518022@std.stei.itb.ac.id
+Author{4}{Affiliation}#=%=#Institut Teknologi Bandung
+Author{5}{Firstname}#=%=#Edward Edberg
+Author{5}{Lastname}#=%=#Halim
+Author{5}{Username}#=%=#edwardedberg
+Author{5}{Email}#=%=#edward.edberg.halim@gmail.com
+Author{5}{Affiliation}#=%=#Asuransi Astra
+Author{6}{Firstname}#=%=#Mona
+Author{6}{Lastname}#=%=#Jalal
+Author{6}{Username}#=%=#monajalal
+Author{6}{Email}#=%=#jalal@bu.edu
+Author{6}{Affiliation}#=%=#Boston University, DawnLight.com
+Author{7}{Firstname}#=%=#Boqi
+Author{7}{Lastname}#=%=#Chen
+Author{7}{Username}#=%=#bqchen
+Author{7}{Email}#=%=#bqchen@cs.unc.edu
+Author{7}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{8}{Firstname}#=%=#Sha
+Author{8}{Lastname}#=%=#Lai
+Author{8}{Username}#=%=#lais823
+Author{8}{Email}#=%=#lais823@bu.edu
+Author{8}{Affiliation}#=%=#Boston University
+Author{9}{Firstname}#=%=#Hengchang
+Author{9}{Lastname}#=%=#Hu
+Author{9}{Username}#=%=#hugo2mia
+Author{9}{Email}#=%=#hhc@bu.edu
+Author{9}{Affiliation}#=%=#Boston University
+Author{10}{Firstname}#=%=#Margrit
+Author{10}{Lastname}#=%=#Betke
+Author{10}{Username}#=%=#betke
+Author{10}{Email}#=%=#betke@bu.edu
+Author{10}{Affiliation}#=%=#Boston University
+Author{11}{Firstname}#=%=#Prakash
+Author{11}{Lastname}#=%=#Ishwar
+Author{11}{Username}#=%=#prakashishwar
+Author{11}{Email}#=%=#pi@bu.edu
+Author{11}{Affiliation}#=%=#Boston University
+Author{12}{Firstname}#=%=#Derry Tanti
+Author{12}{Lastname}#=%=#Wijaya
+Author{12}{Username}#=%=#dwijaya
+Author{12}{Email}#=%=#wijaya@bu.edu
+Author{12}{Affiliation}#=%=#Boston University
+
+==========

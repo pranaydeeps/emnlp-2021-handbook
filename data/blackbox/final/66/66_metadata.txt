@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#66
+FinalPaperTitle#=%=#Not all parameters are born equal: Attention is mostly what you need
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Nikolay Bogoychev
+JobTitle#==#
+Organization#==#University of Edinburgh, Old College, South Bridge, Edinburgh EH8 9YL
+Abstract#==#Transformers are widely used in state-of-the-art machine translation, but the key to their success is still unknown. To gain insight into this, we consider three groups of parameters: embeddings, attention, and Feed-Forward Neural network (FFN) layers. We examine the relative importance of each by performing an ablation study where we initialise them at random and freeze them, so that their weights do not change over the course of the training. Through this, we show that the attention and FFN are equally important and fulfil the same functionality in a model. We show that the decision about whether a component is frozen or allowed to train is at least as important for the final model performance as its number of parameters. At the same time, the number of parameters alone is not indicative of a component's importance. Finally, while the embedding layer is the least essential for machine translation tasks, it is the most important component for language modelling tasks.
+Author{1}{Firstname}#=%=#Nikolay
+Author{1}{Lastname}#=%=#Bogoychev
+Author{1}{Username}#=%=#xapajiamnu
+Author{1}{Email}#=%=#nbogoych@exseed.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+
+==========

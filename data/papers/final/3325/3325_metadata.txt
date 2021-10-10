@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#3325
+FinalPaperTitle#=%=#Gradient-based Adversarial Attacks against Text Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chuan Guo
+JobTitle#==#Research Scientist
+Organization#==#Facebook AI Research
+Abstract#==#We propose the first general-purpose gradient-based adversarial attack against transformer models. Instead of searching for a single adversarial example, we search for a distribution of adversarial examples parameterized by a continuous-valued matrix, hence enabling gradient-based optimization. We empirically demonstrate that our white-box attack attains state-of-the-art attack performance on a variety of natural language tasks, outperforming prior work in terms of adversarial success rate with matching imperceptibility as per automated and human evaluation. Furthermore, we show that a powerful black-box transfer attack, enabled by sampling from the adversarial distribution, matches or exceeds existing methods, while only requiring hard-label outputs.
+Author{1}{Firstname}#=%=#Chuan
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Username}#=%=#chuanguo
+Author{1}{Email}#=%=#chuanguo@fb.com
+Author{1}{Affiliation}#=%=#Facebook AI Research
+Author{2}{Firstname}#=%=#Alexandre
+Author{2}{Lastname}#=%=#Sablayrolles
+Author{2}{Email}#=%=#asablayrolles@fb.com
+Author{2}{Affiliation}#=%=#Facebook AI Research
+Author{3}{Firstname}#=%=#Hervé
+Author{3}{Lastname}#=%=#Jégou
+Author{3}{Email}#=%=#rvj@fb.com
+Author{3}{Affiliation}#=%=#Facebook AI Research
+Author{4}{Firstname}#=%=#Douwe
+Author{4}{Lastname}#=%=#Kiela
+Author{4}{Username}#=%=#douwe.kiela
+Author{4}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{4}{Affiliation}#=%=#Facebook
+
+==========

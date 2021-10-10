@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3921
+FinalPaperTitle#=%=#Iterative GNN-based Decoder for Question Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zichu Fei
+JobTitle#==#
+Organization#==#
+Abstract#==#Natural question generation (QG) aims to generate questions from a passage, and generated questions are answered from the passage.
+Most models with state-of-the-art performance model the previously generated text at each decoding step.
+However, (1) they ignore the rich structure information that is hidden in the previously generated text. (2) they ignore the impact of copied words on the passage.
+We perceive that information in previously generated words serves as auxiliary information in subsequent generation.
+To address these problems, we design the Iterative Graph Network-based Decoder (IGND) to model the previous generation using a Graph Neural Network at each decoding step.
+Moreover, our graph model captures dependency relations in the passage that boost the generation.
+Experimental results demonstrate that our model outperforms the state-of-the-art models with sentence-level QG tasks on SQuAD and MARCO datasets.
+Author{1}{Firstname}#=%=#Zichu
+Author{1}{Lastname}#=%=#Fei
+Author{1}{Username}#=%=#zcfei19
+Author{1}{Email}#=%=#zcfei19@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan university
+Author{2}{Firstname}#=%=#Qi
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#lloydzq
+Author{2}{Email}#=%=#qz@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Yaqian
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Username}#=%=#yqzhou
+Author{3}{Email}#=%=#zhouyaqian@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+
+==========

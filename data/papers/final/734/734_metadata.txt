@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#734
+FinalPaperTitle#=%=#A Fine-Grained Domain Adaption Model for Joint Word Segmentation and POS Tagging
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Peijie Jiang
+JobTitle#==#
+Organization#==#
+Abstract#==#Domain adaption for word segmentation and POS tagging is a challenging problem for Chinese lexical processing. Self-training is one promising solution for it, which struggles to construct a set of high-quality pseudo training instances for the target domain. Previous work usually assumes a universal source-to-target adaption to collect such pseudo corpus, ignoring the different gaps from the target sentences to the source domain. In this work, we start from joint word segmentation and POS tagging, presenting a fine-grained domain adaption method to model the gaps accurately. We measure the gaps by one simple and intuitive metric, and adopt it to develop a pseudo target domain corpus based on fine-grained subdomains incrementally. A novel domain-mixed representation learning model is proposed accordingly to encode the multiple subdomains effectively. The whole process is performed progressively for both corpus construction and model training. Experimental results on a benchmark dataset show that our method can gain significant improvements over a vary of baselines. Extensive analyses are performed to show the advantages of our final domain adaption model as well.
+Author{1}{Firstname}#=%=#Peijie
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Username}#=%=#jzx555
+Author{1}{Email}#=%=#jzx555@foxmail.com
+Author{1}{Affiliation}#=%=#Tianjin Univercity
+Author{2}{Firstname}#=%=#Dingkun
+Author{2}{Lastname}#=%=#Long
+Author{2}{Username}#=%=#get_accpted
+Author{2}{Email}#=%=#dingkun.ldk@alibaba-inc.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Yueheng
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Username}#=%=#yueheng_sun
+Author{3}{Email}#=%=#yhs@tju.edu.cn
+Author{3}{Affiliation}#=%=#Tianjin University
+Author{4}{Firstname}#=%=#Meishan
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#masonzms
+Author{4}{Email}#=%=#mason.zms@gmail.com
+Author{4}{Affiliation}#=%=#Tianjin University, China
+Author{5}{Firstname}#=%=#Guangwei
+Author{5}{Lastname}#=%=#Xu
+Author{5}{Username}#=%=#ahxgw
+Author{5}{Email}#=%=#ahxgwOnePiece@gmail.com
+Author{5}{Affiliation}#=%=#Alibaba Group
+Author{6}{Firstname}#=%=#Pengjun
+Author{6}{Lastname}#=%=#Xie
+Author{6}{Username}#=%=#xpjandy
+Author{6}{Email}#=%=#chengchen.xpj@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba Group
+
+==========

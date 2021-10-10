@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#GerDaLIR: A German Dataset for Legal Information Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marco Wrzalik
+JobTitle#==#
+Organization#==#RheinMain University of Applied Sciences
+Unter den Eichen 5
+65195 Wiesbaden
+Germany
+Abstract#==#We present GerDaLIR, a German Dataset for Legal Information Retrieval based on case documents from the open legal information platform Open Legal Data. The dataset consists of 123K queries, each labelled with at least one relevant document in a collection of 131K case documents. We conduct several baseline experiments including BM25 and a state-of-the-art neural re-ranker. With our dataset, we aim to provide a standardized benchmark for German LIR and promote open research in this area. Beyond that, our dataset comprises sufficient training data to be used as a downstream task for German or multilingual language models.
+Author{1}{Firstname}#=%=#Marco
+Author{1}{Lastname}#=%=#Wrzalik
+Author{1}{Username}#=%=#mwrzalik
+Author{1}{Email}#=%=#marco.wrzalik@hs-rm.de
+Author{1}{Affiliation}#=%=#RheinMain University of Applied Sciences
+Author{2}{Firstname}#=%=#Dirk
+Author{2}{Lastname}#=%=#Krechel
+Author{2}{Email}#=%=#dirk.krechel@hs-rm.de
+Author{2}{Affiliation}#=%=#RheinMain University of Applied Sciences
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#4530
+FinalPaperTitle#=%=#ClauseRec: A Clause Recommendation Framework for AI-aided Contract Authoring
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Vinay Aggarwal
+JobTitle#==#
+Organization#==#Adobe Research, Bengaluru, India
+Abstract#==#Contracts are a common type of legal document that frequent in several day-to-day business workflows. However, there has been very limited NLP research in processing such documents, and even lesser in generating them.  These contracts are made up of clauses, and the unique nature of these clauses calls for specific methods to understand and generate such documents. In this paper, we introduce the task of clause recommendation, as a first step to aid and accelerate the authoring of contract documents.  We propose a two-staged pipeline to first predict if a specific clause type is relevant to be added in a contract, and then recommend the top clauses for the given type based on the contract context. We pre-train BERT on an existing library of clauses with two additional tasks and use it for our prediction and recommendation. We experiment with classification methods and similarity-based heuristics for clause relevance prediction, and generation-based methods for clause recommendation, and evaluate the results from various methods on several clause types. We provide analyses on the results, and further outline the limitations and future directions of this line of research.
+Author{1}{Firstname}#=%=#Vinay
+Author{1}{Lastname}#=%=#Aggarwal
+Author{1}{Username}#=%=#vinayagg
+Author{1}{Email}#=%=#vinayagg@adobe.com
+Author{1}{Affiliation}#=%=#Adobe
+Author{2}{Firstname}#=%=#Aparna
+Author{2}{Lastname}#=%=#Garimella
+Author{2}{Username}#=%=#gaparna
+Author{2}{Email}#=%=#garimell@adobe.com
+Author{2}{Affiliation}#=%=#Adobe Research
+Author{3}{Firstname}#=%=#Balaji Vasan
+Author{3}{Lastname}#=%=#Srinivasan
+Author{3}{Username}#=%=#balajivasan
+Author{3}{Email}#=%=#balajivasan.srinivasan@gmail.com
+Author{3}{Affiliation}#=%=#Adobe Research, India
+Author{4}{Firstname}#=%=#Anandhavelu
+Author{4}{Lastname}#=%=#N
+Author{4}{Username}#=%=#anandhavelu
+Author{4}{Email}#=%=#anandvn@adobe.com
+Author{4}{Affiliation}#=%=#Adobe Research
+Author{5}{Firstname}#=%=#Rajiv
+Author{5}{Lastname}#=%=#Jain
+Author{5}{Email}#=%=#rajijain@adobe.com
+Author{5}{Affiliation}#=%=#Adobe Research
+
+==========

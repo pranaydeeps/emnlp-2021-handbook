@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#699
+FinalPaperTitle#=%=#Stream-level Latency Evaluation for Simultaneous Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Javier Iranzo Sanchez
+JobTitle#==#
+Organization#==#
+Abstract#==#Simultaneous machine translation has recently gained traction thanks to significant quality improvements and the advent of streaming applications. Simultaneous translation systems need to find a trade-off between translation quality and response time, and with this purpose multiple latency measures have been proposed. However, latency evaluations for simultaneous translation are estimated at the sentence level, not taking into account the sequential nature of a streaming scenario. Indeed, these sentence-level latency measures are not well suited for continuous stream translation, resulting in figures that are not coherent with the simultaneous translation policy of the system being assessed. This work proposes a stream level adaptation of the current latency measures based on a re-segmentation approach applied to the output translation, that is successfully evaluated on streaming conditions for a reference IWSLT task.
+Author{1}{Firstname}#=%=#Javier
+Author{1}{Lastname}#=%=#Iranzo-Sánchez
+Author{1}{Username}#=%=#jairsan
+Author{1}{Email}#=%=#jairsan@upv.es
+Author{1}{Affiliation}#=%=#Universitat Politècnica de València
+Author{2}{Firstname}#=%=#Jorge
+Author{2}{Lastname}#=%=#Civera Saiz
+Author{2}{Username}#=%=#jorcisai
+Author{2}{Email}#=%=#jorcisai@vrain.upv.es
+Author{2}{Affiliation}#=%=#Machine Learning and Language Processing (MLLP) - Valencia Research Institute for Artificial Intelligence (VRAIN) - Universitat Politècnica de València (UPV)
+Author{3}{Firstname}#=%=#Alfons
+Author{3}{Lastname}#=%=#Juan
+Author{3}{Username}#=%=#ajuan
+Author{3}{Email}#=%=#ajuanci@vrain.upv.es
+Author{3}{Affiliation}#=%=#Universitat Politècnica de València
+
+==========

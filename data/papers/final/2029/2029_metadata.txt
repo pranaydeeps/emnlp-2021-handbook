@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2029
+FinalPaperTitle#=%=#MIRTT: Learning Multimodal Interaction Representations from Trilinear Transformers for Visual Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Junjie Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#In Visual Question Answering (VQA), existing bilinear methods focus on the interaction between images and questions. As a result, the answers are either spliced into the questions or utilized as labels only for classification. On the other hand, trilinear models such as the CTI model efficiently utilize the inter-modality information between answers, questions, and images, while ignoring intra-modality information. Inspired by this observation, we propose a new trilinear interaction framework called MIRTT (Learning Multimodal Interaction Representations from Trilinear Transformers), incorporating the attention mechanisms for capturing inter-modality and intra-modality relationships. Moreover, we design a two-stage workflow where a bilinear model reduces the free-form, open-ended VQA problem into a multiple-choice VQA problem. Furthermore, to obtain accurate and generic multimodal representations, we pre-train MIRTT with masked language prediction. Our method achieves state-of-the-art performance on the Visual7W Telling task and VQA-1.0 Multiple Choice task and outperforms bilinear baselines on the VQA-2.0, TDIUC and GQA datasets.
+Author{1}{Firstname}#=%=#Junjie
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#wangjunjie_waseda
+Author{1}{Email}#=%=#wjj1020181822@toki.waseda.jp
+Author{1}{Affiliation}#=%=#Waseda University
+Author{2}{Firstname}#=%=#Yatai
+Author{2}{Lastname}#=%=#Ji
+Author{2}{Email}#=%=#jiyt17@mails.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Jiaqi
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Email}#=%=#sunjq20@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Graduate School at Shenzhen, Tsinghua University
+Author{4}{Firstname}#=%=#Yujiu
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Email}#=%=#yang.yujiu@sz.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Graduate School at Shenzhen, Tsinghua University
+Author{5}{Firstname}#=%=#Tetsuya
+Author{5}{Lastname}#=%=#Sakai
+Author{5}{Email}#=%=#tetsuya@waseda.jp
+Author{5}{Affiliation}#=%=#Waseda University
+
+==========

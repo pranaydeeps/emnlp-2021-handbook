@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1777
+FinalPaperTitle#=%=#Modular Self-Supervision for Document-Level Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sheng Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Extracting relations across large text spans has been relatively underexplored in NLP, but it is particularly important for high-value domains such as biomedicine, where obtaining high recall of the latest findings is crucial for practical applications. Compared to conventional information extraction confined to short text spans, document-level relation extraction faces additional challenges in both inference and learning. Given longer text spans, state-of-the-art neural architectures are less effective and task-specific self-supervision such as distant supervision becomes very noisy. In this paper, we propose decomposing document-level relation extraction into relation detection and argument resolution, taking inspiration from Davidsonian semantics. This enables us to incorporate explicit discourse modeling and leverage modular self-supervision for each sub-problem, which is less noise-prone and can be further refined end-to-end via variational EM. We conduct a thorough evaluation in biomedical machine reading for precision oncology, where cross-paragraph relation mentions are prevalent. Our method outperforms prior state of the art, such as multi-scale learning and graph neural networks, by over 20 absolute F1 points. The gain is particularly pronounced among the most challenging relation instances whose arguments never co-occur in a paragraph.
+Author{1}{Firstname}#=%=#Sheng
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#shengzhang
+Author{1}{Email}#=%=#zhangsheng.zero@gmail.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Cliff
+Author{2}{Lastname}#=%=#Wong
+Author{2}{Username}#=%=#cliffrwong
+Author{2}{Email}#=%=#cliff.r.wong@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Naoto
+Author{3}{Lastname}#=%=#Usuyama
+Author{3}{Username}#=%=#naotous
+Author{3}{Email}#=%=#usuyama.naoto@gmail.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Sarthak
+Author{4}{Lastname}#=%=#Jain
+Author{4}{Username}#=%=#successar
+Author{4}{Email}#=%=#successar@gmail.com
+Author{4}{Affiliation}#=%=#Northeastern University
+Author{5}{Firstname}#=%=#Tristan
+Author{5}{Lastname}#=%=#Naumann
+Author{5}{Username}#=%=#tnaumann
+Author{5}{Email}#=%=#tristan.naumann@gmail.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+Author{6}{Firstname}#=%=#Hoifung
+Author{6}{Lastname}#=%=#Poon
+Author{6}{Username}#=%=#hoifung
+Author{6}{Email}#=%=#hoifung@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research
+
+==========

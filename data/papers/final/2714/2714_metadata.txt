@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#2714
+FinalPaperTitle#=%=#Self-Supervised Quality Estimation for Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Yuanhang Zheng
+JobTitle#==#
+Organization#==#
+Abstract#==#Quality estimation (QE) of machine translation (MT) aims to evaluate the quality of machine-translated sentences without references and is important in practical applications of MT. Training QE models require massive parallel data with hand-crafted quality annotations, which are time-consuming and labor-intensive to obtain. To address the issue of the absence of annotated training data, previous studies attempt to develop unsupervised QE methods. However, very few of them can be applied to both sentence- and word-level QE tasks, and they may suffer from noises in the synthetic data. To reduce the negative impact of noises, we propose a self-supervised method for both sentence- and word-level QE, which performs quality estimation by recovering the masked target words. Experimental results show that our method outperforms previous unsupervised methods on several QE tasks in different language pairs and domains.
+Author{1}{Firstname}#=%=#Yuanhang
+Author{1}{Lastname}#=%=#Zheng
+Author{1}{Username}#=%=#zyh111
+Author{1}{Email}#=%=#zheng-yh19@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Zhixing
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Username}#=%=#playinf
+Author{2}{Email}#=%=#playinf@stu.xmu.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Meng
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#mengzhang
+Author{3}{Email}#=%=#zhangmeng92@huawei.com
+Author{3}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{4}{Firstname}#=%=#Mieradilijiang
+Author{4}{Lastname}#=%=#Maimaiti
+Author{4}{Username}#=%=#hero51
+Author{4}{Email}#=%=#meadljmm15@mails.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Huanbo
+Author{5}{Lastname}#=%=#Luan
+Author{5}{Username}#=%=#luanhuanbo
+Author{5}{Email}#=%=#luanhuanbo@gmail.com
+Author{5}{Affiliation}#=%=#Tsinghua University
+Author{6}{Firstname}#=%=#Maosong
+Author{6}{Lastname}#=%=#Sun
+Author{6}{Username}#=%=#sms
+Author{6}{Email}#=%=#sms@tsinghua.edu.cn
+Author{6}{Affiliation}#=%=#Tsinghua University
+Author{7}{Firstname}#=%=#Qun
+Author{7}{Lastname}#=%=#Liu
+Author{7}{Username}#=%=#liuqun
+Author{7}{Email}#=%=#qun.liu@huawei.com
+Author{7}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{8}{Firstname}#=%=#Yang
+Author{8}{Lastname}#=%=#Liu
+Author{8}{Username}#=%=#liuyang2011
+Author{8}{Email}#=%=#liuyang2011@tsinghua.edu.cn
+Author{8}{Affiliation}#=%=#Tsinghua University
+
+==========

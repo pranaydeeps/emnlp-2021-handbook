@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1686
+FinalPaperTitle#=%=#Translating Headers of Tabular Data: A Pilot Study of Schema Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kunrui Zhu
+JobTitle#==#
+Organization#==#
+Abstract#==#Schema translation is the task of automatically translating headers of tabular data from one language to another. High-quality schema translation plays an important role in cross-lingual table searching, understanding and analysis. Despite its importance, schema translation is not well studied in the community, and state-of-the-art neural machine translation models cannot work well on this task because of two intrinsic differences between plain text and tabular data: morphological difference
+and context difference. To facilitate the research study, we construct the first parallel dataset for schema translation, which consists of 3,158 tables with 11,979 headers written in 6 different languages, including English, Chinese, French, German, Spanish, and Japanese. Also, we propose the first schema translation model called CAST, which is a header-to-header neural machine translation model augmented with schema context. Specifically, we model a target header and its context as a directed
+graph to represent their entity types and relations. Then CAST encodes the graph with a relational-aware transformer and uses another transformer to decode the header in the target language. Experiments on our dataset demonstrate that CAST significantly outperforms state-of-the-art neural machine translation models. Our dataset will be released at https://github.com/microsoft/ContextualSP.
+Author{1}{Firstname}#=%=#Kunrui
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Username}#=%=#konroy
+Author{1}{Email}#=%=#konroy@connect.hku.hk
+Author{1}{Affiliation}#=%=#The university of Hong Kong
+Author{2}{Firstname}#=%=#Yan
+Author{2}{Lastname}#=%=#Gao
+Author{2}{Username}#=%=#yan.gao
+Author{2}{Email}#=%=#gaoya@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Jiaqi
+Author{3}{Lastname}#=%=#Guo
+Author{3}{Username}#=%=#jiaqiguo
+Author{3}{Email}#=%=#jasperguo@outlook.com
+Author{3}{Affiliation}#=%=#Xi'an Jiaotong University
+Author{4}{Firstname}#=%=#Jian-Guang
+Author{4}{Lastname}#=%=#LOU
+Author{4}{Username}#=%=#substill
+Author{4}{Email}#=%=#jlou@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+
+==========

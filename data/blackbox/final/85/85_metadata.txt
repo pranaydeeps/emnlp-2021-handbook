@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#85
+FinalPaperTitle#=%=#How Does BERT Rerank Passages? An Attribution Analysis with Information Bottlenecks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Zhiying Jiang
+JobTitle#==#
+Organization#==#
+Abstract#==#Fine-tuned pre-trained transformers achieve the state of the art in passage reranking.
+Unfortunately, how they make their predictions remains vastly unexplained, especially at the end-to-end, input-to-output level.
+Little known is how tokens, layers, and passages precisely contribute to the final prediction.
+In this paper, we address this gap by leveraging the recently developed information bottlenecks for attribution (IBA) framework.
+On BERT-based models for passage reranking, we quantitatively demonstrate the framework's veracity in extracting attribution maps, from which we perform detailed, token-wise analysis about how predictions are made.
+Overall, we find that BERT still cares about exact token matching for reranking; the [CLS] token mainly gathers information for predictions at the last layer;  top-ranked passages are robust to token removal; and BERT fine-tuned on MSMARCO has positional bias towards the start of the passage.
+Author{1}{Firstname}#=%=#Zhiying
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Username}#=%=#bazingagin
+Author{1}{Email}#=%=#bazingagin@gmail.com
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Raphael
+Author{2}{Lastname}#=%=#Tang
+Author{2}{Username}#=%=#rtang123
+Author{2}{Email}#=%=#r33tang@uwaterloo.ca
+Author{2}{Affiliation}#=%=#University of Waterloo
+Author{3}{Firstname}#=%=#Ji
+Author{3}{Lastname}#=%=#Xin
+Author{3}{Username}#=%=#xinji1996
+Author{3}{Email}#=%=#ji.xin@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+Author{4}{Firstname}#=%=#Jimmy
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Username}#=%=#jimmylin
+Author{4}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{4}{Affiliation}#=%=#University of Waterloo
+
+==========

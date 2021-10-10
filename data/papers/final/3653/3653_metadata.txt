@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#3653
+FinalPaperTitle#=%=#Graph-Based Decoding for Task Oriented Semantic Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jeremy Cole
+JobTitle#==#
+Organization#==#Google, Inc
+1600 Amphitheatre Parkway, Mountain View CA, 94043
+Abstract#==#The dominant paradigm for semantic parsing in recent years is to formulate parsing as a sequence-to-sequence task, generating predictions with auto-regressive sequence decoders. In this work, we explore an alternative paradigm. We formulate semantic parsing as a dependency parsing task, applying graph-based decoding techniques developed for syntactic parsing. We compare various decoding techniques given the same pre-trained Transformer encoder on the TOP dataset, including settings where training data is limited or contains only partially-annotated examples. We find that our graph-based approach is competitive with sequence decoders on the standard setting, and offers significant improvements in data efficiency and settings where partially-annotated data is available.
+Author{1}{Firstname}#=%=#Jeremy
+Author{1}{Lastname}#=%=#Cole
+Author{1}{Username}#=%=#jrc436
+Author{1}{Email}#=%=#jrcole@google.com
+Author{1}{Affiliation}#=%=#Google Research
+Author{2}{Firstname}#=%=#Nanjiang
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Username}#=%=#njiang8
+Author{2}{Email}#=%=#jiang.1879@buckeyemail.osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#Panupong
+Author{3}{Lastname}#=%=#Pasupat
+Author{3}{Username}#=%=#ppasupat
+Author{3}{Email}#=%=#ppasupat@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Luheng
+Author{4}{Lastname}#=%=#He
+Author{4}{Username}#=%=#luheng
+Author{4}{Email}#=%=#luheng@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Peter
+Author{5}{Lastname}#=%=#Shaw
+Author{5}{Username}#=%=#petershaw
+Author{5}{Email}#=%=#petershaw@google.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

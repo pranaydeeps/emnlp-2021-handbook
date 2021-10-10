@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2651
+FinalPaperTitle#=%=#Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware Multi-Task Learning for Emotion Recognition in Conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yunhe Xie
+JobTitle#==#
+Organization#==#
+Abstract#==#Emotion Recognition in Conversation (ERC) has gained much attention from the NLP community recently. Some models concentrate on leveraging commonsense knowledge or multi-task learning to help complicated emotional reasoning. However, these models neglect direct utterance-knowledge interaction. In addition, these models utilize emotion-indirect auxiliary tasks, which provide limited affective information for the ERC task. To address the above issues, we propose a Knowledge-Interactive Network with sentiment polarity intensity-aware multi-task learning, namely KI-Net, which leverages both commonsense knowledge and sentiment lexicon to augment semantic information. Specifically, we use a self-matching module for internal utterance-knowledge interaction. Considering correlations with the ERC task, a phrase-level Sentiment Polarity Intensity Prediction (SPIP) task is devised as an auxiliary task. Experiments show that all knowledge integration, self-matching and SPIP modules improve the model performance respectively on three datasets. Moreover, our KI-Net model shows 1.04% performance improvement over the state-of-the-art model on the IEMOCAP dataset.
+Author{1}{Firstname}#=%=#Yunhe
+Author{1}{Lastname}#=%=#Xie
+Author{1}{Username}#=%=#xieyh
+Author{1}{Email}#=%=#xieyh@hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Kailai
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#klyang
+Author{2}{Email}#=%=#1170300709@stu.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Chengjie
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Username}#=%=#cjsun
+Author{3}{Email}#=%=#sunchengjie@hit.edu.cn
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+Author{4}{Firstname}#=%=#Bingquan
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#liubq
+Author{4}{Email}#=%=#liubq@hit.edu.cn
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology
+Author{5}{Firstname}#=%=#zhenzhou
+Author{5}{Lastname}#=%=#Ji
+Author{5}{Username}#=%=#jizhenzhou
+Author{5}{Email}#=%=#jizhenzhou@hit.edu.cn
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

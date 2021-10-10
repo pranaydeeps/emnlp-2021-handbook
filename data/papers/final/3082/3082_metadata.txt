@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3082
+FinalPaperTitle#=%=#Active Learning by Acquiring Contrastive Examples
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Katerina Margatina
+JobTitle#==#
+Organization#==#
+Abstract#==#Common acquisition functions for active learning use either uncertainty or diversity sampling, aiming to select difficult and diverse data points from the pool of unlabeled data, respectively. In this work, leveraging the best of both worlds, we propose an acquisition function that opts for selecting contrastive examples, i.e. data points that are similar in the model feature space and yet the model outputs maximally different predictive likelihoods. We compare our approach, CAL (Contrastive Active Learning), with a diverse set of acquisition functions in four natural language understanding tasks and seven datasets. Our experiments show that CAL performs consistently better or equal than the best performing
+baseline across all tasks, on both in-domain and out-of-domain data. We also conduct an extensive ablation study of our method and we further analyze all actively acquired datasets showing that CAL achieves a better trade-off between uncertainty and diversity compared to other strategies.
+Author{1}{Firstname}#=%=#Katerina
+Author{1}{Lastname}#=%=#Margatina
+Author{1}{Username}#=%=#marga
+Author{1}{Email}#=%=#k.margatina@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Giorgos
+Author{2}{Lastname}#=%=#Vernikos
+Author{2}{Username}#=%=#gvernikos
+Author{2}{Email}#=%=#georgios.vernikos@epfl.ch
+Author{2}{Affiliation}#=%=#École Polytechnique Fédérale de Lausanne
+Author{3}{Firstname}#=%=#Loïc
+Author{3}{Lastname}#=%=#Barrault
+Author{3}{Username}#=%=#barrault
+Author{3}{Email}#=%=#l.barrault@sheffield.ac.uk
+Author{3}{Affiliation}#=%=#University of Sheffield
+Author{4}{Firstname}#=%=#Nikolaos
+Author{4}{Lastname}#=%=#Aletras
+Author{4}{Username}#=%=#aletras
+Author{4}{Email}#=%=#nikos.aletras@gmail.com
+Author{4}{Affiliation}#=%=#University of Sheffield
+
+==========

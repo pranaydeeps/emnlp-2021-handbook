@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#547
+FinalPaperTitle#=%=#Semi-supervised Relation Extraction via Incremental Meta Self-Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xuming Hu
+JobTitle#==#
+Organization#==#
+Abstract#==#To alleviate human efforts from obtaining large-scale annotations, Semi-Supervised Relation Extraction methods aim to leverage unlabeled data in addition to learning from limited samples. Existing self-training methods suffer from the gradual drift problem, where noisy pseudo labels on unlabeled data are incorporated during training. To alleviate the noise in pseudo labels, we propose a method called MetaSRE, where a Relation Label Generation Network generates accurate quality assessment on pseudo labels by (meta) learning from the successful and failed attempts on Relation Classification Network as an additional meta-objective. To reduce the influence of noisy pseudo labels, MetaSRE adopts a pseudo label selection and exploitation scheme which assesses pseudo label quality on unlabeled samples and only exploits high-quality pseudo labels in a self-training fashion to incrementally augment labeled samples for both robustness and accuracy. Experimental results on two public datasets demonstrate the effectiveness of the proposed approach.
+Author{1}{Firstname}#=%=#Xuming
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Username}#=%=#xuminghu
+Author{1}{Email}#=%=#hxm19@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#School of Software, Tsinghua University
+Author{2}{Firstname}#=%=#Chenwei
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#cwzhang910
+Author{2}{Email}#=%=#cwzhang910@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Fukun
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Username}#=%=#lycorisradiata
+Author{3}{Email}#=%=#mafk19@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#School of Software,Tsinghua University
+Author{4}{Firstname}#=%=#Chenyao
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#chenyaoliu
+Author{4}{Email}#=%=#liucy19@mails.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#School of Software,Tsinghua University
+Author{5}{Firstname}#=%=#Lijie
+Author{5}{Lastname}#=%=#Wen
+Author{5}{Username}#=%=#wenlj
+Author{5}{Email}#=%=#wenlj@tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#School of Software, Tsinghua University
+Author{6}{Firstname}#=%=#Philip S.
+Author{6}{Lastname}#=%=#Yu
+Author{6}{Username}#=%=#psyu2021
+Author{6}{Email}#=%=#psyu@cs.uic.edu
+Author{6}{Affiliation}#=%=#University of Illinois at Chicago
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1836
+FinalPaperTitle#=%=#Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#yujian gan
+JobTitle#==#
+Organization#==#Queen Mary University of London
+Mile End Road
+London E1 4NS
+Abstract#==#Recently, there has been significant progress in studying neural networks for translating text descriptions into SQL queries under the zero-shot cross-domain setting.
+Despite achieving good performance on some public benchmarks, we observe that existing text-to-SQL models do not generalize when facing domain knowledge that does not frequently appear in the training data, which may render the worse prediction performance for unseen domains.
+In this work, we investigate the robustness of text-to-SQL models when the questions require rarely observed domain knowledge. In particular, we define five types of domain knowledge and introduce Spider-DK (DK is the abbreviation of domain knowledge), a human-curated dataset based on the Spider benchmark for text-to-SQL translation.
+NL questions in Spider-DK are selected from Spider, and we modify some samples by adding domain knowledge that reflects real-world question paraphrases. 
+We demonstrate that the prediction accuracy dramatically drops on samples that require such domain knowledge, even if the domain knowledge appears in the training set, and the model provides the correct predictions for related training samples.
+Author{1}{Firstname}#=%=#Yujian
+Author{1}{Lastname}#=%=#Gan
+Author{1}{Username}#=%=#ygan
+Author{1}{Email}#=%=#vhdl@foxmail.com
+Author{1}{Affiliation}#=%=#Queen Mary University of London
+Author{2}{Firstname}#=%=#Xinyun
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#jungyhuk
+Author{2}{Email}#=%=#xinyun.chen@berkeley.edu
+Author{2}{Affiliation}#=%=#UC Berkeley
+Author{3}{Firstname}#=%=#Matthew
+Author{3}{Lastname}#=%=#Purver
+Author{3}{Username}#=%=#m.purver
+Author{3}{Email}#=%=#m.purver@qmul.ac.uk
+Author{3}{Affiliation}#=%=#Queen Mary University of London
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#211
+FinalPaperTitle#=%=#Toward Deconfounding the Influence of Subject's Demographic Characteristics in Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Maharshi Gor
+JobTitle#==#
+Organization#==#University of Maryland, College Park, MD 20742
+Abstract#==#The goal of question answering (QA) is to answer _any_ question. However, major QA datasets have skewed distributions over gender, profession, and nationality. Despite that skew, an analysis of model accuracy reveals little evidence that accuracy is lower for people based on gender or nationality; instead, there is more variation on professions (question topic) and question ambiguity. But QA's lack of representation could itself hide evidence of bias, necessitating QA datasets that better represent global diversity.
+Author{1}{Firstname}#=%=#Maharshi
+Author{1}{Lastname}#=%=#Gor
+Author{1}{Username}#=%=#maharshigor
+Author{1}{Email}#=%=#mgor@umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Kellie
+Author{2}{Lastname}#=%=#Webster
+Author{2}{Username}#=%=#kelliewebster
+Author{2}{Email}#=%=#websterk@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Jordan
+Author{3}{Lastname}#=%=#Boyd-Graber
+Author{3}{Username}#=%=#ezubaric
+Author{3}{Email}#=%=#jbg@umiacs.umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland
+
+==========

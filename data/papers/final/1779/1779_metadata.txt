@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1779
+FinalPaperTitle#=%=#A Language Model-based Generative Classifier for Sentence-level Discourse Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Ying Zhang
+JobTitle#==#
+Organization#==#Tokyo Institute of Technology, 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa, Japan
+Abstract#==#Discourse segmentation and sentence-level discourse parsing play important roles for various NLP tasks to consider textual coherence. Despite recent achievements in both tasks, there is still room for improvement due to the scarcity of labeled data. To solve the problem, we propose a language model-based generative classifier (LMGC) for using more information from labels by treating the labels as an input while enhancing label representations by embedding descriptions for each label.
+Moreover, since this enables LMGC to make ready the representations for labels, unseen in the pre-training step, we can effectively use a pre-trained language model in LMGC. Experimental results on the RST-DT dataset show that our LMGC achieved the state-of-the-art F1 score of 96.72 in discourse segmentation. It further achieved the state-of-the-art relation F1 scores of 84.69 with gold EDU boundaries and 81.18 with automatically segmented boundaries, respectively, in sentence-level discourse parsing.
+Author{1}{Firstname}#=%=#Ying
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zhangybh
+Author{1}{Email}#=%=#zhang@lr.pi.titech.ac.jp
+Author{1}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{2}{Firstname}#=%=#Hidetaka
+Author{2}{Lastname}#=%=#Kamigaito
+Author{2}{Username}#=%=#gaito
+Author{2}{Email}#=%=#kamigaito@lr.pi.titech.ac.jp
+Author{2}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{3}{Firstname}#=%=#Manabu
+Author{3}{Lastname}#=%=#Okumura
+Author{3}{Username}#=%=#oku
+Author{3}{Email}#=%=#oku@pi.titech.ac.jp
+Author{3}{Affiliation}#=%=#Tokyo Institute of Technology
+
+==========

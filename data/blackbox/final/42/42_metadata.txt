@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#42
+FinalPaperTitle#=%=#Training Dynamic based data filtering may not work for NLP datasets
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Varun Menon
+JobTitle#==#
+Organization#==#New York University, 251 Mercer St # 801, New York, NY 10012
+Abstract#==#The recent increase in dataset size has brought about significant advances in natural language understanding. These large datasets are usually collected through automation (search engines or web crawlers) or crowdsourcing which inherently introduces incorrectly labeled data. Training on these datasets leads to memorization and poor generalization. Thus, it is pertinent to develop techniques that help in the identification and isolation of mislabelled data. In this paper, we study the applicability of the Area Under the Margin (AUM) metric to identify and remove/rectify mislabelled examples in NLP datasets. We find that mislabelled samples can be filtered using the AUM metric in NLP datasets but it also removes a significant number of correctly labeled points and leads to the loss of a large amount of relevant language information. We show that models rely on the distributional information instead of relying on syntactic and semantic representations.
+Author{1}{Firstname}#=%=#Arka
+Author{1}{Lastname}#=%=#Talukdar
+Author{1}{Username}#=%=#artalukd
+Author{1}{Email}#=%=#at4786@nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Monika
+Author{2}{Lastname}#=%=#Dagar
+Author{2}{Username}#=%=#mdagar
+Author{2}{Email}#=%=#md4676@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Prachi
+Author{3}{Lastname}#=%=#Gupta
+Author{3}{Username}#=%=#pg1647
+Author{3}{Email}#=%=#pg1647@nyu.edu
+Author{3}{Affiliation}#=%=#New York University Tandon School of Engineering
+Author{4}{Firstname}#=%=#Varun
+Author{4}{Lastname}#=%=#Menon
+Author{4}{Username}#=%=#varunmenon
+Author{4}{Email}#=%=#varunkv377@gmail.com
+Author{4}{Affiliation}#=%=#New York University
+
+==========

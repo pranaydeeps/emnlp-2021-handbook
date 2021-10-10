@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Predicting Moderation of Deliberative Arguments: Is Argument Quality the Key?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Neele Falk
+JobTitle#==#
+Organization#==#
+Abstract#==#Human moderation is commonly employed in deliberative contexts (argumentation and discussion targeting a shared decision on an issue relevant to a group, e.g., citizens arguing on how to employ a shared budget).  As the scale of discussion enlarges in online settings, the overall discussion quality risks to drop and moderation becomes more important to assist participants in having a cooperative and productive interaction.  The scale also makes it more important to employ NLP methods for(semi-)automatic moderation, e.g. to prioritize when moderation is most needed. In this work, we make the first steps towards (semi-)automatic moderation by using state-of-the-art classification models to predict which posts require moderation, showing that while the task is undoubtedly difficult, performance is significantly above baseline. We further investigate whether argument quality is a key indicator of the need for moderation, showing that surprisingly, high quality arguments also trigger moderation. We make our code and data publicly available.
+Author{1}{Firstname}#=%=#Neele
+Author{1}{Lastname}#=%=#Falk
+Author{1}{Username}#=%=#blubberli
+Author{1}{Email}#=%=#neele.falk@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Iman
+Author{2}{Lastname}#=%=#Jundi
+Author{2}{Username}#=%=#imanjundi
+Author{2}{Email}#=%=#iman.jundi@gmail.com
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Firstname}#=%=#Eva Maria
+Author{3}{Lastname}#=%=#Vecchi
+Author{3}{Username}#=%=#emvecchi
+Author{3}{Email}#=%=#evamariavecchi@gmail.com
+Author{3}{Affiliation}#=%=#Universität Stuttgart, Institut für Maschinelle Sprachverarbeitung
+Author{4}{Firstname}#=%=#Gabriella
+Author{4}{Lastname}#=%=#Lapesa
+Author{4}{Username}#=%=#gabriellalapesa
+Author{4}{Email}#=%=#gabriella.lapesa@ims.uni-stuttgart.de
+Author{4}{Affiliation}#=%=#Universität Stuttgart, Institut für Maschinelle Sprachverarbeitung
+
+==========

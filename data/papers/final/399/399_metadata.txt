@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#399
+FinalPaperTitle#=%=#CTAL: Pre-training Cross-modal Transformer for Audio-and-Language Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Hang Li
+JobTitle#==#
+Organization#==#TAL Education Group, Beijing, China
+Abstract#==#Existing audio-language task-specific predictive approaches focus on building complicated late-fusion mechanisms. However, these models are facing challenges of overfitting with limited labels and low model generalization abilities. In this paper, we present a Cross-modal Transformer for Audio-and-Language, i.e., CTAL, which aims to learn the intra-modality and inter-modality connections between audio and language through two proxy tasks on a large amount of audio-and-language pairs: masked language modeling  and masked cross-modal acoustic modeling. After fine-tuning our pre-trained model on multiple downstream audio-and-language tasks, we observe significant improvements across various tasks, such as, emotion classification, sentiment analysis, and speaker verification. On this basis, we further propose a specially-designed fusion mechanism that can be used in fine-tuning phase, which allows our pre-trained model to achieve better performance. Lastly, we demonstrate detailed ablation studies to prove that both our novel cross-modality fusion component and audio-language pre-training methods significantly contribute to the promising results. The code and pre-trained models are available at https://github.com/tal-ai/CTAL_EMNLP2021.
+Author{1}{Firstname}#=%=#Hang
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#hzlihang99
+Author{1}{Email}#=%=#lihang4@tal.com
+Author{1}{Affiliation}#=%=#TAL Education Group
+Author{2}{Firstname}#=%=#Wenbiao
+Author{2}{Lastname}#=%=#Ding
+Author{2}{Username}#=%=#dingwenbiao
+Author{2}{Email}#=%=#dingwenbiao@tal.com
+Author{2}{Affiliation}#=%=#TAL
+Author{3}{Firstname}#=%=#Yu
+Author{3}{Lastname}#=%=#Kang
+Author{3}{Username}#=%=#karlyukang
+Author{3}{Email}#=%=#kangyu@tal.com
+Author{3}{Affiliation}#=%=#TAL AI Lab
+Author{4}{Firstname}#=%=#Tianqiao
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#tianqiao_liu
+Author{4}{Email}#=%=#tjoyliu@gmail.com
+Author{4}{Affiliation}#=%=#TAL
+Author{5}{Firstname}#=%=#Zhongqin
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#wuzhongqin
+Author{5}{Email}#=%=#wzq300@gmail.com
+Author{5}{Affiliation}#=%=#TAL Education Group
+Author{6}{Firstname}#=%=#Zitao
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#hnly228078
+Author{6}{Email}#=%=#zitao.jerry.liu@gmail.com
+Author{6}{Affiliation}#=%=#TAL Education Group
+
+==========

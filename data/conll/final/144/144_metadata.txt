@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#144
+FinalPaperTitle#=%=#On Language Models for Creoles
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Heather Lent
+JobTitle#==#
+Organization#==#
+Abstract#==#Creole languages such as Nigerian Pidgin English and Haitian Creole are under-resourced and largely ignored in the NLP literature. Creoles typically result from the fusion of a foreign language with multiple local languages, and what grammatical and lexical features are transferred to the creole is a complex process. While creoles are generally stable, the prominence of some features may be much stronger with certain demographics or in some linguistic situations. This paper makes several contributions: We collect existing corpora and release models for Haitian Creole, Nigerian Pidgin English, and Singaporean Colloquial English. We evaluate these models on intrinsic and extrinsic tasks. Motivated by the above literature, we compare standard language models with distributionally robust ones and find that, somewhat surprisingly, the standard language models are superior to the distributionally robust ones. We investigate whether this is an effect of over-parameterization or relative distributional stability, and find that the difference persists in the absence of over-parameterization, and that drift is limited, confirming the relative stability of creole languages.
+Author{1}{Firstname}#=%=#Heather
+Author{1}{Lastname}#=%=#Lent
+Author{1}{Username}#=%=#hclent
+Author{1}{Email}#=%=#hcl@di.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Emanuele
+Author{2}{Lastname}#=%=#Bugliarello
+Author{2}{Username}#=%=#bugliarello.e
+Author{2}{Email}#=%=#emanuele@di.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Firstname}#=%=#Miryam
+Author{3}{Lastname}#=%=#de Lhoneux
+Author{3}{Username}#=%=#mdelhoneux
+Author{3}{Email}#=%=#ml@di.ku.dk
+Author{3}{Affiliation}#=%=#University of Copenhagen
+Author{4}{Firstname}#=%=#Chen
+Author{4}{Lastname}#=%=#Qiu
+Author{4}{Username}#=%=#chen.qiu
+Author{4}{Email}#=%=#chen@wust.edu.cn
+Author{4}{Affiliation}#=%=#Wuhan University of Science and Technology
+Author{5}{Firstname}#=%=#Anders
+Author{5}{Lastname}#=%=#Søgaard
+Author{5}{Username}#=%=#soegaard
+Author{5}{Email}#=%=#soegaard@di.ku.dk
+Author{5}{Affiliation}#=%=#University of Copenhagen
+
+==========

@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#4329
+FinalPaperTitle#=%=#Learning Logic Rules for Document-Level Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Dongyu Ru
+JobTitle#==#
+Organization#==#
+Abstract#==#Document-level relation extraction aims to identify relations between entities in a whole document. Prior efforts to capture long-range dependencies have relied heavily on implicitly powerful representations learned through (graph) neural networks, which makes the model less transparent. To tackle this challenge,
+in this paper, we propose LogiRE, a novel probabilistic model for document-level relation extraction by learning logic rules. LogiRE treats logic rules as latent variables and consists of two modules: a rule generator and a relation extractor. The rule generator is to generate logic rules potentially contributing to final predictions, and the relation extractor outputs final predictions based on the generated logic rules. Those two modules can be efficiently optimized with the expectation-maximization (EM) algorithm. By introducing logic rules into neural networks, LogiRE can explicitly capture long-range dependencies as well as enjoy better interpretation. Empirical results show that \mymodel significantly outperforms several strong baselines in terms of relation performance and logical consistency. Our code is available at https://github.com/rudongyu/LogiRE.
+Author{1}{Firstname}#=%=#Dongyu
+Author{1}{Lastname}#=%=#Ru
+Author{1}{Username}#=%=#dongyuru
+Author{1}{Email}#=%=#rudongyu@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Changzhi
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#changzhisun
+Author{2}{Email}#=%=#czsun.cs@gmail.com
+Author{2}{Affiliation}#=%=#Bytedance AI Lab
+Author{3}{Firstname}#=%=#Jiangtao
+Author{3}{Lastname}#=%=#Feng
+Author{3}{Username}#=%=#fengjiangtao
+Author{3}{Email}#=%=#fengjiangtao@bytedance.com
+Author{3}{Affiliation}#=%=#Bytedance
+Author{4}{Firstname}#=%=#Lin
+Author{4}{Lastname}#=%=#Qiu
+Author{4}{Username}#=%=#ql6866665
+Author{4}{Email}#=%=#lqiu@apex.sjtu.edu.cn
+Author{4}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{5}{Firstname}#=%=#Hao
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Username}#=%=#wazwy
+Author{5}{Email}#=%=#zhouhao.nlp@bytedance.com
+Author{5}{Affiliation}#=%=#Bytedance AI Lab
+Author{6}{Firstname}#=%=#Weinan
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#weinanzhang
+Author{6}{Email}#=%=#wnzhang@sjtu.edu.cn
+Author{6}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{7}{Firstname}#=%=#Yong
+Author{7}{Lastname}#=%=#Yu
+Author{7}{Username}#=%=#yyu-apex
+Author{7}{Email}#=%=#yyu@apex.sjtu.edu.cn
+Author{7}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{8}{Firstname}#=%=#Lei
+Author{8}{Lastname}#=%=#Li
+Author{8}{Username}#=%=#leili
+Author{8}{Email}#=%=#lilei@ucsb.edu
+Author{8}{Affiliation}#=%=#UCSB
+
+==========

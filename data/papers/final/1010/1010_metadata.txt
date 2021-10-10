@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1010
+FinalPaperTitle#=%=#Style Pooling: Automatic Text Style Obfuscation for Improved Classification Fairness
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Fatemehsadat Mireshghallah
+JobTitle#==#
+Organization#==#
+Abstract#==#Text style can reveal sensitive attributes of the author (e.g. age and race) to the reader, which can, in turn, lead to privacy violations and bias in both human and algorithmic decisions based on text. For example, the style of writing in job applications might reveal protected attributes of the candidate which could lead to bias in hiring decisions, regardless of whether hiring decisions are made algorithmically or by humans. We propose a VAE-based framework that obfuscates stylistic features of human-generated text through style transfer, by automatically re-writing the text itself. Critically, our framework operationalizes the notion of obfuscated style in a flexible way that enables two distinct notions of obfuscated style: (1) a minimal notion that effectively intersects the various styles seen in training, and (2) a maximal notion that seeks to obfuscate by adding stylistic features of all sensitive attributes to text, in effect, computing a union of styles. Our style-obfuscation framework can be used for multiple purposes, however, we demonstrate its effectiveness in improving the fairness of downstream classifiers. We also conduct a comprehensive study on style-pooling's effect on fluency, semantic consistency, and attribute removal from text, in two and three domain style transfer.
+Author{1}{Firstname}#=%=#Fatemehsadat
+Author{1}{Lastname}#=%=#Mireshghallah
+Author{1}{Username}#=%=#mireshghallah
+Author{1}{Email}#=%=#fmireshg@eng.ucsd.edu
+Author{1}{Affiliation}#=%=#UC San Diego
+Author{2}{Firstname}#=%=#Taylor
+Author{2}{Lastname}#=%=#Berg-Kirkpatrick
+Author{2}{Username}#=%=#tberg
+Author{2}{Email}#=%=#tberg@eng.ucsd.edu
+Author{2}{Affiliation}#=%=#University of California San Diego
+
+==========

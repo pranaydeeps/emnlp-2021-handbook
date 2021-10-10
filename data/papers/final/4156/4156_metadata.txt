@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4156
+FinalPaperTitle#=%=#{I}ncorporating {R}esidual and {N}ormalization {L}ayers into {A}nalysis of {M}asked {L}anguage {M}odels
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#22
+CopyrightSigned#=%=#Goro Kobayashi
+JobTitle#==#
+Organization#==#
+Abstract#==#Transformer architecture has become ubiquitous in the natural language processing field. To interpret the Transformer-based models, their attention patterns have been extensively analyzed. However, the Transformer architecture is not only composed of the multi-head attention; other components can also contribute to Transformers' progressive performance.  In this study, we extended the scope of the analysis of Transformers from solely the attention patterns to the whole attention block, i.e., multi-head attention, residual connection, and layer normalization. Our analysis of Transformer-based masked language models shows that the token-to-token interaction performed via attention has less impact on the intermediate representations than previously assumed. These results provide new intuitive explanations of existing reports; for example, discarding the learned attention patterns tends not to adversely affect the performance. The codes of our experiments are publicly available.
+Author{1}{Firstname}#=%=#Goro
+Author{1}{Lastname}#=%=#Kobayashi
+Author{1}{Username}#=%=#koba560
+Author{1}{Email}#=%=#goro.koba@ecei.tohoku.ac.jp
+Author{1}{Affiliation}#=%=#Tohoku University
+Author{2}{Firstname}#=%=#Tatsuki
+Author{2}{Lastname}#=%=#Kuribayashi
+Author{2}{Username}#=%=#tatsuki
+Author{2}{Email}#=%=#kuribayashi@ecei.tohoku.ac.jp
+Author{2}{Affiliation}#=%=#Tohoku University / Langsmith Inc.
+Author{3}{Firstname}#=%=#Sho
+Author{3}{Lastname}#=%=#Yokoi
+Author{3}{Username}#=%=#sho_yokoi
+Author{3}{Email}#=%=#yokoi@ecei.tohoku.ac.jp
+Author{3}{Affiliation}#=%=#Tohoku University / RIKEN AIP
+Author{4}{Firstname}#=%=#Kentaro
+Author{4}{Lastname}#=%=#Inui
+Author{4}{Username}#=%=#k.inui
+Author{4}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{4}{Affiliation}#=%=#Tohoku University / Riken
+
+==========

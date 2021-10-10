@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#4382
+FinalPaperTitle#=%=#Multitask Semi-Supervised Learning for Class-Imbalanced Discourse Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Alexander Spangher
+JobTitle#==#
+Organization#==#University of Southern California
+3400 S Figueroa Street, Los Angeles, California 90089, University Park
+Abstract#==#As labeling schemas evolve over time, small differences can render datasets following older schemas unusable. This prevents researchers from building on top of previous annotation work and results in the existence, in discourse learning in particular, of many small class-imbalanced datasets. In this work, we show that a multitask learning approach can combine discourse datasets from similar and diverse domains to improve discourse classification. We show an improvement of 4.9\% Micro F1-score over current state-of-the-art benchmarks on the \textit{NewsDiscourse} dataset, one of the largest discourse datasets recently published, due in part to label correlations across tasks, which improve performance for underrepresented classes. We also offer an extensive review of additional techniques proposed to address resource-poor problems in NLP, and show that none of these approaches can improve classification accuracy in our setting.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Spangher
+Author{1}{Username}#=%=#spangher
+Author{1}{Email}#=%=#spangher@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Jonathan
+Author{2}{Lastname}#=%=#May
+Author{2}{Username}#=%=#jonmay
+Author{2}{Email}#=%=#jonmay@gmail.com
+Author{2}{Affiliation}#=%=#USC Information Sciences Institute
+Author{3}{Firstname}#=%=#Sz-Rung
+Author{3}{Lastname}#=%=#Shiang
+Author{3}{Username}#=%=#sshiang
+Author{3}{Email}#=%=#sshiang@bloomberg.net
+Author{3}{Affiliation}#=%=#Bloomberg
+Author{4}{Firstname}#=%=#Lingjia
+Author{4}{Lastname}#=%=#Deng
+Author{4}{Username}#=%=#lingjia
+Author{4}{Email}#=%=#lingjiadeng@gmail.com
+Author{4}{Affiliation}#=%=#Bloomberg L.P.
+
+==========

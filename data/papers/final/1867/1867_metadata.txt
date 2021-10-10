@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1867
+FinalPaperTitle#=%=#On the Effects of Transformer Size on In- and Out-of-Domain Calibration
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#SOHAM DAN
+JobTitle#==#
+Organization#==#University of Pennsylvania, Philadelphia-19104
+Abstract#==#Large, pre-trained transformer language models, which are pervasive in natural language processing tasks, are notoriously expensive to train. To reduce the cost of training such large models, prior work has developed smaller, more compact models which achieves a significant speedup in training time while maintaining competitive accuracy to the original model on downstream tasks. Though these smaller pre-trained models have been widely adopted by the community, it is not known how well are they calibrated compared to their larger counterparts. In this paper, focusing on a wide range of tasks, we thoroughly investigate the calibration properties of pre-trained transformers, as a function of their size. We demonstrate that when evaluated in-domain, smaller models are able to achieve competitive, and often better, calibration compared to larger models, while achieving significant speedup in training time. Post-hoc calibration techniques further reduce calibration error for all models in-domain. However, when evaluated out-of-domain, larger models tend to be better calibrated, and label-smoothing instead is an effective strategy to calibrate models in this setting.
+Author{1}{Firstname}#=%=#Soham
+Author{1}{Lastname}#=%=#Dan
+Author{1}{Username}#=%=#sdan
+Author{1}{Email}#=%=#sohamdan@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Dan
+Author{2}{Lastname}#=%=#Roth
+Author{2}{Username}#=%=#danr
+Author{2}{Email}#=%=#danroth@seas.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+
+==========

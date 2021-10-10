@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#159
+FinalPaperTitle#=%=#Improving Privacy Guarantee and Efficiency of Latent Dirichlet Allocation Model Training Under Differential Privacy
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tao Huang
+JobTitle#==#
+Organization#==#Key Laboratory of Data Engineering and Knowledge Engineering of Ministry of Education; School of Information, Renmin University of China
+Abstract#==#Latent Dirichlet allocation (LDA), a widely used topic model, is often employed as a fundamental tool for text analysis in various applications. However, the training process of the LDA model typically requires massive text corpus data. On one hand, such massive data may expose private information in the training data, thereby incurring significant privacy concerns. On the other hand, the efficiency of the LDA model training may be impacted, since LDA training often needs to handle these massive text corpus data. To address the privacy issues in LDA model training, some recent works have combined LDA training algorithms that are based on collapsed Gibbs sampling (CGS) with differential privacy. Nevertheless, these works usually have a high accumulative privacy budget due to vast iterations in CGS. Moreover, these works always have low efficiency due to handling massive text corpus data. To improve the privacy guarantee and efficiency, we combine a subsampling method with CGS and propose a novel LDA training algorithm with differential privacy, SUB-LDA. We find that subsampling in CGS naturally improves efficiency while amplifying privacy. We propose a novel metric, the efficiency--privacy function, to evaluate improvements of the privacy guarantee and efficiency. Based on a conventional subsampling method, we propose an adaptive subsampling method to improve the model's utility produced by SUB-LDA when the subsampling ratio is small. We provide a comprehensive analysis of SUB-LDA, and the experiment results validate its efficiency and privacy guarantee improvements.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#huangtao1993
+Author{1}{Email}#=%=#huang-tao@ruc.edu.cn
+Author{1}{Affiliation}#=%=#Renmin University of China
+Author{2}{Firstname}#=%=#Hong
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#hchen_ruc
+Author{2}{Email}#=%=#chong@ruc.edu.cn
+Author{2}{Affiliation}#=%=#Renmin University of China
+
+==========

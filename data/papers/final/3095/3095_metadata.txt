@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3095
+FinalPaperTitle#=%=#{SYSML}: {S}t{Y}lometry with {S}tructure and {M}ultitask {L}earning: {I}mplications for Darknet Forum Migrant Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Pranav Maneriker
+JobTitle#==#
+Organization#==#The Ohio State University, Columbus, OH
+Abstract#==#Darknet market forums are frequently used to exchange illegal goods and services between parties who use encryption to conceal their identities. The Tor network is used to host these markets, which guarantees additional anonymization from IP and location tracking, making it challenging to link across malicious users using multiple accounts (sybils). Additionally, users migrate to new forums when one is closed further increasing the difficulty of linking users across multiple forums. We develop a novel stylometry-based multitask learning approach for natural language and model interactions using graph embeddings to construct low-dimensional representations of short episodes of user activity for authorship attribution. We provide a comprehensive evaluation of our methods across four different darknet forums demonstrating its efficacy over the state-of-the-art, with a lift of up to 2.5X on Mean Retrieval Rank and 2X on Recall@10.
+Author{1}{Firstname}#=%=#Pranav
+Author{1}{Lastname}#=%=#Maneriker
+Author{1}{Username}#=%=#pranavmaneriker
+Author{1}{Email}#=%=#maneriker.1@buckeyemail.osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Yuntian
+Author{2}{Lastname}#=%=#He
+Author{2}{Username}#=%=#yuntian_osu
+Author{2}{Email}#=%=#he.1773@buckeyemail.osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#Srinivasan
+Author{3}{Lastname}#=%=#Parthasarathy
+Author{3}{Username}#=%=#srini-osu
+Author{3}{Email}#=%=#srini@cse.ohio-state.edu
+Author{3}{Affiliation}#=%=#The Ohio State University
+
+==========

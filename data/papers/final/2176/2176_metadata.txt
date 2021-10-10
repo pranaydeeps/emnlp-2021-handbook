@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#2176
+FinalPaperTitle#=%=#Data-QuestEval: A Referenceless Metric for Data-to-Text Semantic Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Clément Rebuffel
+JobTitle#==#
+Organization#==#
+Abstract#==#QuestEval is a reference-less metric used in text-to-text tasks, that compares the generated summaries directly to the source text, by automatically asking and answering questions. Its adaptation to Data-to-Text tasks is not straightforward, as it requires multimodal Question Generation and Answering systems on the considered tasks, which are seldom available. To this purpose, we propose a method to build synthetic multimodal corpora enabling to train multimodal components for a data-QuestEval metric. The resulting metric is reference-less and multimodal; it obtains state-of-the-art correlations with human judgment on the WebNLG and WikiBio benchmarks. We make data-QuestEval's code and models available for reproducibility purpose, as part of the QuestEval project.
+Author{1}{Firstname}#=%=#Clement
+Author{1}{Lastname}#=%=#Rebuffel
+Author{1}{Username}#=%=#clementr
+Author{1}{Email}#=%=#clement.rebuffel@lip6.fr
+Author{1}{Affiliation}#=%=#Sorbonne Universtité
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Scialom
+Author{2}{Username}#=%=#thomas_nlp
+Author{2}{Email}#=%=#thomas@recital.ai
+Author{2}{Affiliation}#=%=#reciTAL, LIP6
+Author{3}{Firstname}#=%=#Laure
+Author{3}{Lastname}#=%=#Soulier
+Author{3}{Username}#=%=#lauresoulier
+Author{3}{Email}#=%=#laure.soulier@lip6.fr
+Author{3}{Affiliation}#=%=#LIP6 Sorbonne Université
+Author{4}{Firstname}#=%=#Benjamin
+Author{4}{Lastname}#=%=#Piwowarski
+Author{4}{Username}#=%=#bpiwowar
+Author{4}{Email}#=%=#b@piwowarski.fr
+Author{4}{Affiliation}#=%=#CNRS, Sorbonne Universités, UPMC Univ Paris 06, LIP6 UMR 7606
+Author{5}{Firstname}#=%=#Sylvain
+Author{5}{Lastname}#=%=#Lamprier
+Author{5}{Username}#=%=#slamprier
+Author{5}{Email}#=%=#sylvain.lamprier@lip6.fr
+Author{5}{Affiliation}#=%=#LIP6 - SU
+Author{6}{Firstname}#=%=#Jacopo
+Author{6}{Lastname}#=%=#Staiano
+Author{6}{Username}#=%=#jacopostaiano
+Author{6}{Email}#=%=#jacopo@recital.ai
+Author{6}{Affiliation}#=%=#reciTAL
+Author{7}{Firstname}#=%=#Geoffrey
+Author{7}{Lastname}#=%=#Scoutheeten
+Author{7}{Username}#=%=#gscouth
+Author{7}{Email}#=%=#gscouth+softconf@gmail.com
+Author{7}{Affiliation}#=%=#BNP Paribas
+Author{8}{Firstname}#=%=#patrick
+Author{8}{Lastname}#=%=#Gallinari
+Author{8}{Username}#=%=#gallinari
+Author{8}{Email}#=%=#patrick.gallinari@lip6.fr
+Author{8}{Affiliation}#=%=#Sorbonne University, FR, Criteo AI Lab, Fr
+
+==========

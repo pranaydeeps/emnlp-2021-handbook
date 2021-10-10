@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#725
+FinalPaperTitle#=%=#Is Information Density Uniform in Task-Oriented Dialogues?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Mario Giulianelli
+JobTitle#==#
+Organization#==#Institute for Logic, Language and Computation
+University of Amsterdam
+P.O. Box 94242
+1090 GE Amsterdam, Netherlands
+Abstract#==#The Uniform Information Density principle states that speakers plan their utterances to reduce fluctuations in the density of the information transmitted. In this paper, we test whether, and within which contextual units this principle holds in task-oriented dialogues. We show that there is evidence supporting the principle in written dialogues where participants play a cooperative reference game as well as in spoken dialogues involving instruction giving and following. Our study underlines the importance of identifying the relevant contextual components, showing that information content increases particularly within topically and referentially related contextual units.
+Author{1}{Firstname}#=%=#Mario
+Author{1}{Lastname}#=%=#Giulianelli
+Author{1}{Username}#=%=#procope
+Author{1}{Email}#=%=#m.giulianelli@uva.nl
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Arabella
+Author{2}{Lastname}#=%=#Sinclair
+Author{2}{Username}#=%=#s0934062
+Author{2}{Email}#=%=#a.j.sinclair@uva.nl
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Raquel
+Author{3}{Lastname}#=%=#Fernández
+Author{3}{Username}#=%=#raquel
+Author{3}{Email}#=%=#raquel.fernandez@uva.nl
+Author{3}{Affiliation}#=%=#ILLC, University of Amsterdam
+
+==========

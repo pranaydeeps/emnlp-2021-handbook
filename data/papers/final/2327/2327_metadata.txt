@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#2327
+FinalPaperTitle#=%=#KnowMAN: Weakly Supervised Multinomial Adversarial Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Luisa März
+JobTitle#==#
+Organization#==#
+Abstract#==#The absence of labeled data for training neural models is often addressed by leveraging knowledge about the specific task, resulting in heuristic but noisy labels.
+The knowledge is captured in labeling functions, which detect certain regularities or patterns in the training samples and annotate corresponding labels for training. 
+This process of weakly supervised training may result in an over-reliance on the signals captured by the labeling functions and hinder models to exploit other signals or to generalize well.
+We propose KnowMAN, an adversarial scheme that enables to control influence of signals associated with specific labeling functions.
+KnowMAN forces the network to learn representations that are invariant to those signals and to pick up other signals that are more generally associated with an output label.
+KnowMAN strongly improves results compared to direct weakly supervised learning with a pre-trained transformer language model and a feature-based baseline.
+Author{1}{Firstname}#=%=#Luisa
+Author{1}{Lastname}#=%=#März
+Author{1}{Username}#=%=#luisa.berlanda
+Author{1}{Email}#=%=#luisa.k.maerz@gmail.com
+Author{1}{Affiliation}#=%=#University of Vienna
+Author{2}{Firstname}#=%=#Ehsaneddin
+Author{2}{Lastname}#=%=#Asgari
+Author{2}{Username}#=%=#asgari
+Author{2}{Email}#=%=#asgari@berkeley.edu
+Author{2}{Affiliation}#=%=#University of California, Berkeley
+Author{3}{Firstname}#=%=#Fabienne
+Author{3}{Lastname}#=%=#Braune
+Author{3}{Username}#=%=#braune
+Author{3}{Email}#=%=#braune.fabienne@gmail.com
+Author{3}{Affiliation}#=%=#Volkswagen AG
+Author{4}{Firstname}#=%=#Franziska
+Author{4}{Lastname}#=%=#Zimmermann
+Author{4}{Email}#=%=#franziska.zimmermann@volkswagen.de
+Author{4}{Affiliation}#=%=#Volkswagen Data:Lab
+Author{5}{Firstname}#=%=#Benjamin
+Author{5}{Lastname}#=%=#Roth
+Author{5}{Username}#=%=#beroth
+Author{5}{Email}#=%=#benjamin.roth@univie.ac.at
+Author{5}{Affiliation}#=%=#University of Vienna
+
+==========

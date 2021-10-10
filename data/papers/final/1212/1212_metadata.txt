@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1212
+FinalPaperTitle#=%=#Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xincheng Ju
+JobTitle#==#
+Organization#==#School of Computer Science and Technology, Soochow University, China
+Abstract#==#Aspect terms extraction (ATE) and aspect sentiment classification (ASC) are two fundamental and fine-grained sub-tasks in aspect-level sentiment analysis (ALSA). In the textual analysis, joint extracting both aspect terms and sentiment polarities has been drawn much attention due to the better applications than individual sub-task. However, in the multi-modal scenario, the existing studies are limited to handle each sub-task independently, which fails to model the innate connection between the above two objectives and ignores the better applications. Therefore, in this paper, we are the first to jointly perform multi-modal ATE (MATE) and multi-modal ASC (MASC), and we propose a multi-modal joint learning approach with auxiliary cross-modal relation detection for multi-modal aspect-level sentiment analysis (MALSA). Specifically, we first build an auxiliary text-image relation detection module to control the proper exploitation of visual information. Second, we adopt the hierarchical framework to bridge the multi-modal connection between MATE and MASC, as well as separately visual guiding for each sub module. Finally, we can obtain all aspect-level sentiment polarities dependent on the jointly extracted specific aspects. Extensive experiments show the effectiveness of our approach against the joint textual approaches, pipeline and collapsed multi-modal approaches.
+Author{1}{Firstname}#=%=#Xincheng
+Author{1}{Lastname}#=%=#Ju
+Author{1}{Username}#=%=#xcju
+Author{1}{Email}#=%=#xcju@stu.suda.edu.cn
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Dong
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#imorton
+Author{2}{Email}#=%=#dzhang@suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Rong
+Author{3}{Lastname}#=%=#Xiao
+Author{3}{Username}#=%=#runxiao
+Author{3}{Email}#=%=#xiaorong.xr@taobao.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Junhui
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lijunhui
+Author{4}{Email}#=%=#lijunhui26@gmail.com
+Author{4}{Affiliation}#=%=#Soochow University, Suzhou
+Author{5}{Firstname}#=%=#Shoushan
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#lishoushan
+Author{5}{Email}#=%=#lishoushan@suda.edu.cn
+Author{5}{Affiliation}#=%=#Soochow University
+Author{6}{Firstname}#=%=#Min
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#zhangminsuda
+Author{6}{Email}#=%=#minzhang@suda.edu.cn
+Author{6}{Affiliation}#=%=#Suda
+Author{7}{Firstname}#=%=#Guodong
+Author{7}{Lastname}#=%=#Zhou
+Author{7}{Username}#=%=#gdzhou
+Author{7}{Email}#=%=#gdzhou@suda.edu.cn
+Author{7}{Affiliation}#=%=#Soochow University
+
+==========

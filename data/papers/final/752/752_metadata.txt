@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#752
+FinalPaperTitle#=%=#A Large-Scale Dataset for Empathetic Response Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Anuradha Welivita
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent development in NLP shows a strong trend towards refining pre-trained models with a domain-specific dataset. This is especially the case for response generation where emotion plays an important role. However, existing empathetic datasets remain small, delaying research efforts in this area, for example, the development of emotion-aware chatbots. One main technical challenge has been the cost of manually annotating dialogues with the right emotion labels. In this paper, we describe a large-scale silver dataset consisting of 1M dialogues annotated with 32 fine-grained emotions, eight empathetic response intents, and the Neutral category. To achieve this goal, we have developed a novel data curation pipeline starting with a small seed of manually annotated data and eventually scaling it to a satisfactory size. We compare its quality against a state-of-the-art gold dataset using both offline experiments and visual validation methods. The resultant procedure can be used to create similar datasets in the same domain as well as in other domains.
+Author{1}{Firstname}#=%=#Anuradha
+Author{1}{Lastname}#=%=#Welivita
+Author{1}{Username}#=%=#anuradhaw
+Author{1}{Email}#=%=#kalpani.welivita@epfl.ch
+Author{1}{Affiliation}#=%=#École polytechnique fédérale de Lausanne
+Author{2}{Firstname}#=%=#Yubo
+Author{2}{Lastname}#=%=#Xie
+Author{2}{Username}#=%=#yuboxie
+Author{2}{Email}#=%=#yubo.xie@epfl.ch
+Author{2}{Affiliation}#=%=#EPFL
+Author{3}{Firstname}#=%=#Pearl
+Author{3}{Lastname}#=%=#Pu
+Author{3}{Username}#=%=#pearlpu
+Author{3}{Email}#=%=#pearl.pu@epfl.ch
+Author{3}{Affiliation}#=%=#EPFL
+
+==========

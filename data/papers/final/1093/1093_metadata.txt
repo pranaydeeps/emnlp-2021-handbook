@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1093
+FinalPaperTitle#=%=#Knowing False Negatives: An Adversarial Training Method for Distantly Supervised Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Wei Hu
+JobTitle#==#
+Organization#==#Nanjing University, 163 Xianlin Avenue, Nanjing 210023, China
+Abstract#==#Distantly supervised relation extraction (RE) automatically aligns unstructured text with relation instances in a knowledge base (KB). Due to the incompleteness of current KBs, sentences implying certain relations may be annotated as N/A instances, which causes the so-called false negative (FN) problem. Current RE methods usually overlook this problem, inducing improper biases in both training and testing procedures. To address this issue, we propose a two-stage approach. First, it finds out possible FN samples by heuristically leveraging the memory mechanism of deep neural networks. Then, it aligns those unlabeled data with the training data into a unified feature space by adversarial training to assign pseudo labels and further utilize the information contained in them. Experiments on two wildly-used benchmark datasets demonstrate the effectiveness of our approach.
+Author{1}{Firstname}#=%=#Kailong
+Author{1}{Lastname}#=%=#Hao
+Author{1}{Username}#=%=#klhao
+Author{1}{Email}#=%=#klhao.nju@gmail.com
+Author{1}{Affiliation}#=%=#Nanjing University
+Author{2}{Firstname}#=%=#Botao
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Username}#=%=#botaoyu
+Author{2}{Email}#=%=#btyu.nju@gmail.com
+Author{2}{Affiliation}#=%=#Nanjing University
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Hu
+Author{3}{Username}#=%=#whu
+Author{3}{Email}#=%=#whu@nju.edu.cn
+Author{3}{Affiliation}#=%=#Nanjing University
+
+==========

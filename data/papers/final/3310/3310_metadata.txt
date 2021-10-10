@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#3310
+FinalPaperTitle#=%=#PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Torsten Scholak
+JobTitle#==#
+Organization#==#ServiceNow 6650 St Urbain Street, Suite 500
+Montreal, QC H2S 3G9
+Canada
+Abstract#==#Large pre-trained language models for textual data have an unconstrained output space;
+at each decoding step, they can produce any of 10,000s of sub-word tokens. When fine-tuned to target constrained formal languages like SQL, these models often generate invalid code, rendering it unusable. We propose PICARD (code available at https://github.com/ElementAI/picard), a method for constraining auto-regressive decoders of language models through incremental parsing. PICARD helps to find valid output sequences by rejecting inadmissible tokens at each decoding step. On the challenging Spider and CoSQL text-to-SQL translation tasks, we show that PICARD transforms fine-tuned T5 models with passable performance into state-of-the-art solutions.
+Author{1}{Firstname}#=%=#Torsten
+Author{1}{Lastname}#=%=#Scholak
+Author{1}{Username}#=%=#tscholak
+Author{1}{Email}#=%=#torsten.scholak@googlemail.com
+Author{1}{Affiliation}#=%=#Element AI, a ServiceNow company
+Author{2}{Firstname}#=%=#Nathan
+Author{2}{Lastname}#=%=#Schucher
+Author{2}{Email}#=%=#nathan.schucher@servicenow.com
+Author{2}{Affiliation}#=%=#Element AI, a ServiceNow company
+Author{3}{Firstname}#=%=#Dzmitry
+Author{3}{Lastname}#=%=#Bahdanau
+Author{3}{Username}#=%=#dimabgv
+Author{3}{Email}#=%=#dimabgv@gmail.com
+Author{3}{Affiliation}#=%=#Element AI, a ServiceNow company
+
+==========

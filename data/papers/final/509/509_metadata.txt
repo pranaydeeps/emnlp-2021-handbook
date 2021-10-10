@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#509
+FinalPaperTitle#=%=#Types of Out-of-Distribution Texts and How to Detect Them
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Udit Arora
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite agreement on the importance of detecting out-of-distribution (OOD) examples, there is little consensus on the formal definition of the distribution shifts of OOD examples and how to best detect them. We categorize these examples as exhibiting a background shift or semantic shift, and find that the two major approaches to OOD detection, calibration and density estimation (language modeling for text), have distinct behavior on these types of OOD data. Across 14 pairs of in-distribution and OOD English natural language understanding datasets, we find that density estimation methods consistently beat calibration methods in background shift settings and perform worse in semantic shift settings. In addition, we find that both methods generally fail to detect examples from challenge data, indicating that these examples constitute a different type of OOD data. Overall, while the categorization we apply explains many of the differences between the two methods, our results call for a more explicit definition of OOD to create better benchmarks and build detectors that can target the type of OOD data expected at test time.
+Author{1}{Firstname}#=%=#Udit
+Author{1}{Lastname}#=%=#Arora
+Author{1}{Username}#=%=#uditarora
+Author{1}{Email}#=%=#uditarora@nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#William
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Username}#=%=#wh629
+Author{2}{Email}#=%=#william.huang@capitalone.com
+Author{2}{Affiliation}#=%=#Capital One
+Author{3}{Firstname}#=%=#He
+Author{3}{Lastname}#=%=#He
+Author{3}{Username}#=%=#hhe
+Author{3}{Email}#=%=#hhe.xiy@gmail.com
+Author{3}{Affiliation}#=%=#New York University
+
+==========

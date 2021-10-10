@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1410
+FinalPaperTitle#=%=#APIRecX: Cross-Library API Recommendation via Pre-Trained Language Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yuning Kang
+JobTitle#==#
+Organization#==#College of Intelligence of and Computing, Tianjin University, Tianjin, China
+Abstract#==#For programmers, learning the usage of APIs  (Application Programming Interfaces) of a software library is important yet difficult. API recommendation tools can help developers use APIs by recommending which APIs to be used next given the APIs that have been written. Traditionally, language models such as N-gram are applied to API recommendation. However, because the software libraries keep changing and new libraries keep emerging, new APIs are common. These new APIs can be seen as OOV (out of vocabulary) words and cannot be handled well by existing API recommendation approaches due to the lack of training data. In this paper, we propose APIRecX, the first cross-library API recommendation approach, which uses BPE to split each API call in each API sequence and pre-trains a GPT based language model. It then recommends APIs by fine-tuning the pre-trained model. APIRecX can migrate the knowledge of existing libraries to a new library, and can recommend APIs that are previously regarded as OOV. We evaluate APIRecX on six libraries and the results confirm its effectiveness by comparing with two typical API recommendation approaches.
+Author{1}{Firstname}#=%=#Yuning
+Author{1}{Lastname}#=%=#Kang
+Author{1}{Username}#=%=#kangyuning
+Author{1}{Email}#=%=#kangyuning@tju.edu.cn
+Author{1}{Affiliation}#=%=#Tianjin University
+Author{2}{Firstname}#=%=#Zan
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangzan
+Author{2}{Email}#=%=#wangzan@tju.edu.cn
+Author{2}{Affiliation}#=%=#Tianjin University
+Author{3}{Firstname}#=%=#Hongyu
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#hongyujohn
+Author{3}{Email}#=%=#hongyujohn@gmail.com
+Author{3}{Affiliation}#=%=#University of Newcastle
+Author{4}{Firstname}#=%=#Junjie
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#junjiechen@tju.edu.cn
+Author{4}{Affiliation}#=%=#Tianjin university
+Author{5}{Firstname}#=%=#Hanmo
+Author{5}{Lastname}#=%=#You
+Author{5}{Username}#=%=#youhanmo
+Author{5}{Email}#=%=#youhanmo@tju.edu.cn
+Author{5}{Affiliation}#=%=#Tianjin University
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#236
+FinalPaperTitle#=%=#Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jingun Kwon
+JobTitle#==#
+Organization#==#
+Abstract#==#Sentence extractive summarization shortens a document by selecting sentences for a summary while preserving its important contents. However, constructing a coherent and informative summary is difficult using a pre-trained BERT-based encoder since it is not explicitly trained for representing the information of sentences in a document.  
+We propose a nested tree-based extractive summarization model on RoBERTa (NeRoBERTa), 
+where nested tree structures consist of syntactic and discourse trees in a given document.
+Experimental results on the CNN/DailyMail dataset showed that NeRoBERTa outperforms baseline models in ROUGE. Human evaluation results also showed that NeRoBERTa achieves significantly better scores than the baselines in terms of coherence and yields comparable scores to the state-of-the-art models.
+Author{1}{Firstname}#=%=#Jingun
+Author{1}{Lastname}#=%=#Kwon
+Author{1}{Username}#=%=#stylenote91
+Author{1}{Email}#=%=#stylenote91@gmail.com
+Author{1}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{2}{Firstname}#=%=#Naoki
+Author{2}{Lastname}#=%=#Kobayashi
+Author{2}{Username}#=%=#kobayasi
+Author{2}{Email}#=%=#kobayasi@lr.pi.titech.ac.jp
+Author{2}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{3}{Firstname}#=%=#Hidetaka
+Author{3}{Lastname}#=%=#Kamigaito
+Author{3}{Username}#=%=#gaito
+Author{3}{Email}#=%=#kamigaito@lr.pi.titech.ac.jp
+Author{3}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{4}{Firstname}#=%=#Manabu
+Author{4}{Lastname}#=%=#Okumura
+Author{4}{Username}#=%=#oku
+Author{4}{Email}#=%=#oku@pi.titech.ac.jp
+Author{4}{Affiliation}#=%=#Tokyo Institute of Technology
+
+==========

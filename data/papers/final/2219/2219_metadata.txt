@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#2219
+FinalPaperTitle#=%=#Is “moby dick” a Whale or a Bird? Named Entities and Terminology in Speech Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Marco Gaido
+JobTitle#==#
+Organization#==#Fondazione Bruno Kessler, via Sommarive 18, Trento, 38123 (Italy)
+Abstract#==#Automatic translation systems are known to struggle with rare words. Among these, named entities (NEs) and domain-specific terms are crucial, since errors in their translation can lead to severe meaning distortions. Despite their importance, previous speech translation (ST) studies have neglected them, also due to the dearth of publicly available resources tailored to their specific evaluation. To fill this gap, we i) present the first systematic analysis of the behavior of state-of-the-art ST systems in translating NEs and terminology, and ii) release NEuRoparl-ST, a novel benchmark built from European Parliament speeches annotated with NEs and terminology. Our experiments on the three language directions covered by our benchmark (en→es/fr/it) show that ST systems correctly translate 75–80% of terms and 65–70% of NEs, with very low performance (37–40%) on person names.
+Author{1}{Firstname}#=%=#Marco
+Author{1}{Lastname}#=%=#Gaido
+Author{1}{Username}#=%=#mgaido91
+Author{1}{Email}#=%=#mgaido@fbk.eu
+Author{1}{Affiliation}#=%=#Fondazione Bruno Kessler, University of Trento
+Author{2}{Firstname}#=%=#Susana
+Author{2}{Lastname}#=%=#Rodríguez
+Author{2}{Email}#=%=#susana@smarter-interpreting.eu
+Author{2}{Affiliation}#=%=#Independent Researcher
+Author{3}{Firstname}#=%=#Matteo
+Author{3}{Lastname}#=%=#Negri
+Author{3}{Username}#=%=#negri
+Author{3}{Email}#=%=#negri@fbk.eu
+Author{3}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{4}{Firstname}#=%=#Luisa
+Author{4}{Lastname}#=%=#Bentivogli
+Author{4}{Username}#=%=#bentivo
+Author{4}{Email}#=%=#bentivo@fbk.eu
+Author{4}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{5}{Firstname}#=%=#Marco
+Author{5}{Lastname}#=%=#Turchi
+Author{5}{Username}#=%=#turchmo
+Author{5}{Email}#=%=#marco.turchi@gmail.com
+Author{5}{Affiliation}#=%=#Fondazione Bruno Kessler
+
+==========

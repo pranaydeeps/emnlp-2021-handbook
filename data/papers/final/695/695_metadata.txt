@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#695
+FinalPaperTitle#=%=#{FANATIC}: {FA}st {N}oise-{A}ware {T}op{I}c {C}lustering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Extracting salient topics from a collection of documents can be a challenging task when
+a) the amount of data is large, b) the number of topics is not known a priori, and/or c) "topic noise'' is present. We define "topic noise" as the collection of documents that are irrelevant to any coherent topic and should be filtered out. By design, most clustering algorithms (e.g. k-means, hierarchical clustering) assign all input documents to one of the available clusters, guaranteeing any topic noise to propagate into the result. To address these challenges, we present a novel algorithm, {FANATIC}, that efficiently distinguishes documents from genuine topics and those that are topic noise. We also introduce a new {R}eddit dataset to showcase {FANATIC} as it contains short, noisy data that is difficult to cluster using most clustering algorithms. We find that {FANATIC} clusters 500k {R}eddit titles (of which 20% are topic noise) in 2 minutes and achieves an {AMI} score of 0.59, in contrast with hdbscan (McInnes et al., 2017), a popular algorithm suited for this type of task, which requires over 7 hours and achieves an {AMI} of 0.03. Finally, we test {FANATIC} against a {T}witter dataset and find again that it outperforms the other algorithms with an {AMI} score of 0.60. We make our code and data publicly available.
+Author{1}{Firstname}#=%=#Ari
+Author{1}{Lastname}#=%=#Silburt
+Author{1}{Username}#=%=#asilburt
+Author{1}{Email}#=%=#asilburt@bloomberg.net
+Author{1}{Affiliation}#=%=#Bloomberg
+Author{2}{Firstname}#=%=#Anja
+Author{2}{Lastname}#=%=#Subasic
+Author{2}{Username}#=%=#asubasic
+Author{2}{Email}#=%=#asubasic@bloomberg.net
+Author{2}{Affiliation}#=%=#Bloomberg LP
+Author{3}{Firstname}#=%=#Evan
+Author{3}{Lastname}#=%=#Thompson
+Author{3}{Username}#=%=#evanmt13
+Author{3}{Email}#=%=#ethompson64@bloomberg.net
+Author{3}{Affiliation}#=%=#Bloomberg L.P.
+Author{4}{Firstname}#=%=#Carmeline
+Author{4}{Lastname}#=%=#Dsilva
+Author{4}{Username}#=%=#cdsilva
+Author{4}{Email}#=%=#cdsilva3@bloomberg.net
+Author{4}{Affiliation}#=%=#Bloomberg
+Author{5}{Firstname}#=%=#Tarec
+Author{5}{Lastname}#=%=#Fares
+Author{5}{Username}#=%=#tfares1
+Author{5}{Email}#=%=#tfares1@bloomberg.net
+Author{5}{Affiliation}#=%=#Bloomberg LP
+
+==========

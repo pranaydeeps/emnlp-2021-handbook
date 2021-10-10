@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#1940
+FinalPaperTitle#=%=#Topic Transferable Table Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Saneem ahmed Chemmengath
+JobTitle#==#
+Organization#==#
+Abstract#==#Weakly-supervised table question-answering (TableQA) models have achieved state-of-art performance by using pre-trained BERT transformer to jointly encoding a question and a table to produce structured query for the question. However, in practical settings TableQA systems are deployed over table corpora having topic and word distributions quite distinct from BERT's pretraining corpus. In this work we simulate the practical topic shift scenario by designing novel challenge benchmarks WikiSQL-TS and WikiTable-TS, consisting of train-dev-test splits in five distinct topic groups, based on the popular WikiSQL and WikiTable-Questions datasets. We empirically show that, despite pre-training on large open-domain text, performance of models degrades significantly when they are evaluated on unseen topics.
+In response, we propose T3QA (Topic Transferable Table Question Answering) a pragmatic adaptation framework for TableQA comprising of: (1) topic-specific vocabulary injection into BERT, (2) a novel text-to-text transformer generator (such as T5, GPT2) based natural language question generation pipeline focused on generating topic-specific training data, and (3) a logical form re-ranker.  We show that T3QA provides a reasonably good baseline for our topic shift benchmarks. We believe our topic split benchmarks will lead to robust TableQA solutions that are better suited for practical deployment
+Author{1}{Firstname}#=%=#Saneem
+Author{1}{Lastname}#=%=#Chemmengath
+Author{1}{Username}#=%=#saneem.cg
+Author{1}{Email}#=%=#saneem.cg@in.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research AI
+Author{2}{Firstname}#=%=#Vishwajeet
+Author{2}{Lastname}#=%=#Kumar
+Author{2}{Username}#=%=#vishwajeet
+Author{2}{Email}#=%=#vishk024@in.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research AI
+Author{3}{Firstname}#=%=#Samarth
+Author{3}{Lastname}#=%=#Bharadwaj
+Author{3}{Username}#=%=#samarthb
+Author{3}{Email}#=%=#samarth.b@in.ibm.com
+Author{3}{Affiliation}#=%=#Senior Research Scientist
+Author{4}{Firstname}#=%=#Jaydeep
+Author{4}{Lastname}#=%=#Sen
+Author{4}{Username}#=%=#jaydeepsen
+Author{4}{Email}#=%=#jaydesen@in.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research AI
+Author{5}{Firstname}#=%=#Mustafa
+Author{5}{Lastname}#=%=#Canim
+Author{5}{Username}#=%=#mustafacanim
+Author{5}{Email}#=%=#mustafa@us.ibm.com
+Author{5}{Affiliation}#=%=#ibm.com
+Author{6}{Firstname}#=%=#Soumen
+Author{6}{Lastname}#=%=#Chakrabarti
+Author{6}{Username}#=%=#soumen
+Author{6}{Email}#=%=#soumen.chakrabarti@gmail.com
+Author{6}{Affiliation}#=%=#IIT Bombay
+Author{7}{Firstname}#=%=#Alfio
+Author{7}{Lastname}#=%=#Gliozzo
+Author{7}{Username}#=%=#gliozzo
+Author{7}{Email}#=%=#gliozzo@us.ibm.com
+Author{7}{Affiliation}#=%=#IBM Research AI
+Author{8}{Firstname}#=%=#Karthik
+Author{8}{Lastname}#=%=#Sankaranarayanan
+Author{8}{Username}#=%=#kartsank
+Author{8}{Email}#=%=#kartsank@in.ibm.com
+Author{8}{Affiliation}#=%=#IBM Reseach
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#On the Language-specificity of Multilingual BERT and the Impact of Fine-tuning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Marc Tanti
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent work has shown evidence that the knowledge acquired by multilingual BERT (mBERT) has two components: a language-specific and a language-neutral one. This paper analyses the relationship between them, in the context of fine-tuning on two tasks -- POS tagging and natural language inference -- which require the model to bring to bear different degrees of language-specific knowledge. Visualisations reveal that mBERT loses the ability to cluster representations by language after fine-tuning, a result that is supported by evidence from language identification experiments. However, further experiments on `unlearning' language-specific representations using gradient reversal and iterative adversarial learning are shown not to add further improvement to the language-independent component over and above the effect of fine-tuning. The results presented here suggest that the process of fine-tuning causes a reorganisation of the model's limited representational capacity, enhancing language-independent representations at the expense of language-specific ones.
+Author{1}{Firstname}#=%=#Marc
+Author{1}{Lastname}#=%=#Tanti
+Author{1}{Username}#=%=#mtanti
+Author{1}{Email}#=%=#marc.tanti@um.edu.mt
+Author{1}{Affiliation}#=%=#University of Malta
+Author{2}{Firstname}#=%=#Lonneke
+Author{2}{Lastname}#=%=#van der Plas
+Author{2}{Username}#=%=#lonnekevdplas
+Author{2}{Email}#=%=#lonneke.vanderplas@idiap.ch
+Author{2}{Affiliation}#=%=#Idiap Reserach Institute and University of Malta
+Author{3}{Firstname}#=%=#Claudia
+Author{3}{Lastname}#=%=#Borg
+Author{3}{Username}#=%=#claudiaborg
+Author{3}{Email}#=%=#claudia.borg@um.edu.mt
+Author{3}{Affiliation}#=%=#University of Malta
+Author{4}{Firstname}#=%=#Albert
+Author{4}{Lastname}#=%=#Gatt
+Author{4}{Username}#=%=#albert
+Author{4}{Email}#=%=#a.gatt@uu.nl
+Author{4}{Affiliation}#=%=#Utrecht University
+
+==========

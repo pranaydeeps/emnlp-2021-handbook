@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3718
+FinalPaperTitle#=%=#NOAHQA: Numerical Reasoning with Interpretable Graph Question Answering Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Qiyuan Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#While diverse question answering (QA) datasets have been proposed and contributed significantly to the development of deep learning models for QA tasks, the existing datasets fall short in two aspects. First, we lack QA datasets covering complex questions that involve answers as well as the reasoning processes to get them. As a result, the state-of-the-art QA research on numerical reasoning still focuses on simple calculations and does not provide the mathematical expressions or evidence justifying the answers. Second, the QA community has contributed a lot of effort to improve the interpretability of QA models. However, they fail to explicitly show the reasoning process, such as the evidence order for reasoning and the interactions between different pieces of evidence. To address the above shortcoming, we introduce NOAHQA, a conversational and bilingual QA dataset with questions requiring numerical reasoning with compound mathematical expressions. With NOAHQA, we develop an interpretable reasoning graph as well as the appropriate evaluation metric to measure the answer quality.  We evaluate the state-of-the-art QA models trained using existing QA datasets on NOAHQA and show that the best among them can only achieve 55.5 exact match scores, while the human performance is 89.7. We also present a new QA model for generating a reasoning graph where the reasoning graph metric still has a large gap compared with that of humans, eg, 28 scores.
+Author{1}{Firstname}#=%=#Qiyuan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#qiyuanzhang
+Author{1}{Email}#=%=#qiyuanzhang97@gmail.com
+Author{1}{Affiliation}#=%=#University of Electronic Science and Technology of China
+Author{2}{Firstname}#=%=#Lei
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#demolei
+Author{2}{Email}#=%=#lei.wang.2019@phdcs.smu.edu.sg
+Author{2}{Affiliation}#=%=#Singapore Management University
+Author{3}{Firstname}#=%=#Sicheng
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#ridyzz2011
+Author{3}{Email}#=%=#scyu.2018@phdcs.smu.edu.sg
+Author{3}{Affiliation}#=%=#Singapore Management University
+Author{4}{Firstname}#=%=#Shuohang
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#shwang
+Author{4}{Email}#=%=#shuowa@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Yang
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Username}#=%=#leonwyang
+Author{5}{Email}#=%=#utleonwang@gmail.com
+Author{5}{Affiliation}#=%=#Verily Life Sciences
+Author{6}{Firstname}#=%=#Jing
+Author{6}{Lastname}#=%=#Jiang
+Author{6}{Username}#=%=#jingjiang
+Author{6}{Email}#=%=#jingjiang@smu.edu.sg
+Author{6}{Affiliation}#=%=#Singapore Management University
+Author{7}{Firstname}#=%=#Ee-Peng
+Author{7}{Lastname}#=%=#Lim
+Author{7}{Username}#=%=#eplim
+Author{7}{Email}#=%=#eplim@smu.edu.sg
+Author{7}{Affiliation}#=%=#Singapore Management University
+
+==========

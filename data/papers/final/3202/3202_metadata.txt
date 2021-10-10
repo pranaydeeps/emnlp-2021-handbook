@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#3202
+FinalPaperTitle#=%=#MURAL: Multimodal, Multitask Representations Across Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Aashi Jain
+JobTitle#==#
+Organization#==#Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043
+Abstract#==#Both image-caption pairs and translation pairs provide the means to learn deep representations of and connections between languages. We use both types of pairs in MURAL (MUltimodal, MUltitask Representations Across Languages), a dual encoder that solves two tasks: 1) image-text matching and 2) translation pair matching. By incorporating billions of translation pairs, MURAL extends ALIGN (Jia et al.)--a state-of-the-art dual encoder learned from 1.8 billion noisy image-text pairs. When using the same encoders, MURAL's performance matches or exceeds ALIGN's cross-modal retrieval performance on well-resourced languages across several datasets. More importantly, it considerably improves performance on under-resourced languages, showing that text-text learning can overcome a paucity of image-caption examples for these languages. On the Wikipedia Image-Text dataset, for example, MURAL-base improves zero-shot mean recall by 8.1\% on average for eight under-resourced languages and by 6.8\% on average when fine-tuning. We additionally show that MURAL's text representations cluster not only with respect to genealogical connections but also based on areal linguistics, such as the Balkan Sprachbund.
+Author{1}{Firstname}#=%=#Aashi
+Author{1}{Lastname}#=%=#Jain
+Author{1}{Username}#=%=#aashi7jain
+Author{1}{Email}#=%=#aashijain@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Mandy
+Author{2}{Lastname}#=%=#Guo
+Author{2}{Username}#=%=#mandyguo
+Author{2}{Email}#=%=#xyguo@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Krishna
+Author{3}{Lastname}#=%=#Srinivasan
+Author{3}{Username}#=%=#krishna2
+Author{3}{Email}#=%=#krishnaps@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Ting
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#chentingpc
+Author{4}{Email}#=%=#iamtingchen@gmail.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Sneha
+Author{5}{Lastname}#=%=#Kudugunta
+Author{5}{Username}#=%=#snehark
+Author{5}{Email}#=%=#snehakudugunta@google.com
+Author{5}{Affiliation}#=%=#Google AI
+Author{6}{Firstname}#=%=#Chao
+Author{6}{Lastname}#=%=#Jia
+Author{6}{Username}#=%=#kurtjc
+Author{6}{Email}#=%=#kurtjc@gmail.com
+Author{6}{Affiliation}#=%=#Google Research
+Author{7}{Firstname}#=%=#Yinfei
+Author{7}{Lastname}#=%=#Yang
+Author{7}{Username}#=%=#yinfeiy
+Author{7}{Email}#=%=#yangyin7@gmail.com
+Author{7}{Affiliation}#=%=#Google
+Author{8}{Firstname}#=%=#Jason
+Author{8}{Lastname}#=%=#Baldridge
+Author{8}{Username}#=%=#jbaldrid
+Author{8}{Email}#=%=#jasonbaldridge@google.com
+Author{8}{Affiliation}#=%=#google.com
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1401
+FinalPaperTitle#=%=#Visually Grounded Reasoning across Languages and Cultures
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Fangyu Liu
+JobTitle#==#
+Organization#==#University of Cambridge, Cambridge, UK
+Abstract#==#The design of widespread vision-and-language datasets and pre-trained encoders directly adopts, or draws inspiration from, the concepts and images of ImageNet. While one can hardly overestimate how much this benchmark contributed to progress in computer vision, it is mostly derived from lexical databases and image queries in English, resulting in source material with a North American or Western European bias. Therefore, we devise a new protocol to construct an ImageNet-style hierarchy representative of more languages and cultures. In particular, we let the selection of both concepts and images be entirely driven by native speakers, rather than scraping them automatically. Specifically, we focus on a typologically diverse set of languages, namely, Indonesian, Mandarin Chinese, Swahili, Tamil, and Turkish. On top of the concepts and images obtained through this new protocol, we create a multilingual dataset for Multicultural Reasoning over Vision and Language (MaRVL) by eliciting statements from native speaker annotators about pairs of images. The task consists of discriminating whether each grounded statement is true or false. We establish a series of baselines using state-of-the-art models and find that their cross-lingual transfer performance lags dramatically behind supervised performance in English. These results invite us to reassess the robustness and accuracy of current state-of-the-art models beyond a narrow domain, but also open up new exciting challenges for the development of truly multilingual and multicultural systems.
+Author{1}{Firstname}#=%=#Fangyu
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#liugfangyu1996
+Author{1}{Email}#=%=#fl399@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Emanuele
+Author{2}{Lastname}#=%=#Bugliarello
+Author{2}{Username}#=%=#bugliarello.e
+Author{2}{Email}#=%=#emanuele@di.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Firstname}#=%=#Edoardo Maria
+Author{3}{Lastname}#=%=#Ponti
+Author{3}{Username}#=%=#ducadauge
+Author{3}{Email}#=%=#edoardo-maria.ponti@mila.quebec
+Author{3}{Affiliation}#=%=#Mila Montreal / University of Cambridge
+Author{4}{Firstname}#=%=#Siva
+Author{4}{Lastname}#=%=#Reddy
+Author{4}{Username}#=%=#sivareddy
+Author{4}{Email}#=%=#siva.reddy@mila.quebec
+Author{4}{Affiliation}#=%=#McGill University
+Author{5}{Firstname}#=%=#Nigel
+Author{5}{Lastname}#=%=#Collier
+Author{5}{Username}#=%=#collier
+Author{5}{Email}#=%=#nhc30@cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+Author{6}{Firstname}#=%=#Desmond
+Author{6}{Lastname}#=%=#Elliott
+Author{6}{Username}#=%=#delliott
+Author{6}{Email}#=%=#de@di.ku.dk
+Author{6}{Affiliation}#=%=#University of Copenhagen
+
+==========

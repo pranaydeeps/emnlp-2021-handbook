@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#2775
+FinalPaperTitle#=%=#Rethinking Data Augmentation for Low-Resource Neural Machine Translation: A Multi-Task Learning Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Víctor M. Sánchez-Cartagena
+JobTitle#==#
+Organization#==#Universidad de Alicante
+Carretera San Vicente del Raspeig s/n
+03690 San Vicente del Raspeig - Alicante 
+Spain
+Abstract#==#In the context of neural machine translation, data augmentation (DA) techniques may be used for generating additional training samples when the available parallel data are scarce. Many DA approaches aim at expanding the support of the empirical data distribution by generating new sentence pairs that contain infrequent words, thus making it closer to the true data distribution of parallel sentences. In this paper, we propose to follow a completely different approach and present a multi-task DA approach in which we generate new sentence pairs with transformations, such as reversing the order of the target sentence, which produce unfluent target sentences. During training, these augmented sentences are used as auxiliary tasks in a multi-task framework with the aim of providing new contexts where the target prefix is not informative enough to predict the next word. This strengthens the encoder and forces the decoder to pay more attention to the source representations of the encoder. Experiments carried out on six low-resource translation tasks show consistent improvements over the baseline and over DA methods aiming at extending the support of the empirical data distribution. The systems trained with our approach rely more on the source tokens, are more robust against domain shift and suffer less hallucinations.
+Author{1}{Firstname}#=%=#Víctor M.
+Author{1}{Lastname}#=%=#Sánchez-Cartagena
+Author{1}{Username}#=%=#vmsanchez
+Author{1}{Email}#=%=#vmsanchez@dlsi.ua.es
+Author{1}{Affiliation}#=%=#Universitat d'Alacant
+Author{2}{Firstname}#=%=#Miquel
+Author{2}{Lastname}#=%=#Esplà-Gomis
+Author{2}{Username}#=%=#mespla
+Author{2}{Email}#=%=#mespla@dlsi.ua.es
+Author{2}{Affiliation}#=%=#Universitat d'Alacant
+Author{3}{Firstname}#=%=#Juan Antonio
+Author{3}{Lastname}#=%=#Pérez-Ortiz
+Author{3}{Username}#=%=#japerez
+Author{3}{Email}#=%=#japerez@dlsi.ua.es
+Author{3}{Affiliation}#=%=#Departament de Llenguatges i Sistemes Informàtics, Universitat d'Alacant
+Author{4}{Firstname}#=%=#Felipe
+Author{4}{Lastname}#=%=#Sánchez-Martínez
+Author{4}{Username}#=%=#fsanchez
+Author{4}{Email}#=%=#fsanchez@dlsi.ua.es
+Author{4}{Affiliation}#=%=#Universitat d'Alacant
+
+==========

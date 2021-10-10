@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#46
+FinalPaperTitle#=%=#Learning from Limited Labels for Long Legal Dialogue
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Jenny Hong
+JobTitle#==#
+Organization#==#
+Abstract#==#We study attempting to achieve high accuracy information extraction of case factors from a challenging dataset of parole hearings, which, compared to other legal NLP datasets, has longer texts, with fewer labels. On this co pus, existing work directly applying pretrained neural models has failed to extract all but a few relatively basic items with little improvement over rule-based extraction. We address two challenges posed by existing work: training on long documents and reasoning over complex speech patterns. We use a similar approach to the two-step open-domain question answering approach by using a Reducer to extract relevant text segments and a Producer to generate both extractive answers and non-extractive classifications. In a context like ours, with limited labeled data, we show that a superior approach for strong performance within limited development time is to use a combination of a rule-based Reducer and a neural Producer. We study four representative tasks from the parole dataset. On all four, we improve extraction from the previous benchmark of 0.41–0.63 to 0.83–0.89 F1.
+Author{1}{Firstname}#=%=#Jenny
+Author{1}{Lastname}#=%=#Hong
+Author{1}{Username}#=%=#jennyhong
+Author{1}{Email}#=%=#jyunhong@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Derek
+Author{2}{Lastname}#=%=#Chong
+Author{2}{Username}#=%=#derekch
+Author{2}{Email}#=%=#derekch@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Christopher
+Author{3}{Lastname}#=%=#Manning
+Author{3}{Username}#=%=#manning
+Author{3}{Email}#=%=#manning@cs.stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+
+==========

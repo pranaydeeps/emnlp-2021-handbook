@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#2849
+FinalPaperTitle#=%=#Finding needles in a haystack: Sampling Structurally-diverse Training Sets from Synthetic Data for Compositional Generalization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Inbar Oren
+JobTitle#==#
+Organization#==#Tel Aviv University, P.O. Box 39040, Tel Aviv 6997801, Israel
+Abstract#==#Modern semantic parsers suffer from two principal limitations. First, training requires expensive collection of utterance-program pairs. Second, semantic parsers fail to generalize at test time to new compositions/structures that have not been observed during training. Recent research has shown that automatic generation of synthetic utterance-program pairs can alleviate the first problem, but its potential for the second has thus far been under-explored. 
+In this work, we investigate automatic generation of synthetic utterance-program pairs for improving compositional generalization in semantic parsing. Given a small training set of annotated examples and an “infinite” pool of synthetic examples, we select a subset of synthetic examples that are structurally-diverse and use them to improve compositional generalization. 
+We evaluate our approach on a new split of the schema2QA dataset, and show that it leads to dramatic improvements in compositional generalization as well as moderate improvements in the traditional i.i.d setup. Moreover, structurally-diverse sampling achieves these improvements with as few as 5K examples, compared to 1M examples when sampling uniformly at random -- a 200x improvement in data efficiency.
+Author{1}{Firstname}#=%=#Inbar
+Author{1}{Lastname}#=%=#Oren
+Author{1}{Username}#=%=#inbaroren
+Author{1}{Email}#=%=#inbaroren@mail.tau.ac.il
+Author{1}{Affiliation}#=%=#Tel Aviv University
+Author{2}{Firstname}#=%=#Jonathan
+Author{2}{Lastname}#=%=#Herzig
+Author{2}{Username}#=%=#jonathan_h
+Author{2}{Email}#=%=#jherzig@gmail.com
+Author{2}{Affiliation}#=%=#Tel-Aviv University
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Berant
+Author{3}{Username}#=%=#joberant
+Author{3}{Email}#=%=#joberant@cs.tau.ac.il
+Author{3}{Affiliation}#=%=#Tel Aviv University and AI2
+
+==========

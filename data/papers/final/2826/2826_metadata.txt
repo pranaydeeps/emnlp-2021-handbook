@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2826
+FinalPaperTitle#=%=#Continual Few-Shot Learning for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Ramakanth Pasunuru
+JobTitle#==#
+Organization#==#UNC Chapel Hill
+Abstract#==#Natural Language Processing (NLP) is increasingly relying on general end-to-end systems that need to handle many different linguistic phenomena and nuances. For example, a Natural Language Inference (NLI) system has to recognize sentiment, handle numbers, perform coreference, etc. Our solutions to complex problems are still far from perfect, so it is important to create systems that can learn to correct mistakes quickly, incrementally, and with little training data. In this work, we propose a continual few-shot learning (CFL) task, in which a system is challenged with a difficult phenomenon and asked to learn to correct mistakes with only a few (10 to 15) training examples. To this end, we first create benchmarks based on previously annotated data: two NLI (ANLI and SNLI) and one sentiment analysis (IMDB) datasets. Next, we present various baselines from diverse paradigms (e.g., memory-aware synapses and Prototypical networks) and compare them on few-shot learning and continual few-shot learning setups. Our contributions are in creating a benchmark suite and evaluation protocol for continual few-shot learning on the text classification tasks, and making several interesting observations on the behavior of similarity-based methods. We hope that our work serves as a useful starting point for future work on this important topic.
+Author{1}{Firstname}#=%=#Ramakanth
+Author{1}{Lastname}#=%=#Pasunuru
+Author{1}{Username}#=%=#ram1729
+Author{1}{Email}#=%=#ram@cs.unc.edu
+Author{1}{Affiliation}#=%=#UNC Chapel Hill
+Author{2}{Firstname}#=%=#Veselin
+Author{2}{Lastname}#=%=#Stoyanov
+Author{2}{Username}#=%=#ves
+Author{2}{Email}#=%=#vesko.st@gmail.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Mohit
+Author{3}{Lastname}#=%=#Bansal
+Author{3}{Username}#=%=#mbansal
+Author{3}{Email}#=%=#mbansal@cs.unc.edu
+Author{3}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+
+==========

@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#199
+FinalPaperTitle#=%=#Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kun Wu
+JobTitle#==#
+Organization#==#
+Abstract#==#Data augmentation has attracted a lot of research attention in the deep learning era for its ability in alleviating data sparseness. The lack of labeled data for unseen evaluation databases is exactly the major challenge for cross-domain text-to-SQL parsing. Previous works either require human intervention to guarantee the quality of generated data, or fail to handle complex SQL queries. This paper presents a simple yet effective data augmentation framework. First, given a database, we automatically produce a large number of SQL queries based on an abstract syntax tree grammar. For better distribution matching, we require that at least 80% of SQL patterns in the training data are covered by generated queries. Second, we propose a hierarchical SQL-to-question generation model to obtain high-quality natural language questions, which is the major contribution of this work. Finally, we design a simple sampling strategy that can greatly improve training efficiency given large amounts of generated data. Experiments on three cross-domain datasets, i.e., WikiSQL and Spider in English, and DuSQL in Chinese, show that our proposed data augmentation framework can consistently improve performance over strong baselines, and the hierarchical generation component is the key for the improvement.
+Author{1}{Firstname}#=%=#Kun
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Username}#=%=#wukun
+Author{1}{Email}#=%=#kwu@stu.suda.edu.cn
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Lijie
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wanglijiehit
+Author{2}{Email}#=%=#wanglijie@baidu.com
+Author{2}{Affiliation}#=%=#Baidu
+Author{3}{Firstname}#=%=#Zhenghua
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#zhenghualiir
+Author{3}{Email}#=%=#zhli13@suda.edu.cn
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Ao
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#aozhang
+Author{4}{Email}#=%=#zhangaoup@aliyun.com
+Author{4}{Affiliation}#=%=#Meituan
+Author{5}{Firstname}#=%=#Xinyan
+Author{5}{Lastname}#=%=#Xiao
+Author{5}{Username}#=%=#xxy
+Author{5}{Email}#=%=#xiaoxinyan@baidu.com
+Author{5}{Affiliation}#=%=#Baidu Inc.
+Author{6}{Firstname}#=%=#Hua
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Username}#=%=#wu_hua
+Author{6}{Email}#=%=#wu_hua@baidu.com
+Author{6}{Affiliation}#=%=#Baidu
+Author{7}{Firstname}#=%=#Min
+Author{7}{Lastname}#=%=#Zhang
+Author{7}{Username}#=%=#zhangminsuda
+Author{7}{Email}#=%=#minzhang@suda.edu.cn
+Author{7}{Affiliation}#=%=#Suda
+Author{8}{Firstname}#=%=#Haifeng
+Author{8}{Lastname}#=%=#Wang
+Author{8}{Username}#=%=#whf123
+Author{8}{Email}#=%=#whf123@gmail.com
+Author{8}{Affiliation}#=%=#Baidu
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1499
+FinalPaperTitle#=%=#BERT might be Overkill: A Tiny but Effective Biomedical Entity Linker based on Residual Convolutional Neural Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Tuan Manh Lai
+JobTitle#==#
+Organization#==#University of Illinois Urbana-Champaign
+Abstract#==#Biomedical entity linking is the task of linking entity mentions in a biomedical document to referent entities in a knowledge base. Recently, many BERT-based models have been introduced for the task. While these models achieve competitive results on many datasets, they are computationally expensive and contain about 110M parameters. Little is known about the factors contributing to their impressive performance and whether the over-parameterization is needed. In this work, we shed some light on the inner workings of these large BERT-based models. Through a set of probing experiments, we have found that the entity linking performance only changes slightly when the input word order is shuffled or when the attention scope is limited to a fixed window size. From these observations, we propose an efficient convolutional neural network with residual connections for biomedical entity linking. Because of the sparse connectivity and weight sharing properties, our model has a small number of parameters and is highly efficient. On five public datasets, our model achieves comparable or even better linking accuracy than the state-of-the-art BERT-based models while having about 60 times fewer parameters.
+Author{1}{Firstname}#=%=#Tuan
+Author{1}{Lastname}#=%=#Lai
+Author{1}{Username}#=%=#laituan245
+Author{1}{Email}#=%=#tuanml2@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Heng
+Author{2}{Lastname}#=%=#Ji
+Author{2}{Username}#=%=#hengjirpi
+Author{2}{Email}#=%=#hengji@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Urbana-Champaign and Amazon (Amazon Scholar)
+Author{3}{Firstname}#=%=#ChengXiang
+Author{3}{Lastname}#=%=#Zhai
+Author{3}{Username}#=%=#czhai
+Author{3}{Email}#=%=#czhai@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+
+==========

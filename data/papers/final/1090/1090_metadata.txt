@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#1090
+FinalPaperTitle#=%=#Less Is More: Domain Adaptation with Lottery Ticket for Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Haichao Zhu
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we propose a simple few-shot domain adaptation paradigm for reading comprehension.
+  We first identify the lottery subnetwork structure within the Transformer-based source domain model via gradual magnitude pruning.
+  Then, we only fine-tune the lottery subnetwork, a small fraction of the whole parameters, on the annotated target domain data for adaptation.
+  To obtain more adaptable subnetworks, we introduce self-attention attribution to weigh parameters,  beyond simply pruning the smallest magnitude parameters, which can be seen as combining structured pruning and unstructured magnitude pruning softly.
+  Experimental results show that our method outperforms the full model fine-tuning adaptation on four out of five domains when only a small amount of annotated data available for adaptation.
+  Moreover, introducing self-attention attribution reserves more parameters for important attention heads in the lottery subnetwork and improves the target domain model performance.
+  Our further analyses reveal that, besides exploiting fewer parameters, the choice of subnetworks is critical to the effectiveness.
+Author{1}{Firstname}#=%=#Haichao
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Username}#=%=#haichao592
+Author{1}{Email}#=%=#hczhu@ir.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Zekun
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#kugwzk
+Author{2}{Email}#=%=#zkwang@ir.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Heng
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#zz-fortune
+Author{3}{Email}#=%=#hzhang@ir.hit.edu.cn
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+Author{4}{Firstname}#=%=#Ming
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#langke1981
+Author{4}{Email}#=%=#liuming1981@hit.edu.cn
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology
+Author{5}{Firstname}#=%=#Sendong
+Author{5}{Lastname}#=%=#Zhao
+Author{5}{Username}#=%=#forest
+Author{5}{Email}#=%=#sdzhao@ir.hit.edu.cn
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology
+Author{6}{Firstname}#=%=#Bing
+Author{6}{Lastname}#=%=#Qin
+Author{6}{Username}#=%=#qinb
+Author{6}{Email}#=%=#qinb@ir.hit.edu.cn
+Author{6}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Do pretrained transformers infer telicity like humans?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yiyun Zhao
+JobTitle#==#
+Organization#==#University of Arizona
+Tucson, AZ 85721
+Abstract#==#Pretrained transformer-based language models achieve state-of-the-art performance in many NLP tasks, but it is an open question whether the knowledge acquired by the models during pretraining resembles the linguistic knowledge of humans. We present both humans and pretrained transformers with descriptions of events, and measure their preference for telic interpretations (the event has a natural endpoint) or atelic interpretations (the event does not have a natural endpoint). To measure these preferences and determine what factors influence them, we design an English test and a novel-word test that include a variety of linguistic cues (noun phrase quantity, resultative structure, contextual information, temporal units) that bias toward certain interpretations. We find that humans’ choice of telicity interpretation is reliably influenced by theoretically-motivated cues, transformer models (BERT and RoBERTa) are influenced by some (though not all) of the cues, and transformer models often rely more heavily on temporal units than humans do.
+Author{1}{Firstname}#=%=#Yiyun
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Username}#=%=#yiyun
+Author{1}{Email}#=%=#yiyunzhao@email.arizona.edu
+Author{1}{Affiliation}#=%=#University of Arizona
+Author{2}{Firstname}#=%=#Jian Gang
+Author{2}{Lastname}#=%=#Ngui
+Author{2}{Email}#=%=#jgngui@email.arizona.edu
+Author{2}{Affiliation}#=%=#University of Arizona
+Author{3}{Firstname}#=%=#Lucy
+Author{3}{Lastname}#=%=#Hall Hartley
+Author{3}{Email}#=%=#lucyhallhartley@email.arizona.edu
+Author{3}{Affiliation}#=%=#University of Arizona
+Author{4}{Firstname}#=%=#Steven
+Author{4}{Lastname}#=%=#Bethard
+Author{4}{Username}#=%=#steven.bethard
+Author{4}{Email}#=%=#bethard@arizona.edu
+Author{4}{Affiliation}#=%=#University of Arizona
+
+==========

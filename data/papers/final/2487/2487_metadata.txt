@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2487
+FinalPaperTitle#=%=#Classification of hierarchical text using geometric deep learning: the case of clinical trials corpus
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sohrab Ferdowsi
+JobTitle#==#
+Organization#==#
+Abstract#==#We consider the hierarchical representation of documents as graphs and use geometric deep learning to classify them into different categories. While graph neural networks can efficiently handle the variable structure of hierarchical documents using the permutation invariant message passing operations, we show that we can gain extra performance improvements using our proposed selective graph pooling operation that arises from the fact that some parts of the hierarchy are invariable across different documents. We applied our model to classify clinical trial (CT) protocols into completed and terminated categories. We use bag-of-words based, as well as pre-trained transformer-based embeddings to featurize the graph nodes, achieving f1-scoresaround 0.85 on a publicly available large scale CT registry of around 360K protocols. We further demonstrate how the selective pooling can add insights into the CT termination status prediction. We make the source code and dataset splits accessible.
+Author{1}{Firstname}#=%=#Sohrab
+Author{1}{Lastname}#=%=#Ferdowsi
+Author{1}{Username}#=%=#sohrab.ferdowsi
+Author{1}{Email}#=%=#sohrab.ferdowsi@hesge.ch
+Author{1}{Affiliation}#=%=#University of Applied Sciences and Arts Western Switzerland
+Author{2}{Firstname}#=%=#Nikolay
+Author{2}{Lastname}#=%=#Borissov
+Author{2}{Email}#=%=#nikolay.borissov@ctu.unibe.ch
+Author{2}{Affiliation}#=%=#Risklick AG
+Author{3}{Firstname}#=%=#Julien
+Author{3}{Lastname}#=%=#Knafou
+Author{3}{Email}#=%=#julien.knafou@hesge.ch
+Author{3}{Affiliation}#=%=#University of Applied Sciences and Arts Western Switzerland
+Author{4}{Firstname}#=%=#Poorya
+Author{4}{Lastname}#=%=#Amini
+Author{4}{Email}#=%=#poorya.amini@ctu.unibe.ch
+Author{4}{Affiliation}#=%=#Risklick AG
+Author{5}{Firstname}#=%=#Douglas
+Author{5}{Lastname}#=%=#Teodoro
+Author{5}{Email}#=%=#douglas.teodoro@hesge.ch
+Author{5}{Affiliation}#=%=#University of Applied Sciences and Arts Western Switzerland
+
+==========

@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#105
+FinalPaperTitle#=%=#Agree to Disagree: Analysis of Inter-Annotator Disagreements in Human Evaluation of Machine Translation Output
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Maja Popovic
+JobTitle#==#
+Organization#==#ADAPT Centre @ Dublin City University
+Glasnevin, Dublin 9
+Ireland
+Abstract#==#This work describes  an analysis of inter-annotator disagreements in human evaluation of machine translation output. The errors in the analysed texts were marked by multiple annotators under guidance of different quality criteria: adequacy, comprehension, and an unspecified generic mixture of adequacy and fluency. Our results show that different criteria result in different disagreements, and indicate that a clear definition of quality criterion can improve the inter-annotator agreement. 
+
+Furthermore, our results show that for certain linguistic phenomena which are not limited to one or two words (such as word ambiguity or gender) but span over several words or even entire phrases (such as negation or relative clause), disagreements do not necessarily represent ``errors" or ``noise" but are rather inherent to the evaluation process.  
+%These disagreements are caused by differences in error perception and/or the fact that there is no single correct  translation of a text so that multiple solutions are possible. 
+On the other hand, for some other phenomena (such as omission or verb forms) agreement can be easily improved by providing more precise and detailed instructions to the evaluators.
+Author{1}{Firstname}#=%=#Maja
+Author{1}{Lastname}#=%=#Popović
+Author{1}{Username}#=%=#maja.popovic
+Author{1}{Email}#=%=#maja.popovic.166@gmail.com
+Author{1}{Affiliation}#=%=#ADAPT, Dublin City University
+
+==========

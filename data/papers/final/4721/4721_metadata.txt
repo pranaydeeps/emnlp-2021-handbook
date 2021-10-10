@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#4721
+FinalPaperTitle#=%=#{HOTTER}: {H}ierarchical Optimal Topic Transport with Explanatory Context Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sabine Wehnert
+JobTitle#==#
+Organization#==#Georg Eckert Institute
+Leibniz Institute for International Textbook Research
+
+Freisestraße 1
+38118 Braunschweig
+Germany
+Abstract#==#Natural language processing (NLP) is often the backbone of today's systems for user interactions, information retrieval and others. Many of such NLP applications rely on specialized learned representations (e.g. neural word embeddings, topic models) that improve the ability to reason about the relationships between documents of a corpus. Paired with the progress in learned representations, the similarity metrics used to compare representations of documents are also evolving, with numerous proposals differing in computation time or interpretability. In this paper we propose an extension to a specific emerging hybrid document distance metric which combines topic models and word embeddings: the Hierarchical Optimal Topic Transport (HOTT). In specific, we extend HOTT by using context-enhanced word representations. We provide a validation of our approach on public datasets, using the language model BERT for a document categorization task. Results indicate competitive performance of the extended HOTT metric. We furthermore apply the HOTT metric and its extension to support educational media research, with a retrieval task of matching topics in German curricula to educational textbooks passages, along with offering an auxiliary explanatory document representing the dominant topic of the retrieved document. In a user study, our explanation method is preferred over regular topic keywords.
+Author{1}{Firstname}#=%=#Sabine
+Author{1}{Lastname}#=%=#Wehnert
+Author{1}{Username}#=%=#swehnert
+Author{1}{Email}#=%=#sabine.wehnert@gei.de
+Author{1}{Affiliation}#=%=#Georg-Eckert-Institute Leibniz Institute for International Textbook Research
+Author{2}{Firstname}#=%=#Christian
+Author{2}{Lastname}#=%=#Scheel
+Author{2}{Username}#=%=#scheel
+Author{2}{Email}#=%=#scheel@gei.de
+Author{2}{Affiliation}#=%=#Georg Eckert Institute
+Author{3}{Firstname}#=%=#Simona
+Author{3}{Lastname}#=%=#Szakács-Behling
+Author{3}{Username}#=%=#szakacs
+Author{3}{Email}#=%=#szakacs@gei.de
+Author{3}{Affiliation}#=%=#Georg Eckert Institute
+Author{4}{Firstname}#=%=#Maret
+Author{4}{Lastname}#=%=#Nieländer
+Author{4}{Email}#=%=#nielaender@gei.de
+Author{4}{Affiliation}#=%=#Georg-Eckert-Institute Leibniz Institute for International Textbook Research
+Author{5}{Firstname}#=%=#Patrick
+Author{5}{Lastname}#=%=#Mielke
+Author{5}{Email}#=%=#mielke@gei.de
+Author{5}{Affiliation}#=%=#Georg-Eckert-Institute Leibniz Institute for International Textbook Research
+Author{6}{Firstname}#=%=#Ernesto William
+Author{6}{Lastname}#=%=#De Luca
+Author{6}{Username}#=%=#contact
+Author{6}{Email}#=%=#deluca@gei.de
+Author{6}{Affiliation}#=%=#Georg-Eckert-Institute Leibniz-Institute for international Textbook Research
+
+==========

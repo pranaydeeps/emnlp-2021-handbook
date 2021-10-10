@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1414
+FinalPaperTitle#=%=#Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Zhen Han
+JobTitle#==#
+Organization#==#
+Abstract#==#There has been an increasing interest in inferring future links on temporal knowledge graphs (KG). While links on temporal KGs vary continuously over time, the existing approaches model the temporal KGs in discrete state spaces. To this end, we propose a novel continuum model by extending the idea of neural ordinary differential equations (ODEs) to multi-relational graph convolutional networks. The proposed model preserves the continuous nature of dynamic multi-relational graph data and encodes both temporal and structural information into continuous-time dynamic embeddings. In addition, a novel graph transition layer is applied to capture the transitions on the dynamic graph, i.e., edge formation and dissolution. We perform extensive experiments on five benchmark datasets for temporal KG reasoning, showing our model's superior performance on the future link forecasting task.
+Author{1}{Firstname}#=%=#Zhen
+Author{1}{Lastname}#=%=#Han
+Author{1}{Username}#=%=#jeff20100601
+Author{1}{Email}#=%=#zhen.han@campus.lmu.de
+Author{1}{Affiliation}#=%=#Ludwig Maximilian University of Munich
+Author{2}{Firstname}#=%=#Zifeng
+Author{2}{Lastname}#=%=#Ding
+Author{2}{Email}#=%=#ge49xeg@mytum.de
+Author{2}{Affiliation}#=%=#LMU Munich
+Author{3}{Firstname}#=%=#Yunpu
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Username}#=%=#lacrimosaxxx
+Author{3}{Email}#=%=#cognitive.yunpu@gmail.com
+Author{3}{Affiliation}#=%=#LMU
+Author{4}{Firstname}#=%=#Yujia
+Author{4}{Lastname}#=%=#Gu
+Author{4}{Email}#=%=#guyujia2018@gmail.com
+Author{4}{Affiliation}#=%=#Technical University of Munich
+Author{5}{Firstname}#=%=#Volker
+Author{5}{Lastname}#=%=#Tresp
+Author{5}{Username}#=%=#tresp
+Author{5}{Email}#=%=#volker.tresp@lmu.de
+Author{5}{Affiliation}#=%=#LMU
+
+==========

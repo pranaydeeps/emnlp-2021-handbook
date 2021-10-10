@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#91
+FinalPaperTitle#=%=#Unsupervised Keyphrase Extraction by Jointly Modeling Local and Global Context
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xinnian Liang
+JobTitle#==#
+Organization#==#
+Abstract#==#Embedding based methods are widely used for unsupervised keyphrase extraction (UKE) tasks. Generally, these methods simply calculate similarities between phrase embeddings and document embedding, which is insufficient to capture different context for a more effective UKE model. In this paper, we propose a novel method for UKE, where local and global contexts are jointly modeled. From a global view, we calculate the similarity between a certain phrase and the whole document in the vector space as transitional embedding based models do. In terms of the local view, we first build a graph structure based on the document where phrases are regarded as vertices and the edges are similarities between vertices. Then, we proposed a new centrality computation method to capture local salient information based on the graph structure. Finally, we further combine the modeling of global and local context for ranking. We evaluate our models on three public benchmarks (Inspec, DUC 2001, SemEval 2010) and compare with existing state-of-the-art models. The results show that our model outperforms most models while generalizing better on input documents with different domains and length. Additional ablation study shows that both the local and global information is crucial for unsupervised keyphrase extraction tasks.
+Author{1}{Firstname}#=%=#Xinnian
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Username}#=%=#xnliang
+Author{1}{Email}#=%=#xnliang@buaa.edu.cn
+Author{1}{Affiliation}#=%=#Beihang University
+Author{2}{Firstname}#=%=#Shuangzhi
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#shuangzhi_wu
+Author{2}{Email}#=%=#frostwu@tencent.com
+Author{2}{Affiliation}#=%=#Tencent
+Author{3}{Firstname}#=%=#Mu
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#muli
+Author{3}{Email}#=%=#limugx@qq.com
+Author{3}{Affiliation}#=%=#Tencent Inc.
+Author{4}{Firstname}#=%=#Zhoujun
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lizhoujun
+Author{4}{Email}#=%=#lizj@buaa.edu.cn
+Author{4}{Affiliation}#=%=#Beihang University
+
+==========

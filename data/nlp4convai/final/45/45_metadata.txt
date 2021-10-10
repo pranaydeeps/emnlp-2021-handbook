@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#CS-BERT: a pretrained model for customer service dialogues
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Julia Reinspach
+JobTitle#==#
+Organization#==#Amazon, Seattle
+Abstract#==#Large-scale pretrained transformer models have demonstrated state-of-the-art (SOTA) performance in a variety of NLP tasks. Nowadays, numerous pretrained models are available in different model flavors and different languages, and can be easily adapted to one's downstream task. However, only a limited number of models are available for dialogue tasks, and in particular, goal-oriented dialogue tasks. In addition, the available pretrained models are trained on general domain language, creating a mismatch between the pretraining language and the downstream domain launguage. In this contribution, we present CS-BERT, a BERT model pretrained on millions of dialogues in the customer service domain. We evaluate CS-BERT on several downstream customer service dialogue tasks, and demonstrate that our in-domain pretraining is advantageous compared to other pretrained models in both zero-shot experiments as well as in finetuning experiments, especially in a low-resource data setting.
+Author{1}{Firstname}#=%=#Peiyao
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#peiyaow@amazon.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Joyce
+Author{2}{Lastname}#=%=#Fang
+Author{2}{Email}#=%=#joycfang@amazon.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Julia
+Author{3}{Lastname}#=%=#Reinspach
+Author{3}{Email}#=%=#reinspac@amazon.com
+Author{3}{Affiliation}#=%=#Amazon
+
+==========

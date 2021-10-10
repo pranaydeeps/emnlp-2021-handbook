@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1684
+FinalPaperTitle#=%=#UnClE: Explicitly Leveraging Semantic Similarity to Reduce the Parameters of Word Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Zhi Li
+JobTitle#==#
+Organization#==#College of Computer Science and Technology, Zhejiang University, China
+Abstract#==#Natural language processing (NLP) models often require a massive number of parameters for word embeddings, which limits their application on mobile devices. Researchers have employed many approaches, e.g. adaptive inputs, to reduce the parameters of word embeddings. However, existing methods rarely pay attention to semantic information. In this paper, we propose a novel method called Unique and Class Embeddings (UnClE), which explicitly leverages semantic similarity with weight sharing to reduce the dimensionality of word embeddings. Inspired by the fact that words with similar semantic can share a part of weights, we divide the embeddings of words into two parts: unique embedding and class embedding. The former is one-to-one mapping like traditional embedding, while the latter is many-to-one mapping and learn the representation of class information. Our method is suitable for both word-level and sub-word level models and can be used to reduce both input and output embeddings. Experimental results on the standard WMT 2014 English-German dataset show that our method is able to reduce the parameters of word embeddings by more than 11x, with about 93\% performance retaining in BLEU metrics. For language modeling task, our model can reduce word embeddings by 6x or 11x on PTB/WT2 dataset at the cost of a certain degree of performance degradation.
+Author{1}{Firstname}#=%=#Zhi
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#zhili
+Author{1}{Email}#=%=#zhili@zju.edu.cn
+Author{1}{Affiliation}#=%=#Zhejiang University
+Author{2}{Firstname}#=%=#Yuchen
+Author{2}{Lastname}#=%=#Zhai
+Author{2}{Username}#=%=#zhaiyuchen
+Author{2}{Email}#=%=#zhaiyuchen@zju.edu.cn
+Author{2}{Affiliation}#=%=#Zhejiang University
+Author{3}{Firstname}#=%=#Chengyu
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#chywang2013
+Author{3}{Email}#=%=#chywang2013@gmail.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Minghui
+Author{4}{Lastname}#=%=#Qiu
+Author{4}{Username}#=%=#minghuiqiu
+Author{4}{Email}#=%=#minghuiqiu@gmail.com
+Author{4}{Affiliation}#=%=#Alibaba Group
+Author{5}{Firstname}#=%=#Kailiang
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#likailiang
+Author{5}{Email}#=%=#likailiang@zju.edu.cn
+Author{5}{Affiliation}#=%=#Zhejiang University
+Author{6}{Firstname}#=%=#Yin
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#zhangyin98
+Author{6}{Email}#=%=#zhangyin98@zju.edu.cn
+Author{6}{Affiliation}#=%=#Zhejiang University
+
+==========

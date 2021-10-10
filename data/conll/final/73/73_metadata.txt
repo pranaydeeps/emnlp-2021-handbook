@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#73
+FinalPaperTitle#=%=#Does referent predictability affect the choice of referential form? A computational approach using masked coreference resolution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Xixian Liao
+JobTitle#==#
+Organization#==#
+Abstract#==#It is often posited that more predictable parts of a speaker's meaning tend to be made less explicit, for instance using shorter, less informative words. Studying these dynamics in the domain of referring expressions has proven difficult, with existing studies, both psycholinguistic and corpus-based, providing contradictory results. We test the hypothesis that speakers produce less informative referring expressions (e.g., pronouns vs. full noun phrases) when the context is more informative about the referent, using novel computational estimates of referent predictability. We obtain these estimates training an existing coreference resolution system for English on a new task, masked coreference resolution, giving us a probability distribution over referents that is conditioned on the context but not the referring expression. The resulting system retains standard coreference resolution performance while yielding a better estimate of human-derived referent predictability than previous attempts. A statistical analysis of the relationship between model output and mention form supports the hypothesis that predictability affects the form of a mention, both its morphosyntactic type and its length.
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Aina
+Author{1}{Username}#=%=#laura-aina
+Author{1}{Email}#=%=#laura.aina@upf.edu
+Author{1}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{2}{Firstname}#=%=#Xixian
+Author{2}{Lastname}#=%=#Liao
+Author{2}{Username}#=%=#xliao
+Author{2}{Email}#=%=#xixian.liao@upf.edu
+Author{2}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{3}{Firstname}#=%=#Gemma
+Author{3}{Lastname}#=%=#Boleda
+Author{3}{Username}#=%=#gboleda
+Author{3}{Email}#=%=#gemma.boleda@upf.edu
+Author{3}{Affiliation}#=%=#Universitat Pompeu Fabra / ICREA
+Author{4}{Firstname}#=%=#Matthijs
+Author{4}{Lastname}#=%=#Westera
+Author{4}{Username}#=%=#matthijswestera
+Author{4}{Email}#=%=#matthijs.westera@gmail.com
+Author{4}{Affiliation}#=%=#Leiden Universiteit
+
+==========

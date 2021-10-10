@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#3754
+FinalPaperTitle#=%=#Boosting Cross-Lingual Transfer via Self-Learning with Uncertainty Estimation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Liyan Xu
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent multilingual pre-trained language models have achieved remarkable zero-shot performance, where the model is only finetuned on one source language and directly evaluated on target languages.
+In this work, we propose a self-learning framework that further utilizes unlabeled data of target languages, combined with uncertainty estimation in the process to select high-quality silver labels.
+Three different uncertainties are adapted and analyzed specifically for the cross lingual transfer: Language Heteroscedastic/Homoscedastic Uncertainty (LEU/LOU), Evidential  Uncertainty (EVI).
+We evaluate our framework with uncertainties on two cross-lingual tasks including Named Entity Recognition (NER) and Natural Language Inference (NLI) covering 40 languages in total, which outperforms the baselines significantly by 10 F1 for NER on average and 2.5 accuracy for NLI.
+Author{1}{Firstname}#=%=#Liyan
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#liyanxu94
+Author{1}{Email}#=%=#liyan.xu@emory.edu
+Author{1}{Affiliation}#=%=#Emory University
+Author{2}{Firstname}#=%=#Xuchao
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#xuczhang
+Author{2}{Email}#=%=#xuczhang@nec-labs.com
+Author{2}{Affiliation}#=%=#NEC Labs America
+Author{3}{Firstname}#=%=#Xujiang
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Username}#=%=#zxj32
+Author{3}{Email}#=%=#xujiang.zhao@utdallas.edu
+Author{3}{Affiliation}#=%=#University of Texas at Dallas
+Author{4}{Firstname}#=%=#Haifeng
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#haifengchen
+Author{4}{Email}#=%=#haifeng@nec-labs.com
+Author{4}{Affiliation}#=%=#NEC Labs America
+Author{5}{Firstname}#=%=#Feng
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Username}#=%=#fchen
+Author{5}{Email}#=%=#feng.chen@utdallas.edu
+Author{5}{Affiliation}#=%=#UT Dallas
+Author{6}{Firstname}#=%=#Jinho D.
+Author{6}{Lastname}#=%=#Choi
+Author{6}{Username}#=%=#jdchoi77
+Author{6}{Email}#=%=#jinho.choi@emory.edu
+Author{6}{Affiliation}#=%=#Emory University
+
+==========

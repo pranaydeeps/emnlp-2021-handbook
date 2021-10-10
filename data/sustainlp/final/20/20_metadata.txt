@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Learning to Rank in the Age of Muppets: Effectiveness–Efficiency Tradeoffs in Multi-Stage Ranking
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#yue zhang
+JobTitle#==#
+Organization#==#University of Delaware
+Abstract#==#It is well known that rerankers built on pretrained transformer models such as BERT have dramatically improved retrieval effectiveness in many tasks.
+However, these gains have come at substantial costs in terms of efficiency, as noted by many researchers.
+In this work, we show that it is possible to retain the benefits of transformer-based rerankers in a multi-stage reranking pipeline by first using feature-based learning-to-rank techniques to reduce the number of candidate documents under consideration without adversely affecting their quality in terms of recall.
+Applied to the MS MARCO passage and document ranking tasks, we are able to achieve the same level of effectiveness, but with up to 18× increase in efficiency. 
+Furthermore, our techniques are orthogonal to other methods focused on accelerating transformer inference, and thus can be combined for even greater efficiency gains.
+A higher-level message from our work is that, even though pretrained transformers dominate the modern IR landscape, there are still important roles for “traditional” LTR techniques, and that we should not forget history.
+Author{1}{Firstname}#=%=#Yue
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zhangyue9417
+Author{1}{Email}#=%=#zhangyue@udel.edu
+Author{1}{Affiliation}#=%=#University of Delaware
+Author{2}{Firstname}#=%=#ChengCheng
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Email}#=%=#c45hu@uwaterloo.ca
+Author{2}{Affiliation}#=%=#University of Waterloo
+Author{3}{Firstname}#=%=#Yuqi
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#y899liu@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+Author{4}{Firstname}#=%=#Hui
+Author{4}{Lastname}#=%=#Fang
+Author{4}{Username}#=%=#hfang
+Author{4}{Email}#=%=#hfang@udel.edu
+Author{4}{Affiliation}#=%=#University of Delaware
+Author{5}{Firstname}#=%=#Jimmy
+Author{5}{Lastname}#=%=#Lin
+Author{5}{Username}#=%=#jimmylin
+Author{5}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{5}{Affiliation}#=%=#University of Waterloo
+
+==========

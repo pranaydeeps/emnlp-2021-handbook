@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#82
+FinalPaperTitle#=%=#Towards Code-Mixed Hinglish Dialogue Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Vibhav Agarwal
+JobTitle#==#
+Organization#==#IIIT Bangalore
+26/C, Hosur Road, Electronic City, Bengaluru, Karnataka, India 560100.
+Abstract#==#Code-mixed language plays a crucial role in communication in multilingual societies. Though the recent growth of web users has greatly boosted the use of such mixed languages, the current generation of dialog systems is primarily monolingual. This increase in usage of code-mixed language has prompted dialog systems in a similar language. We present our work in Code-Mixed Dialog Generation, an unexplored task in code-mixed languages, generating utterances in code-mixed language rather than a single language that is more often just English. We present a new synthetic corpus in code-mix for dialogs, CM-DailyDialog, by converting an existing English-only dialog corpus to a mixed Hindi-English corpus. We then propose a baseline approach where we show the effectiveness of using mBART like multilingual sequence-to-sequence transformers for code-mixed dialog generation. Our best performing dialog models can conduct coherent conversations in Hindi-English mixed language as evaluated by human and automatic metrics setting new benchmarks for the Code-Mixed Dialog Generation task.
+Author{1}{Firstname}#=%=#Vibhav
+Author{1}{Lastname}#=%=#Agarwal
+Author{1}{Username}#=%=#vibhavagarwal5
+Author{1}{Email}#=%=#vibhavagarwal5@gmail.com
+Author{1}{Affiliation}#=%=#IIIT Bangalore
+Author{2}{Firstname}#=%=#Pooja
+Author{2}{Lastname}#=%=#Rao
+Author{2}{Username}#=%=#poojarao126
+Author{2}{Email}#=%=#pooja.shikaripurbheemasenarao@unil.ch
+Author{2}{Affiliation}#=%=#University of Lausanne
+Author{3}{Firstname}#=%=#Dinesh Babu
+Author{3}{Lastname}#=%=#Jayagopi
+Author{3}{Email}#=%=#jdinesh@iiitb.ac.in
+Author{3}{Affiliation}#=%=#IIIT Bangalore
+
+==========

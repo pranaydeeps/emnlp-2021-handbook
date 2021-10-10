@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#4430
+FinalPaperTitle#=%=#Simple or Complex? Complexity-controllable Question Generation with Soft Templates and Deep Mixture of Experts Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sheng Bi
+JobTitle#==#
+Organization#==#
+Abstract#==#The ability to generate natural-language questions with controlled complexity levels is highly desirable as it further expands the applicability of question generation. In this paper, we propose an end-to-end neural complexity-controllable question generation model, which incorporates a mixture of experts (MoE) as the selector of soft templates to improve the accuracy of complexity control and the quality of generated questions. The soft templates capture question similarity while avoiding the expensive construction of actual templates. Our method introduces a novel, cross-domain complexity estimator to assess the complexity of a question, taking into account the passage, the question, the answer and their interactions. The experimental results on two benchmark QA datasets demonstrate that our QG model is superior to state-of-the-art methods in both automatic and manual evaluation. Moreover, our complexity estimator is significantly more accurate than the baselines in both in-domain and out-domain settings.
+Author{1}{Firstname}#=%=#Sheng
+Author{1}{Lastname}#=%=#Bi
+Author{1}{Username}#=%=#baymax
+Author{1}{Email}#=%=#bisheng@seu.edu.cn
+Author{1}{Affiliation}#=%=#Southeast University
+Author{2}{Firstname}#=%=#Xiya
+Author{2}{Lastname}#=%=#Cheng
+Author{2}{Username}#=%=#estellacheng
+Author{2}{Email}#=%=#chengxiya@seu.edu.cn
+Author{2}{Affiliation}#=%=#Southeast University
+Author{3}{Firstname}#=%=#Yuan-Fang
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#yuanfang.li
+Author{3}{Email}#=%=#yuanfang.li@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+Author{4}{Firstname}#=%=#Lizhen
+Author{4}{Lastname}#=%=#Qu
+Author{4}{Username}#=%=#lqu
+Author{4}{Email}#=%=#lizhen.qu@monash.edu
+Author{4}{Affiliation}#=%=#Monash University
+Author{5}{Firstname}#=%=#Shirong
+Author{5}{Lastname}#=%=#Shen
+Author{5}{Username}#=%=#ssr
+Author{5}{Email}#=%=#ssr@seu.edu.cn
+Author{5}{Affiliation}#=%=#Southeast University
+Author{6}{Firstname}#=%=#Guilin
+Author{6}{Lastname}#=%=#Qi
+Author{6}{Username}#=%=#gqi2015
+Author{6}{Email}#=%=#gqi@seu.edu.cn
+Author{6}{Affiliation}#=%=#Southeast University
+Author{7}{Firstname}#=%=#Lu
+Author{7}{Lastname}#=%=#Pan
+Author{7}{Username}#=%=#panlu
+Author{7}{Email}#=%=#panlu01@baidu.com
+Author{7}{Affiliation}#=%=#Baidu International Technology (Shenzhen) Co., Ltd
+Author{8}{Firstname}#=%=#Yinlin
+Author{8}{Lastname}#=%=#Jiang
+Author{8}{Email}#=%=#yljiang@seu.edu.cn
+Author{8}{Affiliation}#=%=#Southeast University
+
+==========

@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#881
+FinalPaperTitle#=%=#ERNIE-M: Enhanced Multilingual Representation by Aligning Cross-lingual Semantics with Monolingual Corpora
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Xuan Ouyang
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent studies have demonstrated that pre-trained cross-lingual models achieve impressive performance in downstream cross-lingual tasks. This improvement benefits from learning a large amount of monolingual and parallel corpora. Although it is generally acknowledged that parallel corpora are critical for improving the model performance, existing methods are often constrained by the size of parallel corpora, especially for low-resource languages. In this paper, we propose Ernie-M, a new training method that encourages the model to align the representation of multiple languages with monolingual corpora, to overcome the constraint that the parallel corpus size places on the model performance. Our key insight is to integrate back-translation into the pre-training process. We generate pseudo-parallel sentence pairs on a monolingual corpus to enable the learning of semantic alignments between different languages, thereby enhancing the semantic modeling of cross-lingual models. Experimental results show that Ernie-M outperforms existing cross-lingual models and delivers new state-of-the-art results in various cross-lingual downstream tasks. The codes and pre-trained models will be made publicly available.
+Author{1}{Firstname}#=%=#Xuan
+Author{1}{Lastname}#=%=#Ouyang
+Author{1}{Username}#=%=#ouyangxuan
+Author{1}{Email}#=%=#oyxuan67373@gmail.com
+Author{1}{Affiliation}#=%=#Baidu
+Author{2}{Firstname}#=%=#Shuohuan
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangshuohuan
+Author{2}{Email}#=%=#wangshuohuan@baidu.com
+Author{2}{Affiliation}#=%=#Baidu
+Author{3}{Firstname}#=%=#Chao
+Author{3}{Lastname}#=%=#Pang
+Author{3}{Username}#=%=#pangchao
+Author{3}{Email}#=%=#pangchao04@baidu.com
+Author{3}{Affiliation}#=%=#baidu.com
+Author{4}{Firstname}#=%=#Yu
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Username}#=%=#sunyu767
+Author{4}{Email}#=%=#sunyu02@baidu.com
+Author{4}{Affiliation}#=%=#Baidu
+Author{5}{Firstname}#=%=#Hao
+Author{5}{Lastname}#=%=#Tian
+Author{5}{Username}#=%=#tianhao_baidu
+Author{5}{Email}#=%=#tianhao.pku@gmail.com
+Author{5}{Affiliation}#=%=#University of Science and Technology of China & Baidu Inc
+Author{6}{Firstname}#=%=#Hua
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Username}#=%=#wu_hua
+Author{6}{Email}#=%=#wu_hua@baidu.com
+Author{6}{Affiliation}#=%=#Baidu
+Author{7}{Firstname}#=%=#Haifeng
+Author{7}{Lastname}#=%=#Wang
+Author{7}{Username}#=%=#wanghaifeng
+Author{7}{Email}#=%=#wanghaifeng@baidu.com
+Author{7}{Affiliation}#=%=#Baidu
+
+==========

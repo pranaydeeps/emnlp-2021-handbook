@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1181
+FinalPaperTitle#=%=#Fine-grained Entity Typing via Label Reasoning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#liuqing
+JobTitle#==#
+Organization#==#University of Chinese Academy of Sciences, Beijing, China
+Abstract#==#Conventional entity typing approaches are based on independent classification paradigms, which make them difficult to recognize inter-dependent, long-tailed and fine-grained entity types. In this paper, we argue that the implicitly entailed extrinsic and intrinsic dependencies between labels can provide critical knowledge to tackle the above challenges. To this end, we propose Label Reasoning Network(LRN), which sequentially reasons fine-grained entity labels by discovering and exploiting label dependencies knowledge entailed in the data. Specifically, LRN utilizes an auto-regressive network to conduct deductive reasoning and a bipartite attribute graph to conduct inductive reasoning between labels, which can effectively model, learn and reason complex label dependencies in a sequence-to-set, end-to-end manner. Experiments show that LRN achieves the state-of-the-art performance on standard ultra fine-grained entity typing benchmarks, and can also resolve the long tail label problem effectively.
+Author{1}{Firstname}#=%=#Qing
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#nicole1001
+Author{1}{Email}#=%=#nicole_67@yeah.net
+Author{1}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Hongyu
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Username}#=%=#sanmu_sunrise
+Author{2}{Email}#=%=#sanmu_sunrise@foxmail.com
+Author{2}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Xinyan
+Author{3}{Lastname}#=%=#Xiao
+Author{3}{Username}#=%=#xxy
+Author{3}{Email}#=%=#xiaoxinyan@baidu.com
+Author{3}{Affiliation}#=%=#Baidu Inc.
+Author{4}{Firstname}#=%=#Xianpei
+Author{4}{Lastname}#=%=#Han
+Author{4}{Username}#=%=#xphan
+Author{4}{Email}#=%=#hanxianpei@gmail.com
+Author{4}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Le
+Author{5}{Lastname}#=%=#Sun
+Author{5}{Username}#=%=#lesun
+Author{5}{Email}#=%=#lesunle@163.com
+Author{5}{Affiliation}#=%=#ISCAS
+Author{6}{Firstname}#=%=#Hua
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Username}#=%=#wu_hua
+Author{6}{Email}#=%=#wu_hua@baidu.com
+Author{6}{Affiliation}#=%=#Baidu
+
+==========

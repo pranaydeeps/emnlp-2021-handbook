@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#4470
+FinalPaperTitle#=%=#Separating Retention from Extraction in the Evaluation of End-to-end {R}elation {E}xtraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Bruno Taillé
+JobTitle#==#
+Organization#==#
+Abstract#==#State-of-the-art NLP models can adopt shallow heuristics that limit their generalization capability (McCoy et al., 2019). Such heuristics include lexical overlap with the training set in Named-Entity Recognition (Taille et al., 2020) and Event or Type heuristics in Relation Extraction (Rosenman et al., 2020).
+In the more realistic end-to-end RE setting, we can expect yet another heuristic: the mere retention of training relation triples. 
+In this paper we propose two experiments confirming that retention of known facts is a key factor of performance on standard benchmarks. 
+Furthermore, one experiment suggests that a pipeline model able to use intermediate type representations is less prone to over-rely on retention.
+Author{1}{Firstname}#=%=#Bruno
+Author{1}{Lastname}#=%=#Taillé
+Author{1}{Username}#=%=#btaille
+Author{1}{Email}#=%=#brunotaille@gmail.com
+Author{1}{Affiliation}#=%=#Sorbonne Université / BNP Paribas
+Author{2}{Firstname}#=%=#Vincent
+Author{2}{Lastname}#=%=#Guigue
+Author{2}{Username}#=%=#guigue
+Author{2}{Email}#=%=#vincent.guigue@lip6.fr
+Author{2}{Affiliation}#=%=#UPMC, LIP6
+Author{3}{Firstname}#=%=#Geoffrey
+Author{3}{Lastname}#=%=#Scoutheeten
+Author{3}{Username}#=%=#gscouth
+Author{3}{Email}#=%=#gscouth+softconf@gmail.com
+Author{3}{Affiliation}#=%=#BNP Paribas
+Author{4}{Firstname}#=%=#patrick
+Author{4}{Lastname}#=%=#Gallinari
+Author{4}{Username}#=%=#gallinari
+Author{4}{Email}#=%=#patrick.gallinari@lip6.fr
+Author{4}{Affiliation}#=%=#Sorbonne University, FR, Criteo AI Lab, Fr
+
+==========

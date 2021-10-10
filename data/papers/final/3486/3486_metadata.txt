@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3486
+FinalPaperTitle#=%=#Studying word order through iterative shuffling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Nikolay Malkin
+JobTitle#==#
+Organization#==#
+Abstract#==#As neural language models approach human performance on NLP benchmark tasks, their advances are widely seen as evidence of an increasingly complex understanding of syntax. This view rests upon a hypothesis that has not yet been empirically tested: that word order encodes meaning essential to performing these tasks. We refute this hypothesis in many cases: in the GLUE suite and in various genres of English text, the words in a sentence or phrase can rarely be permuted to form a phrase carrying substantially different information. Our surprising result relies on inference by iterative shuffling (IBIS), a novel, efficient procedure that finds the ordering of a bag of words having the highest likelihood under a fixed language model. IBIS can use any black-box model without additional training and is superior to existing word ordering algorithms. Coalescing our findings, we discuss how shuffling inference procedures such as IBIS can benefit language modeling and constrained generation.
+Author{1}{Firstname}#=%=#Nikolay
+Author{1}{Lastname}#=%=#Malkin
+Author{1}{Username}#=%=#malkin1729
+Author{1}{Email}#=%=#kolya_malkin@hotmail.com
+Author{1}{Affiliation}#=%=#Yale University
+Author{2}{Firstname}#=%=#Sameera
+Author{2}{Lastname}#=%=#Lanka
+Author{2}{Username}#=%=#samlanka
+Author{2}{Email}#=%=#sameera.lanka07@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Pranav
+Author{3}{Lastname}#=%=#Goel
+Author{3}{Username}#=%=#pranav_goel
+Author{3}{Email}#=%=#pgoel1@umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland
+Author{4}{Firstname}#=%=#Nebojsa
+Author{4}{Lastname}#=%=#Jojic
+Author{4}{Username}#=%=#jojic
+Author{4}{Email}#=%=#jojic@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+
+==========

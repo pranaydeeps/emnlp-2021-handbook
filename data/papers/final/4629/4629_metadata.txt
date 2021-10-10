@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#4629
+FinalPaperTitle#=%=#HypMix: Hyperbolic Interpolative Data Augmentation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ramit Sawhney
+JobTitle#==#
+Organization#==#
+Abstract#==#Interpolation-based regularisation methods for data augmentation have proven to be effective for various tasks and modalities. These methods involve performing mathematical operations over the raw input samples or their latent states representations - vectors that often possess complex hierarchical geometries. However, these operations are performed in the Euclidean space, simplifying these representations, which may lead to distorted and noisy interpolations. 
+We propose HypMix, a novel model-, data-, and modality-agnostic interpolative data augmentation technique operating in the hyperbolic space, which captures the complex geometry of input and hidden state hierarchies better than its contemporaries. We evaluate HypMix on benchmark and low resource datasets across speech, text, and vision modalities,
+showing that HypMix consistently outperforms state-of-the-art data augmentation techniques. In addition, we demonstrate the use of HypMix in semi-supervised settings.
+We further probe into the adversarial robustness and qualitative inferences we draw from HypMix that elucidate the efficacy of the Riemannian hyperbolic manifolds for interpolation-based data augmentation.
+Author{1}{Firstname}#=%=#Ramit
+Author{1}{Lastname}#=%=#Sawhney
+Author{1}{Username}#=%=#ramitsawhney
+Author{1}{Email}#=%=#ramits@iiitd.ac.in
+Author{1}{Affiliation}#=%=#IIIT Delhi
+Author{2}{Firstname}#=%=#Megh
+Author{2}{Lastname}#=%=#Thakkar
+Author{2}{Username}#=%=#megh.1211
+Author{2}{Email}#=%=#megh.1211@gmail.com
+Author{2}{Affiliation}#=%=#BITS Pilani
+Author{3}{Firstname}#=%=#Shivam
+Author{3}{Lastname}#=%=#Agarwal
+Author{3}{Username}#=%=#shivam
+Author{3}{Email}#=%=#shivamag99@gmail.com
+Author{3}{Affiliation}#=%=#Manipal Institute of Technology
+Author{4}{Firstname}#=%=#Di
+Author{4}{Lastname}#=%=#Jin
+Author{4}{Username}#=%=#jindi
+Author{4}{Email}#=%=#djinamzn@amazon.com
+Author{4}{Affiliation}#=%=#Amazon
+Author{5}{Firstname}#=%=#Diyi
+Author{5}{Lastname}#=%=#Yang
+Author{5}{Username}#=%=#diyiy
+Author{5}{Email}#=%=#diyi.yang@cc.gatech.edu
+Author{5}{Affiliation}#=%=#Georgia Institute of Technology
+Author{6}{Firstname}#=%=#Lucie
+Author{6}{Lastname}#=%=#Flek
+Author{6}{Username}#=%=#flekova
+Author{6}{Email}#=%=#lucie.flek@uni-marburg.de
+Author{6}{Affiliation}#=%=#CAISA Lab, Faculty of Mathematics and Informatics, Philipps University of Marburg
+
+==========

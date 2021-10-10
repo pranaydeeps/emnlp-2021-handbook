@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#3912
+FinalPaperTitle#=%=#Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Andrew Lee
+JobTitle#==#
+Organization#==#
+Abstract#==#Many statistical models have high accuracy on test benchmarks, but are not explainable, struggle in low-resource scenarios, cannot be reused for multiple tasks, and cannot easily integrate domain expertise.
+These factors limit their use, particularly in settings such as mental health, where it is difficult to annotate datasets and model outputs have significant impact.
+We introduce a micromodel architecture to address these challenges.
+Our approach allows researchers to build interpretable representations that embed domain knowledge and provide explanations throughout the model's decision process.
+We demonstrate the idea on multiple mental health tasks: depression classification, PTSD classification, and suicidal risk assessment.
+Our systems consistently produce strong results, even in low-resource scenarios, and are more interpretable than alternative methods.
+Author{1}{Firstname}#=%=#Andrew
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#jylee313
+Author{1}{Email}#=%=#ajyl@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Jonathan K.
+Author{2}{Lastname}#=%=#Kummerfeld
+Author{2}{Username}#=%=#jkk
+Author{2}{Email}#=%=#jkummerf@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Larry
+Author{3}{Lastname}#=%=#An
+Author{3}{Email}#=%=#lcan@med.umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+Author{4}{Firstname}#=%=#Rada
+Author{4}{Lastname}#=%=#Mihalcea
+Author{4}{Username}#=%=#rada
+Author{4}{Email}#=%=#mihalcea@umich.edu
+Author{4}{Affiliation}#=%=#University of Michigan
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=#Multi-task Learning in Argument Mining for Persuasive Online Discussions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nhat Tran
+JobTitle#==#
+Organization#==#School of Computing and Information, University of Pittsburgh.
+135 N Bellefield Ave, Pittsburgh, PA 15213.
+Abstract#==#We utilize multi-task learning to improve argument mining in persuasive online discussions, in which both micro-level and macro-level argumentation must be taken into consideration. Our models learn to identify argument components and the relations between them at the same time. We also tackle the low-precision which arises from imbalanced relation data by experimenting with SMOTE and XGBoost. 
+Our approaches improve over baselines that use the same pre-trained language model but process the argument component task and two relation tasks separately. Furthermore, our results suggest that the tasks to be incorporated into multi-task learning should be taken into consideration as using all relevant tasks does not always lead to the best performance.
+Author{1}{Firstname}#=%=#Nhat
+Author{1}{Lastname}#=%=#Tran
+Author{1}{Username}#=%=#nhattlm
+Author{1}{Email}#=%=#nlt26@pitt.edu
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Diane
+Author{2}{Lastname}#=%=#Litman
+Author{2}{Username}#=%=#litman
+Author{2}{Email}#=%=#dlitman@pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

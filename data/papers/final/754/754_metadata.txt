@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#754
+FinalPaperTitle#=%=#Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Xisen Jin
+JobTitle#==#
+Organization#==#
+Abstract#==#The ability to continuously expand knowledge over time and utilize it to rapidly generalize to new tasks is a key feature of human linguistic intelligence. Existing models that pursue rapid generalization to new tasks (e.g., few-shot learning methods), however, are mostly trained in a single shot on fixed datasets, unable to dynamically expand their knowledge; while continual learning algorithms are not specifically designed for rapid generalization. We present a new learning setup, Continual Learning of Few-Shot Learners (CLIF), to address challenges of both learning settings in a unified setup. CLIF assumes a model learns from a sequence of diverse NLP tasks arriving sequentially, accumulating knowledge for improved generalization to new tasks, while also retaining performance on the tasks learned earlier. We examine how the generalization ability is affected in the continual learning setup, evaluate a number of continual learning algorithms, and propose a novel regularized adapter generation approach. We find that catastrophic forgetting affects generalization ability to a lesser degree than performance on seen tasks; while continual learning algorithms can still bring considerable benefit to the generalization ability.
+Author{1}{Firstname}#=%=#Xisen
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Username}#=%=#xisenjin
+Author{1}{Email}#=%=#xisenjin@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Bill Yuchen
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Username}#=%=#yuchenlin
+Author{2}{Email}#=%=#yuchen.lin@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Mohammad
+Author{3}{Lastname}#=%=#Rostami
+Author{3}{Email}#=%=#mrostami@isi.edu
+Author{3}{Affiliation}#=%=#Information Science Institute
+Author{4}{Firstname}#=%=#Xiang
+Author{4}{Lastname}#=%=#Ren
+Author{4}{Username}#=%=#xren7
+Author{4}{Email}#=%=#xiangren@usc.edu
+Author{4}{Affiliation}#=%=#University of Southern California
+
+==========

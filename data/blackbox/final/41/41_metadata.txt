@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#An in-depth look at Euclidean disk embeddings for structure preserving parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Federico Fancellu
+JobTitle#==#
+Organization#==#
+Abstract#==#Preserving the structural properties of trees or graphs when embedding them into a metric space allows for a high degree of interpretability, and has been shown beneficial for downstream tasks (e.g., hypernym detection, natural language inference, multimodal retrieval). However, whereas the majority of prior work looks at using structure-preserving embeddings when encoding a structure given as input, e.g., WordNet (Fellbaum, 1998), there is little exploration on how to use such embeddings when predicting one.
+We address this gap for two structure generation tasks, namely dependency and semantic parsing. We test the applicability of disk embeddings (Suzuki et al., 2019) that has been proposed for embedding Directed Acyclic Graphs (DAGs) but has not been tested on tasks that generate such structures.
+Our experimental results show that for both tasks the original disk embedding formulation leads to much worse performance when compared to non-structure-preserving baselines. We propose enhancements to this formulation and show that they almost close the performance gap for dependency parsing. However, the gap still remains notable for semantic parsing due to the complexity of meaning representation graphs, suggesting a challenge for generating interpretable semantic parse representations.
+Author{1}{Firstname}#=%=#Federico
+Author{1}{Lastname}#=%=#Fancellu
+Author{1}{Username}#=%=#ffancellu
+Author{1}{Email}#=%=#f.fancellu0@gmail.com
+Author{1}{Affiliation}#=%=#Samsung AI Research Canada
+Author{2}{Firstname}#=%=#Lan
+Author{2}{Lastname}#=%=#Xiao
+Author{2}{Username}#=%=#lan.xiao
+Author{2}{Email}#=%=#xiao9899@hotmail.com
+Author{2}{Affiliation}#=%=#Samsung AI Center
+Author{3}{Firstname}#=%=#Allan
+Author{3}{Lastname}#=%=#Jepson
+Author{3}{Username}#=%=#allan.jepson
+Author{3}{Email}#=%=#allan.jepson@samsung.com
+Author{3}{Affiliation}#=%=#Samsung
+Author{4}{Firstname}#=%=#Afsaneh
+Author{4}{Lastname}#=%=#Fazly
+Author{4}{Username}#=%=#afsaneh
+Author{4}{Email}#=%=#a.fazly@samsung.com
+Author{4}{Affiliation}#=%=#Samsung AI Research
+
+==========

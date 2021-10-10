@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#79
+FinalPaperTitle#=%=#Efficient Dialogue Complementary Policy Learning via Deep Q-network Policy and Episodic Memory Policy
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Yangyang Zhao
+JobTitle#==#Ph.D candidate
+Organization#==#South China University of Technology
+Guangzhou Higher Education Mega Centre, Panyu District, Guangzhou, 510006
+Abstract#==#Deep reinforcement learning has shown great potential in training dialogue policies. However, its favorable performance comes at the cost of many rounds of interaction. Most of the existing dialogue policy methods rely on a single learning system, while the human brain has two specialized learning and memory systems, supporting to find good solutions without requiring copious examples. Inspired by the human brain, this paper proposes a novel complementary policy learning (CPL) framework, which exploits the complementary advantages of the episodic memory (EM) policy and the deep Q-network (DQN) policy to achieve fast and effective dialogue policy learning. In order to coordinate between the two policies, we proposed a confidence controller to control the complementary time according to their relative efficacy at different stages. Furthermore, memory connectivity and time pruning are proposed to guarantee the flexible and adaptive generalization of the EM policy in dialog tasks. Experimental results on three dialogue datasets show that our method significantly outperforms existing methods relying on a single learning system.
+Author{1}{Firstname}#=%=#Yangyang
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Username}#=%=#yangyangzhao66
+Author{1}{Email}#=%=#msyyz@mail.scut.edu.cn
+Author{1}{Affiliation}#=%=#south china university of technology
+Author{2}{Firstname}#=%=#Zhenyu
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangzyscut
+Author{2}{Email}#=%=#wangzy@scut.edu.cn
+Author{2}{Affiliation}#=%=#South China University of Technology
+Author{3}{Firstname}#=%=#Changxi
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Username}#=%=#chauncy
+Author{3}{Email}#=%=#c.zhu@uu.nl
+Author{3}{Affiliation}#=%=#Utrecht University
+Author{4}{Firstname}#=%=#Shihan
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#sw1989
+Author{4}{Email}#=%=#s.wang2@uu.nl
+Author{4}{Affiliation}#=%=#Utrecht University
+
+==========

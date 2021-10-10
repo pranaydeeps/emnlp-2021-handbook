@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2873
+FinalPaperTitle#=%=#Agreeing to Disagree: Annotating Offensive Language Datasets with Annotators' Disagreement
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sara Tonelli
+JobTitle#==#
+Organization#==#
+Abstract#==#Since state-of-the-art approaches to offensive language detection rely on supervised learning, 
+it is crucial to quickly adapt them to the continuously evolving scenario of social media. While several approaches have been proposed to tackle the problem from an algorithmic 
+perspective, so to reduce the need for annotated data, less attention has been paid to the quality of these data. Following a trend that has emerged recently, we focus on the level of agreement among annotators while selecting data to create offensive language datasets, a task involving a high level of subjectivity. 
+Our study comprises the creation of three novel datasets of English tweets covering different topics and having five crowd-sourced judgments each. We also present an extensive set of experiments showing that  selecting training and test data according to different levels of annotators' agreement
+has a strong effect on classifiers performance and robustness.  
+Our findings are further validated in cross-domain experiments and studied using a popular benchmark dataset. We show that such hard cases, where low agreement is present, are not necessarily due to poor-quality annotation and we advocate for a higher presence of ambiguous cases in future datasets, in order to train more robust systems and better account for the different points of view expressed online.
+Author{1}{Firstname}#=%=#Elisa
+Author{1}{Lastname}#=%=#Leonardelli
+Author{1}{Username}#=%=#eleonardelli
+Author{1}{Email}#=%=#eleonardelli@fbk.eu
+Author{1}{Affiliation}#=%=#Foundation Bruno Kessler
+Author{2}{Firstname}#=%=#Stefano
+Author{2}{Lastname}#=%=#Menini
+Author{2}{Username}#=%=#menini_s
+Author{2}{Email}#=%=#menini@fbk.eu
+Author{2}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{3}{Firstname}#=%=#Alessio
+Author{3}{Lastname}#=%=#Palmero Aprosio
+Author{3}{Username}#=%=#aprosio
+Author{3}{Email}#=%=#aprosio@fbk.eu
+Author{3}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{4}{Firstname}#=%=#Marco
+Author{4}{Lastname}#=%=#Guerini
+Author{4}{Username}#=%=#marco.guerini
+Author{4}{Email}#=%=#guerini@fbk.eu
+Author{4}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{5}{Firstname}#=%=#Sara
+Author{5}{Lastname}#=%=#Tonelli
+Author{5}{Username}#=%=#satonelli
+Author{5}{Email}#=%=#satonelli@fbk.eu
+Author{5}{Affiliation}#=%=#FBK
+
+==========

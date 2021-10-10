@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1211
+FinalPaperTitle#=%=#Encouraging Lexical Translation Consistency for Document-Level Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Xinglin Lyu
+JobTitle#==#
+Organization#==#
+Abstract#==#Recently a  number of approaches have been proposed to improve translation performance for document-level neural machine translation (NMT). However, few are focusing on the subject of lexical translation consistency.  In this paper we apply “one translation per discourse” in  NMT,  and aim to encourage lexical translation consistency for document-level  NMT. This is done by first obtaining a  word link for each source word in a  document,  which tells the positions where the source word appears. Then we encourage the translation of those words within a link to be consistent in two ways. On the one hand,  when encoding sentences within a document we properly share context information of those words.  On the other hand,  we propose an auxiliary loss function to better constrain that their translation should be consistent. Experimental results on Chinese↔English and English→French translation tasks show that our approach not only achieves state-of-the-art performance in BLEU scores, but also greatly improves lexical consistency in translation.
+Author{1}{Firstname}#=%=#Xinglin
+Author{1}{Lastname}#=%=#Lyu
+Author{1}{Username}#=%=#xinglin
+Author{1}{Email}#=%=#xllv2020@stu.suda.edu.cn
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Junhui
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#lijunhui
+Author{2}{Email}#=%=#lijunhui26@gmail.com
+Author{2}{Affiliation}#=%=#Soochow University, Suzhou
+Author{3}{Firstname}#=%=#Zhengxian
+Author{3}{Lastname}#=%=#Gong
+Author{3}{Username}#=%=#zhxgong_nlpandcc
+Author{3}{Email}#=%=#zhxgong@suda.edu.cn
+Author{3}{Affiliation}#=%=#Computer science and technology school,soochow university
+Author{4}{Firstname}#=%=#Min
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#zhangminsuda
+Author{4}{Email}#=%=#minzhang@suda.edu.cn
+Author{4}{Affiliation}#=%=#Suda
+
+==========

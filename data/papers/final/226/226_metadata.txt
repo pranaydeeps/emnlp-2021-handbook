@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#226
+FinalPaperTitle#=%=#Dense Hierarchical Retrieval for Open-domain Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#YE LIU
+JobTitle#==#
+Organization#==#University of Illinois at Chicago, Chicago, IL, USA
+Abstract#==#Dense neural text retrieval has achieved promising results on open-domain Question Answering (QA), where latent representations of questions and passages are exploited for maximum inner product search in the retrieval process. However, current dense retrievers require splitting documents into short passages that usually contain local, partial and sometimes biased context, and highly depend on the splitting process. As a consequence, it may yield inaccurate and misleading hidden representations, thus deteriorating the final retrieval result. In this work, we propose Dense Hierarchical Retrieval (DHR), a hierarchical framework which can generate accurate dense representations of passages by utilizing both macroscopic semantics in the document and microscopic semantics specific to each passage. Specifically, a document-level retriever first identifies relevant documents, among which relevant passages are then retrieved by a passage-level retriever. The ranking of the retrieved passages will be further calibrated by examining the document-level relevance. In addition, hierarchical title structure and two negative sampling strategies (i.e., In-Doc and In-Sec negatives) are investigated. We apply DHR to large-scale open-domain QA datasets. DHR significantly outperforms the original dense passage retriever, and helps an end-to-end QA system outperform the strong baselines on multiple open-domain QA benchmarks.
+Author{1}{Firstname}#=%=#Ye
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#yliu279
+Author{1}{Email}#=%=#yliu279@uic.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Kazuma
+Author{2}{Lastname}#=%=#Hashimoto
+Author{2}{Username}#=%=#hassy
+Author{2}{Email}#=%=#freedomigo@gmail.com
+Author{2}{Affiliation}#=%=#Salesforce Research
+Author{3}{Firstname}#=%=#Yingbo
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Username}#=%=#yingbo.zhou
+Author{3}{Email}#=%=#yingbo.zhou@salesforce.com
+Author{3}{Affiliation}#=%=#Salesforce Research
+Author{4}{Firstname}#=%=#Semih
+Author{4}{Lastname}#=%=#Yavuz
+Author{4}{Username}#=%=#syavuz
+Author{4}{Email}#=%=#syavuz@salesforce.com
+Author{4}{Affiliation}#=%=#Salesforce Research
+Author{5}{Firstname}#=%=#Caiming
+Author{5}{Lastname}#=%=#Xiong
+Author{5}{Username}#=%=#cxiong
+Author{5}{Email}#=%=#cmxiong.lhi@gmail.com
+Author{5}{Affiliation}#=%=#Salesforce
+Author{6}{Firstname}#=%=#Philip
+Author{6}{Lastname}#=%=#Yu
+Author{6}{Username}#=%=#philipsyu
+Author{6}{Email}#=%=#psyu@uic.edu
+Author{6}{Affiliation}#=%=#Universtiy of Illinois at Chicago
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#4222
+FinalPaperTitle#=%=#Active Learning for Rumor Identification on Social Media
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Mohammad Mahdi Abdollah Pour
+JobTitle#==#
+Organization#==#Amirkabir University of Technology
+No. 350, Hafez Ave, Valiasr Square, Tehran, Iran 1591634311
+Abstract#==#Social media has emerged as a key channel for seeking information. Online users spend several hours reading, posting, and searching for news on microblogging platforms daily. However, this could act as a double-edged sword especially when not all information online is reliable. Moreover, the inherently unmoderated nature of social media renders identifying unverified information ever more challenging. Most of the existing approaches for rumor tracking are not scalable because of their dependency on a significant amount of labeled data. In this work, we investigate this problem from different angles. We design an Active-Transfer Learning (ATL) strategy to identify rumors with a limited amount of annotated data. We go beyond that and investigate the impact of leveraging various machine learning approaches in addition to different contextual representations. We discuss the impact of multiple classifiers on a limited amount of annotated data followed by an interactive approach to gradually update the models by adding the least certain samples (LCS) from the pool of unlabeled data. Our proposed Active Learning (AL) strategy achieves faster convergence in terms of the F-score while requiring fewer annotated samples (42% of the whole dataset for the best model).
+Author{1}{Firstname}#=%=#Parsa
+Author{1}{Lastname}#=%=#Farinneya
+Author{1}{Username}#=%=#parsafar
+Author{1}{Email}#=%=#p_far@aut.ac.ir
+Author{1}{Affiliation}#=%=#Amir Kabir university of technology
+Author{2}{Firstname}#=%=#Mohammad Mahdi
+Author{2}{Lastname}#=%=#Abdollah Pour
+Author{2}{Username}#=%=#mahab
+Author{2}{Email}#=%=#mabdollahpour@aut.ac.ir
+Author{2}{Affiliation}#=%=#Sharif Univ. of Tech.
+Author{3}{Firstname}#=%=#Sardar
+Author{3}{Lastname}#=%=#Hamidian
+Author{3}{Username}#=%=#sardar
+Author{3}{Email}#=%=#sardar@gwu.edu
+Author{3}{Affiliation}#=%=#GWU
+Author{4}{Firstname}#=%=#Mona
+Author{4}{Lastname}#=%=#Diab
+Author{4}{Username}#=%=#mdiab
+Author{4}{Email}#=%=#mtdiab@gmail.com
+Author{4}{Affiliation}#=%=#Facebook AI
+
+==========

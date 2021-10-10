@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#2581
+FinalPaperTitle#=%=#Leveraging Capsule Routing to Associate Knowledge with Medical Literature Hierarchically
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Qingcai Chen
+JobTitle#==#Professor
+Organization#==#Harbin Institute of Technology, Shenzhen
+Peng Cheng Laboratory, Shenzhen
+Abstract#==#Integrating knowledge into text is a promising way to enrich text representation, especially in the medical field. However, undifferentiated knowledge not only confuses the text representation but also imports unexpected noises. In this paper, to alleviate this problem, we propose leveraging capsule routing to associate knowledge with medical literature hierarchically (called HiCapsRKL). Firstly, HiCapsRKL extracts two empirically designed text fragments from medical literature and encodes them into fragment representations respectively. Secondly, the capsule routing algorithm is applied to two fragment representations. Through the capsule computing and dynamic routing, each representation is processed into a new representation (denoted as caps-representation), and we integrate the caps-representations as information gain to associate knowledge with medical literature hierarchically. Finally, HiCapsRKL are validated on relevance prediction and medical literature retrieval test sets. The experimental results and analyses show that HiCapsRKLcan more accurately associate knowledge with medical literature than mainstream methods. In summary, HiCapsRKL can efficiently help selecting the most relevant knowledge to the medical literature, which may be an alternative attempt to improve knowledge-based text representation. Source code is released on GitHub.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#gdls
+Author{1}{Email}#=%=#hit.liuxin@gmail.com
+Author{1}{Affiliation}#=%=#Peng Cheng Laboratory
+Author{2}{Firstname}#=%=#Qingcai
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#qingcai.chen
+Author{2}{Email}#=%=#qingcai.chen@hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{3}{Firstname}#=%=#Junying
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#chenjunying
+Author{3}{Email}#=%=#junying_chen@foxmail.com
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{4}{Firstname}#=%=#Wenxiu
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#zhouwx
+Author{4}{Email}#=%=#wen.xiu.zhou@outlook.com
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{5}{Firstname}#=%=#Tingyu
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#liutingyu
+Author{5}{Email}#=%=#liu-ty@foxmail.com
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{6}{Firstname}#=%=#Xinlan
+Author{6}{Lastname}#=%=#Yang
+Author{6}{Username}#=%=#yangxinlan
+Author{6}{Email}#=%=#xinlan.y@foxmail.com
+Author{6}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{7}{Firstname}#=%=#Weihua
+Author{7}{Lastname}#=%=#Peng
+Author{7}{Username}#=%=#philpeng
+Author{7}{Email}#=%=#pengweihua@baidu.com
+Author{7}{Affiliation}#=%=#Baidu International Technology (Shenzhen) Co., Ltd
+
+==========

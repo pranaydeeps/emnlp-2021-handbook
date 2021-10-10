@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3858
+FinalPaperTitle#=%=#Controlled Evaluation of Grammatical Knowledge in Mandarin Chinese Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Yiwen Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Prior work has shown that structural supervision helps English language models learn generalizations about syntactic phenomena such as subject-verb agreement. However, it remains unclear if such an inductive bias would also improve language models' ability to learn grammatical dependencies in typologically different languages. Here we investigate this question in Mandarin Chinese, which has a logographic, largely syllable-based writing system; different word order; and sparser morphology than English. We train LSTMs, Recurrent Neural Network Grammars, Transformer language models, and Transformer-parameterized generative parsing models on two Mandarin Chinese datasets of different sizes. We evaluate the models' ability to learn different aspects of Mandarin grammar that
+assess syntactic and semantic relationships. We find suggestive evidence that structural supervision helps with representing syntactic state across intervening content and improves performance in low-data settings, suggesting that the benefits of hierarchical inductive biases in acquiring dependency relationships may extend beyond English.
+Author{1}{Firstname}#=%=#Yiwen
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#ywang03
+Author{1}{Email}#=%=#ivyy0303@gmail.com
+Author{1}{Affiliation}#=%=#Harvard University
+Author{2}{Firstname}#=%=#Jennifer
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Username}#=%=#jennhu
+Author{2}{Email}#=%=#jennhu@mit.edu
+Author{2}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{3}{Firstname}#=%=#Roger
+Author{3}{Lastname}#=%=#Levy
+Author{3}{Username}#=%=#rlevy
+Author{3}{Email}#=%=#rplevy@mit.edu
+Author{3}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{4}{Firstname}#=%=#Peng
+Author{4}{Lastname}#=%=#Qian
+Author{4}{Username}#=%=#pqian
+Author{4}{Email}#=%=#pqian@mit.edu
+Author{4}{Affiliation}#=%=#Massachusetts Institute of Technology
+
+==========

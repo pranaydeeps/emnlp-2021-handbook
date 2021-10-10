@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3235
+FinalPaperTitle#=%=#Phrase Retrieval Learns Passage Retrieval, Too
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jinhyuk Lee
+JobTitle#==#
+Organization#==#
+Abstract#==#Dense retrieval methods have shown great promise over sparse retrieval methods in a range of NLP problems.
+Among them, dense phrase retrieval—the most fine-grained retrieval unit—is appealing because phrases can be directly used as the output for question answering and slot filling tasks.
+In this work, we follow the intuition that retrieving phrases naturally entails retrieving larger text blocks and study whether phrase retrieval can serve as the basis for coarse-level retrieval including passages and documents.
+We first observe that a dense phrase-retrieval system, without any retraining, already achieves better passage retrieval accuracy (+3-5% in top-5 accuracy) compared to passage retrievers, which also helps achieve superior end-to-end QA performance with fewer passages.
+Then, we provide an interpretation for why phrase-level supervision helps learn better fine-grained entailment compared to passage-level supervision, and also show that phrase retrieval can be improved to achieve competitive performance in document-retrieval tasks such as entity linking and knowledge-grounded dialogue.
+Finally, we demonstrate how phrase filtering and vector quantization can reduce the size of our index by 4-10x, making dense phrase retrieval a practical and versatile solution in multi-granularity retrieval.
+Author{1}{Firstname}#=%=#Jinhyuk
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#jinhyuk
+Author{1}{Email}#=%=#jinhyuk_lee@korea.ac.kr
+Author{1}{Affiliation}#=%=#Korea University
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Lastname}#=%=#Wettig
+Author{2}{Username}#=%=#awettig
+Author{2}{Email}#=%=#wettig.alexander@gmail.com
+Author{2}{Affiliation}#=%=#Princeton University
+Author{3}{Firstname}#=%=#Danqi
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#cdq10131
+Author{3}{Email}#=%=#danqic@cs.princeton.edu
+Author{3}{Affiliation}#=%=#Princeton University
+
+==========

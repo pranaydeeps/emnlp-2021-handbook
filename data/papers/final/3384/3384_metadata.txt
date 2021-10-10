@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3384
+FinalPaperTitle#=%=#The Perils of Using Mechanical Turk to Evaluate Open-Ended Text Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Marzena Karpinska
+JobTitle#==#
+Organization#==#University of Massachusetts Amherst
+
+College of Information and Computer Sciences
+University of Massachusetts Amherst
+Computer Science Building
+140 Governors Drive
+Amherst, MA 01003-9264
+Abstract#==#Recent text generation research has increasingly focused on open-ended domains such as story and poetry generation. Because models built for such tasks are difficult to evaluate automatically, most researchers in the space justify their modeling choices by collecting crowdsourced human judgments of text quality (e.g., Likert scores of coherence or grammaticality) from Amazon Mechanical Turk (AMT). In this paper, we first conduct a survey of 45 open-ended text generation papers and find that the vast majority of them fail to report crucial details about their AMT tasks, hindering reproducibility. We then run a series of story evaluation experiments with both AMT workers and English teachers and discover that even with strict qualification filters, AMT workers (unlike teachers) fail to distinguish between model-generated text and human-generated references. We show that AMT worker judgments improve when they are shown model-generated output alongside human-generated references, which enables the workers to better calibrate their ratings. Finally, interviews with the English teachers provide deeper insights into the challenges of the evaluation process, particularly when rating model-generated text.
+Author{1}{Firstname}#=%=#Marzena
+Author{1}{Lastname}#=%=#Karpinska
+Author{1}{Username}#=%=#marzena_karpinska
+Author{1}{Email}#=%=#marzena.karpinska@gmail.com
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Nader
+Author{2}{Lastname}#=%=#Akoury
+Author{2}{Username}#=%=#nsa
+Author{2}{Email}#=%=#nsa@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Mohit
+Author{3}{Lastname}#=%=#Iyyer
+Author{3}{Username}#=%=#miyyer
+Author{3}{Email}#=%=#m.iyyer@gmail.com
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
+
+==========

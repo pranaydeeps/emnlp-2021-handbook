@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Developing Conversational Data and Detection of Conversational Humor in Telugu
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Vaishnavi Pamulapati
+JobTitle#==#
+Organization#==#International Institute of Information Technology, Hyderabad
+Abstract#==#In the field of humor research, there has been a recent surge of interest in the sub-domain of Conversational Humor (CH). This study has two main objectives. (a) develop a conversational (humorous and non-humorous) dataset in Telugu. (b) detect CH in the compiled dataset. In this paper, the challenges faced while collecting the data and experiments carried out are elucidated. Transfer learning and non-transfer learning techniques are implemented by utilizing pre-trained models such as FastText word embeddings, BERT language models and Text GCN, which learns the word and document embeddings simultaneously of the corpus given. State-of-the-art results are observed with a 99.3% accuracy and a 98.5% f1 score achieved by BERT.
+Author{1}{Firstname}#=%=#Vaishnavi
+Author{1}{Lastname}#=%=#Pamulapati
+Author{1}{Username}#=%=#vaishnavi_pamulapati
+Author{1}{Email}#=%=#vaishnavi.p@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#International Institute of Information Technology
+Author{2}{Firstname}#=%=#Radhika
+Author{2}{Lastname}#=%=#Mamidi
+Author{2}{Email}#=%=#radhika.mamidi@iiit.ac.in
+Author{2}{Affiliation}#=%=#International Institute of Information Technology
+
+==========

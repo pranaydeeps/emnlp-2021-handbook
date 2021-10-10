@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3720
+FinalPaperTitle#=%=#Textual Time Travel: A Temporally Informed Approach to Theory of Mind
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Akshatha Arodi Nagaraja
+JobTitle#==#
+Organization#==#Mila/McGill University, Montreal, QC, Canada
+Abstract#==#Natural language processing systems such as dialogue agents should be able to reason about other people's beliefs, intentions and desires. This capability, called theory of mind (ToM), is crucial, as it allows a model to predict and interpret the needs of users based on their mental states. A recent line of research evaluates the ToM capability of existing memory-augmented neural models through question-answering. These models perform poorly on false belief tasks where beliefs differ from reality, especially when the dataset contains distracting sentences. In this paper, we propose a new temporally informed approach for improving the ToM capability of memory-augmented neural models. Our model incorporates priors about the entities' minds and tracks their mental states as they evolve over time through an extended passage. It then responds to queries through textual time travel--i.e., by accessing the stored memory of an earlier time step. We evaluate our model on ToM datasets and find that this approach improves performance, particularly by correcting the predicted mental states to match the false belief.
+Author{1}{Firstname}#=%=#Akshatha
+Author{1}{Lastname}#=%=#Arodi
+Author{1}{Username}#=%=#akshathaarodi
+Author{1}{Email}#=%=#akshatha.arodi@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#Mila/McGill University
+Author{2}{Firstname}#=%=#Jackie Chi Kit
+Author{2}{Lastname}#=%=#Cheung
+Author{2}{Username}#=%=#jcheung
+Author{2}{Email}#=%=#jcheung@cs.mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+
+==========

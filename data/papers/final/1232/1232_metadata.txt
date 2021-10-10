@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1232
+FinalPaperTitle#=%=#Transformer Feed-Forward Layers Are Key-Value Memories
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mor Geva
+JobTitle#==#
+Organization#==#Blavatnik School of Computer Science
+Check Point Building
+Tel Aviv University,
+P.O.B. 39040, Ramat Aviv, Tel Aviv 6997801
+Abstract#==#Feed-forward layers constitute two-thirds of a transformer model's parameters, yet their role in the network remains under-explored. We show that feed-forward layers in transformer-based language models operate as key-value memories, where each key correlates with textual patterns in the training examples, and each value induces a distribution over the output vocabulary. Our experiments show that the learned patterns are human-interpretable, and that lower layers tend to capture shallow patterns, while upper layers learn more semantic ones. The values complement the keys' input patterns by inducing output distributions that concentrate probability mass on tokens likely to appear immediately after each pattern, particularly in the upper layers. Finally, we demonstrate that the output of a feed-forward layer is a composition of its memories, which is subsequently refined throughout the model's layers via residual connections to produce the final output distribution.
+Author{1}{Firstname}#=%=#Mor
+Author{1}{Lastname}#=%=#Geva
+Author{1}{Username}#=%=#mega
+Author{1}{Email}#=%=#morgeva@mail.tau.ac.il
+Author{1}{Affiliation}#=%=#Tel Aviv University
+Author{2}{Firstname}#=%=#Roei
+Author{2}{Lastname}#=%=#Schuster
+Author{2}{Username}#=%=#roeischuster
+Author{2}{Email}#=%=#rs864@cornell.edu
+Author{2}{Affiliation}#=%=#Cornell Tech, Tel Aviv University
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Berant
+Author{3}{Username}#=%=#joberant
+Author{3}{Email}#=%=#joberant@cs.tau.ac.il
+Author{3}{Affiliation}#=%=#Tel Aviv University and AI2
+Author{4}{Firstname}#=%=#Omer
+Author{4}{Lastname}#=%=#Levy
+Author{4}{Username}#=%=#omerlevy
+Author{4}{Email}#=%=#omerlevy@gmail.com
+Author{4}{Affiliation}#=%=#Tel Aviv University
+
+==========

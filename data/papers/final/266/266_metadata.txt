@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#266
+FinalPaperTitle#=%=#Improving and Simplifying Pattern Exploiting Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Derek Tam
+JobTitle#==#
+Organization#==#UNC Chapel Hill 
+201 South Columbia St
+Chapel Hill, NC 27599
+Abstract#==#Recently, pre-trained language models (LMs) have achieved strong performance when fine-tuned on difficult benchmarks like SuperGLUE. However, performance can suffer when there are very few labeled examples available for fine-tuning. Pattern Exploiting Training (PET) is a recent approach that leverages patterns for few-shot learning. However, PET uses task-specific unlabeled data. In this paper, we focus on few-shot learning without any unlabeled data and introduce ADAPET, which modifies PET's objective to provide denser supervision during fine-tuning. As a result, ADAPET outperforms PET on SuperGLUE without any task-specific unlabeled data.
+Author{1}{Firstname}#=%=#Derek
+Author{1}{Lastname}#=%=#Tam
+Author{1}{Username}#=%=#dptam
+Author{1}{Email}#=%=#dtredsox@cs.unc.edu
+Author{1}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{2}{Firstname}#=%=#Rakesh
+Author{2}{Lastname}#=%=#R. Menon
+Author{2}{Username}#=%=#rrmenon
+Author{2}{Email}#=%=#rrmenon@cs.unc.edu
+Author{2}{Affiliation}#=%=#University of North Carolina Chapel Hill
+Author{3}{Firstname}#=%=#Mohit
+Author{3}{Lastname}#=%=#Bansal
+Author{3}{Username}#=%=#mbansal
+Author{3}{Email}#=%=#mbansal@cs.unc.edu
+Author{3}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{4}{Firstname}#=%=#Shashank
+Author{4}{Lastname}#=%=#Srivastava
+Author{4}{Username}#=%=#shsriva
+Author{4}{Email}#=%=#shsriva@gmail.com
+Author{4}{Affiliation}#=%=#UNC Chapel Hill
+Author{5}{Firstname}#=%=#Colin
+Author{5}{Lastname}#=%=#Raffel
+Author{5}{Username}#=%=#craffel
+Author{5}{Email}#=%=#craffel@gmail.com
+Author{5}{Affiliation}#=%=#University of North Carolina/Hugging Face
+
+==========

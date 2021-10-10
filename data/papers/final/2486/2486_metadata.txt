@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2486
+FinalPaperTitle#=%=#Controlled Neural Sentence-Level Reframing of News Articles
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wei-Fan Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Framing a news article means to portray the reported event from a specific perspective, e.g., from an economic or a health perspective. Reframing means to change this perspective. Depending on the audience or the submessage, reframing can become necessary to achieve the desired effect on the readers. Reframing is related to adapting style and sentiment, which can be tackled with neural text generation techniques. However, it is more challenging since changing a frame requires rewriting entire sentences rather than single phrases. In this paper, we study how to computationally reframe sentences in news articles while maintaining their coherence to the context. We treat reframing as a sentence-level fill-in-the-blank task for which we train neural models on an existing media frame corpus. To guide the training, we propose three strategies: framed-language pretraining, named-entity preservation, and adversarial learning. We evaluate respective models automatically and manually for topic consistency, coherence, and successful reframing. Our results indicate that generating properly-framed text works well but with tradeoffs.
+Author{1}{Firstname}#=%=#Wei-Fan
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#viericwf
+Author{1}{Email}#=%=#cwf@mail.upb.de
+Author{1}{Affiliation}#=%=#Paderborn University
+Author{2}{Firstname}#=%=#Khalid
+Author{2}{Lastname}#=%=#Al Khatib
+Author{2}{Username}#=%=#khalid
+Author{2}{Email}#=%=#khalid.alkhatib@uni-leipzig.de
+Author{2}{Affiliation}#=%=#Leipzig University
+Author{3}{Firstname}#=%=#Benno
+Author{3}{Lastname}#=%=#Stein
+Author{3}{Username}#=%=#benno.stein
+Author{3}{Email}#=%=#benno.stein@uni-weimar.de
+Author{3}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{4}{Firstname}#=%=#Henning
+Author{4}{Lastname}#=%=#Wachsmuth
+Author{4}{Username}#=%=#hwachsmuth
+Author{4}{Email}#=%=#henningw@upb.de
+Author{4}{Affiliation}#=%=#Paderborn University
+
+==========

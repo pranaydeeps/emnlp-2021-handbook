@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#4132
+FinalPaperTitle#=%=#MOMENTA: A Multimodal Framework for Detecting Harmful Memes and Their Targets
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Shraman Pramanick
+JobTitle#==#
+Organization#==#Johns Hopkins University 
+3400 N. Charles St. Baltimore, MD 21218-2683, USA.
+Abstract#==#Internet memes have become powerful means to transmit political, psychological, and socio-cultural ideas. Although memes are typically humorous, recent days have witnessed an escalation of harmful memes used for trolling, cyberbullying, and abuse. Detecting such memes is challenging as they can be highly satirical and cryptic. Moreover, while previous work has focused on specific aspects of memes such as hate speech and propaganda, there has been little work on harm in general. Here, we aim to bridge this gap. In particular, we focus on two tasks: (i)detecting harmful memes, and (ii) identifying the social entities they target. We further extend the recently released HarMeme dataset, which covered COVID-19, with additional memes and a new topic: US politics. To solve these tasks, we propose MOMENTA (MultimOdal framework for detecting harmful MemEs aNd Their tArgets), a novel multimodal deep neural network that uses global and local perspectives to detect harmful memes. MOMENTA systematically analyzes the local and the global perspective of the input meme (in both modalities) and relates it to the background context. MOMENTA is interpretable and generalizable, and our experiments show that it outperforms several strong rivaling approaches.
+Author{1}{Firstname}#=%=#Shraman
+Author{1}{Lastname}#=%=#Pramanick
+Author{1}{Username}#=%=#spraman3
+Author{1}{Email}#=%=#spraman3@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Shivam
+Author{2}{Lastname}#=%=#Sharma
+Author{2}{Username}#=%=#shiv6891
+Author{2}{Email}#=%=#shivams@iiitd.ac.in
+Author{2}{Affiliation}#=%=#Indraprastha Institute of Information Technology Delhi
+Author{3}{Firstname}#=%=#Dimitar
+Author{3}{Lastname}#=%=#Dimitrov
+Author{3}{Username}#=%=#didimitrov
+Author{3}{Email}#=%=#mitko.bg.ss@gmail.com
+Author{3}{Affiliation}#=%=#University of Sofia "St. Kliment Ohridski"
+Author{4}{Firstname}#=%=#Md. Shad
+Author{4}{Lastname}#=%=#Akhtar
+Author{4}{Username}#=%=#shadakhtar
+Author{4}{Email}#=%=#shad.akhtar@gmail.com
+Author{4}{Affiliation}#=%=#Indraprastha Institute of Information Technology, Delhi
+Author{5}{Firstname}#=%=#Preslav
+Author{5}{Lastname}#=%=#Nakov
+Author{5}{Username}#=%=#preslav
+Author{5}{Email}#=%=#preslav.nakov@gmail.com
+Author{5}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{6}{Firstname}#=%=#Tanmoy
+Author{6}{Lastname}#=%=#Chakraborty
+Author{6}{Username}#=%=#kgectops
+Author{6}{Email}#=%=#chak.tanmoy.iit@gmail.com
+Author{6}{Affiliation}#=%=#Indraprastha Institute of Information Technology Delhi (IIIT-D), India
+
+==========

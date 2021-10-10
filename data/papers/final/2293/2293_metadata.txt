@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#2293
+FinalPaperTitle#=%=#Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yaqing Wang
+JobTitle#==#
+Organization#==#Baidu Research, China
+Abstract#==#Short text classification is a fundamental task in natural language processing.  It is hard due to the lack of context information and labeled data in practice. In this paper, we propose a new method called SHINE, which is based on graph neural network (GNN), for short text classification. First, we model the short text dataset as a hierarchical heterogeneous graph consisting of word-level component graphs which introduce more semantic and syntactic information. Then, we dynamically learn a short document graph that facilitates effective label propagation among similar short texts. Thus, comparing with existing GNN-based methods, SHINE can better exploit interactions between nodes of the same types and capture similarities between short texts. Extensive experiments on various benchmark short text datasets show that SHINE consistently outperforms state-of-the-art methods, especially with fewer labels.
+Author{1}{Firstname}#=%=#Yaqing
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#tata1661
+Author{1}{Email}#=%=#ywangcy@connect.ust.hk
+Author{1}{Affiliation}#=%=#Baidu Research
+Author{2}{Firstname}#=%=#Song
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#wangsong162768@gmail.com
+Author{2}{Affiliation}#=%=#Baidu Research
+Author{3}{Firstname}#=%=#Quanming
+Author{3}{Lastname}#=%=#Yao
+Author{3}{Username}#=%=#qyaoaa
+Author{3}{Email}#=%=#qyaoaa@connect.ust.hk
+Author{3}{Affiliation}#=%=#Tsinghua
+Author{4}{Firstname}#=%=#Dejing
+Author{4}{Lastname}#=%=#Dou
+Author{4}{Username}#=%=#doubaidu
+Author{4}{Email}#=%=#doudejing@baidu.com
+Author{4}{Affiliation}#=%=#Baidu Research
+
+==========

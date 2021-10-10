@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#4696
+FinalPaperTitle#=%=#MultiFix: Learning to Repair Multiple Errors by Optimal Alignment Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hyeon-Tae Seo
+JobTitle#==#
+Organization#==#
+Abstract#==#We consider the problem of learning to repair erroneous C programs by learning optimal alignments with correct programs. Since the previous approaches fix a single error in a line, it is inevitable to iterate the fixing process until no errors remain.
+In this work, we propose a novel sequence-to-sequence learning framework for fixing multiple program errors at a time. We introduce the edit-distance-based data labeling approach for program error correction. Instead of labeling a program repair example by pairing an erroneous program with a line fix, we label the example by paring an erroneous program with an optimal alignment to the corresponding correct program produced by the edit-distance computation. 
+We evaluate our proposed approach on a publicly available dataset (DeepFix dataset) that consists of erroneous C programs submitted by novice programming students. On a set of 6,975 erroneous C programs from the DeepFix dataset, our approach achieves the state-of-the-art result in terms of full repair rate on the DeepFix dataset (without extra data such as compiler error message or additional source codes for pre-training).
+Author{1}{Firstname}#=%=#HyeonTae
+Author{1}{Lastname}#=%=#Seo
+Author{1}{Username}#=%=#hyeontae
+Author{1}{Email}#=%=#dchs504@yonsei.ac.kr
+Author{1}{Affiliation}#=%=#Yonsei University
+Author{2}{Firstname}#=%=#Yo-Sub
+Author{2}{Lastname}#=%=#Han
+Author{2}{Username}#=%=#emmous
+Author{2}{Email}#=%=#emmous@yonsei.ac.kr
+Author{2}{Affiliation}#=%=#Yonsei University
+Author{3}{Firstname}#=%=#Sang-Ki
+Author{3}{Lastname}#=%=#Ko
+Author{3}{Username}#=%=#sangkiko
+Author{3}{Email}#=%=#narame7@gmail.com
+Author{3}{Affiliation}#=%=#Kangwon National University
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#61
+FinalPaperTitle#=%=#Generalising to German Plural Noun Classes, from the Perspective of a Recurrent Neural Network
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Verna Dankers
+JobTitle#==#
+Organization#==#
+Abstract#==#Inflectional morphology has since long been a useful testing ground for broader questions about generalisation in language and the viability of neural network models as cognitive models of language.
+Here, in line with that tradition, we explore how recurrent neural networks acquire the complex German plural system and reflect upon how their strategy compares to human generalisation and rule-based models of this system.
+We perform analyses including behavioural experiments, diagnostic classification, representation analysis and causal interventions, suggesting that the models rely on features that are also key predictors in rule-based models of German plurals.
+However, the models also display shortcut learning, which is crucial to overcome in search of more cognitively plausible generalisation behaviour.
+Author{1}{Firstname}#=%=#Verna
+Author{1}{Lastname}#=%=#Dankers
+Author{1}{Username}#=%=#vernadankers
+Author{1}{Email}#=%=#vernadankers@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Anna
+Author{2}{Lastname}#=%=#Langedijk
+Author{2}{Username}#=%=#annalangedijk
+Author{2}{Email}#=%=#annalangedijk@gmail.com
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Kate
+Author{3}{Lastname}#=%=#McCurdy
+Author{3}{Username}#=%=#kmccurdy
+Author{3}{Email}#=%=#kate.mccurdy@ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Adina
+Author{4}{Lastname}#=%=#Williams
+Author{4}{Username}#=%=#adinawilliams
+Author{4}{Email}#=%=#adinawilliams@nyu.edu
+Author{4}{Affiliation}#=%=#Facebook, Inc.
+Author{5}{Firstname}#=%=#Dieuwke
+Author{5}{Lastname}#=%=#Hupkes
+Author{5}{Username}#=%=#dieuwkehupkes
+Author{5}{Email}#=%=#dieuwkehupkes@fb.com
+Author{5}{Affiliation}#=%=#Facebook AI Research
+
+==========

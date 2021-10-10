@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#3689
+FinalPaperTitle#=%=#Connect-the-Dots: Bridging Semantics between Words and Definitions via Aligning Word Sense Inventories
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wenlin Yao
+JobTitle#==#
+Organization#==#Tencent AI Lab
+10900 NE 8th St, Bellevue, WA 98004
+Abstract#==#Word Sense Disambiguation (WSD) aims to automatically identify the exact meaning of one word according to its context. 
+Existing supervised models struggle to make correct predictions on rare word senses due to limited training data and can only select the best definition sentence from one predefined word sense inventory (e.g., WordNet). To address the data sparsity problem and generalize the model to be independent of one predefined inventory, we propose a gloss alignment algorithm that can align definition sentences (glosses) with the same meaning from different sense inventories to collect rich lexical knowledge. We then train a model to identify semantic equivalence between a target word in context and one of its glosses using these aligned inventories, which exhibits strong transfer capability to many WSD tasks. Experiments on benchmark datasets show that the proposed method improves predictions on both frequent and rare word senses, outperforming prior work by 1.2% on the All-Words WSD Task and 4.3% on the Low-Shot WSD Task. Evaluation on WiC Task also indicates that our method can better capture word meanings in context.
+Author{1}{Firstname}#=%=#Wenlin
+Author{1}{Lastname}#=%=#Yao
+Author{1}{Username}#=%=#wenlinyao
+Author{1}{Email}#=%=#wenlin.yao.cs@gmail.com
+Author{1}{Affiliation}#=%=#Tencent AI Lab
+Author{2}{Firstname}#=%=#Xiaoman
+Author{2}{Lastname}#=%=#Pan
+Author{2}{Username}#=%=#panx2
+Author{2}{Email}#=%=#xiaomanpan@tencent.com
+Author{2}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Firstname}#=%=#Lifeng
+Author{3}{Lastname}#=%=#Jin
+Author{3}{Username}#=%=#lain6631
+Author{3}{Email}#=%=#jin.544@osu.edu
+Author{3}{Affiliation}#=%=#Tencent AI Lab
+Author{4}{Firstname}#=%=#Jianshu
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#chenjianshu
+Author{4}{Email}#=%=#chenjianshu@gmail.com
+Author{4}{Affiliation}#=%=#Tencent AI Lab
+Author{5}{Firstname}#=%=#Dian
+Author{5}{Lastname}#=%=#Yu
+Author{5}{Username}#=%=#dian
+Author{5}{Email}#=%=#yudiandoris@gmail.com
+Author{5}{Affiliation}#=%=#Tencent AI Lab
+Author{6}{Firstname}#=%=#Dong
+Author{6}{Lastname}#=%=#Yu
+Author{6}{Username}#=%=#dongyu
+Author{6}{Email}#=%=#dongyu@ieee.org
+Author{6}{Affiliation}#=%=#Tencent AI Lab
+
+==========

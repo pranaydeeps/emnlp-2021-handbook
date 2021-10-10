@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Citizen Involvement in Urban Planning - How Can Municipalities Be Supported in Evaluating Public Participation Processes for Mobility Transitions?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Julia Romberg
+JobTitle#==#
+Organization#==#Heinrich Heine University Düsseldorf, Universitätsstraße 1, 40225 Düsseldorf, Germany
+Abstract#==#Public participation processes allow citizens to engage in municipal decision-making processes by expressing their opinions on specific issues. Municipalities often only have limited resources to analyze a possibly large amount of textual contributions that need to be evaluated in a timely and detailed manner. Automated support for the evaluation is therefore essential, e.g. to analyze arguments. In this paper, we address (A) the identification of argumentative discourse units and (B) their classification as major position or premise in German public participation processes. The objective of our work is to make argument mining viable for use in municipalities. We compare different argument mining approaches and develop a generic model that can successfully detect argument structures in different datasets of mobility-related urban planning. We introduce a new data corpus comprising five public participation processes. In our evaluation, we achieve high macro F1 scores (0.76 - 0.80 for the identification of argumentative units; 0.86 - 0.93 for their classification) on all datasets. Additionally, we improve previous results for the classification of argumentative units on a similar German online participation dataset.
+Author{1}{Firstname}#=%=#Julia
+Author{1}{Lastname}#=%=#Romberg
+Author{1}{Username}#=%=#romberg
+Author{1}{Email}#=%=#julia.romberg@hhu.de
+Author{1}{Affiliation}#=%=#Institute of Social Sciences, Heinrich Heine University Düsseldorf
+Author{2}{Firstname}#=%=#Stefan
+Author{2}{Lastname}#=%=#Conrad
+Author{2}{Email}#=%=#stefan.conrad@uni-duesseldorf.de
+Author{2}{Affiliation}#=%=#Institute of Computer Science, Heinrich Heine University Düsseldorf
+
+==========

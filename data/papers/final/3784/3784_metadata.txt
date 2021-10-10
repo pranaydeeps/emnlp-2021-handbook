@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3784
+FinalPaperTitle#=%=#Written Justifications are Key to Aggregate Crowdsourced Forecasts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Saketh Kotamraju
+JobTitle#==#Student
+Organization#==#Heritage High School
+Abstract#==#This paper demonstrates that aggregating crowdsourced forecasts benefits from modeling the written justifications provided by forecasters. Our experiments show that the majority and weighted vote baselines are competitive, and that the written justifications are beneficial to call a question throughout its life except in the last quarter. We also conduct an error analysis shedding light into the characteristics that make a justification unreliable.
+Author{1}{Firstname}#=%=#Saketh
+Author{1}{Lastname}#=%=#Kotamraju
+Author{1}{Username}#=%=#saketh105
+Author{1}{Email}#=%=#saketh.kotamraju@gmail.com
+Author{1}{Affiliation}#=%=#University of North Texas
+Author{2}{Firstname}#=%=#Eduardo
+Author{2}{Lastname}#=%=#Blanco
+Author{2}{Username}#=%=#edublv
+Author{2}{Email}#=%=#eduardo.blanco@asu.edu
+Author{2}{Affiliation}#=%=#Arizona State University
+
+==========

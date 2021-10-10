@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#887
+FinalPaperTitle#=%=#Automatic Text Evaluation through the Lens of Wasserstein Barycenters
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Pierre Colombo
+JobTitle#==#
+Organization#==#
+Abstract#==#A new metric \texttt{BaryScore} to evaluate text generation based on deep contextualized embeddings (\textit{e.g.}, BERT, Roberta, ELMo) is introduced. This metric is motivated by a new framework relying on optimal transport tools, \textit{i.e.}, Wasserstein distance and barycenter. By modelling the layer output of deep contextualized embeddings as a probability distribution rather than by a vector embedding; this framework provides a natural way to aggregate the different outputs through the Wasserstein space topology. In addition, it provides theoretical grounds to our metric and offers an alternative to available solutions (\textit{e.g.},  MoverScore and BertScore). Numerical evaluation is performed on four different tasks:  machine translation, summarization, data2text generation and image captioning. Our results show that \texttt{BaryScore} outperforms other BERT based metrics and exhibits more consistent behaviour in particular for text summarization.
+Author{1}{Firstname}#=%=#Pierre
+Author{1}{Lastname}#=%=#Colombo
+Author{1}{Username}#=%=#pcolombo
+Author{1}{Email}#=%=#pierre.colombo@telecom-paristech.fr
+Author{1}{Affiliation}#=%=#Telecom ParisTech
+Author{2}{Firstname}#=%=#Guillaume
+Author{2}{Lastname}#=%=#Staerman
+Author{2}{Username}#=%=#staermanguillaume
+Author{2}{Email}#=%=#staerman.guillaume@gmail.com
+Author{2}{Affiliation}#=%=#Télécom Paris
+Author{3}{Firstname}#=%=#Chloé
+Author{3}{Lastname}#=%=#Clavel
+Author{3}{Username}#=%=#cclavel
+Author{3}{Email}#=%=#chloe.clavel@telecom-paristech.fr
+Author{3}{Affiliation}#=%=#LTCI, Telecom-Paris, Institut Polytechnique de Paris
+Author{4}{Firstname}#=%=#Pablo
+Author{4}{Lastname}#=%=#Piantanida
+Author{4}{Username}#=%=#pablo.pianta
+Author{4}{Email}#=%=#pablo.piantanida@centralesupelec.fr
+Author{4}{Affiliation}#=%=#CNRS Université Paris Saclay
+
+==========

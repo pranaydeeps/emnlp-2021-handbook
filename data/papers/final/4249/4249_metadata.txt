@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#4249
+FinalPaperTitle#=%=#Cross-Domain Data Integration for Named Entity Disambiguation in Biomedical Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Maya Varma
+JobTitle#==#
+Organization#==#Stanford University
+Abstract#==#Named entity disambiguation (NED), which involves mapping textual mentions to structured entities, is particularly challenging in the medical domain due to the presence of rare entities. Existing approaches are limited by the presence of coarse-grained structural resources in biomedical knowledge bases as well as the use of training datasets that provide low coverage over uncommon resources. In this work, we address these issues by proposing a cross-domain data integration method that transfers structural knowledge from a general text knowledge base to the medical domain. We utilize our integration scheme to augment structural resources and generate a large biomedical NED dataset for pretraining. Our pretrained model with injected structural knowledge achieves state-of-the-art performance on two benchmark medical NED datasets: MedMentions and BC5CDR. Furthermore, we improve disambiguation of rare entities by up to 57 accuracy points.
+Author{1}{Firstname}#=%=#Maya
+Author{1}{Lastname}#=%=#Varma
+Author{1}{Username}#=%=#mvarma
+Author{1}{Email}#=%=#mvarma2@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Laurel
+Author{2}{Lastname}#=%=#Orr
+Author{2}{Username}#=%=#lorr1
+Author{2}{Email}#=%=#lorr1@cs.stanford.edu
+Author{2}{Affiliation}#=%=#Stanford
+Author{3}{Firstname}#=%=#Sen
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#senwu@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Megan
+Author{4}{Lastname}#=%=#Leszczynski
+Author{4}{Username}#=%=#mleszczy
+Author{4}{Email}#=%=#mleszczy@stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+Author{5}{Firstname}#=%=#Xiao
+Author{5}{Lastname}#=%=#Ling
+Author{5}{Username}#=%=#xiaoling
+Author{5}{Email}#=%=#xiaoling@apple.com
+Author{5}{Affiliation}#=%=#Apple, Inc.
+Author{6}{Firstname}#=%=#Christopher
+Author{6}{Lastname}#=%=#Ré
+Author{6}{Email}#=%=#chrismre@stanford.edu
+Author{6}{Affiliation}#=%=#Stanford University
+
+==========

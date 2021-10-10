@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#1553
+FinalPaperTitle#=%=#What’s Hidden in a One-layer Randomly Weighted Transformer?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Sheng Shen
+JobTitle#==#
+Organization#==#
+Abstract#==#We demonstrate that, hidden within one-layer randomly weighted neural networks, there exist subnetworks that can achieve impressive performance, without ever modifying the weight initializations, on machine translation tasks. 
+To find subnetworks for one-layer randomly weighted neural networks, we apply different binary masks to the same weight matrix to generate different layers. 
+Hidden within a one-layer randomly weighted Transformer, we find that subnetworks that can achieve 29.45/17.29 BLEU on IWSLT14/WMT14. 
+Using a fixed pre-trained embedding layer, the previously found subnetworks are smaller than, but can match 98\%/92\% (34.14/25.24 BLEU) of the performance of, a trained Transformer$_\text{small/base}$ on IWSLT14/WMT14. 
+Furthermore, we demonstrate the effectiveness of larger and deeper transformers in this setting, as well as the impact of different initialization methods.
+Author{1}{Firstname}#=%=#Sheng
+Author{1}{Lastname}#=%=#Shen
+Author{1}{Username}#=%=#sheng.s
+Author{1}{Email}#=%=#sheng.s@berkeley.edu
+Author{1}{Affiliation}#=%=#University of California, Berkeley
+Author{2}{Firstname}#=%=#Zhewei
+Author{2}{Lastname}#=%=#Yao
+Author{2}{Username}#=%=#zheweiy
+Author{2}{Email}#=%=#zheweiy@berkeley.edu
+Author{2}{Affiliation}#=%=#UC Berkeley
+Author{3}{Firstname}#=%=#Douwe
+Author{3}{Lastname}#=%=#Kiela
+Author{3}{Username}#=%=#douwe.kiela
+Author{3}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Kurt
+Author{4}{Lastname}#=%=#Keutzer
+Author{4}{Username}#=%=#keutzer
+Author{4}{Email}#=%=#keutzer@berkeley.edu
+Author{4}{Affiliation}#=%=#University of California, Berkeley
+Author{5}{Firstname}#=%=#Michael
+Author{5}{Lastname}#=%=#Mahoney
+Author{5}{Username}#=%=#mmahoney
+Author{5}{Email}#=%=#mmahoney@stat.berkeley.edu
+Author{5}{Affiliation}#=%=#UC Berkeley
+
+==========

@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#3686
+FinalPaperTitle#=%=#{ARCH}: Efficient Adversarial Regularized Training with Caching
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Simiao Zuo
+JobTitle#==#
+Organization#==#
+Abstract#==#Adversarial regularization can improve model generalization in many natural language processing tasks.
+However, conventional approaches are computationally expensive since they need to generate a perturbation for each sample in each epoch. We propose a new adversarial regularization method ARCH (adversarial regularization with caching), where perturbations are generated and cached once every several epochs. As caching all the perturbations imposes memory usage concerns, we adopt a K-nearest neighbors-based strategy to tackle this issue. The strategy only requires caching a small amount of perturbations, without introducing additional training time. We evaluate our proposed method on a set of neural machine translation and natural language understanding tasks. We observe that ARCH significantly eases the computational burden (saves up to 70% of computational time in comparison with conventional approaches). More surprisingly, by reducing the variance of stochastic gradients, ARCH produces a notably better (in most of the tasks) or comparable model generalization. Our code is publicly available.
+Author{1}{Firstname}#=%=#Simiao
+Author{1}{Lastname}#=%=#Zuo
+Author{1}{Username}#=%=#simiaozuo
+Author{1}{Email}#=%=#simiaozuo@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Chen
+Author{2}{Lastname}#=%=#Liang
+Author{2}{Username}#=%=#cliang73
+Author{2}{Email}#=%=#cliang73@gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Haoming
+Author{3}{Lastname}#=%=#Jiang
+Author{3}{Username}#=%=#hjiang98
+Author{3}{Email}#=%=#jianghm@gatech.edu
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+Author{4}{Firstname}#=%=#Pengcheng
+Author{4}{Lastname}#=%=#He
+Author{4}{Username}#=%=#hepc
+Author{4}{Email}#=%=#penhe@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Xiaodong
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#allen.lao
+Author{5}{Email}#=%=#xiaodl@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+Author{6}{Firstname}#=%=#Jianfeng
+Author{6}{Lastname}#=%=#Gao
+Author{6}{Username}#=%=#jfgao
+Author{6}{Email}#=%=#jfgao@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research, Redmond
+Author{7}{Firstname}#=%=#Weizhu
+Author{7}{Lastname}#=%=#Chen
+Author{7}{Username}#=%=#chenweizhu
+Author{7}{Email}#=%=#wzchen@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft
+Author{8}{Firstname}#=%=#Tuo
+Author{8}{Lastname}#=%=#Zhao
+Author{8}{Username}#=%=#tourzhao
+Author{8}{Email}#=%=#tourzhao@gatech.edu
+Author{8}{Affiliation}#=%=#Georgia Tech
+
+==========

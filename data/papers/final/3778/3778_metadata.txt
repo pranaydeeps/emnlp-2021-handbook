@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#3778
+FinalPaperTitle#=%=#Effect of Visual Extensions on Natural Language Understanding in Vision-and-Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Taichi Iki
+JobTitle#==#
+Organization#==#National Institute of Informatics, Chiyoda-ku, Tokyo, Japan
+Abstract#==#A method for creating a vision-and-language (V&L) model is to extend a language model through structural modifications and V&L pre-training. 
+Such an extension aims to make a V&L model inherit the capability of natural language understanding (NLU) from the original language model.
+To see how well this is achieved, we propose to evaluate V&L models using an NLU benchmark (GLUE). 
+We compare five V&L models, including single-stream and dual-stream models, trained with the same pre-training.
+Dual-stream models, with their higher modality independence achieved by approximately doubling the number of parameters, are expected to preserve the NLU capability better.
+Our main finding is that the dual-stream scores are not much different than the single-stream scores, contrary to expectation. 
+Further analysis shows that pre-training causes the performance drop in NLU tasks with few exceptions.
+These results suggest that adopting a single-stream structure and devising the pre-training could be an effective method for improving the maintenance of language knowledge in V&L extensions.
+Author{1}{Firstname}#=%=#Taichi
+Author{1}{Lastname}#=%=#Iki
+Author{1}{Username}#=%=#ikitaichi
+Author{1}{Email}#=%=#iki@nii.ac.jp
+Author{1}{Affiliation}#=%=#The Graduate University for Advanced Studies
+Author{2}{Firstname}#=%=#Akiko
+Author{2}{Lastname}#=%=#Aizawa
+Author{2}{Username}#=%=#aizawa
+Author{2}{Email}#=%=#aizawa@nii.ac.jp
+Author{2}{Affiliation}#=%=#National Institute of Informatics
+
+==========

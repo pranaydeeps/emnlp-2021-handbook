@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#2148
+FinalPaperTitle#=%=#VeeAlign: Multifaceted Context Representation Using Dual Attention for Ontology Alignment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Vivek Iyer
+JobTitle#==#Research Assistant
+Organization#==#School of Informatics, University of Edinburgh
+10 Crichton Street, Newington, Edinburgh, UK - EH7 4NA
+Abstract#==#Ontology Alignment is an important research problem applied to various fields such as data integration, data transfer, data preparation, etc. State-of-the-art (SOTA) Ontology Alignment systems typically use 
+naive domain-dependent approaches with handcrafted rules or domain-specific architectures, making them unscalable and inefficient. In this work, we propose VeeAlign, a Deep Learning based model that uses a novel dual-attention mechanism to compute the contextualized representation of a concept which, in turn,  is used to discover alignments. By doing this, not only is our approach able to exploit both syntactic and semantic information encoded in ontologies, it is also, by design, flexible and scalable to different domains with minimal effort. We evaluate our model on four different datasets from different domains and languages, and  establish its superiority through these results as well as detailed ablation studies. The code and datasets used are available at https://github.com/Remorax/VeeAlign.
+Author{1}{Firstname}#=%=#Vivek
+Author{1}{Lastname}#=%=#Iyer
+Author{1}{Username}#=%=#remorax
+Author{1}{Email}#=%=#viyer@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Arvind
+Author{2}{Lastname}#=%=#Agarwal
+Author{2}{Username}#=%=#arvinda
+Author{2}{Email}#=%=#arvagarw@in.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Harshit
+Author{3}{Lastname}#=%=#Kumar
+Author{3}{Username}#=%=#harshitk
+Author{3}{Email}#=%=#harshitk@in.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research India
+
+==========

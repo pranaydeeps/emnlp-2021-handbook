@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4158
+FinalPaperTitle#=%=#HAConvGNN: Hierarchical Attention Based Convolutional Graph Neural Network for Code Documentation Generation in Jupyter Notebooks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Dakuo Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Jupyter notebook allows data scientists to write machine learning code together with its documentation in cells. In this paper, we propose a new task of code documentation generation (CDG) for computational notebooks. In contrast to the previous CDG tasks which focus on generating documentation for single code snippets, in a computational notebook, one documentation in a markdown cell often corresponds to multiple code cells, and these code cells have an inherent structure. We proposed a new model (HAConvGNN) that uses a hierarchical attention mechanism to consider the relevant code cells and the relevant code tokens information when generating the documentation. Tested on a new corpus constructed from well-documented Kaggle notebooks, we show that our model outperforms other baseline models.
+Author{1}{Firstname}#=%=#Xuye
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#xuyeliu
+Author{1}{Email}#=%=#liuxysz1234@gmail.com
+Author{1}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{2}{Firstname}#=%=#Dakuo
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#dakuowang
+Author{2}{Email}#=%=#dakuowang@gmail.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#April
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#aprilwang-uofm
+Author{3}{Email}#=%=#aprilww@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+Author{4}{Firstname}#=%=#Yufang
+Author{4}{Lastname}#=%=#Hou
+Author{4}{Username}#=%=#yufang
+Author{4}{Email}#=%=#bnuxiaofang@gmail.com
+Author{4}{Affiliation}#=%=#IBM Research
+Author{5}{Firstname}#=%=#Lingfei
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#teddylfwu
+Author{5}{Email}#=%=#lwu@email.wm.edu
+Author{5}{Affiliation}#=%=#JD.COM Silicon Valley Research Center
+
+==========

@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#2667
+FinalPaperTitle#=%=#Lexicon-Based Graph Convolutional Network for Chinese Word Segmentation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kaiyu Huang
+JobTitle#==#
+Organization#==#
+Abstract#==#Precise information of word boundary can alleviate the problem of lexical ambiguity to improve the performance of natural language processing (NLP) tasks. Thus, Chinese word segmentation (CWS) is a fundamental task in NLP. Due to the development of pre-trained language models (PLM), pre-trained knowledge can help neural methods solve the main problems of the CWS in significant measure. Existing methods have already achieved high performance on several benchmarks (e.g., Bakeoff-2005). However, recent outstanding studies are limited by the small-scale annotated corpus. To further improve the performance of CWS methods based on fine-tuning the PLMs, we propose a novel neural framework, LBGCN, which incorporates a lexicon-based graph convolutional network into the Transformer encoder. Experimental results on five benchmarks and four cross-domain datasets show the lexicon-based graph convolutional network successfully captures the information of candidate words and helps to improve performance on the benchmarks (Bakeoff-2005 and CTB6) and the cross-domain datasets (SIGHAN-2010). Further experiments and analyses demonstrate that our proposed framework effectively models the lexicon to enhance the ability of basic neural frameworks and strengthens the robustness in the cross-domain scenario.
+Author{1}{Firstname}#=%=#Kaiyu
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#kaiyuhuang
+Author{1}{Email}#=%=#kaiyuhuang@mail.dlut.edu.cn
+Author{1}{Affiliation}#=%=#Dalian University of Technology
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Username}#=%=#yuhaodlut
+Author{2}{Email}#=%=#yuhaodlut@mail.dlut.edu.cn
+Author{2}{Affiliation}#=%=#Dalian University of Technology
+Author{3}{Firstname}#=%=#Junpeng
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#liujunpeng91
+Author{3}{Email}#=%=#liujunpeng_nlp@mail.dlut.edu.cn
+Author{3}{Affiliation}#=%=#Dalian University of Technology
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#liuweidlut@mail.dlut.edu.cn
+Author{4}{Affiliation}#=%=#Dalian University of Technology
+Author{5}{Firstname}#=%=#Jingxiang
+Author{5}{Lastname}#=%=#Cao
+Author{5}{Username}#=%=#alicia1973
+Author{5}{Email}#=%=#caojx@dlut.edu.cn
+Author{5}{Affiliation}#=%=#Dalian University of Technology
+Author{6}{Firstname}#=%=#Degen
+Author{6}{Lastname}#=%=#Huang
+Author{6}{Username}#=%=#huangdg
+Author{6}{Email}#=%=#huangdg@dlut.edu.cn
+Author{6}{Affiliation}#=%=#Dalian University of Technology
+
+==========

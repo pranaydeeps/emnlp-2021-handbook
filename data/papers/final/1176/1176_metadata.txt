@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1176
+FinalPaperTitle#=%=#Neural Media Bias Detection Using Distant Supervision With BABE - Bias Annotations By Experts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Timo Spinde
+JobTitle#==#
+Organization#==#University of Wuppertal
+Fakultät für Elektrotechnik, Informationstechnik und Medientechnik
+Rainer-Gruenter-Str. 21
+D-42119 Wuppertal
+Abstract#==#Media coverage has a substantial effect on the public perception of events. Nevertheless, media outlets are often biased. One way to bias news articles is by altering the word choice. The automatic identification of bias by word choice is challenging, primarily due to the lack of a gold standard data set and high context dependencies. This paper presents BABE, a robust and diverse data set created by trained experts, for media bias research. We also analyze why expert labeling is essential within this domain. Our data set offers better annotation quality and higher inter-annotator agreement than existing work. It consists of 3,700 sentences balanced among topics and outlets, containing media bias labels on the word and sentence level. Based on our data, we also introduce a way to detect bias-inducing sentences in news articles automatically. Our best performing BERT-based model is pre-trained on a larger corpus consisting of distant labels. Fine-tuning and evaluating the model on our proposed supervised data set, we achieve a macro F1-score of 0.804, outperforming existing methods.
+Author{1}{Firstname}#=%=#Timo
+Author{1}{Lastname}#=%=#Spinde
+Author{1}{Username}#=%=#tspinde
+Author{1}{Email}#=%=#timo.spinde@uni-konstanz.de
+Author{1}{Affiliation}#=%=#University of Konstanz
+Author{2}{Firstname}#=%=#Manuel
+Author{2}{Lastname}#=%=#Plank
+Author{2}{Email}#=%=#manuel.plank@uni-konstanz.de
+Author{2}{Affiliation}#=%=#University of Konstanz
+Author{3}{Firstname}#=%=#Jan-David
+Author{3}{Lastname}#=%=#Krieger
+Author{3}{Email}#=%=#jan-david.krieger@uni-konstanz.de
+Author{3}{Affiliation}#=%=#University of Konstanz
+Author{4}{Firstname}#=%=#Terry
+Author{4}{Lastname}#=%=#Ruas
+Author{4}{Email}#=%=#ruas@uni-wuppertal.de
+Author{4}{Affiliation}#=%=#University of Wuppertal
+Author{5}{Firstname}#=%=#Bela
+Author{5}{Lastname}#=%=#Gipp
+Author{5}{Email}#=%=#gipp@uni-wuppertal.de
+Author{5}{Affiliation}#=%=#University of Wuppertal
+Author{6}{Firstname}#=%=#Akiko
+Author{6}{Lastname}#=%=#Aizawa
+Author{6}{Email}#=%=#aizawa@nii.ac.jp
+Author{6}{Affiliation}#=%=#University of Wuppertal
+
+==========

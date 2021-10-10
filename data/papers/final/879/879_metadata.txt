@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#879
+FinalPaperTitle#=%=#Text Auto{A}ugment: Learning Compositional Augmentation Policy for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Shuhuai Ren
+JobTitle#==#
+Organization#==#
+Abstract#==#Data augmentation aims to enrich training samples for alleviating the overfitting issue in low-resource or class-imbalanced situations.
+Traditional methods first devise task-specific operations such as Synonym Substitute, then preset the corresponding parameters such as the substitution rate artificially, which require a lot of prior knowledge and are prone to fall into the sub-optimum. 
+Besides, the number of editing operations is limited in the previous methods, which decreases the diversity of the augmented data and thus restricts the performance gain.
+To overcome the above limitations, we propose a framework named Text AutoAugment (TAA) to establish a compositional and learnable paradigm for data augmentation. 
+We regard a combination of various operations as an augmentation policy and utilize an efficient Bayesian Optimization algorithm to automatically search for the best policy, which substantially improves the generalization capability of models. 
+Experiments on six benchmark datasets show that TAA boosts classification accuracy in low-resource and class-imbalanced regimes by an average of 8.8% and 9.7%, respectively, outperforming strong baselines.
+Author{1}{Firstname}#=%=#Shuhuai
+Author{1}{Lastname}#=%=#Ren
+Author{1}{Username}#=%=#shuhuai-ren
+Author{1}{Email}#=%=#renshuhuai007@gmail.com
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Jinchao
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zhangjinchao
+Author{2}{Email}#=%=#dayerzhang@tencent.com
+Author{2}{Affiliation}#=%=#Pattern Recognition Center, WeChat AI, Tencent
+Author{3}{Firstname}#=%=#Lei
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#tobiaslee
+Author{3}{Email}#=%=#lilei@stu.pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Xu
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Username}#=%=#xusun26
+Author{4}{Email}#=%=#xusun@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Jie
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Username}#=%=#jerryitp
+Author{5}{Email}#=%=#withtomzhou@tencent.com
+Author{5}{Affiliation}#=%=#Tencent Inc.
+
+==========

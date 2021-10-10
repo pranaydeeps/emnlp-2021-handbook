@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Image Retrieval for Arguments Using Stance-Aware Query Expansion
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Johannes Kiesel
+JobTitle#==#PhD Student
+Organization#==#Bauhaus-Universität Weimar
+Bauhausstraße 11
+99423 Weimar, Germany
+Abstract#==#Many forms of argumentation employ images as persuasive means, but research in argument mining has been focused on verbal argumentation so far. This paper shows how to integrate images into argument mining research, specifically into argument retrieval. By exploiting the sophisticated image representations of keyword-based image search, we propose to use semantic query expansion for both the pro and the con stance to retrieve "argumentative images" for the respective stance. Our results indicate that even simple expansions provide a strong baseline, reaching a precision@10 of 0.49 for images being (1) on-topic, (2) argumentative, and (3) on-stance. An in-depth analysis reveals a high topic dependence of the retrieval performance and shows the need to further investigate on images providing contextual information.
+Author{1}{Firstname}#=%=#Johannes
+Author{1}{Lastname}#=%=#Kiesel
+Author{1}{Username}#=%=#johannes_kiesel
+Author{1}{Email}#=%=#johannes.kiesel@uni-weimar.de
+Author{1}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{2}{Firstname}#=%=#Nico
+Author{2}{Lastname}#=%=#Reichenbach
+Author{2}{Email}#=%=#nico.reichenbach@posteo.de
+Author{2}{Affiliation}#=%=#Leipzig University
+Author{3}{Firstname}#=%=#Benno
+Author{3}{Lastname}#=%=#Stein
+Author{3}{Username}#=%=#benno.stein
+Author{3}{Email}#=%=#benno.stein@uni-weimar.de
+Author{3}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{4}{Firstname}#=%=#Martin
+Author{4}{Lastname}#=%=#Potthast
+Author{4}{Username}#=%=#potthast
+Author{4}{Email}#=%=#martin.potthast@uni-leipzig.de
+Author{4}{Affiliation}#=%=#Leipzig University
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#The Early Modern Dutch Mediascape. Detecting Media Mentions in Chronicles Using Word Embeddings and CRF
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Alie Lassche
+JobTitle#==#
+Organization#==#
+Abstract#==#While the production of information in the European early modern period is a well-researched topic, the question how people were engaging with the information explosion that occurred in early modern Europe, is still underexposed. This paper presents the annotations and experiments aimed at exploring whether we can automatically extract media related information (source, perception, and receiver) from a corpus of early modern Dutch chronicles in order to get insight in the mediascape of early modern middle class people from a historic perspective. In a number of classification experiments with Conditional Random Fields, three categories of features are tested: (i) raw and binary word embedding features, (ii) lexicon features, and (iii) character features. Overall, the classifier that uses raw embeddings performs slightly better. However, given that the best F-scores are around 0.60, we conclude that the machine learning approach needs to be combined with a close reading approach for the results to be useful to answer history research questions.
+Author{1}{Firstname}#=%=#Alie
+Author{1}{Lastname}#=%=#Lassche
+Author{1}{Username}#=%=#awlassche
+Author{1}{Email}#=%=#a.w.lassche@hum.leidenuniv.nl
+Author{1}{Affiliation}#=%=#Leiden University
+Author{2}{Firstname}#=%=#Roser
+Author{2}{Lastname}#=%=#Morante
+Author{2}{Username}#=%=#roser.morante
+Author{2}{Email}#=%=#roser.morante@gmail.com
+Author{2}{Affiliation}#=%=#VU Amsterdam
+
+==========

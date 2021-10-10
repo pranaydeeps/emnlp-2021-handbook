@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#756
+FinalPaperTitle#=%=#Unsupervised Multi-View Post-OCR Error Correction With Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Luciano Del Corro
+JobTitle#==#
+Organization#==#
+Abstract#==#We investigate post-OCR correction in a setting where we have access to different OCR views of the same document. The goal of this study is to understand if a pretrained language model (LM) can be used in an unsupervised way to reconcile the different OCR views such that their combination contains fewer errors than each individual view. This approach is motivated by scenarios in which unconstrained text generation for error correction is too risky. We evaluated different pretrained LMs on two datasets and found significant gains in realistic scenarios with up to $15\%$ WER improvement over the best OCR view. We also show the importance of domain adaptation for post-OCR correction on out-of-domain documents.
+Author{1}{Firstname}#=%=#Harsh
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Email}#=%=#Harsh.x.Gupta@gs.com
+Author{1}{Affiliation}#=%=#Goldman Sacgs
+Author{2}{Firstname}#=%=#Luciano
+Author{2}{Lastname}#=%=#Del Corro
+Author{2}{Username}#=%=#lucianodelcorro
+Author{2}{Email}#=%=#luciano@delcorro.ai
+Author{2}{Affiliation}#=%=#Goldman Sachs
+Author{3}{Firstname}#=%=#Samuel
+Author{3}{Lastname}#=%=#Broscheit
+Author{3}{Username}#=%=#samuel.broscheit
+Author{3}{Email}#=%=#broscheit@informatik.uni-mannheim.de
+Author{3}{Affiliation}#=%=#University of Mannheim
+Author{4}{Firstname}#=%=#Johannes
+Author{4}{Lastname}#=%=#Hoffart
+Author{4}{Username}#=%=#jhoffart
+Author{4}{Email}#=%=#johannes@hoffart.ai
+Author{4}{Affiliation}#=%=#Goldman Sachs
+Author{5}{Firstname}#=%=#Eliot
+Author{5}{Lastname}#=%=#Brenner
+Author{5}{Username}#=%=#ebrenner
+Author{5}{Email}#=%=#eliot.brenner@gs.com
+Author{5}{Affiliation}#=%=#Goldman Sachs CoreAI
+
+==========

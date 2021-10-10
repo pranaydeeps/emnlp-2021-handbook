@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Coreference Chains Categorization by Sequence Clustering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Silvia Federzoni
+JobTitle#==#
+Organization#==#CLLE, CNRS & University of Toulouse
+Toulouse, France
+Abstract#==#The diversity of coreference chains is usually tackled by means of global features (length, types and number of referring expressions, distance between them, etc.). In this paper, we propose a novel approach that provides a description of their composition in terms of sequences of expressions. To this end, we apply sequence analysis techniques to bring out the various strategies for introducing a referent and keeping it active throughout discourse. We discuss a first application of this method to a French written corpus annotated with coreference chains. We obtain clusters that are linguistically coherent and interpretable in terms of reference strategies and we demonstrate the influence of text genre and semantic type of the referent on chain composition.
+Author{1}{Firstname}#=%=#Silvia
+Author{1}{Lastname}#=%=#Federzoni
+Author{1}{Username}#=%=#sfederzoni
+Author{1}{Email}#=%=#silvia.federzoni@univ-tlse2.fr
+Author{1}{Affiliation}#=%=#CLLE - University of Toulouse & CNRS
+Author{2}{Firstname}#=%=#Lydia-Mai
+Author{2}{Lastname}#=%=#Ho-Dac
+Author{2}{Username}#=%=#hodac
+Author{2}{Email}#=%=#lydia-mai.ho-dac@univ-tlse2.fr
+Author{2}{Affiliation}#=%=#CLLE: University of Toulouse & CNRS
+Author{3}{Firstname}#=%=#Cécile
+Author{3}{Lastname}#=%=#Fabre
+Author{3}{Username}#=%=#cfabre
+Author{3}{Email}#=%=#cecile.fabre@univ-tlse2.fr
+Author{3}{Affiliation}#=%=#CLLE, University of Toulouse & CNRS
+
+==========

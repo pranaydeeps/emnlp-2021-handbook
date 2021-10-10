@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#ProSPer: Probing Human and Neural Network Language Model Understanding of Spatial Perspective
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#41
+CopyrightSigned#=%=#Carolyn Anderson
+JobTitle#==#
+Organization#==#Wellesley College
+Abstract#==#Understanding perspectival language is important for applications like dialogue systems and human-robot interaction. We propose a probe task that explores how well language models understand spatial perspective. We present a dataset for evaluating perspective inference in English, ProSPer, and use it to explore how humans and Transformer-based language models infer perspective. Although the best bidirectional model performs similarly to humans, they display different strengths: humans outperform neural networks in conversational contexts, while RoBERTa excels at written genres.
+Author{1}{Firstname}#=%=#Tessa
+Author{1}{Lastname}#=%=#Masis
+Author{1}{Username}#=%=#tmasis
+Author{1}{Email}#=%=#tessamasis@gmail.com
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Carolyn
+Author{2}{Lastname}#=%=#Anderson
+Author{2}{Username}#=%=#canders1
+Author{2}{Email}#=%=#carolyn0jane0anderson@gmail.com
+Author{2}{Affiliation}#=%=#Wellesley College
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#435
+FinalPaperTitle#=%=#Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Ryuto Konno
+JobTitle#==#
+Organization#==#
+Abstract#==#Masked language models (MLMs) have contributed to drastic performance improvements with regard to zero anaphora resolution (ZAR).
+To further improve this approach, in this study, we made two proposals.
+The first is a new pretraining task that trains MLMs on anaphoric relations with explicit supervision, and the second proposal is a new finetuning method that remedies a notorious issue, the pretrain-finetune discrepancy.
+Our experiments on Japanese ZAR demonstrated that our two proposals boost the state-of-the-art performance, and our detailed analysis provides new insights on the remaining challenges.
+Author{1}{Firstname}#=%=#Ryuto
+Author{1}{Lastname}#=%=#Konno
+Author{1}{Username}#=%=#ryuto.k
+Author{1}{Email}#=%=#ryuto_konno@r.recruit.co.jp
+Author{1}{Affiliation}#=%=#Recruit Co., Ltd.
+Author{2}{Firstname}#=%=#Shun
+Author{2}{Lastname}#=%=#Kiyono
+Author{2}{Username}#=%=#shunk52
+Author{2}{Email}#=%=#shun.kiyono@riken.jp
+Author{2}{Affiliation}#=%=#RIKEN AIP / Tohoku University
+Author{3}{Firstname}#=%=#Yuichiroh
+Author{3}{Lastname}#=%=#Matsubayashi
+Author{3}{Username}#=%=#y-matsu
+Author{3}{Email}#=%=#y.m@tohoku.ac.jp
+Author{3}{Affiliation}#=%=#Tohoku University
+Author{4}{Firstname}#=%=#Hiroki
+Author{4}{Lastname}#=%=#Ouchi
+Author{4}{Username}#=%=#hiroki
+Author{4}{Email}#=%=#hiroki.ouchi@is.naist.jp
+Author{4}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{5}{Firstname}#=%=#Kentaro
+Author{5}{Lastname}#=%=#Inui
+Author{5}{Username}#=%=#k.inui
+Author{5}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{5}{Affiliation}#=%=#Tohoku University / Riken
+
+==========

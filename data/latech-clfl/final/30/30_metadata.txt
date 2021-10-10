@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Unsupervised Adverbial Identification in Modern Chinese Literature
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Wenxiu Xie
+JobTitle#==#
+Organization#==#
+Abstract#==#In many languages, adverbials can be derived from words of various parts-of-speech. In Chinese, the derivation may be marked either with the standard adverbial marker DI, or the non-standard marker DE. Since DE also serves double duty as the attributive marker, accurate identification of adverbials requires disambiguation of its syntactic role. As parsers are trained predominantly on texts using the standard adverbial marker DI, they often fail to recognize adverbials suffixed with the non-standard DE.  This paper addresses this problem with an unsupervised, rule-based approach for adverbial identification that utilizes dependency tree patterns. Experiment results show that this approach outperforms a masked language model baseline. We apply this approach to analyze standard and non-standard adverbial marker usage in modern Chinese literature.
+Author{1}{Firstname}#=%=#Wenxiu
+Author{1}{Lastname}#=%=#Xie
+Author{1}{Username}#=%=#wxx
+Author{1}{Email}#=%=#vasiliky@outlook.com
+Author{1}{Affiliation}#=%=#City University of Hong Kong
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Username}#=%=#jsylee
+Author{2}{Email}#=%=#jsylee@cityu.edu.hk
+Author{2}{Affiliation}#=%=#City University of Hong Kong
+Author{3}{Firstname}#=%=#Fangqiong
+Author{3}{Lastname}#=%=#Zhan
+Author{3}{Username}#=%=#fangzhan
+Author{3}{Email}#=%=#fangzhan@cityu.edu.hk
+Author{3}{Affiliation}#=%=#City University of Hong Kong
+Author{4}{Firstname}#=%=#Xiao
+Author{4}{Lastname}#=%=#Han
+Author{4}{Username}#=%=#hanxiao0505
+Author{4}{Email}#=%=#xhan42-c@my.cityu.edu.hk
+Author{4}{Affiliation}#=%=#City University of Hong Kong
+Author{5}{Firstname}#=%=#Chi-Yin
+Author{5}{Lastname}#=%=#Chow
+Author{5}{Username}#=%=#chiychow
+Author{5}{Email}#=%=#chiychow@cityu.edu.hk
+Author{5}{Affiliation}#=%=#City University of Hong Kong
+
+==========

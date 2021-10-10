@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#M-Arg: Multimodal Argument Mining Dataset for Political Debates with Audio and Transcripts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Rafael Mestre
+JobTitle#==#
+Organization#==#University of Southampton, University Rd, Highfield, Southampton SO17 1BJ
+Abstract#==#Argumentation mining aims at extracting, analysing and modelling people's arguments, but large, high-quality annotated datasets are limited, and no multimodal datasets exist for this task. In this paper, we present M-Arg, a multimodal argument mining dataset with a corpus of US 2020 presidential debates, annotated through crowd-sourced annotations. This dataset allows models to be trained to extract arguments from natural dialogue such as debates using information like the intonation and rhythm of the speaker. Our dataset contains 7 hours of annotated US presidential debates, 6527 utterances and 4104 relation labels, and we report results from different baseline models, namely a text-only model, an audio-only model and multimodal models that  extract features from both text and audio. With accuracy reaching 0.86 in multimodal models, we find that  audio features provide added value with respect to text-only models.
+Author{1}{Firstname}#=%=#Rafael
+Author{1}{Lastname}#=%=#Mestre
+Author{1}{Username}#=%=#r.mestre
+Author{1}{Email}#=%=#r.mestre@soton.ac.uk
+Author{1}{Affiliation}#=%=#University of Southampton
+Author{2}{Firstname}#=%=#Razvan
+Author{2}{Lastname}#=%=#Milicin
+Author{2}{Email}#=%=#razvan.milicin@gmail.com
+Author{2}{Affiliation}#=%=#University of Southampton
+Author{3}{Firstname}#=%=#Stuart
+Author{3}{Lastname}#=%=#Middleton
+Author{3}{Username}#=%=#sem03
+Author{3}{Email}#=%=#sem03@soton.ac.uk
+Author{3}{Affiliation}#=%=#University of Southampton
+Author{4}{Firstname}#=%=#Matt
+Author{4}{Lastname}#=%=#Ryan
+Author{4}{Email}#=%=#m.g.ryan@soton.ac.uk
+Author{4}{Affiliation}#=%=#University of Southampton
+Author{5}{Firstname}#=%=#Jiatong
+Author{5}{Lastname}#=%=#Zhu
+Author{5}{Email}#=%=#jz5m19@soton.ac.uk
+Author{5}{Affiliation}#=%=#University of Southampton
+Author{6}{Firstname}#=%=#Timothy J.
+Author{6}{Lastname}#=%=#Norman
+Author{6}{Email}#=%=#T.J.Norman@soton.ac.uk
+Author{6}{Affiliation}#=%=#University of Southampton
+
+==========

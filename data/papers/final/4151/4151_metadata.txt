@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#4151
+FinalPaperTitle#=%=#Effective Sequence-to-Sequence Dialogue State Tracking
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Jeffrey Zhao
+JobTitle#==#
+Organization#==#Google LLC
+1600 Amphitheatre Parkway
+Mountain View, CA 94043
+United States
+Abstract#==#Sequence-to-sequence models have been applied to a wide variety of NLP tasks, but how to properly use them for dialogue state tracking has not been systematically investigated. In this paper, we study this problem from the perspectives of pre-training objectives as well as the formats of context representations. We demonstrate that the choice of pre-training objective makes a significant difference to the state tracking quality. In particular, we find that masked span prediction is more effective than auto-regressive language modeling. We also explore using Pegasus, a span prediction-based pre-training objective for text summarization, for the state tracking model. We found that pre-training for the seemingly distant summarization task works surprisingly well for dialogue state tracking. In addition, we found that while recurrent state context representation works also reasonably well, the model may have a hard time recovering from earlier mistakes. We conducted experiments on the MultiWOZ 2.1-2.4, WOZ 2.0, and DSTC2 datasets with consistent observations.
+Author{1}{Firstname}#=%=#Jeffrey
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Username}#=%=#jeffreyzhao
+Author{1}{Email}#=%=#jeffreyzhao@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Mahdis
+Author{2}{Lastname}#=%=#Mahdieh
+Author{2}{Username}#=%=#mahdis
+Author{2}{Email}#=%=#mahdis@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Ye
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#yezhang1989
+Author{3}{Email}#=%=#yezhan@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Yuan
+Author{4}{Lastname}#=%=#Cao
+Author{4}{Username}#=%=#cao_yuan
+Author{4}{Email}#=%=#yuancao@google.com
+Author{4}{Affiliation}#=%=#Google Brain
+Author{5}{Firstname}#=%=#Yonghui
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#yonghui
+Author{5}{Email}#=%=#yonghui@google.com
+Author{5}{Affiliation}#=%=#Google Brain
+
+==========

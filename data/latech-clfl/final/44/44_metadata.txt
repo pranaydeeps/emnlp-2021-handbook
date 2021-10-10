@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Zero-Shot Information Extraction to Enhance a Knowledge Graph Describing Silk Textiles
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Raphael Troncy
+JobTitle#==#
+Organization#==#EURECOM, 450 Route des Chappes, 06410 Biot, France
+Abstract#==#The knowledge of the European silk textile production is a typical case for which the information collected is heterogeneous, spread across many museums and sparse since rarely complete. Knowledge Graphs for this cultural heritage domain, when being developed with appropriate ontologies and vocabularies, enable to integrate and reconcile this diverse information. However, many of these original museum records still have some metadata gaps. In this paper, we present a zero-shot learning approach that leverages the ConceptNet common sense knowledge graph to predict categorical metadata informing about the silk objects production. We compared the performance of our approach with traditional supervised deep learning-based methods that do require training data. We demonstrate promising and competitive performance for similar datasets and circumstances and the ability to predict sometimes more fine-grained information. Our results can be reproduced using the code and datasets published at https://github.com/silknow/ZSL-KG-silk.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Schleider
+Author{1}{Email}#=%=#Thomas.Schleider@eurecom.fr
+Author{1}{Affiliation}#=%=#EURECOM
+Author{2}{Firstname}#=%=#Raphael
+Author{2}{Lastname}#=%=#Troncy
+Author{2}{Username}#=%=#troncy
+Author{2}{Email}#=%=#raphael.troncy@eurecom.fr
+Author{2}{Affiliation}#=%=#EURECOM
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3019
+FinalPaperTitle#=%=#Narrative Embedding: {R}e-{C}ontextualization Through Attention
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Sean Wilner
+JobTitle#==#
+Organization#==#
+Abstract#==#Narrative analysis is becoming increasingly important for a number of linguistic tasks including summarization, knowledge extraction, and question answering. We present a novel approach for narrative event representation using attention to re-contextualize events across the whole story. Comparing to previous analysis we find an unexpected attachment of event semantics to predicate tokens within a popular transformer model. We test the utility of our approach on narrative completion prediction, achieving state of the art performance on Multiple Choice Narrative Cloze and scoring competitively on the Story Cloze Task.
+Author{1}{Firstname}#=%=#Sean
+Author{1}{Lastname}#=%=#Wilner
+Author{1}{Username}#=%=#sean_vody
+Author{1}{Email}#=%=#sean@vody.com
+Author{1}{Affiliation}#=%=#Vody LLC
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#Woolridge
+Author{2}{Username}#=%=#dwoolridge23
+Author{2}{Email}#=%=#danieljwoolridge@gmail.com
+Author{2}{Affiliation}#=%=#Vody LLC.
+Author{3}{Firstname}#=%=#Madeleine
+Author{3}{Lastname}#=%=#Glick
+Author{3}{Username}#=%=#mglick
+Author{3}{Email}#=%=#msg144@columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+
+==========

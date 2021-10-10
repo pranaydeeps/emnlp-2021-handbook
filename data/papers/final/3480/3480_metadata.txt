@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#3480
+FinalPaperTitle#=%=#Extracting Material Property Measurement Data from Scientific Articles
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gihan Panapitiya
+JobTitle#==#
+Organization#==#Pacific Northwest National Laboratory
+902 Battelle Blvd, Richland, WA 99354
+Abstract#==#Machine learning-based prediction of material properties is often hampered by the lack of sufficiently large training data sets. The majority of such measurement data is embedded in scientific literature and the ability to automatically extract these data is essential to support the development of reliable property prediction methods. In this work, we describe a methodology for developing an automatic property extraction framework using material solubility as the target property. We create a training and evaluation data set containing tags for solubility-related entities using a combination of regular expressions and manual tagging. We then compare five entity recognition models leveraging both token-level and span-level architectures on the task of classifying solute names, solubility values, and solubility units. Additionally, we explore a novel pretraining approach that leverages automated chemical name and quantity extraction tools to generate large datasets that do not rely on intensive manual tagging. Finally, we perform an analysis to identify the causes of classification errors.
+Author{1}{Firstname}#=%=#Gihan
+Author{1}{Lastname}#=%=#Panapitiya
+Author{1}{Username}#=%=#gihanu
+Author{1}{Email}#=%=#gihan.panapitiya@pnnl.gov
+Author{1}{Affiliation}#=%=#Pacific Northwest National Laboratory
+Author{2}{Firstname}#=%=#Fred
+Author{2}{Lastname}#=%=#Parks
+Author{2}{Email}#=%=#fred.parks@pnnl.gov
+Author{2}{Affiliation}#=%=#Pacific Northwest National Laboratory
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Sepulveda
+Author{3}{Email}#=%=#jonathan.sepulveda@pnnl.gov
+Author{3}{Affiliation}#=%=#Pacific Northwest National Laboratory
+Author{4}{Firstname}#=%=#Emily
+Author{4}{Lastname}#=%=#Saldanha
+Author{4}{Username}#=%=#esaldanha
+Author{4}{Email}#=%=#emily.grace.eg@gmail.com
+Author{4}{Affiliation}#=%=#Pacific Northwest National Laboratory
+
+==========

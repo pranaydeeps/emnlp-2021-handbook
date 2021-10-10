@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#55
+FinalPaperTitle#=%=#{AuGPT}: Auxiliary Tasks and Data Augmentation for End-To-End Dialogue with Pre-Trained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Jonáš Kulhánek
+JobTitle#==#
+Organization#==#Czech Technical University in Prague,
+Czech Institute of Informatics, Robotics and Cybernetics,
+Jugoslávských partyzánů 1580/3,
+160 00 Prague 6, Dejvice
+Abstract#==#Attention-based pre-trained language models such as GPT-2 brought considerable progress to end-to-end dialogue modelling. However, they also present considerable risks for task-oriented dialogue, such as lack of knowledge grounding or diversity. To address these issues, we introduce modified training objectives for language model finetuning, and we employ massive data augmentation via back-translation to increase the diversity of the training data. We further examine the possibilities of combining data from multiples sources to improve performance on the target dataset. We carefully evaluate our contributions with both human and automatic methods. Our model substantially outperforms the baseline on the MultiWOZ data and shows competitive performance with state of the art in both automatic and human evaluation.
+Author{1}{Firstname}#=%=#Jonáš
+Author{1}{Lastname}#=%=#Kulhánek
+Author{1}{Username}#=%=#jkulhanek
+Author{1}{Email}#=%=#jonas.kulhanek@cvut.cz
+Author{1}{Affiliation}#=%=#Czech Technical University in Prague
+Author{2}{Firstname}#=%=#Vojtěch
+Author{2}{Lastname}#=%=#Hudeček
+Author{2}{Username}#=%=#vojcek
+Author{2}{Email}#=%=#hudecek@ufal.mff.cuni.cz
+Author{2}{Affiliation}#=%=#student
+Author{3}{Firstname}#=%=#Tomáš
+Author{3}{Lastname}#=%=#Nekvinda
+Author{3}{Username}#=%=#tomiinek
+Author{3}{Email}#=%=#tom@neqindi.cz
+Author{3}{Affiliation}#=%=#Charles University
+Author{4}{Firstname}#=%=#Ondřej
+Author{4}{Lastname}#=%=#Dušek
+Author{4}{Username}#=%=#odusek
+Author{4}{Email}#=%=#odusek@ufal.mff.cuni.cz
+Author{4}{Affiliation}#=%=#Charles University
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#3438
+FinalPaperTitle#=%=#WhyAct: Identifying Action Reasons in Lifestyle Vlogs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Oana Ignat
+JobTitle#==#
+Organization#==#University of Michigan
+Abstract#==#We aim to automatically identify human action reasons in online videos. We focus on the widespread genre of lifestyle vlogs, in which people perform actions while verbally describing them. We introduce and make publicly available the WhyAct dataset, consisting of 1,077 visual actions manually annotated with their reasons. We describe a multimodal model that leverages visual and textual information to automatically infer the reasons corresponding to an action presented in the video.
+Author{1}{Firstname}#=%=#Oana
+Author{1}{Lastname}#=%=#Ignat
+Author{1}{Username}#=%=#oignat
+Author{1}{Email}#=%=#oignat@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Santiago
+Author{2}{Lastname}#=%=#Castro
+Author{2}{Username}#=%=#sacastro
+Author{2}{Email}#=%=#sacastro@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Hanwen
+Author{3}{Lastname}#=%=#Miao
+Author{3}{Email}#=%=#hwmiao@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+Author{4}{Firstname}#=%=#Weiji
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#weijili@umich.edu
+Author{4}{Affiliation}#=%=#University of Michigan
+Author{5}{Firstname}#=%=#Rada
+Author{5}{Lastname}#=%=#Mihalcea
+Author{5}{Username}#=%=#rada
+Author{5}{Email}#=%=#mihalcea@umich.edu
+Author{5}{Affiliation}#=%=#University of Michigan
+
+==========

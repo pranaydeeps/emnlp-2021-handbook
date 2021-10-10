@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#What Went Wrong? Explaining Overall Dialogue Quality through Utterance-Level Impacts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#James Finch
+JobTitle#==#
+Organization#==#
+Abstract#==#Improving user experience of a dialogue system often requires intensive developer effort to read conversation logs, run statistical analyses, and intuit the relative importance of system shortcomings. This paper presents a novel approach to automated analysis of conversation logs that learns the relationship between user-system interactions and overall dialogue quality. Unlike prior work on utterance-level quality prediction, our approach learns the impact of each interaction from the overall user rating without utterance-level annotation, allowing resultant model conclusions to be derived on the basis of empirical evidence and at low cost. Our model identifies interactions that have a strong correlation with the overall dialogue quality in a chatbot setting. Experiments show that the automated analysis from our model agrees with expert judgments, making this work the first to show that such weakly-supervised learning of utterance-level quality prediction is highly achievable.
+Author{1}{Firstname}#=%=#James D.
+Author{1}{Lastname}#=%=#Finch
+Author{1}{Username}#=%=#jdfinch
+Author{1}{Email}#=%=#jdfinch@emory.edu
+Author{1}{Affiliation}#=%=#Emory University
+Author{2}{Firstname}#=%=#Sarah E.
+Author{2}{Lastname}#=%=#Finch
+Author{2}{Username}#=%=#sarah.e.finch
+Author{2}{Email}#=%=#sfillwo@emory.edu
+Author{2}{Affiliation}#=%=#Emory University
+Author{3}{Firstname}#=%=#Jinho D.
+Author{3}{Lastname}#=%=#Choi
+Author{3}{Username}#=%=#jdchoi77
+Author{3}{Email}#=%=#jinho.choi@emory.edu
+Author{3}{Affiliation}#=%=#Emory University
+
+==========

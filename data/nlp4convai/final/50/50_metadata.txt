@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#50
+FinalPaperTitle#=%=#Learning to Learn End-to-End Goal-Oriented Dialog From Related Dialog Tasks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#JANARTHANAN RAJENDRAN
+JobTitle#==#
+Organization#==#University of Michigan, Ann Arbor, Michigan, USA
+Abstract#==#For each goal-oriented dialog task of interest, large amounts of data need to be collected for end-to-end learning of a neural dialog system. Collecting that data is a costly and time-consuming process. Instead, we show that we can use only a small amount of data, supplemented with data from a related dialog task. Naively learning from related data fails to improve performance as the related data can be inconsistent with the target task. We describe a meta-learning based method that selectively learns from the related dialog task data. Our approach leads to significant accuracy improvements in an example dialog task.
+Author{1}{Firstname}#=%=#Janarthanan
+Author{1}{Lastname}#=%=#Rajendran
+Author{1}{Username}#=%=#rsdjjana
+Author{1}{Email}#=%=#rjana@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Jonathan K.
+Author{2}{Lastname}#=%=#Kummerfeld
+Author{2}{Username}#=%=#jkk
+Author{2}{Email}#=%=#jkummerf@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Satinder
+Author{3}{Lastname}#=%=#Baveja
+Author{3}{Email}#=%=#baveja@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+
+==========

@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#4164
+FinalPaperTitle#=%=#WebSRC: A Dataset for Web-Based Structural Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Xingyu Chen
+JobTitle#==#
+Organization#==#Shanghai JiaoTong University, 800 Dongchuan Rd., Shanghai 200240, China
+Abstract#==#Web search is an essential way for humans to obtain information, but it's still a great challenge for machines to understand the contents of web pages. In this paper, we introduce the task of web-based structural reading comprehension. Given a web page and a question about it, the task is to find an answer from the web page. This task requires a system not only to understand the semantics of texts but also the structure of the web page. Moreover, we proposed WebSRC, a novel Web-based Structural Reading Comprehension dataset. WebSRC consists of  400K question-answer pairs, which are collected from 6.4K web pages with corresponding HTML source code, screenshots, and metadata. Each question in WebSRC requires a certain structural understanding of a web page to answer, and the answer is either a text span on the web page or yes/no. We evaluate various strong baselines on our dataset to show the difficulty of our task. We also investigate the usefulness of structural information and visual features. Our dataset and baselines have been publicly available.
+Author{1}{Firstname}#=%=#Xingyu
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#galaxychen
+Author{1}{Email}#=%=#galaxychen@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Zihan
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#zzh1998
+Author{2}{Email}#=%=#zhao_mengxin@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Lu
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#lc918
+Author{3}{Email}#=%=#chenlusz@sjtu.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{4}{Firstname}#=%=#JiaBao
+Author{4}{Lastname}#=%=#JI
+Author{4}{Username}#=%=#jbj13
+Author{4}{Email}#=%=#sjcs_jijiabao@sjtu.edu.cn
+Author{4}{Affiliation}#=%=#Shanghai JiaoTong University
+Author{5}{Firstname}#=%=#Danyang
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#zdy023
+Author{5}{Email}#=%=#zhang-dy20@sjtu.edu.cn
+Author{5}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{6}{Firstname}#=%=#Ao
+Author{6}{Lastname}#=%=#Luo
+Author{6}{Email}#=%=#wenzelmetternich@sjtu.edu.cn
+Author{6}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{7}{Firstname}#=%=#Yuxuan
+Author{7}{Lastname}#=%=#Xiong
+Author{7}{Email}#=%=#xiongyx@sjtu.edu.cn
+Author{7}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{8}{Firstname}#=%=#Kai
+Author{8}{Lastname}#=%=#Yu
+Author{8}{Username}#=%=#ky219
+Author{8}{Email}#=%=#kai.yu@sjtu.edu.cn
+Author{8}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

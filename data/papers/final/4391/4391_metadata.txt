@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#4391
+FinalPaperTitle#=%=#Modeling Disclosive Transparency in NLP Application Descriptions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Michael Saxon
+JobTitle#==#
+Organization#==#
+Abstract#==#Broader disclosive transparency—truth and clarity in communication regarding the function of AI systems—is widely considered desirable. Unfortunately, it is a nebulous concept, difficult to both define and quantify. This is problematic, as previous work has demonstrated possible trade-offs and negative consequences to disclosive transparency, such as a confusion effect, where "too much information" clouds a reader's understanding of what a system description means. Disclosive transparency's subjective nature has rendered deep study into these problems and their remedies difficult. To improve this state of affairs, We introduce neural language model-based probabilistic metrics to directly model disclosive transparency, and demonstrate that they correlate with user and expert opinions of system transparency, making them a valid objective proxy. Finally, we demonstrate the use of these metrics in a pilot study quantifying the relationships between transparency, confusion, and user perceptions in a corpus of real NLP system descriptions.
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Lastname}#=%=#Saxon
+Author{1}{Username}#=%=#mssaxon
+Author{1}{Email}#=%=#saxon@ucsb.edu
+Author{1}{Affiliation}#=%=#University of California, Santa Barbara
+Author{2}{Firstname}#=%=#Sharon
+Author{2}{Lastname}#=%=#Levy
+Author{2}{Username}#=%=#sharonlevy
+Author{2}{Email}#=%=#sharonlevy@cs.ucsb.edu
+Author{2}{Affiliation}#=%=#UC Santa Barbara
+Author{3}{Firstname}#=%=#Xinyi
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#xinyi_wang@ucsb.edu
+Author{3}{Affiliation}#=%=#University of California, Santa Barbara
+Author{4}{Firstname}#=%=#Alon
+Author{4}{Lastname}#=%=#Albalak
+Author{4}{Email}#=%=#alon_albalak@cs.ucsb.edu
+Author{4}{Affiliation}#=%=#University of California, Santa Barbara
+Author{5}{Firstname}#=%=#William Yang
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Username}#=%=#wangwilliamyang
+Author{5}{Email}#=%=#william@cs.ucsb.edu
+Author{5}{Affiliation}#=%=#Unversity of California, Santa Barbara
+
+==========

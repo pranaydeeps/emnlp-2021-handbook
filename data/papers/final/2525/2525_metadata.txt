@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2525
+FinalPaperTitle#=%=#AVocaDo: Strategy for Adapting Vocabulary to Downstream Domain
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jimin Hong
+JobTitle#==#
+Organization#==#Name : KAIST
+Address : 291 Daehak-ro, Yuseong-gu, Daejeon
+Abstract#==#During the fine-tuning phase of transfer learning, the pretrained vocabulary remains unchanged, while model parameters are updated.
+The vocabulary generated based on the pretrained data is suboptimal for downstream data when domain discrepancy exists.
+We propose to consider the vocabulary as an optimizable parameter, allowing us to update the vocabulary by expanding it with domain specific vocabulary based on a tokenization statistic.
+Furthermore, we preserve the embeddings of the added words from overfitting to downstream data by utilizing knowledge learned from a pretrained language model with a regularization term.
+Our method achieved consistent performance improvements on diverse domains (i.e., biomedical, computer science, news, and reviews).
+Author{1}{Firstname}#=%=#Jimin
+Author{1}{Lastname}#=%=#Hong
+Author{1}{Username}#=%=#jimin9401
+Author{1}{Email}#=%=#jimin9401@gmail.com
+Author{1}{Affiliation}#=%=#KAIST
+Author{2}{Firstname}#=%=#TaeHee
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Username}#=%=#shwksl101
+Author{2}{Email}#=%=#taeheekim@kaist.ac.kr
+Author{2}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+Author{3}{Firstname}#=%=#Hyesu
+Author{3}{Lastname}#=%=#Lim
+Author{3}{Username}#=%=#limhyesu98
+Author{3}{Email}#=%=#hyesulim@kaist.ac.kr
+Author{3}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+Author{4}{Firstname}#=%=#Jaegul
+Author{4}{Lastname}#=%=#Choo
+Author{4}{Username}#=%=#joyfull78
+Author{4}{Email}#=%=#jchoo@kaist.ac.kr
+Author{4}{Affiliation}#=%=#KAIST
+
+==========

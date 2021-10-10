@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2072
+FinalPaperTitle#=%=#Fairness-aware Class Imbalanced Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Shivashankar
+JobTitle#==#
+Organization#==#
+Abstract#==#Class imbalance is a common challenge in many NLP tasks, and has clear connections to bias, in that bias in training data often leads to higher accuracy for majority groups at the expense of minority groups. However there has traditionally been a disconnect between research on class-imbalanced learning and mitigating bias, and only recently have the two been looked at through a common lens. In this work we evaluate long-tail learning methods for tweet sentiment and occupation classification, and extend a margin-loss based approach with methods to enforce fairness. We empirically show through controlled experiments that the proposed approaches help mitigate both class imbalance and demographic biases.
+Author{1}{Firstname}#=%=#Shivashankar
+Author{1}{Lastname}#=%=#Subramanian
+Author{1}{Username}#=%=#shivashankar
+Author{1}{Email}#=%=#shivashankar@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#University of Melbourne
+Author{2}{Firstname}#=%=#Afshin
+Author{2}{Lastname}#=%=#Rahimi
+Author{2}{Username}#=%=#afshinrahimi
+Author{2}{Email}#=%=#afshinrahimi@gmail.com
+Author{2}{Affiliation}#=%=#The University of Queensland
+Author{3}{Firstname}#=%=#Timothy
+Author{3}{Lastname}#=%=#Baldwin
+Author{3}{Username}#=%=#tbaldwin
+Author{3}{Email}#=%=#tb@ldwin.net
+Author{3}{Affiliation}#=%=#The University of Melbourne
+Author{4}{Firstname}#=%=#Trevor
+Author{4}{Lastname}#=%=#Cohn
+Author{4}{Username}#=%=#t.cohn
+Author{4}{Email}#=%=#trevor.cohn@unimelb.edu.au
+Author{4}{Affiliation}#=%=#University of Melbourne
+Author{5}{Firstname}#=%=#Lea
+Author{5}{Lastname}#=%=#Frermann
+Author{5}{Username}#=%=#frermann
+Author{5}{Email}#=%=#lea.frermann@unimelb.edu.au
+Author{5}{Affiliation}#=%=#Melbourne University
+
+==========

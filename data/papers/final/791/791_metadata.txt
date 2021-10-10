@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#791
+FinalPaperTitle#=%=#An Information-Theoretic Characterization of Morphological Fusion
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Neil Rathi
+JobTitle#==#
+Organization#==#Palo Alto High School, 50 Embarcadero Rd, Palo Alto, CA 94301
+Abstract#==#Linguistic typology generally divides synthetic languages into groups based on their morphological fusion. However, this measure has long been thought to be best considered a matter of degree. We present an information-theoretic measure, called informational fusion, to quantify the degree of fusion of a given set of morphological features in a surface form, which naturally provides such a graded scale. Informational fusion is able to encapsulate not only concatenative, but also nonconcatenative morphological systems (e.g. Arabic), abstracting away from any notions of morpheme segmentation. We then show, on a sample of twenty-one languages, that our measure recapitulates the usual linguistic classifications for concatenative systems, and provides new measures for nonconcatenative ones. We also evaluate the long-standing hypotheses that more frequent forms are more fusional, and that paradigm size anticorrelates with degree of fusion. We do not find evidence for the idea that languages have characteristic levels of fusion; rather, the degree of fusion varies across part-of-speech within languages.
+Author{1}{Firstname}#=%=#Neil
+Author{1}{Lastname}#=%=#Rathi
+Author{1}{Username}#=%=#neilrathi
+Author{1}{Email}#=%=#neilrathi@gmail.com
+Author{1}{Affiliation}#=%=#Palo Alto High School
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Hahn
+Author{2}{Username}#=%=#mhahn
+Author{2}{Email}#=%=#mhahn2@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Richard
+Author{3}{Lastname}#=%=#Futrell
+Author{3}{Username}#=%=#futrell
+Author{3}{Email}#=%=#rfutrell@uci.edu
+Author{3}{Affiliation}#=%=#University of California, Irvine
+
+==========

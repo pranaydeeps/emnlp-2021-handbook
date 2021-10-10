@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#The Low-Dimensional Linear Geometry of Contextualized Word Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Evan Hernandez
+JobTitle#==#
+Organization#==#
+Abstract#==#Black-box probing models can reliably extract linguistic features like tense, number, and syntactic role from pretrained word representations. However, the manner in which these features are encoded in representations remains poorly understood. We present a systematic study of the linear geometry of contextualized word representations in ELMO and BERT. We show that a variety of linguistic features (including structured dependency relationships) are encoded in low-dimensional subspaces. We then refine this geometric picture, showing that there are hierarchical relations between the subspaces encoding general linguistic categories and more specific ones, and that low-dimensional feature encodings are distributed rather than aligned to individual neurons. Finally, we demonstrate that these linear subspaces are causally related to model behavior, and can be used to perform fine-grained manipulation of BERT's output distribution.
+Author{1}{Firstname}#=%=#Evan
+Author{1}{Lastname}#=%=#Hernandez
+Author{1}{Username}#=%=#dez
+Author{1}{Email}#=%=#dez@mit.edu
+Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{2}{Firstname}#=%=#Jacob
+Author{2}{Lastname}#=%=#Andreas
+Author{2}{Username}#=%=#jacobandreas
+Author{2}{Email}#=%=#jda@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+
+==========

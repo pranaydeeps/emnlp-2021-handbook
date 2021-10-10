@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1279
+FinalPaperTitle#=%=#TWT: Table with Written Text for Controlled Data-to-Text Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Tongliang Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Large pre-trained neural models have recently shown remarkable progress in text generation. In this paper, we propose to generate text conditioned on the structured data (table) and a prefix (the written text) by leveraging the pre-trained models. We present a new data-to-text dataset, Table with Written Text (TWT), by repurposing two existing datasets: ToTTo and TabFact. TWT contains both factual and logical statements that are faithful to the structured data, aiming to serve as a useful benchmark for controlled text generation. Compared with existing data-to-text task settings, TWT is more intuitive, the prefix (usually provided by the user) controls the topic of the generated text. Existing methods usually output hallucinated text that is not faithful on TWT. Therefore, we design a novel approach with table-aware attention visibility and copy mechanism over the table. Experimental results show that our approach outperforms state-of-the-art methods under both automatic and human evaluation metrics.
+Author{1}{Firstname}#=%=#Tongliang
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#tonyliangli
+Author{1}{Email}#=%=#tonyliangli@buaa.edu.cn
+Author{1}{Affiliation}#=%=#Beihang University
+Author{2}{Firstname}#=%=#Lei
+Author{2}{Lastname}#=%=#Fang
+Author{2}{Username}#=%=#funfunhit
+Author{2}{Email}#=%=#leifa@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Jian-Guang
+Author{3}{Lastname}#=%=#LOU
+Author{3}{Username}#=%=#substill
+Author{3}{Email}#=%=#jlou@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Zhoujun
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lizhoujun
+Author{4}{Email}#=%=#lizj@buaa.edu.cn
+Author{4}{Affiliation}#=%=#Beihang University
+
+==========

@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#3278
+FinalPaperTitle#=%=#Beyond Distillation: Task-level Mixture-of-Experts for Efficient Inference
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Sneha Kudugunta
+JobTitle#==#
+Organization#==#Google LLC
+1600 Amphitheatre Pkwy, Mountain View, CA 94043
+Abstract#==#Sparse Mixture-of-Experts (MoE) has been a successful approach for scaling multilingual translation models to billions of parameters without a proportional increase in training computation. However, MoE models are prohibitively large and practitioners often resort to methods such as distillation for serving. In this work, we investigate routing strategies at different granularity (token, sentence, task) in MoE models to bypass distillation. Experiments on WMT and a web-scale dataset suggest that task-level routing (task-MoE) enables us to extract smaller, ready-to-deploy sub-networks from large sparse models. On WMT, our task-MoE with 32 experts (533M parameters) outperforms the best performing token-level MoE model (token-MoE) by +1.0 BLEU on average across 30 language pairs. The peak inference throughput is also improved by a factor of 1.9x when we route by tasks instead of tokens. While distilling a token-MoE to a smaller dense model preserves only 32% of the BLEU gains, our sub-network task-MoE, by design, preserves all the gains with the same inference cost as the distilled student model. Finally, when scaling up to 200 language pairs, our 128-expert task-MoE (13B parameters) performs competitively with a token-level counterpart, while improving the peak inference throughput by a factor of 2.6x.
+Author{1}{Firstname}#=%=#Sneha
+Author{1}{Lastname}#=%=#Kudugunta
+Author{1}{Username}#=%=#snehark
+Author{1}{Email}#=%=#snehakudugunta@google.com
+Author{1}{Affiliation}#=%=#Google AI
+Author{2}{Firstname}#=%=#Yanping
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#huangyp@google.com
+Author{2}{Affiliation}#=%=#Google AI
+Author{3}{Firstname}#=%=#Ankur
+Author{3}{Lastname}#=%=#Bapna
+Author{3}{Username}#=%=#ankurbpn
+Author{3}{Email}#=%=#ankurbpn@google.com
+Author{3}{Affiliation}#=%=#Google AI
+Author{4}{Firstname}#=%=#Maxim
+Author{4}{Lastname}#=%=#Krikun
+Author{4}{Email}#=%=#krikun@google.com
+Author{4}{Affiliation}#=%=#Google AI
+Author{5}{Firstname}#=%=#Dmitry
+Author{5}{Lastname}#=%=#Lepikhin
+Author{5}{Email}#=%=#lepikhin@google.com
+Author{5}{Affiliation}#=%=#Google AI
+Author{6}{Firstname}#=%=#Minh-Thang
+Author{6}{Lastname}#=%=#Luong
+Author{6}{Username}#=%=#thangluong
+Author{6}{Email}#=%=#luong.m.thang@gmail.com
+Author{6}{Affiliation}#=%=#Google Brain
+Author{7}{Firstname}#=%=#Orhan
+Author{7}{Lastname}#=%=#Firat
+Author{7}{Username}#=%=#orhanf
+Author{7}{Email}#=%=#orhanf@google.com
+Author{7}{Affiliation}#=%=#Google AI
+
+==========

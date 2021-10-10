@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Extracting Topics with Simultaneous Word Co-occurrence and Semantic Correlation Graphs: Neural Topic Modeling for Short Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yiming Wang
+JobTitle#==#
+Organization#==#College of Computer Science and Technology, Jilin University, China
+Key Laboratory of Symbolic Computation and Knowledge Engineering of Ministry of Education, Jilin University, China
+Abstract#==#Short text nowadays has become a more fashionable form of text data, e.g., Twitter posts, news titles, and product reviews. Extracting semantic topics from short texts plays a significant role in a wide spectrum of NLP applications, and neural topic modeling is now a major tool to achieve it. Motivated by learning more coherent and semantic topics, in this paper we develop a novel neural topic model named Dual Word Graph Topic Model (DWGTM), which extracts topics from simultaneous word co-occurrence and semantic correlation graphs. To be specific, we learn word features from the global word co-occurrence graph, so as to ingest rich word co-occurrence information; we then generate text features with word features, and feed them into an encoder network to get topic proportions per-text; finally, we reconstruct texts and word co-occurrence graph with topical distributions and word features, respectively. Besides, to capture semantics of words, we also apply word features to reconstruct a word semantic correlation graph computed by pre-trained word embeddings. Upon those ideas, we formulate DWGTM in an auto-encoding paradigm and efficiently train it with the spirit of neural variational inference. Empirical results validate that DWGTM can generate more semantically coherent topics than baseline topic models.
+Author{1}{Firstname}#=%=#Yiming
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#ymwang
+Author{1}{Email}#=%=#yimingw17@gmail.com
+Author{1}{Affiliation}#=%=#College of Computer Science and Technology, Jilin University
+Author{2}{Firstname}#=%=#Ximing
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#yya_wc
+Author{2}{Email}#=%=#liximing86@gmail.com
+Author{2}{Affiliation}#=%=#College of Computer Science and Technology, Jilin University
+Author{3}{Firstname}#=%=#Xiaotang
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Username}#=%=#xiaotang
+Author{3}{Email}#=%=#zhouxiaotang@ccut.edu.cn
+Author{3}{Affiliation}#=%=#Changchun University of Technology
+Author{4}{Firstname}#=%=#Jihong
+Author{4}{Lastname}#=%=#Ouyang
+Author{4}{Username}#=%=#ouyangjihong
+Author{4}{Email}#=%=#ouyj@jlu.edu.cn
+Author{4}{Affiliation}#=%=#College of Computer Science and Technology, Jilin University
+
+==========

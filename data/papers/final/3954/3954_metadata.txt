@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3954
+FinalPaperTitle#=%=#Detecting Health Advice in Medical Research Literature
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yingya Li
+JobTitle#==#
+Organization#==#Syracuse University, Syracuse NY, 13244
+Abstract#==#Health and medical researchers often give clinical and policy recommendations to inform health practice and public health policy.  However, no current health information system supports the direct retrieval of health advice. This study fills the gap by developing and validating an NLP-based prediction model for identifying health advice in research publications. We annotated a corpus of 6,000 sentences extracted from structured abstracts in PubMed publications as `"strong advice", "weak advice'', or "no advice'', and developed a BERT-based model that can predict, with a macro-averaged F1-score of 0.93, whether a sentence gives strong advice, weak advice, or not. The prediction model generalized well to sentences in both unstructured abstracts and discussion sections, where health advice normally appears. We also conducted a case study that applied this prediction model to retrieve specific health advice on COVID-19 treatments from LitCovid, a large COVID research literature portal, demonstrating the usefulness of retrieving health advice sentences as an advanced research literature navigation function for health researchers and the general public.
+Author{1}{Firstname}#=%=#Yingya
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#yli48
+Author{1}{Email}#=%=#yli48@syr.edu
+Author{1}{Affiliation}#=%=#Syracuse University
+Author{2}{Firstname}#=%=#Jun
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#junwang4
+Author{2}{Email}#=%=#junwang4@gmail.com
+Author{2}{Affiliation}#=%=#Independent Researcher
+Author{3}{Firstname}#=%=#Bei
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#byu
+Author{3}{Email}#=%=#byu@syr.edu
+Author{3}{Affiliation}#=%=#Syracuse University
+
+==========

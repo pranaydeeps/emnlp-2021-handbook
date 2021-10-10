@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#On Generalization in Coreference Resolution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shubham Toshniwal
+JobTitle#==#
+Organization#==#
+Abstract#==#While coreference resolution is defined independently of dataset domain, most models for performing coreference resolution do not transfer well to unseen domains. We consolidate a set of 8 coreference resolution datasets targeting different domains to evaluate the off-the-shelf performance of models. We then mix three datasets for training; even though their domain, annotation guidelines, and metadata differ, we propose a method for jointly training a single model on this heterogeneous data mixture by using data augmentation to account for annotation differences and sampling to balance the data quantities. We find that in a zero-shot setting, models trained on a single dataset transfer poorly while joint training yields improved overall performance, leading to better generalization in coreference resolution models. This work contributes a new benchmark for robust coreference resolution and multiple new state-of-the-art results.
+Author{1}{Firstname}#=%=#Shubham
+Author{1}{Lastname}#=%=#Toshniwal
+Author{1}{Username}#=%=#shtoshni
+Author{1}{Email}#=%=#shtoshni@ttic.edu
+Author{1}{Affiliation}#=%=#TTI Chicago
+Author{2}{Firstname}#=%=#Patrick
+Author{2}{Lastname}#=%=#Xia
+Author{2}{Username}#=%=#paxia
+Author{2}{Email}#=%=#paxia@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Sam
+Author{3}{Lastname}#=%=#Wiseman
+Author{3}{Username}#=%=#swiseman
+Author{3}{Email}#=%=#swiseman@ttic.edu
+Author{3}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{4}{Firstname}#=%=#Karen
+Author{4}{Lastname}#=%=#Livescu
+Author{4}{Username}#=%=#klivescu
+Author{4}{Email}#=%=#klivescu@ttic.edu
+Author{4}{Affiliation}#=%=#TTI-Chicago
+Author{5}{Firstname}#=%=#Kevin
+Author{5}{Lastname}#=%=#Gimpel
+Author{5}{Username}#=%=#kgimpel
+Author{5}{Email}#=%=#kgimpel@ttic.edu
+Author{5}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+
+==========

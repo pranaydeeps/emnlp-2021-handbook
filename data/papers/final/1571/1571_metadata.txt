@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1571
+FinalPaperTitle#=%=#Is Everything in Order? A Simple Way to Order Sentences
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Somnath Basu Roy Chowdhury
+JobTitle#==#
+Organization#==#UNC Chapel Hill, 201 S Columbia St, Chapel Hill, NC 27599
+Abstract#==#The task of organizing a shuffled set of sentences into a coherent text has been used to evaluate a machine's understanding of causal and temporal relations. We formulate the sentence ordering task as a conditional text-to-marker generation problem. We present Reorder-BART (Re-BART) that leverages a pre-trained Transformer-based model to identify a coherent order for a given set of shuffled sentences. The model takes a set of shuffled sentences with sentence-specific markers as input and generates a sequence of position markers of the sentences in the ordered text. Re-BART achieves the state-of-the-art performance across 7 datasets in Perfect Match Ratio (PMR) and Kendall's tau. We perform evaluations in a zero-shot setting, showcasing that our model is able to generalize well across other datasets. We additionally perform several experiments to understand the functioning and limitations of our framework.
+Author{1}{Firstname}#=%=#Somnath
+Author{1}{Lastname}#=%=#Basu Roy Chowdhury
+Author{1}{Username}#=%=#somnathbrc
+Author{1}{Email}#=%=#somnath@cs.unc.edu
+Author{1}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{2}{Firstname}#=%=#Faeze
+Author{2}{Lastname}#=%=#Brahman
+Author{2}{Username}#=%=#fbrahman
+Author{2}{Email}#=%=#fbrahman@ucsc.edu
+Author{2}{Affiliation}#=%=#UC Santa Cruz
+Author{3}{Firstname}#=%=#Snigdha
+Author{3}{Lastname}#=%=#Chaturvedi
+Author{3}{Username}#=%=#snigdha
+Author{3}{Email}#=%=#snigdhac@gmail.com
+Author{3}{Affiliation}#=%=#University of North Carolina, Chapel Hill
+
+==========

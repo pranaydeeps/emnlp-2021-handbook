@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#4173
+FinalPaperTitle#=%=#Long-Range Modeling of Source Code Files with eWASH: Extended Window Access by Syntax Hierarchy
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Colin B Clement
+JobTitle#==#
+Organization#==#Microsoft Corp, One Microsoft Way, Redmond, WA 98052
+Abstract#==#Statistical language modeling and translation with transformers have found many successful applications in program understanding and generation tasks, setting high benchmarks for tools in modern software development environments. The finite context window of these neural models means, however, that they will be unable to leverage the entire relevant context of large files and packages for any given task. While there are many efforts to extend the context window, we introduce an architecture-independent approach for leveraging the syntactic hierarchies of source code for incorporating entire file-level context into a fixed-length window. Using concrete syntax trees of each source file we extract syntactic hierarchies and integrate them into context window by selectively removing from view more specific, less relevant scopes for a given task. We evaluate this approach on code generation tasks and joint translation of natural language and source code in Python programming language, achieving a new state-of-the-art in code completion and summarization for Python in the CodeXGLUE benchmark. We also introduce new CodeXGLUE benchmarks for user-experience-motivated tasks: code completion with normalized literals, method body completion/code summarization conditioned on file-level context.
+Author{1}{Firstname}#=%=#Colin
+Author{1}{Lastname}#=%=#Clement
+Author{1}{Username}#=%=#colinclement
+Author{1}{Email}#=%=#colin.clement@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft
+Author{2}{Firstname}#=%=#Shuai
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#v-shuailu@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Xiaoyu
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#xiaoyu.liu@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Michele
+Author{4}{Lastname}#=%=#Tufano
+Author{4}{Username}#=%=#tufanomichele
+Author{4}{Email}#=%=#mitufano@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Dawn
+Author{5}{Lastname}#=%=#Drain
+Author{5}{Username}#=%=#dawndrain
+Author{5}{Email}#=%=#dawndrain95@gmail.com
+Author{5}{Affiliation}#=%=#Microsoft
+Author{6}{Firstname}#=%=#Nan
+Author{6}{Lastname}#=%=#Duan
+Author{6}{Username}#=%=#nanduan
+Author{6}{Email}#=%=#nanduan@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research Asia
+Author{7}{Firstname}#=%=#Neel
+Author{7}{Lastname}#=%=#Sundaresan
+Author{7}{Username}#=%=#neels
+Author{7}{Email}#=%=#nsundare@gmail.com
+Author{7}{Affiliation}#=%=#Microsoft Corp.
+Author{8}{Firstname}#=%=#Alexey
+Author{8}{Lastname}#=%=#Svyatkovskiy
+Author{8}{Username}#=%=#alexeys
+Author{8}{Email}#=%=#alsvyatk@microsoft.com
+Author{8}{Affiliation}#=%=#Microsoft
+
+==========

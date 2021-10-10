@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3186
+FinalPaperTitle#=%=#Relation-Guided Pre-Training for Open-Domain Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Answering complex open-domain questions requires understanding the latent relations between involving entities. However, we found that the existing QA datasets are extremely imbalanced in some types of relations, which hurts the generalization performance over questions with long-tail relations. To remedy this problem, in this paper, we propose a Relation-Guided Pre-Training (RGPT-QA) framework. We first generate a relational QA dataset covering a wide range of relations from both the Wikidata triplets and Wikipedia hyperlinks. We then pre-train a QA model to infer the latent relations from the question, and then conduct extractive QA to get the target answer entity. We demonstrate that by pre-training with propoed RGPT-QA techique, the popular open-domain QA model, Dense Passage Retriever (DPR), achieves 2.2%, 2.4%, and 6.3% absolute improvement in Exact Match accuracy  on Natural Questions, TriviaQA, and WebQuestions. Particularly, we show that RGPT-QA improves significantly on questions with long-tail relations.
+Author{1}{Firstname}#=%=#Ziniu
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Username}#=%=#acbull
+Author{1}{Email}#=%=#bull@cs.ucla.edu
+Author{1}{Affiliation}#=%=#University of California, Los Angeles
+Author{2}{Firstname}#=%=#Yizhou
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#yzsun
+Author{2}{Email}#=%=#yzsun@cs.ucla.edu
+Author{2}{Affiliation}#=%=#UCLA
+Author{3}{Firstname}#=%=#Kai-Wei
+Author{3}{Lastname}#=%=#Chang
+Author{3}{Username}#=%=#kchang10
+Author{3}{Email}#=%=#kw@kwchang.net
+Author{3}{Affiliation}#=%=#UCLA
+
+==========

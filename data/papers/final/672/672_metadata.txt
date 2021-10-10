@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#672
+FinalPaperTitle#=%=#Detecting Compositionally Out-of-Distribution Examples in Semantic Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Denis Lukovnikov
+JobTitle#==#
+Organization#==#Ruhr University Bochum
+Abstract#==#While neural networks are ubiquitous in state-of-the-art semantic parsers, it has been shown that  most standard models suffer from dramatic performance losses when faced with compositionally out-of-distribution (OOD) data. Recently several methods have been proposed to improve compositional generalization in semantic parsing. In this work we instead focus on the problem of detecting compositionally OOD examples with neural semantic parsers, which, to the best of our knowledge, has not been investigated before. We investigate several strong yet simple methods for OOD detection based on predictive uncertainty. The experimental results demonstrate that these techniques perform well on the standard SCAN and CFQ datasets. Moreover, we show that OOD detection can be further improved by using a heterogeneous ensemble.
+Author{1}{Firstname}#=%=#Denis
+Author{1}{Lastname}#=%=#Lukovnikov
+Author{1}{Username}#=%=#lukovnikov
+Author{1}{Email}#=%=#lukovnikov.denis@gmail.com
+Author{1}{Affiliation}#=%=#Ruhr University Bochum
+Author{2}{Firstname}#=%=#Sina
+Author{2}{Lastname}#=%=#Daubener
+Author{2}{Email}#=%=#sina.daeubener@rub.de
+Author{2}{Affiliation}#=%=#Ruhr University Bochum
+Author{3}{Firstname}#=%=#Asja
+Author{3}{Lastname}#=%=#Fischer
+Author{3}{Email}#=%=#asja.fischer@rub.de
+Author{3}{Affiliation}#=%=#Ruhr University Bochum
+
+==========

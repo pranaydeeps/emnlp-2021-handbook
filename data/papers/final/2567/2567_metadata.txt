@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2567
+FinalPaperTitle#=%=#Open-Domain Contextual Link Prediction and its Complementarity with Entailment Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Mohammad Javad Hosseini
+JobTitle#==#
+Organization#==#
+Abstract#==#An open-domain knowledge graph (KG) has entities as nodes and natural language relations
+as edges, and is constructed by extracting (subject, relation, object) triples from text. The task of open-domain link prediction is to infer missing relations in the KG. Previous work has used standard link prediction for the task. Since triples are extracted from text, we can ground them in the larger textual context in which they were originally found. However, standard link prediction methods only rely on the KG structure and ignore the textual context that each triple was extracted from. In this paper, we introduce the new task of open-domain contextual link prediction which has access to both the textual context and the KG structure to perform link prediction. We build a dataset for the task and propose a model for it. Our experiments show that context is crucial in predicting missing relations. We also demonstrate the utility of contextual link prediction in discovering context-independent entailments between relations, in the form of entailment graphs (EG), in which the nodes are the relations. The reverse holds too: context-independent EGs assist in predicting relations in context.
+Author{1}{Firstname}#=%=#Mohammad Javad
+Author{1}{Lastname}#=%=#Hosseini
+Author{1}{Username}#=%=#mjhosseini
+Author{1}{Email}#=%=#javadh@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Shay B.
+Author{2}{Lastname}#=%=#Cohen
+Author{2}{Username}#=%=#scohen2
+Author{2}{Email}#=%=#scohen@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Johnson
+Author{3}{Username}#=%=#mark.johnson
+Author{3}{Email}#=%=#Mark.Johnson@MQ.edu.au
+Author{3}{Affiliation}#=%=#Oracle Corporation
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Steedman
+Author{4}{Username}#=%=#steedman
+Author{4}{Email}#=%=#steedman@inf.ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+
+==========

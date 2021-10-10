@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#125
+FinalPaperTitle#=%=#Joint Multimedia Event Extraction from Video and Article
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Brian Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Visual and textual modalities contribute complementary information about events described in multimedia documents. 
+Videos contain rich dynamics and detailed unfoldings of events, while text describes more high-level and abstract concepts. However, existing event extraction methods either do not handle video or solely target video while ignoring other modalities. In contrast, we propose the first approach to jointly extract events from both video and text articles. We introduce the new task of Video MultiMedia Event Extraction and propose two novel components to build the first system towards this task. First, we propose the first self-supervised cross-modal event coreference model that can determine coreference between video events and text events without any manually annotated pairs. Second, we introduce the first cross-modal transformer architecture, which extracts structured event information from both videos and text documents. 
+We also construct and will publicly release a new benchmark of video-article pairs, consisting of 860 video-article pairs with extensive annotations for evaluating methods on this task. Our experimental results demonstrate the effectiveness of our proposed method on our new benchmark dataset. We achieve 6.0% and 5.8% absolute F-score gain on multimodal event coreference resolution and multimedia event extraction.
+Author{1}{Firstname}#=%=#Brian
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#brian271828
+Author{1}{Email}#=%=#bc2754@columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Xudong
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Username}#=%=#xudonglin
+Author{2}{Email}#=%=#xudong.lin@columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Christopher
+Author{3}{Lastname}#=%=#Thomas
+Author{3}{Username}#=%=#chris.thomas
+Author{3}{Email}#=%=#chris@cs.pitt.edu
+Author{3}{Affiliation}#=%=#Columbia University
+Author{4}{Firstname}#=%=#Manling
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#limanling
+Author{4}{Email}#=%=#manling2@illinois.edu
+Author{4}{Affiliation}#=%=#UIUC
+Author{5}{Firstname}#=%=#Shoya
+Author{5}{Lastname}#=%=#Yoshida
+Author{5}{Username}#=%=#sy2905
+Author{5}{Email}#=%=#sy2905@columbia.edu
+Author{5}{Affiliation}#=%=#Columbia University
+Author{6}{Firstname}#=%=#Lovish
+Author{6}{Lastname}#=%=#Chum
+Author{6}{Username}#=%=#lovishchum
+Author{6}{Email}#=%=#lc3454@columbia.edu
+Author{6}{Affiliation}#=%=#Columbia University
+Author{7}{Firstname}#=%=#Heng
+Author{7}{Lastname}#=%=#Ji
+Author{7}{Username}#=%=#hengjirpi
+Author{7}{Email}#=%=#hengji@illinois.edu
+Author{7}{Affiliation}#=%=#University of Illinois at Urbana-Champaign and Amazon (Amazon Scholar)
+Author{8}{Firstname}#=%=#Shih-Fu
+Author{8}{Lastname}#=%=#Chang
+Author{8}{Username}#=%=#sfchang
+Author{8}{Email}#=%=#sc250@columbia.edu
+Author{8}{Affiliation}#=%=#Columbia University
+
+==========

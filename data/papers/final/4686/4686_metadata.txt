@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4686
+FinalPaperTitle#=%=#{W}ino{L}ogic: {A} Zero-Shot Logic-based Diagnostic Dataset for {W}inograd {S}chema {C}hallenge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Weinan He
+JobTitle#==#
+Organization#==#Sun Yat-sen University, No. 132, WaiHuanXiLu, Guangzhou Higher Education Mega Center, Panyu District, Guangzhou, China
+Abstract#==#The recent success of neural language models (NLMs) on the Winograd Schema Challenge has called for further investigation of the commonsense reasoning ability of these models. Previous diagnostic datasets rely on crowd-sourcing which fails to provide coherent commonsense crucial for solving WSC problems. To better evaluate NLMs, we propose a logic-based framework that focuses on high-quality commonsense knowledge. Specifically, we identify and collect formal knowledge formulas verified by theorem provers and translate such formulas into natural language sentences. Based on these true knowledge sentences, adversarial false ones are generated. We propose a new dataset named WinoLogic with these sentences. Given a problem in WinoLogic, NLMs need to decide whether the plausible knowledge sentences could correctly solve the corresponding WSC problems in a zero-shot setting. We also ask human annotators to validate WinoLogic to ensure it is human-agreeable. Experiments show that NLMs still struggle to comprehend commonsense knowledge as humans do, indicating that their reasoning ability could have been overestimated.
+Author{1}{Firstname}#=%=#Weinan
+Author{1}{Lastname}#=%=#He
+Author{1}{Username}#=%=#heweinan
+Author{1}{Email}#=%=#heweinan@mail2.sysu.edu.cn
+Author{1}{Affiliation}#=%=#Sun Yat-sen University
+Author{2}{Firstname}#=%=#Canming
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Username}#=%=#huangcm
+Author{2}{Email}#=%=#huangcm@mail2.sysu.edu.cn
+Author{2}{Affiliation}#=%=#Sun Yat-sen University
+Author{3}{Firstname}#=%=#Yongmei
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#ymliu
+Author{3}{Email}#=%=#ymliu@mail.sysu.edu.cn
+Author{3}{Affiliation}#=%=#Sun Yat-sen University
+Author{4}{Firstname}#=%=#Xiaodan
+Author{4}{Lastname}#=%=#Zhu
+Author{4}{Username}#=%=#zhu2048
+Author{4}{Email}#=%=#zhu2048@gmail.com
+Author{4}{Affiliation}#=%=#Queen's University
+
+==========

@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#4243
+FinalPaperTitle#=%=#Word Reordering for Zero-shot Cross-lingual Structured Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Tao Ji
+JobTitle#==#
+Organization#==#
+Abstract#==#Adapting word order from one language to another is a key problem in cross-lingual structured prediction. Current sentence encoders (e.g., RNN, Transformer with position embeddings) are usually word order sensitive. Even with uniform word form representations (MUSE, mBERT), word order discrepancies may hurt the adaptation of models. In this paper, we build structured prediction models with bag-of-words inputs, and introduce a new reordering module to organizing words following the source language order, which learns task-specific reordering strategies from a general-purpose order predictor model. Experiments on zero-shot cross-lingual dependency parsing, POS tagging, and morphological tagging show that our model can significantly improve target language performances, especially for languages that are distant from the source language.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Ji
+Author{1}{Username}#=%=#jitao_start
+Author{1}{Email}#=%=#taoji.cs@gmail.com
+Author{1}{Affiliation}#=%=#Department of Computer Science and Technology at East China Normal University
+Author{2}{Firstname}#=%=#Yong
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Username}#=%=#yong
+Author{2}{Email}#=%=#jiangyong.ml@gmail.com
+Author{2}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{3}{Firstname}#=%=#Tao
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#leeo.wangt
+Author{3}{Email}#=%=#leeo.wangt@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Inc.
+Author{4}{Firstname}#=%=#Zhongqiang
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Username}#=%=#zqhuang
+Author{4}{Email}#=%=#zqhuang@gmail.com
+Author{4}{Affiliation}#=%=#Alibaba Group
+Author{5}{Firstname}#=%=#Fei
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Username}#=%=#fei.huang
+Author{5}{Email}#=%=#feirhuang@gmail.com
+Author{5}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{6}{Firstname}#=%=#Yuanbin
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Username}#=%=#wuyuanbin.fdu
+Author{6}{Email}#=%=#wuyuanbin.fdu@gmail.com
+Author{6}{Affiliation}#=%=#East China Normal University
+Author{7}{Firstname}#=%=#Xiaoling
+Author{7}{Lastname}#=%=#Wang
+Author{7}{Username}#=%=#xlwang
+Author{7}{Email}#=%=#xlwang@sei.ecnu.edu.cn
+Author{7}{Affiliation}#=%=#East China Normal University
+
+==========

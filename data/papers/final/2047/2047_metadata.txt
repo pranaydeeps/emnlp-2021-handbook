@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#2047
+FinalPaperTitle#=%=#{UniteD-SRL}: {A} Unified Dataset for Span- and Dependency-Based Multilingual and Cross-Lingual {S}emantic {R}ole {L}abeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Rocco Tripodi
+JobTitle#==#
+Organization#==#University of Bologna
+Via Cartoleria 5 - 40124 Bologna
+Abstract#==#Multilingual and cross-lingual Semantic Role Labeling (SRL) have recently garnered increasing attention as multilingual text representation techniques have become more effective and widely available. While recent work has attained growing success, results on gold multilingual benchmarks are still not easily comparable across languages, making it difficult to grasp where we stand. For example, in CoNLL-2009, the standard benchmark for multilingual SRL, language-to-language comparisons are affected by the fact that each language has its own dataset which differs from the others in size, domains, sets of labels and annotation guidelines. In this paper, we address this issue and propose UniteD-SRL, a new benchmark for multilingual and cross-lingual, span- and dependency-based SRL. UniteD-SRL provides expert-curated parallel annotations using a common predicate-argument structure inventory, allowing direct comparisons across languages and encouraging studies on cross-lingual transfer in SRL. We release UniteD-SRL v1.0 at https://github.com/SapienzaNLP/united-srl.
+Author{1}{Firstname}#=%=#Rocco
+Author{1}{Lastname}#=%=#Tripodi
+Author{1}{Username}#=%=#rocco
+Author{1}{Email}#=%=#rocco.trip@gmail.com
+Author{1}{Affiliation}#=%=#Alma Mater Studiorum - Università di Bologna
+Author{2}{Firstname}#=%=#Simone
+Author{2}{Lastname}#=%=#Conia
+Author{2}{Username}#=%=#simone_conia
+Author{2}{Email}#=%=#conia@di.uniroma1.it
+Author{2}{Affiliation}#=%=#Sapienza University of Rome
+Author{3}{Firstname}#=%=#Roberto
+Author{3}{Lastname}#=%=#Navigli
+Author{3}{Username}#=%=#navigli
+Author{3}{Email}#=%=#roberto.navigli@uniroma1.it
+Author{3}{Affiliation}#=%=#Sapienza University of Rome
+
+==========

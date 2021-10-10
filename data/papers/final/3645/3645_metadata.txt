@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#3645
+FinalPaperTitle#=%=#How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Indira Sen
+JobTitle#==#
+Organization#==#GESIS-Leibniz Institute for Social Science,
+6-8 Unter Sachsenhausen
+Cologne 50667
+Germany
+Abstract#==#As NLP models are increasingly deployed in socially situated settings such as online abusive content detection, it is crucial to ensure that these models are robust. One way of improving model robustness is to generate counterfactually augmented data (CAD) for training models that can better learn to distinguish between core features and data artifacts. While models trained on this type of data have shown promising out-of-domain generalizability, it is still unclear what the sources of such improvements are. We investigate the benefits of CAD for social NLP models by focusing on three social computing constructs --- sentiment, sexism, and hate speech. Assessing the performance of models trained with and without CAD across different types of datasets, we find that while models trained on CAD show lower in-domain performance, they generalize better out-of-domain. We unpack this apparent discrepancy using machine explanations and find that CAD reduces model reliance on spurious features. Leveraging a novel typology of CAD to analyze their relationship with model performance, we find that CAD which acts on the construct directly or a diverse set of CAD leads to higher performance.
+Author{1}{Firstname}#=%=#Indira
+Author{1}{Lastname}#=%=#Sen
+Author{1}{Username}#=%=#isen
+Author{1}{Email}#=%=#indira.sen@gesis.org
+Author{1}{Affiliation}#=%=#GESIS
+Author{2}{Firstname}#=%=#Mattia
+Author{2}{Lastname}#=%=#Samory
+Author{2}{Username}#=%=#samoryma
+Author{2}{Email}#=%=#mattia.samory@gmail.com
+Author{2}{Affiliation}#=%=#GESIS
+Author{3}{Firstname}#=%=#Fabian
+Author{3}{Lastname}#=%=#Flöck
+Author{3}{Username}#=%=#ffloeck
+Author{3}{Email}#=%=#fabian.floeck@gesis.org
+Author{3}{Affiliation}#=%=#GESIS
+Author{4}{Firstname}#=%=#Claudia
+Author{4}{Lastname}#=%=#Wagner
+Author{4}{Username}#=%=#clauwa
+Author{4}{Email}#=%=#claudia.wagner@gesis.org
+Author{4}{Affiliation}#=%=#GESIS
+Author{5}{Firstname}#=%=#Isabelle
+Author{5}{Lastname}#=%=#Augenstein
+Author{5}{Username}#=%=#isabelle_augenstein
+Author{5}{Email}#=%=#augenstein@di.ku.dk
+Author{5}{Affiliation}#=%=#Department of Computer Science, University of Copenhagen
+
+==========

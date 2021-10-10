@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#676
+FinalPaperTitle#=%=#{A} {T}hree-{S}tage {L}earning {F}ramework for {L}ow-{R}esource {K}nowledge-{G}rounded {D}ialogue {G}eneration
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#Shilei Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural conversation models have shown great potentials towards generating fluent and informative responses by introducing external background knowledge. Nevertheless, it is laborious to construct such knowledge-grounded dialogues, and existing models usually perform poorly when transfer to new domains with limited training samples. Therefore, building a knowledge-grounded dialogue system under the low-resource setting is a still crucial issue. In this paper, we propose a novel three-stage learning framework  based on weakly supervised learning which benefits from large scale ungrounded dialogues and unstructured knowledge base. To better cooperate with this framework, we devise a variant of Transformer with decoupled decoder which facilitates the disentangled learning of response generation and knowledge incorporation. Evaluation results on two benchmarks indicate that our approach can outperform other state-of-the-art methods with less training data, and even in zero-resource scenario, our approach still performs well.
+Author{1}{Firstname}#=%=#Shilei
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#liusl
+Author{1}{Email}#=%=#1901750@stu.neu.edu.cn
+Author{1}{Affiliation}#=%=#Northeastern University
+Author{2}{Firstname}#=%=#Xiaofeng
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#zhaoxf4
+Author{2}{Email}#=%=#zhaoxf4@outlook.com
+Author{2}{Affiliation}#=%=#Northeastern University
+Author{3}{Firstname}#=%=#Bochao
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#lbc9326
+Author{3}{Email}#=%=#1901725@stu.neu.edu.cn
+Author{3}{Affiliation}#=%=#NorthEastern University
+Author{4}{Firstname}#=%=#Feiliang
+Author{4}{Lastname}#=%=#Ren
+Author{4}{Username}#=%=#renfeiliang
+Author{4}{Email}#=%=#renfeiliang@ise.neu.edu.cn
+Author{4}{Affiliation}#=%=#Northerstern University
+Author{5}{Firstname}#=%=#Longhui
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#zhanglonghui
+Author{5}{Email}#=%=#1971694@stu.neu.edu.cn
+Author{5}{Affiliation}#=%=#Northeastern University
+Author{6}{Firstname}#=%=#Shujuan
+Author{6}{Lastname}#=%=#Yin
+Author{6}{Username}#=%=#yinshujuan
+Author{6}{Email}#=%=#yinshujuan2020@outlook.com
+Author{6}{Affiliation}#=%=#Northeastern University
+
+==========

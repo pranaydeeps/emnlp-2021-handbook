@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3374
+FinalPaperTitle#=%=#Vision Matters When It Should: Sanity Checking Multimodal Machine Translation Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#JIAODA LI
+JobTitle#==#
+Organization#==#ETH Zürich, Rämistrasse 101, 8092 Zürich
+Abstract#==#Multimodal machine translation (MMT) systems have been shown to outperform their text-only neural machine translation (NMT) counterparts when visual context is available. However, recent studies have also shown that the performance of MMT models is only marginally impacted when the associated image is replaced with an unrelated image or noise, which suggests that the visual context might not be exploited by the model at all. We hypothesize that this might be caused by the nature of the commonly used evaluation benchmark, also known as Multi30K, where the translations of image captions were prepared without actually showing the images to human translators. In this paper, we present a qualitative study that examines the role of datasets in stimulating the leverage of visual modality and we propose methods to highlight the importance of visual signals in the datasets which demonstrate improvements in reliance of models on the source images. Our findings suggest the research on effective MMT architectures is currently impaired by the lack of suitable datasets and careful consideration must be taken in creation of future MMT datasets, for which we also provide useful insights.
+Author{1}{Firstname}#=%=#Jiaoda
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#dalles
+Author{1}{Email}#=%=#jiaoda.li@inf.ethz.ch
+Author{1}{Affiliation}#=%=#ETH Zürich
+Author{2}{Firstname}#=%=#Duygu
+Author{2}{Lastname}#=%=#Ataman
+Author{2}{Username}#=%=#dataman
+Author{2}{Email}#=%=#ataman@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Rico
+Author{3}{Lastname}#=%=#Sennrich
+Author{3}{Username}#=%=#rsennrich
+Author{3}{Email}#=%=#sennrich@cl.uzh.ch
+Author{3}{Affiliation}#=%=#University of Zurich
+
+==========

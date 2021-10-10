@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3465
+FinalPaperTitle#=%=#Investigating Robustness of Dialog Models to Popular Figurative Language Constructs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Harsh Jhamtani
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#Humans often employ figurative language use in communication, including during interactions with dialog systems. Thus, it is important for real-world dialog systems to be able to handle popular figurative language constructs like metaphor and simile. In this work, we analyze the performance of existing dialog models in situations where the input dialog context exhibits use of figurative language. We observe large gaps in handling of figurative language when evaluating the models on two open domain dialog datasets. When faced with dialog contexts consisting of figurative language, some models show very large drops in performance compared to contexts without figurative language. We encourage future research in dialog modeling to separately analyze and report results on figurative language in order to better test model capabilities relevant to real-world use. Finally, we propose lightweight solutions to help existing models become more robust to figurative language by simply using an external resource to translate figurative language to literal (non-figurative) forms while preserving the meaning to the best extent possible.
+Author{1}{Firstname}#=%=#Harsh
+Author{1}{Lastname}#=%=#Jhamtani
+Author{1}{Username}#=%=#harsh19
+Author{1}{Email}#=%=#jharsh@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Varun
+Author{2}{Lastname}#=%=#Gangal
+Author{2}{Username}#=%=#vgangal
+Author{2}{Email}#=%=#vgangal@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Eduard
+Author{3}{Lastname}#=%=#Hovy
+Author{3}{Username}#=%=#hovy
+Author{3}{Email}#=%=#hovy@cmu.edu
+Author{3}{Affiliation}#=%=#CMU
+Author{4}{Firstname}#=%=#Taylor
+Author{4}{Lastname}#=%=#Berg-Kirkpatrick
+Author{4}{Username}#=%=#tberg
+Author{4}{Email}#=%=#tberg@eng.ucsd.edu
+Author{4}{Affiliation}#=%=#University of California San Diego
+
+==========

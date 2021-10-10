@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3143
+FinalPaperTitle#=%=#Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT Compression
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Canwen Xu
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent studies on compression of pretrained language models (e.g., BERT) usually use preserved accuracy as the metric for evaluation. In this paper, we propose two new metrics, label loyalty and probability loyalty that measure how closely a compressed model (i.e., student) mimics the original model (i.e., teacher). We also explore the effect of compression with regard to robustness under adversarial attacks. We benchmark quantization, pruning, knowledge distillation and progressive module replacing with loyalty and robustness. By combining multiple compression techniques, we provide a practical strategy to achieve better accuracy, loyalty and robustness.
+Author{1}{Firstname}#=%=#Canwen
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#jetrunner
+Author{1}{Email}#=%=#cxu@ucsd.edu
+Author{1}{Affiliation}#=%=#UC San Diego
+Author{2}{Firstname}#=%=#Wangchunshu
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Username}#=%=#michaelzw
+Author{2}{Email}#=%=#wcszhou@stanford.edu
+Author{2}{Affiliation}#=%=#Beihang Univeristy
+Author{3}{Firstname}#=%=#Tao
+Author{3}{Lastname}#=%=#Ge
+Author{3}{Username}#=%=#getao
+Author{3}{Email}#=%=#tage@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Ke
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Username}#=%=#kexubuaa
+Author{4}{Email}#=%=#kexu@nlsde.buaa.edu.cn
+Author{4}{Affiliation}#=%=#Beihang University
+Author{5}{Firstname}#=%=#Julian
+Author{5}{Lastname}#=%=#McAuley
+Author{5}{Username}#=%=#julian.mcauley
+Author{5}{Email}#=%=#jmcauley@eng.ucsd.edu
+Author{5}{Affiliation}#=%=#UCSD
+Author{6}{Firstname}#=%=#Furu
+Author{6}{Lastname}#=%=#Wei
+Author{6}{Username}#=%=#fuwei
+Author{6}{Email}#=%=#fuwei@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research
+
+==========

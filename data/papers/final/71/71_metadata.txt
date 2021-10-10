@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#71
+FinalPaperTitle#=%=#Joint Passage Ranking for Diverse Multi-Answer Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sewon Min
+JobTitle#==#
+Organization#==#
+Abstract#==#We study multi-answer retrieval, an under-explored problem that requires retrieving passages to cover multiple distinct answers for a given question. This task requires joint modeling of retrieved passages, as models should not repeatedly retrieve passages containing the same answer at the cost of missing
+a different valid answer. Prior work focusing on single-answer retrieval is limited as it cannot reason about the set of passages jointly. In this paper, we introduce JPR, a joint passage retrieval model focusing on reranking. To model the joint probability of the retrieved passages, JPR makes use of an autoregressive reranker that selects a sequence of passages, equipped with novel training and decoding algorithms. Compared to prior approaches, JPR achieves significantly better answer coverage on three multi-answer datasets. When combined with downstream question answering, the improved retrieval enables larger answer generation models since they need to consider fewer passages, establishing a new state-of-the-art.
+Author{1}{Firstname}#=%=#Sewon
+Author{1}{Lastname}#=%=#Min
+Author{1}{Username}#=%=#shmsw25
+Author{1}{Email}#=%=#sewon@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Kenton
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Username}#=%=#kentonl
+Author{2}{Email}#=%=#kentonl@google.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Ming-Wei
+Author{3}{Lastname}#=%=#Chang
+Author{3}{Username}#=%=#minchang
+Author{3}{Email}#=%=#changmingwei@gmail.com
+Author{3}{Affiliation}#=%=#Google Research
+Author{4}{Firstname}#=%=#Kristina
+Author{4}{Lastname}#=%=#Toutanova
+Author{4}{Username}#=%=#kristout
+Author{4}{Email}#=%=#kristout@google.com
+Author{4}{Affiliation}#=%=#Google Research
+Author{5}{Firstname}#=%=#Hannaneh
+Author{5}{Lastname}#=%=#Hajishirzi
+Author{5}{Username}#=%=#hannaneh
+Author{5}{Email}#=%=#hannaneh@washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

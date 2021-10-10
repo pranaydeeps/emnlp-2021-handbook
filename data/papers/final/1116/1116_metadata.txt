@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1116
+FinalPaperTitle#=%=#Hierarchical Multi-label Text Classification with Horizontal and Vertical Category Correlations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sijie Teng
+JobTitle#==#
+Organization#==#
+Abstract#==#Hierarchical multi-label text classification (HMTC) deals with the challenging task where an instance can be assigned to multiple hierarchically structured categories at the same time. The majority of prior studies either focus on reducing the HMTC task into a flat multi-label problem ignoring the vertical category correlations or exploiting the dependencies across different hierarchical levels without considering the horizontal correlations among categories at the same level, which inevitably leads to fundamental information loss. In this paper, we propose a novel HMTC framework that considers both vertical and horizontal category correlations. Specifically, we first design a loosely coupled graph convolutional neural network as the representation extractor to obtain representations for words, documents, and, more importantly, level-wise representations for categories, which are not considered in previous works. Then, the learned category representations are adopted to capture the vertical dependencies among levels of category hierarchy and model the horizontal correlations. Finally, based on the document embeddings and category embeddings, we design a hybrid algorithm to predict the categories of the entire hierarchical structure. Extensive experiments conducted on real-world HMTC datasets validate the effectiveness of the proposed framework with significant improvements over the baselines.
+Author{1}{Firstname}#=%=#Linli
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#linlixu
+Author{1}{Email}#=%=#linlixu@ustc.edu.cn
+Author{1}{Affiliation}#=%=#University of Science and Technology of China
+Author{2}{Firstname}#=%=#Sijie
+Author{2}{Lastname}#=%=#Teng
+Author{2}{Username}#=%=#sijieteng
+Author{2}{Email}#=%=#yunmo@mail.ustc.edu.cn
+Author{2}{Affiliation}#=%=#University of Science and Technology of China
+Author{3}{Firstname}#=%=#Ruoyu
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Username}#=%=#zhaoruoyu
+Author{3}{Email}#=%=#zry1997@mail.ustc.edu.cn
+Author{3}{Affiliation}#=%=#University of Science and Technology of China
+Author{4}{Firstname}#=%=#Junliang
+Author{4}{Lastname}#=%=#Guo
+Author{4}{Username}#=%=#guojunll
+Author{4}{Email}#=%=#guojunll@mail.ustc.edu.cn
+Author{4}{Affiliation}#=%=#University of Science and Technology of China
+Author{5}{Firstname}#=%=#chi
+Author{5}{Lastname}#=%=#xiao
+Author{5}{Username}#=%=#xiaochi
+Author{5}{Email}#=%=#xiaochi@mail.ustc.edu.cn
+Author{5}{Affiliation}#=%=#USTC
+Author{6}{Firstname}#=%=#Deqiang
+Author{6}{Lastname}#=%=#Jiang
+Author{6}{Username}#=%=#dqjiang
+Author{6}{Email}#=%=#dqiangjiang@tencent.com
+Author{6}{Affiliation}#=%=#Tencent Youtu Lab
+Author{7}{Firstname}#=%=#Bo
+Author{7}{Lastname}#=%=#Ren
+Author{7}{Username}#=%=#timren
+Author{7}{Email}#=%=#timren@tencent.com
+Author{7}{Affiliation}#=%=#Tencent Youtu Lab
+
+==========

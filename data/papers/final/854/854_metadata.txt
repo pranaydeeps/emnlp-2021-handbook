@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#854
+FinalPaperTitle#=%=#Learning from Multiple Noisy Augmented Data Sets for Better Cross-Lingual Spoken Language Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yingmei Guo
+JobTitle#==#
+Organization#==#Tsinghua University, Beijing
+Abstract#==#Lack of training data presents a grand challenge to scaling out spoken language understanding (SLU) to low-resource languages. Although various data augmentation approaches have been proposed to synthesize training data in low-resource target languages, the augmented data sets are often noisy, and thus impede the performance of SLU models. In this paper we focus on mitigating noise in augmented data. We develop a denoising training approach. Multiple models are trained with data produced by various augmented methods. Those models provide supervision signals to each other. The experimental results show that our method outperforms the existing state of the art by 3.05 and 4.24 percentage points on two benchmark datasets, respectively. The code will be made open sourced on github.
+Author{1}{Firstname}#=%=#Yingmei
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Username}#=%=#yingmeiguo
+Author{1}{Email}#=%=#qniguoym@163.com
+Author{1}{Affiliation}#=%=#Department of Computer Science and Technology, Beijing National Research Center for Information Science and Technology, Tsinghua University
+Author{2}{Firstname}#=%=#Linjun
+Author{2}{Lastname}#=%=#Shou
+Author{2}{Username}#=%=#linjunshou
+Author{2}{Email}#=%=#lisho@microsoft.com
+Author{2}{Affiliation}#=%=#STCA NLP Group, Microsoft
+Author{3}{Firstname}#=%=#Jian
+Author{3}{Lastname}#=%=#Pei
+Author{3}{Username}#=%=#jpei
+Author{3}{Email}#=%=#jpei@cs.sfu.ca
+Author{3}{Affiliation}#=%=#Simon Fraser University
+Author{4}{Firstname}#=%=#Ming
+Author{4}{Lastname}#=%=#Gong
+Author{4}{Username}#=%=#yiming1013
+Author{4}{Email}#=%=#migon@microsoft.com
+Author{4}{Affiliation}#=%=#STCA NLP Group, Microsoft (China)
+Author{5}{Firstname}#=%=#Mingxing
+Author{5}{Lastname}#=%=#Xu
+Author{5}{Username}#=%=#xumingxing
+Author{5}{Email}#=%=#xumx@tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Beijing National Research Center for Information Science and Technology, Department of Computer Science and Technology, Tsinghua University, Beijing, China
+Author{6}{Firstname}#=%=#Zhiyong
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Username}#=%=#wuzhiyong
+Author{6}{Email}#=%=#zywu@sz.tsinghua.edu.cn
+Author{6}{Affiliation}#=%=#Tsinghua University
+Author{7}{Firstname}#=%=#Daxin
+Author{7}{Lastname}#=%=#Jiang
+Author{7}{Username}#=%=#djiang
+Author{7}{Email}#=%=#djiang@microsoft.com
+Author{7}{Affiliation}#=%=#STCA NLP Group, Microsoft
+
+==========

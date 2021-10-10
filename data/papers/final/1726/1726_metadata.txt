@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#1726
+FinalPaperTitle#=%=#A Pretraining Numerical Reasoning Model for Ordinal Constrained Question Answering on Knowledge Base
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yu Feng
+JobTitle#==#
+Organization#==#
+Abstract#==#Knowledge Base Question Answering (KBQA) is to answer natural language questions posed over knowledge bases (KBs). This paper targets at empowering the IR-based KBQA models with the ability of numerical reasoning for answering ordinal constrained questions. A major challenge is the lack of explicit annotations about numerical properties. To address this challenge, we propose a pretraining numerical reasoning model consisting of NumGNN and NumTransformer, guided by explicit self-supervision signals. The two modules are pretrained to encode the magnitude and ordinal properties of numbers respectively and can serve as model-agnostic plugins for any IR-based KBQA model to enhance its numerical reasoning ability. Extensive experiments on two KBQA benchmarks verify the effectiveness of our method to enhance the numerical reasoning ability for IR-based KBQA models.
+Author{1}{Firstname}#=%=#Yu
+Author{1}{Lastname}#=%=#Feng
+Author{1}{Username}#=%=#yufeng18
+Author{1}{Email}#=%=#anniefeng@ruc.edu.cn
+Author{1}{Affiliation}#=%=#Renmin University of China
+Author{2}{Firstname}#=%=#Jing
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zhang-jing@ruc.edu.cn
+Author{2}{Affiliation}#=%=#Renmin University of China
+Author{3}{Firstname}#=%=#Gaole
+Author{3}{Lastname}#=%=#He
+Author{3}{Username}#=%=#gaolehe
+Author{3}{Email}#=%=#hegaole@ruc.edu.cn
+Author{3}{Affiliation}#=%=#Renmin University of China
+Author{4}{Firstname}#=%=#Wayne Xin
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Username}#=%=#batmanfly
+Author{4}{Email}#=%=#batmanfly@gmail.com
+Author{4}{Affiliation}#=%=#RUC
+Author{5}{Firstname}#=%=#Lemao
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#lemaoliu
+Author{5}{Email}#=%=#lemaoliu@gmail.com
+Author{5}{Affiliation}#=%=#Tencent AI Lab
+Author{6}{Firstname}#=%=#Quan
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Email}#=%=#lirkrid@ruc.edu.cn
+Author{6}{Affiliation}#=%=#Renmin University of China
+Author{7}{Firstname}#=%=#Cuiping
+Author{7}{Lastname}#=%=#Li
+Author{7}{Email}#=%=#licuiping@ruc.edu.cn
+Author{7}{Affiliation}#=%=#Renmin University of China
+Author{8}{Firstname}#=%=#Hong
+Author{8}{Lastname}#=%=#Chen
+Author{8}{Email}#=%=#chong@ruc.edu.cn
+Author{8}{Affiliation}#=%=#Renmin University of China
+
+==========

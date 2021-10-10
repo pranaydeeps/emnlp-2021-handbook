@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#2374
+FinalPaperTitle#=%=#Learning Numeracy: A Simple Yet Effective Number Embedding Approach Using Knowledge Graph
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#HANYU DUAN
+JobTitle#==#
+Organization#==#
+Abstract#==#Numeracy plays a key role in natural language understanding. However, existing NLP approaches, not only traditional word2vec approach or contextualized transformer-based language models, fail to learn numeracy. As the result, the performance of these models is limited when they are applied to number-intensive applications in clinical and financial domains. In this work, we propose a simple number embedding approach based on knowledge graph. We construct a knowledge graph consisting of number entities and magnitude relations. Knowledge graph embedding method is then applied to obtain number vectors. Our approach is  easy to implement, and experiment results on various numeracy-related NLP tasks demonstrate the effectiveness and efficiency of our method.
+Author{1}{Firstname}#=%=#Hanyu
+Author{1}{Lastname}#=%=#Duan
+Author{1}{Username}#=%=#hduanac
+Author{1}{Email}#=%=#hduanac@connect.ust.hk
+Author{1}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Yi
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#yya518
+Author{2}{Email}#=%=#imyiyang@ust.hk
+Author{2}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{3}{Firstname}#=%=#Kar Yan
+Author{3}{Lastname}#=%=#Tam
+Author{3}{Email}#=%=#kytam@ust.hk
+Author{3}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+
+==========

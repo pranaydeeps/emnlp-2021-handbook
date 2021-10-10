@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#3964
+FinalPaperTitle#=%=#Improved Word Sense Disambiguation with Enhanced Sense Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Song Yang
+JobTitle#==#
+Organization#==#National University of Singapore
+21 Lower Kent Ridge Rd, Singapore 119077
+Abstract#==#Current state-of-the-art supervised word sense disambiguation (WSD) systems (such as GlossBERT and bi-encoder model) yield surprisingly good results by purely leveraging pre-trained language models and short dictionary definitions (or glosses) of the different word senses. While concise and intuitive, the sense gloss is just one of many ways to provide information about word senses. In this paper, we focus on enhancing the sense representations via incorporating synonyms, example phrases or sentences showing usage of word senses, and sense gloss of hypernyms. We show that incorporating such additional information boosts the performance on WSD. With the proposed enhancements, our system achieves an F1 score of 82.0% on the standard benchmark test dataset of the English all-words WSD task, surpassing all previous published scores on this benchmark dataset.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Song
+Author{1}{Username}#=%=#song_yang
+Author{1}{Email}#=%=#e0335980@u.nus.edu
+Author{1}{Affiliation}#=%=#National University of Singapore
+Author{2}{Firstname}#=%=#Xin Cai
+Author{2}{Lastname}#=%=#Ong
+Author{2}{Username}#=%=#xincai22
+Author{2}{Email}#=%=#xincai@u.nus.edu
+Author{2}{Affiliation}#=%=#National University of Singapore
+Author{3}{Firstname}#=%=#Hwee Tou
+Author{3}{Lastname}#=%=#Ng
+Author{3}{Username}#=%=#nght
+Author{3}{Email}#=%=#nght@comp.nus.edu.sg
+Author{3}{Affiliation}#=%=#National University of Singapore
+Author{4}{Firstname}#=%=#Qian
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Username}#=%=#linqian
+Author{4}{Email}#=%=#xmlinqian@gmail.com
+Author{4}{Affiliation}#=%=#National University of Singapore
+
+==========

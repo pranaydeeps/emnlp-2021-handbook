@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#777
+FinalPaperTitle#=%=#A Bayesian Framework for Information-Theoretic Probing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Tiago Pimentel
+JobTitle#==#
+Organization#==#University of Cambridge, United Kingdom
+Abstract#==#Pimentel et al. (2020) recently analysed probing from an information-theoretic perspective. 
+They argue that probing should be seen as approximating a mutual information.
+This led to the rather unintuitive conclusion that representations encode exactly the same information about a target task as the original sentences.
+The mutual information, however, assumes the true probability distribution of a pair of random variables is known, leading to unintuitive results in settings where it is not.
+This paper proposes a new framework to measure what we term Bayesian mutual information, which analyses information from the perspective of Bayesian agents---allowing for more intuitive findings in scenarios with finite data.
+For instance, under Bayesian MI we have that data can add information, processing can help, and information can hurt, which makes it more intuitive for machine learning applications.
+Finally, we apply our framework to probing where we believe Bayesian mutual information naturally operationalises ease of extraction by explicitly limiting the available background knowledge to solve a task.
+Author{1}{Firstname}#=%=#Tiago
+Author{1}{Lastname}#=%=#Pimentel
+Author{1}{Username}#=%=#tpimentel
+Author{1}{Email}#=%=#tpimentelms@gmail.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Ryan
+Author{2}{Lastname}#=%=#Cotterell
+Author{2}{Username}#=%=#rcotterell
+Author{2}{Email}#=%=#ryan.cotterell@gmail.com
+Author{2}{Affiliation}#=%=#ETH Zürich
+
+==========

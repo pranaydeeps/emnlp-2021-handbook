@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1535
+FinalPaperTitle#=%=#Mutual-Learning Improves End-to-End Speech Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jiawei Zhao
+JobTitle#==#
+Organization#==#Massey University, Auckland, New Zealand
+Abstract#==#A currently popular research area in end-to-end speech translation is the use of knowledge distillation from a machine translation (MT) task to improve the speech translation (ST) task. However, such scenario obviously only allows one way transfer, which is limited by the performance of the teacher model. Therefore, We hypothesis that the knowledge distillation-based approaches are sub-optimal. In this paper, we propose an alternative–a trainable mutual-learning scenario, where the MT and the ST models are collaboratively trained and are considered as peers, rather than teacher/student. This allows us to improve the performance of end-to-end ST more effectively than with a teacher-student paradigm. As a side benefit, performance of the MT model also improves. Experimental results show that in our mutual-learning scenario, models can effectively utilise the auxiliary information from peer models and achieve compelling results on Must-C dataset.
+Author{1}{Firstname}#=%=#Jiawei
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Username}#=%=#jzhao1
+Author{1}{Email}#=%=#j.zhao2@massey.ac.nz
+Author{1}{Affiliation}#=%=#Massey University
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Luo
+Author{2}{Email}#=%=#muzhuo.lw@alibaba-inc.com
+Author{2}{Affiliation}#=%=#Alibaba Inc
+Author{3}{Firstname}#=%=#Boxing
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#boxing.cbx@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Inc
+Author{4}{Firstname}#=%=#Andrew
+Author{4}{Lastname}#=%=#Gilman
+Author{4}{Email}#=%=#A.gilman@massey.ac.nz
+Author{4}{Affiliation}#=%=#Massey University
+
+==========

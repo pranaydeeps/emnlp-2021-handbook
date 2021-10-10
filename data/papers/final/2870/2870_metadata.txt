@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#2870
+FinalPaperTitle#=%=#SWEAT: Scoring Polarization of Topics across Different Corpora
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Federico Bianchi
+JobTitle#==#
+Organization#==#Bocconi University, Via Sarfatti 25
+Abstract#==#Understanding differences of viewpoints across corpora is a fundamental task for computational social sciences. In this paper, we propose the Sliced Word Embedding Association Test (SWEAT), a novel statistical measure to compute the relative polarization of a topical wordset across two distributional representations. To this end, SWEAT uses two additional wordsets, deemed to have opposite valence, to represent two different poles. We validate our approach and illustrate a case study to show the usefulness of the introduced measure.
+Author{1}{Firstname}#=%=#Federico
+Author{1}{Lastname}#=%=#Bianchi
+Author{1}{Username}#=%=#vinid
+Author{1}{Email}#=%=#f.bianchi@unibocconi.it
+Author{1}{Affiliation}#=%=#Bocconi University
+Author{2}{Firstname}#=%=#Marco
+Author{2}{Lastname}#=%=#Marelli
+Author{2}{Username}#=%=#marcomarelli
+Author{2}{Email}#=%=#marco.marelli@unimib.it
+Author{2}{Affiliation}#=%=#University of Milano-Bicocca
+Author{3}{Firstname}#=%=#Paolo
+Author{3}{Lastname}#=%=#Nicoli
+Author{3}{Email}#=%=#nicolipaolo90@gmail.com
+Author{3}{Affiliation}#=%=#University of Milano-Bicocca
+Author{4}{Firstname}#=%=#Matteo
+Author{4}{Lastname}#=%=#Palmonari
+Author{4}{Username}#=%=#palmonari
+Author{4}{Email}#=%=#palmonari@disco.unimib.it
+Author{4}{Affiliation}#=%=#University of Milano-Bicocca
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1040
+FinalPaperTitle#=%=#Document-level Entity-based Extraction as Template Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Kung-Hsiang Huang
+JobTitle#==#
+Organization#==#University of Illinois Urbana-Champaign
+Abstract#==#Document-level entity-based extraction (EE), aiming at extracting entity-centric information such as entity roles and entity relations, is key to automatic knowledge acquisition from text corpora for various domains. Most document-level EE systems build extractive models, which struggle to model long-term dependencies among entities at the document level. To address this issue, we propose a generative framework for two document-level EE tasks: role-filler entity extraction (REE) and relation extraction (RE). We first formulate them as a template generation problem, allowing models to efficiently capture cross-entity dependencies, exploit label semantics, and avoid the exponential computation complexity of identifying N-ary relations. A novel cross-attention guided copy mechanism, TopK Copy, is incorporated into a pre-trained sequence-to-sequence model to enhance the capabilities of identifying key information in the input document. Experiments done on the MUC-4 and SciREX dataset show new state-of-the-art results on REE (+3.26%), binary RE (+4.8%), and 4-ary RE (+2.7%) in F1 score.
+Author{1}{Firstname}#=%=#Kung-Hsiang
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#khuangaf
+Author{1}{Email}#=%=#khhuang3@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Sam
+Author{2}{Lastname}#=%=#Tang
+Author{2}{Username}#=%=#samtang
+Author{2}{Email}#=%=#samtang1430@gmail.com
+Author{2}{Affiliation}#=%=#University of California, Los Angeles
+Author{3}{Firstname}#=%=#Nanyun
+Author{3}{Lastname}#=%=#Peng
+Author{3}{Username}#=%=#npeng
+Author{3}{Email}#=%=#violetpeng@cs.ucla.edu
+Author{3}{Affiliation}#=%=#University of California, Los Angeles
+
+==========

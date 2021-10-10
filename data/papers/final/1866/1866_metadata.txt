@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1866
+FinalPaperTitle#=%=#It Is Not As Good As You Think! Evaluating Simultaneous Machine Translation on Interpretation Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jinming Zhao
+JobTitle#==#
+Organization#==#Monash University
+Wellington Rd, Clayton VIC 3800
+Abstract#==#Most existing simultaneous machine translation (SiMT) systems are trained and evaluated on offline translation corpora. We argue that SiMT systems should be trained and tested on real interpretation data. To illustrate this argument, we propose an interpretation test set and conduct a realistic evaluation of SiMT trained on offline translations. Our results, on our test set along with 3 existing smaller scale language pairs, highlight the difference of up-to 13.83 BLEU score when SiMT models are evaluated on translation vs interpretation data. In the absence of interpretation training data, we propose a translation-to-interpretation (T2I) style transfer method which allows converting existing offline translations into interpretation-style data, leading to up-to 2.8 BLEU improvement. However, the evaluation gap remains notable, calling for constructing large-scale interpretation corpora better suited for evaluating and developing SiMT systems.
+Author{1}{Firstname}#=%=#Jinming
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Username}#=%=#jinmingzhao
+Author{1}{Email}#=%=#jinming.zhao@monash.edu
+Author{1}{Affiliation}#=%=#Dept of Data Science and AI, Faculty of IT, Monash University
+Author{2}{Firstname}#=%=#Philip
+Author{2}{Lastname}#=%=#Arthur
+Author{2}{Username}#=%=#philip30
+Author{2}{Email}#=%=#philip.arthur30@gmail.com
+Author{2}{Affiliation}#=%=#Oracle Digital Assistant
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Username}#=%=#reza.haffari
+Author{3}{Email}#=%=#gholamreza.haffari@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+Author{4}{Firstname}#=%=#Trevor
+Author{4}{Lastname}#=%=#Cohn
+Author{4}{Username}#=%=#t.cohn
+Author{4}{Email}#=%=#trevor.cohn@unimelb.edu.au
+Author{4}{Affiliation}#=%=#University of Melbourne
+Author{5}{Firstname}#=%=#Ehsan
+Author{5}{Lastname}#=%=#Shareghi
+Author{5}{Username}#=%=#ehsann
+Author{5}{Email}#=%=#ehsan.shareghi@gmail.com
+Author{5}{Affiliation}#=%=#Monash University
+
+==========

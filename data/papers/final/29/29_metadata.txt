@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Contextualize Knowledge Bases with Transformer for End-to-end Task-Oriented Dialogue Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yanjie Gou
+JobTitle#==#
+Organization#==#
+Abstract#==#Incorporating knowledge bases (KB) into end-to-end task-oriented dialogue systems is challenging, since it requires to properly represent the entity of KB, which is associated with its KB context and dialogue context. The existing works represent the entity with only perceiving a part of its KB context, which can lead to the less effective representation due to the information loss, and adversely favor KB reasoning and response generation. To tackle this issue, we explore to fully contextualize the entity representation by dynamically perceiving all the relevant entities and dialogue history. To achieve this, we propose a COntext-aware Memory Enhanced Transformer framework (COMET), which treats the KB as a sequence and leverages a novel Memory Mask to enforce the entity to only focus on its relevant entities and dialogue history, while avoiding the distraction from the irrelevant entities. Through extensive experiments, we show that our COMET framework can achieve superior performance over the state of the arts.
+Author{1}{Firstname}#=%=#Yanjie
+Author{1}{Lastname}#=%=#Gou
+Author{1}{Username}#=%=#yanjiegou
+Author{1}{Email}#=%=#gouyanjie@stu.scu.edu.cn
+Author{1}{Affiliation}#=%=#Sichuan University
+Author{2}{Firstname}#=%=#Yinjie
+Author{2}{Lastname}#=%=#Lei
+Author{2}{Username}#=%=#leojie
+Author{2}{Email}#=%=#yinjie@scu.edu.cn
+Author{2}{Affiliation}#=%=#Sichuan University
+Author{3}{Firstname}#=%=#Lingqiao
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#lingqiao_liu
+Author{3}{Email}#=%=#lingqiao.liu@adelaide.edu.au
+Author{3}{Affiliation}#=%=#University of Adelaide
+Author{4}{Firstname}#=%=#Yong
+Author{4}{Lastname}#=%=#Dai
+Author{4}{Username}#=%=#daiyong
+Author{4}{Email}#=%=#daiyongya@outlook.com
+Author{4}{Affiliation}#=%=#University of Electronic Science and Technology of China
+Author{5}{Firstname}#=%=#Chunxu
+Author{5}{Lastname}#=%=#Shen
+Author{5}{Username}#=%=#lineshen
+Author{5}{Email}#=%=#lineshen@tencent.com
+Author{5}{Affiliation}#=%=#Tencent
+
+==========

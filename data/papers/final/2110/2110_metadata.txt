@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#2110
+FinalPaperTitle#=%=#Have You Seen That Number? Investigating Extrapolation in Question Answering Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jeonghwan Kim
+JobTitle#==#
+Organization#==#Name : Korea Advanced Institute of Science and Technology (KAIST)
+Address : KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon
+Abstract#==#Numerical reasoning in machine reading comprehension (MRC) has shown drastic improvements over the past few years. While the previous models for numerical MRC are able to interpolate the learned numerical reasoning capabilities, it is not clear whether they can perform just as well on numbers unseen in the training dataset. Our work rigorously tests state-of-the-art models on DROP, a numerical MRC dataset, to see if they can handle passages that contain out-of-range numbers. One of the key findings is that the models fail to extrapolate to unseen numbers. Presenting numbers as digit-by-digit input to the model, we also propose the \textit{E-digit} number form that alleviates the lack of extrapolation in models and reveals the need to treat numbers differently from regular words in the text. Our work provides a valuable insight into the numerical MRC models and the way to represent number forms in MRC.
+Author{1}{Firstname}#=%=#Jeonghwan
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Username}#=%=#wjdghks950
+Author{1}{Email}#=%=#jeonghwankim123@kaist.ac.kr
+Author{1}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology (KAIST)
+Author{2}{Firstname}#=%=#Giwon
+Author{2}{Lastname}#=%=#Hong
+Author{2}{Username}#=%=#gch02518
+Author{2}{Email}#=%=#gch02518@kaist.ac.kr
+Author{2}{Affiliation}#=%=#KAIST School of Computing
+Author{3}{Firstname}#=%=#Kyung-min
+Author{3}{Lastname}#=%=#Kim
+Author{3}{Username}#=%=#kimdarwin
+Author{3}{Email}#=%=#kimdarwin@kaist.ac.kr
+Author{3}{Affiliation}#=%=#KAIST
+Author{4}{Firstname}#=%=#Junmo
+Author{4}{Lastname}#=%=#Kang
+Author{4}{Username}#=%=#junmo.kang
+Author{4}{Email}#=%=#junmo.kang@kaist.ac.kr
+Author{4}{Affiliation}#=%=#KAIST
+Author{5}{Firstname}#=%=#Sung-Hyon
+Author{5}{Lastname}#=%=#Myaeng
+Author{5}{Username}#=%=#myaeng
+Author{5}{Email}#=%=#myaeng@kaist.ac.kr
+Author{5}{Affiliation}#=%=#School of Computing, KAIST
+
+==========

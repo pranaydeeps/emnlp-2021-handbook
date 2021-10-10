@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#468
+FinalPaperTitle#=%=#CRFR: Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Bo Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Although paths of user interests shift in knowledge graphs (KGs) can benefit conversational recommender systems (CRS), explicit reasoning on KGs has not been well considered in CRS, due to the complex of high-order and incomplete paths. We propose CRFR, which effectively does explicit multi-hop reasoning on KGs with a conversational context-based reinforcement learning model. Considering the incompleteness of KGs, instead of learning single complete reasoning path, CRFR flexibly learns multiple reasoning fragments which are likely contained in the complete paths of interests shift. A fragments-aware unified model is then designed to fuse the fragments information from item-oriented and concept-oriented KGs to enhance the CRS response with entities and words from the fragments. Extensive experiments demonstrate CRFR's SOTA performance on recommendation, conversation and conversation interpretability.
+Author{1}{Firstname}#=%=#Jinfeng
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#jfzhou@tju.edu.cn
+Author{1}{Affiliation}#=%=#Tianjin Univeristy
+Author{2}{Firstname}#=%=#Bo
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#sptnk
+Author{2}{Email}#=%=#bo_wang@tju.edu.cn
+Author{2}{Affiliation}#=%=#Tianjin University
+Author{3}{Firstname}#=%=#Ruifang
+Author{3}{Lastname}#=%=#He
+Author{3}{Username}#=%=#erbobo
+Author{3}{Email}#=%=#rfhe@tju.edu.cn
+Author{3}{Affiliation}#=%=#Tianjin University
+Author{4}{Firstname}#=%=#Yuexian
+Author{4}{Lastname}#=%=#Hou
+Author{4}{Username}#=%=#yxhou
+Author{4}{Email}#=%=#yxhou@tju.edu.cn
+Author{4}{Affiliation}#=%=#Tianjin University
+
+==========

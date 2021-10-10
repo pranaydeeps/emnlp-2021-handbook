@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#110
+FinalPaperTitle#=%=#Pushing on Text Readability Assessment: A Transformer Meets Handcrafted Linguistic Features
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Bruce W. Lee
+JobTitle#==#
+Organization#==#
+Abstract#==#We report two essential improvements in readability assessment: 1. three novel features in advanced semantics and 2. the timely evidence that traditional ML models (e.g. Random Forest, using handcrafted features) can combine with transformers (e.g. RoBERTa) to augment model performance. First, we explore suitable transformers and traditional ML models. Then, we extract 255 handcrafted linguistic features using self-developed extraction software. Finally, we assemble those to create several hybrid models, achieving state-of-the-art (SOTA) accuracy on popular datasets in readability assessment. The use of handcrafted features help model performance on smaller datasets. Notably, our RoBERTA-RF-T1 hybrid achieves the near-perfect classification accuracy of 99%, a 20.3% increase from the previous SOTA.
+Author{1}{Firstname}#=%=#Bruce W.
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Username}#=%=#brucelws
+Author{1}{Email}#=%=#brucelws@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Yoo Sung
+Author{2}{Lastname}#=%=#Jang
+Author{2}{Username}#=%=#yjang43
+Author{2}{Email}#=%=#yjang43@wisc.edu
+Author{2}{Affiliation}#=%=#University of Wisconsin - Madison
+Author{3}{Firstname}#=%=#Jason
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#jasonleekorea
+Author{3}{Email}#=%=#jasonlee@lxper.com
+Author{3}{Affiliation}#=%=#LXPER AI
+
+==========

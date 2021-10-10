@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3354
+FinalPaperTitle#=%=#CHoRaL: Collecting Humor Reaction Labels from Millions of Social Media Users
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zixiaofan Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#Humor detection has gained attention in recent years due to the desire to understand user-generated content with figurative language. However, substantial individual and cultural differences in humor perception make it very difficult to collect a large-scale humor dataset with reliable humor labels. We propose CHoRaL, a framework to generate perceived humor labels on Facebook posts, using the naturally available user reactions to these posts with no manual annotation needed. CHoRaL provides both binary labels and continuous scores of humor and non-humor. We present the largest dataset to date with labeled humor on 785K posts related to COVID-19. Additionally, we analyze the expression of COVID-related humor in social media by extracting lexico-semantic and affective features from the posts, and build humor detection models with performance similar to humans. CHoRaL enables the development of large-scale humor detection models on any topic and opens a new path to the study of humor on social media.
+Author{1}{Firstname}#=%=#Zixiaofan
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#zixiaofan23
+Author{1}{Email}#=%=#zy2231@columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Shayan
+Author{2}{Lastname}#=%=#Hooshmand
+Author{2}{Username}#=%=#shayanhooshmand
+Author{2}{Email}#=%=#shayan.hooshmand@columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University in the City of New York
+Author{3}{Firstname}#=%=#Julia
+Author{3}{Lastname}#=%=#Hirschberg
+Author{3}{Username}#=%=#julia
+Author{3}{Email}#=%=#julia@cs.columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University in the City of New York
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#129
+FinalPaperTitle#=%=#Fine-grained Semantic Alignment Network for Weakly Supervised Temporal Language Grounding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuechen Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Temporal language grounding (TLG) aims to localize a video segment in an untrimmed video based on a natural language description. To alleviate the expensive cost of manual annotations for temporal boundary labels,we are dedicated to the weakly supervised setting, where only video-level descriptions are provided for training. Most of the existing weakly supervised methods generate a candidate segment set and learn cross-modal alignment through a MIL-based framework. However, the temporal structure of the video as well as the complicated semantics in the sentence are lost during the learning.
+In this work, we propose a novel candidate-free framework: Fine-grained Semantic Alignment Network (FSAN), for weakly supervised TLG. Instead of view the sentence and candidate moments as a whole, FSAN learns token-by-clip cross-modal semantic alignment by an iterative cross-modal interaction module, generates a fine-grained cross-modal semantic alignment map, and performs grounding directly on top of the map. Extensive experiments are conducted on two widely-used benchmarks: ActivityNet-Captions, and DiDeMo, where our FSAN achieves state-of-the-art performance.
+Author{1}{Firstname}#=%=#Yuechen
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#yuechen_wang
+Author{1}{Email}#=%=#wyc9725@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#ustc.edu
+Author{2}{Firstname}#=%=#Wengang
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Username}#=%=#zhwg
+Author{2}{Email}#=%=#zhwg@ustc.edu.cn
+Author{2}{Affiliation}#=%=#University of Science and Technology of China
+Author{3}{Firstname}#=%=#Houqiang
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#lihq
+Author{3}{Email}#=%=#lihq@ustc.edu.cn
+Author{3}{Affiliation}#=%=#University of Science and Technology of China
+
+==========

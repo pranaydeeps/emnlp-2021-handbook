@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1430
+FinalPaperTitle#=%=#BERT-Beta: A Proactive Probabilistic Approach to Text Moderation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Fei Tan
+JobTitle#==#
+Organization#==#Yahoo Research, 770 Broadway, New York, NY 10003, USA
+Abstract#==#Text moderation for user generated content, which helps to promote healthy interaction among users, has been widely studied 
+and many machine learning models have been proposed. In this work, we explore an alternative perspective
+by augmenting reactive reviews with proactive forecasting. 
+Specifically, we propose a new concept text toxicity propensity to characterize the extent to which a text tends to attract toxic comments. Beta regression is then introduced to 
+do the probabilistic modeling, 
+which is demonstrated to function well in comprehensive experiments. We also propose an explanation method to communicate the model decision clearly. 
+Both propensity scoring and interpretation benefit text moderation in a novel manner. 
+Finally, the proposed scaling mechanism for the linear model offers useful insights beyond this work.
+Author{1}{Firstname}#=%=#Fei
+Author{1}{Lastname}#=%=#Tan
+Author{1}{Username}#=%=#tanfei2007
+Author{1}{Email}#=%=#tanfei2007@gmail.com
+Author{1}{Affiliation}#=%=#Yahoo Research
+Author{2}{Firstname}#=%=#Yifan
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Username}#=%=#yifanhu
+Author{2}{Email}#=%=#yifanh@gmail.com
+Author{2}{Affiliation}#=%=#Yahoo Research
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Yen
+Author{3}{Username}#=%=#kevinyen
+Author{3}{Email}#=%=#yenkevin1203@gmail.com
+Author{3}{Affiliation}#=%=#Verizon Media
+Author{4}{Firstname}#=%=#Changwei
+Author{4}{Lastname}#=%=#Hu
+Author{4}{Username}#=%=#ianhoo65
+Author{4}{Email}#=%=#ch237duke@gmail.com
+Author{4}{Affiliation}#=%=#Yahoo Research
+
+==========

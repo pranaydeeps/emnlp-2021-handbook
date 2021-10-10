@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#442
+FinalPaperTitle#=%=#Low-Resource Dialogue Summarization with Domain-Agnostic Multi-Source Pretraining
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yicheng Zou
+JobTitle#==#
+Organization#==#Fudan University, Shanghai, China
+Abstract#==#With the rapid increase in the volume of dialogue data from daily life, there is a growing demand for dialogue summarization. Unfortunately, training a large summarization model is generally infeasible due to the inadequacy of dialogue data with annotated summaries. Most existing works for low-resource dialogue summarization directly pretrain models in other domains, e.g., the news domain, but they generally neglect the huge difference between dialogues and conventional articles. To bridge the gap between out-of-domain pretraining and in-domain fine-tuning, in this work, we propose a multi-source pretraining paradigm to better leverage the external summary data. Specifically, we exploit large-scale in-domain non-summary data to separately pretrain the dialogue encoder and the summary decoder. The combined encoder-decoder model is then pretrained on the out-of-domain summary data using adversarial critics, aiming to facilitate domain-agnostic summarization. The experimental results on two public datasets show that with only limited training data, our approach achieves competitive performance and generalizes well in different dialogue scenarios.
+Author{1}{Firstname}#=%=#Yicheng
+Author{1}{Lastname}#=%=#Zou
+Author{1}{Username}#=%=#rowitzou
+Author{1}{Email}#=%=#yczou18@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Bolin
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Username}#=%=#blzhu
+Author{2}{Email}#=%=#blzhu20@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Xingwu
+Author{3}{Lastname}#=%=#Hu
+Author{3}{Username}#=%=#huxingwu
+Author{3}{Email}#=%=#xwhu20@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Tao
+Author{4}{Lastname}#=%=#Gui
+Author{4}{Username}#=%=#guitao
+Author{4}{Email}#=%=#tgui16@fudan.edu.cn
+Author{4}{Affiliation}#=%=#fudan university
+Author{5}{Firstname}#=%=#Qi
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#lloydzq
+Author{5}{Email}#=%=#qz@fudan.edu.cn
+Author{5}{Affiliation}#=%=#Fudan University
+
+==========

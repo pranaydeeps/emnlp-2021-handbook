@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Few-shot and Zero-shot Approaches to Legal Text Classification: A Case Study in the Financial Sector
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Rajdeep Sarkar
+JobTitle#==#PhD Student, NUI Galway
+Organization#==#Data Science Institute, National University of Ireland Galway
+Abstract#==#The application of predictive coding techniques to legal texts has the potential to greatly reduce the cost of legal review of documents, however, there is such a wide array of legal tasks and continuously evolving legislation that it is hard to construct sufficient training data to cover all cases. In this paper, we investigate few-shot and zero-shot approaches that require substantially less training data and introduce a triplet architecture, which for promissory statements produces performance close to that of a supervised system. This method allows predictive coding methods to be rapidly developed for new regulations and markets.
+Author{1}{Firstname}#=%=#Rajdeep
+Author{1}{Lastname}#=%=#Sarkar
+Author{1}{Username}#=%=#rajbsk
+Author{1}{Email}#=%=#rajdeep.sarkar@insight-centre.org
+Author{1}{Affiliation}#=%=#Data Science Institute, NUI Galway
+Author{2}{Firstname}#=%=#Atul Kr.
+Author{2}{Lastname}#=%=#Ojha
+Author{2}{Username}#=%=#shashwatup9k
+Author{2}{Email}#=%=#shashwatup9k@gmail.com
+Author{2}{Affiliation}#=%=#Data Science Institute, Unit for Linguistic Data, National University of Ireland Galway
+Author{3}{Firstname}#=%=#Jay
+Author{3}{Lastname}#=%=#Megaro
+Author{3}{Email}#=%=#Jay.Megaro@fmr.com
+Author{3}{Affiliation}#=%=#FMR LLC
+Author{4}{Firstname}#=%=#John
+Author{4}{Lastname}#=%=#Mariano
+Author{4}{Email}#=%=#John.Mariano@fmr.com
+Author{4}{Affiliation}#=%=#FMR LLC
+Author{5}{Firstname}#=%=#Vall
+Author{5}{Lastname}#=%=#Herard
+Author{5}{Email}#=%=#Vall.Herard@fmr.com
+Author{5}{Affiliation}#=%=#FMR LLC
+Author{6}{Firstname}#=%=#John P.
+Author{6}{Lastname}#=%=#McCrae
+Author{6}{Username}#=%=#jmccrae
+Author{6}{Email}#=%=#john@mccr.ae
+Author{6}{Affiliation}#=%=#Insight Center for Data Analytics, National University of Ireland Galway
+
+==========

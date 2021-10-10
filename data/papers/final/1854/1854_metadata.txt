@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1854
+FinalPaperTitle#=%=#BPM_MT: Enhanced Backchannel Prediction Model using Multi-Task Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jin Yea Jang
+JobTitle#==#
+Organization#==#2nd floor, 18-dong, Gwanak-ro 1, Gwanak-gu, Seoul, Republic of Korea, (zip code: 08826)
+Abstract#==#Backchannel (BC), a short reaction signal of a listener to a speaker's utterances, helps to improve the quality of the conversation.
+Several studies have been conducted to predict BC in conversation; however, the utilization of advanced natural language processing techniques using lexical information presented in the utterances of a speaker has been less considered.
+To address this limitation, we present a BC prediction model called BPM_MT (Backchannel prediction model with multitask learning), which utilizes KoBERT, a pre-trained language model. The BPM_MT simultaneously carries out two tasks at learning: 1) BC category prediction using acoustic and lexical features, and 2) sentiment score prediction based on sentiment cues.
+BPM_MT exhibited 14.24% performance improvement compared to the existing baseline in the four BC categories: continuer, understanding, empathic response, and No BC. In particular, for empathic response category, a performance improvement of 17.14% was achieved.
+Author{1}{Firstname}#=%=#Jin Yea
+Author{1}{Lastname}#=%=#Jang
+Author{1}{Username}#=%=#baekseolgi
+Author{1}{Email}#=%=#jinyea.jang@snu.ac.kr
+Author{1}{Affiliation}#=%=#Seoul National University
+Author{2}{Firstname}#=%=#San
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Username}#=%=#kimsan0622
+Author{2}{Email}#=%=#kimsan0622@keti.re.kr
+Author{2}{Affiliation}#=%=#Korea Electronics Technology Institute
+Author{3}{Firstname}#=%=#Minyoung
+Author{3}{Lastname}#=%=#Jung
+Author{3}{Email}#=%=#minyoung.jung@keti.re.kr
+Author{3}{Affiliation}#=%=#Korea Electronics Technology Institute
+Author{4}{Firstname}#=%=#Saim
+Author{4}{Lastname}#=%=#Shin
+Author{4}{Email}#=%=#sishin@keti.re.kr
+Author{4}{Affiliation}#=%=#Korea Electronics Technology Institute
+Author{5}{Firstname}#=%=#Gahgene
+Author{5}{Lastname}#=%=#Gweon
+Author{5}{Username}#=%=#ggweon
+Author{5}{Email}#=%=#ggweon@snu.ac.kr
+Author{5}{Affiliation}#=%=#Seoul National University
+
+==========

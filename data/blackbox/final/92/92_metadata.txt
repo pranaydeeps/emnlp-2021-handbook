@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#92
+FinalPaperTitle#=%=#Do Language Models Know the Way to Rome?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Bastien Liétard
+JobTitle#==#
+Organization#==#University of Lille
+Abstract#==#The global geometry of language models is important for a range of applications, but 
+language model probes tend to evaluate rather local relations, for which ground truths are easily obtained. In this paper we exploit the fact that in geography, ground truths are available beyond local relations. In a series of experiments, we evaluate the extent to which language model representations of city and country names are isomorphic to real-world geography, e.g., if you tell a language model where Paris and Berlin are, does it know the way to Rome? We find that language models generally encode limited geographic information, but with larger models performing the best, suggesting that geographic knowledge {\em can} be induced from higher-order co-occurrence statistics.
+Author{1}{Firstname}#=%=#Bastien
+Author{1}{Lastname}#=%=#Liétard
+Author{1}{Email}#=%=#bastien.lietard.etu@univ-lille.fr
+Author{1}{Affiliation}#=%=#University of Lille
+Author{2}{Firstname}#=%=#Mostafa
+Author{2}{Lastname}#=%=#Abdou
+Author{2}{Username}#=%=#abdoumos
+Author{2}{Email}#=%=#abdou@di.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Firstname}#=%=#Anders
+Author{3}{Lastname}#=%=#Søgaard
+Author{3}{Username}#=%=#soegaard
+Author{3}{Email}#=%=#soegaard@di.ku.dk
+Author{3}{Affiliation}#=%=#University of Copenhagen
+
+==========

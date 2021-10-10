@@ -1,0 +1,75 @@
+Q:2 distances metrics have their own sections. The ensemble distance does not have a section. It is not explained the intuition behind it. The text is hard to follow in different parts.
+A:The latent distance only uses the semantic information between the evidence texts to calculate the similarity. The explict distance only uses the relationship between evidence and claim to calculate the distance between evidence. We try to use the semantic information between the evidence and the inference information between the evidence and the claim at the same time by fusing these two methods. We define the ensemble distance as the weighted sum of these two distances.
+
+Q:The abstract is confusing in its main sentence. What is "the following clustering step"?
+A:The following clustering step means that the evidence association step by taking clustering methods.
+
+Q:"However, evidence collection is divided into several subsets according to different claims only in around 5% criminal judgement documents, which is regarded as argumentation-driven form." -"We learn distance metric based on the probability supporting the same claim between evidence pairs directly on account of the short length of judicial evidence, which is regarded as an argumentation-driven method."
+A:Reorganized
+
+
+Q:Does the author mean "cases" when as "legal instruments" in the setence "We select 500 legal instruments of the Traffic"?
+A:Yes. Fixed.
+
+
+Q:Why did you chose those hyperprameters for ESIM and BERT?
+A:We choose hyperprameters by experiments.
+
+
+Q:Are the result from a separate test set? Or it is an average of the 5-fold cross validation, if it is the average what is the standard deviation?
+A:It is an average of the 5-fold cross validation and the standard deviation is approximately 0.04
+
+
+Q:Compare with the existing Evidence Association methods.
+A:These lastest methods might be better than using BERT to infer the score between evidence and score. But we don't have enough time to do these experiments.
+
+
+Q:I am not sure how reliable are automated clustering approaches when it comes to evidence association in criminal conviction cases. Its a hard problem
+A:This is indeed a hard question for complex criminal conviction cases.
+So we start with the crime of traffic accidents. The description of this kind of cases is relatively simple and the evidence sets between different cases are relatively similar.
+
+
+Q:Does the paper describe how participants' privacy rights were respected in the data collection process? [In particular, is this making information about the participants in these cases more directly available, or more permanently available, than it was before?]
+A:All case descriptions are published online and the names of participants are anonymized by removing the real names of people. For Example, 'Wang xx' instead of 'Wang Xiaoming'
+
+
+Q:Does the paper describe the characteristics of the dataset in enough detail for a reader to understand which speaker populations the technology could be expected to work for? [In particular, how exactly were cases selected? What years do they cover, and should we expect generalization to future years?]
+A:This thchnology is mainly used for chinese speaker. We eliminated those cases where the evidence collection contained a large number of testimonies. The testimony is like Wang xx saied that .The selected cases cover recent ten years. 
+
+
+Q:Does the paper describe the steps taken to evaluate the quality of the dataset?
+A:No. We did not find a suitable metric to evaluate the dataset.
+
+
+Q:Does the paper describe how the technology would be deployed in actual use cases? [In particular, who do you imagine to be the user of such a technology?]
+A:Those who works in the judicial related departments will be users.
+
+
+Q:Does the task carried out by the computer match how it would be deployed? [In particular, is the requirement that evidence prove exactly one claim appropriate in real-world settings?]
+A:A same evidence might prove different claims in different cases. For example, a driver’s license can prove that someone is qualified to drive rather than driving without a license in traffic accident crime while prove the information about someone’s gender, age and hometown in other cases.
+
+
+Q:Does the paper address possible harms when the technology is being used as intended and functioning correctly?
+Q:Does the paper address possible harms when the technology is being used as intended but giving incorrect results? [In particular, are there cases where an error by this system could harm a participant in a court case? If so, what mechanisms would be needed to ensure that they are able to spot the error and address it?]
+Q:Are any of the possible harms you’ve identified likely to fall disproportionately on populations that already experience marginalization or are otherwise vulnerable?
+A:See Ethic Statement below.
+
+Ethics Statment
+The dataset constructed in this paper is from China Judgements Online\footnote{http:/wenshu.court.gov.cn}, which is an official legal documents website. The names of all participants in the dataset are anonymized before being published online. And there are already lots of datasets constructed from this website used in Chinese law-related research. We do not perform analysis at the user level rather than the evidence level, which is less intrusive for specific people. Finally, This technology mainly plays an auxiliary role to provide a reference for judges rather than play a decisive role.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

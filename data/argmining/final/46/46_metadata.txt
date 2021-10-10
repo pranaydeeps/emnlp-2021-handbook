@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#46
+FinalPaperTitle#=%=#Overview of the 2021 Key Point Analysis Shared Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yufang Hou
+JobTitle#==#
+Organization#==#
+Abstract#==#We describe the 2021 Key Point Analysis (KPA-2021) shared task on key point analysis that we organized as a part of the 8th Workshop on Argument Mining (ArgMining 2021) at EMNLP 2021. We outline various approaches and discuss the results of the shared task. We expect the task and the findings reported in this paper to be relevant for researchers working on text summarization and argument mining.
+Author{1}{Firstname}#=%=#Roni
+Author{1}{Lastname}#=%=#Friedman
+Author{1}{Username}#=%=#ronifr
+Author{1}{Email}#=%=#roni.friedman-melamed@il.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Lena
+Author{2}{Lastname}#=%=#Dankin
+Author{2}{Username}#=%=#lenadankin
+Author{2}{Email}#=%=#lena.dankin@gmail.com
+Author{2}{Affiliation}#=%=#IBM Research AI
+Author{3}{Firstname}#=%=#Yufang
+Author{3}{Lastname}#=%=#Hou
+Author{3}{Username}#=%=#yufang
+Author{3}{Email}#=%=#bnuxiaofang@gmail.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Ranit
+Author{4}{Lastname}#=%=#Aharonov
+Author{4}{Username}#=%=#ranita
+Author{4}{Email}#=%=#ranitah1@gmail.com
+Author{4}{Affiliation}#=%=#IBM Research
+Author{5}{Firstname}#=%=#Yoav
+Author{5}{Lastname}#=%=#Katz
+Author{5}{Username}#=%=#yoavkatz
+Author{5}{Email}#=%=#katz@il.ibm.com
+Author{5}{Affiliation}#=%=#IBM Research AI
+Author{6}{Firstname}#=%=#Noam
+Author{6}{Lastname}#=%=#Slonim
+Author{6}{Username}#=%=#noamslonim
+Author{6}{Email}#=%=#noams@il.ibm.com
+Author{6}{Affiliation}#=%=#IBM Research
+
+==========

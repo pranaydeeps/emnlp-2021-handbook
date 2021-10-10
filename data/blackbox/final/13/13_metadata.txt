@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Hendrik Schuff
+JobTitle#==#
+Organization#==#
+Abstract#==#Natural language inference (NLI) requires models to learn and apply commonsense knowledge.
+These reasoning abilities are particularly important for explainable NLI systems that generate a natural language explanation in addition to their label prediction.
+The integration of external knowledge has been shown to improve NLI systems, here we investigate whether it can also improve their explanation capabilities.
+For this, we investigate different sources of external knowledge and evaluate the performance of our models on in-domain data as well as on special transfer datasets that are designed to assess fine-grained reasoning capabilities.
+We find that different sources of knowledge have a different effect on reasoning abilities, for example, implicit knowledge stored in language models can hinder reasoning on numbers and negations.
+Finally, we conduct the largest and most fine-grained explainable NLI crowdsourcing study to date.
+It reveals that even large differences in automatic performance scores do neither reflect in human ratings of label, explanation, commonsense nor grammar correctness.
+Author{1}{Firstname}#=%=#Hendrik
+Author{1}{Lastname}#=%=#Schuff
+Author{1}{Username}#=%=#hmschuff
+Author{1}{Email}#=%=#hendrikschuff@gmx.de
+Author{1}{Affiliation}#=%=#Bosch Center for Artificial Intelligence
+Author{2}{Firstname}#=%=#Hsiu-Yu
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#hsiuyu_yang
+Author{2}{Email}#=%=#hsiu-yu.yang@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#Institute for Natural Language Processing, Stuttgart University
+Author{3}{Firstname}#=%=#Heike
+Author{3}{Lastname}#=%=#Adel
+Author{3}{Username}#=%=#heikeadel
+Author{3}{Email}#=%=#heike.adel@de.bosch.com
+Author{3}{Affiliation}#=%=#Bosch Center for Artificial Intelligence
+Author{4}{Firstname}#=%=#Ngoc Thang
+Author{4}{Lastname}#=%=#Vu
+Author{4}{Username}#=%=#thangvu
+Author{4}{Email}#=%=#thangvu@ims.uni-stuttgart.de
+Author{4}{Affiliation}#=%=#University of Stuttgart
+
+==========

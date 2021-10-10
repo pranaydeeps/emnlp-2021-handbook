@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#4219
+FinalPaperTitle#=%=#Learning Compact Metrics for MT
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Thibault Sellam
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent developments in machine translation and multilingual text generation have led researchers to adopt trained metrics such as COMET or BLEURT, which treat evaluation as a regression problem and use representations from multilingual pre-trained models such as XLM-RoBERTa or mBERT. Yet studies on related tasks suggest that these models are most efficient when they are large, which is costly and impractical for evaluation. We investigate the trade-off between multilinguality and model capacity with RemBERT, a state-of-the-art multilingual language model, using data from the WMT Metrics Shared Task. We present a series of experiments which show that model size is indeed a bottleneck for cross-lingual transfer, then demonstrate how distillation can help addressing this bottleneck, by leveraging synthetic data generation and transferring knowledge from one teacher to multiple students trained on related languages. Our method yields up to 10.5% improvement over vanilla fine-tuning and reaches 92.6% of RemBERT’s performance using only a third of its parameters.
+Author{1}{Firstname}#=%=#Amy
+Author{1}{Lastname}#=%=#Pu
+Author{1}{Username}#=%=#apu
+Author{1}{Email}#=%=#apiowa0506@gmail.com
+Author{1}{Affiliation}#=%=#brown.edu
+Author{2}{Firstname}#=%=#Hyung Won
+Author{2}{Lastname}#=%=#Chung
+Author{2}{Username}#=%=#hwchung
+Author{2}{Email}#=%=#hwchung@google.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Ankur
+Author{3}{Lastname}#=%=#Parikh
+Author{3}{Username}#=%=#aparikh
+Author{3}{Email}#=%=#aparikh@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Sebastian
+Author{4}{Lastname}#=%=#Gehrmann
+Author{4}{Username}#=%=#sgehrmann
+Author{4}{Email}#=%=#gehrmann@google.com
+Author{4}{Affiliation}#=%=#Google Research
+Author{5}{Firstname}#=%=#Thibault
+Author{5}{Lastname}#=%=#Sellam
+Author{5}{Username}#=%=#tsellam
+Author{5}{Email}#=%=#tsellam@google.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

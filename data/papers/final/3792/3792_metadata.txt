@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#3792
+FinalPaperTitle#=%=#Learning Universal Authorship Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nicholas Andrews
+JobTitle#==#
+Organization#==#
+Abstract#==#Determining whether two documents were composed by the same author, also known as authorship verification, has traditionally been tackled using statistical methods.
+Recently, authorship representations learned using neural networks have been found to outperform alternatives, particularly in large-scale settings involving hundreds of thousands of authors.
+But do such representations learned in a particular domain transfer to other domains?
+Or are these representations inherently entangled with domain-specific features?
+To study these questions, we conduct the first large-scale study of cross-domain transfer for authorship verification considering zero-shot transfers involving three disparate domains: Amazon reviews, fanfiction short stories, and Reddit comments. 
+We find that although a surprising degree of transfer is possible between certain domains, it is not so successful between others.
+We examine properties of these domains that influence generalization and propose simple but effective methods to improve transfer.
+Author{1}{Firstname}#=%=#Rafael A.
+Author{1}{Lastname}#=%=#Rivera-Soto
+Author{1}{Email}#=%=#riverasoto1@llnl.gov
+Author{1}{Affiliation}#=%=#Lawrence Livermore National Laboratory
+Author{2}{Firstname}#=%=#Olivia Elizabeth
+Author{2}{Lastname}#=%=#Miano
+Author{2}{Email}#=%=#miano3@llnl.gov
+Author{2}{Affiliation}#=%=#Lawrence Livermore National Laboratory
+Author{3}{Firstname}#=%=#Juanita
+Author{3}{Lastname}#=%=#Ordonez
+Author{3}{Email}#=%=#ordonez2@llnl.gov
+Author{3}{Affiliation}#=%=#Lawrence Livermore National Laboratory
+Author{4}{Firstname}#=%=#Barry Y.
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#chen52@llnl.gov
+Author{4}{Affiliation}#=%=#Lawrence Livermore National Laboratory
+Author{5}{Firstname}#=%=#Aleem
+Author{5}{Lastname}#=%=#Khan
+Author{5}{Username}#=%=#akhan141
+Author{5}{Email}#=%=#akhan141@jhu.edu
+Author{5}{Affiliation}#=%=#Johns Hopkins University HLTCOE
+Author{6}{Firstname}#=%=#Marcus
+Author{6}{Lastname}#=%=#Bishop
+Author{6}{Username}#=%=#marcusjbishop
+Author{6}{Email}#=%=#marcus.bishop@jhu.edu
+Author{6}{Affiliation}#=%=#Johns Hopkins University
+Author{7}{Firstname}#=%=#Nicholas
+Author{7}{Lastname}#=%=#Andrews
+Author{7}{Username}#=%=#noa
+Author{7}{Email}#=%=#noa@jhu.edu
+Author{7}{Affiliation}#=%=#Johns Hopkins University
+
+==========

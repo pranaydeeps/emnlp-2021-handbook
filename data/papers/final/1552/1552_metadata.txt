@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1552
+FinalPaperTitle#=%=#Multivalent Entailment Graphs for Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nicholas McKenna
+JobTitle#==#
+Organization#==#
+Abstract#==#Drawing inferences between open-domain natural language predicates is a necessity for true language understanding. There has been much progress in unsupervised learning of entailment graphs for this purpose. We make three contributions: (1) we reinterpret the Distributional Inclusion Hypothesis to model entailment between predicates of different valencies, like DEFEAT(Biden, Trump) entails WIN(Biden); (2) we actualize this theory by learning unsupervised Multivalent Entailment Graphs of open-domain predicates; and (3) we demonstrate the capabilities of these graphs on a novel question answering task. We show that directional entailment is more helpful for inference than non-directional similarity on questions of fine-grained semantics. We also show that drawing on evidence across valencies answers more questions than by using only the same valency evidence.
+Author{1}{Firstname}#=%=#Nick
+Author{1}{Lastname}#=%=#McKenna
+Author{1}{Username}#=%=#nmckenna
+Author{1}{Email}#=%=#nick.mckenna@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh, School of Informatics
+Author{2}{Firstname}#=%=#Liane
+Author{2}{Lastname}#=%=#Guillou
+Author{2}{Username}#=%=#s1052008
+Author{2}{Email}#=%=#lguillou@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#The University of Edinburgh
+Author{3}{Firstname}#=%=#Mohammad Javad
+Author{3}{Lastname}#=%=#Hosseini
+Author{3}{Username}#=%=#mjhosseini
+Author{3}{Email}#=%=#javadh@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Sander
+Author{4}{Lastname}#=%=#Bijl de Vroe
+Author{4}{Username}#=%=#sanderbdv
+Author{4}{Email}#=%=#sander.bijldevroe@gmail.com
+Author{4}{Affiliation}#=%=#University of Edinburgh
+Author{5}{Firstname}#=%=#Mark
+Author{5}{Lastname}#=%=#Johnson
+Author{5}{Username}#=%=#mark.johnson
+Author{5}{Email}#=%=#Mark.Johnson@MQ.edu.au
+Author{5}{Affiliation}#=%=#Oracle Corporation
+Author{6}{Firstname}#=%=#Mark
+Author{6}{Lastname}#=%=#Steedman
+Author{6}{Username}#=%=#steedman
+Author{6}{Email}#=%=#steedman@inf.ed.ac.uk
+Author{6}{Affiliation}#=%=#University of Edinburgh
+
+==========

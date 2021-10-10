@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2695
+FinalPaperTitle#=%=#Neuralizing Regular Expressions for Slot Filling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Chengyue Jiang
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural models and symbolic rules such as regular expressions have their respective merits and weaknesses. In this paper, we study the integration of the two approaches for the slot filling task by converting regular expressions into neural networks. Specifically, we first convert regular expressions into a special form of finite-state transducers, then unfold its approximate inference algorithm as a bidirectional recurrent neural model that performs slot filling via sequence labeling. Experimental results show that our model has superior zero-shot and few-shot performance and stays competitive when there are sufficient training data.
+Author{1}{Firstname}#=%=#Chengyue
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Username}#=%=#jiangchy
+Author{1}{Email}#=%=#jiangchy@shanghaitech.edu.cn
+Author{1}{Affiliation}#=%=#ShanghaiTech University
+Author{2}{Firstname}#=%=#Zijian
+Author{2}{Lastname}#=%=#Jin
+Author{2}{Username}#=%=#jinzijian
+Author{2}{Email}#=%=#zj2076@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Kewei
+Author{3}{Lastname}#=%=#Tu
+Author{3}{Username}#=%=#tukw
+Author{3}{Email}#=%=#tukw@shanghaitech.edu.cn
+Author{3}{Affiliation}#=%=#ShanghaiTech University
+
+==========

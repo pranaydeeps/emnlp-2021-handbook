@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#2894
+FinalPaperTitle#=%=#Frustratingly Simple but Surprisingly Strong: Using Language-Independent Features for Zero-shot Cross-lingual Semantic Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jingfeng Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#The availability of corpora has led to significant advances in training  semantic parsers in English. Unfortunately, for languages other than English, annotated data is limited and so is the performance of the developed parsers. Recently, pretrained multilingual models have been proven useful for zero-shot cross-lingual transfer in many NLP tasks. 
+What else does it require to apply a parser trained in English to other languages for zero-shot cross-lingual semantic parsing?
+Will simple language-independent features help?
+To this end, we experiment with six Discourse Representation Structure (DRS) semantic parsers in English, and generalize them to Italian, German and Dutch, where there are only a small number of manually annotated parses available.
+Extensive experiments show that despite its simplicity, adding  Universal Dependency (UD) relations and Universal POS tags (UPOS) as model-agnostic features achieves surprisingly strong improvement on all parsers.
+Author{1}{Firstname}#=%=#Jingfeng
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#jingfengyang
+Author{1}{Email}#=%=#yjfllpyym@gmail.com
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Federico
+Author{2}{Lastname}#=%=#Fancellu
+Author{2}{Username}#=%=#ffancellu
+Author{2}{Email}#=%=#f.fancellu0@gmail.com
+Author{2}{Affiliation}#=%=#Samsung AI Research Canada
+Author{3}{Firstname}#=%=#Bonnie
+Author{3}{Lastname}#=%=#Webber
+Author{3}{Username}#=%=#bonnie
+Author{3}{Email}#=%=#bonnie.webber@ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Diyi
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Username}#=%=#diyiy
+Author{4}{Email}#=%=#diyi.yang@cc.gatech.edu
+Author{4}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

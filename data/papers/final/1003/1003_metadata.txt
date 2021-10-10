@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1003
+FinalPaperTitle#=%=#Paraphrase Generation: A Survey of the State of the Art
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jianing Zhou
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper focuses on paraphrase generation,which is a widely studied natural language generation task in NLP. With the development of neural models, paraphrase generation research has  exhibited  a  gradual  shift  to  neural  methods  in  the  recent  years.    This  has  provided architectures for contextualized representation of an input text and generating fluent, diverseand human-like paraphrases.   This paper surveys various approaches to paraphrase generation with a main focus on neural methods.
+Author{1}{Firstname}#=%=#Jianing
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#zhjjn1
+Author{1}{Email}#=%=#zjn1746@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Suma
+Author{2}{Lastname}#=%=#Bhat
+Author{2}{Username}#=%=#sumapramod
+Author{2}{Email}#=%=#spbhat2@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+
+==========

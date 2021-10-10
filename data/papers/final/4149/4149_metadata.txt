@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#4149
+FinalPaperTitle#=%=#NICE: Neural Image Commenting with Empathy
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Kezhen Chen
+JobTitle#==#
+Organization#==#Northwestern University, 633 Clark Street Evanston, IL 60208
+Abstract#==#Emotion and empathy are examples of human qualities lacking in many human-machine interactions.   The goal of our work is to generate  engaging  dialogue  grounded in a user-shared image with increased emotion and empathy while minimizing socially inappropriate or offensive outputs. We  release the Neural Image Commenting with Empathy (NICE) dataset consisting of almost two million  images and the corresponding human-generated comments,  a set of human annotations, and baseline performance on a range of models. In-stead of relying on manually labeled emotions, we also use  automatically generated linguistic representations as a source of weakly supervised labels. Based on  these  annotations, we define two different tasks for the NICE dataset. Then, we propose a novel pre-training model - Modeling Affect Generation for Image Comments (MAGIC) - which aims to generate comments for images, conditioned on linguistic representations that capture style and affect, and  to  help  generate  more  empathetic,  emotional, engaging and socially appropriate comments.  Using this model we achieve state-of-the-art performance on one of our NICE tasks. The experiments show that the approach can generate more human-like and engaging image comments.
+Author{1}{Firstname}#=%=#Kezhen
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#kci1962
+Author{1}{Email}#=%=#kezhenchen2021@u.northwestern.edu
+Author{1}{Affiliation}#=%=#Northwestern University, Microsoft
+Author{2}{Firstname}#=%=#Qiuyuan
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Username}#=%=#idfree
+Author{2}{Email}#=%=#qihua@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research, Redmond
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#McDuff
+Author{3}{Username}#=%=#danielmcduff
+Author{3}{Email}#=%=#damcduff@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Xiang
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Username}#=%=#gxiang1228
+Author{4}{Email}#=%=#gxiang1228@gmail.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+Author{5}{Firstname}#=%=#Hamid
+Author{5}{Lastname}#=%=#Palangi
+Author{5}{Username}#=%=#hpalangi
+Author{5}{Email}#=%=#hpalangi@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+Author{6}{Firstname}#=%=#Jianfeng
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Username}#=%=#amsword
+Author{6}{Email}#=%=#jianfw@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft
+Author{7}{Firstname}#=%=#Kenneth
+Author{7}{Lastname}#=%=#Forbus
+Author{7}{Username}#=%=#forbus
+Author{7}{Email}#=%=#forbus@northwestern.edu
+Author{7}{Affiliation}#=%=#Northwestern University
+Author{8}{Firstname}#=%=#Jianfeng
+Author{8}{Lastname}#=%=#Gao
+Author{8}{Username}#=%=#jfgao
+Author{8}{Email}#=%=#jfgao@microsoft.com
+Author{8}{Affiliation}#=%=#Microsoft Research, Redmond
+
+==========

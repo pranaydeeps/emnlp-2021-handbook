@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#166
+FinalPaperTitle#=%=#Tackling Zero Pronoun Resolution and Non-Zero Coreference Resolution Jointly
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shisong Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Zero pronoun resolution aims at recognizing dropped pronouns and pointing out their anaphoric mentions, while non-zero coreference resolution targets at clustering mentions referring to the same entity. Existing efforts often deal with the two problems separately regardless of their close essential correlations. In this paper, we investigate the possibility of jointly solving zero pronoun resolution and coreference resolution via a novel end-to-end neural model. Specifically, we design a gap-masked self-attention model that encodes gaps and tokens in the same space, where gaps could capture valuable contextual information according to their surrounding tokens while tokens could maintain original sequential information without disturbance. Additionally, we also propose a two-stage interaction mechanism to make full use of the exclusive relationship between zero pronouns and mentions. Our empirical study conducted on the OntoNotes 5.0 Chinese dataset shows that our model could outperform corresponding state-of-the-art approaches on both tasks.
+Author{1}{Firstname}#=%=#Shisong
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#cheniison
+Author{1}{Email}#=%=#sschen777@stu.suda.edu.cn
+Author{1}{Affiliation}#=%=#School of Computer Science and Technology, Soochow University
+Author{2}{Firstname}#=%=#Binbin
+Author{2}{Lastname}#=%=#Gu
+Author{2}{Email}#=%=#binbing@uci.edu
+Author{2}{Affiliation}#=%=#University of California, Irvine
+Author{3}{Firstname}#=%=#Jianfeng
+Author{3}{Lastname}#=%=#Qu
+Author{3}{Email}#=%=#jfqu@suda.edu.cn
+Author{3}{Affiliation}#=%=#School of Computer Science and Technology, Soochow University
+Author{4}{Firstname}#=%=#Zhixu
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#zhixuli@suda.edu.cn
+Author{4}{Affiliation}#=%=#School of Computer Science and Technology, Soochow University
+Author{5}{Firstname}#=%=#An
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#anliu@suda.edu.cn
+Author{5}{Affiliation}#=%=#School of Computer Science and Technology, Soochow University
+Author{6}{Firstname}#=%=#Lei
+Author{6}{Lastname}#=%=#Zhao
+Author{6}{Email}#=%=#zhaol@suda.edu.cn
+Author{6}{Affiliation}#=%=#School of Computer Science and Technology, Soochow University
+Author{7}{Firstname}#=%=#Zhigang
+Author{7}{Lastname}#=%=#Chen
+Author{7}{Email}#=%=#zgchen@iflytek.com
+Author{7}{Affiliation}#=%=#State Key Laboratory of Cognitive Intelligence, iFLYTEK
+
+==========

@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="1">
+  <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>handbook.bcf</file>
@@ -61,7 +61,7 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
@@ -80,12 +80,23 @@
       <file>handbook.bcf</file>
     </requires>
     <requires type="editable">
+      <file>auto/argmining/papers.bib</file>
+      <file>auto/blackbox/papers.bib</file>
       <file>auto/ci+nlp/papers.bib</file>
+      <file>auto/codi/papers.bib</file>
+      <file>auto/conll/papers.bib</file>
+      <file>auto/crac/papers.bib</file>
       <file>auto/eancs/papers.bib</file>
       <file>auto/econlp/papers.bib</file>
       <file>auto/fever/papers.bib</file>
       <file>auto/insights/papers.bib</file>
+      <file>auto/latech-clfl/papers.bib</file>
+      <file>auto/mrqa/papers.bib</file>
       <file>auto/newsum/papers.bib</file>
+      <file>auto/nllp/papers.bib</file>
+      <file>auto/nlp4convai/papers.bib</file>
+      <file>auto/papers/papers.bib</file>
+      <file>auto/sustainlp/papers.bib</file>
       <file>auto/w-nut/papers.bib</file>
       <file>content/workshops/papers.bib</file>
     </requires>

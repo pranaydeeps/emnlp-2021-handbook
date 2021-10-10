@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#3768
+FinalPaperTitle#=%=#Extracting Fine-Grained Knowledge Graphs of Scientific Claims: Dataset and Transformer-Based Results
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ian H. Magnusson
+JobTitle#==#
+Organization#==#Smart Information Flow Technologies
+319 1st Ave North, Suite 400
+Minneapolis, MN 55401-1689
+Abstract#==#Recent transformer-based approaches demonstrate promising results on relational scientific information extraction. Existing datasets focus on high-level description of how research is carried out. Instead we focus on the subtleties of how experimental associations are presented by building SciClaim, a dataset of scientific claims drawn from Social and Behavior Science (SBS), PubMed, and CORD-19 papers. Our novel graph annotation schema incorporates not only coarse-grained entity spans as nodes and relations as edges between them, but also fine-grained attributes that modify entities and their relations, for a total of 12,738 labels in the corpus. By including more label types and more than twice the label density of previous datasets, SciClaim captures causal, comparative, predictive, statistical, and proportional associations over experimental variables along with their qualifications, subtypes, and evidence. We extend work in transformer-based joint entity and relation extraction to effectively infer our schema, showing the promise of fine-grained knowledge graphs in scientific claims and beyond.
+Author{1}{Firstname}#=%=#Ian
+Author{1}{Lastname}#=%=#Magnusson
+Author{1}{Username}#=%=#imagnusson
+Author{1}{Email}#=%=#imagnusson@sift.net
+Author{1}{Affiliation}#=%=#Smart Information Flow Technologies LLC
+Author{2}{Firstname}#=%=#Scott
+Author{2}{Lastname}#=%=#Friedman
+Author{2}{Username}#=%=#sfriedman
+Author{2}{Email}#=%=#friedman@sift.net
+Author{2}{Affiliation}#=%=#SIFT
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3208
+FinalPaperTitle#=%=#Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via Reinforcement Learning and Human Demonstration
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Weiyan Shi
+JobTitle#==#
+Organization#==#
+Abstract#==#Persuasion dialogue system reflects the machine's ability to make strategic moves beyond verbal communication, and therefore differentiates itself from task-oriented or open-domain dialogues and has its own unique values. However, the repetition and inconsistency problems still persist in dialogue response generation and could substantially impact user experience and impede the persuasion outcome. Besides, although reinforcement learning (RL) approaches have achieved big success in strategic tasks such as games, it requires a sophisticated user simulator to provide real-time feedback to the dialogue system, which limits the application of RL on persuasion dialogues. To address these issues towards a better persuasion dialogue system, we apply RL to refine a language model baseline without user simulators, and distill sentence-level information about repetition, inconsistency, and task relevance through rewards. Moreover, to better accomplish the persuasion task, the model learns from human demonstration to imitate human persuasion behavior and selects the most persuasive responses. Experiments show that our model outperforms previous state-of-the-art dialogue models on both automatic metrics and human evaluation results on a donation persuasion task, and generates more diverse, consistent and persuasive conversations according to the user feedback. We will make the code and model publicly available.
+Author{1}{Firstname}#=%=#Weiyan
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Username}#=%=#wyshi
+Author{1}{Email}#=%=#ws2634@columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Yu
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#yooli
+Author{2}{Email}#=%=#yooli@ucdavis.edu
+Author{2}{Affiliation}#=%=#University of California, Davis
+Author{3}{Firstname}#=%=#Saurav
+Author{3}{Lastname}#=%=#Sahay
+Author{3}{Username}#=%=#sauravsahay
+Author{3}{Email}#=%=#sauravsahay@gmail.com
+Author{3}{Affiliation}#=%=#Intel Labs
+Author{4}{Firstname}#=%=#Zhou
+Author{4}{Lastname}#=%=#Yu
+Author{4}{Username}#=%=#zhouyu
+Author{4}{Email}#=%=#zhouyu@cs.columbia.edu
+Author{4}{Affiliation}#=%=#Columbia University
+
+==========

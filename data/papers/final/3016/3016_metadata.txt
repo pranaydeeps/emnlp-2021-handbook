@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#3016
+FinalPaperTitle#=%=#{H}inted{BT}: {A}ugmenting {B}ack-{T}ranslation with Quality and Transliteration Hints
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Sahana Ramnath
+JobTitle#==#
+Organization#==#
+Abstract#==#Back-translation (BT) of target monolingual corpora is a widely used data augmentation strategy for neural machine translation (NMT), especially for low-resource language pairs.  To improve effectiveness of the available BT data, we introduce HintedBT---a family of techniques which provides hints (through tags) to the encoder and decoder. First, we propose a novel method of using both high and low quality BT data by providing hints (as source tags on the encoder) to the model about the quality of each source-target pair. We don't filter out low quality data but instead show that these hints enable the model to learn effectively from noisy data.
+Second, we address the  problem of predicting whether a source token needs to be translated or transliterated to the target language, which is common in cross-script translation tasks (i.e., where source and target do not share the written script).
+For such cases, we propose training the model with additional hints (as target tags on the decoder) that provide information about the operation required on the source (translation or both translation and transliteration). We conduct experiments and detailed analyses on standard WMT benchmarks for three cross-script low/medium-resource language pairs: {Hindi,Gujarati,Tamil}-to-English. 
+Our methods compare favorably with five strong and well established baselines. We show that using these hints, both separately and together, significantly improves translation quality and leads to state-of-the-art performance in all three language pairs in corresponding bilingual settings.
+Author{1}{Firstname}#=%=#Sahana
+Author{1}{Lastname}#=%=#Ramnath
+Author{1}{Username}#=%=#sahanaramnath
+Author{1}{Email}#=%=#sahanaramnath@google.com
+Author{1}{Affiliation}#=%=#Google Research, Bangalore, India
+Author{2}{Firstname}#=%=#Melvin
+Author{2}{Lastname}#=%=#Johnson
+Author{2}{Username}#=%=#melvinj
+Author{2}{Email}#=%=#jmelvinjose@gmail.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Abhirut
+Author{3}{Lastname}#=%=#Gupta
+Author{3}{Username}#=%=#abhirutg
+Author{3}{Email}#=%=#abhirut@google.com
+Author{3}{Affiliation}#=%=#Google Research
+Author{4}{Firstname}#=%=#Aravindan
+Author{4}{Lastname}#=%=#Raghuveer
+Author{4}{Username}#=%=#araghuveer
+Author{4}{Email}#=%=#araghuveer@google.com
+Author{4}{Affiliation}#=%=#Google Research
+
+==========

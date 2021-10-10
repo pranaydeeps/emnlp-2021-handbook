@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#498
+FinalPaperTitle#=%=#Augmenting BERT-style Models with Predictive Coding to Improve Discourse-level Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Vladimir Araujo
+JobTitle#==#
+Organization#==#
+Abstract#==#Current language models are usually trained using a self-supervised scheme, where the main focus is learning representations at the word or sentence level. However, there has been limited progress in generating useful discourse-level representations. In this work, we propose to use ideas from predictive coding theory to augment BERT-style language models with a mechanism that allows them to learn suitable discourse-level representations. As a result, our proposed approach is able to predict future sentences using explicit top-down connections that operate at the intermediate layers of the network. By experimenting with benchmarks designed to evaluate discourse-related knowledge using pre-trained sentence representations, we demonstrate that our approach improves performance in 6 out of 11 tasks by excelling in discourse relationship detection.
+Author{1}{Firstname}#=%=#Vladimir
+Author{1}{Lastname}#=%=#Araujo
+Author{1}{Username}#=%=#vgaraujov
+Author{1}{Email}#=%=#vgaraujo@uc.cl
+Author{1}{Affiliation}#=%=#Pontificia Universidad Católica de Chile
+Author{2}{Firstname}#=%=#Andrés
+Author{2}{Lastname}#=%=#Villa
+Author{2}{Username}#=%=#afvilla
+Author{2}{Email}#=%=#afvilla@uc.cl
+Author{2}{Affiliation}#=%=#Pontificia Universidad Católica de Chile
+Author{3}{Firstname}#=%=#Marcelo
+Author{3}{Lastname}#=%=#Mendoza
+Author{3}{Username}#=%=#mmendoza
+Author{3}{Email}#=%=#mmendoza@inf.utfsm.cl
+Author{3}{Affiliation}#=%=#Universidad Técnica Federico Santa María
+Author{4}{Firstname}#=%=#Marie-Francine
+Author{4}{Lastname}#=%=#Moens
+Author{4}{Username}#=%=#sien.moens
+Author{4}{Email}#=%=#sien.moens@cs.kuleuven.be
+Author{4}{Affiliation}#=%=#KU Leuven
+Author{5}{Firstname}#=%=#Alvaro
+Author{5}{Lastname}#=%=#Soto
+Author{5}{Username}#=%=#alvarosotoa
+Author{5}{Email}#=%=#alvarosotoa@gmail.com
+Author{5}{Affiliation}#=%=#PUC
+
+==========

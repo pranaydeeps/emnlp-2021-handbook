@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Can Question Generation Debias Question Answering Models? A Case Study on Question–Context Lexical Overlap
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kazutoshi Shinoda
+JobTitle#==#PhD student
+Organization#==#The University of Tokyo
+7-3-1 Hongō, Bunkyo-ku, Tokyo 113-8654
+Abstract#==#Question answering (QA) models for reading comprehension have been demonstrated to exploit unintended dataset biases such as question–context lexical overlap.
+This hinders QA models from generalizing to under-represented samples such as questions with low lexical overlap.
+Question generation (QG), a method for augmenting QA datasets, can be a solution for such performance degradation if QG can properly debias QA datasets.
+However, we discover that recent neural QG models are biased towards generating questions with high lexical overlap, which can amplify the dataset bias.
+Moreover, our analysis reveals that data augmentation with these QG models frequently impairs the performance on questions with low lexical overlap, while improving that on questions with high lexical overlap.
+To address this problem, we use a synonym replacement-based approach to augment questions with low lexical overlap.
+We demonstrate that the proposed data augmentation approach is simple yet effective to mitigate the degradation problem with only 70k synthetic examples.
+Author{1}{Firstname}#=%=#Kazutoshi
+Author{1}{Lastname}#=%=#Shinoda
+Author{1}{Username}#=%=#kshinoda
+Author{1}{Email}#=%=#kazutoshi.shinoda0516@gmail.com
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Saku
+Author{2}{Lastname}#=%=#Sugawara
+Author{2}{Username}#=%=#sakusgwr
+Author{2}{Email}#=%=#saku@nii.ac.jp
+Author{2}{Affiliation}#=%=#National Institute of Informatics
+Author{3}{Firstname}#=%=#Akiko
+Author{3}{Lastname}#=%=#Aizawa
+Author{3}{Username}#=%=#aizawa
+Author{3}{Email}#=%=#aizawa@nii.ac.jp
+Author{3}{Affiliation}#=%=#National Institute of Informatics
+
+==========

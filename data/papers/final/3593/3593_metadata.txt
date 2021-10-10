@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#3593
+FinalPaperTitle#=%=#Table-based Fact Verification With Salience-aware Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Fei Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Tables provide valuable knowledge that can be used to verify textual statements.
+While a number of works have considered table-based fact verification, direct alignments of tabular data with tokens in textual statements are rarely available.
+Moreover, training a generalized fact verification model requires abundant labeled training data.
+In this paper, we propose a novel system to address these problems.
+Inspired by counterfactual causality, our system identifies token-level salience in the statement with probing-based salience estimation.
+Salience estimation allows enhanced learning of fact verification from two perspectives.
+From one perspective, our system conducts masked salient token prediction to enhance the model for alignment and reasoning between the table and the statement.
+From the other perspective, our system applies salience-aware data augmentation to generate a more diverse set of training instances by replacing non-salient terms. 
+Experimental results on TabFact show the effective improvement by the proposed salience-aware learning techniques, leading to the new SOTA performance on the benchmark.
+Author{1}{Firstname}#=%=#Fei
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#fwang1412
+Author{1}{Email}#=%=#fwang1412@gmail.com
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Kexuan
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#kexuansun
+Author{2}{Email}#=%=#kexuansu@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Jay
+Author{3}{Lastname}#=%=#Pujara
+Author{3}{Username}#=%=#puuj
+Author{3}{Email}#=%=#jay@cs.umd.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+Author{4}{Firstname}#=%=#Pedro
+Author{4}{Lastname}#=%=#Szekely
+Author{4}{Username}#=%=#pedroszekely
+Author{4}{Email}#=%=#szekely@usc.edu
+Author{4}{Affiliation}#=%=#University of Southern California
+Author{5}{Firstname}#=%=#Muhao
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Username}#=%=#muhaochen
+Author{5}{Email}#=%=#muhaochen@ucla.edu
+Author{5}{Affiliation}#=%=#USC
+
+==========

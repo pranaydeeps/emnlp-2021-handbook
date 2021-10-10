@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Not So Fast, Classifier – Accuracy and Entropy Reduction in Incremental Intent Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Lianna Hrycyk
+JobTitle#==#
+Organization#==#
+Abstract#==#Incremental intent classification requires the assignment of intent labels to partial utterances. However, partial utterances do not necessarily contain enough information to be mapped to the intent class of their complete utterance (correctly and with a certain degree of confidence). Using the final interpretation as the ground truth to measure a classifier's accuracy during intent classification of partial utterances is thus problematic.
+We release inCLINC, a dataset of partial and full utterances with human annotations of plausible intent labels for different portions of each utterance, as an upper (human) baseline for incremental intent classification. 
+We analyse the incremental annotations and propose entropy reduction as a measure of human annotators' convergence on an interpretation (i.e. intent label). 
+We argue that, when the annotators do not converge to one or a few possible interpretations and yet the classifier already identifies the final intent class early on, it is a sign of overfitting that can be ascribed to artefacts in the dataset.
+Author{1}{Firstname}#=%=#Lianna
+Author{1}{Lastname}#=%=#Hrycyk
+Author{1}{Username}#=%=#liannahrycyk
+Author{1}{Email}#=%=#lihrycyk@gmail.com
+Author{1}{Affiliation}#=%=#Semantic Audio Processing, Fraunhofer Institute for Integrated Circuits IIS
+Author{2}{Firstname}#=%=#Alessandra
+Author{2}{Lastname}#=%=#Zarcone
+Author{2}{Username}#=%=#a.zarcone
+Author{2}{Email}#=%=#alessandra.zarcone@iis.fraunhofer.de
+Author{2}{Affiliation}#=%=#HumAIn - Fraunhofer IIS
+Author{3}{Firstname}#=%=#Luzian
+Author{3}{Lastname}#=%=#Hahn
+Author{3}{Email}#=%=#luzian.hahn@iis.fraunhofer.de
+Author{3}{Affiliation}#=%=#Semantic Audio Processing, Fraunhofer Institute for Integrated Circuits IIS
+
+==========

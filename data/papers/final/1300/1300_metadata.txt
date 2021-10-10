@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1300
+FinalPaperTitle#=%=#Combining Curriculum Learning and Knowledge Distillation for Dialogue Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Qingqing Zhu
+JobTitle#==#
+Organization#==#School of Software and Microelectronics, Peking University, Beijing, China
+Abstract#==#Curriculum learning, a machine training strategy that feeds training instances to the model from easy to hard, has been proven to facilitate the dialogue generation task. Meanwhile, knowledge distillation, a knowledge transformation methodology among teachers and students networks can yield significant performance boost for student models. Hence, in this paper, we introduce a combination of curriculum learning and knowledge distillation for efficient dialogue generation models, where curriculum learning can help knowledge distillation from data and model aspects. To start with, from the data aspect, we cluster the training cases according to their complexity, which is calculated by various types of features such as sentence length and coherence between dialog pairs. Furthermore, we employ an adversarial training strategy to identify the complexity of cases from model level.  The intuition is that, if a discriminator can tell the generated response is from the teacher or the student, then the case is difficult that the student model has not adapted to yet. Finally, we use self-paced learning, which is an extension to curriculum learning to assign weights for distillation. In conclusion, we arrange a hierarchical curriculum based on the above two aspects for the student model under the guidance from the teacher model. Experimental results demonstrate that our methods achieve improvements compared with competitive baselines.
+Author{1}{Firstname}#=%=#Qingqing
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Username}#=%=#qqz
+Author{1}{Email}#=%=#zhuqingqing@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Xiuying
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#xychen
+Author{2}{Email}#=%=#xiuying.chen@kaust.edu.sa
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Pengfei
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Username}#=%=#pengfei_wu
+Author{3}{Email}#=%=#wpf9808@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#JunFei
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#junfei
+Author{4}{Email}#=%=#xxjh@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Dongyan
+Author{5}{Lastname}#=%=#Zhao
+Author{5}{Username}#=%=#zhaodongyan
+Author{5}{Email}#=%=#zhaodongyan@pku.edu.cn
+Author{5}{Affiliation}#=%=#pku.edu.cn
+
+==========

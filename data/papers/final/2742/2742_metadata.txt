@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#2742
+FinalPaperTitle#=%=#Comparing learnability of two dependency schemes: ‘semantic’ (UD) and ‘syntactic’ (SUD)
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ryszard Tuora
+JobTitle#==#
+Organization#==#Institute of Computer Science Polish Academy of Sciences
+ul. Jana Kazimierza 5
+01-248 Warsaw, Poland
+Abstract#==#This paper contributes to the thread of research on the learnability of different dependency annotation schemes: one (‘semantic’) favouring content words as heads of dependency relations and the other (‘syntactic’) favouring syntactic heads. Several studies have lent support to the idea that choosing syntactic criteria for assigning heads in dependency trees improves the performance of dependency parsers. This may be explained by postulating that syntactic approaches are generally more learnable. In this study, we test this hypothesis by comparing the performance of five parsing systems (both transition- and graph-based) on a selection of 21 treebanks, each in a ‘semantic’ variant, represented by standard UD (Universal Dependencies), and a ‘syntactic’ variant, represented by SUD (Surface-syntactic Universal Dependencies): unlike previously reported experiments, which considered learnability of ‘semantic’ and ‘syntactic’ annotations of particular constructions in vitro, the experiments reported here consider whole annotation schemes in vivo. Additionally, we compare these annotation schemes using a range of quantitative syntactic properties, which may also reflect their learnability. The results of the experiments show that SUD tends to be more learnable than UD, but the advantage of one or the other scheme depends on the parser and the
+corpus in question.
+Author{1}{Firstname}#=%=#Ryszard
+Author{1}{Lastname}#=%=#Tuora
+Author{1}{Username}#=%=#ryszardtuora
+Author{1}{Email}#=%=#ryszardtuora@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Computer Science, Polish Academy of Sciences
+Author{2}{Firstname}#=%=#Adam
+Author{2}{Lastname}#=%=#Przepiórkowski
+Author{2}{Username}#=%=#adamp
+Author{2}{Email}#=%=#adamp@ipipan.waw.pl
+Author{2}{Affiliation}#=%=#University of Warsaw / Polish Academy of Sciences / University of Oxford
+Author{3}{Firstname}#=%=#Aleksander
+Author{3}{Lastname}#=%=#Leczkowski
+Author{3}{Username}#=%=#aleczkowski
+Author{3}{Email}#=%=#a.leczkowski@student.uw.edu.pl
+Author{3}{Affiliation}#=%=#Faculty of Psychology, University of Warsaw
+
+==========

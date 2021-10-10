@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#2985
+FinalPaperTitle#=%=#Cross-lingual Sentence Embedding using Multi-Task Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Koustava Goswami
+JobTitle#==#
+Organization#==#Name - Data Science Institute, National University of Ireland Galway
+Address - Lower Dangan, Newcastle, Galway, Ireland
+Abstract#==#Multilingual sentence embeddings capture rich semantic information not only for measuring similarity between texts but also for catering to a broad range of downstream cross-lingual NLP tasks. State-of-the-art multilingual sentence embedding models require large parallel corpora to learn efficiently, which confines the scope of these models. In this paper, we propose a novel sentence embedding framework based on an unsupervised loss function for generating effective multilingual sentence embeddings, eliminating the need for parallel corpora. We capture semantic similarity and relatedness between sentences using a multi-task loss function for training a dual encoder model mapping different languages onto the same vector space. We demonstrate the efficacy of an unsupervised as well as a weakly supervised variant of our framework on STS, BUCC and Tatoeba benchmark tasks. The proposed unsupervised sentence embedding framework outperforms even supervised state-of-the-art methods for certain under-resourced languages on the Tatoeba dataset and on a monolingual benchmark. Further, we show enhanced zero-shot learning capabilities for more than 30 languages, with the model being trained on only 13 languages. Our model can be extended to a wide range of languages from any language family, as it overcomes the requirement of parallel corpora for training.
+Author{1}{Firstname}#=%=#Koustava
+Author{1}{Lastname}#=%=#Goswami
+Author{1}{Username}#=%=#koustava
+Author{1}{Email}#=%=#koustava.goswami@insight-centre.org
+Author{1}{Affiliation}#=%=#Insight Centre for Data Analytics, Data Science Institute, National University of Ireland Galway
+Author{2}{Firstname}#=%=#Sourav
+Author{2}{Lastname}#=%=#Dutta
+Author{2}{Username}#=%=#sduttahuw
+Author{2}{Email}#=%=#sourav.dutta2@huawei.com
+Author{2}{Affiliation}#=%=#Huawei Research Centre
+Author{3}{Firstname}#=%=#Haytham
+Author{3}{Lastname}#=%=#Assem
+Author{3}{Username}#=%=#haythamassem
+Author{3}{Email}#=%=#haytham.assem@ucd.ie
+Author{3}{Affiliation}#=%=#Huawei Research
+Author{4}{Firstname}#=%=#Theodorus
+Author{4}{Lastname}#=%=#Fransen
+Author{4}{Username}#=%=#theodorus
+Author{4}{Email}#=%=#theodorus.fransen@insight-centre.org
+Author{4}{Affiliation}#=%=#Data Science Institute, Insight Centre for Data Analytics, National University of Ireland, Galway
+Author{5}{Firstname}#=%=#John P.
+Author{5}{Lastname}#=%=#McCrae
+Author{5}{Username}#=%=#jmccrae
+Author{5}{Email}#=%=#john@mccr.ae
+Author{5}{Affiliation}#=%=#Insight Center for Data Analytics, National University of Ireland Galway
+
+==========

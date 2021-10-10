@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#4592
+FinalPaperTitle#=%=#A Divide-And-Conquer Approach for Multi-label Multi-hop Relation Detection in Knowledge Base Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yanzheng Xiang
+JobTitle#==#
+Organization#==#
+Abstract#==#Relation detection in knowledge base question answering, aims to identify the path(s) of relations starting from the topic entity node that is linked to the answer node in knowledge graph. Such path might consist of multiple relations, which we call multi-hop. Moreover, for a single question, there may exist multiple relation paths to the correct answer, which we call multi-label. However, most of existing approaches only detect one single path to obtain the answer without considering other correct paths, which might affect the final performance. Therefore, in this paper, we propose a novel divide-and-conquer approach for multi-label multi-hop relation detection (DC-MLMH) by decomposing it into head relation detection and conditional relation path generation. In specific, a novel path sampling mechanism is proposed to generate diverse relation paths for the inference stage. A majority-vote policy is employed to detect final KB answer. Comprehensive experiments were conducted on the FreebaseQA benchmark dataset. Experimental results show that the proposed approach not only outperforms other competitive multi-label baselines, but also has superiority over some state-of-art KBQA methods.
+Author{1}{Firstname}#=%=#Deyu
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#d.zhou
+Author{1}{Email}#=%=#d.zhou@seu.edu.cn
+Author{1}{Affiliation}#=%=#Southeast University
+Author{2}{Firstname}#=%=#Yanzheng
+Author{2}{Lastname}#=%=#Xiang
+Author{2}{Username}#=%=#seu_xyz
+Author{2}{Email}#=%=#yz_xiang@seu.edu.cn
+Author{2}{Affiliation}#=%=#Southeast University
+Author{3}{Firstname}#=%=#Linhai
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#lzhang472
+Author{3}{Email}#=%=#lzhang472@seu.edu.cn
+Author{3}{Affiliation}#=%=#Southeast University
+Author{4}{Firstname}#=%=#Chenchen
+Author{4}{Lastname}#=%=#Ye
+Author{4}{Username}#=%=#chenchenye
+Author{4}{Email}#=%=#chenchenye@seu.edu.cn
+Author{4}{Affiliation}#=%=#Southeast University
+Author{5}{Firstname}#=%=#Qian-Wen
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#cowen
+Author{5}{Email}#=%=#cowenzhang93@gmail.com
+Author{5}{Affiliation}#=%=#Tencent
+Author{6}{Firstname}#=%=#Yunbo
+Author{6}{Lastname}#=%=#Cao
+Author{6}{Username}#=%=#caoyunbo
+Author{6}{Email}#=%=#yunbocao@tencent.com
+Author{6}{Affiliation}#=%=#Tencent Corporation
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2363
+FinalPaperTitle#=%=#Language Modeling, Lexical Translation, Reordering: The Training Process of NMT through the Lens of Classical SMT
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Elena Voita
+JobTitle#==#
+Organization#==#
+Abstract#==#Differently from the traditional statistical MT that decomposes the translation task into distinct separately learned components, neural machine translation uses a single neural network to model the entire translation process. Despite neural machine translation being de-facto standard, it is still not clear how NMT models acquire different competences over the course of training, and how this mirrors the different models in traditional SMT. In this work, we look at the competences related to three core SMT components and find that during training, NMT first focuses on learning target-side language modeling, then improves translation quality approaching word-by-word translation, and finally learns more complicated reordering patterns. We show that this behavior holds for several models and language pairs. Additionally, we explain how such an understanding of the training process can be useful in practice and, as an example, show how it can be used to improve vanilla non-autoregressive neural machine translation by guiding teacher model selection.
+Author{1}{Firstname}#=%=#Elena
+Author{1}{Lastname}#=%=#Voita
+Author{1}{Username}#=%=#lena-voita
+Author{1}{Email}#=%=#lena-voita@hotmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh / University of Amsterdam
+Author{2}{Firstname}#=%=#Rico
+Author{2}{Lastname}#=%=#Sennrich
+Author{2}{Username}#=%=#rsennrich
+Author{2}{Email}#=%=#sennrich@cl.uzh.ch
+Author{2}{Affiliation}#=%=#University of Zurich
+Author{3}{Firstname}#=%=#Ivan
+Author{3}{Lastname}#=%=#Titov
+Author{3}{Username}#=%=#titov
+Author{3}{Email}#=%=#titov@uva.nl
+Author{3}{Affiliation}#=%=#University of Edinburgh / University of Amsterdam
+
+==========

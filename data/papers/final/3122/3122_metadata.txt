@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#3122
+FinalPaperTitle#=%=#A surprisal--duration trade-off across and within the world's languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Tiago Pimentel
+JobTitle#==#
+Organization#==#University of Cambridge, United Kingdom
+Abstract#==#While there exist scores of natural languages, each with its unique features and idiosyncrasies, they all share a unifying theme: enabling human communication.
+We may thus reasonably predict that human cognition shapes how these languages evolve and are used.
+Assuming that the capacity to process information is roughly constant across human populations, we expect a surprisal--duration trade-off to arise both across and within languages.
+We analyse this trade-off using a corpus of 600 languages and, after controlling for several potential confounds, we find strong supporting evidence in both settings.
+Specifically, we find that, on average, phones are produced faster in languages where they are less surprising, and vice versa.
+Further, we confirm that more surprising phones are longer, on average, in 319 languages out of the 600.
+We thus conclude that there is strong evidence of a surprisal--duration trade-off in operation, both across and within the world's languages.
+Author{1}{Firstname}#=%=#Tiago
+Author{1}{Lastname}#=%=#Pimentel
+Author{1}{Username}#=%=#tpimentel
+Author{1}{Email}#=%=#tpimentelms@gmail.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Clara
+Author{2}{Lastname}#=%=#Meister
+Author{2}{Username}#=%=#cmeister
+Author{2}{Email}#=%=#clara.meister@inf.ethz.ch
+Author{2}{Affiliation}#=%=#ETH Zurich
+Author{3}{Firstname}#=%=#Elizabeth
+Author{3}{Lastname}#=%=#Salesky
+Author{3}{Username}#=%=#esalesky
+Author{3}{Email}#=%=#elizabeth.salesky@gmail.com
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Simone
+Author{4}{Lastname}#=%=#Teufel
+Author{4}{Username}#=%=#simone.teufel
+Author{4}{Email}#=%=#Simone.Teufel@cl.cam.ac.uk
+Author{4}{Affiliation}#=%=#Cambridge University
+Author{5}{Firstname}#=%=#Damián
+Author{5}{Lastname}#=%=#Blasi
+Author{5}{Username}#=%=#dblasi
+Author{5}{Email}#=%=#damianblasi@gmail.com
+Author{5}{Affiliation}#=%=#Harvard University and Max Planck Institute for the Science of Human History
+Author{6}{Firstname}#=%=#Ryan
+Author{6}{Lastname}#=%=#Cotterell
+Author{6}{Username}#=%=#rcotterell
+Author{6}{Email}#=%=#ryan.cotterell@gmail.com
+Author{6}{Affiliation}#=%=#ETH Zürich
+
+==========

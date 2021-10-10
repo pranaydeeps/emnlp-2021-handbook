@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1953
+FinalPaperTitle#=%=#Learn to Copy from the Copying History: Correlational Copy Network for Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haoran Li
+JobTitle#==#
+Organization#==#
+Abstract#==#The copying mechanism has had considerable success in abstractive summarization, facilitating models to directly copy words from the input text to the output summary. Existing works mostly employ encoder-decoder attention, which applies copying at each time step independently of the former ones. However, this may sometimes lead to incomplete copying. In this paper, we propose a novel copying scheme named Correlational Copying Network (CoCoNet) that enhances the standard copying mechanism by keeping track of the copying history. It thereby takes advantage of prior copying distributions and, at each time step, explicitly encourages the model to copy the input word that is relevant to the previously copied one. In addition, we strengthen CoCoNet through pre-training with suitable corpora that simulate the copying behaviors. Experimental results show that CoCoNet can copy more accurately and achieves new state-of-the-art performances on summarization benchmarks, including CNN/DailyMail for news summarization and SAMSum for dialogue summarization. The code and checkpoint will be publicly available.
+Author{1}{Firstname}#=%=#Haoran
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#hrli
+Author{1}{Email}#=%=#lihaoran24@jd.com
+Author{1}{Affiliation}#=%=#JD AI Research
+Author{2}{Firstname}#=%=#Song
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Username}#=%=#xusong
+Author{2}{Email}#=%=#xusong.vip@gmail.com
+Author{2}{Affiliation}#=%=#JD AI research
+Author{3}{Firstname}#=%=#Peng
+Author{3}{Lastname}#=%=#Yuan
+Author{3}{Username}#=%=#panghu
+Author{3}{Email}#=%=#17181347@qq.com
+Author{3}{Affiliation}#=%=#JD AI Research
+Author{4}{Firstname}#=%=#Yujia
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#jessicayujia
+Author{4}{Email}#=%=#yujia.wang@berkeley.edu
+Author{4}{Affiliation}#=%=#University of California, Berkeley
+Author{5}{Firstname}#=%=#Youzheng
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#yzwu
+Author{5}{Email}#=%=#erzhengcn@gmail.com
+Author{5}{Affiliation}#=%=#JD AI Research
+Author{6}{Firstname}#=%=#Xiaodong
+Author{6}{Lastname}#=%=#He
+Author{6}{Username}#=%=#xiaohe.ai
+Author{6}{Email}#=%=#xiaohe.ai@outlook.com
+Author{6}{Affiliation}#=%=#JD AI Research
+Author{7}{Firstname}#=%=#Bowen
+Author{7}{Lastname}#=%=#Zhou
+Author{7}{Username}#=%=#bowenzhou
+Author{7}{Email}#=%=#zhoubw@gmail.com
+Author{7}{Affiliation}#=%=#JD.Com AI Research
+
+==========

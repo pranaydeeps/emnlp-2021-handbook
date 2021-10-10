@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1015
+FinalPaperTitle#=%=#A Simple and Effective Method To Eliminate the Self Language Bias in Multilingual Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ziyi Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#Language agnostic and semantic-language information isolation is an emerging research direction for multilingual representations models. We explore this problem from a novel angle of geometric algebra and semantic space. A simple but highly effective method "Language Information Removal (LIR)" factors out language identity information from semantic related components in multilingual representations pre-trained on multi-monolingual data. A post-training and model-agnostic method, LIR only uses simple linear operations, e.g. matrix factorization and orthogonal projection. LIR reveals that for weak-alignment multilingual systems, the principal components of semantic spaces primarily encodes language identity information. We first evaluate the LIR on a cross-lingual question answer retrieval task (LAReQA), which requires the strong alignment for the multilingual embedding space. Experiment shows that LIR is highly effectively on this task, yielding almost 100% relative improvement in MAP for weak-alignment models. We then evaluate the LIR on Amazon Reviews and XEVAL dataset, with the observation that removing language information is able to improve the cross-lingual transfer performance.
+Author{1}{Firstname}#=%=#Ziyi
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#ziyi
+Author{1}{Email}#=%=#yangziyi99@gmail.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Yinfei
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#yinfeiy
+Author{2}{Email}#=%=#yangyin7@gmail.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Cer
+Author{3}{Username}#=%=#danielcer
+Author{3}{Email}#=%=#danielcer@acm.org
+Author{3}{Affiliation}#=%=#Google Research; University of California at Berkeley
+Author{4}{Firstname}#=%=#Eric
+Author{4}{Lastname}#=%=#Darve
+Author{4}{Username}#=%=#eric.darve
+Author{4}{Email}#=%=#darve@stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+
+==========

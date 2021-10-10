@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4493
+FinalPaperTitle#=%=#A Multi-label Multi-hop Relation Detection Model based on Relation-aware Sequence Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#LINHAI ZHANG
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-hop relation detection in Knowledge Base Question Answering (KBQA) aims at retrieving the relation path starting from the topic entity to the answer node based on a given question, where the relation path may comprise multiple relations. Most of the existing methods treat it as a single-label learning problem while ignoring the fact that for some complex questions, there exist multiple correct relation paths in knowledge bases. Therefore, in this paper, multi-hop relation detection is considered as a multi-label learning problem. However, performing multi-label multi-hop relation detection is challenging since the numbers of both the labels and the hops are unknown. To tackle this challenge, multi-label multi-hop relation detection is formulated as a sequence generation task. A relation-aware sequence relation generation model is proposed to solve the problem in an end-to-end manner. Experimental results show the effectiveness of the proposed method for relation detection and KBQA.
+Author{1}{Firstname}#=%=#Linhai
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#lzhang472
+Author{1}{Email}#=%=#lzhang472@seu.edu.cn
+Author{1}{Affiliation}#=%=#Southeast University
+Author{2}{Firstname}#=%=#Deyu
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Username}#=%=#d.zhou
+Author{2}{Email}#=%=#d.zhou@seu.edu.cn
+Author{2}{Affiliation}#=%=#Southeast University
+Author{3}{Firstname}#=%=#Chao
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Username}#=%=#littletomato
+Author{3}{Email}#=%=#c.lin@seu.edu.cn
+Author{3}{Affiliation}#=%=#Southeast university at Nanjing
+Author{4}{Firstname}#=%=#Yulan
+Author{4}{Lastname}#=%=#He
+Author{4}{Username}#=%=#yulanhe
+Author{4}{Email}#=%=#yulan.he@warwick.ac.uk
+Author{4}{Affiliation}#=%=#University of Warwick
+
+==========

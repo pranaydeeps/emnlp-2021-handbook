@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Shrinking Bigfoot: Reducing wav2vec 2.0 footprint
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Zilun Peng
+JobTitle#==#
+Organization#==#Georgian.io
+Abstract#==#Wav2vec 2.0 is a state-of-the-art speech recognition model which maps speech audio waveforms into latent representations. The largest version of wav2vec 2.0 contains 317 million parameters. Hence, the inference latency of wav2vec 2.0 will be a bottleneck in production, leading to high costs and a significant environmental footprint. To improve wav2vec's applicability to a production setting, we explore multiple model compression methods borrowed from the domain of large language models. Using a teacher-student approach, we distilled the knowledge from the original wav2vec 2.0 model into a student model, which is 2 times faster, 4.8 times smaller than the original model. More importantly, the student model is 2 times more energy efficient than the original model in terms of CO2 emission. This increase in performance is accomplished with only a 7% degradation in word error rate (WER). Our quantized model is 3.6 times smaller than the original model, with only a 0.1% degradation in WER. To the best of our knowledge, this is the first work that compresses wav2vec 2.0.
+Author{1}{Firstname}#=%=#Zilun
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Username}#=%=#zilunpeng123
+Author{1}{Email}#=%=#zilunpeng@gmail.com
+Author{1}{Affiliation}#=%=#Georgian.io
+Author{2}{Firstname}#=%=#Akshay
+Author{2}{Lastname}#=%=#Budhkar
+Author{2}{Email}#=%=#akshay@georgian.io
+Author{2}{Affiliation}#=%=#Georgian.io
+Author{3}{Firstname}#=%=#Ilana
+Author{3}{Lastname}#=%=#Tuil
+Author{3}{Email}#=%=#ilana.tuil@chorus.ai
+Author{3}{Affiliation}#=%=#Chorus.ai
+Author{4}{Firstname}#=%=#Jason
+Author{4}{Lastname}#=%=#Levy
+Author{4}{Email}#=%=#jason@chorus.ai
+Author{4}{Affiliation}#=%=#Chorus.ai
+Author{5}{Firstname}#=%=#Parinaz
+Author{5}{Lastname}#=%=#Sobhani
+Author{5}{Email}#=%=#parinaz@georgian.io
+Author{5}{Affiliation}#=%=#Georgian.io
+Author{6}{Firstname}#=%=#Raphael
+Author{6}{Lastname}#=%=#Cohen
+Author{6}{Email}#=%=#raphael@chorus.ai
+Author{6}{Affiliation}#=%=#Chorus.ai
+Author{7}{Firstname}#=%=#Jumana
+Author{7}{Lastname}#=%=#Nassour
+Author{7}{Email}#=%=#jumana.nassour@chorus.ai
+Author{7}{Affiliation}#=%=#Chorus.ai
+
+==========

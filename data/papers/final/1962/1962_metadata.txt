@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1962
+FinalPaperTitle#=%=#Is BERT a Cross-Disciplinary Knowledge Learner? A Surprising Finding of Pre-trained Models' Transferability
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Wei-Tsung Kao
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper investigates whether the power of the models pre-trained on text data, such as BERT, can be transferred to general token sequence classification applications. To verify pre-trained models' transferability, we test the pre-trained models on text classification tasks with meanings of tokens mismatches, and real-world non-text token sequence classification data, including amino acid, DNA, and music. We find that even on non-text data, the models pre-trained on text converge faster, perform better than the randomly initialized models, and only slightly worse than the models using task-specific knowledge. We also find that the representations of the text and non-text pre-trained models share non-trivial similarities.
+Author{1}{Firstname}#=%=#Wei-Tsung
+Author{1}{Lastname}#=%=#Kao
+Author{1}{Username}#=%=#wei-tsung
+Author{1}{Email}#=%=#r09942067@ntu.edu.tw
+Author{1}{Affiliation}#=%=#National Taiwan University
+Author{2}{Firstname}#=%=#Hung-yi
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Username}#=%=#tlkagk
+Author{2}{Email}#=%=#tlkagkb93901106@gmail.com
+Author{2}{Affiliation}#=%=#National Taiwan University (NTU)
+
+==========

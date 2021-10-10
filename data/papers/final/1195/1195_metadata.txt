@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1195
+FinalPaperTitle#=%=#Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Hongzhan Lin
+JobTitle#==#
+Organization#==#
+Abstract#==#Rumors are rampant in the era of social media. Conversation structures provide valuable clues to differentiate between real and fake claims. However, existing rumor detection methods are either limited to the strict relation of user responses or oversimplify the conversation structure. In this study, to substantially reinforces the interaction of user opinions while alleviating the negative impact imposed by irrelevant posts, we first represent the conversation thread as an undirected interaction graph. We then present a Claim-guided Hierarchical Graph Attention Network for rumor classification, which enhances the representation learning for responsive posts considering the entire social contexts and attends over the posts that can semantically infer the target claim. Extensive experiments on three Twitter datasets demonstrate that our rumor detection method achieves much better performance than state-of-the-art methods and exhibits a superior capacity for detecting rumors at early stages.
+Author{1}{Firstname}#=%=#Hongzhan
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#navigator
+Author{1}{Email}#=%=#linhongzhan@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Jing
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#majing
+Author{2}{Email}#=%=#mmjjblue@gmail.com
+Author{2}{Affiliation}#=%=#Hong Kong Baptist University
+Author{3}{Firstname}#=%=#Mingfei
+Author{3}{Lastname}#=%=#Cheng
+Author{3}{Username}#=%=#snowbird
+Author{3}{Email}#=%=#mingfeicheng@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Zhiwei
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Username}#=%=#zwyang
+Author{4}{Email}#=%=#yangzw18@mails.jlu.edu.cn
+Author{4}{Affiliation}#=%=#College of Computer Science and Technology, Jilin University
+Author{5}{Firstname}#=%=#Liangliang
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Username}#=%=#llchen
+Author{5}{Email}#=%=#outside@bupt.edu.cn
+Author{5}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{6}{Firstname}#=%=#Guang
+Author{6}{Lastname}#=%=#Chen
+Author{6}{Username}#=%=#chenguang
+Author{6}{Email}#=%=#chenguang@bupt.edu.cn
+Author{6}{Affiliation}#=%=#BUPT
+
+==========

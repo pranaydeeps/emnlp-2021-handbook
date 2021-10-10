@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1903
+FinalPaperTitle#=%=#Speaker Turn Modeling for Dialogue Act Classiﬁcation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Zihao He
+JobTitle#==#
+Organization#==#USC Institute for Creative Technologies
+12015 Waterfront Drive
+Playa Vista, CA 90094-2536, USA
+Abstract#==#Dialogue Act (DA) classification is the task of classifying utterances with respect to the function they serve in a dialogue. Existing approaches to DA classification model utterances without incorporating the turn changes among speakers throughout the dialogue, therefore treating it no different than non-interactive written text. In this paper, we propose to integrate the turn changes in conversations among speakers when modeling DAs. Specifically, we learn conversation-invariant speaker turn embeddings to represent the speaker turns in a conversation; the learned speaker turn embeddings are then merged with the utterance embeddings for the downstream task of DA classification. With this simple yet effective mechanism, our model is able to capture the semantics from the dialogue content while accounting for different speaker turns in a conversation. Validation on three benchmark public datasets demonstrates superior performance of our model.
+Author{1}{Firstname}#=%=#Zihao
+Author{1}{Lastname}#=%=#He
+Author{1}{Username}#=%=#haoxiaohao
+Author{1}{Email}#=%=#zihaoh@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Leili
+Author{2}{Lastname}#=%=#Tavabi
+Author{2}{Username}#=%=#leilitavabi
+Author{2}{Email}#=%=#ltavabi@ict.usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Kristina
+Author{3}{Lastname}#=%=#Lerman
+Author{3}{Username}#=%=#lerman
+Author{3}{Email}#=%=#lerman@isi.edu
+Author{3}{Affiliation}#=%=#USC Information Sciences Institute
+Author{4}{Firstname}#=%=#Mohammad
+Author{4}{Lastname}#=%=#Soleymani
+Author{4}{Email}#=%=#soleymani@ict.usc.edu
+Author{4}{Affiliation}#=%=#University of Southern California
+
+==========

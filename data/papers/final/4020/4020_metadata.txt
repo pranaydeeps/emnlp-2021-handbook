@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#4020
+FinalPaperTitle#=%=#{N}ews{CLIP}pings: {A}utomatic {G}eneration of {O}ut-of-{C}ontext {M}ultimodal {M}edia
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Grace Luo
+JobTitle#==#
+Organization#==#University of California Berkeley
+Berkeley, CA 94704
+Abstract#==#Online misinformation is a prevalent societal issue, with adversaries relying on tools ranging from cheap fakes to sophisticated deep fakes. We are motivated by the threat scenario where an image is used out of context to support a certain narrative. While some prior datasets for detecting image-text inconsistency generate samples via text manipulation, we propose a dataset where both image and text are unmanipulated but mismatched. We introduce several strategies for automatically retrieving convincing images for a given caption, capturing cases with inconsistent entities or semantic context. Our large-scale automatically generated the NewsCLIPpings Dataset: (1) demonstrates that machine-driven image repurposing is now a realistic threat, and (2) provides samples that represent challenging instances of mismatch between text and image in news that are able to mislead humans. We benchmark several state-of-the-art multimodal models on our dataset and analyze their performance across different pretraining domains and visual backbones.
+Author{1}{Firstname}#=%=#Grace
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Username}#=%=#g-luo
+Author{1}{Email}#=%=#graceluo@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Trevor
+Author{2}{Lastname}#=%=#Darrell
+Author{2}{Username}#=%=#trevordarrell
+Author{2}{Email}#=%=#trevordarrell@gmail.com
+Author{2}{Affiliation}#=%=#UC Berkeley
+Author{3}{Firstname}#=%=#Anna
+Author{3}{Lastname}#=%=#Rohrbach
+Author{3}{Username}#=%=#arohrbach
+Author{3}{Email}#=%=#anna.rohrbach@berkeley.edu
+Author{3}{Affiliation}#=%=#UC Berkeley
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Semantic Categorization of Social Knowledge for Commonsense Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Gengyu Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Large pre-trained language models (PLMs) have led to great success on various commonsense question answering (QA) tasks in an end-to-end fashion. However, little attention has been paid to what commonsense knowledge is needed to deeply characterize these QA tasks. In this work, we proposed to categorize the semantics needed for these tasks using the SocialIQA as an example. Building upon our labeled social knowledge categories dataset on top of SocialIQA, we further train neural QA models to incorporate such social knowledge categories and relation information from a knowledge base. Unlike previous work, we observe our models with semantic categorizations of social knowledge can achieve comparable performance with a relatively simple model and smaller size compared to other complex approaches.
+Author{1}{Firstname}#=%=#Gengyu
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#posuer
+Author{1}{Email}#=%=#gengyu.wang@columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Xiaochen
+Author{2}{Lastname}#=%=#Hou
+Author{2}{Username}#=%=#xiaochenhou
+Author{2}{Email}#=%=#houxiaochen1994@hotmail.com
+Author{2}{Affiliation}#=%=#JD.com
+Author{3}{Firstname}#=%=#Diyi
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Username}#=%=#diyiy
+Author{3}{Email}#=%=#diyi.yang@cc.gatech.edu
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+Author{4}{Firstname}#=%=#Kathleen
+Author{4}{Lastname}#=%=#McKeown
+Author{4}{Username}#=%=#kathy
+Author{4}{Email}#=%=#kathy@cs.columbia.edu
+Author{4}{Affiliation}#=%=#Columbia University and Amazon (Amazon Scholar)
+Author{5}{Firstname}#=%=#Jing
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Username}#=%=#jinghuang
+Author{5}{Email}#=%=#jing.huang@jd.com
+Author{5}{Affiliation}#=%=#JD AI Research
+
+==========

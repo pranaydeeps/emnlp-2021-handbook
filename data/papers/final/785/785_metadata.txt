@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#785
+FinalPaperTitle#=%=#Evaluating the Morphosyntactic Well-formedness of Generated Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Adithya Pratapa
+JobTitle#==#
+Organization#==#
+Abstract#==#Text generation systems are ubiquitous in natural language processing applications. However, evaluation of these systems remains a challenge, especially in multilingual settings. In this paper, we propose L'AMBRE -- a metric to evaluate the morphosyntactic well-formedness of text using its dependency parse and morphosyntactic rules of the language. We present a way to automatically extract various rules governing morphosyntax directly from dependency treebanks. To tackle the noisy outputs from text generation systems, we propose a simple methodology to train robust parsers. We show the effectiveness of our metric on the task of machine translation through a diachronic study of systems translating into morphologically-rich languages.
+Author{1}{Firstname}#=%=#Adithya
+Author{1}{Lastname}#=%=#Pratapa
+Author{1}{Username}#=%=#adithyapratapa
+Author{1}{Email}#=%=#adithyapratapa@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Antonios
+Author{2}{Lastname}#=%=#Anastasopoulos
+Author{2}{Username}#=%=#aanastas
+Author{2}{Email}#=%=#antonis@gmu.edu
+Author{2}{Affiliation}#=%=#George Mason University
+Author{3}{Firstname}#=%=#Shruti
+Author{3}{Lastname}#=%=#Rijhwani
+Author{3}{Username}#=%=#shrutirijhwani
+Author{3}{Email}#=%=#srijhwan@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Aditi
+Author{4}{Lastname}#=%=#Chaudhary
+Author{4}{Username}#=%=#aditi138
+Author{4}{Email}#=%=#aschaudh@andrew.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#David R.
+Author{5}{Lastname}#=%=#Mortensen
+Author{5}{Username}#=%=#davidmortensen
+Author{5}{Email}#=%=#dmortens@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{6}{Firstname}#=%=#Graham
+Author{6}{Lastname}#=%=#Neubig
+Author{6}{Username}#=%=#gneubig
+Author{6}{Email}#=%=#gneubig@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+Author{7}{Firstname}#=%=#Yulia
+Author{7}{Lastname}#=%=#Tsvetkov
+Author{7}{Username}#=%=#yulia.tsvetkov
+Author{7}{Email}#=%=#yuliats@cs.washington.edu
+Author{7}{Affiliation}#=%=#University of Washington
+
+==========

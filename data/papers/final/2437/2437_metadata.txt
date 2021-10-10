@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#2437
+FinalPaperTitle#=%=#Monitoring geometrical properties of word embeddings for detecting the emergence of new topics.
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Clément Christophe
+JobTitle#==#
+Organization#==#EDF R&D
+Boulevard Gaspard Monge, Palaiseau, France
+Abstract#==#Slow emerging topic detection is a task between event detection, where we aggregate behaviors of different words on short period of time, and language evolution, where we monitor their long term evolution. In this work, we tackle the problem of early detection of slowly emerging new topics. To this end, we gather evidence of weak signals at the word level. We propose to monitor the behavior of words representation in an embedding space and use one of its geometrical properties to characterize the emergence of topics. As evaluation is typically hard for this kind of task, we present a framework for quantitative evaluation and show positive results that outperform state-of-the-art methods. Our method is evaluated on two public datasets of press and scientific articles.
+Author{1}{Firstname}#=%=#Clément
+Author{1}{Lastname}#=%=#Christophe
+Author{1}{Username}#=%=#clement.christophe
+Author{1}{Email}#=%=#cle.christophe@gmail.com
+Author{1}{Affiliation}#=%=#Université Lyon 2
+Author{2}{Firstname}#=%=#Julien
+Author{2}{Lastname}#=%=#Velcin
+Author{2}{Username}#=%=#julien.velcin
+Author{2}{Email}#=%=#julien.velcin@univ-lyon2.fr
+Author{2}{Affiliation}#=%=#University of Lyon (ERIC, Lyon 2)
+Author{3}{Firstname}#=%=#Jairo
+Author{3}{Lastname}#=%=#Cugliari
+Author{3}{Username}#=%=#jairocugliari
+Author{3}{Email}#=%=#jairo.cugliari@univ-lyon2.fr
+Author{3}{Affiliation}#=%=#Université Lumière Lyon 2
+Author{4}{Firstname}#=%=#Manel
+Author{4}{Lastname}#=%=#BOUMGHAR
+Author{4}{Username}#=%=#manelboumghar
+Author{4}{Email}#=%=#manel.boumghar@edf.fr
+Author{4}{Affiliation}#=%=#EDF R&D
+Author{5}{Firstname}#=%=#Philippe
+Author{5}{Lastname}#=%=#Suignard
+Author{5}{Username}#=%=#suignard
+Author{5}{Email}#=%=#philippe.suignard@edf.fr
+Author{5}{Affiliation}#=%=#EDF
+
+==========

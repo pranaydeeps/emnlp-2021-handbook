@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1168
+FinalPaperTitle#=%=#SgSum:Transforming Multi-document Summarization into Sub-graph Selection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Moye Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Most of existing extractive multi-document summarization (MDS) methods score each sentence individually and extract salient sentences one by one to compose a summary, which have two main drawbacks: (1) neglecting both the intra and cross-document relations between sentences; (2) neglecting the coherence and conciseness of the whole summary. In this paper, we propose a novel MDS framework (SgSum) to formulate the MDS task as a sub-graph selection problem, in which source documents are regarded as a relation graph of sentences (e.g., similarity graph or discourse graph) and the candidate summaries are its sub-graphs. Instead of selecting salient sentences, SgSum selects a salient sub-graph from the relation graph as the summary. Comparing with traditional methods, our method has two main advantages: (1) the relations between sentences are captured by modeling both the graph structure of the whole document set and the candidate sub-graphs; (2) directly outputs an integrate summary in the form of sub-graph which is more informative and coherent. Extensive experiments on MultiNews and DUC datasets show that our proposed method brings substantial improvements over several strong baselines. Human evaluation results also demonstrate that our model can produce significantly more coherent and informative summaries compared with traditional MDS methods. Moreover, the proposed architecture has strong transfer ability from single to multi-document input, which can reduce the resource bottleneck in MDS tasks.
+Author{1}{Firstname}#=%=#Moye
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#chenmoye
+Author{1}{Email}#=%=#chenmoye@baidu.com
+Author{1}{Affiliation}#=%=#Baidu
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#weili_ictkg
+Author{2}{Email}#=%=#liwei85@baidu.com
+Author{2}{Affiliation}#=%=#Baidu Inc.
+Author{3}{Firstname}#=%=#Jiachen
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#hugepanda88
+Author{3}{Email}#=%=#liujiachen@baidu.com
+Author{3}{Affiliation}#=%=#Baidu
+Author{4}{Firstname}#=%=#Xinyan
+Author{4}{Lastname}#=%=#Xiao
+Author{4}{Username}#=%=#xxy
+Author{4}{Email}#=%=#xiaoxinyan@baidu.com
+Author{4}{Affiliation}#=%=#Baidu Inc.
+Author{5}{Firstname}#=%=#Hua
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#wu_hua
+Author{5}{Email}#=%=#wu_hua@baidu.com
+Author{5}{Affiliation}#=%=#Baidu
+Author{6}{Firstname}#=%=#Haifeng
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Username}#=%=#wanghaifeng
+Author{6}{Email}#=%=#wanghaifeng@baidu.com
+Author{6}{Affiliation}#=%=#Baidu
+
+==========

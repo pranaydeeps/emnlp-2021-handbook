@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2170
+FinalPaperTitle#=%=#Improving the Quality Trade-Off for Neural Machine Translation Multi-Domain Adaptation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Eva Hasler
+JobTitle#==#
+Organization#==#
+Abstract#==#Building neural machine translation systems to perform well on a specific target domain is a well-studied problem. Optimizing system performance for multiple, diverse target domains however remains a challenge. We study this problem in an adaptation setting where the goal is to preserve the existing system quality while incorporating data for domains that were not the focus of the original translation system. We find that we can improve over the performance trade-off offered by Elastic Weight Consolidation with a relatively simple data mixing strategy. At comparable performance on the new domains, catastrophic forgetting is mitigated significantly on strong WMT baselines. Combining both approaches improves the Pareto frontier on this task.
+Author{1}{Firstname}#=%=#Eva
+Author{1}{Lastname}#=%=#Hasler
+Author{1}{Username}#=%=#ehasler
+Author{1}{Email}#=%=#evahasler@gmail.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Tobias
+Author{2}{Lastname}#=%=#Domhan
+Author{2}{Username}#=%=#domhant
+Author{2}{Email}#=%=#domhant@amazon.de
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Jonay
+Author{3}{Lastname}#=%=#Trenous
+Author{3}{Username}#=%=#jtrenous
+Author{3}{Email}#=%=#jtrenous@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Ke
+Author{4}{Lastname}#=%=#Tran
+Author{4}{Username}#=%=#ketran
+Author{4}{Email}#=%=#ketranmanh@gmail.com
+Author{4}{Affiliation}#=%=#Amazon
+Author{5}{Firstname}#=%=#Bill
+Author{5}{Lastname}#=%=#Byrne
+Author{5}{Username}#=%=#wjb31
+Author{5}{Email}#=%=#bill.byrne@eng.cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+Author{6}{Firstname}#=%=#Felix
+Author{6}{Lastname}#=%=#Hieber
+Author{6}{Username}#=%=#felix
+Author{6}{Email}#=%=#fhieber@amazon.de
+Author{6}{Affiliation}#=%=#Amazon
+
+==========

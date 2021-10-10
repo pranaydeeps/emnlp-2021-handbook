@@ -1,0 +1,1208 @@
+% This must be in the first 5 lines to tell arXiv to use pdfLaTeX, which is strongly recommended.
+\pdfoutput=1
+% In particular, the hyperref package requires pdfLaTeX in order to break URLs across lines.
+
+\documentclass[11pt]{article}
+
+% Remove the "review" option to generate the final version.
+\usepackage[]{emnlp2021}
+
+% Standard package includes
+\usepackage{times}
+\usepackage{latexsym}
+
+% For proper rendering and hyphenation of words containing Latin characters (including in bib files)
+\usepackage[T1]{fontenc}
+% For Vietnamese characters
+% \usepackage[T5]{fontenc}
+% See https://www.latex-project.org/help/documentation/encguide.pdf for other character sets
+
+% This assumes your files are encoded as UTF8
+\usepackage[utf8]{inputenc}
+
+\usepackage[whole]{bxcjkjatype}
+
+% This is not strictly necessary, and may be commented out,
+% but it will improve the layout of the manuscript,
+% and will typically save some space.
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{multirow}
+\usepackage{color}
+\usepackage{gb4ea}
+\newcommand{\todo}[1]{\textcolor{black}{#1}}
+\newcommand{\km}[1]{\textcolor{black}{#1}}
+
+
+\newcommand{\HLabel}[1]{\textsc{#1}}
+\newcommand{\NameDesc}[2]{
+  \begin{tabular}{p{16em}}
+  #1 \\
+  #2
+  \end{tabular}
+}
+\newcommand{\jaEmph}[1]{\underline{#1}}
+
+\newcommand{\PHpair}[7]{
+   \begin{tabular}{ll}
+   \multicolumn{2}{l}{Phenomena: #1} \\
+   \textit{P}: & #2 \\
+   & #3 \\
+   & (\textit{#4}) \\
+   \textit{H}: & #5 \\
+   & #6 \\
+   & (\textit{#7}) \\
+   \end{tabular}
+}
+
+\newcommand{\Gloss}[3]{
+\begin{tabular}{ll}
+#1\\
+#2\\
+(\textit{#3})
+\end{tabular}}
+
+\newcommand{\Premise}[5]{
+\textit{P}: #1 &
+\Gloss{#2}{#3}{#4} &
+%\begin{tabular}{ll}
+%Phenomena: \\
+#5
+%\end{tabular}
+}
+
+\newcommand{\Entail}[5]{
+$\Rightarrow$ \textit{H}$_{#1}$: #2 &
+#3 (\textit{#4}) &
+#5
+}
+
+\newcommand{\NonEntail}[5]{
+$\not\Rightarrow$ \textit{H}$_{#1}$: #2 &
+#3 (\textit{#4}) &
+#5
+}
+
+\newcommand{\EntailLong}[5]{
+$\Rightarrow$ \textit{H}$_{#1}$: #2 &
+\begin{tabular}{ll}
+#3 \\
+(\textit{#4}) 
+\end{tabular} &
+#5
+}
+
+\newcommand{\NonEntailLong}[5]{
+$\not\Rightarrow$ \textit{H}$_{#1}$: #2 &
+\begin{tabular}{ll}
+#3 \\
+(\textit{#4}) 
+\end{tabular} &
+#5
+}
+
+
+\newcommand{\fulloverlap}{\textsc{full-overlap}}
+\newcommand{\ordered}{\textsc{order-subset}}
+\newcommand{\mixed}{\textsc{mixed-subset}}
+\newcommand{\subsequence}{\textsc{subsequence}}
+\newcommand{\constituent}{\textsc{constituent}}
+\newcommand{\NPoneApp}[1]{\textcolor{blue}{#1}}
+\newcommand{\NPtwoApp}[1]{\textcolor{red}{#1}}
+\newcommand{\NPthreeApp}[1]{\textcolor{brown!70!black}{#1}}
+\newcommand{\IVApp}[1]{\textcolor{green!60!black}{#1}}
+\newcommand{\TVoApp}[1]{\textcolor{orange}{#1}}
+\newcommand{\TVooApp}[1]{\textcolor{gray}{#1}}
+
+
+
+\newcommand{\NPone}[1]{\textcolor{blue}{#1}}
+\newcommand{\NPtwo}[1]{\textcolor{red}{#1}}
+\newcommand{\NPthree}[1]{\textcolor{brown!70!black}{#1}}
+\newcommand{\IV}[1]{\textcolor{green!60!black}{#1}}
+\newcommand{\TVo}[1]{\textcolor{orange}{#1}}
+\newcommand{\TVoo}[1]{\textcolor{gray}{#1}}
+% \newcommand{\modelcite}[1]{\citeauthor{#1},\ \citeyear{#1}}
+
+% If the title and author information does not fit in the area allocated, uncomment the following
+%
+%\setlength\titlebox{<dim>}
+%
+% and set <dim> to something 5cm or larger.
+
+\title{Assessing the Generalization Capacity of Pre-trained Language Models\\through Japanese Adversarial Natural Language Inference}
+
+
+% Author information can be set in various styles:
+% For several authors from the same institution:
+% \author{Author 1 \and ... \and Author n \\
+%         Address line \\ ... \\ Address line}
+% if the names do not fit well on one line use
+%         Author 1 \\ {\bf Author 2} \\ ... \\ {\bf Author n} \\
+% For authors from different institutions:
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \And  ... \And
+%         Author n \\ Address line \\ ... \\ Address line}
+% To start a seperate ``row'' of authors use \AND, as in
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \AND
+%         Author 2 \\ Address line \\ ... \\ Address line \And
+%         Author 3 \\ Address line \\ ... \\ Address line}
+\author{
+  \parbox{\linewidth}{\centering
+   Hitomi Yanaka$^1$ and
+   Koji Mineshima$^2$
+  }
+  \\
+   $^1$\mbox{\rm The University of Tokyo,}
+   $^2$\mbox{\rm Keio University}
+  \\
+  \parbox{\linewidth}{\centering
+   {\tt hyanaka@is.s.u-tokyo.ac.jp},
+   {\tt minesima@abelard.flet.keio.ac.jp}
+   }
+}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Despite the success of multilingual pre-trained language models, it remains unclear to what extent these models have human-like generalization capacity across languages. The aim of this study is to investigate the out-of-distribution generalization of pre-trained language models through Natural Language Inference (NLI) in Japanese, the typological properties of which are different from those of English. We introduce a synthetically generated Japanese NLI dataset, called the Japanese Adversarial NLI (JaNLI) dataset, which is inspired by the English HANS dataset and is designed to require understanding of Japanese linguistic phenomena and illuminate the vulnerabilities of models. Through a series of experiments to evaluate the generalization performance of both Japanese and multilingual BERT models, we demonstrate that there is much room to improve current models trained on Japanese NLI tasks. Furthermore, a comparison of human performance and model performance on the different types of garden-path sentences in the JaNLI dataset shows that structural phenomena that ease interpretation of garden-path sentences for human readers do not help models in the same way, highlighting a difference between human readers and the models.
+\end{abstract}
+
+\section{Introduction}
+\label{sec:intro}
+Generalization is one of the essential components that account for the understanding of language.
+In recent years, pre-trained 
+models such as BERT~\cite{devlin-etal-2019-bert} have provided high performance on both English
+benchmarks~\cite{NIPS2019_8589} and multilingual
+benchmarks~\cite{liang-etal-2020-xglue}, suggesting that they might have some cross-lingual generalization capacity.
+Yet, while these models have achieved remarkable performance on an in-distribution test set (i.e., training and test splits are given as the same distribution), several previous studies have pointed out that the models fail on out-of-distribution test sets (i.e., examples drawn from a distribution different from that of the training set)~\cite{marvin-linzen-2018-targeted,mccoy-etal-2019-right} and that the models varied widely in terms of the generalization performance~\cite{mccoy-etal-2020-berts,yanaka-etal-2020-neural}.
+It remains an open question to what extent pre-trained models can realize human-like generalization ability.
+
+A standard task for assessing whether pre-trained language models possess human-like language understanding is Natural Language Inference (NLI),
+which is the task of judging whether a premise sentence entails a hypothesis sentence. Recently, a number
+of studies have sought to probe the generalization performance of models and detected their fallible heuristics with various NLI datasets~\cite{naik-etal-2018-stress,glockner-etal-2018-breaking,mccoy-etal-2019-right,rozen-etal-2019-diversify,goodwin-etal-2020-probing,
+yanaka-etal-2021-exploring}.
+However, these studies tend to focus on English NLI datasets, and independent analysis in multiple languages would be desirable.
+In response to this challenge, the study of
+the out-of-distribution generalization ability of NLI models from cross-lingual perspectives has begun to be explored~\cite{hu-etal-2021-investigating} 
+but is not yet fully developed.
+
+The aim of this paper is to investigate to what extent pre-trained language models
+have generalization capacity in Japanese NLI.
+For this purpose, we present a Japanese linguistically challenging NLI dataset, called the Japanese Adversarial NLI (JaNLI) dataset.\footnote{The dataset will be publicly available at \url{https://github.com/verypluming/JaNLI}.}
+This dataset is inspired by the English HANS dataset~\cite{mccoy-etal-2019-right}
+and is designed to cover a variety of linguistic phenomena specific to Japanese,
+\todo{a language typologically different from English~\cite{hinds1986,shibatani1990languages}}.
+Generating inference examples in a controlled way
+allows us to analyze whether language models are sensitive to
+factors such as word order and syntactic structure in Japanese.
+
+\todo{We present a series of experiments with the JaNLI dataset to evaluate the generalization performance of Japanese and multilingual BERT models.
+In addition, we compare human performance with model performance.
+Our experiments shed light on several shortcomings of the models
+and highlight the following challenges for cross-lingual generalization in NLI:
+\begin{itemize}
+    \item Japanese and multilingual NLI models trained on Japanese NLI datasets other than JaNLI behave differently across different classes of sentences. In particular, cross-dataset generalization on non-entailing pairs is weaker on non-entailing pairs than on entailing pairs (Section~\ref{ssec:baseline}).
+    \item Data augmentation with a small subset of the JaNLI dataset can help improve model performance, but the accuracy is not increased for some linguistic phenomena (Section~\ref{ssec:augment}).
+    \item Whereas humans can achieve near-perfect performance on the JaNLI dataset, there is substantial room for improving the models for Japanese NLI. In addition, structural phenomena that ease the interpretation of garden-path sentences for human readers do not help the models in the same way (Section~\ref{ssec:human}).
+\end{itemize}
+}
+
+
+
+\section{Related Work}
+\label{sec:related}
+Previous studies have probed pre-trained language models on various NLI tasks and discovered that generalization capacity is limited for understanding diverse linguistic phenomena~\cite{naik-etal-2018-stress,glockner-etal-2018-breaking,mccoy-etal-2019-right,rozen-etal-2019-diversify,goodwin-etal-2020-probing,yanaka-etal-2020-neural,hu-etal-2021-investigating,yanaka-etal-2021-exploring} and annotation artifacts~\cite{gururangan-etal-2018-annotation} in standard English NLI datasets such as the SNLI~\cite{bowman-etal-2015-large} and MultiNLI~\cite{williams-etal-2018-broad} datasets.
+The work most closely related to ours is HANS~\cite{mccoy-etal-2019-right}, which is an NLI dataset designed to analyze whether models use structural heuristics to make predictions. 
+Recently, HANS has been used for out-of-distribution evaluation data~\cite{utama-etal-2020-mind,10.1162/tacl_a_00335,yaghoobzadeh-etal-2021-increasing,du-etal-2021-towards} and has been used for data augmentation to improve the generalization performance of models~\cite{min-etal-2020-syntactic}.
+
+Although the generalization capacity of NLI models has been studied mainly in English, \todo{non-English NLI datasets}~\cite{ham-etal-2020-kornli,hu-etal-2020-ocnli,wijnholds2021sicknl} and multilingual NLI datasets~\cite{conneau-etal-2018-xnli}
+have recently been developed to analyze the performance of pre-trained language models across languages.
+Several Japanese NLI datasets have been created.
+The Japanese SNLI dataset~\cite{jsnli} was generated by automatic translation of the English SNLI dataset.
+The Japanese Realistic Textual Entailment Corpus~\cite{hayashibe-2020-japanese} was created by using realistic texts (hotel reviews) and annotating labels via crowdsourcing.
+JSeM~\cite{10.1007/978-3-319-50953-2_5} is a Japanese version of the FraCaS test suite~\cite{cooper1994fracas}, which contains manually designed problems involving semantic phenomena that have been well studied in formal semantics.
+Our dataset is designed to assess whether models capture
+linguistic structures in Japanese or simply rely on fallible heuristics.
+
+Recent work~\cite{sinha2021masked,sinha2021unnat,DBLP:conf/aaai/GuptaKS21,pham-etal-2021-order} has shown that shuffled word order has little effect during training or inference with pre-trained language models, which in turn indicates that the models are insensitive to word order in NLI tasks.
+\todo{In English, however, the shuffled data are usually unacceptable and tend to obscure their gold labels.
+\citet{kuribayashi-etal-2021-lower} have re-analyzed the hypothesis that language models with lower perplexity are more human-like language models in Japanese rather than in English, and their experiments have demonstrated the lack of universality of this hypothesis and the importance of cross-lingual evaluation of models.
+Japanese word order is fairly free, which enables us to produce grammatically correct sentences even when the word order is shuffled.
+Analyzing the behavior of models on controlled Japanese inference examples should provide further insights into the sensitivity of the models to word order.}
+
+
+
+
+\begin{table*}[!h]
+\centering
+\scalebox{0.8}{
+\begin{tabular}{p{18em} p{22em}} \hline
+Pattern/Description & Example \\ \hline
+%Full-Overlap
+  \NameDesc
+  {\HLabel{full overlap}}
+  {\textit{P} and \textit{H} share all words and differ only in word order.}
+&
+   \PHpair{Scrambling (Particle-swapping)}
+   {\jaEmph{ライダー} \jaEmph{が} \jaEmph{サーファー} \jaEmph{を} \jaEmph{助け出した}}
+   {\textbf{rider ga surfer o rescued}}
+   {The rider rescued the surfer}
+   {\jaEmph{ライダー} \jaEmph{を} \jaEmph{サーファー} \jaEmph{が} \jaEmph{助け出した}}
+   {\textbf{rider o surfer ga rescued}}
+   {The surfer rescued the rider}
+\\ \hline
+%Order-preserving subset
+  \NameDesc
+  {\HLabel{order-preserving subset}}
+  {All the words in \textit{H} are contained in \textit{P} in an order-preserving way.}
+&
+   \PHpair{NP-coordination (disjunction)}
+   {\jaEmph{学生} \mbox{か} \mbox{子供} \jaEmph{が} \jaEmph{遊んでいる}}
+   {\textbf{student} or child \textbf{ga playing}}
+   {The student or the child is playing}
+   {\jaEmph{学生} \jaEmph{が} \jaEmph{遊んでいる}}
+   {\textbf{student ga playing}}
+   {The student is playing}
+\\ \hline
+  \NameDesc{\HLabel{mixed subset}}
+   {All the words in $H$ are contained in $P$ in a mixed (non-order-preserving) way.}
+&
+   \PHpair
+   {Garden-path}
+   {\jaEmph{子供} \jaEmph{が} 泳いでいる \jaEmph{学生} \jaEmph{を} \jaEmph{助け出した}}
+   {\textbf{child ga} swimming \textbf{student o rescued}}
+   {The child rescued the swimming student}
+   {\jaEmph{子供} \jaEmph{を} \jaEmph{学生} \jaEmph{が} \jaEmph{助け出した}}
+   {\textbf{child o student ga rescued}}
+   {The student rescued the child.}
+\\ \hline
+% Subsequence
+  \NameDesc{\HLabel{subsequence}}
+   {\textit{H} is a contiguous subsequence of \textit{P} but not a constituent of \textit{P}.}
+&
+   \PHpair
+   {Garden-path}
+   {\jaEmph{男の子} \jaEmph{が} \jaEmph{眠っている} \mbox{女の子} \mbox{を} \mbox{見ている}}
+   {\textbf{boy ga sleeping} girl o looking}
+   {The boy is looking at the sleeping girl}
+   {\jaEmph{男の子} \jaEmph{が} \jaEmph{眠っている}}
+   {\textbf{boy ga sleeping}}
+   {The boy is sleeping}
+\\ \hline
+% Constituent
+  \NameDesc{\HLabel{constituent}}
+   {\textit{H} is a constituent of \textit{P}.}
+&
+   \PHpair
+   {Modal}
+   {ひょっとしたら \jaEmph{子供} \jaEmph{が} \jaEmph{眠っている}}
+   {perhaps \textbf{child ga sleeping}}
+   {Perhaps the child is sleeping}
+   {\jaEmph{子供} \jaEmph{が} \jaEmph{眠っている}}
+   {\textbf{child ga sleeping}}
+   {The child is sleeping}
+\\ \hline
+\end{tabular}
+}%scalebox
+\caption{Five patterns of structural relations between premise (\textit{P}) and hypothesis (\textit{H}) sentences:
+All the examples are \textit{non-entailment}.
+が(ga) is a nominative case marker;
+を(o) is an accusative case marker.
+}
+\label{tab:heuristics}
+\end{table*}
+
+
+\section{Dataset Generation}
+\label{sec:dataset}
+
+To analyze the generalization capacity of NLI models, we introduce
+a \todo{synthetically} generated Japanese NLI dataset
+where each pair (\textit{P}, \textit{H}) of a premise and hypothesis
+is tagged with a label for \textit{structural pattern} and \textit{linguistic phenomenon}.
+Table \ref{tab:heuristics} shows the definition of each pattern and some examples.
+ 
+\subsection{Structural patterns and heuristics}
+We classify the structural relationship between premise and hypothesis sentences into five patterns, 
+each of which is associated with a type of \textit{heuristic} that can cause
+incorrect prediction of the entailment relation.
+For instance, a model that relies on the heuristics of judging an inference
+as \textit{entailment} when the premise and hypothesis sentences
+share all the words will make an incorrect prediction for a non-entailment relation.
+We follow \newcite{mccoy-etal-2019-right} for the definitions of the \HLabel{subsequence} and \HLabel{constituent} patterns.
+\newcite{mccoy-etal-2019-right} also proposed the \textit{overlap} heuristics 
+(\textit{H} is constructed from words in \textit{P}),
+which we divide into three types:
+\HLabel{full-overlap},
+\HLabel{order-preserving subset} (\HLabel{order-subset} in short),
+and 
+\HLabel{mixed-subset}.
+Note that these five patterns are defined to be mutually exclusive.
+This fine-grained classification of overlap 
+is suitable for analysis taking into account the characteristics
+of Japanese that \todo{word order is relatively free~\cite{hinds1986,shibatani1990languages}}.
+We explore whether language models can perform better on some patterns
+compared with others.
+
+
+\subsection{Linguistic phenomena}
+\label{ssec:phenomena}
+To generate these five patterns of adversarial inferences
+in a controlled way, 
+we focus on 11 categories of Japanese linguistic phenomena and constructions:
+garden-path sentences with noun-modifying clauses,
+scrambling (including particle-swapping), 
+passive, causative, factive adverbs, factive verbs,
+modal, negation, NP-coordination,
+sentence-subordination (those corresponding to \textit{because}-clauses
+and \textit{if}-clauses),
+and sentence-coordination (sentence conjunction and disjunction).
+
+For each phenomenon, we fix a template for the premise sentence \textit{P}
+and create multiple templates for hypothesis sentences \textit{H}.
+In total, we produced 144 templates for (\textit{P}, \textit{H}) pairs.
+Each pair of premise and hypothesis sentences is tagged with
+an entailment label (\textit{entailment} or \textit{non-entailment}),
+a structural pattern,
+and a linguistic phenomenon label.
+Table \ref{tab:gp-templates} shows an example template
+for garden-path sentences with noun-modifying clauses.
+\todo{See Appendix~\ref{app:templates} for examples of templates for each linguistic phenomenon.}
+
+To evaluate the performance of NLI models for Japanese,
+the garden-path construction as shown in Table \ref{tab:gp-templates}
+deserves special attention.
+In this example, the challenge is to detect
+the boundary of the noun-modifying clause in the 
+premise sentence \textit{P}
+as [child ga [$_{\mbox{\footnotesize NP}}$ running cat] o chased].
+Here the noun \textit{cat} (猫) is the head of the NP with the noun-modifier \textit{running} (走っている);
+when this noun is processed in the entire sentence,
+the subject \textit{child} (子供)
+must be reanalyzed out of the clause so that \textit{running}
+applies to \textit{cat}, not to \textit{child}.
+Thus, \textit{P} entails \textit{H}$_2$ (\textit{The cat is running}) but not
+\textit{H}$_1$ (\textit{The child is running}).
+
+
+
+\begin{table*}[h]
+\centering
+\scalebox{0.8}{
+\begin{tabular}{lll}\hline
+Templates for \textit{P} and \textit{H} & Sentence Example &
+Phenomenon/Pattern \\ \hline
+\textit{P}: \NPone{NP1} ga \IV{IV} \NPtwo{NP2} o \TVo{TV-o} &  
+\begin{tabular}{ll}
+\NPone{子供} が \IV{走っている} \NPtwo{猫} を \TVo{追いかけた}\\
+\NPone{child} ga \IV{running} \NPtwo{cat} o \TVo{chased}\\
+(\textit{The child chased the running cat})
+\end{tabular} &
+Garden-path sentence\\
+$\not\Rightarrow$ \textit{H}$_1$: \NPone{NP1} ga \IV{IV}
+   & \NPone{子供} が \IV{走っている} (\textit{The child is running})
+   & \textsc{subsequence}\\
+$\Rightarrow$ \textit{H}$_2$: \NPtwo{NP2} ga \IV{IV}
+   & \NPtwo{猫} が \IV{走っている} (\textit{The cat is running})
+   & \textsc{mixed-subset}\\
+$\Rightarrow$ \textit{H}$_3$: \NPone{NP1} ga \NPtwo{NP2} o \TVo{TV-o}
+   & \NPone{子供} が \NPtwo{猫} を \TVo{追いかけた} (\textit{The child chased the cat})
+   & \textsc{order-subset}\\
+$\not\Rightarrow$ \textit{H}$_4$: \NPone{NP1} o \NPtwo{NP2} ga \TVo{TV-o}
+  & \NPone{子供} を \NPtwo{猫} が \TVo{追いかけた} (\textit{The cat chased the child})
+  &  \textsc{mixed-subset}
+\\ \hline
+\end{tabular}
+}%scalebox
+\caption{Example templates for premise and hypothesis sentences. 
+The premise \textit{P} is a garden-path sentence
+with a noun-modifying clause.
+``$\Rightarrow$'' indicates \textit{entailment} and ``$\not\Rightarrow$'' \textit{non-entailment}.
+}
+\label{tab:gp-templates}
+\end{table*}
+
+
+
+\begin{table*}[!h]
+\centering
+\scalebox{0.8}{
+\begin{tabular}{lll}\hline
+Subcategory & Template & Example \\ \hline
+GP-double-o & 
+\NPone{NP1} ga \NPtwo{NP2} o \TVo{TV-o1} \NPthree{NP3} o \TVoo{TV-o2}&  
+\begin{tabular}{ll}
+\NPone{子供} が \NPtwo{猫} を \TVo{助けた} \NPthree{女の子} を \TVoo{追いかけた}\\
+\NPone{child} ga \NPtwo{cat} o \TVo{rescued} \NPthree{girl} o \TVoo{chased}\\
+(\textit{The child chased the girl who rescued the cat})
+\end{tabular} \\ \hline
+GP-punctuation & 
+\NPone{NP1} ga , \IV{IV} \NPtwo{NP2} o \TVo{TV-o} &  
+\begin{tabular}{ll}
+\NPone{子供} が , \IV{走っている} \NPtwo{猫} を \TVo{追いかけた}\\
+\NPone{child} ga \textsc{punct} \IV{running} \NPtwo{cat} o \TVo{chased}\\
+(\textit{The child chased the running cat})
+\end{tabular} \\ \hline
+GP-selectional & 
+\NPone{NP-non-human} ga \IV{IV-human} \NPtwo{NP2} o \TVo{TV-o} &  
+\begin{tabular}{ll}
+\NPone{リス} が \IV{しゃべっている} \NPtwo{女性} を \TVo{追いかけた}\\
+\NPone{squirrel} ga \IV{talking} \NPtwo{woman} o \TVo{chased}\\
+(\textit{The squirrel chased the woman who was talking})
+\end{tabular} \\ \hline
+GP-wa & 
+\NPone{NP1} wa \IV{IV} \NPtwo{NP2} o \TVo{TV-o} &  
+\begin{tabular}{ll}
+\NPone{子供} は \IV{走っている} \NPtwo{猫} を \TVo{追いかけた}\\
+\NPone{child} wa \IV{running} \NPtwo{cat} o \TVo{chased}\\
+(\textit{The child chased the running cat})
+\end{tabular} \\ \hline
+GP-scrambling & 
+\IV{IV} \NPtwo{NP2} o \NPone{NP1} ga \TVo{TV-o} &  
+\begin{tabular}{ll}
+\IV{走っている} \NPtwo{猫} を \NPone{子供} が \TVo{追いかけた}\\
+\IV{running} \NPtwo{cat} o \NPone{child} ga \TVo{chased}\\
+(\textit{The child chased the running cat})
+\end{tabular}
+\\ \hline
+\end{tabular}
+}%scalebox
+\caption{Example templates for variants of garden-path sentences in the premise sentence.}
+\label{tab:gp-var}
+\end{table*}
+
+Some factors are known to facilitate the interpretation of garden-path sentences~\cite{miyamoto08}.
+We analyze whether the model predicts the entailment labels more accurately when the inference example includes such factors.
+We categorized problems involving garden-path sentences according to four factors that make it easier for people to interpret them: double-o-constraints (GP-double-o)~\cite{miyamoto2002case}, presence of punctuations (GP-punctuation), selectional preference (GP-selectional)~\cite{inoue2006}, and presence of the topic marker \textit{wa} (GP-wa)~\cite{inoue1991}.
+We also include the construction where the subject and object NPs of a garden-path sentence are swapped so that no garden-path effect can occur (GP-scrambling). Table \ref{tab:gp-var} shows an example of each construction.
+
+In the psycholinguistics literature, it has been observed that the processing of garden-path sentences becomes more difficult 
+when they contain more NP-arguments~\cite{inoue1990b}.
+Thus, we tagged inference problems with the number of NP-arguments.
+
+\begin{table}
+\centering
+\scalebox{0.8}{
+\begin{tabular}{l|r} \hline
+Linguistic Phenomenon & Examples (Templates)\\ \hline
+GP-normal & 1,600 (16) \\
+GP-double-o & 800 (8) \\
+GP-punctuation & 800 (8) \\
+GP-selectional & 800 (8) \\
+GP-wa & 800 (8) \\
+GP-scrambling & 1,600 (16) \\
+Scrambling & 1,600 (16) \\
+Passive & 400 (4) \\
+Causative & 400 (4) \\
+Factive adverb & 800 (8) \\
+Factive verb & 800 (8) \\
+Modal & 600 (6) \\
+Negation & 600 (6) \\
+NP-coordination & 1,200 (12) \\
+Sentence-subordination & 800 (8) \\
+Sentence-coordination & 800 (8) \\
+\hline
+Total & 14,400 (144) \\ \hline
+\end{tabular}
+}%scalbox
+\caption{Statistics of linguistic phenomena.}
+\label{tab:stat-ling}
+\end{table}
+
+\begin{table}
+\centering
+\scalebox{0.76}{
+\begin{tabular}{l|rrr} \hline
+Pattern (Heuristics) & Entailment & Non-entailment & Total \\ \hline
+\textsc{full-overlap} & 800 & 1,200 & 2,000 \\
+\textsc{order-subset} & 1,600 & 800 & 2,400 \\
+\textsc{mixed-subset} & 3,400 & 2,000 & 5,400 \\
+\textsc{subsequence} & 200 & 2,000 & 2,200 \\
+\textsc{constituent} & 1,200 & 1,200 & 2,400 \\ \hline
+Total & 7,200 & 7,200 & 14,400 \\ \hline
+\end{tabular}
+}%scalbox
+\caption{Statistics of structural patterns.}
+\label{tab:stat-pattern}
+\end{table}
+
+
+
+\begin{table*}[h!]
+\centering
+\scalebox{0.58}{
+\begin{tabular}{llllllll}\hline
+Dataset & Training & Test & Creation Protocol & Classes &Inference Example&Label\\ \hline
+JSICK&5.0K&4.9K&Manual Translation&3&\begin{tabular}[c]{@{}l@{}}$P$: 水難救助をして救命胴着を着ている人は一人もいない\\\textit{Nobody is practicing water safety and wearing preservers}\\
+$H$: このグループの人々は水難救助を練習していて，救命胴着具を着ている\\\textit{This group of people is practicing water safety and wearing preservers}\end{tabular}&\begin{tabular}{l}\textit{Contradiction}\\(\textit{Non-entailment})\end{tabular}\\ \hline
+JSNLI&533K&3.9K&Automatic Translation&3&\begin{tabular}[c]{@{}l@{}}$P$: 自転車に乗る赤と白のジャケットの女性\\\textit{The woman in a red and white jacket riding a bicycle}\\
+$H$: 女性が自転車に乗る\\\textit{The woman is riding a bicycle}\end{tabular}&\textit{Entailment}\\ \hline
+JaNLI&-&14K&Templates&2&\begin{tabular}[c]{@{}l@{}}$P$: 走っている猫を子供が追いかけた\\\textit{The child chased the running cat}\\
+$H$: 子供が走っている\\\textit{The child is running}\end{tabular}&\textit{Non-entailment}\\ \hline
+\end{tabular}
+}
+\caption{Overview of the Japanese NLI datasets considered in this study.} 
+\label{tab:statistics}
+\end{table*}
+
+\subsection{Dataset overview}
+\label{ssec:dataset}
+
+\todo{The JaNLI dataset was automatically generated by instantiating each template 100 times},
+resulting in a total of 14,400 examples.
+Table \ref{tab:stat-ling} shows the statistics of the linguistic phenomena. We generated the same number of entailment and non-entailment examples for each phenomenon.
+Table \ref{tab:stat-pattern} shows the statistics of the structural patterns (heuristics).
+Note that the ratio of entailment and non-entailment examples is not necessarily $1:1$ for each pattern.
+This is because we first generated the templates for each linguistic phenomenon and then
+annotated the structural pattern with the templates.
+
+We used 158 words (nouns and verbs) in total.
+\todo{Nouns and} simple verbs were selected from words that occur more than 20 times
+in the JSICK and JSNLI datasets.
+Compound verbs were selected
+from the Compound Verb Lexicon\footnote{https://db4.ninjal.ac.jp/vvlexicon/en/}.
+Each transitive and intransitive verb was selected so that every noun (basically, denoting a human) is a plausible argument of it.
+
+\section{Experiments and Analysis}
+\label{sec:experiment}
+\subsection{Experimental setting}
+One of our aims is to investigate the differences in behavior between monolingual and multilingual pre-trained language models. 
+For this purpose, we conducted experiments with BERT~\cite{devlin-etal-2019-bert}, a standard pre-trained language model that is widely used for both multilingual and Japanese texts.
+We compared the difference in performance between the Japanese and multilingual BERT models, which were implemented by using the transformers framework\footnote{https://github.com/huggingface/transformers}.
+In all experiments, we trained each model for 30
+epochs with early stopping (patience = 3).
+We perform five runs and report the
+average and standard deviation of the accuracy of the models.
+
+\paragraph{Model}
+Japanese BERT is pre-trained on Japanese Wikipedia, and the model processes input texts with word-level tokenization based on a standard Japanese dictionary (ipadic) \cite{asahara03}, followed by the WordPiece subword tokenization~\cite{schuster2012japanese}, trained with whole-word masking enabled for the masked language model objective.
+For multilingual BERT, we used a multilingual-cased model pre-trained on Wikipedia in 104 languages including Japanese, which is more recommended over a multilingual-uncased model in the case of languages with non-Latin alphabets like Japanese.
+
+\begin{table*}[h!]
+\centering
+\scalebox{0.57}{
+\begin{tabular}{ll|c|c|ccccc|ccccc}\hline
+\multirow{2}{*}{Model}&\multirow{2}{*}{Finetuned on}& \multicolumn{2}{c|}{Test-overall} &\multicolumn{5}{c|}{Correct: \textit{Entailment}} & \multicolumn{5}{c}{Correct: \textit{Non-entailment}}\\
+& & In-dist. & JaNLI & Full. & Order. & Mixed. & Subseq. & Const. & Full. & Order. & Mixed. & Subseq. & Const.   \\ \hline
+\multirow{4}{*}{Ja} & JSICK (5K) & 92.1{\small $\pm$0.01}
+&51.3{\small $\pm$0.01}
+& 99.9{\small $\pm$0.00} & 97.8{\small $\pm$0.02} & 79.4{\small $\pm$0.10} & 98.3{\small $\pm$0.02} & 88.6{\small $\pm$0.07} & 0.1{\small $\pm$0.00} & 6.2{\small $\pm$0.01} & 6.7{\small $\pm$0.04} & 32.5{\small $\pm$0.11} & 22.7{\small $\pm$0.09} \\
+ & +JaNLI (0.7K) & 92.3{\small $\pm$0.01} 
+ &89.3{\small $\pm$0.06}
+ & 90.8{\small $\pm$0.04} & 98.6{\small $\pm$0.01} & 96.8{\small $\pm$0.02} & 99.2{\small $\pm$0.01} & 97.3{\small $\pm$0.02} & 67.1{\small $\pm$0.17} & 59.1{\small $\pm$0.04} & 84.6{\small $\pm$0.23} & 92.4{\small $\pm$0.09} & 90.4{\small $\pm$0.05} \\
+ \cline{2-14}
+ & JSNLI (533K) & 94.5{\small $\pm$0.00}
+ &50.4{\small $\pm$0.00}
+ & 98.6{\small $\pm$0.02} & 99.0{\small $\pm$0.01} & 97.2{\small $\pm$0.02} & 97.7{\small $\pm$0.02} & 99.6{\small $\pm$0.00} & 6.8{\small $\pm$0.06} & 4.6{\small $\pm$0.04} & 2.6{\small $\pm$0.03} & 1.1{\small $\pm$0.02} & 0.1{\small $\pm$0.00} \\
+ & +JaNLI (0.7K) & 95.5{\small $\pm$0.00}
+ &72.3{\small $\pm$0.01}
+ & 71.7{\small $\pm$0.03} & 88.4{\small $\pm$0.03} & 81.4{\small $\pm$0.07} & 85.0{\small $\pm$0.16} & 92.5{\small $\pm$0.05} & 53.4{\small $\pm$0.07} & 46.6{\small $\pm$0.10} & 69.2{\small $\pm$0.16} & 48.5{\small $\pm$0.03} & 67.9{\small $\pm$0.25}\\
+\hline
+\multirow{4}{*}{Multi} & JSICK (5K) & 73.6{\small $\pm$0.20}
+&50.2{\small $\pm$0.01}
+& 66.0{\small $\pm$0.57} & 64.6{\small $\pm$0.56} & 57.1{\small $\pm$0.50} & 62.7{\small $\pm$0.55} & 63.8{\small $\pm$0.55} & 33.9{\small $\pm$0.57} & 34.7{\small $\pm$0.57} & 36.2{\small $\pm$0.55} & 45.1{\small $\pm$0.48} & 43.5{\small $\pm$0.49} \\
+ & +JaNLI (0.7K) & 86.5{\small $\pm$0.08} 
+ &56.9{\small $\pm$0.06}
+ & 40.8{\small $\pm$0.37} & 32.9{\small $\pm$0.33} & 38.0{\small $\pm$0.35} & 49.8{\small $\pm$0.44} & 38.8{\small $\pm$0.36} & 64.2{\small $\pm$0.33} & 66.0{\small $\pm$0.37} & 83.3{\small $\pm$0.19} & 77.4{\small $\pm$0.32} & 80.9{\small $\pm$0.23} \\ \cline{2-14}
+ & JSNLI (533K) & 94.6{\small $\pm$0.01}
+ &49.7{\small $\pm$0.00}
+ & 99.0{\small $\pm$0.01} & 99.2{\small $\pm$0.01} & 97.3{\small $\pm$0.01} & 98.8{\small $\pm$0.01} & 99.2{\small $\pm$0.01} & 2.0{\small $\pm$0.02} & 1.6{\small $\pm$0.01} & 0.8{\small $\pm$0.01} & 1.2{\small $\pm$0.01} & 0.8{\small $\pm$0.01}\\
+ & +JaNLI (0.7K) & 94.8{\small $\pm$0.01} 
+ &56.3{\small $\pm$0.09}
+ &26.4{\small $\pm$0.46} & 30.4{\small $\pm$0.53} & 28.0{\small $\pm$0.49} & 26.7{\small $\pm$0.46} & 28.4{\small $\pm$0.49} & 79.4{\small $\pm$0.36} & 76.9{\small $\pm$0.40} & 82.4{\small $\pm$0.30} & 26.7{\small $\pm$0.46} & 79.0{\small $\pm$0.36}\\
+\hline
+Human &  & - & 94.0{\small $\pm$0.04} & 94.2{\small $\pm$0.05} & 97.1{\small $\pm$0.01} & 92.7 {\small $\pm$0.04} & 100.0{\small $\pm$0.00} & 98.3{\small $\pm$0.03} & 97.8{\small $\pm$0.01} & 95.8{\small $\pm$0.05} & 88.7{\small $\pm$0.09} & 94.3{\small $\pm$0.08} & 91.1{\small $\pm$0.14}\\ \hline
+\end{tabular}
+}
+\caption{Results on the JaNLI test set \todo{(average accuracy and standard deviation of five runs)}. The number in parentheses is the size of the dataset used for finetuning. The accuracy on the in-distribution test set (JSICK/JSNLI test sets) is calculated by translating the \textit{contradiction} and \textit{neutral} labels into \textit{non-entailment}.} 
+\label{tab:results}
+\end{table*}
+
+
+\begin{table*}[h!]
+\centering
+\scalebox{0.62}{
+\begin{tabular}{ll|ccccccccccc}\hline
+Model & Finetuned on & GP & Scramb. & Pass. & Caus. & Fac-adv. & Fac-v. & Modal & Neg. & NP-coord. & Subord. & Sent-coord. \\ \hline
+\multirow{4}{*}{Ja} & JSICK &49.3{\small $\pm$0.01}&
+50.1{\small $\pm$0.00} &
+49.6{\small $\pm$0.01} &
+47.7{\small $\pm$0.03} & 49.7{\small $\pm$0.00} & 51.1{\small $\pm$0.02} & 54.8{\small $\pm$0.04} & 63.2{\small $\pm$0.03} & 50.2{\small $\pm$0.00} & 69.3{\small $\pm$0.02} & 46.8{\small $\pm$0.02}   \\
+& +JaNLI &92.8{\small $\pm$0.10}&
+79.2{\small $\pm$0.06} &
+49.2{\small $\pm$0.01} &
+56.1{\small $\pm$0.00} & 75.7{\small $\pm$0.10} & 90.0{\small $\pm$0.07} & 93.7{\small $\pm$0.07} & 98.6{\small $\pm$0.02} & 99.0{\small $\pm$0.01} & 98.4{\small $\pm$0.01} &  97.8{\small $\pm$0.01}\\ \cline{2-13}
+& JSNLI &50.2{\small $\pm$0.01}&
+52.3{\small $\pm$0.02} &
+45.9{\small $\pm$0.04} &
+49.7{\small $\pm$0.01} &51.5{\small $\pm$0.01} & 51.2{\small $\pm$0.01} & 49.6{\small $\pm$0.00} & 50.2{\small $\pm$0.01} & 51.4{\small $\pm$0.00} & 50.0{\small $\pm$0.00} & 49.7{\small $\pm$0.00} \\
+& +JaNLI & 70.1{\small $\pm$0.06} &
+65.3{\small $\pm$0.03} &
+41.2{\small $\pm$0.06} &
+50.5{\small $\pm$0.01} & 67.9{\small $\pm$0.08} & 70.2{\small $\pm$0.09} & 71.7{\small $\pm$0.19} & 87.4{\small $\pm$0.06} & 76.6{\small $\pm$0.17} & 88.8{\small $\pm$0.11} & 79.2{\small $\pm$0.18}\\
+\hline
+\multirow{4}{*}{Multi} & JSICK &49.3{\small $\pm$0.01}&
+49.9{\small $\pm$0.00} &
+49.6{\small $\pm$0.01} &
+48.6{\small $\pm$0.02} & 49.5{\small $\pm$0.01} & 50.8{\small $\pm$0.01} & 50.5{\small $\pm$0.01} & 49.3{\small $\pm$0.01} & 49.8{\small $\pm$0.00} & 61.0{\small $\pm$0.10} & 49.6{\small $\pm$0.01}\\
+ & +JaNLI &56.3{\small $\pm$0.05}&
+ 52.7{\small $\pm$0.03} & 
+ 49.2{\small $\pm$0.01} &
+ 56.0{\small $\pm$0.06} & 53.2{\small $\pm$0.04} & 58.7{\small $\pm$0.09} & 57.6{\small $\pm$0.20} & 62.7{\small $\pm$0.24} & 61.0{\small $\pm$0.12} & 61.5{\small $\pm$0.10} & 60.7{\small $\pm$0.10}\\ \cline{2-13}
+ & JSNLI & 49.8{\small $\pm$0.00} & 
+ 50.1{\small $\pm$0.00} & 
+ 48.1{\small $\pm$0.01} &
+ 49.9{\small $\pm$0.00} & 50.3{\small $\pm$0.00} & 50.3{\small $\pm$0.00} & 49.6{\small $\pm$0.01} & 45.5{\small $\pm$0.04} & 50.5{\small $\pm$0.00} & 49.9{\small $\pm$0.00} & 50.2{\small $\pm$0.00}\\
+ & +JaNLI & 54.1{\small $\pm$0.07} &
+ 53.8{\small $\pm$0.07} &
+ 48.9{\small $\pm$0.02} &
+ 50.7{\small $\pm$0.01} & 52.7{\small $\pm$0.05} & 53.3{\small $\pm$0.06} & 55.3{\small $\pm$0.09} & 62.6{\small $\pm$0.22} & 54.4{\small $\pm$0.08} & 54.4{\small $\pm$0.08} & 54.8{\small $\pm$0.08} \\
+\hline
+Human &  &94.2{\small $\pm$0.05}&
+93.3{\small $\pm$0.03} &
+91.7{\small $\pm$0.08} &
+85.0{\small $\pm$0.17} & 95.8{\small $\pm$0.05} & 95.0{\small $\pm$0.02} & 95.6{\small $\pm$0.08} & 94.4{\small $\pm$0.05} & 93.9{\small $\pm$0.03} & 96.7{\small $\pm$0.04} & 92.5{\small $\pm$0.09} \\ \hline
+\end{tabular}
+}
+\caption{Results on the JaNLI test set for each linguistic phenomenon.} 
+\label{tab:results-pheno}
+\end{table*}
+
+\paragraph{Training data}
+To see whether the size and quality of training data affect the performance, we use two types of Japanese datasets as basic training datasets: JSICK and JSNLI~\cite{jsnli}\footnote{https://nlp.ist.i.kyoto-u.ac.jp/index.php}.
+Table~\ref{tab:statistics} shows the data split and examples from the JSICK and JSNLI datasets.
+We compare the model performance on the in-distribution test sets (JSICK and JSNLI) with that on the out-of-distribution test set (JaNLI).
+While the JSICK and JSNLI datasets use three labels (\textit{entailment}, \textit{contradiction}, and \textit{neutral}), the JaNLI dataset uses two labels (\textit{entailment} and \textit{non-entailment}),
+following the HANS dataset~\cite{mccoy-etal-2019-right}.
+To calculate the model accuracy on each test set, we take the highest-scoring label out of \textit{entailment}, \textit{contradiction}, and \textit{neutral}
+and then collapse \textit{contradiction} and \textit{neutral} into \textit{non-entailment}.
+
+JSICK was created by manually translating SICK~\cite{marelli-etal-2014-sick}, an English NLI dataset that targets compositional inference, into Japanese by experts.
+\citet{marelli-etal-2014-sick} created the original SICK dataset by expanding and normalizing the sentences from Flickr image captions with manual rules to create
+\km{inference examples involving
+such linguistically challenging phenomena as negation, disjunction,
+and active-passive alternation.
+We explore whether training on data containing these diverse linguistic phenomena
+improves the performance of the models.}
+The gold labels of inference examples in JSICK were annotated via crowdsourcing.
+Given that the gold label of an inference example can be changed
+as a result of translation due to structural and lexical differences
+between English and Japanese,
+the gold labels of JSICK were re-annotated via crowdsourcing.
+
+JSNLI was created by automatically translating the large crowdsourced English NLI dataset SNLI~\cite{bowman-etal-2015-large}, into Japanese.
+A premise sentence in the original SNLI dataset was sourced from Flickr image captions, and workers were asked
+to generate a corresponding hypothesis sentence for each of the three labels.
+Note that the size of the SNLI training set (533K) is around 100 times larger than that of the SICK training set (50K).
+\km{Thus, we consider whether the quantity of the training data
+improves the model performance on JaNLI.}
+The gold labels of JSNLI are the same as those of English SNLI.
+
+We hypothesize that even if the models trained on the basic training datasets do not perform well on the JaNLI dataset, data augmentation with a small number of JaNLI examples could help the models to learn how to solve the inferences with
+diverse linguistic phenomena in the JaNLI dataset.
+To test this hypothesis, for each baseline setting, we added a small amount of JaNLI data (700 examples)\footnote{\todo{There is no overlap between the subset of JaNLI and the test set in terms of (\textit{P}, \textit{H}) pairs.
+Only five premise sentences are overlapped between the added subset and the test set, for which the labels are not biased: two of them are \textit{entailment} and three of them are \textit{non-entailment}.}}
+during the finetuning of models and checked whether the performance of the models would be improved.
+
+
+
+\begin{table*}[h!]
+\centering
+\scalebox{0.68}{
+\begin{tabular}{ll|cccc|cccc}\hline
+Model & Finetuned on &Scramb.&Pass.&Caus.&Fac-adv.&Scramb.&Pass.&Caus.&Fac-adv.\\
+&&\multicolumn{4}{c|}{Correct: \textit{Entailment}} & \multicolumn{4}{c}{Correct: \textit{Non-entailment}}\\ \hline
+\multirow{4}{*}{Ja}&JSICK&100.0{\small $\pm$0.00}&94.7{\small $\pm$0.05}&76.7{\small $\pm$0.07}&99.4{\small $\pm$0.01}&0.2{\small $\pm$0.00}&4.5{\small $\pm$0.04}&18.7{\small $\pm$0.05}&0.0{\small $\pm$0.00}\\
+&+JaNLI&91.5{\small $\pm$0.03}&94.7{\small $\pm$0.03}&79.3{\small $\pm$0.14}&94.8{\small $\pm$0.06}&66.9{\small $\pm$0.12}&3.8{\small $\pm$0.03}&32.8{\small $\pm$0.14}&56.7{\small $\pm$0.25}\\ \cline{2-10}
+&JSNLI&98.1{\small $\pm$0.03}&87.2{\small $\pm$0.15}&99.0{\small $\pm$0.01}&99.3{\small $\pm$0.01}&6.5{\small $\pm$0.07}&4.7{\small $\pm$0.07}&0.3{\small $\pm$0.00}&3.7{\small $\pm$0.03}\\
+&+JaNLI&71.3{\small $\pm$0.03}&53.8{\small $\pm$0.34}&93.0{\small $\pm$0.06}&94.9{\small $\pm$0.02}&59.1{\small $\pm$0.12}&32.0{\small $\pm$0.18}&7.5{\small $\pm$0.08}&43,5{\small $\pm$0.19}\\ \hline
+\multirow{4}{*}{Multi}&JSICK&65.9{\small $\pm$0.57}&65.7{\small $\pm$0.57}&60.2{\small $\pm$0.53}&65.2{\small $\pm$0.56}&33.9{\small $\pm$0.57}&33.5{\small $\pm$0.58}&37.0{\small $\pm$0.55}&33.9{\small $\pm$0.57}\\
+&+JaNLI&41.8{\small $\pm$0.40}&47.5{\small $\pm$0.44}&49.0{\small $\pm$0.45}&43.9{\small $\pm$0.38}&63.6{\small $\pm$0.34}&50.8{\small $\pm$0.45}&63.0{\small $\pm$0.38}&62.5{\small $\pm$0.34}\\ \cline{2-10}
+&JSNLI&98.5{\small $\pm$0.02}&95.8{\small $\pm$0.02}&99.8{\small $\pm$0.01}&99.1{\small $\pm$0.01}&1.6{\small $\pm$0.01}&0.3{\small $\pm$0.00}&0.0{\small $\pm$0.00}&1.6{\small $\pm$0.01}\\
+&+JaNLI&71.3{\small $\pm$0.03}&53.8{\small $\pm$0.34}&93.0{\small $\pm$0.06}&94.9{\small $\pm$0.02}&59.1{\small $\pm$0.12}&32.0{\small $\pm$0.18}&7.5{\small $\pm$0.08}&43.5{\small $\pm$0.19}\\ \hline
+\end{tabular}
+}
+\caption{Details of performance for problems involving linguistic phenomena for which the model performance was not improved \todo{very much} by data augmentation.} 
+\label{tab:results-low}
+\end{table*}
+
+\begin{table*}[h!]
+\centering
+\scalebox{0.60}{
+\begin{tabular}{ll|cccccc|cccccc}\hline
+&  & \multicolumn{6}{c|}{Correct: \textit{Entailment}} & \multicolumn{6}{c}{Correct: \textit{Non-entailment}}\\
+Model & Train & Normal & Double-o & Punct. & Select. & Wa & Scramb. & Normal & Double-o & Punct. & Select. & Wa & Scramb.  \\ \hline
+\multirow{4}{*}{Ja} & JSICK & 90.2{\small $\pm$0.09} & 90.8{\small $\pm$0.10} & 86.8{\small $\pm$0.11} & 82.9{\small $\pm$0.15}
+& 84.1{\small $\pm$0.13} & 90.6{\small $\pm$0.08} & 9.3{\small $\pm$0.07} & 11.9{\small $\pm$0.11} & 10.2{\small $\pm$0.08} & 14.1{\small $\pm$0.13}
+& 13.8{\small $\pm$0.11} & 7.2{\small $\pm$0.06} \\
+& +JaNLI & 99.0{\small $\pm$0.00} & 99.2{\small $\pm$0.01} & 99.4{\small $\pm$0.01} & 98.8{\small $\pm$0.01}
+& 98.6{\small $\pm$0.02} & 98.7{\small $\pm$0.01} & 91.2{\small $\pm$0.13} & 78.3{\small $\pm$0.32} & 83.0{\small $\pm$0.27} & 87.8{\small $\pm$0.19}
+& 87.8{\small $\pm$0.19} & 86.9{\small $\pm$0.14} \\ \cline{2-14}
+& JSNLI & 98.3{\small $\pm$0.01} & 95.3{\small $\pm$0.03} & 99.4{\small $\pm$0.00} & 98.8{\small $\pm$0.02}
+& 99.3{\small $\pm$0.00} & 98.6{\small $\pm$0.02} & 2.0{\small $\pm$0.03} & 3.7{\small $\pm$0.04} & 1.8{\small $\pm$0.02} & 0.6{\small $\pm$0.01}
+& 2.8{\small $\pm$0.03} & 1.5{\small $\pm$0.02} \\
+& +JaNLI & 83.2{\small $\pm$0.07} & 88.2{\small $\pm$0.01} & 86.5{\small $\pm$0.08} & 92.8{\small $\pm$0.09}
+& 88.8{\small $\pm$0.09} & 82.8{\small $\pm$0.07} & 58.0{\small $\pm$0.16} & 54.8{\small $\pm$0.14} & 53.1{\small $\pm$0.20} & 49.4{\small $\pm$0.19}
+& 47.7{\small $\pm$0.17} & 55.9{\small $\pm$0.09} \\
+\hline
+\multirow{4}{*}{Multi} & JSICK & 62.7{\small $\pm$0.55} & 64.0{\small $\pm$0.56}&59.8{\small $\pm$0.53} & 62.9{\small $\pm$0.55}
+& 62.4{\small $\pm$0.54} & 62.5{\small $\pm$0.55} & 35.2{\small $\pm$0.56}&34.2{\small $\pm$0.57}&35.8{\small $\pm$0.56}&35.8{\small $\pm$0.56}
+& 36.2{\small $\pm$0.55} & 37.9{\small $\pm$0.54}\\
+& +JaNLI & 33.8{\small $\pm$0.35} & 34.8{\small $\pm$0.39} & 30.8{\small $\pm$0.28} & 35.4{\small $\pm$0.33}
+& 32.4{\small $\pm$0.33} & 27.8{\small $\pm$0.32} & 81.2{\small $\pm$0.26} & 74.9{\small $\pm$0.36} & 84.0{\small $\pm$0.19} & 78.7{\small $\pm$0.26}
+& 82.8{\small $\pm$0.20} & 80.6{\small $\pm$0.24} \\ \cline{2-14}
+& JSNLI & 98.7{\small $\pm$0.01} & 97.1{\small $\pm$0.01} & 99.6{\small $\pm$0.01} & 99.8{\small $\pm$0.00}
+& 99.2{\small $\pm$0.01} & 98.7{\small $\pm$0.02} & 0.6{\small $\pm$0.01} & 1.8{\small $\pm$0.02} & 0.2{\small $\pm$0.00} & 0.2{\small $\pm$0.00}
+& 1.1{\small $\pm$0.01} & 0.8{\small $\pm$0.01} \\
+& +JaNLI & 28.3{\small $\pm$0.49} & 29.8{\small $\pm$0.52} & 30.8{\small $\pm$0.53} & 32.2{\small $\pm$0.56}
+& 30.9{\small $\pm$0.54} & 29.3{\small $\pm$0.51} & 79.8{\small $\pm$0.35} & 79.2{\small $\pm$0.36} & 78.7{\small $\pm$0.37} & 74.2{\small $\pm$0.45}
+& 77.9{\small $\pm$0.38} & 78.3{\small $\pm$0.38} \\
+\hline
+Human &  & 95.0{\small $\pm$0.02} & 96.7{\small $\pm$0.06} & 100.0{\small $\pm$0.00} & 98.3{\small $\pm$0.03}
+& 98.3{\small $\pm$0.03} & 97.5{\small $\pm$0.03} & 90.8{\small $\pm$0.14} & 96.7{\small $\pm$0.12} & 91.7{\small $\pm$0.10} & 91.0{\small $\pm$0.05}
+& 95.0{\small $\pm$0.22} & 96.7{\small $\pm$0.04} \\ \hline
+\end{tabular}
+}
+\caption{Results on the JaNLI dataset for garden-path effects.} 
+\label{tab:results-garden}
+\end{table*}
+
+
+\begin{table*}[h!]
+\centering
+\scalebox{0.68}{
+\begin{tabular}{ll|ccc|ccc}\hline
+  &  &\multicolumn{3}{c|}{Correct: \textit{Entailment}} & \multicolumn{3}{c}{Correct: \textit{Non-entailment}}\\
+Model & Train & 2 & 3 & 4 & 2 & 3 & 4 \\ \hline
+\multirow{4}{*}{Ja} & JSICK &85.8{\small $\pm$0.12}&89.4{\small $\pm$0.10}&95.5{\small $\pm$0.04}&11.8{\small $\pm$0.09}&11.0{\small $\pm$0.11}&5.1{\small $\pm$0.05}\\
+& +JaNLI &98.9{\small $\pm$0.01}&98.8{\small $\pm$0.01}&99.1{\small $\pm$0.00}&85.2{\small $\pm$0.22}&88.5{\small $\pm$0.14}&89.6{\small $\pm$0.13}\\ \cline{2-8}
+& JSNLI & 99.2{\small $\pm$0.00} & 97.1{\small $\pm$0.03} & 96.7{\small $\pm$0.02} & 1.9{\small $\pm$0.02} & 1.5{\small $\pm$0.02} & 2.7{\small $\pm$0.03}\\ 
+& +JaNLI & 86.3{\small $\pm$0.08} & 85.6{\small $\pm$0.04} & 85.5{\small $\pm$0.04} & 53.0{\small $\pm$0.17} & 55.8{\small $\pm$0.08} & 56.1{\small $\pm$0.10}\\
+\hline
+\multirow{4}{*}{Multi} & JSICK &61.5{\small $\pm$0.54}&63.6{\small $\pm$0.55}&64.8{\small $\pm$0.56}&36.8{\small $\pm$0.55}&35.2{\small $\pm$0.56}&34.3{\small $\pm$0.57}\\
+& +JaNLI &33.0{\small $\pm$0.33}&33.9{\small $\pm$0.37}&27.4{\small $\pm$0.31}&80.8{\small $\pm$0.23}&78.7{\small $\pm$0.30}&81.3{\small $\pm$0.26}\\ \cline{2-8}
+& JSNLI & 99.5{\small $\pm$0.01} & 97.3{\small $\pm$0.02} & 98.0{\small $\pm$0.02} & 0.4{\small $\pm$0.00} & 1.2{\small $\pm$0.02} & 1.5{\small $\pm$0.02}\\ 
+& +JaNLI & 30.5{\small $\pm$0.53} & 29.2{\small $\pm$0.51} & 28.4{\small $\pm$0.49} & 78.4{\small $\pm$0.37} & 79.1{\small $\pm$0.36} & 77.2{\small $\pm$0.39}\\
+\hline
+& Human &97.7{\small $\pm$0.01}&96.7{\small $\pm$0.10}&96.7{\small $\pm$0.00}&90.0{\small $\pm$0.01}&94.4{\small $\pm$0.05}&91.1{\small $\pm$0.08}  \\ \hline
+\end{tabular}
+}
+\caption{Results on problems involving garden-path sentences for different numbers of NPs.} 
+\label{tab:results-nps}
+\end{table*}
+
+\subsection{Baseline results}
+\label{ssec:baseline}
+
+\km{Table~\ref{tab:results} shows the results for the in-distribution (JSICK and JSNLI)
+and out-of-distribution (JaNLI) test sets.
+For the five heuristics, the results on JaNLI
+are shown for correct \textit{entailment} and \textit{non-entailment} labels.
+All the models except the multilingual BERT model trained on JSICK
+achieved high accuracy on their in-distribution test set.
+They also achieved very high accuracy for the examples where the correct label is
+\textit{entailment}.
+By contrast, we can see that regardless of the finetuning data type and model type, BERT performed substantially worse than chance 
+(most accuracies were close to $0\%$
+while the chance level is $50\%$)
+for the examples where the correct label is \textit{non-entailment}.
+These results are more or less consistent with the results reported
+for the English HANS dataset~\cite{mccoy-etal-2019-right},
+suggesting that the models are fooled by the heuristics in
+the case of Japanese as well.}
+As explained in more detail in Section~\ref{ssec:human},
+we also evaluated human performance using a portion of the JaNLI test set.
+As shown in Table~\ref{tab:results},
+human performance is near perfect for both \textit{entailment} and
+\textit{non-entailment} cases.
+\km{Interestingly, the most difficult pattern for humans
+was the \textsc{mixed-subset} pattern
+($92.7$ for \textit{entailment} and $88.7$ for \textit{non-entailment})
+and the same tendency was observed in the BERT models.}
+
+Comparing the performance of the multilingual and Japanese BERT models on
+the JaNLI dataset,
+\km{we see that the overall performance of multilingual BERT is slightly lower than
+that of Japanese BERT.}
+\km{Also, comparing the effects of finetuning with
+JSICK and JSNLI,
+we see that the performance of the model finetuned with JSICK is slightly better than that of the model finetuned with JSNLI (JSICK: $51.3\%$; JSNLI: $50.4\%$).}
+When a portion of JaNLI was added to the training data,
+the difference became much larger (see Section \ref{ssec:augment}).
+These results suggest that the quality of the training dataset,
+in particular, the diversity of linguistic phenomena,
+can be more effective than the quantity of data
+for solving linguistically challenging inferences.
+
+Table~\ref{tab:results-pheno} shows detailed results on the JaNLI dataset
+for each linguistic phenomenon.
+The performance for each phenomenon is near the chance level ($50\%$) for all baselines.
+As with the results for the heuristics, the accuracy for \textit{entailment} examples was near $100\%$, while the accuracy for \textit{non-entailment} examples
+was close to $0\%$.
+When finetuned with JSICK, accuracy tended to be slightly higher for negation and sentence-subordination than for the other phenomena.
+
+\subsection{Data augmented with JaNLI examples}
+\label{ssec:augment}
+As Table~\ref{tab:results} shows, when we add a small amount of JaNLI data (700 examples) during finetuning, the performance of the Japanese BERT model improved on \textit{non-entailment} examples, while maintaining its performance on \textit{entailment} examples: \km{the overall accuracy increased from $51.3\%$ to $89.3\%$ on JSICK and $50.4\%$ to $72.3\%$ on JSNLI.}
+On the other hand, the performance of the multilingual model decreased on \textit{entailment} examples and thus failed to consistently improve the performance on JaNLI.
+This suggests that the training of multilingual BERT is more unstable in learning
+the Japanese NLI task when compared with Japanese BERT.
+
+For both the Japanese and multilingual BERT models, the degree of performance improvement by the data augmentation was greater when finetuned with JSICK
+than when finetuned with JSNLI.
+There are two possible reasons for this result.
+One is that the effect of adding JaNLI examples is larger when the total size of the dataset is smaller.
+The other is that the data augmentation is more effective when the linguistic diversity of the original training set is higher.
+It should be noted that when a portion of the JaNLI dataset was added to the training set during finetuning, both Japanese and multilingual models improved in terms of performance on the in-distribution test set (JSICK/JSNLI).
+This result seems to support the finding that syntactic data augmentation helps to improve the robustness of models~\cite{min-etal-2020-syntactic}.
+However, Table~\ref{tab:results-pheno} also shows that even when JaNLI examples were used for finetuning, the performance of multilingual and Japanese BERT models was not improved on examples involving passive, causative, factive-adverbs, and scrambling.
+This indicates that some linguistic phenomena are difficult to learn
+using only data augmentation.
+
+Table~\ref{tab:results-low} shows details of performance for the four types of problems
+for which the model performance was not improved very much by data augmentation.
+For these problems, the accuracy on \textit{non-entailment} examples was still worse than that on \textit{entailment} examples, \km{with the exception of the multilingual model finetuned with JSICK.}
+\km{For the problems involving factive adverbs, the model failed to distinguish between non-entailment examples where only the premise contains a non-factive adverb
+(e.g., \textit{\underline{Perhaps} the child is sleeping} $\not\Rightarrow$ \textit{The child is sleeping}) and entailment examples where both the premise and hypothesis contain a non-factive adverb of the same type
+(e.g., \textit{\underline{Perhaps} the child chased the running cat}
+$\Rightarrow$ \textit{\underline{Perhaps} the child chased the cat}).}
+This result is consistent with a previous study~\cite{DBLP:conf/aaai/GuptaKS21} showing that the model predictions do not change even when there are repeated phrases in an inference pair.
+
+\subsection{Comparison with human judgements}
+\label{ssec:human}
+To assess the difficulty of the JaNLI dataset, we collected human judgements on a subset of the JaNLI dataset through the Japanese crowdsourcing platform Lancers\footnote{https://www.lancers.jp/}.
+We selected five examples for each of 144 templates, that is,
+720 inference problems in total.
+We collected three annotations per pair and paid annotators \$0.10 per labeled pair.
+The annotators were six native Japanese speakers.
+The quality of the annotations was maintained by asking the annotators to fully understand the guidelines until they correctly answered all 10 test questions\todo{, 5 entailment and 5 non-entailment inference examples sampled from the basic training datasets}.
+
+As mentioned in Section~\ref{ssec:baseline}, the overall accuracy of human performance was very high: $94.0\%$ (see Table~\ref{tab:results}).
+\km{Also, Table~\ref{tab:results-pheno} shows that humans can make correct judgements
+across all types of problems present in the JaNLI dataset, 
+despite the fact that some of them, in particular, garden-path sentences with noun-modifying clauses, are known to be hard to process based on reading time and other tests~\cite{miyamoto08}.}
+Compared with the accuracy for other linguistic phenomenon, 
+the accuracy for causative and passive was relatively low ($85\%$ and $91.7\%$, respectively).
+For example, humans tend to predict the label for the following
+entailment pair as \textit{non-entailment}.
+\begin{exe}
+\exi{\textit{P}:}
+\mbox{先生} \mbox{が} \mbox{男の子} \mbox{を} \mbox{海} \mbox{で} \mbox{泳がせた}\\
+teacher ga boy o ocean in swim-\textsc{cause}\\
+(\textit{The teacher made the boy swim in the ocean})
+\medskip
+\exi{\textit{H}:} \mbox{男の子} \mbox{が} \mbox{海} \mbox{で} \mbox{泳いでいる}\\
+boy ga ocean in swimming\\
+(\textit{The boy is swimming in the ocean})
+\end{exe}
+One possible reason why workers judge this entailment pair as \textit{non-entailment} is that while the hypothesis sentence \textit{H} can be interpreted
+to mean that the boy is swimming spontaneously of his own will,
+the premise sentence \textit{P} involving a causative verb in Japanese can be interpreted to mean that
+the boy is \textit{forced} to swim against his will~\cite{kuroda65,tsujimura2013introduction}.
+A similar additional meaning beyond a simple truth-conditional content
+(i.e., \textit{affectivity}) is involved in Japanese passive constructions as well~\cite{kuno73,kuroda79}. It is beyond the scope of this work
+to address the issue of non-truth-conditional meanings.
+
+
+\paragraph{Garden-path effects}
+Table~\ref{tab:results-garden} shows detailed results on
+sentences with garden-path effects.
+As expected, the human annotators achieved slightly higher scores on garden-path problems involving factors that make the interpretation of garden-path sentences relatively easy (double-o, punctuation, selectional restriction, the topic marker \textit{wa}, and scrambling) compared with normal garden-path problems.
+By contrast, there was no consistent tendency in this regard for the predictions of the BERT models.
+This might indicate that, unlike humans, the models do not distinguish problems involving normal garden-path phenomena from those involving factors that make them easier to interpret.
+
+\paragraph{Number of NP arguments}
+Table~\ref{tab:results-nps} shows results on problems involving garden-path sentences for different numbers of NPs.
+While Japanese psycholinguistic studies have shown that humans tend to struggle with processing garden-path sentences when 
+they contain more NP-arguments~\cite{inoue1990b},
+but there seems to be no such trend in the case of NLI
+for both human judgements and model predictions.
+This result indicates that
+the number of NP arguments (at least up to four)
+does not significantly affect 
+the correctness of entailment judgements.
+
+\section{Conclusion}
+\label{sec:conclusion}
+We introduced the JaNLI dataset, which was
+designed to assess the generalization capacity of pre-trained language models
+on NLI in Japanese.
+Experiments showed that both Japanese and multilingual BERT models trained with basic Japanese NLI datasets performed very poorly on the JaNLI dataset.
+In addition, \todo{both Japanese and multilingual models, in particular the latter, struggled with learning some Japanese linguistic phenomena even when augmented with a portion of the JaNLI dataset.}
+This suggests that there is still much room for improving the generalization capacity of pre-trained language models.
+\todo{Lastly, the comparison between human performance and model performance illustrated that whereas the models failed to correctly predict labels for non-entailment examples, human judgement was near perfect. 
+Furthermore, factors that ease the interpretation of garden-path sentences for humans do not help model predictions.}
+Overall, our dataset illuminates the vulnerabilities of
+the currently standard pre-trained language models
+and indicate a new challenge for cross-lingual generalization of NLI.
+
+\section*{Acknowledgements}
+We thank the three anonymous reviewers for their helpful comments and suggestions.
+This work was partially supported by JSPS KAKENHI Grant Number JP20K19868.
+
+% Entries for the entire Anthology, followed by custom entries
+\bibliography{anthology,custom}
+\bibliographystyle{acl_natbib}
+
+\appendix
+
+%\if0
+\section{Templates}
+\label{app:templates}
+
+
+
+Table~\ref{tab:app-ex} shows examples of templates to generate
+premises and hypothesis sentences for each linguistic phenomenon
+(except garden-path sentences with noun-modifying clauses, whose
+example is shown in Table~\ref{tab:gp-templates}).
+Note that the conjugation of verbs can change for causative and passive forms in Japanese. Thus, when annotating a structural pattern (heuristics) tag,
+if the verb stems are the same in the premise and hypothesis sentences,
+we take them to be the same word.
+
+The full list of templates and lexical items can be found at
+ \url{https://github.com/verypluming/JaNLI}.
+
+
+
+\begin{table*}[h]
+\centering
+\scalebox{0.71}{
+\begin{tabular}{lll}\hline
+Templates for \textit{P} and \textit{H} &
+Example &
+Phenomenon/Pattern \\ \hline
+
+%Scrambling
+\Premise
+{\NPoneApp{NP1} ga \NPtwoApp{NP2} o \TVoApp{TV-o}}
+{\NPoneApp{子供} が \NPtwoApp{女性} を \TVoApp{見ている}}
+{\NPoneApp{child} ga \NPtwoApp{woman} o \TVoApp{looking}}
+{The child is looking at the woman}
+{Scrambling} \\
+
+\Entail{1}
+{\NPtwoApp{NP2} o \NPoneApp{NP1} ga \TVoApp{TV-o}}
+{\NPtwoApp{女性} を \NPoneApp{子供} が \TVoApp{見ている}}
+{The child is looking at the woman}
+{\fulloverlap} \\
+
+\NonEntail{2}
+{\NPoneApp{NP1} o \NPtwoApp{NP2} ga \TVoApp{TV-o}}
+{\NPoneApp{子供} を \NPtwoApp{女性} が \TVoApp{見ている}}
+{The woman is looking at the child}
+{\fulloverlap} \\
+
+\NonEntail{3}
+{\NPtwoApp{NP2} ga \NPoneApp{NP1} o \TVoApp{TV-o}}
+{\NPtwoApp{女性} が \NPoneApp{子供} を \TVoApp{見ている}}
+{The woman is looking at the child}
+{\fulloverlap}
+
+\\ \hline
+
+%Passive
+\Premise
+{\NPoneApp{NP1} ga \NPtwoApp{NP2} ni \IVApp{TV-o} \TVoApp{passive}}
+{\NPoneApp{男の子} が \NPtwoApp{若者} に \IVApp{押さ}\TVoApp{れた}}
+{\NPoneApp{boy} ga \NPtwoApp{young-man} ni \IVApp{push}-\TVoApp{passive}}
+{The boy was pushed by the young man}
+{Passive} \\
+
+\NonEntail{1}
+{\NPoneApp{NP1} ga \NPtwoApp{NP2} o \IVApp{TV-o}}
+{\NPoneApp{男の子} が \NPtwoApp{若者} を \IVApp{押した}}
+{The boy pushed the young man}
+{\ordered} \\
+
+\Entail{2}
+{\NPtwoApp{NP2} ga \NPoneApp{NP1} o \IVApp{TV-o}}
+{\NPtwoApp{若者} が \NPoneApp{男の子} を \IVApp{押した}}
+{The young man pushed the boy}
+{\mixed}
+
+\\ \hline
+
+%Causative
+\Premise
+{\NPoneApp{NP1} ga \NPtwoApp{NP2} o \IVApp{IV} \TVoApp{causative}}
+{\NPoneApp{男の子} が \NPtwoApp{カップル} を \IVApp{笑わ}\TVoApp{せている}}
+{\NPoneApp{boy} ga \NPtwoApp{couple} o \IVApp{laugh}-\TVoApp{causative}}
+{The boy is making the couple laugh}
+{Causative} \\
+
+\NonEntail{1}
+{\NPoneApp{NP1} ga \IVApp{IV}}
+{\NPoneApp{男の子} が \IVApp{笑っている}}
+{The boy is laughing}
+{\ordered} \\
+
+\Entail{2}
+{\NPtwoApp{NP2} ga \IV{IV}}
+{\NPtwoApp{カップル} が \IV{笑っている}}
+{The couple is laughing}
+{\ordered}
+
+\\ \hline
+
+%Factive adverb
+\Premise
+{\TVoApp{Factive-adverb} \NPoneApp{NP1} ga \IVApp{IV}}
+{\TVoApp{もしかしたら} \NPoneApp{サーファー} が \IVApp{泳いでいる}}
+{\TVoApp{perhaps} \NPoneApp{surfer} ga \IVApp{swimming}}
+{Perhaps the surfer is swimming}
+{Factive adverb} \\
+
+\NonEntailLong{1}
+{\NPoneApp{NP1} ga \IVApp{IV}}
+{\NPoneApp{サーファー} が \IVApp{泳いでいる}}
+{The surfer is swimming}
+{\constituent}
+
+\\ \hline
+
+%Factive verb
+\Premise
+{\NPoneApp{NP1} ga \IVApp{IV} \TVoApp{Factive-verb}}
+{\NPoneApp{サーファー} が \IVApp{眠っている} \TVoApp{ことは確実だ}}
+{\NPoneApp{surfer} ga \IVApp{sleeping} \TVoApp{certain}}
+{It is certain that the surfer is sleeping}
+{Factive verb} \\
+
+\EntailLong{1}
+{\NPoneApp{NP1} ga \IVApp{IV}}
+{\NPoneApp{サーファー} が \IVApp{眠っている}}
+{The surfer is sleeping}
+{\constituent}
+
+\\ \hline
+
+%Modal
+\Premise
+{\NPoneApp{NP1} ga \NPtwoApp{NP-place} de \IVApp{IV} \TVoApp{MODAL}}
+{\NPoneApp{子供} が \NPtwoApp{庭} で \IVApp{泣いている} \TVoApp{かもしれない}}
+{\NPoneApp{child} ga \NPtwoApp{garden} de \IVApp{crying} \TVoApp{might}}
+{The child might be crying in the garden}
+{Modal} \\
+
+\NonEntailLong{1}
+{\NPoneApp{NP1} ga \NPtwoApp{NP-place} de \IVApp{IV}}
+{\NPoneApp{子供} が \NPtwoApp{庭} で \IVApp{泣いている}}
+{The child is crying in the garden}
+{\subsequence} \\
+
+\EntailLong{2}
+{\NPtwoApp{NP-place} de \NPoneApp{NP1} ga \IVApp{IV} \TVoApp{MODAL}}
+{\NPtwoApp{庭} で \NPoneApp{子供} が \IVApp{泣いている} \TVoApp{かもしれない}}
+{The child might be crying in the garden}
+{\mixed}
+
+\\ \hline
+
+%Negation
+\Premise
+{\NPoneApp{NP1} ga \NPtwoApp{NP-place} de \IVApp{IV} \TVoApp{NEG}}
+{\NPoneApp{子供} が \NPtwoApp{海辺} で \IVApp{横たわっている} \TVoApp{わけではない}}
+{\NPoneApp{child} ga \NPtwoApp{beach} de \IVApp{lying} \TVoApp{negation}}
+{The child is not lying on the beach}
+{Negation} \\
+
+\NonEntailLong{1}
+{\NPoneApp{NP1} ga \NPtwoApp{NP-place} de \IVApp{IV}}
+{\NPoneApp{子供} が \NPtwoApp{海辺} で \IVApp{横たわっている}}
+{The child is lying on the beach}
+{\subsequence} \\
+
+\EntailLong{2}
+{\NPtwoApp{NP-place} de \NPoneApp{NP1} ga \IVApp{IV} \TVoApp{NEG}}
+{\NPtwoApp{海辺} で \NPoneApp{子供} が \IVApp{横たわっている} \TVoApp{わけではない}}
+{The child is not lying on the beach}
+{\mixed}
+
+\\ \hline
+
+%NP-coordination
+\Premise
+{\NPoneApp{NP1} ga \NPtwoApp{NP2} ka \NPthreeApp{NP3} o \TVoApp{TV-o}}
+{\NPoneApp{子供} が \NPtwoApp{女性} か \NPthreeApp{男性} を \TVoApp{見ている}}
+{\NPoneApp{child} ga \NPtwoApp{woman} or \NPthreeApp{man} o \TVoApp{looking}}
+{The child is looking at the woman or the man}
+{NP-coordination} \\
+
+\NonEntailLong{1}
+{\NPoneApp{NP1} ga \NPtwoApp{NP2} o \TVoApp{tv-o}}
+{\NPoneApp{子供} が \NPtwoApp{女性} を \TVoApp{見ている}}
+{The child is looking at the woman}
+{\ordered} \\
+
+\NonEntailLong{2}
+{\NPoneApp{NP1} ga \NPthreeApp{NP3} o \TVoApp{tv-o}}
+{\NPoneApp{子供} が \NPthreeApp{男性} を \TVoApp{見ている}}
+{The child is looking at the man}
+{\ordered}
+
+\\ \hline
+
+%Sentence-subordination
+\Premise
+{\NPoneApp{NP1} ga \IVApp{IV} \TVoo{reason} \NPtwoApp{NP2} ga \NPthreeApp{NP3} o \TVoApp{TV-o}}
+{\NPoneApp{カップル} が \IVApp{遊んでいる} \TVoo{から} \NPtwoApp{子供} が \NPthreeApp{ライダー} を \TVoApp{見ている}}
+{\NPoneApp{couple} ga \IVApp{playing} \TVoo{because} \NPtwoApp{child} ga \NPthreeApp{rider} o \TVoApp{looking}}
+{Because the couple is playing, the child is looking at the rider}
+{Sentence-subordination} \\
+
+\EntailLong{1}
+{\NPoneApp{NP1} ga \IVApp{IV}}
+{\NPoneApp{カップル} が \IVApp{遊んでいる}}
+{The couple is playing}
+{\constituent} \\
+
+\EntailLong{2}
+{\NPtwoApp{NP2} ga \NPthreeApp{NP3} o \TVoApp{TV-o}}
+{\NPtwoApp{子供} が \NPthreeApp{ライダー} を \TVoApp{見ている}}
+{The child is looking at the rider}
+{\constituent}
+
+\\ \hline
+
+%Sentence-coordination
+\Premise
+{\NPoneApp{NP1} ga \IVApp{IV} \TVoo{ka} \NPtwoApp{NP2} ga \NPthreeApp{NP3} o \TVoApp{TV-o}}
+{\NPoneApp{女の子} が \IVApp{走っている} \TVoo{か} \NPtwoApp{子供} が \NPthreeApp{ライダー} を \TVoApp{追い回している}}
+{\NPoneApp{girl} ga \IVApp{running} \TVoo{or} \NPtwoApp{child} ga \NPthreeApp{rider} o \TVoApp{chasing}}
+{The girl is running or the child is chasing the rider}
+{Sentence-coordination} \\
+
+\NonEntailLong{1}
+{\NPoneApp{NP1} ga \IVApp{IV}}
+{\NPoneApp{女の子} が \IVApp{走っている}}
+{The girl is running}
+{\constituent} \\
+
+\NonEntailLong{2}
+{\NPtwoApp{NP2} ga \NPthreeApp{NP3} o \TVoApp{TV-o}}
+{\NPtwoApp{子供} が \NPthreeApp{ライダー} を \TVoApp{追い回している}}
+{The child is chasing the rider}
+{\constituent}
+
+
+\\ \hline
+\end{tabular}
+}%scalebox
+\caption{Example templates for premise and hypothesis sentences
+for each linguistic phenomenon.
+``$\Rightarrow$'' indicates \textit{entailment} and ``$\not\Rightarrow$''
+\textit{non-entailment}.
+}
+\label{tab:app-ex}
+\end{table*}
+
+
+
+
+
+
+\end{document}

@@ -1,0 +1,60 @@
+SubmissionNumber#=%=#3292
+FinalPaperTitle#=%=#GupShup: Summarizing Open-Domain Code-Switched Conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Debanjan Mahata
+JobTitle#==#
+Organization#==#Moody's Analytics, 7 World Trade Center, NY 10007
+Abstract#==#Code-switching is the communication phenomenon where the speakers switch between different languages during a conversation. With the widespread adoption of conversational agents and chat platforms, code-switching has become an integral part of written conversations in many multi-lingual communities worldwide. Therefore, it is essential to develop techniques for understanding and summarizing these conversations. Towards this objective, we introduce the task of abstractive summarization of Hindi-English (Hi-En) code-switched conversations. We also develop the first code-switched conversation summarization dataset - \textit{GupShup}, which contains over 6,800 Hi-En conversations and their corresponding human-annotated summaries in English (En) and Hi-En. We present a detailed account of the entire data collection and annotation process. We analyze the dataset using various code-switching statistics. We train state-of-the-art abstractive summarization models and report their performances using both automated metrics and human evaluation. Our results show that multi-lingual mBART and multi-view seq2seq models obtain the best performances on this new dataset. We also conduct an extensive qualitative analysis to provide insight into the models and some of their shortcomings.
+Author{1}{Firstname}#=%=#Laiba
+Author{1}{Lastname}#=%=#Mehnaz
+Author{1}{Username}#=%=#laibamehnaz
+Author{1}{Email}#=%=#laibamehnaz@gmail.com
+Author{1}{Affiliation}#=%=#MIDAS lab, IIITD
+Author{2}{Firstname}#=%=#Debanjan
+Author{2}{Lastname}#=%=#Mahata
+Author{2}{Username}#=%=#debanjanmahata
+Author{2}{Email}#=%=#debanjanmahata85@gmail.com
+Author{2}{Affiliation}#=%=#Bloomberg
+Author{3}{Firstname}#=%=#Rakesh
+Author{3}{Lastname}#=%=#Gosangi
+Author{3}{Username}#=%=#rgosangi
+Author{3}{Email}#=%=#rgosangi@bloomberg.net
+Author{3}{Affiliation}#=%=#Bloomberg LP
+Author{4}{Firstname}#=%=#Uma Sushmitha
+Author{4}{Lastname}#=%=#Gunturi
+Author{4}{Username}#=%=#umagunturi
+Author{4}{Email}#=%=#ug6337@bennett.edu.in
+Author{4}{Affiliation}#=%=#Bennett University
+Author{5}{Firstname}#=%=#Riya
+Author{5}{Lastname}#=%=#Jain
+Author{5}{Username}#=%=#riya.jain
+Author{5}{Email}#=%=#riya.j17@iiits.in
+Author{5}{Affiliation}#=%=#Indian Institute of Information Technology, Sri City
+Author{6}{Firstname}#=%=#Gauri
+Author{6}{Lastname}#=%=#Gupta
+Author{6}{Username}#=%=#gaurigupta
+Author{6}{Email}#=%=#gaurigupta.315@gmail.com
+Author{6}{Affiliation}#=%=#Manipal Institute of Technology
+Author{7}{Firstname}#=%=#Amardeep
+Author{7}{Lastname}#=%=#Kumar
+Author{7}{Username}#=%=#ad6398
+Author{7}{Email}#=%=#adkr6398@gmail.com
+Author{7}{Affiliation}#=%=#Indian Institute of Technology (Indian School of Mines), Dhanbad
+Author{8}{Firstname}#=%=#Isabelle G.
+Author{8}{Lastname}#=%=#Lee
+Author{8}{Username}#=%=#iglee
+Author{8}{Email}#=%=#iglee@uw.edu
+Author{8}{Affiliation}#=%=#University of Washington
+Author{9}{Firstname}#=%=#Anish
+Author{9}{Lastname}#=%=#Acharya
+Author{9}{Username}#=%=#anishacharya
+Author{9}{Email}#=%=#anishacharya@utexas.edu
+Author{9}{Affiliation}#=%=#University of Texas at Austin
+Author{10}{Firstname}#=%=#Rajiv Ratn
+Author{10}{Lastname}#=%=#Shah
+Author{10}{Username}#=%=#rrshah
+Author{10}{Email}#=%=#rajivratn@iiitd.ac.in
+Author{10}{Affiliation}#=%=#IIIT Delhi
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#2081
+FinalPaperTitle#=%=#Evaluating Debiasing Techniques for Intersectional Biases
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Shivashankar
+JobTitle#==#
+Organization#==#
+Abstract#==#Bias is pervasive for NLP models, motivating the development of automatic debiasing techniques. Evaluation of NLP debiasing methods has largely been limited to binary attributes in isolation, e.g., debiasing with respect to binary gender or race, however many corpora involve multiple such attributes, possibly with higher cardinality. In this paper we argue that a truly fair model must consider `gerrymandering' groups which comprise not only single attributes, but also intersectional groups.
+We evaluate a form of bias-constrained model which is new to NLP, as well an extension of the iterative nullspace projection technique which can handle multiple identities.
+Author{1}{Firstname}#=%=#Shivashankar
+Author{1}{Lastname}#=%=#Subramanian
+Author{1}{Username}#=%=#shivashankar
+Author{1}{Email}#=%=#shivashankar@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#University of Melbourne
+Author{2}{Firstname}#=%=#Xudong
+Author{2}{Lastname}#=%=#Han
+Author{2}{Username}#=%=#xudongh1
+Author{2}{Email}#=%=#xudongh1@student.unimelb.edu.au
+Author{2}{Affiliation}#=%=#The university of Melbourne
+Author{3}{Firstname}#=%=#Timothy
+Author{3}{Lastname}#=%=#Baldwin
+Author{3}{Username}#=%=#tbaldwin
+Author{3}{Email}#=%=#tb@ldwin.net
+Author{3}{Affiliation}#=%=#The University of Melbourne
+Author{4}{Firstname}#=%=#Trevor
+Author{4}{Lastname}#=%=#Cohn
+Author{4}{Username}#=%=#t.cohn
+Author{4}{Email}#=%=#trevor.cohn@unimelb.edu.au
+Author{4}{Affiliation}#=%=#University of Melbourne
+Author{5}{Firstname}#=%=#Lea
+Author{5}{Lastname}#=%=#Frermann
+Author{5}{Username}#=%=#frermann
+Author{5}{Email}#=%=#lea.frermann@unimelb.edu.au
+Author{5}{Affiliation}#=%=#Melbourne University
+
+==========

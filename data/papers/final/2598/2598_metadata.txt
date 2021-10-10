@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2598
+FinalPaperTitle#=%=#Deep Attention Diffusion Graph Neural Networks for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xiaoyue Feng
+JobTitle#==#
+Organization#==#College of Computer Science and Technology, Jilin University
+No.2699, Qianjin Street, Changchun, China
+Abstract#==#Text classification is a fundamental task with broad applications in natural language processing. Recently, graph neural networks (GNNs) have attracted much attention due to their powerful representation ability. However, most existing methods for text classification based on GNNs consider only one-hop neighborhoods and low-frequency information within texts, which cannot fully utilize the rich context information of documents. Moreover, these models suffer from over-smoothing issues if many graph layers are stacked. In this paper, a Deep Attention Diffusion Graph Neural Network (DADGNN) model is proposed to learn text representations, bridging the chasm of interaction difficulties between a word and its distant neighbors. Experimental results on various standard benchmark datasets demonstrate the superior performance of the present approach.
+Author{1}{Firstname}#=%=#Yonghao
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#lovetogo
+Author{1}{Email}#=%=#yonghao20@mails.jlu.edu.cn
+Author{1}{Affiliation}#=%=#Jilin University
+Author{2}{Firstname}#=%=#Renchu
+Author{2}{Lastname}#=%=#Guan
+Author{2}{Username}#=%=#rcguan
+Author{2}{Email}#=%=#guanrenchu@jlu.edu.cn
+Author{2}{Affiliation}#=%=#Jilin University
+Author{3}{Firstname}#=%=#fausto
+Author{3}{Lastname}#=%=#giunchiglia
+Author{3}{Username}#=%=#fausto.giunchiglia
+Author{3}{Email}#=%=#fausto.giunchiglia@unitn.it
+Author{3}{Affiliation}#=%=#Univesity of Trento
+Author{4}{Firstname}#=%=#Yanchun
+Author{4}{Lastname}#=%=#Liang
+Author{4}{Email}#=%=#ycliang@jlu.edu.cn
+Author{4}{Affiliation}#=%=#Jilin University
+Author{5}{Firstname}#=%=#Xiaoyue
+Author{5}{Lastname}#=%=#Feng
+Author{5}{Username}#=%=#fengxy
+Author{5}{Email}#=%=#fengxy@jlu.edu.cn
+Author{5}{Affiliation}#=%=#Jilin University
+
+==========

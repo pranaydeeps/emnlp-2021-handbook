@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Event and Entity Coreference using Trees to Encode Uncertainty in Joint Decisions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nishant Yadav
+JobTitle#==#
+Organization#==#College of Information and Computer Sciences,
+University of Massachusetts Amherst
+140 Governors Drive
+Amherst, MA 01003
+Abstract#==#Coreference decisions among event mentions and among co-occurring entity mentions are highly interdependent, thus motivating joint inference. Capturing the uncertainty over each variable can be crucial for inference among multiple dependent variables. Previous work on joint coreference employs heuristic approaches, lacking well-defined objectives, and lacking modeling of uncertainty on each side of the joint problem. We present a new approach of joint coreference, including (1) a formal cost function inspired by Dasgupta's cost for hierarchical clustering, and (2) a representation for uncertainty of clustering of event and entity mentions, again based on a hierarchical structure.  We describe an alternating optimization method for inference that when clustering event mentions, considers the uncertainty of the clustering of entity mentions and vice-versa. We show that our proposed joint model provides empirical advantages over state-of-the-art independent and joint models.
+Author{1}{Firstname}#=%=#Nishant
+Author{1}{Lastname}#=%=#Yadav
+Author{1}{Username}#=%=#nishantyadav
+Author{1}{Email}#=%=#nishantyadav@cs.umass.edu
+Author{1}{Affiliation}#=%=#UMass Amherst
+Author{2}{Firstname}#=%=#Nicholas
+Author{2}{Lastname}#=%=#Monath
+Author{2}{Username}#=%=#nmonath
+Author{2}{Email}#=%=#nmonath@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Rico
+Author{3}{Lastname}#=%=#Angell
+Author{3}{Username}#=%=#rangell
+Author{3}{Email}#=%=#rangell@cs.umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{4}{Firstname}#=%=#Andrew
+Author{4}{Lastname}#=%=#McCallum
+Author{4}{Username}#=%=#mccallum
+Author{4}{Email}#=%=#mccallum@cs.umass.edu
+Author{4}{Affiliation}#=%=#UMass Amherst
+
+==========

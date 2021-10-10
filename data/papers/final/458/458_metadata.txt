@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#458
+FinalPaperTitle#=%=#Interactive Machine Comprehension with Dynamic Knowledge Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Xingdi Yuan
+JobTitle#==#
+Organization#==#
+Abstract#==#Interactive machine reading comprehension (iMRC) is machine comprehension tasks where knowledge sources are partially observable. An agent must interact with an environment sequentially to gather necessary knowledge in order to answer a question. We hypothesize that graph representations are good inductive biases, which can serve as an agent's memory mechanism in iMRC tasks. We explore four different categories of graphs that can capture text information at various levels. We describe methods that dynamically build and update these graphs during information gathering, as well as neural models to encode graph representations in RL agents. Extensive experiments on iSQuAD suggest that graph representations can result in significant performance improvements for RL agents.
+Author{1}{Firstname}#=%=#Xingdi
+Author{1}{Lastname}#=%=#Yuan
+Author{1}{Username}#=%=#eryua
+Author{1}{Email}#=%=#eryua@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+
+==========

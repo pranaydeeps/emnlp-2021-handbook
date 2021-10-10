@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#738
+FinalPaperTitle#=%=#GAML-BERT: Improving BERT Early Exiting by Gradient Aligned Mutual Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Wei Zhu
+JobTitle#==#Researcher
+Organization#==#
+Abstract#==#In this work, we propose a novel framework, \underline{G}radient \underline{A}ligned \underline{M}utual \underline{L}earning BERT (GAML-BERT), for improving the early exiting of BERT. GAML-BERT's contributions are two-fold. We conduct a set of pilot experiments, which shows that mutual knowledge distillation between a shallow exit and a deep exit leads to better performances for both. From this observation, we use mutual learning to improve BERT's early exiting performances, that is, we ask each exit of a multi-exit BERT to distill knowledge from each other. Second, we propose GA, a novel training method that aligns the gradients from knowledge distillation to cross-entropy losses. Extensive experiments are conducted on the GLUE benchmark, which shows that our GAML-BERT can significantly outperform the state-of-the-art (SOTA) BERT early exiting methods.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Username}#=%=#zhuwei972
+Author{1}{Email}#=%=#52205901018@stu.ecnu.edu.cn
+Author{1}{Affiliation}#=%=#ECNU
+Author{2}{Firstname}#=%=#Xiaoling
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#xlwang
+Author{2}{Email}#=%=#xlwang@sei.ecnu.edu.cn
+Author{2}{Affiliation}#=%=#East China Normal University
+Author{3}{Firstname}#=%=#Yuan
+Author{3}{Lastname}#=%=#Ni
+Author{3}{Username}#=%=#niyuan442
+Author{3}{Email}#=%=#niyuan442@pingan.com
+Author{3}{Affiliation}#=%=#PingAn
+Author{4}{Firstname}#=%=#GUOTONG
+Author{4}{Lastname}#=%=#XIE
+Author{4}{Username}#=%=#guotong
+Author{4}{Email}#=%=#xieguotong@pingan.com.cn
+Author{4}{Affiliation}#=%=#PINGAN TECHNOLOGY
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4813
+FinalPaperTitle#=%=#Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hao Chen
+JobTitle#==#
+Organization#==#School of Computer Science and Engineering, Nanjing University of Science and Technology, China
+Abstract#==#Data augmentation and adversarial perturbation approaches have recently achieved promising results in solving the over-fitting problem in many natural language processing (NLP) tasks including sentiment classification. However, existing studies aimed to improve the generalization ability by augmenting the training data with synonymous examples or adding random noises to word embeddings, which cannot address the spurious association problem. In this work, we propose an end-to-end reinforcement learning framework, which jointly performs counterfactual data generation and dual sentiment classification. Our approach has three characteristics:1) the generator automatically generates massive and diverse antonymous sentences; 2) the discriminator contains a original-side sentiment predictor and an antonymous-side sentiment predictor, which jointly evaluate the quality of the generated sample and help the generator iteratively generate higher-quality antonymous samples; 3) the discriminator is directly used as the final sentiment classifier without the need to build an extra one. Extensive experiments show that our approach outperforms strong data augmentation baselines on several benchmark sentiment classification datasets. Further analysis confirms our approach's advantages in generating more diverse training samples and solving the spurious association problem in sentiment classification.
+Author{1}{Firstname}#=%=#Hao
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#haochen
+Author{1}{Email}#=%=#hchen@njust.edu.cn
+Author{1}{Affiliation}#=%=#Nanjing university of science and technology
+Author{2}{Firstname}#=%=#Rui
+Author{2}{Lastname}#=%=#Xia
+Author{2}{Username}#=%=#rxiacn
+Author{2}{Email}#=%=#rxia@njust.edu.cn
+Author{2}{Affiliation}#=%=#Nanjing University of Science and Technology
+Author{3}{Firstname}#=%=#Jianfei
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#jfyu
+Author{3}{Email}#=%=#jfyu@njust.edu.cn
+Author{3}{Affiliation}#=%=#Nanjing University of Science and Technology
+
+==========

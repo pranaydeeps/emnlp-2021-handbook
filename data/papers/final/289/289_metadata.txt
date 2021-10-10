@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#289
+FinalPaperTitle#=%=#Reducing Discontinuous to Continuous Parsing with Pointer Network Reordering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Daniel Fernández-González
+JobTitle#==#
+Organization#==#Universidade da Coruña, Facultade de Informática, Campus de Elviña, s/n, 15071 A Coruña, Spain
+Abstract#==#Discontinuous constituent parsers have always lagged behind continuous approaches in terms of accuracy and speed, as the presence of constituents with discontinuous yield
+introduces extra complexity to the task. However, a discontinuous tree can be converted into a continuous variant by reordering tokens. Based on that, we propose to reduce discontinuous parsing to a continuous problem, which can then be directly solved by any off-the-shelf continuous parser. To that end, we develop a Pointer Network capable of accurately generating the continuous token arrangement for a given input sentence and define a bijective function to recover the original order. Experiments on the main benchmarks with two continuous parsers prove that our approach is on par in accuracy with purely discontinuous state-of-the-art algorithms, but considerably faster.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Fernández-González
+Author{1}{Username}#=%=#dani_fzgz
+Author{1}{Email}#=%=#d.fgonzalez@udc.es
+Author{1}{Affiliation}#=%=#Universidade da Coruña
+Author{2}{Firstname}#=%=#Carlos
+Author{2}{Lastname}#=%=#Gómez-Rodríguez
+Author{2}{Username}#=%=#cgomezr
+Author{2}{Email}#=%=#cgomezr@udc.es
+Author{2}{Affiliation}#=%=#Universidade da Coruña
+
+==========

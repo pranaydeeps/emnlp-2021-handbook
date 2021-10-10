@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1649
+FinalPaperTitle#=%=#CSAGN: Conversational Structure Aware Graph Network for Conversational Semantic Role Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kun Xu
+JobTitle#==#
+Organization#==#Tencent AI Lab
+Bellevue, WA, 98075
+Abstract#==#Conversational semantic role labeling (CSRL) is believed to be a crucial step towards dialogue understanding.
+However, it remains a major challenge for existing CSRL parser to handle conversational structural information.
+In this paper, we present a simple and effective architecture for CSRL which aims to address this problem.
+Our model is based on a conversational structure aware graph network which explicitly encodes the speaker dependent information.
+We also propose a multi-task learning method to further improve the model.
+Experimental results on benchmark datasets show that our model with our proposed training objectives significantly outperforms previous baselines.
+Author{1}{Firstname}#=%=#Han
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Username}#=%=#han.wu
+Author{1}{Email}#=%=#hanwu32-c@my.cityu.edu.hk
+Author{1}{Affiliation}#=%=#City University of Hong Kong
+Author{2}{Firstname}#=%=#Kun
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Username}#=%=#syxu828
+Author{2}{Email}#=%=#syxu828@gmail.com
+Author{2}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Firstname}#=%=#Linqi
+Author{3}{Lastname}#=%=#Song
+Author{3}{Username}#=%=#songlinqi
+Author{3}{Email}#=%=#linqi.song@cityu.edu.hk
+Author{3}{Affiliation}#=%=#City University of Hong Kong
+
+==========

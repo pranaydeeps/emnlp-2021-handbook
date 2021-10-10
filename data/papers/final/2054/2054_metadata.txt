@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#2054
+FinalPaperTitle#=%=#Enhancing Dual-{E}ncoders with Question and Answer Cross-{E}mbeddings for Answer Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yanmeng Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Dual-Encoders is a promising mechanism for answer retrieval in question answering (QA) systems. Currently most conventional Dual-Encoders learn the semantic representations of questions and answers merely through matching score. Researchers proposed to introduce the QA interaction features in scoring function but at the cost of low efficiency in inference stage. To keep independent encoding of questions and answers during inference stage, variational auto-encoder is further introduced to reconstruct answers (questions) from question (answer) embeddings as an auxiliary task to enhance QA interaction in representation learning in training stage. However, the needs of text generation and answer retrieval are different, which leads to hardness in training. In this work, we propose a framework to enhance the Dual-Encoders model with question answer cross-embeddings and a novel Geometry Alignment Mechanism (GAM) to align the geometry of embeddings from Dual-Encoders with that from Cross-Encoders. Extensive experimental results show that our framework significantly improves Dual-Encoders model and outperforms the state-of-the-art method on multiple answer retrieval datasets.
+Author{1}{Firstname}#=%=#Yanmeng
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#w82318029
+Author{1}{Email}#=%=#wangyanmeng219@pingan.com.cn
+Author{1}{Affiliation}#=%=#Ping An Technology
+Author{2}{Firstname}#=%=#Jun
+Author{2}{Lastname}#=%=#Bai
+Author{2}{Username}#=%=#baijun
+Author{2}{Email}#=%=#ba1_jun@buaa.edu.cn
+Author{2}{Affiliation}#=%=#Beihang University
+Author{3}{Firstname}#=%=#Ye
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#wangye430
+Author{3}{Email}#=%=#wangye430@pingan.com.cn
+Author{3}{Affiliation}#=%=#Ping An Technology
+Author{4}{Firstname}#=%=#Jianfei
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#zhangjianfei
+Author{4}{Email}#=%=#zhangjf@buaa.edu.cn
+Author{4}{Affiliation}#=%=#Beihang University
+Author{5}{Firstname}#=%=#Wenge
+Author{5}{Lastname}#=%=#Rong
+Author{5}{Username}#=%=#wahaha
+Author{5}{Email}#=%=#w.rong@buaa.edu.cn
+Author{5}{Affiliation}#=%=#Beihang University
+Author{6}{Firstname}#=%=#Zongcheng
+Author{6}{Lastname}#=%=#Ji
+Author{6}{Username}#=%=#jizongcheng
+Author{6}{Email}#=%=#jizongcheng@gmail.com
+Author{6}{Affiliation}#=%=#PAII Inc.
+Author{7}{Firstname}#=%=#Shaojun
+Author{7}{Lastname}#=%=#Wang
+Author{7}{Username}#=%=#shaojun.wang
+Author{7}{Email}#=%=#swang.usa@gmail.com
+Author{7}{Affiliation}#=%=#PAII Inc.
+Author{8}{Firstname}#=%=#Jing
+Author{8}{Lastname}#=%=#Xiao
+Author{8}{Username}#=%=#xiaojing
+Author{8}{Email}#=%=#xiaojing661@pingan.com.cn
+Author{8}{Affiliation}#=%=#Ping An Technology
+
+==========

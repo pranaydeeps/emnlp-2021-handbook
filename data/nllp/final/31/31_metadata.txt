@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Automatic Resolution of Domain Name Disputes
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Meladel Mistica
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce  the  new  task  of  domain  name dispute  resolution  (DNDR),  that  predicts  the outcome  of  a  process  for  resolving  disputes about legal entitlement to a domain name. TheICANN  UDRP  establishes  a  mandatory  arbitration process for a dispute between a trade-mark owner and a domain name registrant pertaining to a generic Top-Level Domain (gTLD) name (one ending in .COM, .ORG, .NET, etc). The  nature  of  the  problem  leads  to  a  very skewed data set, which stems from being able to register a domain name with extreme ease, very little expense, and no need to prove an entitlement to it.  In this paper, we describe thetask and associated data set.  We also present benchmarking results based on a range of mod-els,  which  show  that  simple  baselines  are  in general  difficult  to  beat  due  to  the  skewed data  distribution,  but  in  the  specific  case  of the  respondent  having  submitted  a  response, a fine-tuned BERT model offers considerable improvements over a majority-class model
+Author{1}{Firstname}#=%=#Wayan Oger
+Author{1}{Lastname}#=%=#Vihikan
+Author{1}{Email}#=%=#wvihikan@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Meladel
+Author{2}{Lastname}#=%=#Mistica
+Author{2}{Username}#=%=#meladel
+Author{2}{Email}#=%=#meladel.mistica@gmail.com
+Author{2}{Affiliation}#=%=#The University of Queensland
+Author{3}{Firstname}#=%=#Inbar
+Author{3}{Lastname}#=%=#Levy
+Author{3}{Email}#=%=#inbar.levy@unimelb.edu.au
+Author{3}{Affiliation}#=%=#The University of Melbourne
+Author{4}{Firstname}#=%=#Andrew
+Author{4}{Lastname}#=%=#Christie
+Author{4}{Email}#=%=#a.christie@unimelb.edu.au
+Author{4}{Affiliation}#=%=#The University of Melbourne
+Author{5}{Firstname}#=%=#Timothy
+Author{5}{Lastname}#=%=#Baldwin
+Author{5}{Username}#=%=#tbaldwin
+Author{5}{Email}#=%=#tb@ldwin.net
+Author{5}{Affiliation}#=%=#The University of Melbourne
+
+==========

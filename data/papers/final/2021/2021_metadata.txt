@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#2021
+FinalPaperTitle#=%=#CSDS: A Fine-Grained Chinese Dataset for Customer Service Dialogue Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Haitao Lin
+JobTitle#==#
+Organization#==#
+Abstract#==#Dialogue summarization has drawn much attention recently. Especially in the customer service domain, agents could use dialogue summaries to help boost their works by quickly knowing customer's issues and service progress. These applications require summaries to contain the perspective of a single speaker and have a clear topic flow structure, while neither are available in existing datasets. Therefore, in this paper, we introduce a novel Chinese dataset for Customer Service Dialogue Summarization (CSDS). CSDS improves the abstractive summaries in two aspects: (1) In addition to the overall summary for the whole dialogue, role-oriented summaries are also provided to acquire different speakers' viewpoints. (2) All the summaries sum up each topic separately, thus containing the topic-level structure of the dialogue. We define tasks in CSDS as generating the overall summary and different role-oriented summaries for a given dialogue. Next, we compare various summarization methods on CSDS, and experiment results show that existing methods are prone to generate redundant and incoherent summaries. Besides, the performance becomes much worse when analyzing the performance on role-oriented summaries and topic structures. We hope that this study could benchmark Chinese dialogue summarization and benefit further studies.
+Author{1}{Firstname}#=%=#Haitao
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#xiaolinandy
+Author{1}{Email}#=%=#haitao.lin@nlpr.ia.ac.cn
+Author{1}{Affiliation}#=%=#National Laboratory of Pattern Recognition, Institute of Automation, CAS
+Author{2}{Firstname}#=%=#Liqun
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#liqun
+Author{2}{Email}#=%=#maliqun2020@ia.ac.cn
+Author{2}{Affiliation}#=%=#National Laboratory of Pattern Recognition, Institute of Automation, CAS
+Author{3}{Firstname}#=%=#Junnan
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Username}#=%=#jnzhu
+Author{3}{Email}#=%=#junnan.zhu@nlpr.ia.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Lu
+Author{4}{Lastname}#=%=#Xiang
+Author{4}{Username}#=%=#lu.xiang
+Author{4}{Email}#=%=#lu.xiang@nlpr.ia.ac.cn
+Author{4}{Affiliation}#=%=#National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Yu
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Username}#=%=#yzhou
+Author{5}{Email}#=%=#yzhou@nlpr.ia.ac.cn
+Author{5}{Affiliation}#=%=#CASIA
+Author{6}{Firstname}#=%=#Jiajun
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#jjzhang
+Author{6}{Email}#=%=#jiajun.zhang@nlpr.ia.ac.cn
+Author{6}{Affiliation}#=%=#Institute of Automation Chinese Academy of Sciences
+Author{7}{Firstname}#=%=#Chengqing
+Author{7}{Lastname}#=%=#Zong
+Author{7}{Username}#=%=#zong
+Author{7}{Email}#=%=#cqzong@nlpr.ia.ac.cn
+Author{7}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+
+==========

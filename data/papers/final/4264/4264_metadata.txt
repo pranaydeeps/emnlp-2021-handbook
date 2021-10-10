@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#4264
+FinalPaperTitle#=%=#“Average” Approximates “First Principal Component”? An Empirical Analysis on Representations from Neural Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zihan Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Contextualized representations based on neural language models have furthered the state of the art in various NLP tasks. Despite its great success, the nature of such representations remains a mystery. In this paper, we present an empirical property of these representations---"average" approximates "first principal component''. Specifically, experiments show that the average of these representations shares almost the same direction as the first principal component of the matrix whose columns are
+these representations. We believe this explains why the average representation is always a simple yet strong baseline.  Our further examinations show that this property also holds in more challenging scenarios, for example, when the representations are from a model right after its random initialization. Therefore, we conjecture that this property is intrinsic to the distribution of representations and not necessarily related to the input structure. We realize that these representations empirically follow a normal distribution for each dimension, and by assuming this is true, we demonstrate that the empirical property can be in fact derived mathematically.
+Author{1}{Firstname}#=%=#Zihan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#zihanw
+Author{1}{Email}#=%=#ziw224@ucsd.edu
+Author{1}{Affiliation}#=%=#University of California San Diego
+Author{2}{Firstname}#=%=#Chengyu
+Author{2}{Lastname}#=%=#Dong
+Author{2}{Username}#=%=#chengyu77
+Author{2}{Email}#=%=#cdong@ucsd.edu
+Author{2}{Affiliation}#=%=#University of California, San Diego
+Author{3}{Firstname}#=%=#Jingbo
+Author{3}{Lastname}#=%=#Shang
+Author{3}{Username}#=%=#shangjingbo
+Author{3}{Email}#=%=#jshang@ucsd.edu
+Author{3}{Affiliation}#=%=#University of California, San Diego
+
+==========

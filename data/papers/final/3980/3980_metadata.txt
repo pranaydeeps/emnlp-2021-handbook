@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3980
+FinalPaperTitle#=%=#A Semantic Feature-Wise Transformation Relation Network for Automatic Short Answer Grading
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhaohui Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Automatic short answer grading (ASAG) is the task of assessing students' short natural language responses to objective questions. It is a crucial component of new education platforms, and could support more wide-spread use of constructed response questions to replace cognitively less challenging multiple choice questions. We propose a Semantic Feature-wise transformation Relation Network (SFRN) that exploits the multiple components of ASAG datasets more effectively. SFRN captures relational knowledge among the questions (Q), reference answers or rubrics (R), and labeled student answers (A). A relation network learns vector representations for the elements of QRA triples, then combines the learned representations using learned semantic feature-wise transformations. We apply translation-based data augmentation to address the two problems of limited training data, and high data skew for multi-class ASAG tasks. Our model has up to 11% performance improvement over state-of-the-art results on the benchmark SemEval-2013 datasets, and surpasses custom approaches designed for a Kaggle challenge, demonstrating its generality.
+Author{1}{Firstname}#=%=#Zhaohui
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#zjl5282
+Author{1}{Email}#=%=#zjl5282@psu.edu
+Author{1}{Affiliation}#=%=#The Pennsylvania State University
+Author{2}{Firstname}#=%=#Yajur
+Author{2}{Lastname}#=%=#Tomar
+Author{2}{Username}#=%=#yajurtomar
+Author{2}{Email}#=%=#yst5012@psu.edu
+Author{2}{Affiliation}#=%=#Pennsylvania State University
+Author{3}{Firstname}#=%=#Rebecca J.
+Author{3}{Lastname}#=%=#Passonneau
+Author{3}{Username}#=%=#becky
+Author{3}{Email}#=%=#rjp49@psu.edu
+Author{3}{Affiliation}#=%=#The Pennsylvania State University
+
+==========

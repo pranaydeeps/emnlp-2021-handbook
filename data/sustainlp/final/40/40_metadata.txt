@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#40
+FinalPaperTitle#=%=#Hyperparameter Power Impact in Transformer Language Model Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Leon Derczynski
+JobTitle#==#
+Organization#==#ITU Copenhagen
+Rued Langgaards Vej 7
+2300 Copenhagen
+Denmark
+Abstract#==#Training large language models can consume a large amount of energy. We hypothesize that the language model's configuration impacts its energy consumption, and that there is room for power consumption optimisation in modern large language models. To investigate these claims, we introduce a power consumption factor to the objective function, and explore the range of models and hyperparameter configurations that affect power. We identify multiple configuration factors that can reduce power consumption during language model training while retaining model quality.
+Author{1}{Firstname}#=%=#Lucas Høyberg
+Author{1}{Lastname}#=%=#Puvis de Chavannes
+Author{1}{Email}#=%=#lucas.puvis@m47labs.com
+Author{1}{Affiliation}#=%=#ITU Copenhagen / M47 Labs
+Author{2}{Firstname}#=%=#Mads Guldborg Kjeldgaard
+Author{2}{Lastname}#=%=#Kongsbak
+Author{2}{Email}#=%=#mkon@itu.dk
+Author{2}{Affiliation}#=%=#ITU Copenhagen
+Author{3}{Firstname}#=%=#Timmie
+Author{3}{Lastname}#=%=#Rantzau
+Author{3}{Email}#=%=#timn@itu.dk
+Author{3}{Affiliation}#=%=#ITU Copenhagen
+Author{4}{Firstname}#=%=#Leon
+Author{4}{Lastname}#=%=#Derczynski
+Author{4}{Username}#=%=#leondz
+Author{4}{Email}#=%=#leonderczynski@gmail.com
+Author{4}{Affiliation}#=%=#IT University of Copenhagen
+
+==========

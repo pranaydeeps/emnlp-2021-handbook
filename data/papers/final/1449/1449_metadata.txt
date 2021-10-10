@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1449
+FinalPaperTitle#=%=#Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Han Wei
+JobTitle#==#
+Organization#==#
+Abstract#==#In multimodal sentiment analysis (MSA), the performance of a model highly depends on the quality of synthesized embeddings.
+These embeddings are generated from the upstream process called multimodal fusion, which aims to extract and combine the input unimodal raw data to produce a richer multimodal representation.
+Previous work either back-propagates the task loss or manipulates the geometric property of feature spaces to produce favorable fusion results, which neglects the preservation of critical task-related information that flows from input to the fusion results.
+In this work, we 
+propose a framework named MultiModal InfoMax (MMIM), which hierarchically maximizes the Mutual Information (MI) 
+in unimodal input pairs (inter-modality) and between multimodal fusion result and unimodal input
+in order to maintain task-related information through multimodal fusion.
+The framework is jointly trained with the main task (MSA) to improve the performance of the downstream MSA task.
+To address the intractable issue of MI bounds, we further formulate a set of computationally simple parametric and non-parametric methods to approximate their truth value.
+Experimental results on the two widely used datasets demonstrate the efficacy of our approach.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Han
+Author{1}{Username}#=%=#henry1124
+Author{1}{Email}#=%=#henryhan88888@gmail.com
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Hui
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#chchenhui
+Author{2}{Email}#=%=#hui_chen@mymail.sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Soujanya
+Author{3}{Lastname}#=%=#Poria
+Author{3}{Username}#=%=#soujanyaporia
+Author{3}{Email}#=%=#soujanya.poria@gmail.com
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

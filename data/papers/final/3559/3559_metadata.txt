@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#3559
+FinalPaperTitle#=%=#Refocusing on Relevance: Personalization in NLG
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Shiran Dudy
+JobTitle#==#
+Organization#==#University of Colorado
+Abstract#==#Many NLG tasks such as summarization, dialogue response, or open domain question answering, focus primarily on a source text in order to generate a target response.
+This standard approach falls short, however, when a user's intent or context of work is not easily recoverable based solely on that source text-- a scenario that we argue is more of the rule than the exception.
+In this work, we argue that NLG systems in general should place a much higher level of emphasis on making use of additional context, and suggest that relevance (as used in Information Retrieval) be thought of as a crucial tool for designing user-oriented text-generating tasks.
+We further discuss possible harms and hazards around such personalization, and argue that value-sensitive design represents a crucial path forward through these challenges.
+Author{1}{Firstname}#=%=#Shiran
+Author{1}{Lastname}#=%=#Dudy
+Author{1}{Username}#=%=#shiran
+Author{1}{Email}#=%=#shirdu2@gmail.com
+Author{1}{Affiliation}#=%=#University of Colorado
+Author{2}{Firstname}#=%=#Steven
+Author{2}{Lastname}#=%=#Bedrick
+Author{2}{Username}#=%=#bedricks
+Author{2}{Email}#=%=#bedricks@ohsu.edu
+Author{2}{Affiliation}#=%=#Oregon Health & Science University
+Author{3}{Firstname}#=%=#Bonnie
+Author{3}{Lastname}#=%=#Webber
+Author{3}{Username}#=%=#bonnie
+Author{3}{Email}#=%=#bonnie.webber@ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+
+==========

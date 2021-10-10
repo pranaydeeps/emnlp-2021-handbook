@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1495
+FinalPaperTitle#=%=#ProtoInfoMax: Prototypical Networks with Mutual Information Maximization for Out-of-Domain Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Iftitahu Nimah
+JobTitle#==#
+Organization#==#
+Abstract#==#The ability to detect Out-of-Domain (OOD) inputs has been a critical requirement in many real-world NLP applications. For example, intent classification in dialogue systems. The reason is that the inclusion of unsupported OOD inputs may lead to catastrophic failure of systems. However, it remains an empirical question whether current methods can tackle such problems reliably in a realistic scenario where zero OOD training data is available. In this study, we propose ProtoInfoMax, a new architecture that extends Prototypical Networks to simultaneously process in-domain and OOD sentences via Mutual Information Maximization (InfoMax) objective. Experimental results show that our proposed method can substantially improve performance up to 20% for OOD detection in low resource settings of text classification. We also show that ProtoInfoMax is less prone to typical overconfidence errors of Neural Networks, leading to more reliable prediction results.
+Author{1}{Firstname}#=%=#Iftitahu
+Author{1}{Lastname}#=%=#Nimah
+Author{1}{Username}#=%=#inimah
+Author{1}{Email}#=%=#i.nimah@tue.nl
+Author{1}{Affiliation}#=%=#Eindhoven University of Technology
+Author{2}{Firstname}#=%=#Meng
+Author{2}{Lastname}#=%=#Fang
+Author{2}{Username}#=%=#moe
+Author{2}{Email}#=%=#m.fang@tue.nl
+Author{2}{Affiliation}#=%=#Eindhoven University of Technology
+Author{3}{Firstname}#=%=#Vlado
+Author{3}{Lastname}#=%=#Menkovski
+Author{3}{Username}#=%=#vlamen
+Author{3}{Email}#=%=#v.menkovski@tue.nl
+Author{3}{Affiliation}#=%=#Eindhoven University of Technology
+Author{4}{Firstname}#=%=#Mykola
+Author{4}{Lastname}#=%=#Pechenizkiy
+Author{4}{Username}#=%=#mpechen
+Author{4}{Email}#=%=#m.pechenizkiy@tue.nl
+Author{4}{Affiliation}#=%=#TU Eindhoven
+
+==========

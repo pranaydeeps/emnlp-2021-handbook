@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3910
+FinalPaperTitle#=%=#Emotion Inference in Multi-Turn Conversations with Addressee-Aware Module and Ensemble Strategy
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Suge Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Emotion inference in multi-turn conversations aims to predict the participant's emotion in the next upcoming turn without knowing the participant's response yet, and is a necessary step for applications such as dialogue planning. However, it is a severe challenge to perceive and reason about the future feelings of participants, due to the lack of utterance information from the future. Moreover, it is crucial for emotion inference to capture the characteristics of emotional propagation in conversations, such as persistence and contagiousness. In this study, we focus on investigating the task of emotion inference in multi-turn conversations by modeling the propagation of emotional states among participants in the conversation history, and propose an addressee-aware module to automatically learn whether the participant keeps the historical emotional state or is affected by others in the next upcoming turn. In addition, we propose an ensemble strategy to further enhance the model performance. Empirical studies on three different benchmark conversation datasets demonstrate the effectiveness of the proposed model over several strong baselines.
+Author{1}{Firstname}#=%=#Dayu
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#lidayu
+Author{1}{Email}#=%=#949007264@qq.com
+Author{1}{Affiliation}#=%=#School of Computer & Information Technology, Shanxi University
+Author{2}{Firstname}#=%=#Xiaodan
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Username}#=%=#zhu2048
+Author{2}{Email}#=%=#zhu2048@gmail.com
+Author{2}{Affiliation}#=%=#Queen's University
+Author{3}{Firstname}#=%=#Yang
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#liyang4917
+Author{3}{Email}#=%=#liyangprimrose@163.com
+Author{3}{Affiliation}#=%=#School of Finance, Shanxi University of Finance and Economics
+Author{4}{Firstname}#=%=#Suge
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#wangsuge
+Author{4}{Email}#=%=#wsg@sxu.edu.cn
+Author{4}{Affiliation}#=%=#School of Computer & Information Technology, Shanxi University
+Author{5}{Firstname}#=%=#Deyu
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#lideyu
+Author{5}{Email}#=%=#lidy@sxu.edu.cn
+Author{5}{Affiliation}#=%=#School of Computer & Information Technology, Shanxi University
+Author{6}{Firstname}#=%=#Jian
+Author{6}{Lastname}#=%=#Liao
+Author{6}{Username}#=%=#liaojian_sxu
+Author{6}{Email}#=%=#liaoj@sxu.edu.cn
+Author{6}{Affiliation}#=%=#School of Computer & Information Technology, Shanxi University
+Author{7}{Firstname}#=%=#Jianxing
+Author{7}{Lastname}#=%=#Zheng
+Author{7}{Username}#=%=#jxzheng185
+Author{7}{Email}#=%=#jxzheng@sxu.edu.cn
+Author{7}{Affiliation}#=%=#School of Computer & Information Technology, Shanxi University
+
+==========

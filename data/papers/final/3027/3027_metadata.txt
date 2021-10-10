@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#3027
+FinalPaperTitle#=%=#Tribrid: Stance Classification with Neural Inconsistency Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Jacopo Urbani
+JobTitle#==#
+Organization#==#Vrije Universiteit Amsterdam
+De Boelelaan 1081a
+1081 HV Amsterdam
+The Netherlands
+Abstract#==#We study the problem of performing automatic stance classification on social
+media with neural architectures such as BERT. Although these architectures
+deliver impressive results, their level is not yet comparable to the one of
+humans and they might produce errors that have a significant impact on the
+downstream task (e.g., fact-checking). To improve the performance, we present a
+new neural architecture where the input also includes automatically generated
+negated perspectives over a given claim. The model is jointly learned to make
+simultaneously multiple predictions, which can be used either to improve the
+classification of the original perspective or to filter out doubtful
+predictions. In the first case, we propose a weakly supervised method for
+combining the predictions into a final one. In the second case, we show that
+using the confidence scores to remove doubtful predictions allows our method to
+achieve human-like performance over the retained information, which is still a
+sizable part of the original input.
+Author{1}{Firstname}#=%=#Song
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#chasingwind
+Author{1}{Email}#=%=#yangsongofficial@163.com
+Author{1}{Affiliation}#=%=#Vrije Universiteit Amsterdam
+Author{2}{Firstname}#=%=#Jacopo
+Author{2}{Lastname}#=%=#Urbani
+Author{2}{Username}#=%=#jacopourbani
+Author{2}{Email}#=%=#jacopo@cs.vu.nl
+Author{2}{Affiliation}#=%=#Vrije Universiteit Amsterdam
+
+==========

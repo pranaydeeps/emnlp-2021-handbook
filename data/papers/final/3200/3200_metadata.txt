@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3200
+FinalPaperTitle#=%=#Exploring the Role of BERT Token Representations to Explain Sentence Probing Results
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Hosein Mohebbi
+JobTitle#==#
+Organization#==#Iran University of Science and Technology, Tehran, Iran
+Abstract#==#Several studies have been carried out on revealing linguistic features captured by BERT. This is usually achieved by training a diagnostic classifier on the representations obtained from different layers of BERT. The subsequent classification accuracy is then interpreted as the ability of the model in encoding the corresponding linguistic property. Despite providing insights, these studies have left out the potential role of token representations. In this paper, we provide a more in-depth analysis on the representation space of BERT in search for distinct and meaningful subspaces that can explain the reasons behind these probing results. Based on a set of probing tasks and with the help of attribution methods we show that BERT tends to encode meaningful knowledge in specific token representations (which are often ignored in standard classification setups), allowing the model to detect syntactic and semantic abnormalities, and to distinctively separate grammatical number and tense subspaces.
+Author{1}{Firstname}#=%=#Hosein
+Author{1}{Lastname}#=%=#Mohebbi
+Author{1}{Username}#=%=#hmohebbi
+Author{1}{Email}#=%=#hosein_mohebbi@comp.iust.ac.ir
+Author{1}{Affiliation}#=%=#Iran University of Science and Technology
+Author{2}{Firstname}#=%=#Ali
+Author{2}{Lastname}#=%=#Modarressi
+Author{2}{Username}#=%=#amodaresi
+Author{2}{Email}#=%=#m_modarressi@comp.iust.ac.ir
+Author{2}{Affiliation}#=%=#Iran University of Science and Technology
+Author{3}{Firstname}#=%=#Mohammad Taher
+Author{3}{Lastname}#=%=#Pilehvar
+Author{3}{Username}#=%=#pilehvar
+Author{3}{Email}#=%=#mp792@cam.ac.uk
+Author{3}{Affiliation}#=%=#Tehran Institute for Advanced Studies
+
+==========

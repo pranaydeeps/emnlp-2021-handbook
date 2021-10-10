@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#3544
+FinalPaperTitle#=%=#Paired Examples as Indirect Supervision in Latent Decision Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Nitish Gupta
+JobTitle#==#
+Organization#==#
+Abstract#==#Compositional, structured models are appealing because they explicitly decompose problems and provide interpretable intermediate outputs that give confidence that the model is not simply latching onto data artifacts. Learning these models is challenging, however, because end-task supervision only provides a weak indirect signal on what values the latent decisions should take. This often results in the model failing to learn to perform the intermediate tasks correctly. In this work, we introduce a way to leverage paired examples that provide stronger cues for learning latent decisions. When two related training examples share internal substructure, we add an additional training objective to encourage consistency between their latent decisions. Such an objective does not require external supervision for the values of the latent output, or even the end task, yet provides an additional training signal to that provided by individual training examples themselves. We apply our method to improve compositional question answering using neural module networks on the DROP dataset. We explore three ways to acquire paired questions in DROP: (a) discovering naturally occurring paired examples within the dataset, (b) constructing paired examples using templates, and (c) generating paired examples using a question generation model. We empirically demonstrate that our proposed approach improves both in- and out-of-distribution generalization and leads to correct latent decision predictions.
+Author{1}{Firstname}#=%=#Nitish
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Username}#=%=#nitishgupta
+Author{1}{Email}#=%=#nitishg@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Sameer
+Author{2}{Lastname}#=%=#Singh
+Author{2}{Username}#=%=#sameer
+Author{2}{Email}#=%=#sameer@uci.edu
+Author{2}{Affiliation}#=%=#University of California, Irvine
+Author{3}{Firstname}#=%=#Matt
+Author{3}{Lastname}#=%=#Gardner
+Author{3}{Username}#=%=#mattg
+Author{3}{Email}#=%=#matthewjgardner1@gmail.com
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Roth
+Author{4}{Username}#=%=#danr
+Author{4}{Email}#=%=#danroth@seas.upenn.edu
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+
+==========

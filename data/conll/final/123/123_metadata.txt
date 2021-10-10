@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#123
+FinalPaperTitle#=%=#Does language help generalization in vision models?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Benjamin Devillers
+JobTitle#==#
+Organization#==#
+Abstract#==#Vision models trained on multimodal datasets can benefit from the wide availability of large image-caption datasets. A recent model (CLIP) was found to generalize well in zero-shot and transfer learning settings. This could imply that linguistic or "semantic grounding'' confers additional generalization abilities to the visual feature space. Here, we systematically evaluate various multimodal architectures and vision-only models in terms of unsupervised clustering, few-shot learning, transfer learning and adversarial robustness. In each setting, multimodal training produced no additional generalization capability compared to standard supervised visual training. We conclude that work is still required for semantic grounding to help improve vision models.
+Author{1}{Firstname}#=%=#Benjamin
+Author{1}{Lastname}#=%=#Devillers
+Author{1}{Username}#=%=#bdevillers
+Author{1}{Email}#=%=#benjamin.devillers@univ-tlse3.fr
+Author{1}{Affiliation}#=%=#Artificial and Natural Intelligence Toulouse Institute, Universite de Toulouse, France
+Author{2}{Firstname}#=%=#Bhavin
+Author{2}{Lastname}#=%=#Choksi
+Author{2}{Email}#=%=#bhavin.choksi@cnrs.fr
+Author{2}{Affiliation}#=%=#CerCO, CNRS UMR5549, Toulouse
+Author{3}{Firstname}#=%=#Romain
+Author{3}{Lastname}#=%=#Bielawski
+Author{3}{Email}#=%=#romain.bielawski@univ-tlse3.fr
+Author{3}{Affiliation}#=%=#Artificial and Natural Intelligence Toulouse Institute, Universite de Toulouse, France
+Author{4}{Firstname}#=%=#Rufin
+Author{4}{Lastname}#=%=#VanRullen
+Author{4}{Email}#=%=#rufin.vanrullen@cnrs.fr
+Author{4}{Affiliation}#=%=#CerCO, CNRS UMR5549, Universite de Toulouse, France
+
+==========

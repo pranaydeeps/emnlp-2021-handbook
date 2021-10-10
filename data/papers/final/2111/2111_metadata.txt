@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2111
+FinalPaperTitle#=%=#{RollingLDA}: {A}n Update Algorithm of Latent {D}irichlet Allocation to Construct Consistent Time Series from Textual Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jonas Rieger
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a rolling version of the Latent Dirichlet Allocation, called RollingLDA. By a sequential approach, it enables the construction of LDA-based time series of topics that are consistent with previous states of LDA models. After an initial modeling, updates can be computed efficiently, allowing for real-time monitoring and detection of events or structural breaks. For this purpose, we propose suitable similarity measures for topics and provide simulation evidence of superiority over other commonly used approaches. The adequacy of the resulting method is illustrated by an application to an example corpus. In particular, we compute the similarity of sequentially obtained topic and word distributions over consecutive time periods. For a representative example corpus consisting of The New York Times articles from 1980 to 2020, we analyze the effect of several tuning parameter choices and we run the RollingLDA method on the full dataset of approximately 4 million articles to demonstrate its feasibility.
+Author{1}{Firstname}#=%=#Jonas
+Author{1}{Lastname}#=%=#Rieger
+Author{1}{Username}#=%=#rieger
+Author{1}{Email}#=%=#jonas.rieger@tu-dortmund.de
+Author{1}{Affiliation}#=%=#TU Dortmund University
+Author{2}{Firstname}#=%=#Carsten
+Author{2}{Lastname}#=%=#Jentsch
+Author{2}{Username}#=%=#cj79
+Author{2}{Email}#=%=#jentsch@statistik.tu-dortmund.de
+Author{2}{Affiliation}#=%=#TU Dortmund University
+Author{3}{Firstname}#=%=#Jörg
+Author{3}{Lastname}#=%=#Rahnenführer
+Author{3}{Username}#=%=#rahnenfuehrer
+Author{3}{Email}#=%=#rahnenfuehrer@statistik.tu-dortmund.de
+Author{3}{Affiliation}#=%=#TU Dortmund University
+
+==========

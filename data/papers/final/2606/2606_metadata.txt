@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#2606
+FinalPaperTitle#=%=#Progressive Transformer-Based Generation of Radiology Reports
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Farhad Nooralahzadeh
+JobTitle#==#
+Organization#==#KrauthammerLab Department of Quantitative Biomedicine
+Schmelzbergstrasse 26
+8006 Zürich
+Building/Room: SHM 26 A2
+Abstract#==#Inspired by Curriculum Learning, we propose a consecutive (i.e., image-to-text-to-text) generation framework where we divide the problem of radiology report generation into two steps. Contrary to generating the full radiology report from the image at once, the model generates global concepts from the image in the first step and then reforms them into finer and coherent texts using transformer-based architecture. We follow the transformer-based sequence-to-sequence paradigm at each step. We improve upon the state-of-the-art on two benchmark datasets.
+Author{1}{Firstname}#=%=#Farhad
+Author{1}{Lastname}#=%=#Nooralahzadeh
+Author{1}{Username}#=%=#nooralahzadeh
+Author{1}{Email}#=%=#farhad.nooralahzadeh@uzh.ch
+Author{1}{Affiliation}#=%=#University of Zurich
+Author{2}{Firstname}#=%=#Nicolas
+Author{2}{Lastname}#=%=#Perez Gonzalez
+Author{2}{Username}#=%=#nrperez
+Author{2}{Email}#=%=#nicolas.perezgonzalez@uzh.ch
+Author{2}{Affiliation}#=%=#University of Zurich
+Author{3}{Firstname}#=%=#Thomas
+Author{3}{Lastname}#=%=#Frauenfelder
+Author{3}{Username}#=%=#thfrauenfelder
+Author{3}{Email}#=%=#thomas.frauenfelder@usz.ch
+Author{3}{Affiliation}#=%=#Diagnostic Radiology, University Hospital Zurich
+Author{4}{Firstname}#=%=#Koji
+Author{4}{Lastname}#=%=#Fujimoto
+Author{4}{Username}#=%=#kfb
+Author{4}{Email}#=%=#kfb@kuhp.kyoto-u.ac.jp
+Author{4}{Affiliation}#=%=#Kyoto University
+Author{5}{Firstname}#=%=#Michael
+Author{5}{Lastname}#=%=#Krauthammer
+Author{5}{Username}#=%=#krauthammerm
+Author{5}{Email}#=%=#michael.krauthammer@uzh.ch
+Author{5}{Affiliation}#=%=#University of Zurich
+
+==========

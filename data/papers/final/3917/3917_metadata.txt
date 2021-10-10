@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3917
+FinalPaperTitle#=%=#Evaluating the Evaluation Metrics for Style Transfer: A Case Study in Multilingual Formality Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Eleftheria Briakou
+JobTitle#==#
+Organization#==#
+Abstract#==#While the field of style transfer (ST) has been growing rapidly, it has been hampered by a lack of standardized practices for automatic evaluation.  In this paper, we evaluate leading \st automatic metrics on the oft-researched task of formality style transfer.  Unlike previous evaluations, which focus solely on English, we expand our focus to Brazilian-Portuguese, French, and Italian, making this work the first multilingual evaluation of metrics in ST. We outline best practices for automatic evaluation in (formality) style transfer and identify several models that correlate well with human judgments and are robust across languages.  We hope that this work will help accelerate development in ST, where human evaluation is often challenging to collect.
+Author{1}{Firstname}#=%=#Eleftheria
+Author{1}{Lastname}#=%=#Briakou
+Author{1}{Username}#=%=#ebriakou
+Author{1}{Email}#=%=#ebriakou@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Sweta
+Author{2}{Lastname}#=%=#Agrawal
+Author{2}{Username}#=%=#sweta20
+Author{2}{Email}#=%=#swetaagrawal20@gmail.com
+Author{2}{Affiliation}#=%=#University of Maryland
+Author{3}{Firstname}#=%=#Joel
+Author{3}{Lastname}#=%=#Tetreault
+Author{3}{Username}#=%=#tetreaul
+Author{3}{Email}#=%=#tetreaul@gmail.com
+Author{3}{Affiliation}#=%=#Dataminr
+Author{4}{Firstname}#=%=#Marine
+Author{4}{Lastname}#=%=#Carpuat
+Author{4}{Username}#=%=#marinecarpuat
+Author{4}{Email}#=%=#marine@cs.umd.edu
+Author{4}{Affiliation}#=%=#University of Maryland
+
+==========

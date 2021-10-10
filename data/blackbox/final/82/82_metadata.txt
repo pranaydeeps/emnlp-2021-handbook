@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#82
+FinalPaperTitle#=%=#Controlled tasks for model analysis: Retrieving discrete information from sequences
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ionut Teodor Sorodoc
+JobTitle#==#
+Organization#==#
+Abstract#==#In recent years, the NLP community has shown increasing interest in analysing how deep learning models work. 
+Given that large models trained on complex tasks are difficult to inspect, some of this work has focused on controlled tasks that emulate specific aspects of language. We propose a new set of such controlled tasks to explore a crucial aspect of natural language processing that has not received enough attention: the need to retrieve discrete information from sequences. 
+
+We also study model behavior on the tasks with simple instantiations of Transformers and LSTMs. Our results highlight the beneficial role of decoder attention and its sometimes unexpected interaction with other components. 
+Moreover, we show that, for most of the tasks, these simple models still show significant difficulties. 
+We hope that the community will take up the analysis possibilities that our tasks afford, and that a clearer understanding of model behavior on the tasks will lead to better and more transparent models.
+Author{1}{Firstname}#=%=#Ionut-Teodor
+Author{1}{Lastname}#=%=#Sorodoc
+Author{1}{Username}#=%=#sorodoc
+Author{1}{Email}#=%=#ionut.sorodoc@gmail.com
+Author{1}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{2}{Firstname}#=%=#Gemma
+Author{2}{Lastname}#=%=#Boleda
+Author{2}{Username}#=%=#gboleda
+Author{2}{Email}#=%=#gemma.boleda@upf.edu
+Author{2}{Affiliation}#=%=#Universitat Pompeu Fabra / ICREA
+Author{3}{Firstname}#=%=#Marco
+Author{3}{Lastname}#=%=#Baroni
+Author{3}{Username}#=%=#marco.baroni
+Author{3}{Email}#=%=#mbaroni@gmail.com
+Author{3}{Affiliation}#=%=#ICREA
+
+==========

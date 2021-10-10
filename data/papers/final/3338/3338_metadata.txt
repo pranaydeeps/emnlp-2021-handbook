@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3338
+FinalPaperTitle#=%=#Token-wise Curriculum Learning for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Chen Liang
+JobTitle#==#
+Organization#==#
+Abstract#==#Existing curriculum learning approaches to Neural Machine Translation (NMT) require sampling sufficient amounts of ``easy'' samples from training data at the early training stage. This is not always achievable for low-resource languages where the amount of training data is limited. To address such a limitation, we propose a novel token-wise curriculum learning approach that creates sufficient amounts of easy samples. Specifically, the model learns to predict a short sub-sequence from the beginning part of each target sentence at the early stage of training. Then the sub-sequence is gradually expanded as the training progresses. Such a new curriculum design is inspired by the cumulative effect of translation errors, which makes the latter tokens more challenging to predict than the beginning ones. Extensive experiments show that our approach can consistently outperform baselines on five language pairs, especially for low-resource languages. Combining our approach with sentence-level methods further improves the performance of high-resource languages.
+Author{1}{Firstname}#=%=#Chen
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Username}#=%=#cliang73
+Author{1}{Email}#=%=#cliang73@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Haoming
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Username}#=%=#hjiang98
+Author{2}{Email}#=%=#jianghm@gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Xiaodong
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#allen.lao
+Author{3}{Email}#=%=#xiaodl@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Pengcheng
+Author{4}{Lastname}#=%=#He
+Author{4}{Username}#=%=#hepc
+Author{4}{Email}#=%=#penhe@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Weizhu
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Username}#=%=#chenweizhu
+Author{5}{Email}#=%=#wzchen@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft
+Author{6}{Firstname}#=%=#Jianfeng
+Author{6}{Lastname}#=%=#Gao
+Author{6}{Username}#=%=#jfgao
+Author{6}{Email}#=%=#jfgao@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research, Redmond
+Author{7}{Firstname}#=%=#Tuo
+Author{7}{Lastname}#=%=#Zhao
+Author{7}{Username}#=%=#tourzhao
+Author{7}{Email}#=%=#tourzhao@gatech.edu
+Author{7}{Affiliation}#=%=#Georgia Tech
+
+==========

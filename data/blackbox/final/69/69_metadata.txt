@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#69
+FinalPaperTitle#=%=#Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Mohsen Fayyaz
+JobTitle#==#
+Organization#==#
+Abstract#==#Most of the recent works on probing representations have focused on BERT, with the presumption that the findings might be similar to the other models. In this work, we extend the probing studies to two other models in the family, namely ELECTRA and XLNet, showing that variations in the pre-training objectives or architectural choices can result in different behaviors in encoding linguistic information in the representations. Most notably, we observe that ELECTRA tends to encode linguistic knowledge in the deeper layers, whereas XLNet instead concentrates that in the earlier layers. Also, the former model undergoes a slight change during fine-tuning, whereas the latter experiences significant adjustments. Moreover, we show that drawing conclusions based on the weight mixing evaluation strategy---which is widely used in the context of layer-wise probing---can be misleading given the norm disparity of the representations across different layers. Instead, we adopt an alternative information-theoretic probing with minimum description length, which has recently been proven to provide more reliable and informative results.
+Author{1}{Firstname}#=%=#Mohsen
+Author{1}{Lastname}#=%=#Fayyaz
+Author{1}{Username}#=%=#mohsenfayyaz
+Author{1}{Email}#=%=#mohsen.fayyaz77@ut.ac.ir
+Author{1}{Affiliation}#=%=#University of Tehran
+Author{2}{Firstname}#=%=#Ehsan
+Author{2}{Lastname}#=%=#Aghazadeh
+Author{2}{Username}#=%=#ehsanaghazadeh
+Author{2}{Email}#=%=#eaghazade1998@ut.ac.ir
+Author{2}{Affiliation}#=%=#University of Tehran
+Author{3}{Firstname}#=%=#Ali
+Author{3}{Lastname}#=%=#Modarressi
+Author{3}{Username}#=%=#amodaresi
+Author{3}{Email}#=%=#m_modarressi@comp.iust.ac.ir
+Author{3}{Affiliation}#=%=#Iran University of Science and Technology
+Author{4}{Firstname}#=%=#Hosein
+Author{4}{Lastname}#=%=#Mohebbi
+Author{4}{Username}#=%=#hmohebbi
+Author{4}{Email}#=%=#hosein_mohebbi@comp.iust.ac.ir
+Author{4}{Affiliation}#=%=#Iran University of Science and Technology
+Author{5}{Firstname}#=%=#Mohammad Taher
+Author{5}{Lastname}#=%=#Pilehvar
+Author{5}{Username}#=%=#pilehvar
+Author{5}{Email}#=%=#mp792@cam.ac.uk
+Author{5}{Affiliation}#=%=#Tehran Institute for Advanced Studies
+
+==========

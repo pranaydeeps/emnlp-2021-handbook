@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1887
+FinalPaperTitle#=%=#Detecting Polarized Topics Using Partisanship-aware Contextualized Topic Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Zihao He
+JobTitle#==#
+Organization#==#Information Sciences Institute
+4676 Admiralty Way, Suite 1001
+Marina del Rey, CA 90292, USA
+Abstract#==#Growing polarization of the news media has been blamed for fanning disagreement, controversy and even violence. Early identification of polarized topics is thus an urgent matter that can help mitigate conflict. However, accurate measurement of topic-wise polarization is still an open research challenge. To address this gap, we propose Partisanship-aware Contextualized Topic Embeddings (PaCTE), a method to automatically detect polarized topics from partisan news sources. Specifically, utilizing a language model that has been finetuned on recognizing partisanship of the news articles, we represent the ideology of a news corpus on a topic by corpus-contextualized topic embedding and measure the polarization using cosine distance. We apply our method to a dataset of news articles about the COVID-19 pandemic. Extensive experiments on different news sources and topics demonstrate the efficacy of our method to capture topical polarization, as indicated by its effectiveness of retrieving the most polarized topics.
+Author{1}{Firstname}#=%=#Zihao
+Author{1}{Lastname}#=%=#He
+Author{1}{Username}#=%=#haoxiaohao
+Author{1}{Email}#=%=#zihaoh@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Negar
+Author{2}{Lastname}#=%=#Mokhberian
+Author{2}{Username}#=%=#nmokhber
+Author{2}{Email}#=%=#nmokhber@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#António
+Author{3}{Lastname}#=%=#Câmara
+Author{3}{Username}#=%=#ascamara
+Author{3}{Email}#=%=#ac4443@columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+Author{4}{Firstname}#=%=#Andres
+Author{4}{Lastname}#=%=#Abeliuk
+Author{4}{Username}#=%=#aabeliuk
+Author{4}{Email}#=%=#andabek@gmail.com
+Author{4}{Affiliation}#=%=#University of Chile
+Author{5}{Firstname}#=%=#Kristina
+Author{5}{Lastname}#=%=#Lerman
+Author{5}{Username}#=%=#lerman
+Author{5}{Email}#=%=#lerman@isi.edu
+Author{5}{Affiliation}#=%=#USC Information Sciences Institute
+
+==========

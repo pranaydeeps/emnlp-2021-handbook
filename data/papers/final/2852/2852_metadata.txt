@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#2852
+FinalPaperTitle#=%=#Jointly Learning to Repair Code and Generate Commit Message
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jiaqi Bai
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a novel task of jointly repairing program codes and generating commit messages. Code repair and commit message generation are two essential and related tasks for software development. However, existing work usually performs the two tasks independently. We construct a multilingual triple dataset including buggy code, fixed code, and commit messages for this novel task. We first introduce a cascaded method with two models, one is to generate the fixed code first, and the other generates the commit message based on the fixed and original codes. We enhance the cascaded method with different training approaches, including the teacher-student method, the multi-task method, and the back-translation method. To deal with the error propagation problem of the cascaded method, we also propose a joint model that can both repair the program code and generate the commit message in a unified framework. Massive experiments on our constructed buggy-fixed-commit dataset reflect the challenge of this task and that the enhanced cascaded model and the proposed joint model significantly outperform baselines in both quality of code and commit messages.
+Author{1}{Firstname}#=%=#Jiaqi
+Author{1}{Lastname}#=%=#Bai
+Author{1}{Username}#=%=#baijiaqi
+Author{1}{Email}#=%=#bjq@buaa.edu.cn
+Author{1}{Affiliation}#=%=#Beihang University
+Author{2}{Firstname}#=%=#Long
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Username}#=%=#long.zhou
+Author{2}{Email}#=%=#lozhou@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Ambrosio
+Author{3}{Lastname}#=%=#Blanco
+Author{3}{Username}#=%=#ambrob
+Author{3}{Email}#=%=#ambrob@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia (China)
+Author{4}{Firstname}#=%=#Shujie
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#shujieliu
+Author{4}{Email}#=%=#shujliu@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Asia
+Author{5}{Firstname}#=%=#Furu
+Author{5}{Lastname}#=%=#Wei
+Author{5}{Username}#=%=#fuwei
+Author{5}{Email}#=%=#fuwei@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+Author{6}{Firstname}#=%=#Ming
+Author{6}{Lastname}#=%=#Zhou
+Author{6}{Username}#=%=#mingzhou
+Author{6}{Email}#=%=#mingzhou@microsoft.com
+Author{6}{Affiliation}#=%=#microsoft research asia
+Author{7}{Firstname}#=%=#Zhoujun
+Author{7}{Lastname}#=%=#Li
+Author{7}{Username}#=%=#lizhoujun
+Author{7}{Email}#=%=#lizj@buaa.edu.cn
+Author{7}{Affiliation}#=%=#Beihang University
+
+==========

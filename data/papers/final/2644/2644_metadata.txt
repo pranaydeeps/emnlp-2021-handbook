@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2644
+FinalPaperTitle#=%=#Automatic Discrimination between Inherited and Borrowed Latin Words in Romance Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Alina Maria Cristea
+JobTitle#==#
+Organization#==#University of Bucharest
+Abstract#==#In this paper, we address the problem of automatically discriminating between inherited and borrowed Latin words. We introduce a new dataset and investigate the case of Romance languages (Romanian, Italian, French, Spanish, Portuguese and Catalan), where words directly inherited from Latin coexist with words borrowed from Latin, and explore whether automatic discrimination between them is possible.  Having entered the language at a later stage, borrowed words are no longer subject to historical sound shift rules, hence they are presumably less eroded, which is why we expect them to have a different intrinsic structure distinguishable by computational means. We employ several machine learning models to automatically discriminate between inherited and borrowed words and compare their performance with various feature sets. We analyze the models' predictive power on two versions of the datasets, orthographic and phonetic. We also investigate whether prior knowledge of the etymon provides better results, employing n-gram character features extracted from the word-etymon pairs and from their alignment.
+Author{1}{Firstname}#=%=#Alina Maria
+Author{1}{Lastname}#=%=#Cristea
+Author{1}{Username}#=%=#alinaciobanu
+Author{1}{Email}#=%=#alina.cristea@fmi.unibuc.ro
+Author{1}{Affiliation}#=%=#University of Bucharest
+Author{2}{Firstname}#=%=#Liviu P.
+Author{2}{Lastname}#=%=#Dinu
+Author{2}{Username}#=%=#liviu.p.dinu
+Author{2}{Email}#=%=#liviu.p.dinu@gmail.com
+Author{2}{Affiliation}#=%=#University of Bucharest
+Author{3}{Firstname}#=%=#Simona
+Author{3}{Lastname}#=%=#Georgescu
+Author{3}{Username}#=%=#simonageorgescu
+Author{3}{Email}#=%=#simona.georgescu@lls.unibuc.ro
+Author{3}{Affiliation}#=%=#University of Bucharest
+Author{4}{Firstname}#=%=#Mihnea-Lucian
+Author{4}{Lastname}#=%=#Mihai
+Author{4}{Username}#=%=#mihneamihai
+Author{4}{Email}#=%=#mihnea.mihai7@s.unibuc.ro
+Author{4}{Affiliation}#=%=#Faculty of Mathematics and Computer Science, University of Bucharest
+Author{5}{Firstname}#=%=#Ana Sabina
+Author{5}{Lastname}#=%=#Uban
+Author{5}{Username}#=%=#anauban
+Author{5}{Email}#=%=#ana.uban@gmail.com
+Author{5}{Affiliation}#=%=#Universitat Politecnica de Valencia, University of Bucharest
+
+==========

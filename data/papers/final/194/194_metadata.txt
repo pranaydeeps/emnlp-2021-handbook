@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#194
+FinalPaperTitle#=%=#Cryptonite: A Cryptic Crossword Benchmark for Extreme Ambiguity in Language
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Avia Efrat
+JobTitle#==#
+Organization#==#
+Abstract#==#Current NLP datasets targeting ambiguity can be solved by a native speaker with relative ease.
+We present Cryptonite, a large-scale dataset based on cryptic crosswords, which is both linguistically complex and naturally sourced.
+Each example in Cryptonite is a cryptic clue, a short phrase or sentence with a misleading surface reading, whose solving requires disambiguating semantic, syntactic, and phonetic wordplays, as well as world knowledge.
+Cryptic clues pose a challenge even for experienced solvers, though top-tier experts can solve them with almost 100% accuracy.
+Cryptonite is a challenging task for current models; fine-tuning T5-Large on 470k cryptic clues achieves only 7.6% accuracy, on par with the accuracy of a rule-based clue solver (8.6%).
+Author{1}{Firstname}#=%=#Avia
+Author{1}{Lastname}#=%=#Efrat
+Author{1}{Username}#=%=#avia
+Author{1}{Email}#=%=#avia.efrat@gmail.com
+Author{1}{Affiliation}#=%=#Tel Aviv University
+Author{2}{Firstname}#=%=#Uri
+Author{2}{Lastname}#=%=#Shaham
+Author{2}{Username}#=%=#uri
+Author{2}{Email}#=%=#uri.shaham@cs.tau.ac.il
+Author{2}{Affiliation}#=%=#Tel Aviv University
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Kilman
+Author{3}{Username}#=%=#dankilman
+Author{3}{Email}#=%=#dankilman@gmail.com
+Author{3}{Affiliation}#=%=#Tel Aviv University
+Author{4}{Firstname}#=%=#Omer
+Author{4}{Lastname}#=%=#Levy
+Author{4}{Username}#=%=#omerlevy
+Author{4}{Email}#=%=#omerlevy@gmail.com
+Author{4}{Affiliation}#=%=#Tel Aviv University
+
+==========

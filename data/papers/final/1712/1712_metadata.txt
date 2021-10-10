@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1712
+FinalPaperTitle#=%=#Grounded Graph Decoding improves Compositional Generalization in Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yu Gai
+JobTitle#==#
+Organization#==#UC Berkeley
+Soda Hall,
+Berkeley, CA 94709
+Abstract#==#Question answering models struggle to generalize to novel compositions of training patterns. Current end-to-end models learn a flat input embedding which can lose input syntax context. Prior approaches improve generalization by learning permutation invariant models, but these methods do not scale to more complex train-test splits. We propose Grounded Graph Decoding, a method to improve compositional generalization of language representations by grounding structured predictions with an attention mechanism. Grounding enables the model to retain syntax information from the input that significantly improves generalization to complex inputs. By predicting a structured graph containing conjunctions of query clauses, we learn a group invariant representation without making assumptions on the target domain. Our model performs competitively on the Compositional Freebase Questions (CFQ) dataset, a challenging benchmark for compositional generalization in question answering. Especially, our model effectively solves the MCD1 split with 98% accuracy. All source is available at https://github.com/gaiyu0/cfq.
+Author{1}{Firstname}#=%=#Yu
+Author{1}{Lastname}#=%=#Gai
+Author{1}{Username}#=%=#yu_gai
+Author{1}{Email}#=%=#yu_gai@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Paras
+Author{2}{Lastname}#=%=#Jain
+Author{2}{Username}#=%=#parasj
+Author{2}{Email}#=%=#paras_jain@berkeley.edu
+Author{2}{Affiliation}#=%=#UC Berkeley
+Author{3}{Firstname}#=%=#Wendi
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#wendizhang@berkeley.edu
+Author{3}{Affiliation}#=%=#UC Berkeley
+Author{4}{Firstname}#=%=#Joseph
+Author{4}{Lastname}#=%=#Gonzalez
+Author{4}{Username}#=%=#jegonzal
+Author{4}{Email}#=%=#jegonzal@berkeley.edu
+Author{4}{Affiliation}#=%=#UC Berkeley
+Author{5}{Firstname}#=%=#Dawn
+Author{5}{Lastname}#=%=#Song
+Author{5}{Username}#=%=#dawnsong
+Author{5}{Email}#=%=#dawn.onlinereg@gmail.com
+Author{5}{Affiliation}#=%=#University of California, Berkeley
+Author{6}{Firstname}#=%=#Ion
+Author{6}{Lastname}#=%=#Stoica
+Author{6}{Email}#=%=#istoica@cs.berkeley.edu
+Author{6}{Affiliation}#=%=#UC Berkeley
+
+==========

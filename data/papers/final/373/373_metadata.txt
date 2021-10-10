@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#373
+FinalPaperTitle#=%=#CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ensheng Shi
+JobTitle#==#
+Organization#==#
+Abstract#==#Code summarization aims to generate concise natural language descriptions of source code, which can help improve program comprehension and maintenance. Recent studies show that syntactic and structural information extracted from abstract syntax trees (ASTs) is conducive to summary generation. However, existing approaches fail to fully capture the rich information in ASTs because of the large size/depth of ASTs. In this paper, we propose a novel model CAST that hierarchically splits and reconstructs ASTs. First, we hierarchically split a large AST into a set of subtrees and utilize a recursive neural network to encode the subtrees. Then, we aggregate the embeddings of subtrees by reconstructing the split ASTs to get the representation of the complete AST. Finally, AST representation, together with source code embedding obtained by a vanilla code token encoder, is used for code summarization. Extensive experiments, including the ablation study and the human evaluation, on benchmarks have demonstrated the power of CAST. To facilitate reproducibility, our code and data are available at https://github.com/DeepSoftwareAnalytics/CAST.
+Author{1}{Firstname}#=%=#Ensheng
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Username}#=%=#ensheng
+Author{1}{Email}#=%=#s1530129650@stu.xjtu.edu.cn
+Author{1}{Affiliation}#=%=#Xi’an Jiaotong University
+Author{2}{Firstname}#=%=#Yanlin
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#yanlinwang
+Author{2}{Email}#=%=#yanlwang@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Lun
+Author{3}{Lastname}#=%=#Du
+Author{3}{Username}#=%=#luke28
+Author{3}{Email}#=%=#lun.du@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Hongyu
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#hongyujohn
+Author{4}{Email}#=%=#hongyujohn@gmail.com
+Author{4}{Affiliation}#=%=#University of Newcastle
+Author{5}{Firstname}#=%=#Shi
+Author{5}{Lastname}#=%=#Han
+Author{5}{Username}#=%=#shihan
+Author{5}{Email}#=%=#shihan@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research Asia
+Author{6}{Firstname}#=%=#Dongmei
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#dzhang
+Author{6}{Email}#=%=#dongmeiz@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research
+Author{7}{Firstname}#=%=#Hongbin
+Author{7}{Lastname}#=%=#Sun
+Author{7}{Username}#=%=#sunsir
+Author{7}{Email}#=%=#hsun@mail.xjtu.edu.cn
+Author{7}{Affiliation}#=%=#Xi'an Jiaotong University
+
+==========

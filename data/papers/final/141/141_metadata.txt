@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#141
+FinalPaperTitle#=%=#Reconstruction Attack on Instance Encoding for Language Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Shangyu Xie
+JobTitle#==#
+Organization#==#
+Abstract#==#A private learning scheme TextHide was recently proposed to protect the private text data during the training phase via so-called instance encoding. We propose a novel reconstruction attack to break TextHide by recovering the private training data, and thus unveil the privacy risks of instance encoding. We have experimentally validated the effectiveness of the reconstruction attack with two commonly-used datasets for sentence classification. Our attack would advance the development of privacy preserving machine learning in the context of natural language processing.
+Author{1}{Firstname}#=%=#Shangyu
+Author{1}{Lastname}#=%=#Xie
+Author{1}{Username}#=%=#shanxie6622
+Author{1}{Email}#=%=#sxie14@hawk.iit.edu
+Author{1}{Affiliation}#=%=#Illinois Institute of Technology
+Author{2}{Firstname}#=%=#Yuan
+Author{2}{Lastname}#=%=#Hong
+Author{2}{Email}#=%=#yuan.hong@iit.edu
+Author{2}{Affiliation}#=%=#Illinois Institute of Technology
+
+==========

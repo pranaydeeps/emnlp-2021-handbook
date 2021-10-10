@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#421
+FinalPaperTitle#=%=#P-INT: A Path-based Interaction Model for Few-shot Knowledge Graph Completion
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jingwen Xu
+JobTitle#==#
+Organization#==#
+Abstract#==#Few-shot knowledge graph completion is to infer the unknown facts (i.e., query head-tail entity pairs) of a given relation with only a few observed reference entity pairs. Its general process is to first encode the implicit relation of an entity pair and then match the relation of a query entity pair with the relations of the reference entity pairs. Most existing methods have thus far encoded an entity pair and matched entity pairs by using the direct neighbors of concerned entities. In this paper, we propose the P-INT model for effective few-shot knowledge graph completion. First, P-INT infers and leverages the paths that can expressively encode the relation of two entities. Second, to capture the fine grained matches, P-INT calculates the interactions of paths instead of mix- ing them for each entity pair. Extensive experimental results demonstrate that P-INT out- performs the state-of-the-art baselines by 11.2– 14.2% in terms of Hits@1. Our codes and datasets are online now.
+Author{1}{Firstname}#=%=#Jingwen
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#jingwenxu
+Author{1}{Email}#=%=#xujingwen@ruc.edu.cn
+Author{1}{Affiliation}#=%=#Renmin University of China
+Author{2}{Firstname}#=%=#Jing
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zhang-jing@ruc.edu.cn
+Author{2}{Affiliation}#=%=#Renmin University of China
+Author{3}{Firstname}#=%=#Xirui
+Author{3}{Lastname}#=%=#Ke
+Author{3}{Email}#=%=#kexirui@ruc.edu.cn
+Author{3}{Affiliation}#=%=#Renmin University of China
+Author{4}{Firstname}#=%=#Yuxiao
+Author{4}{Lastname}#=%=#Dong
+Author{4}{Email}#=%=#ericdongyx@Gmail.com
+Author{4}{Affiliation}#=%=#Facebook AI
+Author{5}{Firstname}#=%=#Hong
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#chong@ruc.edu.cn
+Author{5}{Affiliation}#=%=#Renmin University of China
+Author{6}{Firstname}#=%=#Cuiping
+Author{6}{Lastname}#=%=#Li
+Author{6}{Email}#=%=#licuiping@ruc.edu.cn
+Author{6}{Affiliation}#=%=#Renmin University of China
+Author{7}{Firstname}#=%=#Yongbin
+Author{7}{Lastname}#=%=#Liu
+Author{7}{Email}#=%=#yongbinliu03@gmail.com
+Author{7}{Affiliation}#=%=#University of South China
+
+==========

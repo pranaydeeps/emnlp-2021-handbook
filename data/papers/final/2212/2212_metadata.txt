@@ -1,0 +1,62 @@
+SubmissionNumber#=%=#2212
+FinalPaperTitle#=%=#Challenges in Detoxifying Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Johannes Welbl
+JobTitle#==#
+Organization#==#DeepMind Technologies Limited
+5 New Street Square, London EC4A 3TW
+United Kingdom
+Abstract#==#Large language models (LM) generate remarkably fluent text and can be efficiently adapted across NLP tasks. Measuring and guaranteeing the quality of generated text in terms of safety is imperative for deploying LMs in the real world; to this end, prior work often relies on automatic evaluation of LM toxicity. We critically discuss this approach, evaluate several toxicity mitigation strategies with respect to both automatic and human evaluation, and analyze consequences of toxicity mitigation in terms of model bias and LM quality. We demonstrate that while basic intervention strategies can effectively optimize previously established automatic metrics on the REALTOXICITYPROMPTS dataset, this comes at the cost of reduced LM coverage for both texts about, and dialects of, marginalized groups. Additionally, we find that human raters often disagree with high automatic toxicity scores after strong toxicity reduction interventions—highlighting further the nuances involved in careful evaluation of LM toxicity.
+Author{1}{Firstname}#=%=#Johannes
+Author{1}{Lastname}#=%=#Welbl
+Author{1}{Username}#=%=#johannes_welbl
+Author{1}{Email}#=%=#welbl@google.com
+Author{1}{Affiliation}#=%=#DeepMind
+Author{2}{Firstname}#=%=#Amelia
+Author{2}{Lastname}#=%=#Glaese
+Author{2}{Username}#=%=#miaglaese
+Author{2}{Email}#=%=#amelia.glaese@gmail.com
+Author{2}{Affiliation}#=%=#DeepMind
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Uesato
+Author{3}{Username}#=%=#juesato
+Author{3}{Email}#=%=#juesato@google.com
+Author{3}{Affiliation}#=%=#Google DeepMind
+Author{4}{Firstname}#=%=#Sumanth
+Author{4}{Lastname}#=%=#Dathathri
+Author{4}{Username}#=%=#sdathath
+Author{4}{Email}#=%=#sdathath@google.com
+Author{4}{Affiliation}#=%=#DeepMind
+Author{5}{Firstname}#=%=#John
+Author{5}{Lastname}#=%=#Mellor
+Author{5}{Username}#=%=#johnmellor
+Author{5}{Email}#=%=#mellor@gmail.com
+Author{5}{Affiliation}#=%=#DeepMind
+Author{6}{Firstname}#=%=#Lisa Anne
+Author{6}{Lastname}#=%=#Hendricks
+Author{6}{Username}#=%=#lisa_anne
+Author{6}{Email}#=%=#lmh@google.com
+Author{6}{Affiliation}#=%=#DeepMind
+Author{7}{Firstname}#=%=#Kirsty
+Author{7}{Lastname}#=%=#Anderson
+Author{7}{Username}#=%=#kirsty.anderson
+Author{7}{Email}#=%=#kirsty.g.anderson@Hotmail.co.uk
+Author{7}{Affiliation}#=%=#DeepMind
+Author{8}{Firstname}#=%=#Pushmeet
+Author{8}{Lastname}#=%=#Kohli
+Author{8}{Username}#=%=#pkohli
+Author{8}{Email}#=%=#pushmeet@google.com
+Author{8}{Affiliation}#=%=#DeepMind
+Author{9}{Firstname}#=%=#Ben
+Author{9}{Lastname}#=%=#Coppin
+Author{9}{Username}#=%=#bencoppin
+Author{9}{Email}#=%=#coppin@google.com
+Author{9}{Affiliation}#=%=#DeepMind
+Author{10}{Firstname}#=%=#Po-Sen
+Author{10}{Lastname}#=%=#Huang
+Author{10}{Username}#=%=#huang146
+Author{10}{Email}#=%=#posenhuang@google.com
+Author{10}{Affiliation}#=%=#DeepMind
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1155
+FinalPaperTitle#=%=#Unsupervised Neural Machine Translation with Universal Grammar
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Zuchao Li
+JobTitle#==#
+Organization#==#Shanghai Jiao Tong University
+Abstract#==#Machine translation usually relies on parallel corpora to provide parallel signals for training. The advent of unsupervised machine translation has brought machine translation away from this reliance, though performance still lags behind traditional supervised machine translation. In unsupervised machine translation, the model seeks symmetric language similarities as a source of weak parallel signal to achieve translation. Chomsky's Universal Grammar theory postulates that grammar is an innate form of knowledge to humans and is governed by universal principles and constraints. Therefore, in this paper, we seek to leverage such shared grammar clues to provide more explicit language parallel signals to enhance the training of unsupervised machine translation models. Through experiments on multiple typical language pairs, we demonstrate the effectiveness of our proposed approaches.
+Author{1}{Firstname}#=%=#Zuchao
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#zuchaoli
+Author{1}{Email}#=%=#charlee@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Masao
+Author{2}{Lastname}#=%=#Utiyama
+Author{2}{Username}#=%=#mutiyama
+Author{2}{Email}#=%=#mutiyama@nict.go.jp
+Author{2}{Affiliation}#=%=#NICT
+Author{3}{Firstname}#=%=#Eiichiro
+Author{3}{Lastname}#=%=#Sumita
+Author{3}{Username}#=%=#eiichirosumita
+Author{3}{Email}#=%=#eiichiro.sumita@nict.go.jp
+Author{3}{Affiliation}#=%=#NICT
+Author{4}{Firstname}#=%=#Hai
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Username}#=%=#areal
+Author{4}{Email}#=%=#zhaohai@cs.sjtu.edu.cn
+Author{4}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#167
+FinalPaperTitle#=%=#Generating Mammography Reports from Multi-view Mammograms with BERT
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Dmitriy Umerenkov
+JobTitle#==#
+Organization#==#Sberbank AI Lab
+Moscow, 117312, ul. Vavilova 19
+Abstract#==#Writing mammography reports can be error-prone and time-consuming for radiologists.
+In this paper we propose a method to generate mammography reports given four images, corresponding to the four views used in screening mammography. To the best of our knowledge our work represents the first attempt to generate the mammography report using deep-learning.
+We propose an encoder-decoder model that includes an EfficientNet-based encoder and a Transformer-based decoder. We demonstrate that the Transformer-based attention mechanism can combine visual and semantic information to localize salient regions on the input mammograms and generate a visually interpretable report. 
+The conducted experiments, including an evaluation by a certified radiologist, show the effectiveness of the proposed method.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Yalunin
+Author{1}{Username}#=%=#alexyalunin
+Author{1}{Email}#=%=#ale.yalunin@gmail.com
+Author{1}{Affiliation}#=%=#Sberbank AI Lab
+Author{2}{Firstname}#=%=#Elena
+Author{2}{Lastname}#=%=#Sokolova
+Author{2}{Username}#=%=#ellen_rana
+Author{2}{Email}#=%=#sokolova.el.vladimirov@sberbank.ru
+Author{2}{Affiliation}#=%=#Sberbank AI Lab
+Author{3}{Firstname}#=%=#Ilya
+Author{3}{Lastname}#=%=#Burenko
+Author{3}{Username}#=%=#iburenko
+Author{3}{Email}#=%=#iburenko@gmail.com
+Author{3}{Affiliation}#=%=#Sberbank AI Lab
+Author{4}{Firstname}#=%=#Alexander
+Author{4}{Lastname}#=%=#Ponomarchuk
+Author{4}{Username}#=%=#palevas
+Author{4}{Email}#=%=#ponomarchuk@gmail.com
+Author{4}{Affiliation}#=%=#Sberbank AI Lab
+Author{5}{Firstname}#=%=#Olga
+Author{5}{Lastname}#=%=#Puchkova
+Author{5}{Username}#=%=#o.s.puchkova
+Author{5}{Email}#=%=#o.s.puchkova@icloud.com
+Author{5}{Affiliation}#=%=#Head of breast imaging dep K31
+Author{6}{Firstname}#=%=#Dmitriy
+Author{6}{Lastname}#=%=#Umerenkov
+Author{6}{Username}#=%=#dumerenkov
+Author{6}{Email}#=%=#memory_@mail.ru
+Author{6}{Affiliation}#=%=#Sberbank AI Lab
+
+==========

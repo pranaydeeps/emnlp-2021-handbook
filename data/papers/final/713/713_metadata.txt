@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#713
+FinalPaperTitle#=%=#TSDAE: Using Transformer-based Sequential Denoising Auto-Encoderfor Unsupervised Sentence Embedding Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Kexin Wang
+JobTitle#==#
+Organization#==#Ubiquitous Knowledge Processing (UKP Lab)
+Technical University of Darmstadt
+Hochschulstr. 10, 64289 Darmstadt, Germany
+Abstract#==#Learning sentence embeddings often requires a large amount of labeled data. However, for most tasks and domains, labeled data is seldom available and creating it is expensive. In this work, we present a new state-of-the-art unsupervised method based on pre-trained Transformers and Sequential Denoising Auto-Encoder (TSDAE) which outperforms previous approaches by up to 6.4 points. It can achieve up to 93.1% of the performance of in-domain supervised approaches. Further, we show that TSDAE is a strong domain adaptation and pre-training method for sentence embeddings, significantly outperforming other approaches like Masked Language Model.
+
+A crucial shortcoming of previous studies is the narrow evaluation: Most work mainly evaluates on the single task of Semantic Textual Similarity (STS), which does not require any domain knowledge. It is unclear if these proposed methods generalize to other domains and tasks. We fill this gap and evaluate TSDAE and other recent approaches on four different datasets from heterogeneous domains.
+Author{1}{Firstname}#=%=#Kexin
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#kwang2049
+Author{1}{Email}#=%=#kexin.wang.2049@gmail.com
+Author{1}{Affiliation}#=%=#Ubiquitous Knowledge Processing Lab (UKP-TUDA) Department of Computer Science, Technical University of Darmstadt
+Author{2}{Firstname}#=%=#Nils
+Author{2}{Lastname}#=%=#Reimers
+Author{2}{Username}#=%=#reimers
+Author{2}{Email}#=%=#info@nils-reimers.de
+Author{2}{Affiliation}#=%=#Huggingface
+Author{3}{Firstname}#=%=#Iryna
+Author{3}{Lastname}#=%=#Gurevych
+Author{3}{Username}#=%=#gurevych
+Author{3}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

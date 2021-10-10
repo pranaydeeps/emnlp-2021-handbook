@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#528
+FinalPaperTitle#=%=#Neural Machine Translation with Heterogeneous Topic Knowledge Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#WEI PENG
+JobTitle#==#
+Organization#==#HUAWEI TECHNOLOGIES CO., LTD. 
+Section B, Huawei Industrial Base, Bantian, Longgang District, Shenzhen 518129, PRC
+Abstract#==#Neural Machine Translation (NMT) has shown a strong ability to utilize local context to disambiguate the meaning of words. However, it remains a challenge for NMT to leverage broader context information like topics. In this paper, we propose heterogeneous ways of embedding topic information at the sentence level into an NMT model to improve translation performance. Specifically, the topic information can be incorporated as pre-encoder topic embedding, post-encoder topic embedding, and decoder topic embedding to increase the likelihood of selecting target words from the same topic of the source sentence. Experimental results show that NMT models with the proposed topic knowledge embedding outperform the baselines on the English -> German and English -> French translation tasks.
+Author{1}{Firstname}#=%=#Weixuan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#wangweixuan
+Author{1}{Email}#=%=#wangweixuan2@huawei.com
+Author{1}{Affiliation}#=%=#Artificial Intelligence Application Research Center, Huawei Technologies
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Peng
+Author{2}{Username}#=%=#wpeng_wmt19
+Author{2}{Email}#=%=#peng.wei1@huawei.com
+Author{2}{Affiliation}#=%=#Artificial Intelligence Application Research Center, Huawei Technologies
+Author{3}{Firstname}#=%=#Meng
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#mengzhang
+Author{3}{Email}#=%=#zhangmeng92@huawei.com
+Author{3}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{4}{Firstname}#=%=#Qun
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#liuqun
+Author{4}{Email}#=%=#qun.liu@huawei.com
+Author{4}{Affiliation}#=%=#Huawei Noah's Ark Lab
+
+==========

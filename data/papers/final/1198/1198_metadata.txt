@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1198
+FinalPaperTitle#=%=#Simulated Chats for Building Dialog Systems: Learning to Generate Conversations from Instructions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Biswesh Mohapatra
+JobTitle#==#
+Organization#==#IBM Research AI, New Delhi
+Abstract#==#Popular dialog  datasets  such  as  MultiWOZ are created by providing crowd workers an instruction, expressed in  natural  language,  that  describes the task to be accomplished. Crowd workers play the role of a user and an agent to generate dialogs to accomplish tasks involving booking restaurant tables, calling a taxi etc.  In this paper,  we present  a  data  creation  strategy  that uses  the  pre-trained  language  model,  GPT2, to simulate the interaction between crowd workers by creating a user bot and an agent bot.  We train the simulators  using a  smaller percentage  of  actual  crowd-generated  conversations  and  their corresponding instructions.  We demonstrate that by using the simulated data,  we achieve significant improvements in low-resource settings on two publicly available datasets - MultiWOZ dataset and the Persona chat dataset.
+Author{1}{Firstname}#=%=#Biswesh
+Author{1}{Lastname}#=%=#Mohapatra
+Author{1}{Username}#=%=#biswesh
+Author{1}{Email}#=%=#biswesh.mohapatra@iiitb.org
+Author{1}{Affiliation}#=%=#International Institute of Information Technology Bangalore
+Author{2}{Firstname}#=%=#Gaurav
+Author{2}{Lastname}#=%=#Pandey
+Author{2}{Username}#=%=#gauravpandey
+Author{2}{Email}#=%=#gpandey1@in.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Danish
+Author{3}{Lastname}#=%=#Contractor
+Author{3}{Username}#=%=#danishcontractor
+Author{3}{Email}#=%=#dcontrac@in.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research & Indian Institute of Technology, New Delhi
+Author{4}{Firstname}#=%=#Sachindra
+Author{4}{Lastname}#=%=#Joshi
+Author{4}{Username}#=%=#sachindra
+Author{4}{Email}#=%=#jsachind@in.ibm.com
+Author{4}{Affiliation}#=%=#IBM
+
+==========

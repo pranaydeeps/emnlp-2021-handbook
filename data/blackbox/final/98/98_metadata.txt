@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#98
+FinalPaperTitle#=%=#Exploratory Model Analysis Using Data-Driven Neuron Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Daisuke Oba
+JobTitle#==#
+Organization#==#The University of Tokyo
+Ee-503, 4-6-1 Komaba, Meguro-Ku, Tokyo, 153-8505, Japan
+Abstract#==#Probing classifiers have been extensively used to inspect whether a model component captures specific linguistic phenomena. This top-down approach is, however, costly when we have no probable hypothesis on the association between the target model component and phenomena. In this study, aiming to provide a flexible, exploratory analysis of a neural model at various levels ranging from individual neurons to the model as a whole, we present a bottom-up approach to inspect the target neural model by using neuron representations obtained from a massive corpus of text. We first feed massive amount of text to the target model and collect sentences that strongly activate each neuron. We then abstract the collected sentences to obtain neuron representations that help us interpret the corresponding neurons; we augment the sentences with linguistic annotations (e.g., part-of-speech tags) and various metadata (e.g., topic and sentiment), and apply pattern mining and clustering techniques to the augmented sentences.  We demonstrate the utility of our method by inspecting the pre-trained BERT. Our exploratory analysis reveals that i) specific phrases and domains of text are captured by individual neurons in BERT, ii) a group of neurons simultaneously capture the same linguistic phenomena, and iii) deeper-level layers capture more specific linguistic phenomena.
+Author{1}{Firstname}#=%=#Daisuke
+Author{1}{Lastname}#=%=#Oba
+Author{1}{Username}#=%=#daisuke_o_0235
+Author{1}{Email}#=%=#oba@tkl.iis.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Naoki
+Author{2}{Lastname}#=%=#Yoshinaga
+Author{2}{Username}#=%=#ynaga
+Author{2}{Email}#=%=#ynaga@iis.u-tokyo.ac.jp
+Author{2}{Affiliation}#=%=#Institute of Industrial Science, the University of Tokyo
+Author{3}{Firstname}#=%=#Masashi
+Author{3}{Lastname}#=%=#Toyoda
+Author{3}{Username}#=%=#toyoda
+Author{3}{Email}#=%=#toyoda@tkl.iis.u-tokyo.ac.jp
+Author{3}{Affiliation}#=%=#The University of Tokyo
+
+==========

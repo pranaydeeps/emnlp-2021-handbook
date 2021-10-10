@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3104
+FinalPaperTitle#=%=#Improving Simultaneous Translation by Incorporating Pseudo-References with Fewer Reorderings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Junkun Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Simultaneous translation is vastly different from full-sentence translation, in the sense that it starts translation before the source sentence ends, with only a few words delay. However, due to the lack of large-scale, high-quality simultaneous translation datasets, most such systems are still trained on conventional full-sentence bitexts. This is far from ideal for the simultaneous scenario due to the abundance of unnecessary long-distance reorderings in those bitexts. We propose a novel method that rewrites the target side of existing full-sentence corpora into simultaneous-style translation. Experiments on Zh$\rightarrow$En and Ja$\rightarrow$En simultaneous translation show substantial improvements (up to +2.7 BLEU) with the addition of these generated pseudo-references.
+Author{1}{Firstname}#=%=#Junkun
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#chenjun2
+Author{1}{Email}#=%=#chenjun2@oregonstate.edu
+Author{1}{Affiliation}#=%=#Oregon State University
+Author{2}{Firstname}#=%=#Renjie
+Author{2}{Lastname}#=%=#Zheng
+Author{2}{Username}#=%=#renj
+Author{2}{Email}#=%=#zheng@renj.me
+Author{2}{Affiliation}#=%=#Baidu Research
+Author{3}{Firstname}#=%=#Atsuhito
+Author{3}{Lastname}#=%=#Kita
+Author{3}{Username}#=%=#at_north
+Author{3}{Email}#=%=#kitaa@oregonstate.edu
+Author{3}{Affiliation}#=%=#Oregon State University
+Author{4}{Firstname}#=%=#Mingbo
+Author{4}{Lastname}#=%=#Ma
+Author{4}{Username}#=%=#mingbo
+Author{4}{Email}#=%=#cosmmb@gmail.com
+Author{4}{Affiliation}#=%=#Baidu Research
+Author{5}{Firstname}#=%=#Liang
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Username}#=%=#lhuang3
+Author{5}{Email}#=%=#liang.huang.sh@gmail.com
+Author{5}{Affiliation}#=%=#Oregon State University and Baidu Research
+
+==========

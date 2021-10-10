@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#1276
+FinalPaperTitle#=%=#Topic-Aware Contrastive Learning for Abstractive Dialogue Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Junpeng Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Unlike well-structured text, such as news reports and encyclopedia articles, dialogue content often comes from two or more interlocutors, exchanging information with each other.
+In such a scenario,  the topic of a conversation can vary upon progression and the key information for a certain topic is often scattered across multiple utterances of different speakers, which poses challenges to abstractly summarize dialogues.
+To capture the various topic information of a conversation and outline salient facts for the captured topics, this work proposes two topic-aware contrastive learning objectives, namely coherence detection and sub-summary generation objectives, which are expected to implicitly model the topic change and handle information scattering challenges for the dialogue summarization task.
+The proposed contrastive objectives are framed as auxiliary tasks for the primary dialogue summarization task, united via an alternative parameter updating strategy.
+Extensive experiments on benchmark datasets demonstrate that the proposed simple method significantly outperforms strong baselines and achieves new state-of-the-art performance.
+The code and trained models are publicly available via \href{https://github.com/Junpliu/ConDigSum}.
+Author{1}{Firstname}#=%=#Junpeng
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#junpengliu12
+Author{1}{Email}#=%=#jeepliu@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Yanyan
+Author{2}{Lastname}#=%=#Zou
+Author{2}{Username}#=%=#yanyan_zou
+Author{2}{Email}#=%=#2296251368@qq.com
+Author{2}{Affiliation}#=%=#JD.com
+Author{3}{Firstname}#=%=#Hainan
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#zhanghainan
+Author{3}{Email}#=%=#zhanghainan1990@163.com
+Author{3}{Affiliation}#=%=#Data Science Lab JD.com
+Author{4}{Firstname}#=%=#Hongshen
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#chenhongshen
+Author{4}{Email}#=%=#ac@chenhongshen.com
+Author{4}{Affiliation}#=%=#JD.com
+Author{5}{Firstname}#=%=#Zhuoye
+Author{5}{Lastname}#=%=#Ding
+Author{5}{Username}#=%=#dingzhuoye
+Author{5}{Email}#=%=#dingzhuoye@jd.com
+Author{5}{Affiliation}#=%=#JD.com
+Author{6}{Firstname}#=%=#Caixia
+Author{6}{Lastname}#=%=#Yuan
+Author{6}{Username}#=%=#yuancx
+Author{6}{Email}#=%=#yuancx@bupt.edu.cn
+Author{6}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{7}{Firstname}#=%=#Xiaojie
+Author{7}{Lastname}#=%=#WANG
+Author{7}{Username}#=%=#xjwang
+Author{7}{Email}#=%=#xjwang@bupt.edu.cn
+Author{7}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+
+==========

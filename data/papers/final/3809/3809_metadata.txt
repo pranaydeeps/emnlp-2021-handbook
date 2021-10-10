@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#3809
+FinalPaperTitle#=%=#Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Libo Qin
+JobTitle#==#
+Organization#==#Research Center for Social Computing and Information Retrieval Harbin Institute of Technology, China
+Abstract#==#Consistency Identification has obtained remarkable success on open-domain dialogue, which can be used for preventing inconsistent response generation.  However, in contrast to the rapid development in open-domain dialogue, few efforts have been made to the task-oriented dialogue direction.
+In this paper, we argue that \textit{consistency problem} is more urgent in task-oriented domain.
+To facilitate the research, we introduce CI-ToD, a novel dataset for \textbf{C}onsistency \textbf{I}dentification in \textbf{T}ask-\textbf{o}riented \textbf{D}ialog system. In addition, we not only annotate the single label to enable the model to judge whether the system response is contradictory, but also provide more fine-grained labels (i.e., Dialogue History Inconsistency, User Query Inconsistency and Knowledge Base Inconsistency) to encourage model to know what inconsistent sources lead to it.
+Empirical results show that state-of-the-art methods only achieve 51.3\%, which is far behind the human performance of 93.2\%, indicating that there is ample room for improving consistency identification ability. Finally, we conduct exhaustive experiments and qualitative analysis to comprehend key challenges and provide guidance for future directions. All datasets and models are publicly available at \url{https://github.com/yizhen20133868/CI-ToD}.
+Author{1}{Firstname}#=%=#Libo
+Author{1}{Lastname}#=%=#Qin
+Author{1}{Username}#=%=#lbqin
+Author{1}{Email}#=%=#m15840540712@163.com
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Tianbao
+Author{2}{Lastname}#=%=#Xie
+Author{2}{Username}#=%=#tianbaoxie
+Author{2}{Email}#=%=#tianbaoxie@ir.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Shijue
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Username}#=%=#joehuang
+Author{3}{Email}#=%=#sjhuang@stu.hit.edu.cn
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+Author{4}{Firstname}#=%=#Qiguang
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#lightchen
+Author{4}{Email}#=%=#1204079638@qq.com
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology
+Author{5}{Firstname}#=%=#Xiao
+Author{5}{Lastname}#=%=#Xu
+Author{5}{Username}#=%=#looperxx
+Author{5}{Email}#=%=#xxu@ir.hit.edu.cn
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology
+Author{6}{Firstname}#=%=#Wanxiang
+Author{6}{Lastname}#=%=#Che
+Author{6}{Username}#=%=#wanxiang
+Author{6}{Email}#=%=#wanxiang@gmail.com
+Author{6}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

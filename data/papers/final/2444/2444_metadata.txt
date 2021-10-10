@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2444
+FinalPaperTitle#=%=#What happens if you treat ordinal ratings as interval data? Human evaluations in NLP are even more under-powered than you think
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#David M. Howcroft
+JobTitle#==#
+Organization#==#
+Abstract#==#Previous work has shown that human evaluations  in  NLP  are  notoriously  under-powered. Here,  we  argue  that  there  are  two  common factors which make this problem even worse: NLP studies usually (a) treat ordinal data as interval data and (b) operate under high variance settings while the differences they are hoping to  detect  are  often  subtle.  We  demonstrate through simulation that ordinal mixed effects models  are  better  able  to  detect  small  differences between models, especially in high variance settings common in evaluations of generated texts.  We release tools for researchers to conduct their own power analysis and test their assumptions. We also make recommendations for improving statistical power.
+Author{1}{Firstname}#=%=#David M.
+Author{1}{Lastname}#=%=#Howcroft
+Author{1}{Username}#=%=#dmhowcroft
+Author{1}{Email}#=%=#dave.howcroft@gmail.com
+Author{1}{Affiliation}#=%=#Edinburgh Napier University
+Author{2}{Firstname}#=%=#Verena
+Author{2}{Lastname}#=%=#Rieser
+Author{2}{Username}#=%=#verena.rieser
+Author{2}{Email}#=%=#v.t.rieser@hw.ac.uk
+Author{2}{Affiliation}#=%=#Heriot-Watt University
+
+==========

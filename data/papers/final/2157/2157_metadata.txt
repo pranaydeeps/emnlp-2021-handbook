@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2157
+FinalPaperTitle#=%=#Aligning Actions Across Recipe Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Lucia Donatelli
+JobTitle#==#
+Organization#==#
+Abstract#==#Recipe texts are an idiosyncratic form of instructional language that pose unique challenges for automatic understanding. One challenge is that a cooking step in one recipe can be explained in another recipe in different words, at a different level of abstraction, or not at all. Previous work has annotated correspondences between recipe instructions at the sentence level, often glossing over important correspondences between cooking steps across recipes. We present a novel and fully-parsed English recipe corpus, ARA (Aligned Recipe Actions), which annotates correspondences between individual actions across similar recipes with the goal of capturing information implicit for accurate recipe understanding. We represent this information in the form of recipe graphs, and we train a neural model for predicting correspondences on ARA. We find that substantial gains in accuracy can be obtained by taking fine-grained structural information about the recipes into account.
+Author{1}{Firstname}#=%=#Lucia
+Author{1}{Lastname}#=%=#Donatelli
+Author{1}{Username}#=%=#ldonatelli
+Author{1}{Email}#=%=#donatelli@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Theresa
+Author{2}{Lastname}#=%=#Schmidt
+Author{2}{Username}#=%=#theresaschmidt
+Author{2}{Email}#=%=#theresas@coli.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Debanjali
+Author{3}{Lastname}#=%=#Biswas
+Author{3}{Username}#=%=#debanjali05
+Author{3}{Email}#=%=#debanjali.biswas0507@gmail.com
+Author{3}{Affiliation}#=%=#Saarland University
+Author{4}{Firstname}#=%=#Arne
+Author{4}{Lastname}#=%=#Köhn
+Author{4}{Username}#=%=#akoehn
+Author{4}{Email}#=%=#koehn@coli.uni-saarland.de
+Author{4}{Affiliation}#=%=#Saarland University
+Author{5}{Firstname}#=%=#Fangzhou
+Author{5}{Lastname}#=%=#Zhai
+Author{5}{Username}#=%=#ark
+Author{5}{Email}#=%=#thearkforyou@gmail.com
+Author{5}{Affiliation}#=%=#Saarland University
+Author{6}{Firstname}#=%=#Alexander
+Author{6}{Lastname}#=%=#Koller
+Author{6}{Username}#=%=#akoller
+Author{6}{Email}#=%=#koller@coli.uni-saarland.de
+Author{6}{Affiliation}#=%=#Saarland University
+
+==========

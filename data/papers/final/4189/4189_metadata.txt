@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4189
+FinalPaperTitle#=%=#A Relation-Oriented Clustering Method for Open Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jun Zhao
+JobTitle#==#
+Organization#==#
+Abstract#==#The clustering-based unsupervised relation discovery method has gradually become one of the important methods of open relation extraction (OpenRE). However, high-dimensional vectors can encode complex linguistic information which leads to the problem that the derived clusters cannot explicitly align with the relational semantic classes. In this work, we propose a relation-oriented clustering model and use it to identify the novel relations in the unlabeled data. Specifically, to enable the model to learn to cluster relational data, our method leverages the readily available labeled data of pre-defined relations to learn a relation-oriented representation. We minimize distance between the instance with same relation by gathering the instances towards their corresponding relation centroids to form a cluster structure, so that the learned representation is cluster-friendly. To reduce the clustering bias on predefined classes, we optimize the model by minimizing a joint objective on both labeled and unlabeled data. Experimental results show that our method reduces the error rate by 29.2\% and 15.7\%, on two datasets respectively, compared with current SOTA methods.
+Author{1}{Firstname}#=%=#Jun
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Username}#=%=#jzhao.nlp
+Author{1}{Email}#=%=#zhaoj19@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Tao
+Author{2}{Lastname}#=%=#Gui
+Author{2}{Username}#=%=#guitao
+Author{2}{Email}#=%=#tgui16@fudan.edu.cn
+Author{2}{Affiliation}#=%=#fudan university
+Author{3}{Firstname}#=%=#Qi
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#lloydzq
+Author{3}{Email}#=%=#qz@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Yaqian
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#yqzhou
+Author{4}{Email}#=%=#zhouyaqian@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+
+==========

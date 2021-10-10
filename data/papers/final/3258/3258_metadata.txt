@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3258
+FinalPaperTitle#=%=#Semi-Supervised Exaggeration Detection of Health Science Press Releases
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Isabelle Augenstein
+JobTitle#==#
+Organization#==#Universitetsparken 1, 2100 Copenhagen, Denmark
+Abstract#==#Public trust in science depends on honest and factual communication of scientific papers. However, recent studies have demonstrated a tendency of news media to misrepresent scientific papers by exaggerating their findings. Given this, we present a formalization of and study into the problem of exaggeration detection in science communication. While there are an abundance of scientific papers and popular media articles written about them, very rarely do the articles include a direct link to the original paper, making data collection challenging, and necessitating the need for few-shot learning. We address this by curating a set of labeled press release/abstract pairs from existing expert annotated studies on exaggeration in press releases of scientific papers suitable for benchmarking the performance of machine learning models on the task. Using limited data from this and previous studies on exaggeration detection in science, we introduce MT-PET, a multi-task version of Pattern Exploiting Training (PET), which leverages knowledge from complementary cloze-style QA tasks to improve few-shot learning. We demonstrate that MT-PET outperforms PET and supervised learning both when data is limited, as well as when there is an abundance of data for the main task.
+Author{1}{Firstname}#=%=#Dustin
+Author{1}{Lastname}#=%=#Wright
+Author{1}{Username}#=%=#dwright37
+Author{1}{Email}#=%=#dw@di.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Isabelle
+Author{2}{Lastname}#=%=#Augenstein
+Author{2}{Username}#=%=#isabelle_augenstein
+Author{2}{Email}#=%=#augenstein@di.ku.dk
+Author{2}{Affiliation}#=%=#Department of Computer Science, University of Copenhagen
+
+==========

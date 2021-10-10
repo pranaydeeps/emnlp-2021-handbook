@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#1577
+FinalPaperTitle#=%=#"Let Your Characters Tell Their Story'': A Dataset for Character-Centric Narrative Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Faeze Brahman
+JobTitle#==#
+Organization#==#UC Santa Cruz
+Abstract#==#When reading a literary piece, readers often make inferences about various characters' roles, personalities, relationships, intents, actions, etc. While humans can readily draw upon their past experiences to build such a character-centric view of the narrative, understanding characters in narratives can be a challenging task for machines. To encourage research in this field of character-centric narrative understanding, we present LiSCU -- a new dataset of literary pieces and their summaries paired with descriptions of characters that appear in them. We also introduce two new tasks on LiSCU: Character Identification and Character Description Generation. Our experiments with several pre-trained language models adapted for these tasks demonstrate that there is a need for better models of narrative comprehension.
+Author{1}{Firstname}#=%=#Faeze
+Author{1}{Lastname}#=%=#Brahman
+Author{1}{Username}#=%=#fbrahman
+Author{1}{Email}#=%=#fbrahman@ucsc.edu
+Author{1}{Affiliation}#=%=#UC Santa Cruz
+Author{2}{Firstname}#=%=#Meng
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#huangme@uchicago.edu
+Author{2}{Affiliation}#=%=#University of Chicago
+Author{3}{Firstname}#=%=#Oyvind
+Author{3}{Lastname}#=%=#Tafjord
+Author{3}{Username}#=%=#oyvindtafjord
+Author{3}{Email}#=%=#oyvindt@allenai.org
+Author{3}{Affiliation}#=%=#AI2
+Author{4}{Firstname}#=%=#Chao
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Username}#=%=#zhaochaocs
+Author{4}{Email}#=%=#zhaochaocs@gmail.com
+Author{4}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{5}{Firstname}#=%=#Mrinmaya
+Author{5}{Lastname}#=%=#Sachan
+Author{5}{Username}#=%=#mrinmaya
+Author{5}{Email}#=%=#mrinmayaster@gmail.com
+Author{5}{Affiliation}#=%=#ETH Zurich
+Author{6}{Firstname}#=%=#Snigdha
+Author{6}{Lastname}#=%=#Chaturvedi
+Author{6}{Username}#=%=#snigdha
+Author{6}{Email}#=%=#snigdhac@gmail.com
+Author{6}{Affiliation}#=%=#University of North Carolina, Chapel Hill
+
+==========

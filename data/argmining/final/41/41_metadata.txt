@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#Bayesian Argumentation-Scheme Networks: {A} Probabilistic Model of Argument Validity Facilitated by Argumentation Schemes
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Takahiro Kondo
+JobTitle#==#
+Organization#==#The University of Tokyo
+Abstract#==#We propose a methodology for representing the reasoning structure of arguments using Bayesian networks and predicate logic facilitated by argumentation schemes.
+We express the meaning of text segments using predicate logic and map the boolean values of predicate logic expressions to nodes in a Bayesian network.
+The reasoning structure among text segments is described with a directed acyclic graph.
+While our formalism is highly expressive and capable of describing the informal logic of human arguments, it is too open-ended to actually build a network for an argument.
+It is not at all obvious which segment of argumentative text should be considered as a node in a Bayesian network, and how to decide the dependencies among nodes.
+To alleviate the difficulty, we provide abstract network fragments, called idioms, which represent typical argument justification patterns derived from argumentation schemes.
+The network construction process is decomposed into idiom selection, idiom instantiation, and idiom combination.
+We define 17 idioms in total by referring to argumentation schemes as well as analyzing actual arguments and fitting idioms to them.
+We also create a dataset consisting of pairs of an argumentative text and a corresponding Bayesian network.
+Our dataset contains about 2,400 pairs, which is large in the research area of argumentation schemes.
+Author{1}{Firstname}#=%=#Takahiro
+Author{1}{Lastname}#=%=#Kondo
+Author{1}{Username}#=%=#koondooo
+Author{1}{Email}#=%=#takahiro_kondo@is.s.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Koki
+Author{2}{Lastname}#=%=#Washio
+Author{2}{Username}#=%=#kwashio
+Author{2}{Email}#=%=#kwashio@is.s.u-tokyo.ac.jp
+Author{2}{Affiliation}#=%=#The University of Tokyo
+Author{3}{Firstname}#=%=#Katsuhiko
+Author{3}{Lastname}#=%=#Hayashi
+Author{3}{Username}#=%=#katsuhiko-h
+Author{3}{Email}#=%=#khayashi0201@gmail.com
+Author{3}{Affiliation}#=%=#Gunma University
+Author{4}{Firstname}#=%=#Yusuke
+Author{4}{Lastname}#=%=#Miyao
+Author{4}{Username}#=%=#yusuke
+Author{4}{Email}#=%=#yusuke@is.s.u-tokyo.ac.jp
+Author{4}{Affiliation}#=%=#University of Tokyo
+
+==========

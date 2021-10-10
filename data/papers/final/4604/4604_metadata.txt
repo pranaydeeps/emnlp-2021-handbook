@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4604
+FinalPaperTitle#=%=#'Just What do You Think You're Doing, Dave?' A Checklist for Responsible Data Use in NLP
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Anna Rogers
+JobTitle#==#
+Organization#==#
+Abstract#==#A key part of the NLP ethics movement is responsible use of data, but exactly  what that means or how it can be best achieved remain unclear. This position paper discusses the core legal and ethical principles for collection and sharing of textual data, and the tensions between them. We propose a potential checklist for responsible data (re-)use that could both standardise the peer review of conference submissions, as well as enable a more in-depth view of published research across the community. Our proposal aims to contribute to the development of a consistent standard for data (re-)use, embraced across NLP conferences.
+Author{1}{Firstname}#=%=#Anna
+Author{1}{Lastname}#=%=#Rogers
+Author{1}{Username}#=%=#anna_gld
+Author{1}{Email}#=%=#anna.gld@gmail.com
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Timothy
+Author{2}{Lastname}#=%=#Baldwin
+Author{2}{Username}#=%=#tbaldwin
+Author{2}{Email}#=%=#tb@ldwin.net
+Author{2}{Affiliation}#=%=#The University of Melbourne
+Author{3}{Firstname}#=%=#kobi
+Author{3}{Lastname}#=%=#leins
+Author{3}{Username}#=%=#kobotic
+Author{3}{Email}#=%=#kobi.leins@hotmail.com
+Author{3}{Affiliation}#=%=#university of melbourne
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Coreference by Appearance: Visually Grounded Event Coreference Resolution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Liming Wang
+JobTitle#==#
+Organization#==#University of Illinois at Urbana-Champaign
+Abstract#==#Event coreference resolution is critical to understand events in the growing number of online news with multiple modalities including text, video, speech, etc. However, the events and entities depicting in different modalities may not be perfectly aligned and can be difficult to annotate, which makes the task especially challenging with little supervision available. To address the above issues, we propose a supervised model based on attention mechanism and an unsupervised model based on statistical machine translation, capable of learning the relative importance of modalities for event coreference resolution. Experiments on a video multimedia event dataset show that our multimodal models outperform text-only systems in event coreference resolution tasks. A careful analysis reveals that the performance gain of the multimodal model especially under unsupervised settings comes from better learning of visually salient events.
+Author{1}{Firstname}#=%=#Liming
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#lwang114
+Author{1}{Email}#=%=#lwang114@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois, Urbana Champaign
+Author{2}{Firstname}#=%=#Shengyu
+Author{2}{Lastname}#=%=#Feng
+Author{2}{Username}#=%=#shengyuf
+Author{2}{Email}#=%=#shengyu8@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois Urbana-Champaign
+Author{3}{Firstname}#=%=#Xudong
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Username}#=%=#xudonglin
+Author{3}{Email}#=%=#xudong.lin@columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+Author{4}{Firstname}#=%=#Manling
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#limanling
+Author{4}{Email}#=%=#manling2@illinois.edu
+Author{4}{Affiliation}#=%=#UIUC
+Author{5}{Firstname}#=%=#Heng
+Author{5}{Lastname}#=%=#Ji
+Author{5}{Username}#=%=#hengjirpi
+Author{5}{Email}#=%=#hengji@illinois.edu
+Author{5}{Affiliation}#=%=#University of Illinois at Urbana-Champaign and Amazon (Amazon Scholar)
+Author{6}{Firstname}#=%=#Shih-Fu
+Author{6}{Lastname}#=%=#Chang
+Author{6}{Username}#=%=#sfchang
+Author{6}{Email}#=%=#sc250@columbia.edu
+Author{6}{Affiliation}#=%=#Columbia University
+
+==========

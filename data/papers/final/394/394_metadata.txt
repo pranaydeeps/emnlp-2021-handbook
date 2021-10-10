@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#394
+FinalPaperTitle#=%=#Structural Adapters in Pretrained Language Models for {AMR}-to-{T}ext Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Leonardo F. R. Ribeiro
+JobTitle#==#
+Organization#==#Technical University of Darmstadt, Karolinenplatz 5 64289 Darmstadt, Germany
+Abstract#==#Pretrained language models (PLM) have recently advanced graph-to-text generation, where the input graph is linearized into a sequence and fed into the PLM to obtain its representation. However, efficiently encoding the graph structure in PLMs is challenging because such models were pretrained on natural language, and modeling structured data may lead to catastrophic forgetting of distributional knowledge. In this paper, we propose StructAdapt, an adapter method to encode graph structure into PLMs. Contrary to prior work, StructAdapt effectively models interactions among the nodes based on the graph connectivity, only training graph structure-aware adapter parameters. In this way, we incorporate task-specific knowledge while maintaining the topological structure of the graph. We empirically show the benefits of explicitly encoding graph structure into PLMs using StructAdapt, outperforming the state of the art on two AMR-to-text datasets, training only 5.1% of the PLM parameters.
+Author{1}{Firstname}#=%=#Leonardo F. R.
+Author{1}{Lastname}#=%=#Ribeiro
+Author{1}{Username}#=%=#leonardoribeiro
+Author{1}{Email}#=%=#ribeiro@aiphes.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#TU Darmstadt
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#frcchang
+Author{2}{Email}#=%=#yue.zhang@wias.org.cn
+Author{2}{Affiliation}#=%=#Westlake University
+Author{3}{Firstname}#=%=#Iryna
+Author{3}{Lastname}#=%=#Gurevych
+Author{3}{Username}#=%=#gurevych
+Author{3}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

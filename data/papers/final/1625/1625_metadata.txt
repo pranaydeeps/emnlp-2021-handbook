@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#1625
+FinalPaperTitle#=%=#An Empirical Study on Multiple Information Sources for Zero-Shot Fine-Grained Entity Typing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yi Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Auxiliary information from multiple sources has been demonstrated to be effective in zero-shot fine-grained entity typing (ZFET). However, there lacks a comprehensive understanding about how to make better use of the existing information sources and how they affect the performance of ZFET. 
+In this paper, we empirically study three kinds of auxiliary information: context consistency, type hierarchy and background knowledge (e.g., prototypes and descriptions) of types, and propose a multi-source fusion model (MSF) targeting these sources. 
+The performance obtains up to 11.42% and 22.84% absolute gains over state-of-the-art baselines on BBN and Wiki respectively with regard to macro F1 scores.
+More importantly, we further discuss the characteristics, merits and demerits of each information source and provide an intuitive understanding of the complementarity among them.
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#milkwhite
+Author{1}{Email}#=%=#yichennlp@gmail.com
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{2}{Firstname}#=%=#Haiyun
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Username}#=%=#haiyunjiang
+Author{2}{Email}#=%=#haiyunjiang@tencent.com
+Author{2}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Firstname}#=%=#Lemao
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#lemaoliu
+Author{3}{Email}#=%=#lemaoliu@gmail.com
+Author{3}{Affiliation}#=%=#Tencent AI Lab
+Author{4}{Firstname}#=%=#Shuming
+Author{4}{Lastname}#=%=#Shi
+Author{4}{Username}#=%=#shumings
+Author{4}{Email}#=%=#shumingshi@tencent.com
+Author{4}{Affiliation}#=%=#Tencent AI Lab
+Author{5}{Firstname}#=%=#Chuang
+Author{5}{Lastname}#=%=#Fan
+Author{5}{Username}#=%=#chuangfan
+Author{5}{Email}#=%=#fanchuanghit@gmail.com
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{6}{Firstname}#=%=#Min
+Author{6}{Lastname}#=%=#Yang
+Author{6}{Username}#=%=#mirandayang3
+Author{6}{Email}#=%=#min.yang@siat.ac.cn
+Author{6}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{7}{Firstname}#=%=#Ruifeng
+Author{7}{Lastname}#=%=#Xu
+Author{7}{Username}#=%=#xuruifeng.hitsz
+Author{7}{Email}#=%=#xuruifeng@hit.edu.cn
+Author{7}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+
+==========

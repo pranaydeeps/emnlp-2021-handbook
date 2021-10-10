@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#A practical perspective on connective generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Merel Scholman
+JobTitle#==#
+Organization#==#Saarland University, Saarbruecken, Germany
+Abstract#==#In data-driven natural language generation, we typically know what relation should be expressed and need to select a connective to lexicalize it. 
+In the current contribution, we analyse whether a sophisticated connective generation module is necessary to select a connective, or whether this can be solved with simple methods (such as random choice between connectives that are known to express a given relation, or usage of a generic language model). Comparing these methods to the distributions of connective choices from a human connective insertion task, we find mixed results: for some relations, it is acceptable to lexicalize them using any of the connectives that mark this relation. However, for other relations (temporals, concessives) either a more detailed relation distinction needs to be introduced, or a more sophisticated connective choice module would be necessary.
+Author{1}{Firstname}#=%=#Frances
+Author{1}{Lastname}#=%=#Yung
+Author{1}{Email}#=%=#frances@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Merel
+Author{2}{Lastname}#=%=#Scholman
+Author{2}{Username}#=%=#m.c.j.scholman
+Author{2}{Email}#=%=#m.c.j.scholman@coli.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Vera
+Author{3}{Lastname}#=%=#Demberg
+Author{3}{Username}#=%=#vera
+Author{3}{Email}#=%=#vera@coli.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+
+==========

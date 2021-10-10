@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1043
+FinalPaperTitle#=%=#Compositional Generalization via Semantic Tagging
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hao Zheng
+JobTitle#==#
+Organization#==#University of Edinburgh
+Abstract#==#Although neural sequence-to-sequence models have been successfully
+  applied to semantic parsing, they fail at compositional
+    generalization, i.e.,~they are unable to systematically
+  generalize to unseen compositions of seen components. Motivated by
+  traditional semantic parsing where compositionality is explicitly
+  accounted for by symbolic grammars, we propose a new decoding
+  framework that preserves the expressivity and generality of
+  sequence-to-sequence models while featuring lexicon-style alignments
+  and disentangled information processing. Specifically, we decompose
+  decoding into two phases where an input utterance is first tagged
+  with semantic symbols representing the meaning of individual words,
+  and then a sequence-to-sequence model is used to predict the final
+  meaning representation conditioning on the utterance and the
+  predicted tag sequence. Experimental results on three semantic
+  parsing datasets show that the proposed approach consistently
+  improves compositional generalization across model architectures,
+  domains, and semantic formalisms.
+Author{1}{Firstname}#=%=#Hao
+Author{1}{Lastname}#=%=#Zheng
+Author{1}{Username}#=%=#haozheng
+Author{1}{Email}#=%=#mswellhao@gmail.com
+Author{1}{Affiliation}#=%=#The University of Edinburgh
+Author{2}{Firstname}#=%=#Mirella
+Author{2}{Lastname}#=%=#Lapata
+Author{2}{Username}#=%=#mlap
+Author{2}{Email}#=%=#mlap@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1450
+FinalPaperTitle#=%=#Total Recall: a Customized Continual Learning Method for Neural Semantic Parsers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Zhuang Li
+JobTitle#==#
+Organization#==#Monash University
+Abstract#==#This paper investigates continual learning for semantic parsing. In this setting, a neural semantic parser learns tasks sequentially without accessing full training data from previous tasks. Direct application of the SOTA continual learning algorithms to this problem fails to achieve comparable performance with re-training models with all seen tasks because they have not considered the special properties of structured outputs yielded by semantic parsers. Therefore, we propose TotalRecall, a continual learning method designed for neural semantic parsers from two aspects: i) a sampling method for memory replay that diversifies logical form templates and balances distributions of parse actions in a memory; ii) a two-stage training method that significantly improves generalization capability of the parsers across tasks. We conduct extensive experiments to study the research problems involved in continual semantic parsing and demonstrate that a neural semantic parser trained with TotalRecall achieves superior performance than the one trained directly with the SOTA continual learning algorithms and achieve a 3-6 times speedup compared to re-training from scratch.
+Author{1}{Firstname}#=%=#Zhuang
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#lizhuang144
+Author{1}{Email}#=%=#zhuang.li@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Lizhen
+Author{2}{Lastname}#=%=#Qu
+Author{2}{Username}#=%=#lqu
+Author{2}{Email}#=%=#lizhen.qu@monash.edu
+Author{2}{Affiliation}#=%=#Monash University
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Username}#=%=#reza.haffari
+Author{3}{Email}#=%=#gholamreza.haffari@monash.edu
+Author{3}{Affiliation}#=%=#Monash University
+
+==========

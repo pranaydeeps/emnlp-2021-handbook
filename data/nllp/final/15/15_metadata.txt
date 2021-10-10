@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#A Free Format Legal Question Answering System
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Soha Khazaeli
+JobTitle#==#
+Organization#==#LexisNexis | Legal & Professional 
+1801 Varsity Dr, Raleigh, NC 27606
+Abstract#==#We present an information retrieval-based question answer system to answer legal questions. The system is not limited to a predefined set of questions or patterns and uses both sparse vector search and embeddings for input to a BERT-based answer re-ranking system. A combination of general domain and legal domain data is used for training.  This natural question answering system is in production and is used commercially.
+Author{1}{Firstname}#=%=#Soha
+Author{1}{Lastname}#=%=#Khazaeli
+Author{1}{Username}#=%=#skhazaeli
+Author{1}{Email}#=%=#soha.arabkhazaeli@lexisnexis.com
+Author{1}{Affiliation}#=%=#LexisNexis Legal & Professional
+Author{2}{Firstname}#=%=#Janardhana
+Author{2}{Lastname}#=%=#Punuru
+Author{2}{Email}#=%=#janardhana.punuru@lexisnexis.com
+Author{2}{Affiliation}#=%=#LexisNexis Legal & Professional
+Author{3}{Firstname}#=%=#Chad
+Author{3}{Lastname}#=%=#Morris
+Author{3}{Email}#=%=#chad.morris@lexisnexis.com
+Author{3}{Affiliation}#=%=#LexisNexis Legal & Professional
+Author{4}{Firstname}#=%=#Sanjay
+Author{4}{Lastname}#=%=#Sharma
+Author{4}{Email}#=%=#sanjay.sharma@lexisnexis.com
+Author{4}{Affiliation}#=%=#LexisNexis Legal & Professional
+Author{5}{Firstname}#=%=#Bert
+Author{5}{Lastname}#=%=#Staub
+Author{5}{Email}#=%=#bert.staub@lexisnexis.com
+Author{5}{Affiliation}#=%=#LexisNexis Legal & Professional
+Author{6}{Firstname}#=%=#Michael
+Author{6}{Lastname}#=%=#Cole
+Author{6}{Email}#=%=#michael.cole@lexisnexis.com
+Author{6}{Affiliation}#=%=#LexisNexis Legal & Professional
+Author{7}{Firstname}#=%=#Sunny
+Author{7}{Lastname}#=%=#Chiu-Webster
+Author{7}{Email}#=%=#sunnycw1@gmail.com
+Author{7}{Affiliation}#=%=#Facebook
+Author{8}{Firstname}#=%=#Dhruv
+Author{8}{Lastname}#=%=#Sakalley
+Author{8}{Email}#=%=#dhruv.sakalley@gmail.com
+Author{8}{Affiliation}#=%=#Sensibill
+
+==========

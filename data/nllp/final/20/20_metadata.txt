@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Automating Claim Construction in Patent Applications: The CMUmine Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ozan K. Tonguz
+JobTitle#==#Professor, Electrical and Computer Engineering
+Organization#==#Electrical and Computer Engineering Department, Carnegie Mellon University, Pittsburgh, USA 15213
+Abstract#==#Intellectual Property (IP) in the form of issued patents is a critical and very desirable element of innovation in high-tech. In this position paper, we explore the possibility of automating the legal task of Claim Construction in patent applications via Natural Language Processing (NLP) and Machine Learning (ML). To this end, we first create a large dataset known as CMUmine™and then demonstrate that, using NLP and ML techniques the Claim Construction in patent applications, a crucial legal task currently performed by IP attorneys, can be automated. To the best of our knowledge, this is the first public patent application dataset. Our results look very promising in automating the patent application process.
+Author{1}{Firstname}#=%=#Ozan
+Author{1}{Lastname}#=%=#Tonguz
+Author{1}{Username}#=%=#cmumine
+Author{1}{Email}#=%=#tonguz@ece.cmu.edu
+Author{1}{Affiliation}#=%=#Electrical Computer Engineering at Carnegie Mellon University
+Author{2}{Firstname}#=%=#Yiwei
+Author{2}{Lastname}#=%=#Qin
+Author{2}{Email}#=%=#yiweiq@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Electrical Computer Engineering at Carnegie Mellon University
+Author{3}{Firstname}#=%=#Yimeng
+Author{3}{Lastname}#=%=#Gu
+Author{3}{Email}#=%=#yimengg@andrew.cmu.edu
+Author{3}{Affiliation}#=%=#Electrical Computer Engineering at Carnegie Mellon University
+Author{4}{Firstname}#=%=#Hyun Hannah
+Author{4}{Lastname}#=%=#Moon
+Author{4}{Email}#=%=#hyunm@alumni.cmu.edu
+Author{4}{Affiliation}#=%=#School of Engineering at Carnegie Mellon University
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Word Equations: Inherently Interpretable Sparse Word Embeddings through Sparse Coding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Adly Templeton
+JobTitle#==#
+Organization#==#
+Abstract#==#Word embeddings are a powerful natural
+language processing technique, but they are
+extremely difficult to interpret. To enable interpretable NLP models, we create vectors where each dimension is inherently interpretable. By inherently interpretable, we mean a system where each dimension is associated with some human-understandable hint that can describe the meaning of that dimension. In order to create more interpretable word embeddings, we
+transform pretrained dense word embeddings
+into sparse embeddings. These new embeddings
+are inherently interpretable: each of their
+dimensions is created from and represents
+a natural language word or specific grammatical
+concept. We construct these embeddings
+through sparse coding, where each vector in
+the basis set is itself a word embedding. Therefore, each dimension of our sparse vectors corresponds to a natural language word. We also show that models trained using these sparse
+embeddings can achieve good performance and
+are more interpretable in practice, including through human evaluations.
+Author{1}{Firstname}#=%=#Adly
+Author{1}{Lastname}#=%=#Templeton
+Author{1}{Username}#=%=#adlyt
+Author{1}{Email}#=%=#adlytempleton@gmail.com
+Author{1}{Affiliation}#=%=#Williams College
+
+==========

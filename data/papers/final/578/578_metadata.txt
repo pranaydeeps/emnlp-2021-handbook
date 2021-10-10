@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#578
+FinalPaperTitle#=%=#Unseen Entity Handling in Complex Question Answering over Knowledge Base via Language Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xin Huang
+JobTitle#==#
+Organization#==#Institute for Infocomm Research, A*STAR, 1 Fusionopolis Way, #21-01 Connexis, Singapore, 138632
+Abstract#==#Complex question answering over knowledge base remains as a challenging task because it involves reasoning over multiple pieces of information, including intermediate entities/relations and other constraints. Previous methods simplify the SPARQL query of a question into such forms as a list or a graph, missing such constraints as "filter" and "order_by", and present models specialized for generating those simplified forms from a given question. We instead introduce a novel approach that directly generates an executable SPARQL query without simplification, addressing the issue of generating unseen entities. We adapt large scale pre-trained encoder-decoder models and show that our method significantly outperforms the previous methods and also that our method has higher interpretability and computational efficiency than the previous methods.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#hxssgaa
+Author{1}{Email}#=%=#huangx2@i2r.a-star.edu.sg
+Author{1}{Affiliation}#=%=#Institute for Infocomm Research, ASTAR
+Author{2}{Firstname}#=%=#Jung-Jae
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Username}#=%=#jungjae.kim
+Author{2}{Email}#=%=#jjkim@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research
+Author{3}{Firstname}#=%=#Bowei
+Author{3}{Lastname}#=%=#Zou
+Author{3}{Username}#=%=#zoubowei
+Author{3}{Email}#=%=#zou_bowei@i2r.a-star.edu.sg
+Author{3}{Affiliation}#=%=#Institute for Infocomm Research
+
+==========

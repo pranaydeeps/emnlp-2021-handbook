@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#4553
+FinalPaperTitle#=%=#How to leverage the multimodal EHR data for better medical prediction?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Bo Yang
+JobTitle#==#
+Organization#==#Sun Yat-sen University, No. 135, Xingang Xi Road, Guangzhou, 510275, P. R. China.
+Abstract#==#Healthcare is becoming a more and more important research topic recently. With the growing data in the healthcare domain, it offers a great opportunity for deep learning to improve the quality of service and reduce costs. However, the complexity of electronic health records~(EHR) data is a challenge for the application of deep learning. Specifically, the data produced in the hospital admissions are monitored by the EHR system, which includes structured data like daily body temperature and unstructured data like free text and laboratory measurements.  Although there are some preprocessing frameworks proposed for specific EHR data, the clinical notes that contain significant clinical value are beyond the realm of their consideration. Besides, whether these different data from various views are all beneficial to the medical tasks and how to best utilize these data remain unclear. Therefore, in this paper, we first extract the accompanying clinical notes from EHR and propose a method to integrate these data, we also comprehensively study the different models and the data leverage methods for better medical task prediction performance. The results on two prediction tasks show that our fused model with different data outperforms the state-of-the-art method without clinical notes, which illustrates the importance of our fusion method and the clinical note features.
+Author{1}{Firstname}#=%=#Bo
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#yang_bo
+Author{1}{Email}#=%=#yangb65@mail2.sysu.edu.cn
+Author{1}{Affiliation}#=%=#Sun Yat-Sen University
+Author{2}{Firstname}#=%=#Lijun
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#apeterswu
+Author{2}{Email}#=%=#wulijun3@mail2.sysu.edu.cn
+Author{2}{Affiliation}#=%=#Microsoft Research
+
+==========

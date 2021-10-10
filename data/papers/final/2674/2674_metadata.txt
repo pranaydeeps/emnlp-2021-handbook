@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2674
+FinalPaperTitle#=%=#Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sara Tonelli
+JobTitle#==#
+Organization#==#
+Abstract#==#The development of automated approaches to linguistic acceptability has been greatly fostered by the availability of the English CoLA corpus, which has also been included in the widely used GLUE benchmark. However, this kind of research for languages other than English, as well as  the analysis of cross-lingual approaches, has been hindered by the lack of resources with a comparable size in other languages. We have therefore developed the ItaCoLA corpus, containing almost 10,000 sentences with acceptability judgments, which has been created following the same approach and the same steps as the English one. In this paper we describe the corpus creation, we detail its content, and we present the first experiments on this new resource. We compare in-domain and out-of-domain classification,  and perform a specific evaluation of nine linguistic phenomena. We also present the first cross-lingual experiments, aimed at assessing whether multilingual transformer-based approaches can benefit from using sentences in two languages during fine-tuning.
+Author{1}{Firstname}#=%=#Daniela
+Author{1}{Lastname}#=%=#Trotta
+Author{1}{Username}#=%=#dtrotta
+Author{1}{Email}#=%=#dtrotta@unisa.it
+Author{1}{Affiliation}#=%=#University of Salerno
+Author{2}{Firstname}#=%=#Raffaele
+Author{2}{Lastname}#=%=#Guarasci
+Author{2}{Username}#=%=#guarasci
+Author{2}{Email}#=%=#raffaele.guarasci@icar.cnr.it
+Author{2}{Affiliation}#=%=#ICAR-CNR
+Author{3}{Firstname}#=%=#Elisa
+Author{3}{Lastname}#=%=#Leonardelli
+Author{3}{Username}#=%=#eleonardelli
+Author{3}{Email}#=%=#eleonardelli@fbk.eu
+Author{3}{Affiliation}#=%=#Foundation Bruno Kessler
+Author{4}{Firstname}#=%=#Sara
+Author{4}{Lastname}#=%=#Tonelli
+Author{4}{Username}#=%=#satonelli
+Author{4}{Email}#=%=#satonelli@fbk.eu
+Author{4}{Affiliation}#=%=#FBK
+
+==========

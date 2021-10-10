@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#774
+FinalPaperTitle#=%=#On Homophony and Rényi Entropy
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tiago Pimentel
+JobTitle#==#
+Organization#==#University of Cambridge, United Kingdom
+Abstract#==#Homophony's widespread presence in natural languages is a controversial topic.
+Recent theories of language optimality have tried to justify its prevalence, despite its negative effects on cognitive processing time, e.g., Piantadosi et al. (2012) argued homophony enables the reuse of efficient wordforms and is thus beneficial for languages.
+This hypothesis has recently been challenged by Trott and Bergen (2020), who posit that good wordforms are more often homophonous simply because they are more phonotactically probable.
+In this paper, we join in on the debate.
+We first propose a new information-theoretic quantification of a language's homophony: the sample Rényi entropy.
+Then, we use this quantification to revisit Trott and Bergen's claims.
+While their point is theoretically sound, a specific methodological issue in their experiments raises doubts about their results.
+After addressing this issue, we find no clear pressure either towards or against homophony---a much more nuanced result than either Piantadosi et al.'s or Trott and Bergen's findings.
+Author{1}{Firstname}#=%=#Tiago
+Author{1}{Lastname}#=%=#Pimentel
+Author{1}{Username}#=%=#tpimentel
+Author{1}{Email}#=%=#tpimentelms@gmail.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Clara
+Author{2}{Lastname}#=%=#Meister
+Author{2}{Username}#=%=#cmeister
+Author{2}{Email}#=%=#clara.meister@inf.ethz.ch
+Author{2}{Affiliation}#=%=#ETH Zurich
+Author{3}{Firstname}#=%=#Simone
+Author{3}{Lastname}#=%=#Teufel
+Author{3}{Username}#=%=#simone.teufel
+Author{3}{Email}#=%=#Simone.Teufel@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#Cambridge University
+Author{4}{Firstname}#=%=#Ryan
+Author{4}{Lastname}#=%=#Cotterell
+Author{4}{Username}#=%=#rcotterell
+Author{4}{Email}#=%=#ryan.cotterell@gmail.com
+Author{4}{Affiliation}#=%=#ETH Zürich
+
+==========

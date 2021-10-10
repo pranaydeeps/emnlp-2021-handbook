@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#504
+FinalPaperTitle#=%=#SPARQLing Database Queries from Intermediate Question Decompositions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Irina Saparina
+JobTitle#==#
+Organization#==#HSE University / Yandex / Moscow, Russia
+Abstract#==#To translate natural language questions into executable database queries, most approaches rely on a fully annotated training set.
+Annotating a large dataset with queries is difficult as it requires query-language expertise.
+We reduce this burden using grounded in databases intermediate question representations.
+These representations are simpler to collect and were originally crowdsourced within the Break dataset (Wolfson et al., 2020).
+Our pipeline consists of two parts: a neural semantic parser that converts natural language questions into the intermediate representations and a non-trainable transpiler to the SPARQL query language (a standard language for accessing knowledge graphs and semantic web).
+We chose SPARQL because its queries are structurally closer to our intermediate representations (compared to SQL).
+We observe that the execution accuracy of queries constructed by our model on the challenging Spider dataset is comparable with the state-of-the-art text-to-SQL methods trained with annotated SQL queries.
+Our code and data are publicly available (https://github.com/yandex-research/sparqling-queries).
+Author{1}{Firstname}#=%=#Irina
+Author{1}{Lastname}#=%=#Saparina
+Author{1}{Username}#=%=#irisaparina
+Author{1}{Email}#=%=#irisaparina@gmail.com
+Author{1}{Affiliation}#=%=#Higher School of Economics, Yandex
+Author{2}{Firstname}#=%=#Anton
+Author{2}{Lastname}#=%=#Osokin
+Author{2}{Username}#=%=#aosokin
+Author{2}{Email}#=%=#aosokin@hse.ru
+Author{2}{Affiliation}#=%=#NRU HSE, Yandex
+
+==========

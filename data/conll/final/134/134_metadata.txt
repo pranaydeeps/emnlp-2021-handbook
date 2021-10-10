@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#134
+FinalPaperTitle#=%=#Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#24
+CopyrightSigned#=%=#Mostafa Abdou
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Copenhagen
+Universitetsparken 1, 2100 København
+Abstract#==#Pretrained language models have been shown to encode relational information, such as the relations between entities or concepts in knowledge-bases --- (Paris, Capital, France). However, simple relations of this type can often be recovered heuristically and the extent to which models implicitly reflect topological structure that is grounded in world, such as perceptual structure, is unknown. To explore this question, we conduct a thorough case study on color. Namely, we employ a dataset of monolexemic color terms and color chips represented in CIELAB, a color space with a perceptually meaningful distance metric. 
+Using two methods of evaluating the structural alignment of colors in this space with text-derived color term representations, we find significant correspondence. Analyzing the differences in alignment across the color spectrum, we find that warmer colors are, on average, better aligned to the perceptual color space than cooler ones, suggesting an intriguing connection to findings from recent work on efficient communication in color naming. Further analysis suggests that differences in alignment are, in part, mediated by collocationality and differences in syntactic usage, posing questions as to the relationship between color perception and usage and context.
+Author{1}{Firstname}#=%=#Mostafa
+Author{1}{Lastname}#=%=#Abdou
+Author{1}{Username}#=%=#abdoumos
+Author{1}{Email}#=%=#abdou@di.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Artur
+Author{2}{Lastname}#=%=#Kulmizev
+Author{2}{Username}#=%=#akulmizev
+Author{2}{Email}#=%=#artur.kulmizev@lingfil.uu.se
+Author{2}{Affiliation}#=%=#Uppsala University
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Hershcovich
+Author{3}{Username}#=%=#danielh
+Author{3}{Email}#=%=#daniel.hershcovich@gmail.com
+Author{3}{Affiliation}#=%=#University of Copenhagen
+Author{4}{Firstname}#=%=#Stella
+Author{4}{Lastname}#=%=#Frank
+Author{4}{Username}#=%=#stella.frank
+Author{4}{Email}#=%=#stella.frank@unitn.it
+Author{4}{Affiliation}#=%=#Center for Mind/Brain Sciences - CIMeC, University of Trento
+Author{5}{Firstname}#=%=#Ellie
+Author{5}{Lastname}#=%=#Pavlick
+Author{5}{Username}#=%=#epavlick
+Author{5}{Email}#=%=#ellie_pavlick@brown.edu
+Author{5}{Affiliation}#=%=#Brown University
+Author{6}{Firstname}#=%=#Anders
+Author{6}{Lastname}#=%=#Søgaard
+Author{6}{Username}#=%=#soegaard
+Author{6}{Email}#=%=#soegaard@di.ku.dk
+Author{6}{Affiliation}#=%=#University of Copenhagen
+
+==========

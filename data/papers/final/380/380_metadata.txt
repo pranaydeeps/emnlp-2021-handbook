@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#380
+FinalPaperTitle#=%=#Classifying Dyads for Militarized Conflict Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Niklas Stoehr
+JobTitle#==#PhD student
+Organization#==#ETH Zürich, Rämistrasse 101, 8092 Zürich, Switzerland
+Abstract#==#Understanding the origins of militarized conflict is a complex, yet important undertaking. Existing research seeks to build this understanding by considering bi-lateral relationships between entity pairs (dyadic causes) and multi-lateral relationships among multiple entities (systemic causes). The aim of this work is to compare these two causes in terms of how they correlate with conflict between two entities. We do this by devising a set of textual and graph-based features which represent each of the causes. The features are extracted from Wikipedia and modeled as a large graph. Nodes in this graph represent entities connected by labeled edges representing ally or enemy-relationships. This allows casting the problem as an edge classification task, which we term dyad classification. We propose and evaluate classifiers to determine if a particular pair of entities are allies or enemies. Our results suggest that our systemic features might be slightly better correlates of conflict. Further, we find that Wikipedia articles of allies are semantically more similar than enemies.
+Author{1}{Firstname}#=%=#Niklas
+Author{1}{Lastname}#=%=#Stoehr
+Author{1}{Username}#=%=#niklasstoehr
+Author{1}{Email}#=%=#niklas.stoehr@inf.ethz.ch
+Author{1}{Affiliation}#=%=#ETH Zurich
+Author{2}{Firstname}#=%=#Lucas
+Author{2}{Lastname}#=%=#Torroba Hennigen
+Author{2}{Username}#=%=#ltorroba
+Author{2}{Email}#=%=#lucasfth@gmail.com
+Author{2}{Affiliation}#=%=#Quebec Artificial Intelligence Institute
+Author{3}{Firstname}#=%=#Samin
+Author{3}{Lastname}#=%=#Ahbab
+Author{3}{Username}#=%=#saminahbab
+Author{3}{Email}#=%=#saminahbab0@gmail.com
+Author{3}{Affiliation}#=%=#University College London Computer Science Department
+Author{4}{Firstname}#=%=#Robert
+Author{4}{Lastname}#=%=#West
+Author{4}{Username}#=%=#cervisiarius
+Author{4}{Email}#=%=#robert.west@epfl.ch
+Author{4}{Affiliation}#=%=#EPFL
+Author{5}{Firstname}#=%=#Ryan
+Author{5}{Lastname}#=%=#Cotterell
+Author{5}{Username}#=%=#rcotterell
+Author{5}{Email}#=%=#ryan.cotterell@gmail.com
+Author{5}{Affiliation}#=%=#ETH Zürich
+
+==========

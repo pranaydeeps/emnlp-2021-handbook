@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#106
+FinalPaperTitle#=%=#A Web Scale Entity Extraction System
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Xuanting Cai
+JobTitle#==#
+Organization#==#Facebook Inc
+1 Hacker Way, Menlo Park, California, USA
+Abstract#==#Understanding the semantic meaning of content on the web through the lens of entities and concepts has many practical advantages. 
+However, when building large-scale entity extraction systems, practitioners are facing unique challenges involving finding the best ways to leverage the scale and variety of data available on internet platforms. 
+We present learnings from our efforts in building an entity extraction system for multiple document types at large scale using multi-modal Transformers. 
+We empirically demonstrate the effectiveness of multi-lingual, multi-task and cross-document type learning. 
+We also discuss the label collection schemes that help to minimize the amount of noise in the collected data.
+Author{1}{Firstname}#=%=#Xuanting
+Author{1}{Lastname}#=%=#Cai
+Author{1}{Username}#=%=#caixuanting
+Author{1}{Email}#=%=#xuanting.cai@gmail.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Quanbin
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#eric_mqb
+Author{2}{Email}#=%=#quanbinma@fb.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Jianyu
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#liuoo2
+Author{3}{Email}#=%=#jianyuliu@fb.com
+Author{3}{Affiliation}#=%=#Facebook Inc
+Author{4}{Firstname}#=%=#Pan
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lipan419
+Author{4}{Email}#=%=#lipan419@gmail.com
+Author{4}{Affiliation}#=%=#Facebook
+Author{5}{Firstname}#=%=#Qi
+Author{5}{Lastname}#=%=#Zeng
+Author{5}{Username}#=%=#qizengfb
+Author{5}{Email}#=%=#qizeng@fb.com
+Author{5}{Affiliation}#=%=#Facebook
+Author{6}{Firstname}#=%=#Zhengkan
+Author{6}{Lastname}#=%=#Yang
+Author{6}{Username}#=%=#yangzhe10
+Author{6}{Email}#=%=#zhengkan@fb.com
+Author{6}{Affiliation}#=%=#Facebook, Inc
+Author{7}{Firstname}#=%=#pushkar
+Author{7}{Lastname}#=%=#tripathi
+Author{7}{Username}#=%=#pushkartripathi
+Author{7}{Email}#=%=#pushkart@fb.com
+Author{7}{Affiliation}#=%=#facebook
+
+==========

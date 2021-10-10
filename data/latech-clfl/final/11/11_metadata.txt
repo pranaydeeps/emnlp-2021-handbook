@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Batavia asked for advice. Pretrained language models for Named Entity Recognition in historical texts.
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sophie Arnoult
+JobTitle#==#
+Organization#==#Vrije Universiteit Amsterdam
+Abstract#==#Pretrained language models like BERT have advanced the state of the art for many NLP tasks. For resource-rich languages, one has the choice between a number of language-specific models, while multilingual models are also worth considering. These models are well known for their crosslingual performance, but have also shown competitive in-language performance on some tasks. We consider monolingual and multilingual models from the perspective of historical texts, and in particular for texts enriched with editorial notes: how do language models deal with the historical and editorial content in these texts?
+We present a new Named Entity Recognition dataset for Dutch based on 17th and 18th century United East India Company (VOC) reports extended with modern editorial notes.
+Our experiments with multilingual and Dutch pretrained language models confirm the crosslingual abilities of multilingual models while showing that all language models can leverage mixed-variant data. In particular, language models successfully incorporate notes for the prediction of entities in historical texts. We also find that multilingual models outperform monolingual models on our data, but that this superiority is linked to the task at hand: multilingual models lose their advantage when confronted with more semantical tasks.
+Author{1}{Firstname}#=%=#Sophie I.
+Author{1}{Lastname}#=%=#Arnoult
+Author{1}{Email}#=%=#s.i.arnoult@vu.nl
+Author{1}{Affiliation}#=%=#Vrije Universiteit Amsterdam
+Author{2}{Firstname}#=%=#Lodewijk
+Author{2}{Lastname}#=%=#Petram
+Author{2}{Email}#=%=#lodewijk.petram@huygens.knaw.nl
+Author{2}{Affiliation}#=%=#Huygens ING
+Author{3}{Firstname}#=%=#Piek
+Author{3}{Lastname}#=%=#Vossen
+Author{3}{Username}#=%=#piekvossen
+Author{3}{Email}#=%=#piek.vossen@vu.nl
+Author{3}{Affiliation}#=%=#VU University Amsterdam
+
+==========

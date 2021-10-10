@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#2121
+FinalPaperTitle#=%=#Adaptive Bridge between Training and Inference for Dialogue Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Haoran Xu
+JobTitle#==#
+Organization#==#Institute of Computing Technology，Chinese Academy of Sciences
+No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing，China
+Abstract#==#Although exposure bias has been widely studied in some NLP tasks, it faces its unique challenges in dialogue response generation, the representative one-to-various generation scenario.In real human dialogue, there are many appropriate responses for the same context, not only with different expressions, but also with different topics.
+Therefore, due to the much bigger gap between various ground-truth responses and the generated synthetic response, exposure bias is more challenging in dialogue generation task.What's more, as MLE encourages the model to only learn the common words among different ground-truth responses, but ignores the interesting and specific parts,  exposure bias may further lead to the common response generation problem, such as "I don't know'' and "HaHa?''
+In this paper, we propose a novel adaptive switching mechanism, which learns to automatically transit between ground-truth learning and generated learning regarding the word-level matching score, such as the cosine similarity.
+Experimental results on both Chinese STC dataset and English Reddit dataset, show that our adaptive method achieves a significant improvement in terms of metric-based evaluation and human evaluation, as compared with the state-of-the-art exposure bias approaches. Further analysis on NMT task also shows that our model can achieve a significant improvement.
+Author{1}{Firstname}#=%=#Haoran
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#xuhaoran
+Author{1}{Email}#=%=#xuhaoran18s@ict.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Computing Technology of the Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Hainan
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zhanghainan
+Author{2}{Email}#=%=#zhanghainan1990@163.com
+Author{2}{Affiliation}#=%=#Data Science Lab JD.com
+Author{3}{Firstname}#=%=#Yanyan
+Author{3}{Lastname}#=%=#Zou
+Author{3}{Username}#=%=#yanyan_zou
+Author{3}{Email}#=%=#2296251368@qq.com
+Author{3}{Affiliation}#=%=#JD.com
+Author{4}{Firstname}#=%=#Hongshen
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#chenhongshen
+Author{4}{Email}#=%=#ac@chenhongshen.com
+Author{4}{Affiliation}#=%=#JD.com
+Author{5}{Firstname}#=%=#Zhuoye
+Author{5}{Lastname}#=%=#Ding
+Author{5}{Username}#=%=#dingzhuoye
+Author{5}{Email}#=%=#dingzhuoye@jd.com
+Author{5}{Affiliation}#=%=#JD.com
+Author{6}{Firstname}#=%=#Yanyan
+Author{6}{Lastname}#=%=#Lan
+Author{6}{Username}#=%=#lanyanyan
+Author{6}{Email}#=%=#lanyanyan@tsinghua.edu.cn
+Author{6}{Affiliation}#=%=#Tsinghua University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Improving Span Representation for Domain-adapted Coreference Resolution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nupoor Gandhi
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#Recent work has shown fine-tuning neural coreference models can produce strong performance when adapting to different domains. However, at the same time, this can require a large amount of annotated target examples. In this work, we focus on supervised domain adaptation for clinical notes, proposing the use of concept knowledge to more efficiently adapt coreference models to a new domain. We develop methods to improve the span representations via (1) a retrofitting loss to incentivize span representations to satisfy a knowledge-based distance function and (2) a scaffolding loss to guide the recovery of knowledge from the span representation. By integrating these losses, our model is able to improve our baseline precision and F-1 score. In particular, we show that incorporating knowledge with end-to-end coreference models results in better performance on the most challenging, domain-specific spans.
+Author{1}{Firstname}#=%=#Nupoor
+Author{1}{Lastname}#=%=#Gandhi
+Author{1}{Username}#=%=#nupoorgandhi
+Author{1}{Email}#=%=#nmgandhi@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Anjalie
+Author{2}{Lastname}#=%=#Field
+Author{2}{Username}#=%=#anjalief
+Author{2}{Email}#=%=#anjalief@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie-Mellon University
+Author{3}{Firstname}#=%=#Yulia
+Author{3}{Lastname}#=%=#Tsvetkov
+Author{3}{Username}#=%=#yulia.tsvetkov
+Author{3}{Email}#=%=#yuliats@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

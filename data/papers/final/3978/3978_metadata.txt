@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#3978
+FinalPaperTitle#=%=#Levenshtein Training for Word-level Quality Estimation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shuoyang Ding
+JobTitle#==#
+Organization#==#Johns Hopkins University
+
+3400 N Charles St,
+Baltimore, MD 21218, USA
+Abstract#==#We propose a novel scheme to use the \mbox{Levenshtein} Transformer to perform the task of word-level quality estimation. A Levenshtein Transformer is a natural fit for this task: trained to perform decoding in an iterative manner, a Levenshtein Transformer can learn to post-edit without explicit supervision. To further minimize the mismatch between the translation task and the word-level QE task, we propose a two-stage transfer learning procedure on both augmented data and human post-editing data. We also propose heuristics to construct reference labels that are compatible with subword-level finetuning and inference. Results on WMT 2020 QE shared task dataset show that our proposed method has superior data efficiency under the data-constrained setting and competitive performance under the unconstrained setting.
+Author{1}{Firstname}#=%=#Shuoyang
+Author{1}{Lastname}#=%=#Ding
+Author{1}{Username}#=%=#sding
+Author{1}{Email}#=%=#dings@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Marcin
+Author{2}{Lastname}#=%=#Junczys-Dowmunt
+Author{2}{Username}#=%=#emjotde
+Author{2}{Email}#=%=#marcinjd@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Matt
+Author{3}{Lastname}#=%=#Post
+Author{3}{Username}#=%=#post
+Author{3}{Email}#=%=#post@cs.jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Philipp
+Author{4}{Lastname}#=%=#Koehn
+Author{4}{Username}#=%=#pkoehn
+Author{4}{Email}#=%=#phi@jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+
+==========

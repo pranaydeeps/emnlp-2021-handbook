@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#2019
+FinalPaperTitle#=%=#Enhancing Multiple-choice Machine Reading Comprehension by Punishing Illogical Interpretations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yiming Ju
+JobTitle#==#
+Organization#==#
+Abstract#==#Machine Reading Comprehension (MRC), which requires a machine to answer questions given the relevant documents, is an important way to test machines' ability to understand human language. Multiple-choice MRC is one of the most studied tasks in MRC due to the convenience of evaluation and the flexibility of answer format. Post-hoc interpretation aims to explain a trained model and reveal how the model arrives at the prediction. One of the most important interpretation forms is to attribute model decisions to input features. Based on post-hoc interpretation methods, we assess attributions of paragraphs in multiple-choice MRC and improve the model by punishing the illogical attributions. Our method can improve model performance without any external information and model structure change. Furthermore, we also analyze how and why such a self-training method works.
+Author{1}{Firstname}#=%=#Yiming
+Author{1}{Lastname}#=%=#Ju
+Author{1}{Username}#=%=#juyiming
+Author{1}{Email}#=%=#juyiming2018@ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Yuanzhe
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#yzzhang
+Author{2}{Email}#=%=#yzzhang@nlpr.ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Zhixing
+Author{3}{Lastname}#=%=#Tian
+Author{3}{Username}#=%=#zhixingtian
+Author{3}{Email}#=%=#zhixing.tian@nlpr.ia.ac.cn
+Author{3}{Affiliation}#=%=#National Laboratory of Pattern Recognition,Institute of Automation,Chinese Academy of Sciences;University of Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Kang
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#micalkang
+Author{4}{Email}#=%=#kliu@nlpr.ia.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Xiaohuan
+Author{5}{Lastname}#=%=#Cao
+Author{5}{Username}#=%=#xhcao
+Author{5}{Email}#=%=#xhcao@cmbchina.com
+Author{5}{Affiliation}#=%=#China Merchants Bank
+Author{6}{Firstname}#=%=#Wenting
+Author{6}{Lastname}#=%=#Zhao
+Author{6}{Username}#=%=#diana_free
+Author{6}{Email}#=%=#wtzhao@cmbchina.com
+Author{6}{Affiliation}#=%=#China Merchants Bank
+Author{7}{Firstname}#=%=#Jinlong
+Author{7}{Lastname}#=%=#li
+Author{7}{Username}#=%=#jinlongli
+Author{7}{Email}#=%=#lucida@cmbchina.com
+Author{7}{Affiliation}#=%=#China Merchants Bank
+Author{8}{Firstname}#=%=#Jun
+Author{8}{Lastname}#=%=#Zhao
+Author{8}{Username}#=%=#jzhao
+Author{8}{Email}#=%=#jzhao@nlpr.ia.ac.cn
+Author{8}{Affiliation}#=%=#Chinese Academy of Sciences
+
+==========

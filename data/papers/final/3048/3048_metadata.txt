@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#3048
+FinalPaperTitle#=%=#Constructing a Psychometric Testbed for Fair Natural Language Processing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#John P Lalor
+JobTitle#==#
+Organization#==#
+Abstract#==#Psychometric measures of ability, attitudes, perceptions, and beliefs are crucial for understanding user behavior in various contexts including health, security, e-commerce, and finance. Traditionally, psychometric dimensions have been measured and collected using survey-based methods. Inferring such constructs from user-generated text could allow timely, unobtrusive collection and analysis. In this paper we describe our efforts to construct a corpus for psychometric natural language processing (NLP) related to important dimensions such as trust, anxiety, numeracy, and literacy, in the health domain. We discuss our multi-step process to align user text with their survey-based response items and provide an overview of the resulting testbed which encompasses survey-based psychometric measures and accompanying user-generated text from 8,502 respondents. Our testbed also encompasses self-reported demographic information, including race, sex, age, income, and education - thereby affording opportunities for measuring bias and benchmarking fairness of text classification methods. We report preliminary results on use of the text to predict/categorize users’ survey response labels - and on the fairness of these models. We also discuss the important implications of our work and resulting testbed for future NLP research on psychometrics and fairness.
+Author{1}{Firstname}#=%=#Ahmed
+Author{1}{Lastname}#=%=#Abbasi
+Author{1}{Username}#=%=#ahmedabbasi
+Author{1}{Email}#=%=#aabbasi@nd.edu
+Author{1}{Affiliation}#=%=#University of Notre Dame
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Dobolyi
+Author{2}{Username}#=%=#ddobolyi
+Author{2}{Email}#=%=#ddobolyi@nd.edu
+Author{2}{Affiliation}#=%=#University of Notre Dame
+Author{3}{Firstname}#=%=#John P.
+Author{3}{Lastname}#=%=#Lalor
+Author{3}{Username}#=%=#lalor
+Author{3}{Email}#=%=#john.lalor@nd.edu
+Author{3}{Affiliation}#=%=#University of Notre Dame
+Author{4}{Firstname}#=%=#Richard G.
+Author{4}{Lastname}#=%=#Netemeyer
+Author{4}{Email}#=%=#rgn3p@virginia.edu
+Author{4}{Affiliation}#=%=#University of Virginia
+Author{5}{Firstname}#=%=#Kendall
+Author{5}{Lastname}#=%=#Smith
+Author{5}{Username}#=%=#kasmith
+Author{5}{Email}#=%=#ksmith77@nd.edu
+Author{5}{Affiliation}#=%=#University of Notre Dame
+Author{6}{Firstname}#=%=#Yi
+Author{6}{Lastname}#=%=#Yang
+Author{6}{Username}#=%=#yya518
+Author{6}{Email}#=%=#imyiyang@ust.hk
+Author{6}{Affiliation}#=%=#Hong Kong University of Science and Technology
+
+==========

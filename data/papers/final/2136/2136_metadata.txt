@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2136
+FinalPaperTitle#=%=#An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Alessandro Raganato
+JobTitle#==#
+Organization#==#University of Helsinki
+P.O. Box 24 (Unioninkatu 40 B)
+FI-00014 University of Helsinki
+Helsinki - Finland
+Abstract#==#Zero-shot translations is a fascinating feature of Multilingual Neural Machine Translation (MNMT) systems. These MNMT models are usually trained on English-centric data, i.e. English either as the source or target language, and with a language label prepended to the input indicating the target language. However, recent work has highlighted several flaws of these models in zero-shot scenarios where language labels are ignored and the wrong language is generated or different runs show highly unstable results.
+In this paper, we investigate the benefits of an explicit alignment to language labels in Transformer-based MNMT models in the zero-shot context, by jointly training one cross attention head with word alignment supervision to stress the focus on the target language label. 
+We compare and evaluate several MNMT systems on three multilingual MT benchmarks of different sizes, showing that simply supervising one cross attention head to focus both on word alignments and language labels reduces the bias towards translating into the wrong language, improving the zero-shot performance overall. Moreover, as an additional advantage, we find that our alignment supervision leads to more stable results across different training runs.
+Author{1}{Firstname}#=%=#Alessandro
+Author{1}{Lastname}#=%=#Raganato
+Author{1}{Username}#=%=#alessandro.raganato
+Author{1}{Email}#=%=#alessandro.raganato@helsinki.fi
+Author{1}{Affiliation}#=%=#University of Helsinki
+Author{2}{Firstname}#=%=#Raúl
+Author{2}{Lastname}#=%=#Vázquez
+Author{2}{Username}#=%=#raul.vazquez
+Author{2}{Email}#=%=#raul.vazquez@helsinki.fi
+Author{2}{Affiliation}#=%=#University of Helsinki
+Author{3}{Firstname}#=%=#Mathias
+Author{3}{Lastname}#=%=#Creutz
+Author{3}{Username}#=%=#mathiascreutz
+Author{3}{Email}#=%=#mathias.creutz@helsinki.fi
+Author{3}{Affiliation}#=%=#University of Helsinki
+Author{4}{Firstname}#=%=#Jörg
+Author{4}{Lastname}#=%=#Tiedemann
+Author{4}{Username}#=%=#joerg
+Author{4}{Email}#=%=#jorg.tiedemann@helsinki.fi
+Author{4}{Affiliation}#=%=#University of Helsinki
+
+==========

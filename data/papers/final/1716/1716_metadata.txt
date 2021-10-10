@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1716
+FinalPaperTitle#=%=#Learning to Rewrite for Non-Autoregressive Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Xinwei Geng
+JobTitle#==#
+Organization#==#Harbin Institute of Technology, 92 Xidazhi St, Nangang, Harbin, Heilongjiang, China
+Abstract#==#Non-autoregressive neural machine translation, which decomposes the dependence on previous target tokens from the inputs of the decoder, has achieved impressive inference speedup but at the cost of inferior accuracy. Previous works employ iterative decoding to improve the translation by applying multiple refinement iterations. However, a serious drawback is that these approaches expose the serious weakness in recognizing the erroneous translation pieces. In this paper, we propose an architecture named RewriteNAT to explicitly learn to rewrite the erroneous translation pieces. Specifically, RewriteNAT utilizes a locator module to locate the erroneous ones, which are then revised into the correct ones by a revisor module. Towards keeping the consistency of data distribution with iterative decoding, an iterative training strategy is employed to further improve the capacity of rewriting. Extensive experiments conducted on several widely-used benchmarks show that RewriteNAT can achieve better performance while significantly reducing decoding time, compared with previous iterative decoding strategies. In particular, RewriteNAT can obtain competitive results with autoregressive translation on WMT14 En-De, En-Fr and WMT16 Ro-En translation benchmarks.
+Author{1}{Firstname}#=%=#Xinwei
+Author{1}{Lastname}#=%=#Geng
+Author{1}{Username}#=%=#xwgeng
+Author{1}{Email}#=%=#xwgeng@ir.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Xiaocheng
+Author{2}{Lastname}#=%=#Feng
+Author{2}{Username}#=%=#fengxiaocheng
+Author{2}{Email}#=%=#fengxiaocheng1988@gmail.com
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology,SCIR lab
+Author{3}{Firstname}#=%=#Bing
+Author{3}{Lastname}#=%=#Qin
+Author{3}{Username}#=%=#qinb
+Author{3}{Email}#=%=#qinb@ir.hit.edu.cn
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

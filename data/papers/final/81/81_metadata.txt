@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#81
+FinalPaperTitle#=%=#Inflate and Shrink:Enriching and Reducing Interactions for Fast Text-Image Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Haoliang Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#By exploiting the cross-modal attention, cross-BERT methods have achieved state-of-the-art accuracy in cross-modal retrieval. Nevertheless, the heavy text-image interactions in the cross-BERT model are prohibitively slow for large-scale retrieval. Late-interaction methods trade off retrieval accuracy and efficiency by exploiting cross-modal interaction only in the late stage, attaining a satisfactory retrieval speed. In this work, we propose an inflating and shrinking approach to further boost the efficiency and accuracy of late-interaction methods. The inflating operation plugs several codes in the input of the encoder to exploit the text-image interactions more thoroughly for higher retrieval accuracy. Then the shrinking operation gradually reduces the text-image interactions through knowledge distilling for higher efficiency. Through an inflating operation followed by a shrinking operation, both efficiency and accuracy of a late-interaction model are boosted.  Systematic experiments on public benchmarks demonstrate the effectiveness of our inflating and shrinking approach.
+Author{1}{Firstname}#=%=#Haoliang
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#liuhaoliang
+Author{1}{Email}#=%=#liuhl@seu.edu.cn
+Author{1}{Affiliation}#=%=#Southeast University
+Author{2}{Firstname}#=%=#Tan
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Username}#=%=#tanyu01
+Author{2}{Email}#=%=#tanyu01@baidu.com
+Author{2}{Affiliation}#=%=#Baidu
+Author{3}{Firstname}#=%=#Ping
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#pingli98
+Author{3}{Email}#=%=#liping11@baidu.com
+Author{3}{Affiliation}#=%=#Baidu
+
+==========

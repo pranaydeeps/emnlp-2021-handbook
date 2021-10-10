@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#621
+FinalPaperTitle#=%=#{AdapterDrop}: {O}n the Efficiency of Adapters in Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Andreas Rueckle
+JobTitle#==#
+Organization#==#UKP Lab, TU Darmstadt
+Abstract#==#Transformer models are  expensive to fine-tune, slow for inference, and have large storage requirements. Recent approaches tackle these shortcomings by training smaller models, dynamically reducing the model size, and by training light-weight adapters. In this paper, we propose AdapterDrop, removing adapters from lower transformer layers during training and inference, which incorporates concepts from all three directions.  We show that AdapterDrop can dynamically reduce the computational overhead when performing inference over multiple tasks simultaneously, with minimal decrease in task performances. We further prune adapters from AdapterFusion, which improves the inference efficiency while maintaining the task performances entirely.
+Author{1}{Firstname}#=%=#Andreas
+Author{1}{Lastname}#=%=#Rücklé
+Author{1}{Username}#=%=#rueckle
+Author{1}{Email}#=%=#arueckle@amazon.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Gregor
+Author{2}{Lastname}#=%=#Geigle
+Author{2}{Username}#=%=#gregorg
+Author{2}{Email}#=%=#gregortheodor.geigle@stud.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#Technische Universität Darmstadt
+Author{3}{Firstname}#=%=#Max
+Author{3}{Lastname}#=%=#Glockner
+Author{3}{Username}#=%=#max216
+Author{3}{Email}#=%=#glockner@ukp.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#UKP, Computer Science Dpt., TU Darmstadt
+Author{4}{Firstname}#=%=#Tilman
+Author{4}{Lastname}#=%=#Beck
+Author{4}{Username}#=%=#devnull
+Author{4}{Email}#=%=#beck.tilman@gmail.com
+Author{4}{Affiliation}#=%=#UKP Lab, Technical University of Darmstadt
+Author{5}{Firstname}#=%=#Jonas
+Author{5}{Lastname}#=%=#Pfeiffer
+Author{5}{Username}#=%=#jopfeiff
+Author{5}{Email}#=%=#pfeiffer@ukp.informatik.tu-darmstadt.de
+Author{5}{Affiliation}#=%=#TU Darmstadt
+Author{6}{Firstname}#=%=#Nils
+Author{6}{Lastname}#=%=#Reimers
+Author{6}{Username}#=%=#reimers
+Author{6}{Email}#=%=#info@nils-reimers.de
+Author{6}{Affiliation}#=%=#Huggingface
+Author{7}{Firstname}#=%=#Iryna
+Author{7}{Lastname}#=%=#Gurevych
+Author{7}{Username}#=%=#gurevych
+Author{7}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{7}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

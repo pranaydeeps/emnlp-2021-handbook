@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#4412
+FinalPaperTitle#=%=#{ConvFiT:} {C}onversational Fine-Tuning of Pretrained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Ivan Vulić
+JobTitle#==#Senior Scientist
+Organization#==#PolyAI, 3, Waterhouse Square, 138 - 142 Holborn, London EC1N 2SW, Ujedinjeno Kraljevstvo
+Abstract#==#Transformer-based language models (LMs) pretrained on large text collections are proven to store a wealth of semantic knowledge. However, 1) they are not effective as sentence encoders when used off-the-shelf, and 2) thus typically lag behind conversationally pretrained (e.g., via response selection) encoders on conversational tasks such as intent detection (ID). In this work, we propose ConvFiT, a simple and efficient two-stage procedure which turns any pretrained LM into a universal conversational encoder (after Stage 1 ConvFiT-ing) and task-specialised sentence encoder (after Stage 2). We demonstrate that 1) full-blown conversational pretraining is not required, and that LMs can be quickly transformed into effective conversational encoders with much smaller amounts of unannotated data; 2) pretrained LMs can be fine-tuned into task-specialised sentence encoders, optimised for the fine-grained semantics of a particular task. Consequently, such specialised sentence encoders allow for treating ID as a simple semantic similarity task based on interpretable nearest neighbours retrieval. We validate the robustness and versatility of the ConvFiT framework with such similarity-based inference on the standard ID evaluation sets: ConvFiT-ed LMs achieve state-of-the-art ID performance across the board, with particular gains in the most challenging, few-shot setups.
+Author{1}{Firstname}#=%=#Ivan
+Author{1}{Lastname}#=%=#Vulić
+Author{1}{Username}#=%=#ivulic
+Author{1}{Email}#=%=#iv250@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Pei-Hao
+Author{2}{Lastname}#=%=#Su
+Author{2}{Username}#=%=#eddy0613
+Author{2}{Email}#=%=#eddysu@poly-ai.com
+Author{2}{Affiliation}#=%=#PolyAI
+Author{3}{Firstname}#=%=#Samuel
+Author{3}{Lastname}#=%=#Coope
+Author{3}{Username}#=%=#cahoop
+Author{3}{Email}#=%=#sam.j.coope@gmail.com
+Author{3}{Affiliation}#=%=#PolyAI
+Author{4}{Firstname}#=%=#Daniela
+Author{4}{Lastname}#=%=#Gerz
+Author{4}{Username}#=%=#dgerz
+Author{4}{Email}#=%=#dan@poly-ai.com
+Author{4}{Affiliation}#=%=#PolyAI
+Author{5}{Firstname}#=%=#Paweł
+Author{5}{Lastname}#=%=#Budzianowski
+Author{5}{Username}#=%=#budzianowski
+Author{5}{Email}#=%=#budzianowski@gmail.com
+Author{5}{Affiliation}#=%=#PolyAI
+Author{6}{Firstname}#=%=#Iñigo
+Author{6}{Lastname}#=%=#Casanueva
+Author{6}{Username}#=%=#i.casanueva
+Author{6}{Email}#=%=#inigo@poly-ai.com
+Author{6}{Affiliation}#=%=#PolyAI
+Author{7}{Firstname}#=%=#Nikola
+Author{7}{Lastname}#=%=#Mrkšić
+Author{7}{Username}#=%=#nmrksic
+Author{7}{Email}#=%=#nikola.mrksic@gmail.com
+Author{7}{Affiliation}#=%=#PolyAI
+Author{8}{Firstname}#=%=#Tsung-Hsien
+Author{8}{Lastname}#=%=#Wen
+Author{8}{Username}#=%=#shawnwen
+Author{8}{Email}#=%=#shawnwen@poly-ai.com
+Author{8}{Affiliation}#=%=#PolyAI
+
+==========

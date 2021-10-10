@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#604
+FinalPaperTitle#=%=#Bidirectional Hierarchical Attention Networks based on Document-level Context for Emotion Cause Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Guimin Hu
+JobTitle#==#
+Organization#==#
+Abstract#==#Emotion cause extraction (ECE) aims to extract the causes behind the certain emotion in text. Some works related to the ECE task have been published and attracted lots of attention in recent years. However, these methods neglect two major issues: 1) pay few attentions to the effect of document-level context information on ECE, and 2) lack of sufficient exploration for how to effectively use the annotated emotion clause. For the first issue, we propose a bidirectional hierarchical attention network (BHA) corresponding to the specified candidate cause clause to capture the document-level context in a structured and dynamic manner. For the second issue, we design an emotional filtering module (EF) for each layer of the graph attention network, which calculates a gate score based on the emotion clause to filter the irrelevant information. Combining the BHA and EF, the EF-BHA can dynamically aggregate the contextual information from two directions and filters irrelevant information. The experimental results demonstrate that EF-BHA achieves the competitive performances on two public datasets in different languages (Chinese and English). Moreover, we quantify the effect of context on emotion cause extraction and provide the visualization of the interactions between candidate cause clauses and contexts.
+Author{1}{Firstname}#=%=#Guimin
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Username}#=%=#guiminhu
+Author{1}{Email}#=%=#rice.hu.x@gmail.com
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{2}{Firstname}#=%=#Guangming
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Username}#=%=#luguangm
+Author{2}{Email}#=%=#luguangm@hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+Author{3}{Firstname}#=%=#Yi
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Username}#=%=#yizhao1
+Author{3}{Email}#=%=#zhao.yi@hit.edu.cn
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology, Shenzhen
+
+==========

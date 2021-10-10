@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4289
+FinalPaperTitle#=%=#ForumSum: A Multi-Speaker Conversation Summarization Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Misha Khalman
+JobTitle#==#
+Organization#==#Google Research, Brain Team
+Abstract#==#Abstractive summarization quality had large improvements since recent language pretraining techniques. However, currently there is a lack of datasets for the growing needs of conversation summarization applications. Thus we collected ForumSum, a diverse and high-quality conversation summarization dataset with human written summaries. The conversations in ForumSum dataset are collected from a wide variety of internet forums. To make the dataset easily expandable, we also release the process of dataset creation. Our experiments show that models trained on ForumSum have better zero-shot and few-shot transferability to other datasets than the existing large chat summarization dataset SAMSum. We also show that using a conversational corpus for pre-training improves the quality of the chat summarization model.
+Author{1}{Firstname}#=%=#Misha
+Author{1}{Lastname}#=%=#Khalman
+Author{1}{Username}#=%=#khalman
+Author{1}{Email}#=%=#khalman@google.com
+Author{1}{Affiliation}#=%=#Google Research
+Author{2}{Firstname}#=%=#Yao
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#yaozhaoyz
+Author{2}{Email}#=%=#yaozhaoyz@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Mohammad
+Author{3}{Lastname}#=%=#Saleh
+Author{3}{Username}#=%=#mohsaleh
+Author{3}{Email}#=%=#msaleh@google.com
+Author{3}{Affiliation}#=%=#Google Brain
+
+==========

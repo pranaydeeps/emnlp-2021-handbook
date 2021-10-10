@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#3290
+FinalPaperTitle#=%=#TAG: Gradient Attack on Transformer-based Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jieren Deng
+JobTitle#==#
+Organization#==#University of Connecticut,
+115 North Eagleville Road, U-3225
+Storrs, CT 06269
+Abstract#==#Although distributed    learning    has   increasingly gained  attention  in  terms  of  effectively  utilizing  local  devices for data privacy enhancement, recent studies show that publicly shared  gradients  in  the  training  process  can  reveal  the  private training data (gradient leakage) to a third-party. We have, however, no systematic understanding of the gradient leakage mechanism on the Transformer based language models. In this paper, as the first attempt, we formulate the gradient attack problem on  the Transformer-based language models and propose a gradient  attack  algorithm,  TAG,  to  reconstruct  the  local  training  data. Experimental  results  on  Transformer,  TinyBERT4,  TinyBERT6 BERT_BASE,  and  BERT_LARGE using  GLUE  benchmark  show that compared  with  DLG,  TAG  works  well  on  more  weight distributions  in  reconstructing  training  data  and  achieves  1.5x recover rate and 2.5x ROUGE-2 over prior methods without the need of ground truth label.  TAG  can obtain up to 90% data by attacking gradients in CoLA dataset. In addition, TAG is stronger than  previous  approaches  on  larger  models,  smaller  dictionary size,  and  smaller  input  length.  We  hope  the  proposed  TAG  will shed some light on the privacy leakage problem in Transformer-based  NLP  models.
+Author{1}{Firstname}#=%=#Jieren
+Author{1}{Lastname}#=%=#Deng
+Author{1}{Username}#=%=#jieren
+Author{1}{Email}#=%=#jieren.deng@uconn.edu
+Author{1}{Affiliation}#=%=#University of Connecticut
+Author{2}{Firstname}#=%=#Yijue
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#yijuewang
+Author{2}{Email}#=%=#yijue.wang@uconn.edu
+Author{2}{Affiliation}#=%=#University of Connecticut
+Author{3}{Firstname}#=%=#Ji
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#changzhouliji@gmail.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#CHENGHONG
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#skiphoopwow
+Author{4}{Email}#=%=#skiphoopwow@gmail.com
+Author{4}{Affiliation}#=%=#Duke University
+Author{5}{Firstname}#=%=#Chao
+Author{5}{Lastname}#=%=#Shang
+Author{5}{Email}#=%=#chaoshang.cs@gmail.com
+Author{5}{Affiliation}#=%=#JD.com
+Author{6}{Firstname}#=%=#Hang
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Email}#=%=#Hang.Liu@stevens.edu
+Author{6}{Affiliation}#=%=#Stevens Institute of Technology
+Author{7}{Firstname}#=%=#Sanguthevar
+Author{7}{Lastname}#=%=#Rajasekaran
+Author{7}{Username}#=%=#sanguthevar
+Author{7}{Email}#=%=#sanguthevar.rajasekaran@uconn.edu
+Author{7}{Affiliation}#=%=#University of Connecticut
+Author{8}{Firstname}#=%=#Caiwen
+Author{8}{Lastname}#=%=#Ding
+Author{8}{Username}#=%=#dcw1988
+Author{8}{Email}#=%=#caiwen.ding@uconn.edu
+Author{8}{Affiliation}#=%=#University of Connecticut
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#282
+FinalPaperTitle#=%=#Knowledge-Aware Meta-learning for Low-Resource Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Huaxiu Yao
+JobTitle#==#
+Organization#==#Stanford University
+Abstract#==#Meta-learning has achieved great success in leveraging the historical learned knowledge to facilitate the learning process of the new task. However, merely learning the knowledge from the historical tasks, adopted by current meta-learning algorithms, may not generalize well to testing tasks when they are not well-supported by training tasks. This paper studies a low-resource text classification problem and bridges the gap between meta-training and meta-testing tasks by leveraging the external knowledge bases. Specifically, we propose KGML to introduce additional representation for each sentence learned from the extracted sentence-specific knowledge graph. The extensive experiments on three datasets demonstrate the effectiveness of KGML under both supervised adaptation and unsupervised adaptation settings.
+Author{1}{Firstname}#=%=#Huaxiu
+Author{1}{Lastname}#=%=#Yao
+Author{1}{Username}#=%=#letou662012
+Author{1}{Email}#=%=#huaxiu@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Ying-xin
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#wuyxin
+Author{2}{Email}#=%=#wuyxin@mail.ustc.edu.cn
+Author{2}{Affiliation}#=%=#University of Science and Technology of China
+Author{3}{Firstname}#=%=#Maruan
+Author{3}{Lastname}#=%=#Al-Shedivat
+Author{3}{Username}#=%=#alshedivat
+Author{3}{Email}#=%=#alshedivat@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Eric
+Author{4}{Lastname}#=%=#Xing
+Author{4}{Email}#=%=#epxing@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Mohamed bin Zayed University of Artificial Intelligence
+
+==========

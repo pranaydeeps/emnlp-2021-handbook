@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#4161
+FinalPaperTitle#=%=#Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zongyi Li
+JobTitle#==#
+Organization#==#FudanNLP Group
+Abstract#==#Recent studies have shown that deep neural network-based models are vulnerable to intentionally crafted adversarial examples, and various methods have been proposed to defend against adversarial word-substitution attacks for neural NLP models. However, there is a lack of systematic study on comparing different defense approaches under the same attacking setting. In this paper, we seek to fill the gap of systematic studies through comprehensive researches on understanding the behavior of neural text classifiers trained by various defense methods under representative adversarial attacks. In addition, we propose an effective method to further improve the robustness of neural text classifiers against such attacks, and achieved the highest accuracy on both clean and adversarial examples on AGNEWS and IMDB datasets by a significant margin. We hope this study could provide useful clues for future research on text adversarial defense. Codes are available at https://github.com/RockyLzy/TextDefender.
+Author{1}{Firstname}#=%=#Zongyi
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#lizongyi
+Author{1}{Email}#=%=#15302010004@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Jianhan
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Username}#=%=#xujh16
+Author{2}{Email}#=%=#jianhanxu20@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Jiehang
+Author{3}{Lastname}#=%=#Zeng
+Author{3}{Username}#=%=#zjiehang
+Author{3}{Email}#=%=#jhzeng18@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Linyang
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#linyangli
+Author{4}{Email}#=%=#linyangli19@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+Author{5}{Firstname}#=%=#Xiaoqing
+Author{5}{Lastname}#=%=#Zheng
+Author{5}{Username}#=%=#zxqingcn
+Author{5}{Email}#=%=#zhengxq@fudan.edu.cn
+Author{5}{Affiliation}#=%=#Fudan University
+Author{6}{Firstname}#=%=#Qi
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#lloydzq
+Author{6}{Email}#=%=#qz@fudan.edu.cn
+Author{6}{Affiliation}#=%=#Fudan University
+Author{7}{Firstname}#=%=#Kai-Wei
+Author{7}{Lastname}#=%=#Chang
+Author{7}{Username}#=%=#kchang10
+Author{7}{Email}#=%=#kw@kwchang.net
+Author{7}{Affiliation}#=%=#UCLA
+Author{8}{Firstname}#=%=#Cho-Jui
+Author{8}{Lastname}#=%=#Hsieh
+Author{8}{Username}#=%=#chohsieh
+Author{8}{Email}#=%=#chohsieh@cs.ucla.edu
+Author{8}{Affiliation}#=%=#University of California, Los Angeles
+
+==========

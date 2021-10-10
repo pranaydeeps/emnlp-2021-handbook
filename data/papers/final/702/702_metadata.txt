@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#702
+FinalPaperTitle#=%=#Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Forough Arabshahi
+JobTitle#==#
+Organization#==#Facebook 1 Hacker Way,
+Menlo Park, CA 94025
+Abstract#==#One of the challenges faced by conversational agents is their inability to identify unstated presumptions of their users' commands, a task trivial for humans due to their common sense. In this paper, we propose a zero-shot commonsense reasoning system for conversational agents in an attempt to achieve this. Our reasoner uncovers unstated presumptions from user commands satisfying a general template of if-(state), then-(action), because-(goal). Our reasoner uses a state-of-the-art transformer-based generative commonsense knowledge base (KB) as its source of background knowledge for reasoning. We propose a novel and iterative knowledge query mechanism to extract multi-hop reasoning chains from the neural KB which uses symbolic logic rules to significantly reduce the search space. Similar to any KBs gathered to date, our commonsense KB is prone to missing knowledge. Therefore, we propose to conversationally elicit the missing knowledge from human users with our novel dynamic question generation strategy, which generates and presents contextualized queries to human users. We evaluate the model with a user study with human users that achieves a 35% higher success rate compared to SOTA.
+Author{1}{Firstname}#=%=#Forough
+Author{1}{Lastname}#=%=#Arabshahi
+Author{1}{Username}#=%=#forougha
+Author{1}{Email}#=%=#forough.arabshahi@gmail.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Jennifer
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Username}#=%=#jennifer.lee.ny
+Author{2}{Email}#=%=#jennifer.lee.ny@gmail.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Antoine
+Author{3}{Lastname}#=%=#Bosselut
+Author{3}{Username}#=%=#antoineb
+Author{3}{Email}#=%=#antoineb@cs.stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Yejin
+Author{4}{Lastname}#=%=#Choi
+Author{4}{Username}#=%=#ychoi
+Author{4}{Email}#=%=#yejin@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Tom
+Author{5}{Lastname}#=%=#Mitchell
+Author{5}{Username}#=%=#tommmitchell
+Author{5}{Email}#=%=#tom.mitchell@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

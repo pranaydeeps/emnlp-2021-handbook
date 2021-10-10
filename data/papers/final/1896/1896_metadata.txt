@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1896
+FinalPaperTitle#=%=#Re-entry Prediction for Online Conversations via Self-Supervised Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lingzhi Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#In recent years, world business in online discussions and opinion sharing on social media is booming. 
+Re-entry prediction task is thus proposed to help people keep track of the discussions which they wish to continue. Nevertheless, existing works only focus on exploiting chatting history and context information, and ignore the potential useful learning signals underlying conversation data, such as conversation thread patterns and repeated engagement of target users, which help better understand the behavior of target users in conversations. In this paper, we propose three interesting and well-founded auxiliary tasks, namely, Spread Pattern, Repeated Target user, and Turn Authorship, as the self-supervised signals for re-entry prediction. These auxiliary tasks are trained together with the main task in a multi-task manner. Experimental results on two datasets newly collected from Twitter and Reddit show that our method outperforms the previous state-of-the-arts with fewer parameters and faster convergence. Extensive experiments and analysis show the effectiveness of our proposed models and also point out some key ideas in designing self-supervised tasks.
+Author{1}{Firstname}#=%=#Lingzhi
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#lingzhiwang
+Author{1}{Email}#=%=#lzwang@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Xingshan
+Author{2}{Lastname}#=%=#Zeng
+Author{2}{Username}#=%=#zxshamson
+Author{2}{Email}#=%=#zeng.xingshan@huawei.com
+Author{2}{Affiliation}#=%=#Huawei Noah’s Ark Lab
+Author{3}{Firstname}#=%=#Huang
+Author{3}{Lastname}#=%=#Hu
+Author{3}{Username}#=%=#tonyhupaper
+Author{3}{Email}#=%=#huahu@microsoft.com
+Author{3}{Affiliation}#=%=#STCA NLP Group, Microsoft
+Author{4}{Firstname}#=%=#Kam-Fai
+Author{4}{Lastname}#=%=#Wong
+Author{4}{Username}#=%=#kfwong
+Author{4}{Email}#=%=#kfwong@se.cuhk.edu.hk
+Author{4}{Affiliation}#=%=#Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hong Kong
+Author{5}{Firstname}#=%=#Daxin
+Author{5}{Lastname}#=%=#Jiang
+Author{5}{Username}#=%=#djiang
+Author{5}{Email}#=%=#djiang@microsoft.com
+Author{5}{Affiliation}#=%=#STCA NLP Group, Microsoft
+
+==========

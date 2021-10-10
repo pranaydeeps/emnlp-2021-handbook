@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4504
+FinalPaperTitle#=%=#Chinese WPLC: A Chinese Dataset for Evaluating Pretrained Language Models on Word Prediction Given Long-Range Context
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Huibin Ge
+JobTitle#==#student
+Organization#==#College of Intelligence and Computing, Tianjin University, Tianjin, China
+Abstract#==#This paper presents a Chinese dataset for evaluating pretrained language models on Word Prediction given Long-term Context (Chinese WPLC). We propose both automatic and manual selection strategies tailored to Chinese to guarantee that target words in passages collected from over 69K novels can only be predicted with long-term context beyond the scope of sentences containing the target words. Dataset analysis reveals that the types of target words range from common nouns to Chinese 4-character idioms. We also observe that linguistic relations between target words and long-range context exhibit diversity, including lexical match, synonym, summary and reasoning. Experiment results show that the Chinese pretrained language model PanGu-$\alpha$ is 45 points behind human in terms of top-1 word prediction accuracy, indicating that Chinese WPLC is a challenging dataset. The dataset is publicly available at https://git.openi.org.cn/PCL-Platform.Intelligence/Chinese\_WPLC.
+Author{1}{Firstname}#=%=#Huibin
+Author{1}{Lastname}#=%=#Ge
+Author{1}{Username}#=%=#gehuibin
+Author{1}{Email}#=%=#gehuibin@tju.edu.cn
+Author{1}{Affiliation}#=%=#Tianjin University
+Author{2}{Firstname}#=%=#Chenxi
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#chenxisun
+Author{2}{Email}#=%=#charles.chenxi.sun@outlook.com
+Author{2}{Affiliation}#=%=#Hebei University of Technology
+Author{3}{Firstname}#=%=#Deyi
+Author{3}{Lastname}#=%=#Xiong
+Author{3}{Username}#=%=#dyxiong
+Author{3}{Email}#=%=#dyxiong@tju.edu.cn
+Author{3}{Affiliation}#=%=#Tianjin University
+Author{4}{Firstname}#=%=#Qun
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#liuqun
+Author{4}{Email}#=%=#qun.liu@huawei.com
+Author{4}{Affiliation}#=%=#Huawei Noah's Ark Lab
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Improving Synonym Recommendation Using Sentence Context
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#NA
+JobTitle#==#Research Librarian, S&T Publications & Information Release Specialist
+Organization#==#Pacific Northwest National Laboratory
+902 Battelle Blvd
+Richland, WA 99354
+Abstract#==#Traditional synonym recommendations often include ill-suited suggestions for writer's specific contexts. We propose a simple approach for contextual synonym recommendation by combining existing human-curated thesauri, e.g. WordNet, with pre-trained language models. We evaluate our technique by curating a set of word-sentence pairs balanced across corpora and parts of speech, then annotating each word-sentence pair with the contextually appropriate set of synonyms. We found that basic language model approaches have higher precision. Approaches leveraging sentence context have higher recall. Overall, the latter contextual approach had the highest F-score.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Glenski
+Author{1}{Username}#=%=#mglenski
+Author{1}{Email}#=%=#maria.glenski@pnnl.gov
+Author{1}{Affiliation}#=%=#Pacific Northwest National Laboratory
+Author{2}{Firstname}#=%=#William I.
+Author{2}{Lastname}#=%=#Sealy
+Author{2}{Email}#=%=#william.sealy@gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Kate
+Author{3}{Lastname}#=%=#Miller
+Author{3}{Username}#=%=#km914
+Author{3}{Email}#=%=#kate.miller@pnnl.gov
+Author{3}{Affiliation}#=%=#Pacific Northwest National Laboratory
+Author{4}{Firstname}#=%=#Dustin
+Author{4}{Lastname}#=%=#Arendt
+Author{4}{Username}#=%=#dustin.arendt
+Author{4}{Email}#=%=#dustin.arendt@pnnl.gov
+Author{4}{Affiliation}#=%=#Pacific Northwest National Laboratory
+
+==========

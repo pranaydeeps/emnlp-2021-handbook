@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1314
+FinalPaperTitle#=%=#Self Question-answering: Aspect-based Sentiment Analysis by Role Flipped Machine Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Guoxin Yu
+JobTitle#==#
+Organization#==#
+Abstract#==#The pivot for the unified Aspect-based Sentiment Analysis (ABSA) is to couple aspect terms with their corresponding opinion terms, which might further derive easier sentiment predictions. In this paper, we investigate the unified ABSA task from the perspective of Machine Reading Comprehension (MRC) by observing that the aspect and the opinion terms can serve as the query and answer in MRC interchangeably. We propose a new paradigm named Role Flipped Machine Reading Comprehension (RF-MRC) to resolve. At its heart, the predicted results of either the Aspect Term Extraction (ATE) or the Opinion Terms Extraction (OTE) are regarded as the queries, respectively, and the matched opinion or aspect terms are considered as answers. The queries and answers can be flipped for multi-hop detection. Finally, every matched aspect-opinion pair is predicted by the sentiment classifier. RF-MRC can solve the ABSA task without any additional data annotation or transformation. Experiments on three widely used benchmarks and a challenging dataset demonstrate the superiority of the proposed framework.
+Author{1}{Firstname}#=%=#Guoxin
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#guoxinyu
+Author{1}{Email}#=%=#yuguoxin98@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Jiwei
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#bdlijiwei
+Author{2}{Email}#=%=#jiwei_li@shannonai.com
+Author{2}{Affiliation}#=%=#Shannon.AI
+Author{3}{Firstname}#=%=#Ling
+Author{3}{Lastname}#=%=#Luo
+Author{3}{Username}#=%=#luoling
+Author{3}{Email}#=%=#rowlinggreencn@gmail.com
+Author{3}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+Author{4}{Firstname}#=%=#Yuxian
+Author{4}{Lastname}#=%=#Meng
+Author{4}{Username}#=%=#yuxian
+Author{4}{Email}#=%=#mengyuxian@pku.edu.cn
+Author{4}{Affiliation}#=%=#Shannon.AI
+Author{5}{Firstname}#=%=#Xiang
+Author{5}{Lastname}#=%=#Ao
+Author{5}{Username}#=%=#aoxiang
+Author{5}{Email}#=%=#aoxiang@ict.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{6}{Firstname}#=%=#Qing
+Author{6}{Lastname}#=%=#He
+Author{6}{Username}#=%=#ictheq
+Author{6}{Email}#=%=#heqing@ict.ac.cn
+Author{6}{Affiliation}#=%=#Institute of Computing Technology,Chinese Academy of Sciences
+
+==========

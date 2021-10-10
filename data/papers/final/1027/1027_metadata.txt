@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1027
+FinalPaperTitle#=%=#Don't Go Far Off: An Empirical Study on Neural Poetry Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Arkadiy Saakyan
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite constant improvements in machine translation quality, automatic poetry translation remains a challenging problem due to the lack of open-sourced parallel poetic corpora, and to the intrinsic complexities involved in preserving the semantics, style and figurative nature of poetry. We present an empirical investigation for poetry translation along several dimensions: 1) size and style of training data (poetic vs. non-poetic), including a zero-shot setup; 2) bilingual vs. multilingual learning; and 3) language-family-specific models vs. mixed-language-family models. To accomplish this, we contribute a parallel dataset of poetry translations for several language pairs. Our results show that multilingual fine-tuning on poetic text significantly outperforms multilingual fine-tuning on non-poetic text that is 35X larger in size, both in terms of automatic metrics (BLEU, BERTScore, COMET) and human evaluation metrics such as faithfulness (meaning and poetic style). Moreover, multilingual fine-tuning on poetic data outperforms bilingual fine-tuning on poetic data.
+Author{1}{Firstname}#=%=#Tuhin
+Author{1}{Lastname}#=%=#Chakrabarty
+Author{1}{Username}#=%=#tuhin.chakrabarty
+Author{1}{Email}#=%=#tuhin.chakr@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Arkadiy
+Author{2}{Lastname}#=%=#Saakyan
+Author{2}{Username}#=%=#asaakyan
+Author{2}{Email}#=%=#a.saakyan@columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+Author{3}{Firstname}#=%=#Smaranda
+Author{3}{Lastname}#=%=#Muresan
+Author{3}{Username}#=%=#smuresan
+Author{3}{Email}#=%=#smara@columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+
+==========

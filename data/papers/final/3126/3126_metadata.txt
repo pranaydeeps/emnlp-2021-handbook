@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3126
+FinalPaperTitle#=%=#Coreference-aware Surprisal Predicts Brain Response
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Evan Jaffe
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent evidence supports a role for coreference processing in guiding human expectations about upcoming words during reading, based on covariation between reading times and word surprisal estimated by a coreference-aware semantic processing model (Jaffe et al. 2020).The present study reproduces and elaborates on this finding by (1) enabling the parser to process subword information that might better approximate human morphological knowledge, and (2) extending evaluation of coreference effects from self-paced reading to human brain imaging data. Results show that an expectation-based processing effect of coreference is still evident even in the presence of the stronger psycholinguistic baseline provided by the subword model, and that the coreference effect is observed in both self-paced reading and fMRI data, providing evidence of the effect's robustness.
+Author{1}{Firstname}#=%=#Evan
+Author{1}{Lastname}#=%=#Jaffe
+Author{1}{Username}#=%=#evanjaffe
+Author{1}{Email}#=%=#jaffe.59@buckeyemail.osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Byung-Doh
+Author{2}{Lastname}#=%=#Oh
+Author{2}{Username}#=%=#byungdoh
+Author{2}{Email}#=%=#oh.531@osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#William
+Author{3}{Lastname}#=%=#Schuler
+Author{3}{Username}#=%=#schuler
+Author{3}{Email}#=%=#schuler@ling.osu.edu
+Author{3}{Affiliation}#=%=#The Ohio State University
+
+==========

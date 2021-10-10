@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2240
+FinalPaperTitle#=%=#{I}ndo{NLI}: A Natural Language Inference Dataset for {I}ndonesian
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Rahmad Mahendra
+JobTitle#==#
+Organization#==#
+Abstract#==#We present IndoNLI, the first human-elicited NLI dataset for Indonesian. We adapt the data collection protocol for MNLI and collect ~18K sentence pairs annotated by crowd workers and experts. The expert-annotated data is used exclusively as a test set. It is designed to provide a challenging test-bed for Indonesian NLI by explicitly incorporating various linguistic phenomena such as numerical reasoning, structural changes, idioms, or temporal and spatial reasoning. Experiment results show that XLM-R outperforms other pre-trained models in our data. The best performance on the expert-annotated data is still far below human performance (13.4% accuracy gap), suggesting that this test set is especially challenging. Furthermore, our analysis shows that our expert-annotated data is more diverse and contains fewer annotation artifacts than the crowd-annotated data. We hope this dataset can help accelerate progress in Indonesian NLP research.
+Author{1}{Firstname}#=%=#Rahmad
+Author{1}{Lastname}#=%=#Mahendra
+Author{1}{Username}#=%=#rmahendra
+Author{1}{Email}#=%=#rahmad.mahendra@cs.ui.ac.id
+Author{1}{Affiliation}#=%=#Universitas Indonesia
+Author{2}{Firstname}#=%=#Alham Fikri
+Author{2}{Lastname}#=%=#Aji
+Author{2}{Username}#=%=#afaji321
+Author{2}{Email}#=%=#afaji321@gmail.com
+Author{2}{Affiliation}#=%=#University of Edinburgh / Kata.ai
+Author{3}{Firstname}#=%=#Samuel
+Author{3}{Lastname}#=%=#Louvan
+Author{3}{Username}#=%=#spock
+Author{3}{Email}#=%=#slouvan@fbk.eu
+Author{3}{Affiliation}#=%=#University of Trento - Fondazione Bruno Kessler
+Author{4}{Firstname}#=%=#Fahrurrozi
+Author{4}{Lastname}#=%=#Rahman
+Author{4}{Username}#=%=#frahman
+Author{4}{Email}#=%=#fr27@st-andrews.ac.uk
+Author{4}{Affiliation}#=%=#University of St Andrews
+Author{5}{Firstname}#=%=#Clara
+Author{5}{Lastname}#=%=#Vania
+Author{5}{Username}#=%=#cvania
+Author{5}{Email}#=%=#clara.vaniia@gmail.com
+Author{5}{Affiliation}#=%=#Amazon
+
+==========

@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#3770
+FinalPaperTitle#=%=#Want To Reduce Labeling Cost? GPT-3 Can Help
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shuohang Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Data annotation is a time-consuming and labor-intensive process for many NLP tasks. Although there exist various methods to produce pseudo data labels, they are often task-specific and require a decent amount of labeled data to start with. Recently, the immense language model GPT-3 with 170 billion parameters has achieved tremendous improvement across many few-shot learning tasks.
+In this paper, we explore ways to leverage GPT-3 as a low-cost data labeler to train other models. We find that to make the downstream model achieve the same performance on a variety of NLU and NLG tasks, it costs 50% to 96% less to use labels from GPT-3 than using labels from humans.
+Furthermore, we propose a novel framework of combining pseudo labels from GPT-3 with human labels, which leads to even better performance. These results present a cost-effective data labeling methodology that is generalizable to many practical applications.
+Author{1}{Firstname}#=%=#Shuohang
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#shwang
+Author{1}{Email}#=%=#shuowa@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#pku7yang
+Author{2}{Email}#=%=#yaliu10@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Yichong
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#yichongx
+Author{3}{Email}#=%=#yicxu@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Chenguang
+Author{4}{Lastname}#=%=#Zhu
+Author{4}{Username}#=%=#zcgzcgzcg
+Author{4}{Email}#=%=#zcg.cs60@gmail.com
+Author{4}{Affiliation}#=%=#Microsoft Cognitive Services Research Group
+Author{5}{Firstname}#=%=#Michael
+Author{5}{Lastname}#=%=#Zeng
+Author{5}{Username}#=%=#nzeng
+Author{5}{Email}#=%=#nzeng@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Corp
+
+==========

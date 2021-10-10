@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2012
+FinalPaperTitle#=%=#Automatically Exposing Problems with Neural Dialog Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Dian Yu
+JobTitle#==#
+Organization#==#University of California, Davis
+Abstract#==#Neural dialog models are known to suffer from problems such as generating unsafe and inconsistent responses. Even though these problems are crucial and prevalent, they are mostly manually identified by model designers through interactions. Recently, some research instructs crowdworkers to goad the bots into triggering such problems. However, humans leverage superficial clues such as hate speech, while leaving systematic problems undercover. In this paper, we propose two methods including reinforcement learning to automatically trigger a dialog model into generating problematic responses. We show the effect of our methods in exposing safety and contradiction issues with state-of-the-art dialog models.
+Author{1}{Firstname}#=%=#Dian
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#dianyu
+Author{1}{Email}#=%=#dianyu@ucdavis.edu
+Author{1}{Affiliation}#=%=#University of California, Davis
+Author{2}{Firstname}#=%=#Kenji
+Author{2}{Lastname}#=%=#Sagae
+Author{2}{Username}#=%=#ksagae
+Author{2}{Email}#=%=#sagae@ucdavis.edu
+Author{2}{Affiliation}#=%=#University of California, Davis
+
+==========

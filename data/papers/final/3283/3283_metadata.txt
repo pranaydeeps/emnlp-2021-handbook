@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#3283
+FinalPaperTitle#=%=#Improved Latent Tree Induction with Distant Supervision via Span Constraints
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Andrew Drozdov
+JobTitle#==#
+Organization#==#
+Abstract#==#For over thirty years, researchers have developed and analyzed methods for latent tree induction as an approach for unsupervised syntactic parsing. Nonetheless, modern systems still do not perform well enough compared to their supervised counterparts to have any practical use as structural annotation of text. In this work, we present a technique that uses distant supervision in the form of span constraints (i.e. phrase bracketing) to improve performance in unsupervised constituency parsing. Using a relatively small number of span constraints we can substantially improve the output from DIORA, an already competitive unsupervised parsing system. Compared with full parse tree annotation, span constraints can be acquired with minimal effort, such as with a lexicon derived from Wikipedia, to find exact text matches. Our experiments show span constraints based on entities improves constituency parsing on English WSJ Penn Treebank by more than 5 F1. Furthermore, our method extends to any domain where span constraints are easily attainable, and as a case study we demonstrate its effectiveness by parsing biomedical text from the CRAFT dataset.
+Author{1}{Firstname}#=%=#Zhiyang
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#zhiyangxu
+Author{1}{Email}#=%=#zhiyangxu@cs.umass.edu
+Author{1}{Affiliation}#=%=#Umass Amherst
+Author{2}{Firstname}#=%=#Andrew
+Author{2}{Lastname}#=%=#Drozdov
+Author{2}{Username}#=%=#mrdrozdov
+Author{2}{Email}#=%=#adrozdov@cs.umass.edu
+Author{2}{Affiliation}#=%=#UMass-Amherst
+Author{3}{Firstname}#=%=#Jay Yoon
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#jaylee
+Author{3}{Email}#=%=#jaylee@iesl.cs.umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{4}{Firstname}#=%=#Tim
+Author{4}{Lastname}#=%=#O'Gorman
+Author{4}{Username}#=%=#timjogorman
+Author{4}{Email}#=%=#togorman@iesl.cs.umass.edu
+Author{4}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{5}{Firstname}#=%=#Subendhu
+Author{5}{Lastname}#=%=#Rongali
+Author{5}{Username}#=%=#subendhu
+Author{5}{Email}#=%=#srongali@cs.umass.edu
+Author{5}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{6}{Firstname}#=%=#Dylan
+Author{6}{Lastname}#=%=#Finkbeiner
+Author{6}{Username}#=%=#dfinkbeiner
+Author{6}{Email}#=%=#dylanfinkbeiner@gmail.com
+Author{6}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{7}{Firstname}#=%=#Shilpa
+Author{7}{Lastname}#=%=#Suresh
+Author{7}{Username}#=%=#shilpa15
+Author{7}{Email}#=%=#ssuresh@umass.edu
+Author{7}{Affiliation}#=%=#University of Massachusetts - Amherst
+Author{8}{Firstname}#=%=#Mohit
+Author{8}{Lastname}#=%=#Iyyer
+Author{8}{Username}#=%=#miyyer
+Author{8}{Email}#=%=#m.iyyer@gmail.com
+Author{8}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{9}{Firstname}#=%=#Andrew
+Author{9}{Lastname}#=%=#McCallum
+Author{9}{Username}#=%=#mccallum
+Author{9}{Email}#=%=#mccallum@cs.umass.edu
+Author{9}{Affiliation}#=%=#UMass Amherst
+
+==========

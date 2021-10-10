@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#4434
+FinalPaperTitle#=%=#Predicting Anti-Asian Hateful Users on Twitter during COVID-19
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jisun An
+JobTitle#==#
+Organization#==#Singapore Management University, 
+80 Stamford Rd, Singapore 178902
+Abstract#==#We investigate predictors of anti-Asian hate among Twitter users throughout COVID-19. With the rise of xenophobia and polarization that has accompanied widespread social media usage in many nations, online hate has become a major social issue, attracting many researchers. Here, we apply natural language processing techniques to characterize social media users who began to post anti-Asian hate messages during COVID-19. We compare two user groups—those who posted anti-Asian slurs and those who did not—with respect to a rich set of features measured with data prior to COVID-19 and show that it is possible to predict who later publicly posted anti-Asian slurs. Our analysis of predictive features underlines the potential impact of news media and information sources that report on online hate and calls for further investigation into the role of polarized communication networks and news media.
+Author{1}{Firstname}#=%=#Jisun
+Author{1}{Lastname}#=%=#An
+Author{1}{Username}#=%=#ghdi6758
+Author{1}{Email}#=%=#jisun.an@acm.org
+Author{1}{Affiliation}#=%=#School of Information Systems, Singapore Management University
+Author{2}{Firstname}#=%=#Haewoon
+Author{2}{Lastname}#=%=#Kwak
+Author{2}{Username}#=%=#haewoon
+Author{2}{Email}#=%=#haewoon@acm.org
+Author{2}{Affiliation}#=%=#Singapore Management University
+Author{3}{Firstname}#=%=#Claire Seungeun
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Username}#=%=#drclairelee
+Author{3}{Email}#=%=#claire_lee@uml.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts Lowell
+Author{4}{Firstname}#=%=#Bogang
+Author{4}{Lastname}#=%=#Jun
+Author{4}{Username}#=%=#bogangjun
+Author{4}{Email}#=%=#bogang.jun@inha.ac.kr
+Author{4}{Affiliation}#=%=#Inha University
+Author{5}{Firstname}#=%=#Yong-Yeol
+Author{5}{Lastname}#=%=#Ahn
+Author{5}{Username}#=%=#yyahn
+Author{5}{Email}#=%=#yyahn@iu.edu
+Author{5}{Affiliation}#=%=#Indiana University
+
+==========

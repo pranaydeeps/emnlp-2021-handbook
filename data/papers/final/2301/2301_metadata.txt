@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#2301
+FinalPaperTitle#=%=#Neuro-Symbolic Reinforcement Learning with First-Order Logic
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Daiki Kimura
+JobTitle#==#
+Organization#==#IBM Research, 19-21 Nihonbashi, Hakozaki-cho, Chuo-ku, Tokyo 103-8510, JAPAN
+Abstract#==#Deep reinforcement learning (RL) methods often require many trials before convergence, and no direct interpretability of trained policies is provided. In order to achieve fast convergence and interpretability for the policy in RL, we propose a novel RL method for text-based games with a recent neuro-symbolic framework called Logical Neural Network, which can learn symbolic and interpretable rules in their differentiable network. The method is first to extract first-order logical facts from text observation and external word meaning network (ConceptNet), then train a policy in the network with directly interpretable logical operators. Our experimental results show RL training with the proposed method converges significantly faster than other state-of-the-art neuro-symbolic methods in a TextWorld benchmark.
+Author{1}{Firstname}#=%=#Daiki
+Author{1}{Lastname}#=%=#Kimura
+Author{1}{Username}#=%=#daiki.kimura
+Author{1}{Email}#=%=#daiki@jp.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research AI
+Author{2}{Firstname}#=%=#Masaki
+Author{2}{Lastname}#=%=#Ono
+Author{2}{Username}#=%=#moono
+Author{2}{Email}#=%=#moono@jp.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research - Tokyo
+Author{3}{Firstname}#=%=#Subhajit
+Author{3}{Lastname}#=%=#Chaudhury
+Author{3}{Username}#=%=#subhajit_ibm_1412
+Author{3}{Email}#=%=#subhajit@jp.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Ryosuke
+Author{4}{Lastname}#=%=#Kohita
+Author{4}{Username}#=%=#ryosuke-k
+Author{4}{Email}#=%=#KOHI@ibm.com
+Author{4}{Affiliation}#=%=#IBM Research AI
+Author{5}{Firstname}#=%=#Akifumi
+Author{5}{Lastname}#=%=#Wachi
+Author{5}{Username}#=%=#akifumi_wachi
+Author{5}{Email}#=%=#akifumi.wachi@gmail.com
+Author{5}{Affiliation}#=%=#IBM Research AI
+Author{6}{Firstname}#=%=#Don Joven
+Author{6}{Lastname}#=%=#Agravante
+Author{6}{Username}#=%=#don.joven.r.agravante
+Author{6}{Email}#=%=#don.joven.r.agravante@ibm.com
+Author{6}{Affiliation}#=%=#IBM Research Tokyo
+Author{7}{Firstname}#=%=#Michiaki
+Author{7}{Lastname}#=%=#Tatsubori
+Author{7}{Username}#=%=#tatsubori
+Author{7}{Email}#=%=#mich@jp.ibm.com
+Author{7}{Affiliation}#=%=#IBM Research - Tokyo
+Author{8}{Firstname}#=%=#Asim
+Author{8}{Lastname}#=%=#Munawar
+Author{8}{Username}#=%=#asimmunawar
+Author{8}{Email}#=%=#asim@ibm.com
+Author{8}{Affiliation}#=%=#IBM Research - Tokyo
+Author{9}{Firstname}#=%=#Alexander
+Author{9}{Lastname}#=%=#Gray
+Author{9}{Email}#=%=#alexander.gray@ibm.com
+Author{9}{Affiliation}#=%=#IBM Research AI
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3378
+FinalPaperTitle#=%=#Does BERT Learn as Humans Perceive? Understanding Linguistic Styles through Lexica
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Shirley Anugrah Hayati
+JobTitle#==#
+Organization#==#
+Abstract#==#People convey their intention and attitude through linguistic styles of the text that they write. In this study, we investigate lexicon usages across styles throughout two lenses: human perception and machine word importance, since words differ in the strength of the stylistic cues that they provide. To collect labels of human perception, we curate a new dataset, Hummingbird, on top of benchmarking style datasets. We have crowd workers highlight the representative words in the text that makes them think the text has the following styles: politeness, sentiment, offensiveness, and five emotion types. We then compare these human word labels with word importance derived from a popular fine-tuned style classifier like BERT. Our results show that the BERT often finds content words not relevant to the target style as important words used in style prediction, but humans do not perceive the same way even though for some styles (e.g., positive sentiment and joy) human- and machine-identified words share significant overlap for some styles.
+Author{1}{Firstname}#=%=#Shirley
+Author{1}{Lastname}#=%=#Hayati
+Author{1}{Username}#=%=#sahayati
+Author{1}{Email}#=%=#sweetpineappleforest@gmail.com
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Dongyeop
+Author{2}{Lastname}#=%=#Kang
+Author{2}{Username}#=%=#dongyeok
+Author{2}{Email}#=%=#dykang85@gmail.com
+Author{2}{Affiliation}#=%=#University of California, Berkeley
+Author{3}{Firstname}#=%=#Lyle
+Author{3}{Lastname}#=%=#Ungar
+Author{3}{Username}#=%=#ungarl
+Author{3}{Email}#=%=#ungar@cis.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+
+==========

@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#3249
+FinalPaperTitle#=%=#MSD: Saliency-aware Knowledge Distillation for Multimodal Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Woojeong Jin
+JobTitle#==#
+Organization#==#University of Southern California
+Abstract#==#To reduce a model size but retain performance, we often rely on knowledge distillation (KD) which transfers knowledge from a large ``teacher" model to a smaller ``student" model.
+However, KD on multimodal datasets such as vision-language tasks is relatively unexplored, and digesting multimodal information is challenging since different modalities present different types of information.
+In this paper, we perform a large-scale empirical study to investigate the importance and effects of each modality in knowledge distillation.
+Furthermore, we introduce a multimodal knowledge distillation framework,
+modality-specific distillation (MSD), to transfer knowledge from a teacher on multimodal tasks by learning the teacher's behavior within each modality.
+The idea aims at mimicking a teacher's modality-specific predictions by introducing auxiliary loss terms for each modality. Furthermore,
+because each modality has different saliency for predictions, we define saliency scores for each modality and investigate saliency-based weighting schemes for the auxiliary losses.
+We further study a weight learning approach to learn the optimal weights on these loss terms. 
+In our empirical analysis, we examine the saliency of each modality in KD, demonstrate the effectiveness of the weighting scheme in MSD, and show that it achieves better performance than KD on four multimodal datasets.
+Author{1}{Firstname}#=%=#Woojeong
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Username}#=%=#woojeong
+Author{1}{Email}#=%=#woojeong.jin@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Maziar
+Author{2}{Lastname}#=%=#Sanjabi
+Author{2}{Email}#=%=#maziars@fb.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Shaoliang
+Author{3}{Lastname}#=%=#Nie
+Author{3}{Username}#=%=#snie
+Author{3}{Email}#=%=#snie@fb.com
+Author{3}{Affiliation}#=%=#Facebook Inc
+Author{4}{Firstname}#=%=#Liang
+Author{4}{Lastname}#=%=#Tan
+Author{4}{Email}#=%=#liangtan@fb.com
+Author{4}{Affiliation}#=%=#Facebook
+Author{5}{Firstname}#=%=#Xiang
+Author{5}{Lastname}#=%=#Ren
+Author{5}{Username}#=%=#xren7
+Author{5}{Email}#=%=#xiangren@usc.edu
+Author{5}{Affiliation}#=%=#University of Southern California
+Author{6}{Firstname}#=%=#Hamed
+Author{6}{Lastname}#=%=#Firooz
+Author{6}{Username}#=%=#mhfirooz
+Author{6}{Email}#=%=#mhfirooz@gmail.com
+Author{6}{Affiliation}#=%=#Facebook AI
+
+==========

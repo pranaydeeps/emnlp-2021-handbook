@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1054
+FinalPaperTitle#=%=#How much coffee was consumed during EMNLP 2019? Fermi Problems: A New Reasoning Challenge for AI
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#AKV
+JobTitle#==#Research Scientist
+Organization#==#Allen Institute for Artificial Intelligence, 2157 N Northlake Way #110, Seattle, WA 98103
+Abstract#==#Many real-world problems require the combined application of multiple reasoning abilities---employing suitable abstractions, commonsense knowledge, and creative synthesis of problem-solving strategies. To help advance AI systems towards such capabilities, we propose a new reasoning challenge, namely Fermi Problems (FPs), which are questions whose answers can only be approximately estimated because their precise computation is either impractical or impossible. For example, ``How much would the sea level rise if all ice in the world melted?'' FPs are commonly used in quizzes and interviews to bring out and evaluate the creative reasoning abilities of humans. 
+To do the same for AI systems, we present two datasets: 1) A collection of 1k real-world FPs sourced from quizzes and olympiads; and 2) a bank of 10k synthetic FPs of intermediate complexity to serve as a sandbox for the harder real-world challenge. In addition to question-answer pairs, the datasets contain detailed solutions in the form of an executable program and supporting facts, helping in supervision and evaluation of intermediate steps. We demonstrate that even extensively fine-tuned large-scale language models perform poorly on these datasets, on average making estimates that are off by two orders of magnitude. Our contribution is thus the crystallization of several unsolved AI problems into a single, new challenge that we hope will spur further advances in building systems that can reason.
+Author{1}{Firstname}#=%=#Ashwin
+Author{1}{Lastname}#=%=#Kalyan
+Author{1}{Username}#=%=#ashwinkv
+Author{1}{Email}#=%=#ashwinkv@allenai.org
+Author{1}{Affiliation}#=%=#Allen Institute for Artificial Intelligence (AI2)
+Author{2}{Firstname}#=%=#Abhinav
+Author{2}{Lastname}#=%=#Kumar
+Author{2}{Username}#=%=#abhinavk
+Author{2}{Email}#=%=#abhinavk@gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Arjun
+Author{3}{Lastname}#=%=#Chandrasekaran
+Author{3}{Username}#=%=#carjun
+Author{3}{Email}#=%=#arjun.chandrasekaran@tuebingen.mpg.de
+Author{3}{Affiliation}#=%=#Max Planck Institute for Intelligent Systems
+Author{4}{Firstname}#=%=#Ashish
+Author{4}{Lastname}#=%=#Sabharwal
+Author{4}{Username}#=%=#ashish3
+Author{4}{Email}#=%=#ashishs@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for AI (AI2)
+Author{5}{Firstname}#=%=#Peter
+Author{5}{Lastname}#=%=#Clark
+Author{5}{Username}#=%=#peterc
+Author{5}{Email}#=%=#peterc@allenai.org
+Author{5}{Affiliation}#=%=#Allen Institute for AI
+
+==========

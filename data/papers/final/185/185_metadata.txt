@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#185
+FinalPaperTitle#=%=#Learning Neural Templates for Recommender Dialogue System
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Zujie Liang
+JobTitle#==#
+Organization#==#
+Abstract#==#The task of Conversational Recommendation System (CRS), i.e., recommender dialog system, aims to recommend precise items to users through natural language interactions. Though recent end-to-end neural models have shown promising progress on this task, two key challenges still remain. First, the recommended items cannot be always incorporated into the generated response precisely and appropriately. Second, only the items mentioned in the training corpus have a chance to be recommended in the conversation. To tackle these challenges, we introduce a novel framework called NTRD for recommender dialogue system that can decouple the dialogue generation from the item recommendation. NTRD has two key components, i.e., response template generator and item selector. The former adopts an encoder-decoder model to generate a response template with slot locations tied to target items, while the latter fills in slot locations with the proper items using a sufficient attention mechanism. Our approach combines the strengths of both classical slot filling approaches (that are generally controllable) and modern neural NLG approaches (that are generally more natural and accurate). Extensive experiments on the benchmark ReDial show our approach significantly outperforms the previous state-of-the-art methods. Besides, our approach has the unique advantage to produce novel items that do not appear in the training set of dialogue corpus. The code is available at \url{https://github.com/jokieleung/NTRD}.
+Author{1}{Firstname}#=%=#Zujie
+Author{1}{Lastname}#=%=#Liang
+Author{1}{Username}#=%=#liangzujie
+Author{1}{Email}#=%=#liangzj9@mail2.sysu.edu.cn
+Author{1}{Affiliation}#=%=#Sun Yat-Sen University
+Author{2}{Firstname}#=%=#Huang
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Username}#=%=#tonyhupaper
+Author{2}{Email}#=%=#huahu@microsoft.com
+Author{2}{Affiliation}#=%=#STCA NLP Group, Microsoft
+Author{3}{Firstname}#=%=#Can
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#nlpxc
+Author{3}{Email}#=%=#caxu@microsoft.com
+Author{3}{Affiliation}#=%=#STCA NLP Group, Microsoft
+Author{4}{Firstname}#=%=#Jian
+Author{4}{Lastname}#=%=#Miao
+Author{4}{Username}#=%=#unbuilt
+Author{4}{Email}#=%=#jianm@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Yingying
+Author{5}{Lastname}#=%=#He
+Author{5}{Username}#=%=#spirit
+Author{5}{Email}#=%=#spirit.hyy@gmail.com
+Author{5}{Affiliation}#=%=#Microsoft
+Author{6}{Firstname}#=%=#yining
+Author{6}{Lastname}#=%=#Chen
+Author{6}{Username}#=%=#yiningchen
+Author{6}{Email}#=%=#yinichen@microsoft.com
+Author{6}{Affiliation}#=%=#microsoft
+Author{7}{Firstname}#=%=#Xiubo
+Author{7}{Lastname}#=%=#Geng
+Author{7}{Username}#=%=#xigeng
+Author{7}{Email}#=%=#xigeng@microsoft.com
+Author{7}{Affiliation}#=%=#STCA NLP Group, Microsoft
+Author{8}{Firstname}#=%=#Fan
+Author{8}{Lastname}#=%=#Liang
+Author{8}{Username}#=%=#liangfan
+Author{8}{Email}#=%=#isslf@mail.sysu.edu.cn
+Author{8}{Affiliation}#=%=#Sun Yat-Sen University
+Author{9}{Firstname}#=%=#Daxin
+Author{9}{Lastname}#=%=#Jiang
+Author{9}{Username}#=%=#djiang
+Author{9}{Email}#=%=#djiang@microsoft.com
+Author{9}{Affiliation}#=%=#STCA NLP Group, Microsoft
+
+==========

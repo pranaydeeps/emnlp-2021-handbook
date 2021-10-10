@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#4025
+FinalPaperTitle#=%=#Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Tianqing Fang
+JobTitle#==#
+Organization#==#HKUST, Clear Water Bay, Hong Kong
+Abstract#==#Reasoning over commonsense knowledge bases (CSKB) whose elements are in the form of free-text is an important yet hard task in NLP. While CSKB completion only fills the missing links within the domain of the CSKB, CSKB population is alternatively proposed with the goal of reasoning unseen assertions from external resources. In this task, CSKBs are grounded to a large-scale eventuality (activity, state, and event) graph to discriminate whether novel triples from the eventuality graph are plausible or not.
+However, existing evaluations on the population task are either not accurate (automatic evaluation with randomly sampled negative examples) or of small scale (human annotation).  In this paper, we benchmark the CSKB population task with a new large-scale dataset by first aligning four popular CSKBs, and then presenting a high-quality human-annotated evaluation set to probe neural models' commonsense reasoning ability. We also propose a novel inductive commonsense reasoning model that reasons over graphs. Experimental results show that generalizing commonsense reasoning on unseen assertions is inherently a hard task. Models achieving high accuracy during training perform poorly on the evaluation set, with a large gap between human performance. We will make the data publicly available for future contributions. Codes and data are available at https://github.com/HKUST-KnowComp/CSKB-Population.
+Author{1}{Firstname}#=%=#Tianqing
+Author{1}{Lastname}#=%=#Fang
+Author{1}{Username}#=%=#tqfang229
+Author{1}{Email}#=%=#tfangaa@cse.ust.hk
+Author{1}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Weiqi
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wwangbw
+Author{2}{Email}#=%=#wwangbw@connect.ust.hk
+Author{2}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{3}{Firstname}#=%=#Sehyun
+Author{3}{Lastname}#=%=#Choi
+Author{3}{Username}#=%=#schoiaj
+Author{3}{Email}#=%=#schoiaj@connect.ust.hk
+Author{3}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{4}{Firstname}#=%=#Shibo
+Author{4}{Lastname}#=%=#Hao
+Author{4}{Username}#=%=#haoshibo
+Author{4}{Email}#=%=#haoshibo@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Hongming
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#hzhangal
+Author{5}{Email}#=%=#hzhangal@cse.ust.hk
+Author{5}{Affiliation}#=%=#HKUST
+Author{6}{Firstname}#=%=#Yangqiu
+Author{6}{Lastname}#=%=#Song
+Author{6}{Username}#=%=#yqsong
+Author{6}{Email}#=%=#yqsong@cse.ust.hk
+Author{6}{Affiliation}#=%=#HKUST
+Author{7}{Firstname}#=%=#Bin
+Author{7}{Lastname}#=%=#He
+Author{7}{Username}#=%=#bin.he
+Author{7}{Email}#=%=#hebin.nlp@huawei.com
+Author{7}{Affiliation}#=%=#Huawei Noah’s Ark Lab
+
+==========

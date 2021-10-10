@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#75
+FinalPaperTitle#=%=#Predicting Text Readability from Scrolling Interactions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sian Gooding
+JobTitle#==#
+Organization#==#
+Abstract#==#Judging the readability of text has many important applications, for instance when performing text simplification or when sourcing reading material for language learners. In this paper, we present a 518 participant study which investigates how scrolling behaviour relates to the readability of English texts. We make our dataset publicly available and show that (1) there are statistically significant differences in the way readers interact with text depending on the text level, (2) such measures can be used to predict the readability of text, and (3) the background of a reader impacts their reading interactions and the factors contributing to text difficulty.
+Author{1}{Firstname}#=%=#Sian
+Author{1}{Lastname}#=%=#Gooding
+Author{1}{Username}#=%=#siangooding
+Author{1}{Email}#=%=#siangooding@gmail.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Yevgeni
+Author{2}{Lastname}#=%=#Berzak
+Author{2}{Username}#=%=#jeniabk
+Author{2}{Email}#=%=#berzak@mit.edu
+Author{2}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{3}{Firstname}#=%=#Tony
+Author{3}{Lastname}#=%=#Mak
+Author{3}{Email}#=%=#tonymak@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Matt
+Author{4}{Lastname}#=%=#Sharifi
+Author{4}{Email}#=%=#mns@google.com
+Author{4}{Affiliation}#=%=#Google
+
+==========

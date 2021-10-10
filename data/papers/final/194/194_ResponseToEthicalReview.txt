@@ -1,0 +1,1 @@
+Following the ethical meta review, we added information on how to acquire the dataset in a copyright-respecting manner. We clarified this in our repository as well.

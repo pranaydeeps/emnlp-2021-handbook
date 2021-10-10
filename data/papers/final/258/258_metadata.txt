@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#258
+FinalPaperTitle#=%=#Text Detoxification using Large Pre-trained Neural Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Alexander Panchenko
+JobTitle#==#
+Organization#==#Skolkovo Institute of Science and Technology
+Abstract#==#We present two novel unsupervised methods for eliminating toxicity in text. Our first method combines two recent ideas: (1) guidance of the generation process with small style-conditional language models and (2) use of paraphrasing models to perform style transfer. We use a well-performing paraphraser guided by style-trained language models to keep the text content and remove toxicity. Our second method uses BERT to replace toxic words with their non-offensive synonyms. We make the method more flexible by enabling BERT to replace mask tokens with a variable number of words.  Finally, we present the first large-scale comparative study of style transfer models on the task of toxicity removal. We compare our models with a number of methods for style transfer. The models are evaluated in a reference-free way using a combination of unsupervised style transfer metrics. Both methods we suggest yield new SOTA results.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Dale
+Author{1}{Username}#=%=#cointegrated
+Author{1}{Email}#=%=#d.dale@skoltech.ru
+Author{1}{Affiliation}#=%=#Skolkovo Institute of Science and Technology
+Author{2}{Firstname}#=%=#Anton
+Author{2}{Lastname}#=%=#Voronov
+Author{2}{Username}#=%=#realantonvoronov
+Author{2}{Email}#=%=#a.voronov3797@gmail.com
+Author{2}{Affiliation}#=%=#Skolkovo Institute of Science and Technology
+Author{3}{Firstname}#=%=#Daryna
+Author{3}{Lastname}#=%=#Dementieva
+Author{3}{Username}#=%=#dementyeva_ds
+Author{3}{Email}#=%=#daryna.dementieva@skoltech.ru
+Author{3}{Affiliation}#=%=#Skolkovo Institute of Science and Technology
+Author{4}{Firstname}#=%=#Varvara
+Author{4}{Lastname}#=%=#Logacheva
+Author{4}{Username}#=%=#varvara_k
+Author{4}{Email}#=%=#varvara.logacheva@gmail.com
+Author{4}{Affiliation}#=%=#Skolkovo Institute of Science and Technology
+Author{5}{Firstname}#=%=#Olga
+Author{5}{Lastname}#=%=#Kozlova
+Author{5}{Username}#=%=#evezhier
+Author{5}{Email}#=%=#evezhier@gmail.com
+Author{5}{Affiliation}#=%=#MTS PJSC
+Author{6}{Firstname}#=%=#Nikita
+Author{6}{Lastname}#=%=#Semenov
+Author{6}{Email}#=%=#nikita.semenov@mts.ru
+Author{6}{Affiliation}#=%=#MTS
+Author{7}{Firstname}#=%=#Alexander
+Author{7}{Lastname}#=%=#Panchenko
+Author{7}{Username}#=%=#alexander.panchenko
+Author{7}{Email}#=%=#panchenko.alexander@gmail.com
+Author{7}{Affiliation}#=%=#Skolkovo Institue of Science and Technology
+
+==========

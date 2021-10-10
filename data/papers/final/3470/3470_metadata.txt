@@ -1,0 +1,87 @@
+SubmissionNumber#=%=#3470
+FinalPaperTitle#=%=#Do Transformer Modifications Transfer Across Implementations and Applications?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Hyung Won Chung
+JobTitle#==#
+Organization#==#
+Abstract#==#The research community has proposed copious modifications to the Transformer architecture since it was introduced over three years ago, relatively few of which have seen widespread adoption. In this paper, we comprehensively evaluate many of these modifications in a shared experimental setting that covers most of the common uses of the Transformer in natural language processing.
+Surprisingly, we find that most modifications do not meaningfully improve performance. Furthermore, most of the Transformer variants we found beneficial were either developed in the same codebase that we used or are relatively minor changes. We conjecture that performance improvements may strongly depend on implementation details and correspondingly make some recommendations for improving the generality of experimental results.
+Author{1}{Firstname}#=%=#Sharan
+Author{1}{Lastname}#=%=#Narang
+Author{1}{Username}#=%=#sharannarang
+Author{1}{Email}#=%=#sharan.narang@gmail.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Hyung Won
+Author{2}{Lastname}#=%=#Chung
+Author{2}{Username}#=%=#hwchung
+Author{2}{Email}#=%=#hwchung@google.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Yi
+Author{3}{Lastname}#=%=#Tay
+Author{3}{Username}#=%=#ytay017
+Author{3}{Email}#=%=#ytay017@gmail.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Liam
+Author{4}{Lastname}#=%=#Fedus
+Author{4}{Email}#=%=#liamfedus@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Thibault
+Author{5}{Lastname}#=%=#Fevry
+Author{5}{Username}#=%=#iwontbecreative
+Author{5}{Email}#=%=#thibault.fevry@nyu.edu
+Author{5}{Affiliation}#=%=#New York University
+Author{6}{Firstname}#=%=#Michael
+Author{6}{Lastname}#=%=#Matena
+Author{6}{Email}#=%=#michael.matena@gmail.com
+Author{6}{Affiliation}#=%=#University of North Carolina, Chapel Hill
+Author{7}{Firstname}#=%=#Karishma
+Author{7}{Lastname}#=%=#Malkan
+Author{7}{Username}#=%=#karishmamalkan
+Author{7}{Email}#=%=#karishma.malkan@gmail.com
+Author{7}{Affiliation}#=%=#Google
+Author{8}{Firstname}#=%=#Noah
+Author{8}{Lastname}#=%=#Fiedel
+Author{8}{Username}#=%=#nfiedel
+Author{8}{Email}#=%=#nfiedel@gmail.com
+Author{8}{Affiliation}#=%=#Google
+Author{9}{Firstname}#=%=#Noam
+Author{9}{Lastname}#=%=#Shazeer
+Author{9}{Username}#=%=#nshazeer
+Author{9}{Email}#=%=#noam@google.com
+Author{9}{Affiliation}#=%=#Google
+Author{10}{Firstname}#=%=#Zhenzhong
+Author{10}{Lastname}#=%=#Lan
+Author{10}{Username}#=%=#lanzhzh
+Author{10}{Email}#=%=#lanzhenzhong@westlake.edu.cn
+Author{10}{Affiliation}#=%=#Westlake University
+Author{11}{Firstname}#=%=#Yanqi
+Author{11}{Lastname}#=%=#Zhou
+Author{11}{Email}#=%=#yanqiz@google.com
+Author{11}{Affiliation}#=%=#Google
+Author{12}{Firstname}#=%=#Wei
+Author{12}{Lastname}#=%=#Li
+Author{12}{Username}#=%=#mweili
+Author{12}{Email}#=%=#mweili@google.com
+Author{12}{Affiliation}#=%=#Google Inc
+Author{13}{Firstname}#=%=#Nan
+Author{13}{Lastname}#=%=#Ding
+Author{13}{Username}#=%=#dingnan18
+Author{13}{Email}#=%=#dingnan@google.com
+Author{13}{Affiliation}#=%=#Google
+Author{14}{Firstname}#=%=#Jake
+Author{14}{Lastname}#=%=#Marcus
+Author{14}{Email}#=%=#jakemarcus@google.com
+Author{14}{Affiliation}#=%=#Google
+Author{15}{Firstname}#=%=#Adam
+Author{15}{Lastname}#=%=#Roberts
+Author{15}{Username}#=%=#adarob
+Author{15}{Email}#=%=#adarob@gmail.com
+Author{15}{Affiliation}#=%=#Google Research
+Author{16}{Firstname}#=%=#Colin
+Author{16}{Lastname}#=%=#Raffel
+Author{16}{Username}#=%=#craffel
+Author{16}{Email}#=%=#craffel@gmail.com
+Author{16}{Affiliation}#=%=#University of North Carolina/Hugging Face
+
+==========

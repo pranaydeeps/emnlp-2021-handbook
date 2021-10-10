@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#2236
+FinalPaperTitle#=%=#Fix-Filter-Fix: Intuitively Connect Any Models for Effective Bug Fixing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Haiwen Hong
+JobTitle#==#
+Organization#==#
+Abstract#==#Locating and fixing bugs is a time-consuming task. Most neural machine translation  (NMT) based approaches for automatically bug fixing lack generality and do not make full use of the rich information in the source code.
+In NMT-based bug fixing, we find some predicted code identical to the input buggy code  (called unchanged fix) in NMT-based approaches due to high similarity between buggy and fixed code  (e.g., the difference may only appear in one particular line). Obviously, unchanged fix is not the correct fix because it is the same as the buggy code that needs to be fixed. 
+Based on these, we propose an intuitive yet effective general framework (called Fix-Filter-Fix or F^3) for bug fixing. F^3 connects models with our filter mechanism to filter out the last model's unchanged fix to the next. We propose an F^3 theory that can quantitatively and accurately calculate the F^3 lifting effect. To evaluate, we implement the  Seq2Seq Transformer  (ST) and the AST2Seq Transformer  (AT) to form some basic F^3 instances, called F^3_{ST+AT} and F^3_{AT+ST}.
+Comparing them with single model approaches and many model connection baselines across four datasets validates the effectiveness and generality of F^3 and corroborates our findings and methodology.
+Author{1}{Firstname}#=%=#Haiwen
+Author{1}{Lastname}#=%=#Hong
+Author{1}{Username}#=%=#haiwenhong
+Author{1}{Email}#=%=#honghaiwen96@zju.edu.cn
+Author{1}{Affiliation}#=%=#Zhejiang University
+Author{2}{Firstname}#=%=#Jingfeng
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zhjf123
+Author{2}{Email}#=%=#zhjf@zju.edu.cn
+Author{2}{Affiliation}#=%=#Zhejiang University
+Author{3}{Firstname}#=%=#Yin
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#zhangyin98
+Author{3}{Email}#=%=#zhangyin98@zju.edu.cn
+Author{3}{Affiliation}#=%=#Zhejiang University
+Author{4}{Firstname}#=%=#Yao
+Author{4}{Lastname}#=%=#Wan
+Author{4}{Username}#=%=#wanyao1992
+Author{4}{Email}#=%=#wanyao@hust.edu.cn
+Author{4}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{5}{Firstname}#=%=#Yulei
+Author{5}{Lastname}#=%=#Sui
+Author{5}{Username}#=%=#ysui
+Author{5}{Email}#=%=#yulei.sui@uts.edu.au
+Author{5}{Affiliation}#=%=#University of Technology Sydney
+
+==========

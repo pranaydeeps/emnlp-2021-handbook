@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1333
+FinalPaperTitle#=%=#Inconsistency Matters: A Knowledge-guided Dual-inconsistency Network for Multi-modal Rumor Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mengzhu Sun
+JobTitle#==#
+Organization#==#
+Abstract#==#Rumor spreaders are increasingly utilizing multimedia content to attract the attention and trust of news consumers. Though a set of rumor detection models have exploited the multi-modal data, they seldom consider the inconsistent relationships among images and texts. Moreover, they also fail to find a powerful way to spot the inconsistency information among the post contents and background knowledge. Motivated by the intuition that rumors are more likely to have inconsistency information in semantics, a novel Knowledge-guided Dual-inconsistency network is proposed to detect rumors with multimedia contents. It can capture the inconsistent semantics at the cross-modal level and the content-knowledge level in one unified framework. Extensive experiments on two public real-world datasets demonstrate that our proposal can outperform the state-of-the-art baselines.
+Author{1}{Firstname}#=%=#Mengzhu
+Author{1}{Lastname}#=%=#Sun
+Author{1}{Username}#=%=#mengzhusun
+Author{1}{Email}#=%=#2019110945@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Xi
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#colin2021
+Author{2}{Email}#=%=#zhangx@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{3}{Firstname}#=%=#Jianqiang
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Username}#=%=#majianchiang
+Author{3}{Email}#=%=#majianchiang@gmail.com
+Author{3}{Affiliation}#=%=#Ping An Life, AI Department
+Author{4}{Firstname}#=%=#Yazheng
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#yazhengliu
+Author{4}{Email}#=%=#liuyz@bupt.edu.cn
+Author{4}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+
+==========

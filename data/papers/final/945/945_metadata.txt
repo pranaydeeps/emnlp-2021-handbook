@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#945
+FinalPaperTitle#=%=#Few-Shot Table-to-Text Generation with Prototype Memory
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Yixuan Su
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural table-to-text generation models have achieved remarkable progress on an array of tasks. However, due to the data-hungry nature of neural models, their performances strongly rely on large-scale training examples, limiting their applicability in real-world applications. To address this, we propose a new framework: Prototype-to-Generate (P2G), for table-to-text generation under the few-shot scenario. The proposed framework utilizes the retrieved prototypes, which are jointly selected by an IR system and a novel prototype selector to help the model bridging the structural gap between tables and texts. Experimental results on three benchmark datasets with three state-of-the-art models demonstrate that the proposed framework significantly improves the model performance across various evaluation metrics.
+Author{1}{Firstname}#=%=#Yixuan
+Author{1}{Lastname}#=%=#Su
+Author{1}{Username}#=%=#pangpang666
+Author{1}{Email}#=%=#ys484@outlook.com
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Zaiqiao
+Author{2}{Lastname}#=%=#Meng
+Author{2}{Username}#=%=#mengzaiqiao
+Author{2}{Email}#=%=#zaiqiao.meng@gmail.com
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Simon
+Author{3}{Lastname}#=%=#Baker
+Author{3}{Username}#=%=#sb895
+Author{3}{Email}#=%=#simon.baker.gen@gmail.com
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Nigel
+Author{4}{Lastname}#=%=#Collier
+Author{4}{Username}#=%=#collier
+Author{4}{Email}#=%=#nhc30@cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+
+==========

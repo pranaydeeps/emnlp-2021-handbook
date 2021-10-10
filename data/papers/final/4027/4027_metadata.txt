@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4027
+FinalPaperTitle#=%=#SpellBERT: A Lightweight Pretrained Model for Chinese Spelling Check
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Tuo Ji
+JobTitle#==#
+Organization#==#
+Abstract#==#Chinese Spelling Check (CSC) is to detect and correct Chinese spelling errors. Many models utilize a predefined confusion set to learn a mapping between correct characters and its visually similar or phonetically similar misuses but the mapping may be out-of-domain. To that end, we propose SpellBERT,  a pretrained model with graph-based extra features and independent on confusion set. To explicitly capture the two erroneous patterns, we employ a graph neural network to introduce radical and pinyin information as visual and phonetic features. For better fusing these features with character representations, we devise masked language model alike pre-training tasks. With this feature-rich pre-training, SpellBERT with only half size of BERT can show competitive performance and make a state-of-the-art result on the OCR dataset where most of the errors are not covered by the existing confusion set.
+Author{1}{Firstname}#=%=#Tuo
+Author{1}{Lastname}#=%=#Ji
+Author{1}{Username}#=%=#jettuoji
+Author{1}{Email}#=%=#tji19@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Hang
+Author{2}{Lastname}#=%=#Yan
+Author{2}{Username}#=%=#hyan11
+Author{2}{Email}#=%=#hyan19@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Xipeng
+Author{3}{Lastname}#=%=#Qiu
+Author{3}{Username}#=%=#xpqiu
+Author{3}{Email}#=%=#xpqiu@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+
+==========

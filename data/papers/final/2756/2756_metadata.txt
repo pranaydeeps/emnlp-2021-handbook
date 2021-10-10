@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#2756
+FinalPaperTitle#=%=#When is Wall a Pared and when a Muro?: Extracting Rules Governing Lexical Selection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Aditi Chaudhary
+JobTitle#==#
+Organization#==#
+Abstract#==#Learning fine-grained distinctions between vocabulary items is a key challenge in learning a new language. For example, the noun "wall'' has different lexical manifestations in Spanish --  "pared'' refers to an indoor wall while "muro'' refers to an outside wall.
+However, this variety of lexical distinction may not be obvious to non-native learners unless the distinction is explained in such a way.
+In this work, we present a method for automatically identifying fine-grained lexical distinctions, and extracting rules explaining these distinctions in a human- and machine-readable format. We confirm the quality of these extracted rules in a language learning setup for two languages, Spanish and Greek,  where we use the rules to teach non-native speakers when to translate a given ambiguous word into its different possible translations.
+Author{1}{Firstname}#=%=#Aditi
+Author{1}{Lastname}#=%=#Chaudhary
+Author{1}{Username}#=%=#aditi138
+Author{1}{Email}#=%=#aschaudh@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Kayo
+Author{2}{Lastname}#=%=#Yin
+Author{2}{Username}#=%=#kayo
+Author{2}{Email}#=%=#kayoy@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Antonios
+Author{3}{Lastname}#=%=#Anastasopoulos
+Author{3}{Username}#=%=#aanastas
+Author{3}{Email}#=%=#antonis@gmu.edu
+Author{3}{Affiliation}#=%=#George Mason University
+Author{4}{Firstname}#=%=#Graham
+Author{4}{Lastname}#=%=#Neubig
+Author{4}{Username}#=%=#gneubig
+Author{4}{Email}#=%=#gneubig@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

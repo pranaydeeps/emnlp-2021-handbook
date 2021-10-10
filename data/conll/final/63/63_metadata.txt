@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#63
+FinalPaperTitle#=%=#Empathetic Dialog Generation with Fine-Grained Intents
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Yubo Xie
+JobTitle#==#
+Organization#==#
+Abstract#==#Empathetic dialog generation aims at generating coherent responses following previous dialog turns and, more importantly, showing a sense of caring and a desire to help. Existing models either rely on pre-defined emotion labels to guide the response generation, or use deterministic rules to decide the emotion of the response. With the advent of advanced language models, it is possible to learn subtle interactions directly from the dataset, providing that the emotion categories offer sufficient nuances and other non-emotional but emotional regulating intents are included. In this paper, we describe how to incorporate a taxonomy of 32 emotion categories and 8 additional emotion regulating intents to succeed the task of empathetic response generation. To facilitate the training, we also curated a large-scale emotional dialog dataset from movie subtitles. Through a carefully designed crowdsourcing experiment, we evaluated and demonstrated how our model produces more empathetic dialogs compared with its baselines.
+Author{1}{Firstname}#=%=#Yubo
+Author{1}{Lastname}#=%=#Xie
+Author{1}{Username}#=%=#yuboxie
+Author{1}{Email}#=%=#yubo.xie@epfl.ch
+Author{1}{Affiliation}#=%=#EPFL
+Author{2}{Firstname}#=%=#Pearl
+Author{2}{Lastname}#=%=#Pu
+Author{2}{Username}#=%=#pearlpu
+Author{2}{Email}#=%=#pearl.pu@epfl.ch
+Author{2}{Affiliation}#=%=#EPFL
+
+==========

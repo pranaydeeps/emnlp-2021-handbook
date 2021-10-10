@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#173
+FinalPaperTitle#=%=#Negation-Instance Based Evaluation of End-to-End Negation Resolution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Stefan Grünewald
+JobTitle#==#
+Organization#==#Robert Bosch GmbH
+Robert-Bosch-Platz 1
+70839 Gerlingen-Schillerhöhe
+GERMANY
+Abstract#==#In this paper, we revisit the task of negation resolution, which includes the subtasks of cue detection (e.g. "not", "never") and scope resolution.
+In the context of previous shared tasks, a variety of evaluation metrics have been proposed.
+Subsequent works usually use different subsets of these, including variations and custom implementations, rendering meaningful comparisons between systems difficult.
+Examining the problem both from a linguistic perspective and from a downstream viewpoint, we here argue for a negation-instance based approach to evaluating negation resolution.
+Our proposed metrics correspond to expectations over per-instance scores and hence are intuitively interpretable.
+To render research comparable and to foster future work, we provide results for a set of current state-of-the-art systems for negation resolution on three English corpora, and make our implementation of the evaluation scripts publicly available.
+Author{1}{Firstname}#=%=#Elizaveta
+Author{1}{Lastname}#=%=#Sineva
+Author{1}{Username}#=%=#elizavetas
+Author{1}{Email}#=%=#elisavetas2106@gmail.com
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Stefan
+Author{2}{Lastname}#=%=#Grünewald
+Author{2}{Username}#=%=#stgrue
+Author{2}{Email}#=%=#stgrue@posteo.net
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Firstname}#=%=#Annemarie
+Author{3}{Lastname}#=%=#Friedrich
+Author{3}{Username}#=%=#afried
+Author{3}{Email}#=%=#annemarie.friedrich@gmail.com
+Author{3}{Affiliation}#=%=#Bosch Research
+Author{4}{Firstname}#=%=#Jonas
+Author{4}{Lastname}#=%=#Kuhn
+Author{4}{Username}#=%=#jonaskuhn
+Author{4}{Email}#=%=#jonas@ims.uni-stuttgart.de
+Author{4}{Affiliation}#=%=#University of Stuttgart
+
+==========

@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1175
+FinalPaperTitle#=%=#Winnowing Knowledge for Multi-choice Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yeqiu Li
+JobTitle#==#
+Organization#==#School of Computer Science and Technology, Soochow University (Address: 1 Shizi ST, Suzhou, China).
+Institute for Infocomm Research, A*STAR (Address 1 Fusionopolis Way, Singapore).
+Abstract#==#We tackle multi-choice question answering. Acquiring related commonsense knowledge to the question and options facilitates the recognition of the correct answer. However, the current reasoning models suffer from the noises in the retrieved knowledge. In this paper, we propose a novel encoding method which is able to conduct interception and soft filtering. This contributes to the harvesting and absorption of representative information with less interference from noises. We experiment on CommonsenseQA. Experimental results illustrate that our method yields substantial and consistent improvements compared to the strong Bert, RoBERTa and Albert-based baselines.
+Author{1}{Firstname}#=%=#Yeqiu
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#yeqiuli
+Author{1}{Email}#=%=#unlimitedaki@gmail.com
+Author{1}{Affiliation}#=%=#Soochow university
+Author{2}{Firstname}#=%=#Bowei
+Author{2}{Lastname}#=%=#Zou
+Author{2}{Username}#=%=#zoubowei
+Author{2}{Email}#=%=#zou_bowei@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research
+Author{3}{Firstname}#=%=#Zhifeng
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#zhifengli
+Author{3}{Email}#=%=#zfli20@stu.suda.edu.cn
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Ai Ti
+Author{4}{Lastname}#=%=#Aw
+Author{4}{Username}#=%=#aaiti
+Author{4}{Email}#=%=#aaiti@i2r.a-star.edu.sg
+Author{4}{Affiliation}#=%=#Institute for Infocomm Research
+Author{5}{Firstname}#=%=#Yu
+Author{5}{Lastname}#=%=#Hong
+Author{5}{Username}#=%=#hongyu
+Author{5}{Email}#=%=#tianxianer@gmail.com
+Author{5}{Affiliation}#=%=#Soochow University
+Author{6}{Firstname}#=%=#Qiaoming
+Author{6}{Lastname}#=%=#Zhu
+Author{6}{Username}#=%=#qmzhu
+Author{6}{Email}#=%=#qmzhu@suda.edu.cn
+Author{6}{Affiliation}#=%=#Soochow University
+
+==========

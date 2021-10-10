@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#2368
+FinalPaperTitle#=%=#Uncovering the Limits of Text-based Emotion Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#24
+CopyrightSigned#=%=#Nurudin Alvarez-Gonzalez
+JobTitle#==#
+Organization#==#
+Abstract#==#Identifying emotions from text is crucial for a variety of real world tasks. We consider the two largest now-available corpora for emotion classification: GoEmotions, with 58k messages labelled by readers, and Vent, with 33M writer-labelled messages. We design a benchmark and evaluate several feature spaces and learning algorithms, including two simple yet novel models on top of BERT that outperform previous strong baselines on GoEmotions. Through an experiment with human participants, we also analyze the differences between how writers express emotions and how readers perceive them. Our results suggest that emotions expressed by writers are harder to identify than emotions that readers perceive. We share a public web interface for researchers to explore our models.
+Author{1}{Firstname}#=%=#Nurudin
+Author{1}{Lastname}#=%=#Alvarez-Gonzalez
+Author{1}{Username}#=%=#nurag
+Author{1}{Email}#=%=#nuralgon@gmail.com
+Author{1}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{2}{Firstname}#=%=#Andreas
+Author{2}{Lastname}#=%=#Kaltenbrunner
+Author{2}{Email}#=%=#kaltenbrunner@gmail.com
+Author{2}{Affiliation}#=%=#ISI Foundation
+Author{3}{Firstname}#=%=#Vicenç
+Author{3}{Lastname}#=%=#Gómez
+Author{3}{Email}#=%=#vicen.gomez@upf.edu
+Author{3}{Affiliation}#=%=#Universitat Pompeu Fabra
+
+==========

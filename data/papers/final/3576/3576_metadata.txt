@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#3576
+FinalPaperTitle#=%=#Competency Problems: On Finding and Removing Artifacts in Language Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Matt Gardner
+JobTitle#==#
+Organization#==#
+Abstract#==#Much recent work in NLP has documented dataset artifacts, bias, and spurious correlations between input features and output labels.  However, how to tell which features have "spurious" instead of legitimate correlations is typically left unspecified.  In this work we argue that for complex language understanding tasks, all simple feature correlations are spurious, and we formalize this notion into a class of problems which we call competency problems.  For example, the word "amazing" on its own should not give information about a sentiment label independent of the context in which it appears, which could include negation, metaphor, sarcasm, etc.  We theoretically analyze the difficulty of creating data for competency problems when human bias is taken into account, showing that realistic datasets will increasingly deviate from competency problems as dataset size increases.  This analysis gives us a simple statistical test for dataset artifacts, which we use to show more subtle biases than were described in prior work, including demonstrating that models are inappropriately affected by these less extreme biases.  Our theoretical treatment of this problem also allows us to analyze proposed solutions, such as making local edits to dataset instances, and to give recommendations for future data collection and model design efforts that target competency problems.
+Author{1}{Firstname}#=%=#Matt
+Author{1}{Lastname}#=%=#Gardner
+Author{1}{Username}#=%=#mattg
+Author{1}{Email}#=%=#matthewjgardner1@gmail.com
+Author{2}{Firstname}#=%=#William
+Author{2}{Lastname}#=%=#Merrill
+Author{2}{Username}#=%=#lambdaviking
+Author{2}{Email}#=%=#vikingarnir.will@gmail.com
+Author{2}{Affiliation}#=%=#Allen Institute for AI
+Author{3}{Firstname}#=%=#Jesse
+Author{3}{Lastname}#=%=#Dodge
+Author{3}{Username}#=%=#dodgejesse
+Author{3}{Email}#=%=#dodgejesse@gmail.com
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Matthew
+Author{4}{Lastname}#=%=#Peters
+Author{4}{Username}#=%=#mattpeters
+Author{4}{Email}#=%=#matthewp@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{5}{Firstname}#=%=#Alexis
+Author{5}{Lastname}#=%=#Ross
+Author{5}{Username}#=%=#alexisjihyeross
+Author{5}{Email}#=%=#alexisr@allenai.org
+Author{5}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{6}{Firstname}#=%=#Sameer
+Author{6}{Lastname}#=%=#Singh
+Author{6}{Username}#=%=#sameer
+Author{6}{Email}#=%=#sameer@uci.edu
+Author{6}{Affiliation}#=%=#University of California, Irvine
+Author{7}{Firstname}#=%=#Noah A.
+Author{7}{Lastname}#=%=#Smith
+Author{7}{Username}#=%=#nasmith
+Author{7}{Email}#=%=#nasmith@cs.washington.edu
+Author{7}{Affiliation}#=%=#University of Washington
+
+==========

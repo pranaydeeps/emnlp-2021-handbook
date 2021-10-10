@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#872
+FinalPaperTitle#=%=#What Does Your Smile Mean? Jointly Detecting Multi-Modal Sarcasm and Sentiment Using Quantum Probability
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yaochen Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Sarcasm and sentiment embody intrinsic uncertainty of human cognition, making joint detection of multi-modal sarcasm and sentiment a challenging task. In view of the advantages of quantum probability (QP) in modeling such uncertainty, this paper explores the potential of QP as a mathematical framework and proposes a QP driven multi-task (QPM) learning framework. The QPM framework involves a complex-valued multi-modal representation encoder, a quantum-like fusion subnetwork and a quantum measurement mechanism. Each multi-modal (e.g., textual, visual) utterance is first encoded as a quantum superposition of a set of basis terms using a complex-valued representation. Then, the quantum-like fusion subnetwork leverages quantum state composition and quantum interference to model the contextual interaction between adjacent utterances and the correlations across modalities respectively. Finally, quantum incompatible measurements are performed on the multi-modal representation of each utterance to yield the probabilistic outcomes of sarcasm and sentiment recognition. The experimental results show that our model achieves a state-of-the-art performance.
+Author{1}{Firstname}#=%=#Yaochen
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liuyaochen7601@163.com
+Author{1}{Affiliation}#=%=#Beijing Institute of Technology
+Author{2}{Firstname}#=%=#Yazhou
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#asia361836
+Author{2}{Email}#=%=#yzhou_zhang@tju.edu.cn
+Author{2}{Affiliation}#=%=#Zhengzhou University of Light Industry
+Author{3}{Firstname}#=%=#Qiuchi
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#liqiuchi
+Author{3}{Email}#=%=#qiuchi.li@studenti.unipd.it
+Author{3}{Affiliation}#=%=#University of Padua
+Author{4}{Firstname}#=%=#Benyou
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Username}#=%=#waby
+Author{4}{Email}#=%=#wang@dei.unipd.it
+Author{4}{Affiliation}#=%=#University of Padova
+Author{5}{Firstname}#=%=#Dawei
+Author{5}{Lastname}#=%=#Song
+Author{5}{Email}#=%=#dawei.song2010@gmail.com
+Author{5}{Affiliation}#=%=#Beijing Institute of Technology
+
+==========

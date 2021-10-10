@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#929
+FinalPaperTitle#=%=#Discovering Representation Sprachbund For Multilingual Pre-Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Yimin Fan
+JobTitle#==#
+Organization#==#
+Abstract#==#Multilingual pre-trained models have demonstrated their effectiveness in many multilingual NLP tasks and enabled zero-shot or few-shot transfer from high-resource languages to low-resource ones. However, due to significant typological differences and contradictions between some languages, such models usually perform poorly on many languages and cross-lingual settings, which shows the difficulty of learning a  single model to handle massive diverse languages well at the same time. 
+To alleviate this issue, we present a new multilingual pre-training pipeline. We propose to generate language representation from multilingual pre-trained model and conduct linguistic analysis to show that language representation similarity reflects linguistic similarity from multiple perspectives, including language family, geographical sprachbund, lexicostatistics, and syntax.
+Then we cluster all the target languages into multiple groups and name each group as a representation sprachbund. Thus, languages in the same representation sprachbund are supposed to boost each other in both pre-training and fine-tuning as they share rich linguistic similarity.
+We pre-train one multilingual model for each representation sprachbund. Experiments are conducted on cross-lingual benchmarks and significant improvements are achieved compared to strong baselines.
+Author{1}{Firstname}#=%=#Yimin
+Author{1}{Lastname}#=%=#Fan
+Author{1}{Username}#=%=#yiminfan
+Author{1}{Email}#=%=#fym0503@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#University of Science and Technology of China
+Author{2}{Firstname}#=%=#Yaobo
+Author{2}{Lastname}#=%=#Liang
+Author{2}{Username}#=%=#eurekaliang
+Author{2}{Email}#=%=#yalia@microsoft.com
+Author{2}{Affiliation}#=%=#microsoft.com
+Author{3}{Firstname}#=%=#Alexandre
+Author{3}{Lastname}#=%=#Muzio
+Author{3}{Username}#=%=#alexandremuzio
+Author{3}{Email}#=%=#alferre@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Hany
+Author{4}{Lastname}#=%=#Hassan
+Author{4}{Username}#=%=#hanyh
+Author{4}{Email}#=%=#hanyh@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Houqiang
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#lihq
+Author{5}{Email}#=%=#lihq@ustc.edu.cn
+Author{5}{Affiliation}#=%=#University of Science and Technology of China
+Author{6}{Firstname}#=%=#Ming
+Author{6}{Lastname}#=%=#Zhou
+Author{6}{Username}#=%=#mingzhou926
+Author{6}{Email}#=%=#mingzhou926@hotmail.com
+Author{6}{Affiliation}#=%=#Sinovation Ventures
+Author{7}{Firstname}#=%=#Nan
+Author{7}{Lastname}#=%=#Duan
+Author{7}{Username}#=%=#nanduan
+Author{7}{Email}#=%=#nanduan@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft Research Asia
+
+==========

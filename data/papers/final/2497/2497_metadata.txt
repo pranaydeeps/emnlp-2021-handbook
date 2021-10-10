@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2497
+FinalPaperTitle#=%=#Adversarial Examples for Evaluating Math Word Problem Solvers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Vivek Kumar
+JobTitle#==#
+Organization#==#IIIT Hyderabad, Prof. CR Rao Rd, Gachibowli, Telangana, India
+Abstract#==#Standard accuracy metrics have shown that Math Word Problem (MWP) solvers have achieved high performance on benchmark datasets. However, the extent to which existing MWP solvers truly understand language and its relation with numbers is still unclear.  In this paper, we generate adversarial attacks to evaluate the robustness of state-of-the-art MWP solvers. We propose two methods, Question Reordering and Sentence Paraphrasing to generate adversarial attacks. We conduct experiments across three neural MWP solvers over two benchmark datasets. On average, our attack method is able to reduce the accuracy of MWP solvers by over 40% on these datasets. Our results demonstrate that existing MWP solvers are sensitive to linguistic variations in the problem text. We verify the validity and quality of generated adversarial examples through human evaluation.
+Author{1}{Firstname}#=%=#Vivek
+Author{1}{Lastname}#=%=#Kumar
+Author{1}{Username}#=%=#vivek.k
+Author{1}{Email}#=%=#vivek.k@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#IIIT Hyderabad, India
+Author{2}{Firstname}#=%=#Rishabh
+Author{2}{Lastname}#=%=#Maheshwary
+Author{2}{Username}#=%=#rishmahesh
+Author{2}{Email}#=%=#rishabh.maheshwary@research.iiit.ac.in
+Author{2}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad, India
+Author{3}{Firstname}#=%=#Vikram
+Author{3}{Lastname}#=%=#Pudi
+Author{3}{Username}#=%=#vikrampudi
+Author{3}{Email}#=%=#vikram@iiit.ac.in
+Author{3}{Affiliation}#=%=#IIIT Hyderabad
+
+==========

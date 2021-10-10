@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#92
+FinalPaperTitle#=%=#BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Philip Huebner
+JobTitle#==#
+Organization#==#University of Illinois at Urbana-Champaign
+Abstract#==#Transformer-based language models have taken the NLP world by storm. However, their potential for addressing important questions in language acquisition research has been largely ignored. In this work, we examined the grammatical knowledge of RoBERTa (Liu et al., 2019) when trained on a 5M word corpus of language acquisition data to simulate the input available to children between the ages 1 and 6. Using the behavioral probing paradigm, we found that a smaller version of RoBERTa-base that never predicts unmasked tokens, which we term BabyBERTa, acquires grammatical knowledge comparable to that of pre-trained RoBERTa-base - and does so with approximately 15X fewer parameters and 6,000X fewer words. We discuss implications for building more efficient models and the learnability of grammar from input available to children. Lastly, to support research on this front, we release our novel grammar test suite that is compatible with the small vocabulary of child-directed input.
+Author{1}{Firstname}#=%=#Philip A.
+Author{1}{Lastname}#=%=#Huebner
+Author{1}{Username}#=%=#phueb
+Author{1}{Email}#=%=#info@philhuebner.com
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Elior
+Author{2}{Lastname}#=%=#Sulem
+Author{2}{Username}#=%=#eliors
+Author{2}{Email}#=%=#eliors@seas.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Fisher
+Author{3}{Lastname}#=%=#Cynthia
+Author{3}{Username}#=%=#clfishe
+Author{3}{Email}#=%=#clfishe@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Roth
+Author{4}{Username}#=%=#danr
+Author{4}{Email}#=%=#danroth@seas.upenn.edu
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+
+==========

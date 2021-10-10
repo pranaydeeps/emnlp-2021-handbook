@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2520
+FinalPaperTitle#=%=#AEDA: An Easier Data Augmentation Technique for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Akbar Karimi
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper proposes AEDA (An Easier Data Augmentation) technique to help improve the performance on text classification tasks. AEDA includes only random insertion of punctuation marks into the original text. This is an easier technique to implement for data augmentation than EDA method (Wei and Zou, 2019) with which we compare our results. In addition, it keeps the order of the words while changing their positions in the sentence leading to a better generalized performance. Furthermore, the deletion operation in EDA can cause loss of information which, in turn, misleads the network, whereas AEDA preserves all the input information. Following the baseline, we perform experiments on five different datasets for text classification. We show that using the AEDA-augmented data for training, the models show superior performance compared to using the EDA-augmented data in all five datasets. The source code will be made available for further study and reproduction of the results.
+Author{1}{Firstname}#=%=#Akbar
+Author{1}{Lastname}#=%=#Karimi
+Author{1}{Username}#=%=#ak14
+Author{1}{Email}#=%=#akbar.karimi@unipr.it
+Author{1}{Affiliation}#=%=#University of Parma
+Author{2}{Firstname}#=%=#Leonardo
+Author{2}{Lastname}#=%=#Rossi
+Author{2}{Username}#=%=#leonardo.rossi
+Author{2}{Email}#=%=#leonardo.rossi@unipr.it
+Author{2}{Affiliation}#=%=#University of Parma
+Author{3}{Firstname}#=%=#Andrea
+Author{3}{Lastname}#=%=#Prati
+Author{3}{Username}#=%=#prati
+Author{3}{Email}#=%=#andrea.prati@unipr.it
+Author{3}{Affiliation}#=%=#University of Parma
+
+==========

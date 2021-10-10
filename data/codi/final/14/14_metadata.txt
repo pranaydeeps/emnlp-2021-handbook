@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#DMRST: A Joint Framework for Document-Level Multilingual RST Discourse Segmentation and Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhengyuan Liu
+JobTitle#==#
+Organization#==#Institute for Infocomm Research, A*STAR, 1 Fusionopolis Way, #21-01 Connexis, Singapore 138632
+Abstract#==#Text discourse parsing weighs importantly in understanding information flow and argumentative structure in natural language, making it beneficial for downstream tasks. While previous work significantly improves the performance of RST discourse parsing, they are not readily applicable to practical use cases: (1) EDU segmentation is not integrated into most existing tree parsing frameworks, thus it is not straightforward to apply such models on newly-coming data. (2) Most parsers cannot be used in multilingual scenarios, because they are developed only in English. (3) Parsers trained from single-domain treebanks do not generalize well on out-of-domain inputs. In this work, we propose a document-level multilingual RST discourse parsing framework, which conducts EDU segmentation and discourse tree parsing jointly. Moreover, we propose a cross-translation augmentation strategy to enable the framework to support multilingual parsing and improve its domain generality. Experimental results show that our model achieves state-of-the-art performance on document-level multilingual RST parsing in all sub-tasks.
+Author{1}{Firstname}#=%=#Zhengyuan
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#liuzhengyuan
+Author{1}{Email}#=%=#liu_zhengyuan@i2r.a-star.edu.sg
+Author{1}{Affiliation}#=%=#Institute for Infocomm Research, A*STAR
+Author{2}{Firstname}#=%=#Ke
+Author{2}{Lastname}#=%=#Shi
+Author{2}{Username}#=%=#shike_nlp
+Author{2}{Email}#=%=#shi_ke@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research, A*STAR
+Author{3}{Firstname}#=%=#Nancy
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#nfychen
+Author{3}{Email}#=%=#nancychen@alum.mit.edu
+Author{3}{Affiliation}#=%=#Institute for Infocomm Research, A*STAR
+
+==========

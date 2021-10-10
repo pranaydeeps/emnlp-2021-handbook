@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2734
+FinalPaperTitle#=%=#Stepmothers are mean and academics are pretentious: What do pretrained language models learn about you?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Rochelle Choenni
+JobTitle#==#
+Organization#==#University of Amsterdam
+Abstract#==#In this paper, we investigate what types of stereotypical information are captured by pretrained language models. We present the first dataset comprising stereotypical attributes of a range of social groups and propose a method to elicit stereotypes encoded by pretrained language models in an unsupervised fashion. Moreover, we link the emergent stereotypes to their manifestation as basic emotions as a means to study their emotional effects in a more generalized manner. To demonstrate how our methods can be used to analyze emotion and stereotype shifts due to linguistic experience, we use fine-tuning on news sources as a case study. Our experiments expose how attitudes towards different social groups vary across models and how quickly emotions and stereotypes can shift at the fine-tuning stage.
+Author{1}{Firstname}#=%=#Rochelle
+Author{1}{Lastname}#=%=#Choenni
+Author{1}{Username}#=%=#rochellechoenni
+Author{1}{Email}#=%=#rmvk97@gmail.com
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Ekaterina
+Author{2}{Lastname}#=%=#Shutova
+Author{2}{Username}#=%=#katia
+Author{2}{Email}#=%=#shutova.e@gmail.com
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Robert
+Author{3}{Lastname}#=%=#van Rooij
+Author{3}{Username}#=%=#rvrooij1
+Author{3}{Email}#=%=#r.a.m.vanrooij@uva.nl
+Author{3}{Affiliation}#=%=#Institute for Logic, Language and Computation
+
+==========

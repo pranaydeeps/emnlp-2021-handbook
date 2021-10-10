@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#158
+FinalPaperTitle#=%=#Improving Embedding-based Large-scale Retrieval via Label Enhancement
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Peiyang Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Current embedding-based large-scale retrieval models are trained with 0-1 hard label that indicates whether a query is relevant to a document, ignoring rich information of the relevance degree. This paper proposes to improve embedding-based retrieval from the perspective of better characterizing the query-document relevance degree by introducing label enhancement (LE) for the first time. To generate label distribution in the retrieval scenario, we design a novel and effective supervised LE method that incorporates prior knowledge from dynamic term weighting methods into contextual embeddings.  Our method significantly outperforms four competitive existing retrieval models and its counterparts equipped with two alternative LE techniques by training models with the generated label distribution as auxiliary supervision information. The superiority can be easily observed on English and Chinese large-scale retrieval tasks under both standard and cold-start settings.
+Author{1}{Firstname}#=%=#Peiyang
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#ttv56
+Author{1}{Email}#=%=#478220635@qq.com
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Xi
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#xixi5629
+Author{2}{Email}#=%=#1124765437@qq.com
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Sen
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#wangsenai
+Author{3}{Email}#=%=#4144239@163.com
+Author{3}{Affiliation}#=%=#alibaba
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Ye
+Author{4}{Username}#=%=#yeweiedu
+Author{4}{Email}#=%=#weiyeedu@163.com
+Author{4}{Affiliation}#=%=#alibaba
+Author{5}{Firstname}#=%=#Xiangyu
+Author{5}{Lastname}#=%=#Xi
+Author{5}{Email}#=%=#4144239@163.com
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Shikun
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#zhangshikunai
+Author{6}{Email}#=%=#zhangshikunai@163.com
+Author{6}{Affiliation}#=%=#peking university
+
+==========

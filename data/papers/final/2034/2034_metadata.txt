@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2034
+FinalPaperTitle#=%=#Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Jing Lu
+JobTitle#==#
+Organization#==#
+Abstract#==#In the context of neural passage retrieval, we study three promising techniques: synthetic data generation, negative sampling, and fusion. We systematically investigate how these techniques contribute to the performance of the retrieval system and how they complement each other. We propose a multi-stage framework comprising of pre-training with synthetic data, fine-tuning with labeled data, and negative sampling at both stages. We study six negative sampling strategies and apply them to the fine-tuning stage and, as a noteworthy novelty, to the synthetic data that we use for pre-training. Also, we explore fusion methods that combine negatives from different strategies. We evaluate our system using two passage retrieval tasks for open-domain QA and using MS MARCO. Our experiments show that augmenting the negative contrast in both stages is effective to improve passage retrieval accuracy and, importantly, they also show that synthetic data generation and negative sampling have additive benefits. Moreover, using the fusion of different kinds allows us to reach performance that establishes a new state-of-the-art level in two of the tasks we evaluated.
+Author{1}{Firstname}#=%=#Jing
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Username}#=%=#ljwinnie
+Author{1}{Email}#=%=#jxl125430@utdallas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Dallas
+Author{2}{Firstname}#=%=#Gustavo
+Author{2}{Lastname}#=%=#Hernandez Abrego
+Author{2}{Username}#=%=#gustavoha
+Author{2}{Email}#=%=#gustavoha@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Ji
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Username}#=%=#majineu
+Author{3}{Email}#=%=#maji@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Jianmo
+Author{4}{Lastname}#=%=#Ni
+Author{4}{Username}#=%=#nijianmo
+Author{4}{Email}#=%=#jianmon@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Yinfei
+Author{5}{Lastname}#=%=#Yang
+Author{5}{Username}#=%=#yinfeiy
+Author{5}{Email}#=%=#yangyin7@gmail.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

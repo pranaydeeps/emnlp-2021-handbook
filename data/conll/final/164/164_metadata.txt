@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#164
+FinalPaperTitle#=%=#Cross-document Event Identity via Dense Annotation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#22
+CopyrightSigned#=%=#Adithya Pratapa
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we study the identity of textual events from different documents. While the complex nature of event identity is previously studied (Hovy et al., 2013), the case of events across documents is unclear. Prior work on cross-document event coreference has two main drawbacks. First, they restrict the annotations to a limited set of event types. Second, they insufficiently tackle the concept of event identity.  Such annotation setup reduces the pool of event mentions and prevents one from considering the possibility of quasi-identity relations. We propose a dense annotation approach for cross-document event coreference, comprising a rich source of event mentions and a dense annotation effort between related document pairs. To this end, we design a new annotation workflow with careful quality control and an easy-to-use annotation interface. In addition to the links, we further collect overlapping event contexts, including time, location, and participants, to shed some light on the relation between identity decisions and context. We present an open-access dataset for cross-document event coreference, CDEC-WN, collected from English Wikinews and open-source our annotation toolkit to encourage further research on cross-document tasks.
+Author{1}{Firstname}#=%=#Adithya
+Author{1}{Lastname}#=%=#Pratapa
+Author{1}{Username}#=%=#adithyapratapa
+Author{1}{Email}#=%=#adithyapratapa@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Zhengzhong
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#hunterhector
+Author{2}{Email}#=%=#liu@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University; Petuum INC.
+Author{3}{Firstname}#=%=#Kimihiro
+Author{3}{Lastname}#=%=#Hasegawa
+Author{3}{Username}#=%=#kimi
+Author{3}{Email}#=%=#kimihiro@andrew.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Linwei
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lilinwei
+Author{4}{Email}#=%=#henry.linwei.li@outlook.com
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Yukari
+Author{5}{Lastname}#=%=#Yamakawa
+Author{5}{Username}#=%=#ltieventgroup
+Author{5}{Email}#=%=#yukari747@gmail.com
+Author{5}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{6}{Firstname}#=%=#Shikun
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Username}#=%=#shikunzhang
+Author{6}{Email}#=%=#shikunz@andrew.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+Author{7}{Firstname}#=%=#Teruko
+Author{7}{Lastname}#=%=#Mitamura
+Author{7}{Username}#=%=#teruko
+Author{7}{Email}#=%=#teruko@cs.cmu.edu
+Author{7}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#799
+FinalPaperTitle#=%=#Learning Hard Retrieval Decoder Attention for Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hongfei Xu
+JobTitle#==#
+Organization#==#DFKI and Saarland University, Informatics Campus, Saarland, Germany
+Abstract#==#The Transformer translation model is based on the multi-head attention mechanism, which can be parallelized easily. The multi-head attention network performs the scaled dot-product attention function in parallel, empowering the model by jointly attending to information from different representation subspaces at different positions. In this paper, we present an approach to learning a hard retrieval attention where an attention head only attends to one token in the sentence rather than all tokens. The matrix multiplication between attention probabilities and the value sequence in the standard scaled dot-product attention can thus be replaced by a simple and efficient retrieval operation. We show that our hard retrieval attention mechanism is 1.43 times faster in decoding, while preserving translation quality on a wide range of machine translation tasks when used in the decoder self- and cross-attention networks.
+Author{1}{Firstname}#=%=#Hongfei
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#ano
+Author{1}{Email}#=%=#hfxunlp@foxmail.com
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Qiuhui
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#qhliu
+Author{2}{Email}#=%=#liuqhano@foxmail.com
+Author{2}{Affiliation}#=%=#China Mobile Online Services
+Author{3}{Firstname}#=%=#Josef
+Author{3}{Lastname}#=%=#van Genabith
+Author{3}{Username}#=%=#josefvangenabith
+Author{3}{Email}#=%=#josef.van_genabith@dfki.de
+Author{3}{Affiliation}#=%=#DFKI
+Author{4}{Firstname}#=%=#Deyi
+Author{4}{Lastname}#=%=#Xiong
+Author{4}{Username}#=%=#dyxiong
+Author{4}{Email}#=%=#dyxiong@tju.edu.cn
+Author{4}{Affiliation}#=%=#Tianjin University
+
+==========

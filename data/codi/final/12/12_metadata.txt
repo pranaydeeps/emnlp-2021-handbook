@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Resolving Implicit References in Instructional Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Talita Anthonio
+JobTitle#==#
+Organization#==#Pfaffenwaldring 5b
+70569 Stuttgart
+Germany
+Abstract#==#The usage of (co-)referring expressions in discourse contributes to the coherence of a text.
+However, text comprehension can be difficult when referring expressions are non-verbalized
+and have to be resolved in the discourse context. In this paper, we propose a novel dataset of such implicit references, which we automatically derive from insertions of references in collaboratively edited how-to guides. Our dataset consists of 6,014 instances, making it one of the largest datasets of implicit references and a useful starting point to investigate misunderstandings caused by underspecified language. We test different methods for resolving implicit references in our dataset based on the Generative Pre-trained Transformer model (GPT) and compare them to heuristic baselines. Our experiments indicate that GPT can accurately resolve the majority of implicit references in our data. Finally, we investigate remaining errors and examine human preferences regarding different resolutions of an implicit reference given the discourse context.
+Author{1}{Firstname}#=%=#Talita
+Author{1}{Lastname}#=%=#Anthonio
+Author{1}{Username}#=%=#talitaanthonio
+Author{1}{Email}#=%=#anthonta@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#University of Stuttgart
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Roth
+Author{2}{Username}#=%=#microth
+Author{2}{Email}#=%=#rothml@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#University of Stuttgart
+
+==========

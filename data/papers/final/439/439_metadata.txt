@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#439
+FinalPaperTitle#=%=#Generation and Extraction Combined Dialogue State Tracking with Hierarchical Ontology Integration
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Xinmeng Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Recently, the focus of dialogue state tracking has expanded from single domain to multiple domains. The task is characterized by the shared slots between domains. As the scenario gets more complex, the out-of-vocabulary problem also becomes severer. Current models are not satisfactory for solving the challenges of ontology integration between domains and out-of-vocabulary problems. To address the problem, we explore the hierarchical semantic of ontology and enhance the interrelation between slots with masked hierarchical attention. In state value decoding stage, we solve the out-of-vocabulary problem by combining generation method and extraction method together. We evaluate the performance of our model on two representative datasets, MultiWOZ in English and CrossWOZ in Chinese. The results show that our model yields a significant performance gain over current state-of-the-art state tracking model and it is more robust to out-of-vocabulary problem compared with other methods.
+Author{1}{Firstname}#=%=#Xinmeng
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#lixinmeng
+Author{1}{Email}#=%=#xml.nudt@gmail.com
+Author{1}{Affiliation}#=%=#College of Systems Engineering, National University of Defense Technology
+Author{2}{Firstname}#=%=#Qian
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#liqian2020
+Author{2}{Email}#=%=#liqian9510@outlook.com
+Author{2}{Affiliation}#=%=#College of Systems Engineering, National University of Defense Technology
+Author{3}{Firstname}#=%=#Wansen
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Username}#=%=#wuwansen14
+Author{3}{Email}#=%=#wuwansen14@nudt.edu.cn
+Author{3}{Affiliation}#=%=#National University of  Defense Technology
+Author{4}{Firstname}#=%=#Quanjun
+Author{4}{Lastname}#=%=#Yin
+Author{4}{Username}#=%=#yinquanjun
+Author{4}{Email}#=%=#yinquanjun@nudt.edu.cn
+Author{4}{Affiliation}#=%=#College of Systems Engineering, National University of Defense Technology
+
+==========

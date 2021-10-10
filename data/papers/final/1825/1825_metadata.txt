@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1825
+FinalPaperTitle#=%=#{DIRECT}: Direct and Indirect Responses in Conversational Text Corpus
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Junya Takayama
+JobTitle#==#
+Organization#==#
+Abstract#==#We create a large-scale dialogue corpus that provides pragmatic paraphrases to advance technology for understanding the underlying intentions of users. 
+While neural conversation models acquire the ability to generate fluent responses through training on a dialogue corpus, previous corpora have mainly focused on the literal meanings of utterances. 
+However, in reality, people do not always present their intentions directly.
+For example, if a person said to the operator of a reservation service "I don't have enough budget.", they, in fact, mean "please find a cheaper option for me."
+Our corpus provides a total of 71,498 indirect--direct utterance pairs accompanied by a multi-turn dialogue history extracted from the MultiWoZ dataset. 
+In addition, we propose three tasks to benchmark the ability of models to recognize and generate indirect and direct utterances. 
+We also investigated the performance of state-of-the-art pre-trained models as baselines.
+Author{1}{Firstname}#=%=#Junya
+Author{1}{Lastname}#=%=#Takayama
+Author{1}{Username}#=%=#tkym1220
+Author{1}{Email}#=%=#takayama.junya@ist.osaka-u.ac.jp
+Author{1}{Affiliation}#=%=#Osaka University
+Author{2}{Firstname}#=%=#Tomoyuki
+Author{2}{Lastname}#=%=#Kajiwara
+Author{2}{Username}#=%=#moguranosenshi
+Author{2}{Email}#=%=#kajiwara@cs.ehime-u.ac.jp
+Author{2}{Affiliation}#=%=#Ehime University
+Author{3}{Firstname}#=%=#Yuki
+Author{3}{Lastname}#=%=#Arase
+Author{3}{Username}#=%=#yukiar
+Author{3}{Email}#=%=#arase@ist.osaka-u.ac.jp
+Author{3}{Affiliation}#=%=#Osaka University
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4169
+FinalPaperTitle#=%=#Transferable Persona-Grounded Dialogues via Grounded Minimal Edits
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Chen Wu
+JobTitle#==#
+Organization#==#
+Abstract#==#Grounded dialogue models generate responses that are grounded on certain concepts. Limited by the distribution of grounded dialogue data, models trained on such data face the \textit{transferability} challenges in terms of the data distribution and the type of grounded concepts. To address the challenges, we propose the \textit{grounded minimal editing} framework, which minimally edits existing responses to be grounded on the given concept. Focusing on personas, we propose Grounded Minimal Editor (GME), which learns to edit by disentangling and recombining persona-related and persona-agnostic parts of the response. To evaluate persona-grounded minimal editing, we present the \textsc{PersonaMi-nEdit} dataset, and experimental results show that GME outperforms competitive baselines by a large margin. To evaluate the transferability, we experiment on the test set of \textsc{BlendedSkillTalk} and show that GME can edit dialogue models' responses to largely improve their persona consistency while preserving the use of knowledge and empathy.
+Author{1}{Firstname}#=%=#Chen Henry
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Username}#=%=#chenwu
+Author{1}{Email}#=%=#henrychenwu@cmu.edu
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Yinhe
+Author{2}{Lastname}#=%=#Zheng
+Author{2}{Username}#=%=#zhengyinhe
+Author{2}{Email}#=%=#zhengyinhe1@163.com
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Xiaoxi
+Author{3}{Lastname}#=%=#Mao
+Author{3}{Username}#=%=#maoxiaoxi
+Author{3}{Email}#=%=#maoxiaoxi@corp.netease.com
+Author{3}{Affiliation}#=%=#Netease Fuxi AI Lab
+Author{4}{Firstname}#=%=#Minlie
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Username}#=%=#aihuang
+Author{4}{Email}#=%=#huangminlie@126.com
+Author{4}{Affiliation}#=%=#Tsinghua University
+
+==========

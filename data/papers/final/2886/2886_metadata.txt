@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2886
+FinalPaperTitle#=%=#Automatic rule generation for time expression normalization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Wentao Ding
+JobTitle#==#
+Organization#==#Nanjing University, Nanjing, Jiangsu, China
+Abstract#==#The understanding of time expressions includes two sub-tasks: recognition and normalization. In recent years, significant progress has been made in the recognition of time expressions while research on normalization has lagged behind. Existing SOTA normalization methods highly rely on rules or grammars designed by experts, which limits their performance on emerging corpora, such as social media texts. In this paper, we model time expression normalization as a sequence of operations to construct the normalized temporal value, and we present a novel method called ARTime, which can automatically generate normalization rules from training data without expert interventions. Specifically, ARTime automatically captures possible operation sequences from annotated data and generates normalization rules on time expressions with common surface forms. The experimental results show that ARTime can significantly surpass SOTA methods on the Tweets benchmark, and achieves competitive results with existing expert-engineered rule methods on the TempEval-3 benchmark.
+Author{1}{Firstname}#=%=#Wentao
+Author{1}{Lastname}#=%=#Ding
+Author{1}{Username}#=%=#adder
+Author{1}{Email}#=%=#wtding@smail.nju.edu.cn
+Author{1}{Affiliation}#=%=#Nanjing University
+Author{2}{Firstname}#=%=#Jianhao
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#cjh.nju
+Author{2}{Email}#=%=#jh_chen@smail.nju.edu.cn
+Author{2}{Affiliation}#=%=#Nanjing University
+Author{3}{Firstname}#=%=#Jinmao
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#jmli
+Author{3}{Email}#=%=#jmli@smail.nju.edu.cn
+Author{3}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{4}{Firstname}#=%=#Yuzhong
+Author{4}{Lastname}#=%=#Qu
+Author{4}{Username}#=%=#yzqu2
+Author{4}{Email}#=%=#yzqu@nju.edu.cn
+Author{4}{Affiliation}#=%=#Nanjing University
+
+==========

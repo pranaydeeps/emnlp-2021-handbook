@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#67
+FinalPaperTitle#=%=#Think Before You Speak: Learning to Generate Implicit Knowledge for Response Generation by Self-Talk
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Pei Zhou
+JobTitle#==#
+Organization#==#
+Abstract#==#Humans make appropriate responses not only based on previous dialogue utterances but also on implicit background knowledge such as common sense. Although neural response generation models seem to produce human-like responses, they are mostly end-to-end and not generating intermediate grounds between a dialogue history and responses. This work aims to study if and how we can train an RG model that talks with itself to generate implicit knowledge before making responses. We further investigate can such models identify when to generate implicit background knowledge and when it is not necessary. Experimental results show that compared with models that directly generate responses given a dialogue history, self-talk models produce better-quality responses according to human evaluation on grammaticality, coherence, and engagingness. And models that are trained to identify when to self-talk further improves the response quality. Analysis on generated implicit knowledge shows that models mostly use the knowledge appropriately in the responses.
+Author{1}{Firstname}#=%=#Pei
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Username}#=%=#shaoxia57
+Author{1}{Email}#=%=#peiz@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Behnam
+Author{2}{Lastname}#=%=#Hedayatnia
+Author{2}{Username}#=%=#bhedayat
+Author{2}{Email}#=%=#behnam@amazon.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Karthik
+Author{3}{Lastname}#=%=#Gopalakrishnan
+Author{3}{Username}#=%=#karthgop
+Author{3}{Email}#=%=#karthgop@amazon.com
+Author{3}{Affiliation}#=%=#Amazon Alexa AI
+Author{4}{Firstname}#=%=#Seokhwan
+Author{4}{Lastname}#=%=#Kim
+Author{4}{Username}#=%=#megaup
+Author{4}{Email}#=%=#seokhwk@amazon.com
+Author{4}{Affiliation}#=%=#Amazon Alexa AI
+Author{5}{Firstname}#=%=#Jay
+Author{5}{Lastname}#=%=#Pujara
+Author{5}{Username}#=%=#puuj
+Author{5}{Email}#=%=#jay@cs.umd.edu
+Author{5}{Affiliation}#=%=#University of Southern California
+Author{6}{Firstname}#=%=#Xiang
+Author{6}{Lastname}#=%=#Ren
+Author{6}{Username}#=%=#xren7
+Author{6}{Email}#=%=#xiangren@usc.edu
+Author{6}{Affiliation}#=%=#University of Southern California
+Author{7}{Firstname}#=%=#Yang
+Author{7}{Lastname}#=%=#Liu
+Author{7}{Username}#=%=#yangliu00
+Author{7}{Email}#=%=#yang.yangl@gmail.com
+Author{7}{Affiliation}#=%=#Amazon
+Author{8}{Firstname}#=%=#Dilek
+Author{8}{Lastname}#=%=#Hakkani-Tur
+Author{8}{Username}#=%=#dilekha
+Author{8}{Email}#=%=#dilek@ieee.org
+Author{8}{Affiliation}#=%=#Amazon Alexa AI
+
+==========

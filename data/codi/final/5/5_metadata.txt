@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Tracing variation in discourse connectives in translation and interpreting through neural semantic spaces
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Ekaterina Lapshinova
+JobTitle#==#
+Organization#==#Saarland University, Saarbrücken, Germany
+Abstract#==#In the present paper, we explore lexical contexts of discourse markers in translation and interpreting on the basis of word embeddings. Our special interest is on contextual variation of the same discourse markers in (written) translation  vs. (simultaneous) interpreting. To explore this variation at the lexical level, we use a data-driven approach: we compare bilingual neural word embeddings trained on source-to-translation and source-to-interpreting aligned corpora. Our results show more variation of semantically related items in translation spaces vs. interpreting ones and a more consistent use of fewer connectives in interpreting. We also observe different trends with regard to the discourse relation types.
+Author{1}{Firstname}#=%=#Ekaterina
+Author{1}{Lastname}#=%=#Lapshinova-Koltunski
+Author{1}{Username}#=%=#ekaterina
+Author{1}{Email}#=%=#e.lapshinova@mx.uni-saarland.de
+Author{1}{Affiliation}#=%=#Universität des Saarlandes
+Author{2}{Firstname}#=%=#Heike
+Author{2}{Lastname}#=%=#Przybyl
+Author{2}{Email}#=%=#heike.przybyl@uni-saarland.de
+Author{2}{Affiliation}#=%=#Universität des Saarlandes
+Author{3}{Firstname}#=%=#Yuri
+Author{3}{Lastname}#=%=#Bizzoni
+Author{3}{Username}#=%=#yub
+Author{3}{Email}#=%=#yuri.bizzoni@uni-saarland.de
+Author{3}{Affiliation}#=%=#University of Saarland
+
+==========

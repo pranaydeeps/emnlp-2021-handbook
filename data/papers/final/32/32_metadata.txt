@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#Self-supervised Contrastive Cross-Modality Representation Learning for Spoken Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Chenyu You
+JobTitle#==#
+Organization#==#
+Abstract#==#Spoken question answering (SQA) requires fine-grained understanding of both spoken documents and  questions for the optimal answer prediction. In this paper, we propose novel training schemes  for spoken question answering with a self-supervised training stage and a contrastive representation learning stage. In the self-supervised stage, we propose three auxiliary self-supervised tasks, including utterance restoration, utterance insertion, and question discrimination, and jointly train the model to capture consistency and coherence among speech documents without any additional data or annotations. We then propose to learn noise-invariant utterance representations in a contrastive objective by adopting multiple augmentation strategies, including span deletion and span substitution. Besides, we design a Temporal-Alignment attention to semantically align the speech-text clues in the learned common space and benefit the SQA tasks. By this means, the training schemes can more effectively guide the generation model to predict more proper answers. Experimental results show that our model achieves state-of-the-art results on three SQA benchmarks. Our code will be publicly available after publication.
+Author{1}{Firstname}#=%=#Chenyu
+Author{1}{Lastname}#=%=#You
+Author{1}{Username}#=%=#chenyu.you
+Author{1}{Email}#=%=#chenyu.you@yale.edu
+Author{1}{Affiliation}#=%=#Yale University
+Author{2}{Firstname}#=%=#Nuo
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#promise
+Author{2}{Email}#=%=#1901213079@pku.edu.cn
+Author{2}{Affiliation}#=%=#SECE
+Author{3}{Firstname}#=%=#Yuexian
+Author{3}{Lastname}#=%=#Zou
+Author{3}{Username}#=%=#yuexianzou
+Author{3}{Email}#=%=#1901213130@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

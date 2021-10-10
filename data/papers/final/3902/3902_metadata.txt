@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3902
+FinalPaperTitle#=%=#Analyzing the Surprising Variability in Word Embedding Stability Across Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Laura Burdick
+JobTitle#==#
+Organization#==#
+Abstract#==#Word embeddings are powerful representations that form the foundation of many natural language processing architectures, both in English and in other languages. To gain further insight into word embeddings, we explore their stability (e.g., overlap between the nearest neighbors of a word in different embedding spaces) in diverse languages. We discuss linguistic properties that are related to stability, drawing out insights about correlations with affixing, language gender systems, and other features. This has implications for embedding use, particularly in research that uses them to study language trends.
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Burdick
+Author{1}{Username}#=%=#wenlaura
+Author{1}{Email}#=%=#lburdick@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Jonathan K.
+Author{2}{Lastname}#=%=#Kummerfeld
+Author{2}{Username}#=%=#jkk
+Author{2}{Email}#=%=#jkummerf@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Rada
+Author{3}{Lastname}#=%=#Mihalcea
+Author{3}{Username}#=%=#rada
+Author{3}{Email}#=%=#mihalcea@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan
+
+==========

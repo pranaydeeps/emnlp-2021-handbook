@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#2283
+FinalPaperTitle#=%=#Layer-wise Model Pruning based on Mutual Information
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jiwei Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Inspired by mutual information (MI) based feature selection in SVMs and logistic regression, in this paper, we propose MI-based layer-wise pruning: for each layer of a multi-layer neural network, neurons with higher values of MI with respect to preserved neurons in the upper   layer are preserved. Starting from the top softmax layer, layer-wise pruning proceeds in a top-down fashion until reaching the bottom word embedding layer. The proposed pruning strategy offers  merits over weight-based pruning techniques: (1) it avoids irregular memory access since representations  and matrices can be squeezed into their smaller but dense counterparts, leading to  greater speedup; (2) in a manner of top-down pruning, the proposed method operates from a more global perspective based on training signals in the top layer, and prunes each layer by propagating the effect of global signals through  layers, leading to better performances at the same sparsity level. Extensive experiments show that at the same sparsity level, the proposed  strategy offers both greater speedup and higher performances than  weight-based pruning methods (e.g., magnitude pruning, movement pruning).
+Author{1}{Firstname}#=%=#Chun
+Author{1}{Lastname}#=%=#Fan
+Author{1}{Username}#=%=#fanchun
+Author{1}{Email}#=%=#fanchun@pku.edu.cn
+Author{1}{Affiliation}#=%=#Computer Center of Peking University
+Author{2}{Firstname}#=%=#Jiwei
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#bdlijiwei
+Author{2}{Email}#=%=#jiwei_li@shannonai.com
+Author{2}{Affiliation}#=%=#Shannon.AI
+Author{3}{Firstname}#=%=#Tianwei
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#tianweiz
+Author{3}{Email}#=%=#tianwei.zhang@ntu.edu.sg
+Author{3}{Affiliation}#=%=#Nanyang Technological University
+Author{4}{Firstname}#=%=#Xiang
+Author{4}{Lastname}#=%=#Ao
+Author{4}{Username}#=%=#aoxiang
+Author{4}{Email}#=%=#aoxiang@ict.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Fei
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Username}#=%=#wufeizju
+Author{5}{Email}#=%=#wufei@zju.edu.cn
+Author{5}{Affiliation}#=%=#Zhejiang University
+Author{6}{Firstname}#=%=#Yuxian
+Author{6}{Lastname}#=%=#Meng
+Author{6}{Username}#=%=#yuxian
+Author{6}{Email}#=%=#mengyuxian@pku.edu.cn
+Author{6}{Affiliation}#=%=#Shannon.AI
+Author{7}{Firstname}#=%=#Xiaofei
+Author{7}{Lastname}#=%=#Sun
+Author{7}{Username}#=%=#adoni1203
+Author{7}{Email}#=%=#xiaofei_sun@shannonai.com
+Author{7}{Affiliation}#=%=#Shannon.AI
+
+==========

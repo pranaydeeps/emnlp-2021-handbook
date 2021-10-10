@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#3098
+FinalPaperTitle#=%=#PhoMT: A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Dat Quoc Nguyen
+JobTitle#==#
+Organization#==#VinAI Research, Hanoi, Vietnam
+Abstract#==#We introduce a high-quality and large-scale Vietnamese-English parallel dataset of 3.02M sentence pairs, which is 2.9M pairs larger than the benchmark Vietnamese-English machine translation corpus IWSLT15. We conduct experiments comparing strong neural baselines and well-known automatic translation engines on our dataset and find that in both automatic and human evaluations: the best performance is obtained by fine-tuning the pre-trained sequence-to-sequence denoising auto-encoder mBART. To our best knowledge, this is the first large-scale Vietnamese-English machine translation study. We hope our publicly available dataset and study can serve as a starting point for future research and applications on Vietnamese-English machine translation. We release our dataset at: https://github.com/VinAIResearch/PhoMT
+Author{1}{Firstname}#=%=#Long
+Author{1}{Lastname}#=%=#Doan
+Author{1}{Email}#=%=#v.longdct@vinai.io
+Author{1}{Affiliation}#=%=#VinAI Research
+Author{2}{Firstname}#=%=#Linh The
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#v.linhnt140@vinai.io
+Author{2}{Affiliation}#=%=#VinAI Research
+Author{3}{Firstname}#=%=#Nguyen Luong
+Author{3}{Lastname}#=%=#Tran
+Author{3}{Email}#=%=#v.nguyentl12@vinai.io
+Author{3}{Affiliation}#=%=#VinAI Research
+Author{4}{Firstname}#=%=#Thai
+Author{4}{Lastname}#=%=#Hoang
+Author{4}{Username}#=%=#qthai912
+Author{4}{Email}#=%=#quocthai9120@gmail.com
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Dat Quoc
+Author{5}{Lastname}#=%=#Nguyen
+Author{5}{Username}#=%=#dqnguyen
+Author{5}{Email}#=%=#datquocnguyen@gmail.com
+Author{5}{Affiliation}#=%=#VinAI Research
+
+==========

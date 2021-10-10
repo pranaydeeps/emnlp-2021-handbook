@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#78
+FinalPaperTitle#=%=#An Investigation of Language Model Interpretability via Sentence Editing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Samuel Stevens
+JobTitle#==#
+Organization#==#The Ohio State University
+281 W Lane Ave
+Columbus, OH 43210
+Abstract#==#Pre-trained language models (PLMs) like BERT are being used for almost all language-related tasks, but interpreting their behavior still remains a significant challenge and many important questions remain largely unanswered. In this work, we re-purpose a sentence editing dataset, where faithful high-quality human rationales can be automatically extracted and compared with extracted model rationales, as a new testbed for interpretability. This enables us to conduct a systematic investigation on an array of questions regarding PLMs' interpretability, including the role of pre-training procedure, comparison of rationale extraction methods, and different layers in the PLM. The investigation generates new insights, for example, contrary to the common understanding, we find that attention weights correlate well with human rationales and work better than gradient-based saliency in extracting model rationales. Both the dataset and code will be released to facilitate future interpretability research.
+Author{1}{Firstname}#=%=#Samuel
+Author{1}{Lastname}#=%=#Stevens
+Author{1}{Username}#=%=#samuelstevens
+Author{1}{Email}#=%=#stevens.994@osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Yu
+Author{2}{Lastname}#=%=#Su
+Author{2}{Username}#=%=#suyu1989
+Author{2}{Email}#=%=#su.809@osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+
+==========

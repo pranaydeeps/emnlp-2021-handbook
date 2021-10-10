@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2845
+FinalPaperTitle#=%=#Knowledge-Enhanced Evidence Retrieval for Counterargument Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Yohan Jo
+JobTitle#==#
+Organization#==#
+Abstract#==#Finding counterevidence to statements is key to many tasks, including counterargument generation. We build a system that, given a statement, retrieves counterevidence from diverse sources on the Web. At the core of this system is a natural language inference (NLI) model that determines whether a candidate sentence is valid counterevidence or not. Most NLI models to date, however, lack proper reasoning abilities necessary to find counterevidence that involves complex inference. Thus, we present a knowledge-enhanced NLI model that aims to handle causality- and example-based inference by incorporating knowledge graphs. Our NLI model outperforms baselines for NLI tasks, especially for instances that require the targeted inference. In addition, this NLI model further improves the counterevidence retrieval system, notably finding complex counterevidence better.
+Author{1}{Firstname}#=%=#Yohan
+Author{1}{Lastname}#=%=#Jo
+Author{1}{Username}#=%=#yohanj
+Author{1}{Email}#=%=#yohanj@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Haneul
+Author{2}{Lastname}#=%=#Yoo
+Author{2}{Username}#=%=#haneul-yoo
+Author{2}{Email}#=%=#haneul.yoo@kaist.ac.kr
+Author{2}{Affiliation}#=%=#KAIST
+Author{3}{Firstname}#=%=#JinYeong
+Author{3}{Lastname}#=%=#Bak
+Author{3}{Username}#=%=#nosyu
+Author{3}{Email}#=%=#jy.bak@skku.edu
+Author{3}{Affiliation}#=%=#Sungkyunkwan University
+Author{4}{Firstname}#=%=#Alice
+Author{4}{Lastname}#=%=#Oh
+Author{4}{Username}#=%=#alice.oh
+Author{4}{Email}#=%=#alice.oh@kaist.edu
+Author{4}{Affiliation}#=%=#KAIST
+Author{5}{Firstname}#=%=#Chris
+Author{5}{Lastname}#=%=#Reed
+Author{5}{Username}#=%=#c.a.reed
+Author{5}{Email}#=%=#c.a.reed@dundee.ac.uk
+Author{5}{Affiliation}#=%=#University of Dundee
+Author{6}{Firstname}#=%=#Eduard
+Author{6}{Lastname}#=%=#Hovy
+Author{6}{Username}#=%=#hovy
+Author{6}{Email}#=%=#hovy@cmu.edu
+Author{6}{Affiliation}#=%=#CMU
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#3295
+FinalPaperTitle#=%=#TADPOLE: {T}ask {AD}apted {P}re-Training via An{O}maLy D{E}tection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#VM
+JobTitle#==#
+Organization#==#
+Abstract#==#The paradigm of pre-training followed by finetuning has become a standard procedure for NLP tasks, with a known problem of domain shift between the pre-training and downstream corpus. 
+Previous works have tried to mitigate this problem with additional pre-training, either on the downstream corpus itself when it is large enough, or on a manually curated unlabeled corpus of a similar domain. In this paper, we address the problem for the case when the downstream corpus is too small for additional pre-training. We propose TADPOLE, a task adapted pre-training framework based on data selection techniques adapted from {\em Domain Adaptation}. We formulate the data selection as an anomaly detection problem that unlike existing methods works well when the downstream corpus is limited in size. It results in a scalable and efficient unsupervised technique that eliminates the need for any manual data curation. We evaluate our framework on eight tasks across four different domains: Biomedical, Computer Science, News, and Movie reviews, and compare its performance against competitive baseline techniques from the area of Domain Adaptation. Our framework outperforms all the baseline methods. On small datasets with less than 5K training examples, we get a gain of $1.82\%$ in performance with additional pre-training for only $5\%$ steps compared to the originally pre-trained models. It also compliments some of the other techniques such as data augmentation known for boosting performance when downstream corpus is small; highest performance is achieved when data augmentation is combined with task adapted pre-training.
+Author{1}{Firstname}#=%=#Vivek
+Author{1}{Lastname}#=%=#Madan
+Author{1}{Username}#=%=#vivekmadan2
+Author{1}{Email}#=%=#vivekiniitb@gmail.com
+Author{1}{Affiliation}#=%=#Applied Scientist
+Author{2}{Firstname}#=%=#Ashish
+Author{2}{Lastname}#=%=#Khetan
+Author{2}{Username}#=%=#khetan
+Author{2}{Email}#=%=#ashish.khetan09@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Zohar
+Author{3}{Lastname}#=%=#Karnin
+Author{3}{Username}#=%=#zkarnin
+Author{3}{Email}#=%=#zkarnin@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+
+==========

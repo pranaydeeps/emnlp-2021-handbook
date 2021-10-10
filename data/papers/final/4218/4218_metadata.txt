@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4218
+FinalPaperTitle#=%=#Glyph Enhanced Chinese Character Pre-Training for Lexical Sememe Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Boer Lyu
+JobTitle#==#
+Organization#==#Shanghai Jiao Tong University
+Abstract#==#Sememes are defined as the atomic units to describe the semantic meaning of concepts. Due to the difficulty of manually annotating sememes and the inconsistency of annotations between experts, the lexical sememe prediction task has been proposed. However, previous methods heavily rely on word or character embeddings, and ignore the fine-grained information. In this paper, we propose a novel pre-training method which is designed to better incorporate the internal information of Chinese character. The Glyph enhanced Chinese Character representation (GCC) is used to assist sememe prediction. We experiment and evaluate our model on HowNet, which is a famous sememe knowledge base. The experimental results show that our method outperforms existing non-external information models.
+Author{1}{Firstname}#=%=#Boer
+Author{1}{Lastname}#=%=#Lyu
+Author{1}{Username}#=%=#boerlv
+Author{1}{Email}#=%=#boerlv@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Lu
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#lc918
+Author{2}{Email}#=%=#chenlusz@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Kai
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#ky219
+Author{3}{Email}#=%=#kai.yu@sjtu.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

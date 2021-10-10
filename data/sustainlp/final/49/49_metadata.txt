@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#Efficient Domain Adaptation of Language Models via Adaptive Tokenization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jason Kessler
+JobTitle#==#
+Organization#==#Amazon 410 Terry Ave N, Seattle 98109
+Abstract#==#Contextual embedding-based language models trained on large data sets, such as BERT and RoBERTa, provide strong performance across a wide range of tasks and are ubiquitous in modern NLP. It has been observed that fine-tuning these models on tasks involving data from domains different from that on which they were pretrained can lead to suboptimal performance. Recent work has explored approaches to adapt pretrained language models to new domains by incorporating additional pretraining on domain-specific corpora and task data. We propose an alternative approach for transferring pretrained language models to new domains by adapting their tokenizers. We show that domain-specific subword sequences can be determined efficiently directly from divergences in the conditional token distributions of the base and domain-specific corpora. In datasets from four disparate domains, we find adaptive tokenization on a pretrained RoBERTa model provides greater than 85% of the performance benefits of domain specific pretraining. Our approach produces smaller models and less training and inference time than other approaches using tokenizer augmentation. Although using adaptive tokenization incurs a 6% increase in model parameters (due to the introduction of 10k new domain-specific tokens), our approach, using 64 CPUs, is >72x faster than further pretraining the language model on domain-specific corpora on 8 TPUs.
+Author{1}{Firstname}#=%=#Vin
+Author{1}{Lastname}#=%=#Sachidananda
+Author{1}{Email}#=%=#vsachi@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford
+Author{2}{Firstname}#=%=#Jason
+Author{2}{Lastname}#=%=#Kessler
+Author{2}{Username}#=%=#jasonkessler
+Author{2}{Email}#=%=#jason.kessler@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Yi-An
+Author{3}{Lastname}#=%=#Lai
+Author{3}{Username}#=%=#yianl
+Author{3}{Email}#=%=#yianl@amazon.com
+Author{3}{Affiliation}#=%=#Amazon
+
+==========

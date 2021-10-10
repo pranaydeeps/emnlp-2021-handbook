@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1440
+FinalPaperTitle#=%=#Effective Convolutional Attention Network for Multi-label Clinical Document Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Hua Cheng
+JobTitle#==#
+Organization#==#3M Health Information Systems
+7514 Thomas Blvd, Pittsburgh, PA 15209, USA
+Abstract#==#Multi-label document classification (MLDC) problems can be challenging, especially for long documents with a large label set and a long-tail distribution over labels. In this paper, we present an effective convolutional attention network for the MLDC problem with a focus on medical code prediction from clinical documents. Our innovations are three-fold: (1) we utilize a deep convolution-based encoder with the squeeze-and-excitation networks and residual networks to aggregate the information across the document and learn meaningful document representations that cover different ranges of texts; (2) we explore multi-layer and sum-pooling attention to extract the most informative features from these multi-scale representations; (3) we combine binary cross entropy loss and focal loss to improve performance for rare labels. We focus our evaluation study on MIMIC-III, a widely used dataset in the medical domain. Our models outperform prior work on medical coding and achieve new state-of-the-art results on multiple metrics. We also demonstrate the language independent nature of our approach by applying it to two non-English datasets. Our model outperforms prior best model and a multilingual Transformer model by a substantial margin.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#tomdzh
+Author{1}{Email}#=%=#tomdzh1@gmail.com
+Author{1}{Affiliation}#=%=#3M
+Author{2}{Firstname}#=%=#Hua
+Author{2}{Lastname}#=%=#Cheng
+Author{2}{Username}#=%=#huacheng
+Author{2}{Email}#=%=#hcheng@mmm.com
+Author{2}{Affiliation}#=%=#3M
+Author{3}{Firstname}#=%=#Russell
+Author{3}{Lastname}#=%=#Klopfer
+Author{3}{Username}#=%=#rklopfer
+Author{3}{Email}#=%=#rklopfer@mmm.com
+Author{3}{Affiliation}#=%=#3M | MModal
+Author{4}{Firstname}#=%=#Matthew R.
+Author{4}{Lastname}#=%=#Gormley
+Author{4}{Username}#=%=#mgormley
+Author{4}{Email}#=%=#mgormley@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Thomas
+Author{5}{Lastname}#=%=#Schaaf
+Author{5}{Username}#=%=#tschaaf
+Author{5}{Email}#=%=#tschaaf@reihl-schaaf.net
+Author{5}{Affiliation}#=%=#3M | M*Modal
+
+==========

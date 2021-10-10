@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#507
+FinalPaperTitle#=%=#Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Chengjin Xu
+JobTitle#==#PhD student
+Organization#==#University of Bonn,  Germany
+Abstract#==#Entity alignment aims to identify equivalent entity pairs between different knowledge graphs (KGs). Recently, the availability of temporal KGs (TKGs) that contain time information created the need for reasoning over time in such TKGs. Existing embedding-based entity alignment approaches disregard time information that commonly exists in many large-scale KGs, leaving much room for improvement. In this paper, we focus on the task of aligning entity pairs between TKGs and propose a novel Time-aware Entity Alignment approach based on Graph Neural Networks (TEA-GNN). We embed entities, relations and timestamps of different KGs into a vector space and use GNNs to learn entity representations. To incorporate both relation and time information into the GNN structure of our model, we use a self-attention mechanism which assigns different weights to different nodes with orthogonal transformation matrices computed from embeddings of the relevant relations and timestamps in a neighborhood. Experimental results on multiple real-world TKG datasets show that our method significantly outperforms the state-of-the-art methods due to the inclusion of time information.
+Author{1}{Firstname}#=%=#Chengjin
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#chengjinxu
+Author{1}{Email}#=%=#xuc@iai.uni-bonn.de
+Author{1}{Affiliation}#=%=#University of Bonn
+Author{2}{Firstname}#=%=#Fenglong
+Author{2}{Lastname}#=%=#Su
+Author{2}{Username}#=%=#tinytom2021
+Author{2}{Email}#=%=#sufenglong18@nudt.edu.cn
+Author{2}{Affiliation}#=%=#National University of Defense Technology
+Author{3}{Firstname}#=%=#Jens
+Author{3}{Lastname}#=%=#Lehmann
+Author{3}{Username}#=%=#lehmann
+Author{3}{Email}#=%=#jens.lehmann@cs.uni-bonn.de
+Author{3}{Affiliation}#=%=#University of Bonn and Fraunhofer IAIS
+
+==========

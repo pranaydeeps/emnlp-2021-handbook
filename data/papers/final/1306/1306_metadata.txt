@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1306
+FinalPaperTitle#=%=#EDTC: A Corpus for Discourse-Level Topic Chain Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Longyin Zhang
+JobTitle#==#
+Organization#==#Soochow University
+1 Shizi Street, Suzhou, Jiangsu, China
+Abstract#==#Discourse analysis has long been known to be fundamental in natural language processing. In this research, we present our insight on discourse-level topic chain (DTC) parsing which aims at discovering new topics and investigating how these topics evolve over time within an article. To address the lack of data, we contribute a new discourse corpus with DTC-style dependency graphs annotated upon news articles. In particular, we ensure the high reliability of the corpus by utilizing a two-step annotation strategy to build the data and filtering out the annotations with low confidence scores. Based on the annotated corpus, we introduce a simple yet robust system for automatic discourse-level topic chain parsing.
+Author{1}{Firstname}#=%=#Longyin
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#zhanglongyin
+Author{1}{Email}#=%=#lyzhang9@stu.suda.edu.cn
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Xin
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Username}#=%=#tanx
+Author{2}{Email}#=%=#xtan9@stu.suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Fang
+Author{3}{Lastname}#=%=#Kong
+Author{3}{Username}#=%=#kongfang
+Author{3}{Email}#=%=#kongfang@suda.edu.cn
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Guodong
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#gdzhou
+Author{4}{Email}#=%=#gdzhou@suda.edu.cn
+Author{4}{Affiliation}#=%=#Soochow University
+
+==========

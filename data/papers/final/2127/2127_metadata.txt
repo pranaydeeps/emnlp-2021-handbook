@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#2127
+FinalPaperTitle#=%=#End-to-End Conversational Search for Online Shopping with Utterance Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Liqiang Xiao
+JobTitle#==#
+Organization#==#
+Abstract#==#Successful conversational search systems can present natural, adaptive and interactive shopping experience for online shopping customers. However, building such systems from scratch faces real word challenges from both imperfect product schema/knowledge and lack of training dialog data. In this work we first propose ConvSearch, an end-to-end conversational search system that deeply combines the dialog system with search. It leverages the text profile to retrieve products, which is more robust against imperfect product schema/knowledge compared with using product attributes alone. We then address the lack of data challenges by proposing an utterance transfer approach that generates dialogue utterances by using existing dialog from other domains, and leveraging the search behavior data from e-commerce retailer. With utterance transfer, we introduce a new conversational search dataset for online shopping. Experiments show that our utterance transfer method can significantly improve the availability of training dialogue data without crowd-sourcing, and the conversational search system significantly outperformed the best tested baseline.
+Author{1}{Firstname}#=%=#Liqiang
+Author{1}{Lastname}#=%=#Xiao
+Author{1}{Username}#=%=#liqiangxiao
+Author{1}{Email}#=%=#xiaoliqiang@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Artificial Intelligence Institute, Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Jun
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#junmaa
+Author{2}{Email}#=%=#ma_jun_21@hotmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Xin Luna
+Author{3}{Lastname}#=%=#Dong
+Author{3}{Username}#=%=#lunadong
+Author{3}{Email}#=%=#lunadong@amazon.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Pascual
+Author{4}{Lastname}#=%=#Martínez-Gómez
+Author{4}{Username}#=%=#pasmargo
+Author{4}{Email}#=%=#pasmargo@gmail.com
+Author{4}{Affiliation}#=%=#Amazon.com
+Author{5}{Firstname}#=%=#Nasser
+Author{5}{Lastname}#=%=#Zalmout
+Author{5}{Username}#=%=#nasser_zalmout
+Author{5}{Email}#=%=#nasser.zalmout@gmail.com
+Author{5}{Affiliation}#=%=#Amazon
+Author{6}{Firstname}#=%=#Wei
+Author{6}{Lastname}#=%=#Chen
+Author{6}{Username}#=%=#turbocv
+Author{6}{Email}#=%=#chenwei.cv@gmail.com
+Author{6}{Affiliation}#=%=#Amazon
+Author{7}{Firstname}#=%=#Tong
+Author{7}{Lastname}#=%=#Zhao
+Author{7}{Username}#=%=#zhaoton
+Author{7}{Email}#=%=#zhaoton@amazon.com
+Author{7}{Affiliation}#=%=#Amazon
+Author{8}{Firstname}#=%=#Hao
+Author{8}{Lastname}#=%=#He
+Author{8}{Username}#=%=#hehao
+Author{8}{Email}#=%=#hehao@sjtu.edu.cn
+Author{8}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{9}{Firstname}#=%=#Yaohui
+Author{9}{Lastname}#=%=#Jin
+Author{9}{Username}#=%=#jinyh
+Author{9}{Email}#=%=#jinyh@sjtu.edu.cn
+Author{9}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

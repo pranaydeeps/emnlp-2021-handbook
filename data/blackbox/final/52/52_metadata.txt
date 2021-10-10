@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#52
+FinalPaperTitle#=%=#What BERT Based Language Model Learns in Spoken Transcripts: An Empirical Study
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Ayush Kumar
+JobTitle#==#
+Organization#==#Observe.AI, Bangalore, India
+Abstract#==#Language Models (LMs) have been ubiquitously leveraged in various tasks including spoken language understanding (SLU). Spoken language requires careful understanding of speaker interactions, dialog states and speech induced multimodal behaviors to generate a meaningful representation of the conversation. In this work, we propose to dissect SLU into three representative properties: conversational (disfluency, pause, overtalk), channel (speaker-type, turn-tasks) and ASR (insertion, deletion, substitution).  We probe BERT based language models (BERT, RoBERTa) trained on spoken transcripts to investigate its ability to understand multifarious properties in absence of any speech cues. Empirical results indicate that LM is surprisingly good at capturing conversational properties such as pause prediction and overtalk detection from lexical tokens. On the downsides, the LM scores low on turn-tasks and ASR errors predictions. Additionally, pre-training the LM on spoken transcripts restrain its linguistic understanding. Finally, we establish the efficacy and transferability of the mentioned properties on two benchmark datasets: Switchboard Dialog Act and Disfluency datasets.
+Author{1}{Firstname}#=%=#Ayush
+Author{1}{Lastname}#=%=#Kumar
+Author{1}{Username}#=%=#krayush
+Author{1}{Email}#=%=#ayush2503@gmail.com
+Author{1}{Affiliation}#=%=#Observe.AI
+Author{2}{Firstname}#=%=#Mukuntha
+Author{2}{Lastname}#=%=#Narayanan Sundararaman
+Author{2}{Username}#=%=#muks14
+Author{2}{Email}#=%=#muks14x@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Jithendra
+Author{3}{Lastname}#=%=#Vepa
+Author{3}{Username}#=%=#jithendra.v
+Author{3}{Email}#=%=#jithendra.vepa@gmail.com
+Author{3}{Affiliation}#=%=#Observe AI
+
+==========

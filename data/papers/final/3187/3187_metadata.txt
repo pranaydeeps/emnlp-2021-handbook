@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3187
+FinalPaperTitle#=%=#Towards Label-Agnostic Emotion Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Sven Buechel
+JobTitle#==#
+Organization#==#Friedrich-Schiller-Universität Jena
+Abstract#==#Research in emotion analysis is scattered across different label formats  (e.g., polarity types, basic emotion categories, and affective dimensions), linguistic levels (word vs. sentence vs. discourse), and, of course, (few well-resourced but much more under-resourced) natural languages and text genres (e.g., product reviews, tweets, news). The resulting heterogeneity makes data and software developed under these conflicting constraints hard to compare and challenging to integrate. To resolve this unsatisfactory state of affairs we here propose a training scheme that learns a shared latent representation of emotion independent from different label formats, natural languages, and even disparate model architectures. Experiments on a wide range of datasets indicate that this approach yields the desired interoperability without penalizing prediction quality. Code and data are archived under DOI 10.5281/zenodo.5466068.
+Author{1}{Firstname}#=%=#Sven
+Author{1}{Lastname}#=%=#Buechel
+Author{1}{Username}#=%=#svbu
+Author{1}{Email}#=%=#sven.buechel@uni-jena.de
+Author{1}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+Author{2}{Firstname}#=%=#Luise
+Author{2}{Lastname}#=%=#Modersohn
+Author{2}{Username}#=%=#lmoso
+Author{2}{Email}#=%=#luise.modersohn@uni-jena.de
+Author{2}{Affiliation}#=%=#Friedrich Schiller University Jena
+Author{3}{Firstname}#=%=#Udo
+Author{3}{Lastname}#=%=#Hahn
+Author{3}{Username}#=%=#udo.hahn
+Author{3}{Email}#=%=#udo.hahn@uni-jena.de
+Author{3}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+
+==========

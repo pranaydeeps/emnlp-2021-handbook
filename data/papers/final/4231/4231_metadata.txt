@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#4231
+FinalPaperTitle#=%=#Automated Generation of Accurate & Fluent Medical X-ray Reports
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Nguyen Tran Nhat Hoang
+JobTitle#==#
+Organization#==#
+Abstract#==#Our paper aims to automate the generation of medical reports from chest X-ray image inputs, a critical yet time-consuming task for radiologists. Existing medical report generation efforts emphasize producing human-readable reports, yet the generated text may not be well aligned to the clinical facts. Our generated medical reports, on the other hand, are fluent and, more importantly, clinically accurate. 
+This is achieved by our fully differentiable and end-to-end paradigm that contains three complementary modules: taking the chest X-ray images and clinical history document of patients as inputs, our classification module produces an internal checklist of disease-related topics, referred to as enriched disease embedding; the embedding representation is then passed to our transformer-based generator, to produce the medical report; meanwhile, our generator also creates a weighted embedding representation, which is fed to our interpreter to ensure consistency with respect to disease-related topics. 
+Empirical evaluations demonstrate very promising results achieved by our approach on commonly-used metrics concerning language fluency and clinical accuracy.
+Moreover, noticeable performance gains are consistently observed when additional input information is available, such as the clinical document and extra scans from different views.
+Author{1}{Firstname}#=%=#Hoang
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Username}#=%=#nguyen.tn.hoang
+Author{1}{Email}#=%=#trannhat@ualberta.ca
+Author{1}{Affiliation}#=%=#University of Alberta
+Author{2}{Firstname}#=%=#Dong
+Author{2}{Lastname}#=%=#Nie
+Author{2}{Username}#=%=#dongnie
+Author{2}{Email}#=%=#dongnie@cs.unc.edu
+Author{2}{Affiliation}#=%=#UNC-Chapel Hill
+Author{3}{Firstname}#=%=#Taivanbat
+Author{3}{Lastname}#=%=#Badamdorj
+Author{3}{Username}#=%=#tbadamdorj
+Author{3}{Email}#=%=#tbadamdorj@ualberta.ca
+Author{3}{Affiliation}#=%=#University of Alberta
+Author{4}{Firstname}#=%=#Yujie
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#liuyujie2019
+Author{4}{Email}#=%=#liuyujie2019@gmail.com
+Author{4}{Affiliation}#=%=#The first affiliated hospital of Guangzhou University of Chinese medicine
+Author{5}{Firstname}#=%=#yingying
+Author{5}{Lastname}#=%=#zhu
+Author{5}{Username}#=%=#zhuyingying2
+Author{5}{Email}#=%=#yingying.zhu@uta.edu
+Author{5}{Affiliation}#=%=#University of texas at arlington
+Author{6}{Firstname}#=%=#Jason
+Author{6}{Lastname}#=%=#Truong
+Author{6}{Username}#=%=#uofatruong3
+Author{6}{Email}#=%=#truong3@ualberta.ca
+Author{6}{Affiliation}#=%=#University of Alberta
+Author{7}{Firstname}#=%=#Li
+Author{7}{Lastname}#=%=#Cheng
+Author{7}{Username}#=%=#licheng21
+Author{7}{Email}#=%=#lcheng5@ualberta.ca
+Author{7}{Affiliation}#=%=#University of Alberta
+
+==========

@@ -1,0 +1,60 @@
+SubmissionNumber#=%=#3859
+FinalPaperTitle#=%=#StreamHover: Livestream Transcript Summarization and Annotation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#FEI LIU
+JobTitle#==#
+Organization#==#University of Central Florida
+4000 Central Florida Blvd, Orlando, FL 32816
+Abstract#==#With the explosive growth of livestream broadcasting, there is an urgent need for new summarization technology that enables us to create a preview of streamed content and tap into this wealth of knowledge. However, the problem is nontrivial due to the informal nature of spoken language. Further, there has been a shortage of annotated datasets that are necessary for transcript summarization. In this paper, we present StreamHover, a framework for annotating and summarizing livestream transcripts. With a total of over 500 hours of videos annotated with both extractive and abstractive summaries, our benchmark dataset is significantly larger than currently existing annotated corpora. We explore a neural extractive summarization model that leverages vector-quantized variational autoencoder to learn latent vector representations of spoken utterances and identify salient utterances from the transcripts to form summaries. We show that our model generalizes better and improves performance over strong baselines. The results of this study provide an avenue for future research to improve summarization solutions for efficient browsing of livestreams.
+Author{1}{Firstname}#=%=#Sangwoo
+Author{1}{Lastname}#=%=#Cho
+Author{1}{Username}#=%=#swcho
+Author{1}{Email}#=%=#swcho@knights.ucf.edu
+Author{1}{Affiliation}#=%=#University of Central Florida
+Author{2}{Firstname}#=%=#Franck
+Author{2}{Lastname}#=%=#Dernoncourt
+Author{2}{Username}#=%=#franck.dernoncourt
+Author{2}{Email}#=%=#franck.dernoncourt@adobe.com
+Author{2}{Affiliation}#=%=#Adobe Research
+Author{3}{Firstname}#=%=#Tim
+Author{3}{Lastname}#=%=#Ganter
+Author{3}{Username}#=%=#ganter
+Author{3}{Email}#=%=#ganter@adobe.com
+Author{3}{Affiliation}#=%=#Adobe Research
+Author{4}{Firstname}#=%=#Trung
+Author{4}{Lastname}#=%=#Bui
+Author{4}{Username}#=%=#bhtrung
+Author{4}{Email}#=%=#bui@adobe.com
+Author{4}{Affiliation}#=%=#Adobe Research
+Author{5}{Firstname}#=%=#Nedim
+Author{5}{Lastname}#=%=#Lipka
+Author{5}{Username}#=%=#logi8811
+Author{5}{Email}#=%=#lipka@adobe.com
+Author{5}{Affiliation}#=%=#Adobe Research
+Author{6}{Firstname}#=%=#Walter
+Author{6}{Lastname}#=%=#Chang
+Author{6}{Username}#=%=#wachang
+Author{6}{Email}#=%=#wachang@adobe.com
+Author{6}{Affiliation}#=%=#Adobe Research
+Author{7}{Firstname}#=%=#Hailin
+Author{7}{Lastname}#=%=#Jin
+Author{7}{Username}#=%=#hailinjin
+Author{7}{Email}#=%=#hljin@adobe.com
+Author{7}{Affiliation}#=%=#Adobe Research
+Author{8}{Firstname}#=%=#Jonathan
+Author{8}{Lastname}#=%=#Brandt
+Author{8}{Email}#=%=#jbrandt@adobe.com
+Author{8}{Affiliation}#=%=#Adobe Research
+Author{9}{Firstname}#=%=#Hassan
+Author{9}{Lastname}#=%=#Foroosh
+Author{9}{Username}#=%=#foroosh
+Author{9}{Email}#=%=#Hassan.Foroosh@ucf.edu
+Author{9}{Affiliation}#=%=#University of Central Florida
+Author{10}{Firstname}#=%=#Fei
+Author{10}{Lastname}#=%=#Liu
+Author{10}{Username}#=%=#feiliu
+Author{10}{Email}#=%=#feiliu@cs.ucf.edu
+Author{10}{Affiliation}#=%=#University of Central Florida
+
+==========

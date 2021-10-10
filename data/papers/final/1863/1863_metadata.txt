@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1863
+FinalPaperTitle#=%=#Are Factuality Checkers Reliable? Adversarial Meta-evaluation of Factuality in Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Yiran Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#With the continuous upgrading of the summarization systems driven by deep neural networks, researchers have higher requirements on the quality of the generated summaries, which should be not only fluent and informative but also factually correct. As a result, the field of factual evaluation has developed rapidly recently. Despite its initial progress in evaluating generated summaries, the meta-evaluation methodologies of factuality metrics are limited in their opacity, leading to the insufficient understanding of factuality metrics’ relative advantages and their applicability. In this paper, we present an adversarial meta-evaluation methodology that allows us to (i) diagnose the fine-grained strengths and weaknesses of 6 existing top-performing metrics over 24 diagnostic test datasets, (ii) search for directions for further improvement by data augmentation. Our observations from this work motivate us to propose several calls for future research. We make all codes, diagnostic test datasets, trained factuality models available: https://github.com/zide05/AdvFact.
+Author{1}{Firstname}#=%=#Yiran
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#yrchen
+Author{1}{Email}#=%=#19210240225@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Pengfei
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#stefan
+Author{2}{Email}#=%=#stefanpengfei@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Xipeng
+Author{3}{Lastname}#=%=#Qiu
+Author{3}{Username}#=%=#xpqiu
+Author{3}{Email}#=%=#xpqiu@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+
+==========

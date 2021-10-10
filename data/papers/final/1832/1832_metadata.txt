@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1832
+FinalPaperTitle#=%=#Say `YES' to Positivity: Detecting Toxic Language in Workplace Communications
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Meghana Moorthy Bhat
+JobTitle#==#
+Organization#==#
+Abstract#==#Workplace communication (e.g. email, chat, etc.) is a central part of enterprise productivity. Healthy conversations are crucial for creating an inclusive environment and maintaining harmony in an organization. Toxic communications at the workplace can negatively impact overall job satisfaction and are often subtle, hidden, or demonstrate human biases. The linguistic subtlety of mild yet hurtful conversations has made it difficult for researchers to quantify and extract toxic conversations automatically. While offensive language or hate speech has been extensively studied in social communities, there has been little work studying toxic communication in emails. Specifically, the lack of corpus, sparsity of toxicity in enterprise emails, and well-defined criteria for annotating toxic conversations have prevented researchers from addressing the problem at scale. 
+We take the first step towards studying toxicity in workplace emails by providing (1) a general and computationally viable taxonomy to study toxic language at the workplace (2) a dataset to study toxic language at the workplace based on the taxonomy and (3) analysis on why offensive language and hate-speech datasets are not suitable to detect workplace toxicity.
+Author{1}{Firstname}#=%=#Meghana Moorthy
+Author{1}{Lastname}#=%=#Bhat
+Author{1}{Username}#=%=#meghanam
+Author{1}{Email}#=%=#meghanamoorthy@gmail.com
+Author{1}{Affiliation}#=%=#Ohio State University
+Author{2}{Firstname}#=%=#saghar
+Author{2}{Lastname}#=%=#Hosseini
+Author{2}{Username}#=%=#saghar
+Author{2}{Email}#=%=#Saghar.Hosseini@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Ahmed Hassan
+Author{3}{Lastname}#=%=#Awadallah
+Author{3}{Username}#=%=#hassanam
+Author{3}{Email}#=%=#ahmed.h.awadallah@gmail.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Paul
+Author{4}{Lastname}#=%=#Bennett
+Author{4}{Username}#=%=#pnbennett
+Author{4}{Email}#=%=#pauben@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft
+Author{5}{Firstname}#=%=#Weisheng
+Author{5}{Lastname}#=%=#Li
+Author{5}{Username}#=%=#weishengli
+Author{5}{Email}#=%=#weishli@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3205
+FinalPaperTitle#=%=#AStitchInLanguageModels: Dataset and Methods for the Exploration of Idiomaticity in Pre-Trained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Harish Tayyar Madabushi
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite their success in a variety of NLP tasks, pre-trained language models, due to their heavy reliance on compositionality, fail in effectively capturing the meanings of multiword expressions (MWEs), especially idioms. Therefore, datasets and methods to improve the representation of MWEs are urgently needed. Existing datasets are limited to providing the degree of idiomaticity of expressions along with the literal and, where applicable, (a single) non-literal interpretation of MWEs. This work presents a novel dataset of naturally occurring sentences containing MWEs manually classified into a fine-grained set of meanings, spanning both English and Portuguese. We use this dataset in two tasks designed to test i) a language model’s ability to detect idiom usage, and ii) the effectiveness of a language model in generating representations of sentences containing idioms. Our experiments demonstrate that, on the task of detecting idiomatic usage, these models perform reasonably well in the one-shot and few-shot scenarios, but that there is significant scope for improvement in the zero-shot scenario. On the task of representing idiomaticity, we find that pre-training is not always effective, while fine-tuning could provide a sample efficient method of learning representations of sentences containing MWEs.
+Author{1}{Firstname}#=%=#Harish
+Author{1}{Lastname}#=%=#Tayyar Madabushi
+Author{1}{Username}#=%=#harish
+Author{1}{Email}#=%=#h.tayyarmadabushi@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Edward
+Author{2}{Lastname}#=%=#Gow-Smith
+Author{2}{Username}#=%=#edwardgowsmith
+Author{2}{Email}#=%=#egow-smith1@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+Author{3}{Firstname}#=%=#Carolina
+Author{3}{Lastname}#=%=#Scarton
+Author{3}{Username}#=%=#carol_scarton
+Author{3}{Email}#=%=#carol.scarton@gmail.com
+Author{3}{Affiliation}#=%=#University of Sheffield
+Author{4}{Firstname}#=%=#Aline
+Author{4}{Lastname}#=%=#Villavicencio
+Author{4}{Username}#=%=#alinev
+Author{4}{Email}#=%=#alinev@gmail.com
+Author{4}{Affiliation}#=%=#University of Sheffield, UK
+
+==========

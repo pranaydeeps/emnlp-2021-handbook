@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#2346
+FinalPaperTitle#=%=#Probing Pre-trained Language Models for Semantic Attributes and their Values
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Meriem Beloucif
+JobTitle#==#
+Organization#==#Hamburg University 
+Vogt-Kölln-Straße 30 
+Hamburg
+Abstract#==#Pretrained language models (PTLMs) yield state-of-the-art performance on many natural language processing tasks, including syntax, semantics and commonsense. In this paper, we focus on identifying to what extent do PTLMs capture semantic attributes and their values, e.g., the correlation between rich and high net worth. We use PTLMs to predict masked tokens using patterns and lists of items from Wikidata in order to verify how likely PTLMs encode semantic attributes along with their values. Such inferences based on semantics are intuitive for humans as part of our language understanding. Since PTLMs are trained on large amount of Wikipedia data we would assume that they can generate similar predictions, yet our findings reveal that PTLMs are
+still much worse than humans on this task. We show evidence and analysis explaining how to exploit our methodology to integrate better context and semantics into PTLMs using knowledge bases.
+Author{1}{Firstname}#=%=#Meriem
+Author{1}{Lastname}#=%=#Beloucif
+Author{1}{Username}#=%=#mbeloucif
+Author{1}{Email}#=%=#beloucif@informatik.uni-hamburg.de
+Author{1}{Affiliation}#=%=#University of Hamburg
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Biemann
+Author{2}{Username}#=%=#chrisbie
+Author{2}{Email}#=%=#biemann@informatik.uni-hamburg.de
+Author{2}{Affiliation}#=%=#Universität Hamburg
+
+==========

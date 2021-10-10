@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3506
+FinalPaperTitle#=%=#Using Optimal Transport as Alignment Objective for fine-tuning Multilingual Contextualized Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Garima Lalwani
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent studies have proposed different methods to improve multilingual word representations in contextualized settings including techniques that align between source and target embedding spaces.  For contextualized embeddings, alignment becomes more complex as we additionally take context into consideration.  In this work,  we propose using Optimal Transport (OT) as an alignment objective during fine-tuning to further improve multilingual contextualized representations for downstream cross-lingual transfer. This approach does not require word-alignment pairs prior to fine-tuning that may lead to sub-optimal matching and instead learns the word alignments within context in an  unsupervised  manner.   It  also  allows  different types of mappings due to soft matching between source and target sentences. We benchmark our proposed method on two tasks (XNLI and XQuAD) and achieve improvements over baselines as well as competitive results compared to similar recent works.
+Author{1}{Firstname}#=%=#Sawsan
+Author{1}{Lastname}#=%=#Alqahtani
+Author{1}{Username}#=%=#sawsanq
+Author{1}{Email}#=%=#sawsa@amazon.com
+Author{1}{Affiliation}#=%=#Amazon Web Services
+Author{2}{Firstname}#=%=#Garima
+Author{2}{Lastname}#=%=#Lalwani
+Author{2}{Username}#=%=#garima3292
+Author{2}{Email}#=%=#garima3292@gmail.com
+Author{2}{Affiliation}#=%=#Amazon AI
+Author{3}{Firstname}#=%=#Yi
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#yzhang
+Author{3}{Email}#=%=#yizhngn@amazon.com
+Author{3}{Affiliation}#=%=#Amazon AI
+Author{4}{Firstname}#=%=#Salvatore
+Author{4}{Lastname}#=%=#Romeo
+Author{4}{Username}#=%=#sromeo
+Author{4}{Email}#=%=#salvatore.romeo@gmail.com
+Author{4}{Affiliation}#=%=#Amazon
+Author{5}{Firstname}#=%=#Saab
+Author{5}{Lastname}#=%=#Mansour
+Author{5}{Username}#=%=#mansour
+Author{5}{Email}#=%=#saib.mn@gmail.com
+Author{5}{Affiliation}#=%=#Amazon
+
+==========

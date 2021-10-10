@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Explainable Unsupervised Argument Similarity Rating with Abstract Meaning Representation and Conclusion Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Juri Opitz
+JobTitle#==#
+Organization#==#Dept. of Comp. Linguistics, Heidelberg University, 69120 Heiddelberg
+Abstract#==#When assessing the similarity of arguments, researchers typically use approaches that do not provide interpretable evidence or justifications for their ratings. Hence, the features that determine argument similarity remain elusive. We address this issue by introducing \textit{novel argument similarity metrics} that aim at high performance and explainability. We show that Abstract Meaning Representation (AMR) graphs can be useful for representing arguments, and that novel AMR graph metrics can offer explanations for argument similarity ratings. We start from the hypothesis that \textit{similar premises} often lead to \textit{similar conclusions}---and extend an approach for \textit{AMR-based argument similarity rating} by estimating, in addition, the similarity of \textit{conclusions} that we automatically infer from the arguments used as premises. We show that AMR similarity metrics make argument similarity judgements more \textit{interpretable} and may even support \textit{argument quality judgements}. Our approach provides significant performance improvements over strong baselines in a \textit{fully unsupervised} 
+setting. Finally, we make first steps to address the problem of reference-less evaluation of argumentative conclusion generations.
+Author{1}{Firstname}#=%=#Juri
+Author{1}{Lastname}#=%=#Opitz
+Author{1}{Username}#=%=#jurio
+Author{1}{Email}#=%=#opitz@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#Heidelberg University
+Author{2}{Firstname}#=%=#Philipp
+Author{2}{Lastname}#=%=#Heinisch
+Author{2}{Username}#=%=#phhei
+Author{2}{Email}#=%=#pheinisch@techfak.uni-bielefeld.de
+Author{2}{Affiliation}#=%=#Bielefeld University
+Author{3}{Firstname}#=%=#Philipp
+Author{3}{Lastname}#=%=#Wiesenbach
+Author{3}{Username}#=%=#phiwi
+Author{3}{Email}#=%=#wiesenbach@cl.uni-heidelberg.de
+Author{3}{Affiliation}#=%=#Heidelberg University
+Author{4}{Firstname}#=%=#Philipp
+Author{4}{Lastname}#=%=#Cimiano
+Author{4}{Username}#=%=#cimiano
+Author{4}{Email}#=%=#philipp@cimiano.de
+Author{4}{Affiliation}#=%=#Univ. Bielefeld
+Author{5}{Firstname}#=%=#Anette
+Author{5}{Lastname}#=%=#Frank
+Author{5}{Username}#=%=#frank
+Author{5}{Email}#=%=#frank@cl.uni-heidelberg.de
+Author{5}{Affiliation}#=%=#Heidelberg University
+
+==========

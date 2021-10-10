@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#4309
+FinalPaperTitle#=%=#A Scalable Framework for Learning From Implicit User Feedback to Improve Natural Language Understanding in Large-Scale Conversational AI Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Han Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Natural Language Understanding (NLU) is an established component within a conversational AI or digital assistant system, and it is responsible for producing semantic understanding of a user request. We propose a scalable and automatic approach for improving NLU in a large-scale conversational AI system by leveraging implicit user feedback, with an insight that user interaction data and dialog context have rich information embedded from which user satisfaction and intention can be inferred. In particular, we propose a domain-agnostic framework for curating new supervision data for improving NLU from live production traffic. With an extensive set of experiments, we show the results of applying the framework and improving NLU for a large-scale production system across 10 domains.
+Author{1}{Firstname}#=%=#Sunghyun
+Author{1}{Lastname}#=%=#Park
+Author{1}{Username}#=%=#sunghyun.park.cs
+Author{1}{Email}#=%=#sunghyun.park.cs@gmail.com
+Author{1}{Affiliation}#=%=#Amazon Alexa AI
+Author{2}{Firstname}#=%=#Han
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#jzk66596
+Author{2}{Email}#=%=#lihan.thu@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Ameen
+Author{3}{Lastname}#=%=#Patel
+Author{3}{Username}#=%=#paameen
+Author{3}{Email}#=%=#paameen@amazon.com
+Author{3}{Affiliation}#=%=#Amazon Alexa AI
+Author{4}{Firstname}#=%=#Sidharth
+Author{4}{Lastname}#=%=#Mudgal
+Author{4}{Username}#=%=#sidharthmsk
+Author{4}{Email}#=%=#sidharthmsk@gmail.com
+Author{4}{Affiliation}#=%=#Amazon, Inc.
+Author{5}{Firstname}#=%=#Sungjin
+Author{5}{Lastname}#=%=#Lee
+Author{5}{Username}#=%=#junion
+Author{5}{Email}#=%=#junion.sjlee@gmail.com
+Author{5}{Affiliation}#=%=#Amazon Alexa AI
+Author{6}{Firstname}#=%=#Young-Bum
+Author{6}{Lastname}#=%=#Kim
+Author{6}{Username}#=%=#stylebbum
+Author{6}{Email}#=%=#stylebbum@gmail.com
+Author{6}{Affiliation}#=%=#Amazon Alexa AI
+Author{7}{Firstname}#=%=#Spyros
+Author{7}{Lastname}#=%=#Matsoukas
+Author{7}{Username}#=%=#smatsoukas
+Author{7}{Email}#=%=#smatsoukas@verizon.net
+Author{7}{Affiliation}#=%=#Amazon.com
+Author{8}{Firstname}#=%=#Ruhi
+Author{8}{Lastname}#=%=#Sarikaya
+Author{8}{Username}#=%=#ruhi.sarikaya
+Author{8}{Email}#=%=#ruhi_sarikaya@yahoo.com
+Author{8}{Affiliation}#=%=#Amazon
+
+==========

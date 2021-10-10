@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3493
+FinalPaperTitle#=%=#Uncovering Implicit Gender Bias in Narratives through Commonsense Inference
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Faeze Brahman
+JobTitle#==#
+Organization#==#UC Santa Cruz
+Abstract#==#Pre-trained language models learn socially harmful biases from their training corpora, and may repeat these biases when used for generation. We study gender biases associated with the protagonist in model-generated stories. Such biases may be expressed either explicitly (``women can't park'') or implicitly (e.g. an unsolicited male character guides her into a parking space). We focus on implicit biases, and  use a commonsense reasoning engine to uncover them. Specifically, we infer and analyze the protagonist's motivations, attributes, mental states, and implications on others. Our findings regarding implicit biases are in line with prior work that studied explicit biases, for example showing that female characters' portrayal is centered around appearance, while male figures' focus on intellect.
+Author{1}{Firstname}#=%=#Tenghao
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#tenghaohuang
+Author{1}{Email}#=%=#tenghao@live.unc.edu
+Author{1}{Affiliation}#=%=#University of North Carolina, Chapel Hill
+Author{2}{Firstname}#=%=#Faeze
+Author{2}{Lastname}#=%=#Brahman
+Author{2}{Username}#=%=#fbrahman
+Author{2}{Email}#=%=#fbrahman@ucsc.edu
+Author{2}{Affiliation}#=%=#UC Santa Cruz
+Author{3}{Firstname}#=%=#Vered
+Author{3}{Lastname}#=%=#Shwartz
+Author{3}{Username}#=%=#vered.shwartz
+Author{3}{Email}#=%=#vered1986@gmail.com
+Author{3}{Affiliation}#=%=#University of Washington / Allen Institute for AI (AI2)
+Author{4}{Firstname}#=%=#Snigdha
+Author{4}{Lastname}#=%=#Chaturvedi
+Author{4}{Username}#=%=#snigdha
+Author{4}{Email}#=%=#snigdhac@gmail.com
+Author{4}{Affiliation}#=%=#University of North Carolina, Chapel Hill
+
+==========

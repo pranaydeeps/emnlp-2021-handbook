@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1527
+FinalPaperTitle#=%=#Improving Dialogue State Tracking with Turn-based Loss Function and Sequential Data Augmentation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jarana Manotumruksa
+JobTitle#==#
+Organization#==#University College London
+Gower St, London WC1E 6BT
+Abstract#==#While state-of-the-art Dialogue State Tracking (DST) models show promising results, all of
+them rely on a traditional cross-entropy loss function during the training process, which
+may not be optimal for improving the joint goal accuracy. Although several approaches
+recently propose augmenting the training set by copying user utterances and replacing the
+real slot values with other possible or even similar values, they are not effective at improving
+the performance of existing DST models. To address these challenges, we propose a Turn-based Loss Function (TLF) that penalises the model if it inaccurately predicts a slot value at the early turns more so than in later turns in order to improve joint goal accuracy. We also propose a simple but effective Sequential Data Augmentation (SDA) algorithm to generate more complex user utterances and system responses to effectively train existing DST models. Experimental results on two standard DST benchmark collections demonstrate that our proposed TLF and SDA techniques significantly improve the effectiveness of the state-of-the-art DST model by approximately 7-8% relative reduction in error and achieves a new state-of-the-art joint goal accuracy with 59.50 and 54.90 on MultiWOZ2.1 and MultiWOZ2.2, respectively.
+Author{1}{Firstname}#=%=#Jarana
+Author{1}{Lastname}#=%=#Manotumruksa
+Author{1}{Username}#=%=#feay1234
+Author{1}{Email}#=%=#feay1234@gmail.com
+Author{1}{Affiliation}#=%=#ucl.ac.uk
+Author{2}{Firstname}#=%=#Jeff
+Author{2}{Lastname}#=%=#Dalton
+Author{2}{Username}#=%=#jefferydalton
+Author{2}{Email}#=%=#jeff.dalton.gla@gmail.com
+Author{2}{Affiliation}#=%=#University of Glasgow
+Author{3}{Firstname}#=%=#Edgar
+Author{3}{Lastname}#=%=#Meij
+Author{3}{Username}#=%=#ejmeij
+Author{3}{Email}#=%=#emeij@bloomberg.net
+Author{3}{Affiliation}#=%=#Bloomberg
+Author{4}{Firstname}#=%=#Emine
+Author{4}{Lastname}#=%=#Yilmaz
+Author{4}{Username}#=%=#eminey
+Author{4}{Email}#=%=#emine.yilmaz@gmail.com
+Author{4}{Affiliation}#=%=#UCL & Amazon
+
+==========

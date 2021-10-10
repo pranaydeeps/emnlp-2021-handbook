@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#1067
+FinalPaperTitle#=%=#mT6: Multilingual Pretrained Text-to-Text Transformer with Translation Pairs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Zewen Chi
+JobTitle#==#
+Organization#==#
+Abstract#==#Multilingual T5 pretrains a sequence-to-sequence model on massive monolingual texts, which has shown promising results on many cross-lingual tasks. In this paper, we improve multilingual text-to-text transfer Transformer with translation pairs (mT6). Specifically, we explore three cross-lingual text-to-text pre-training tasks, namely, machine translation, translation pair span corruption, and translation span corruption. In addition, we propose a partially non-autoregressive objective for text-to-text pre-training. We evaluate the methods on seven multilingual benchmark datasets, including sentence classification, named entity recognition, question answering, and abstractive summarization. Experimental results show that the proposed mT6 improves cross-lingual transferability over mT5.
+Author{1}{Firstname}#=%=#Zewen
+Author{1}{Lastname}#=%=#Chi
+Author{1}{Username}#=%=#czwin32768
+Author{1}{Email}#=%=#czwin32768@gmail.com
+Author{1}{Affiliation}#=%=#Beijing Institute of Technology
+Author{2}{Firstname}#=%=#Li
+Author{2}{Lastname}#=%=#Dong
+Author{2}{Username}#=%=#donglixp
+Author{2}{Email}#=%=#donglixp@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Shuming
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Username}#=%=#shumingma
+Author{3}{Email}#=%=#shumma@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia
+Author{4}{Firstname}#=%=#Shaohan
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Username}#=%=#shaohan
+Author{4}{Email}#=%=#shaohanh@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Asia
+Author{5}{Firstname}#=%=#Saksham
+Author{5}{Lastname}#=%=#Singhal
+Author{5}{Username}#=%=#saksham.singhal1
+Author{5}{Email}#=%=#saksham.singhal1@outlook.com
+Author{5}{Affiliation}#=%=#Microsoft
+Author{6}{Firstname}#=%=#Xian-Ling
+Author{6}{Lastname}#=%=#Mao
+Author{6}{Username}#=%=#xianlingmao
+Author{6}{Email}#=%=#maoxl@bit.edu.cn
+Author{6}{Affiliation}#=%=#Beijing Institute of Technology
+Author{7}{Firstname}#=%=#Heyan
+Author{7}{Lastname}#=%=#Huang
+Author{7}{Username}#=%=#hhy63
+Author{7}{Email}#=%=#hhy63@bit.edu.cn
+Author{7}{Affiliation}#=%=#Beijing Institute of Technology
+Author{8}{Firstname}#=%=#Xia
+Author{8}{Lastname}#=%=#Song
+Author{8}{Username}#=%=#xiaso1
+Author{8}{Email}#=%=#xiaso1@outlook.com
+Author{8}{Affiliation}#=%=#Microsoft
+Author{9}{Firstname}#=%=#Furu
+Author{9}{Lastname}#=%=#Wei
+Author{9}{Username}#=%=#fuwei
+Author{9}{Email}#=%=#fuwei@microsoft.com
+Author{9}{Affiliation}#=%=#Microsoft Research
+
+==========

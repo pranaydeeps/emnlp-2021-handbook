@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3005
+FinalPaperTitle#=%=#{IR} like a {SIR}: {S}ense-enhanced {I}nformation {R}etrieval for {M}ultiple {L}anguages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Rexhina Blloshmi
+JobTitle#==#
+Organization#==#Sapienza University of Rome, Rome, Italy
+Abstract#==#With the advent of contextualized embeddings, attention towards neural ranking approaches for Information Retrieval increased considerably. However, two aspects have remained largely neglected: i) queries usually consist of few keywords only, which increases ambiguity and makes their contextualization harder, and ii) performing neural ranking on non-English documents is still cumbersome due to shortage of labeled datasets. In this paper we present SIR (Sense-enhanced Information Retrieval) to mitigate both problems by leveraging word sense information. At the core of our approach lies a novel multilingual query expansion mechanism based on Word Sense Disambiguation that provides sense definitions as additional semantic information for the query. Importantly, we use senses as a bridge across languages, thus allowing our model to perform considerably better than its supervised and unsupervised alternatives across French, German, Italian and Spanish languages on several CLEF benchmarks, while being trained on English Robust04 data only. We release SIR at https://github.com/SapienzaNLP/sir.
+Author{1}{Firstname}#=%=#Rexhina
+Author{1}{Lastname}#=%=#Blloshmi
+Author{1}{Username}#=%=#rblloshmi
+Author{1}{Email}#=%=#blloshmi@di.uniroma1.it
+Author{1}{Affiliation}#=%=#Sapienza University of Rome
+Author{2}{Firstname}#=%=#Tommaso
+Author{2}{Lastname}#=%=#Pasini
+Author{2}{Username}#=%=#tommaso.pasini
+Author{2}{Email}#=%=#tommaso.pasini@di.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Firstname}#=%=#Niccolò
+Author{3}{Lastname}#=%=#Campolungo
+Author{3}{Username}#=%=#valahaar
+Author{3}{Email}#=%=#campolungo@di.uniroma1.it
+Author{3}{Affiliation}#=%=#La Sapienza University
+Author{4}{Firstname}#=%=#Somnath
+Author{4}{Lastname}#=%=#Banerjee
+Author{4}{Username}#=%=#softconfsom
+Author{4}{Email}#=%=#sb.cse.ju@gmail.com
+Author{4}{Affiliation}#=%=#University of Milano-Bicocca
+Author{5}{Firstname}#=%=#Roberto
+Author{5}{Lastname}#=%=#Navigli
+Author{5}{Username}#=%=#navigli
+Author{5}{Email}#=%=#roberto.navigli@uniroma1.it
+Author{5}{Affiliation}#=%=#Sapienza University of Rome
+Author{6}{Firstname}#=%=#Gabriella
+Author{6}{Lastname}#=%=#Pasi
+Author{6}{Username}#=%=#gabripasi
+Author{6}{Email}#=%=#gabriella.pasi@unimib.it
+Author{6}{Affiliation}#=%=#Università degli Studi di Milano Bicocca
+
+==========

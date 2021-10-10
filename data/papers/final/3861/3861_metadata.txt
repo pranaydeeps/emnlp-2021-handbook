@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3861
+FinalPaperTitle#=%=#Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xuming Hu
+JobTitle#==#
+Organization#==#
+Abstract#==#Low-resource Relation Extraction (LRE) aims to extract relation facts from limited labeled corpora when human annotation is scarce. Existing works either utilize self-training scheme to generate pseudo labels that will cause the gradual drift problem, or leverage meta-learning scheme which does not solicit feedback explicitly. To alleviate selection bias due to the lack of feedback loops in existing LRE learning paradigms, we developed a Gradient Imitation Reinforcement Learning method to encourage pseudo label data to imitate the gradient descent direction on labeled data and bootstrap its optimization capability through trial and error. We also propose a framework called GradLRE, which handles two major scenarios in low-resource relation extraction. Besides the scenario where unlabeled data is sufficient, GradLRE handles the situation where no unlabeled data is available, by exploiting a contextualized augmentation method to generate data. Experimental results on two public datasets demonstrate the effectiveness of GradLRE on low resource relation extraction when comparing with baselines.
+Author{1}{Firstname}#=%=#Xuming
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Username}#=%=#xuminghu
+Author{1}{Email}#=%=#hxm19@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#School of Software, Tsinghua University
+Author{2}{Firstname}#=%=#Chenwei
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#cwzhang910
+Author{2}{Email}#=%=#cwzhang910@gmail.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Yawen
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Username}#=%=#yangyw19
+Author{3}{Email}#=%=#yyw19@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#School of Software, Tsinghua University
+Author{4}{Firstname}#=%=#Xiaohe
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#seanlxh
+Author{4}{Email}#=%=#lixh18@mails.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Li
+Author{5}{Lastname}#=%=#Lin
+Author{5}{Username}#=%=#veralily
+Author{5}{Email}#=%=#lin-l16@mails.tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua University
+Author{6}{Firstname}#=%=#Lijie
+Author{6}{Lastname}#=%=#Wen
+Author{6}{Username}#=%=#wenlj
+Author{6}{Email}#=%=#wenlj@tsinghua.edu.cn
+Author{6}{Affiliation}#=%=#School of Software, Tsinghua University
+Author{7}{Firstname}#=%=#Philip S.
+Author{7}{Lastname}#=%=#Yu
+Author{7}{Username}#=%=#psyu2021
+Author{7}{Email}#=%=#psyu@cs.uic.edu
+Author{7}{Affiliation}#=%=#University of Illinois at Chicago
+
+==========

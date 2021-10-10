@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#3627
+FinalPaperTitle#=%=#Detecting Contact-Induced Semantic Shifts: {W}hat Can Embedding-Based Methods Do in Practice?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Filip Miletic
+JobTitle#==#
+Organization#==#
+Abstract#==#This study investigates the applicability of semantic change detection methods in descriptively oriented linguistic research. It specifically focuses on contact-induced semantic shifts in Quebec English. We contrast synchronic data from different regions in order to identify the meanings that are specific to Quebec and potentially related to language contact. Type-level embeddings are used to detect new semantic shifts, and token-level embeddings to isolate regionally specific occurrences. We introduce a new 80-item test set and conduct both quantitative and qualitative evaluations. 
+
+We demonstrate that diachronic word embedding methods can be applied to contact-induced semantic shifts observed in synchrony, obtaining results comparable to the state of the art on similar tasks in diachrony. However, we show that encouraging evaluation results do not translate to practical value in detecting new semantic shifts. Finally, our application of token-level embeddings accelerates manual data exploration and provides an efficient way of scaling up sociolinguistic analyses.
+Author{1}{Firstname}#=%=#Filip
+Author{1}{Lastname}#=%=#Miletic
+Author{1}{Username}#=%=#fmiletic
+Author{1}{Email}#=%=#filip.miletic@univ-tlse2.fr
+Author{1}{Affiliation}#=%=#CLLE, CNRS & University of Toulouse
+Author{2}{Firstname}#=%=#Anne
+Author{2}{Lastname}#=%=#Przewozny-Desriaux
+Author{2}{Email}#=%=#anne.przewozny@univ-tlse2.fr
+Author{2}{Affiliation}#=%=#CLLE, CNRS & University of Toulouse
+Author{3}{Firstname}#=%=#Ludovic
+Author{3}{Lastname}#=%=#Tanguy
+Author{3}{Username}#=%=#tanguy
+Author{3}{Email}#=%=#ludovic.tanguy@univ-tlse2.fr
+Author{3}{Affiliation}#=%=#CLLE: University of Toulouse & CNRS
+
+==========

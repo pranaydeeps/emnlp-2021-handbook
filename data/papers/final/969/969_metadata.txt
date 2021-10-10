@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#969
+FinalPaperTitle#=%=#SOM-NCSCM : An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Kangli Zi
+JobTitle#==#
+Organization#==#Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, No. 6 Kexueyuan South Road, Haidian District, Beijing, China.
+Abstract#==#Sentence Compression (SC), which aims to shorten sentences while retaining important words that express the essential meanings, has been studied for many years in many languages, especially in English. However, improvements on Chinese SC task are still quite few due to several difficulties: scarce of parallel corpora, different segmentation granularity of Chinese sentences, and imperfect performance of syntactic analyses. Furthermore, entire neural Chinese SC models have been under-investigated so far. In this work, we construct an SC dataset of Chinese colloquial sentences from a real-life question answering system in the telecommunication domain, and then, we propose a neural Chinese SC model enhanced with a Self-Organizing Map (SOM-NCSCM), to gain a valuable insight from the data and improve the performance of the whole neural Chinese SC model in a valid manner. Experimental results show that our SOM-NCSCM can significantly benefit from the deep investigation of similarity among data, and achieve a promising F1 score of 89.655 and BLEU4 score of 70.116, which also provides a baseline for further research on Chinese SC task.
+Author{1}{Firstname}#=%=#Kangli
+Author{1}{Lastname}#=%=#Zi
+Author{1}{Username}#=%=#zkl
+Author{1}{Email}#=%=#zikangli19b@ict.ac.cn
+Author{1}{Affiliation}#=%=#1. Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS) 2. University of Chinese Academy of Sciences, Beijing, China
+Author{2}{Firstname}#=%=#Shi
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangshi
+Author{2}{Email}#=%=#wangshi@ict.ac.cn
+Author{2}{Affiliation}#=%=#Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)
+Author{3}{Firstname}#=%=#Yu
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#lydiy
+Author{3}{Email}#=%=#liuyu19s@ict.ac.cn
+Author{3}{Affiliation}#=%=#1. Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS) 2. University of Chinese Academy of Sciences, Beijing, China
+Author{4}{Firstname}#=%=#Jicun
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#komaeda
+Author{4}{Email}#=%=#lijicun19s@ict.ac.cn
+Author{4}{Affiliation}#=%=#1. Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS) 2. University of Chinese Academy of Sciences, Beijing, China
+Author{5}{Firstname}#=%=#Yanan
+Author{5}{Lastname}#=%=#Cao
+Author{5}{Username}#=%=#snowbaby85
+Author{5}{Email}#=%=#caoyanan@iie.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Science
+Author{6}{Firstname}#=%=#Cungen
+Author{6}{Lastname}#=%=#Cao
+Author{6}{Username}#=%=#cgcao
+Author{6}{Email}#=%=#cgcao@ict.ac.cn
+
+==========

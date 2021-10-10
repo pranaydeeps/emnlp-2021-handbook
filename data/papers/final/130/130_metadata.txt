@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#130
+FinalPaperTitle#=%=#Sentence-Permuted Paragraph Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Wenhao Yu
+JobTitle#==#
+Organization#==#
+Abstract#==#Generating paragraphs of diverse contents is important in many applications. Existing generation models produce similar contents from homogenized contexts due to the fixed left-to-right sentence order. Our idea is permuting the sentence orders to improve the content diversity of multi-sentence paragraph. We propose a novel framework PermGen whose objective is to maximize the expected log-likelihood of output paragraph distributions with respect to all possible sentence orders. PermGen uses hierarchical positional embedding and designs new procedures for training, and decoding in the sentence-permuted generation. Experiments on three paragraph generation benchmarks demonstrate PermGen generates more diverse outputs with a higher quality than existing models.
+Author{1}{Firstname}#=%=#Wenhao
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#wenhaoyu97
+Author{1}{Email}#=%=#wyu1@nd.edu
+Author{1}{Affiliation}#=%=#University of Notre Dame
+Author{2}{Firstname}#=%=#Chenguang
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Username}#=%=#zcgzcgzcg
+Author{2}{Email}#=%=#zcg.cs60@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Cognitive Services Research Group
+Author{3}{Firstname}#=%=#Tong
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Username}#=%=#tzhao2
+Author{3}{Email}#=%=#tzhao2@nd.edu
+Author{3}{Affiliation}#=%=#University of Notre Dame
+Author{4}{Firstname}#=%=#Zhichun
+Author{4}{Lastname}#=%=#Guo
+Author{4}{Username}#=%=#zguo5
+Author{4}{Email}#=%=#zguo5@nd.edu
+Author{4}{Affiliation}#=%=#University of Notre Dame
+Author{5}{Firstname}#=%=#Meng
+Author{5}{Lastname}#=%=#Jiang
+Author{5}{Username}#=%=#mjiang89
+Author{5}{Email}#=%=#mjiang2@nd.edu
+Author{5}{Affiliation}#=%=#University of Notre Dame
+
+==========

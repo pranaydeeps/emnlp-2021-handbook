@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1152
+FinalPaperTitle#=%=#Exploiting Reasoning Chains for Multi-hop Science Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Xu Weiwen
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a novel Chain Guided Retriever-reader ({\tt CGR}) framework to model the reasoning chain for multi-hop Science Question Answering. Our framework is capable of performing explainable reasoning without the need of any corpus-specific annotations, such as the ground-truth reasoning chain, or human-annotated entity mentions. 
+Specifically, we first generate reasoning chains from a semantic graph constructed by Abstract Meaning Representation of retrieved evidence facts. A \textit{Chain-aware loss}, concerning both local and global chain information, is also designed to enable the generated chains to serve as distant supervision signals for training the retriever, where reinforcement learning is also adopted to maximize the utility of the reasoning chains. 
+Our framework allows the retriever to capture step-by-step clues of the entire reasoning process, which is not only shown to be effective on two challenging multi-hop Science QA tasks, namely OpenBookQA and ARC-Challenge, but also favors explainability.
+Author{1}{Firstname}#=%=#Weiwen
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#xww033
+Author{1}{Email}#=%=#wwxu@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Yang
+Author{2}{Lastname}#=%=#Deng
+Author{2}{Username}#=%=#d123y456
+Author{2}{Email}#=%=#ydeng@se.cuhk.edu.hk
+Author{2}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{3}{Firstname}#=%=#Huihui
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#huihuizhang
+Author{3}{Email}#=%=#huihuizhang@vt.edu
+Author{3}{Affiliation}#=%=#Virginia Polytechnic Institute and State University
+Author{4}{Firstname}#=%=#Deng
+Author{4}{Lastname}#=%=#Cai
+Author{4}{Username}#=%=#jcykcd
+Author{4}{Email}#=%=#thisisjcykcd@gmail.com
+Author{4}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{5}{Firstname}#=%=#Wai
+Author{5}{Lastname}#=%=#Lam
+Author{5}{Username}#=%=#wlam
+Author{5}{Email}#=%=#wlam@se.cuhk.edu.hk
+Author{5}{Affiliation}#=%=#The Chinese University of Hong Kong
+
+==========

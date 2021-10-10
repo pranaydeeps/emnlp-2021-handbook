@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#154
+FinalPaperTitle#=%=#HiTRANS: A Hierarchical Transformer Network for Nested Named Entity Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Zhiwei Yang
+JobTitle#==#
+Organization#==#Jilin University / 
+2699 Qianjin Street, Chaoyang District, Changchun City, Jilin Province, China
+Abstract#==#Nested Named Entity Recognition (NNER) has been extensively studied, aiming to identify all nested entities from potential spans (i.e., one or more continuous tokens). However, recent studies for NNER either focus on tedious tagging schemas or utilize complex structures, which fail to learn effective span representations from the input sentence with highly nested entities. Intuitively, explicit span representations will contribute to NNER due to the rich context information they contain. In this study, we propose a Hierarchical Transformer (HiTRANS) network for the NNER task, which decomposes the input sentence into multi-grained spans and enhances the representation learning in a hierarchical manner. Specifically, we first utilize a two-phase module to generate span representations by aggregating context information based on a bottom-up and top-down transformer network. Then a label prediction layer is designed to recognize nested entities hierarchically, which naturally explores semantic dependencies among different spans. Experiments on GENIA, ACE-2004, ACE-2005 and NNE datasets demonstrate that our proposed method achieves much better performance than the state-of-the-art approaches.
+Author{1}{Firstname}#=%=#Zhiwei
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#zwyang
+Author{1}{Email}#=%=#yangzw18@mails.jlu.edu.cn
+Author{1}{Affiliation}#=%=#College of Computer Science and Technology, Jilin University
+Author{2}{Firstname}#=%=#Jing
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#majing
+Author{2}{Email}#=%=#mmjjblue@gmail.com
+Author{2}{Affiliation}#=%=#Hong Kong Baptist University
+Author{3}{Firstname}#=%=#Hechang
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#hechang01
+Author{3}{Email}#=%=#chenhc@jlu.edu.cn
+Author{3}{Affiliation}#=%=#Jilin University
+Author{4}{Firstname}#=%=#Yunke
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#zyker
+Author{4}{Email}#=%=#zhangyk19@mails.jlu.edu.cn
+Author{4}{Affiliation}#=%=#Jilin University
+Author{5}{Firstname}#=%=#Yi
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Username}#=%=#yichang
+Author{5}{Email}#=%=#yichang@jlu.edu.cn
+Author{5}{Affiliation}#=%=#School of Artificial Intelligence, Jilin University
+
+==========

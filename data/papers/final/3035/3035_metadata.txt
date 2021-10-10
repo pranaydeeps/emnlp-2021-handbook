@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#3035
+FinalPaperTitle#=%=#SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Khondoker Ittehadul Islam
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we propose an annotated sentiment analysis dataset made of informally written Bangla texts. This dataset comprises public comments on news and videos collected from social media covering 13 different domains, including politics, education, and agriculture. These comments are labeled with one of the polarity labels, namely positive, negative, and neutral. One significant characteristic of the dataset is that each of the comments is noisy in terms of the mix of dialects and grammatical incorrectness. Our experiments to develop a benchmark classification system show that hand-crafted lexical features provide superior performance than neural network and pretrained language models. We have made the dataset and accompanying models presented in this paper publicly available at https://git.io/JuuNB.
+Author{1}{Firstname}#=%=#Khondoker Ittehadul
+Author{1}{Lastname}#=%=#Islam
+Author{1}{Username}#=%=#khondoker
+Author{1}{Email}#=%=#shanislam6@gmail.com
+Author{1}{Affiliation}#=%=#Shahjalal University of Science and Technology
+Author{2}{Firstname}#=%=#Sudipta
+Author{2}{Lastname}#=%=#Kar
+Author{2}{Username}#=%=#skar3
+Author{2}{Email}#=%=#skar3@uh.edu
+Author{2}{Affiliation}#=%=#Amazon Alexa AI
+Author{3}{Firstname}#=%=#Md Saiful
+Author{3}{Lastname}#=%=#Islam
+Author{3}{Email}#=%=#mdsaifu1@ualberta.ca
+Author{3}{Affiliation}#=%=#University of Alberta
+Author{4}{Firstname}#=%=#Mohammad Ruhul
+Author{4}{Lastname}#=%=#Amin
+Author{4}{Username}#=%=#mamin17
+Author{4}{Email}#=%=#mamin17@fordham.edu
+Author{4}{Affiliation}#=%=#Fordham University
+
+==========

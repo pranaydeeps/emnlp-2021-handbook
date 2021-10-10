@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1696
+FinalPaperTitle#=%=#Learning with Instance Bundles for Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Dheeru Dua
+JobTitle#==#
+Organization#==#University of California, Irvine, CA-92697
+Abstract#==#When training most modern reading comprehension models, all the questions associated with a context are treated as being independent from each other. However, closely related questions and their corresponding answers are not independent, and leveraging these relationships could provide a strong supervision signal to a model.  Drawing on ideas from contrastive estimation, we introduce several new supervision losses that compare question-answer scores across multiple related instances.  Specifically, we normalize these scores across various neighborhoods of closely contrasting questions and/or answers, adding a cross entropy loss term in addition to traditional maximum likelihood estimation.  Our techniques require bundles of related question-answer pairs, which we either mine from within existing data or create using automated heuristics.   We empirically demonstrate the effectiveness of training with instance bundles on two datasets---HotpotQA and ROPES---showing up to 9% absolute gains in accuracy.
+Author{1}{Firstname}#=%=#Dheeru
+Author{1}{Lastname}#=%=#Dua
+Author{1}{Username}#=%=#ddua
+Author{1}{Email}#=%=#dheeru_dua@hotmail.com
+Author{1}{Affiliation}#=%=#University of California, Irvine
+Author{2}{Firstname}#=%=#Pradeep
+Author{2}{Lastname}#=%=#Dasigi
+Author{2}{Username}#=%=#pdasigi
+Author{2}{Email}#=%=#pradeepd@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{3}{Firstname}#=%=#Sameer
+Author{3}{Lastname}#=%=#Singh
+Author{3}{Username}#=%=#sameer
+Author{3}{Email}#=%=#sameer@uci.edu
+Author{3}{Affiliation}#=%=#University of California, Irvine
+Author{4}{Firstname}#=%=#Matt
+Author{4}{Lastname}#=%=#Gardner
+Author{4}{Username}#=%=#mattg
+Author{4}{Email}#=%=#matthewjgardner1@gmail.com
+
+==========

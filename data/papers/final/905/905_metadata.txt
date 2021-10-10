@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#905
+FinalPaperTitle#=%=#English Machine Reading Comprehension Datasets: A Survey
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Daria Dzendzik
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper surveys 60 English Machine Reading Comprehension datasets, with a view to providing a convenient resource for other researchers interested in this problem. 
+We categorize the datasets according to their question and answer form and compare them across various dimensions including size, vocabulary, data source, method of creation, human performance level, and first question word. 
+Our analysis reveals that Wikipedia is by far the most common data source and that there is a relative lack of why, when, and where questions across datasets.
+Author{1}{Firstname}#=%=#Daria
+Author{1}{Lastname}#=%=#Dzendzik
+Author{1}{Username}#=%=#dariadzendzik
+Author{1}{Email}#=%=#daryadzen@gmail.com
+Author{1}{Affiliation}#=%=#ADAPT Centre Dublin City University
+Author{2}{Firstname}#=%=#Jennifer
+Author{2}{Lastname}#=%=#Foster
+Author{2}{Username}#=%=#jfoster
+Author{2}{Email}#=%=#fosterjen@gmail.com
+Author{2}{Affiliation}#=%=#Dublin City University
+Author{3}{Firstname}#=%=#Carl
+Author{3}{Lastname}#=%=#Vogel
+Author{3}{Username}#=%=#vogel
+Author{3}{Email}#=%=#vogel@tcd.ie
+Author{3}{Affiliation}#=%=#Trinity College Dublin
+
+==========

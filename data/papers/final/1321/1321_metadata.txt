@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#1321
+FinalPaperTitle#=%=#Constructing contrastive samples via summarization for text classification with limited annotations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yangkai Du
+JobTitle#==#
+Organization#==#
+Abstract#==#Contrastive Learning has emerged as a powerful representation learning method and facilitates various downstream tasks especially when supervised data is limited. How to construct efficient contrastive samples through data augmentation is key to its success. Unlike vision tasks, the data augmentation method for contrastive learning has not been investigated sufficiently in language tasks. In this paper, we propose a novel approach to construct contrastive samples for language tasks using text summarization. We use these samples for supervised contrastive learning to gain better text representations which greatly benefit text classification tasks with limited annotations. To further improve the method, we mix up samples from different classes and add an extra regularization, named Mixsum, in addition to the cross-entropy-loss. Experiments on real-world text classification datasets (Amazon-5, Yelp-5, AG News, and IMDb) demonstrate the effectiveness of the proposed contrastive learning framework with summarization-based data augmentation and Mixsum regularization.
+Author{1}{Firstname}#=%=#Yangkai
+Author{1}{Lastname}#=%=#Du
+Author{1}{Username}#=%=#yangkaidu
+Author{1}{Email}#=%=#dyk872508364@outlook.com
+Author{1}{Affiliation}#=%=#Zhejiang University
+Author{2}{Firstname}#=%=#Tengfei
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#pursuer
+Author{2}{Email}#=%=#tengfei.ma1@ibm.com
+Author{2}{Affiliation}#=%=#IBM Research AI
+Author{3}{Firstname}#=%=#Lingfei
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Username}#=%=#teddylfwu
+Author{3}{Email}#=%=#lwu@email.wm.edu
+Author{3}{Affiliation}#=%=#JD.COM Silicon Valley Research Center
+Author{4}{Firstname}#=%=#Fangli
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Username}#=%=#misslili
+Author{4}{Email}#=%=#lili@yixue.us
+Author{4}{Affiliation}#=%=#Yixue Education Inc.
+Author{5}{Firstname}#=%=#Xuhong
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Username}#=%=#xuhongnever
+Author{5}{Email}#=%=#zhangxuhong@zju.edu.cn
+Author{5}{Affiliation}#=%=#Zhejiang University
+Author{6}{Firstname}#=%=#Bo
+Author{6}{Lastname}#=%=#Long
+Author{6}{Email}#=%=#bo.long@jd.com
+Author{6}{Affiliation}#=%=#JD.COM
+Author{7}{Firstname}#=%=#Shouling
+Author{7}{Lastname}#=%=#Ji
+Author{7}{Username}#=%=#shouling_ji
+Author{7}{Email}#=%=#sji@zju.edu.cn
+Author{7}{Affiliation}#=%=#Zhejiang University
+
+==========

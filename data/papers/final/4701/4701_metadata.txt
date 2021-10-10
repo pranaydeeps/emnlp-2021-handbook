@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#4701
+FinalPaperTitle#=%=#Uncertainty Measures in Neural Belief Tracking and the Effects on Dialogue Policy Performance
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Carel van Niekerk
+JobTitle#==#
+Organization#==#
+Abstract#==#The ability to identify and resolve uncertainty is crucial for the robustness of a dialogue system. Indeed, this has been confirmed empirically on systems that utilise Bayesian approaches to dialogue belief tracking.  However, such systems consider only confidence estimates and have difficulty scaling to more complex settings.  Neural dialogue systems, on the other hand, rarely take uncertainties into account. They are therefore overconfident in their decisions and less robust.  Moreover, the performance of the tracking task is often evaluated in isolation, without consideration of its effect on the downstream policy optimisation.  We propose the use of different uncertainty measures in neural belief tracking.  The effects of these measures on the downstream task of policy optimisation are evaluated by adding selected measures of uncertainty to the feature space of the policy and training policies through interaction with a user simulator. Both human and simulated user results show that incorporating these measures leads to improvements both of the performance and of the robustness of the downstream dialogue policy. This highlights the importance of developing neural dialogue belief trackers that take uncertainty into account.
+Author{1}{Firstname}#=%=#Carel
+Author{1}{Lastname}#=%=#van Niekerk
+Author{1}{Username}#=%=#carelvn12
+Author{1}{Email}#=%=#niekerk@hhu.de
+Author{1}{Affiliation}#=%=#Heinrich Heine University
+Author{2}{Firstname}#=%=#Andrey
+Author{2}{Lastname}#=%=#Malinin
+Author{2}{Username}#=%=#am969
+Author{2}{Email}#=%=#am969@yandex-team.ru
+Author{2}{Affiliation}#=%=#Yandex, HSE
+Author{3}{Firstname}#=%=#Christian
+Author{3}{Lastname}#=%=#Geishauser
+Author{3}{Username}#=%=#christiangeishauser
+Author{3}{Email}#=%=#geishaus@uni-duesseldorf.de
+Author{3}{Affiliation}#=%=#Heinrich Heine University Duesseldorf
+Author{4}{Firstname}#=%=#Michael
+Author{4}{Lastname}#=%=#Heck
+Author{4}{Username}#=%=#mheck
+Author{4}{Email}#=%=#michael.heck@hhu.de
+Author{4}{Affiliation}#=%=#Heinrich Heine University
+Author{5}{Firstname}#=%=#Hsien-chin
+Author{5}{Lastname}#=%=#Lin
+Author{5}{Username}#=%=#hsien1993
+Author{5}{Email}#=%=#linh@hhu.de
+Author{5}{Affiliation}#=%=#Heinrich Heine University
+Author{6}{Firstname}#=%=#Nurul
+Author{6}{Lastname}#=%=#Lubis
+Author{6}{Username}#=%=#nflubis
+Author{6}{Email}#=%=#lubis@hhu.de
+Author{6}{Affiliation}#=%=#Heinrich Heine University
+Author{7}{Firstname}#=%=#Shutong
+Author{7}{Lastname}#=%=#Feng
+Author{7}{Username}#=%=#shutongfeng
+Author{7}{Email}#=%=#shutong.feng@hhu.de
+Author{7}{Affiliation}#=%=#Heinrich-Heine-Universität Düsseldorf
+Author{8}{Firstname}#=%=#Milica
+Author{8}{Lastname}#=%=#Gasic
+Author{8}{Username}#=%=#milicagasic
+Author{8}{Email}#=%=#gasic@uni-duesseldorf.de
+Author{8}{Affiliation}#=%=#Heinrich Heine University Duesseldorf
+
+==========

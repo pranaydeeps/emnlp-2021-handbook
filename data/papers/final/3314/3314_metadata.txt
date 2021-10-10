@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3314
+FinalPaperTitle#=%=#ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Rujun Han
+JobTitle#==#
+Organization#==#
+Abstract#==#Understanding how events are semantically related to each other is the essence of reading comprehension. Recent event-centric reading comprehension datasets focus mostly on event arguments or temporal relations. While these tasks partially evaluate machines' ability of narrative understanding, human-like reading comprehension requires the capability to process event-based information beyond arguments and temporal reasoning. For example, to understand causality between events, we need to infer motivation or purpose; to establish event hierarchy, we need to understand the composition of events. To facilitate these tasks, we introduce **ESTER**, a comprehensive machine reading comprehension (MRC) dataset for Event Semantic Relation Reasoning. The dataset leverages natural language queries to reason about the five most common event semantic relations, provides more than 6K questions, and captures 10.1K event relation pairs. Experimental results show that the current SOTA systems achieve 22.1%, 63.3% and 83.5% for token-based exact-match (**EM**), **F1** and event-based **HIT@1** scores, which are all significantly below human performances (36.0%, 79.6%, 100% respectively), highlighting our dataset as a challenging benchmark.
+Author{1}{Firstname}#=%=#Rujun
+Author{1}{Lastname}#=%=#Han
+Author{1}{Username}#=%=#rjh347
+Author{1}{Email}#=%=#rujunhan@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#I-Hung
+Author{2}{Lastname}#=%=#Hsu
+Author{2}{Username}#=%=#ihunghsu
+Author{2}{Email}#=%=#ihunghsu@usc.edu
+Author{2}{Affiliation}#=%=#USC Information Sciences Institute
+Author{3}{Firstname}#=%=#Jiao
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Username}#=%=#sunjiao123sun
+Author{3}{Email}#=%=#jiaosun@usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+Author{4}{Firstname}#=%=#Julia
+Author{4}{Lastname}#=%=#Baylon
+Author{4}{Username}#=%=#juliabaylon
+Author{4}{Email}#=%=#juliabaylon@ucla.edu
+Author{4}{Affiliation}#=%=#University of California, Los Angeles
+Author{5}{Firstname}#=%=#Qiang
+Author{5}{Lastname}#=%=#Ning
+Author{5}{Username}#=%=#qiangning1990
+Author{5}{Email}#=%=#qning@amazon.com
+Author{5}{Affiliation}#=%=#Amazon
+Author{6}{Firstname}#=%=#Dan
+Author{6}{Lastname}#=%=#Roth
+Author{6}{Username}#=%=#danr
+Author{6}{Email}#=%=#danroth@seas.upenn.edu
+Author{6}{Affiliation}#=%=#University of Pennsylvania
+Author{7}{Firstname}#=%=#Nanyun
+Author{7}{Lastname}#=%=#Peng
+Author{7}{Username}#=%=#npeng
+Author{7}{Email}#=%=#violetpeng@cs.ucla.edu
+Author{7}{Affiliation}#=%=#University of California, Los Angeles
+
+==========

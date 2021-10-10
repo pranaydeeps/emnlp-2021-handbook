@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#AutoLAW: Augmented Legal Reasoning through Legal Precedent Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#Robert Zev Mahari
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper demonstrate how NLP can be used to address an unmet need of the legal community and increase access to justice. The paper introduces Legal Precedent Prediction (LPP), the task of predicting relevant passages from precedential court decisions given the context of a legal argument. To this end, the paper showcases a BERT model, trained on 530,000 examples of legal arguments made by U.S. federal judges, to predict relevant passages from precedential court decisions given the context of a legal argument. In 96% of unseen test examples the correct target passage is among the top-10 predicted passages. The same model is able to predict relevant precedent given a short summary of a complex and unseen legal brief, predicting the precedent that was actually cited by the brief's co-author, former U.S. Solicitor General and current U.S. Supreme Court Justice Elena Kagan.
+Author{1}{Firstname}#=%=#Robert Zev
+Author{1}{Lastname}#=%=#Mahari
+Author{1}{Username}#=%=#rmahari
+Author{1}{Email}#=%=#rmahari@mit.edu
+Author{1}{Affiliation}#=%=#Human Dynamics Group, MIT Media Lab, Massachusetts Institute of Technology; Harvard Law School
+
+==========

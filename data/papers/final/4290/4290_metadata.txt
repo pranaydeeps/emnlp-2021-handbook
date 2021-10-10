@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#4290
+FinalPaperTitle#=%=#Gradient-Based Adversarial Factual Consistency Evaluation for Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zhiyuan Zeng
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural abstractive summarization systems have gained significant progress in recent years. However, abstractive summarization often produce inconsisitent statements or false facts. How to automatically generate highly abstract yet factually correct summaries? In this paper, we proposed an efficient weak-supervised adversarial data augmentation approach to form the factual consistency dataset. Based on the artificial dataset, we train an evaluation model that can not only make accurate and robust factual consistency discrimination but is also capable of making interpretable factual errors tracing by backpropagated gradient distribution on token embeddings. Experiments and analysis conduct on public annotated summarization and factual consistency datasets demonstrate our approach effective and reasonable.
+Author{1}{Firstname}#=%=#Zhiyuan
+Author{1}{Lastname}#=%=#Zeng
+Author{1}{Username}#=%=#zengzhiyuan
+Author{1}{Email}#=%=#zengzhiyuan@bupt.edu.cn
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Jiaze
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#teoy
+Author{2}{Email}#=%=#chenjiaze@bytedance.com
+Author{2}{Affiliation}#=%=#Bytedance AI Lab
+Author{3}{Firstname}#=%=#Weiran
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Username}#=%=#xuweiran
+Author{3}{Email}#=%=#xuweiran@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{4}{Firstname}#=%=#Lei
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#leili
+Author{4}{Email}#=%=#lilei@ucsb.edu
+Author{4}{Affiliation}#=%=#UCSB
+
+==========

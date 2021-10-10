@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3800
+FinalPaperTitle#=%=#Guilt by Association: Emotion Intensities in Lexical Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Gerard de Melo
+JobTitle#==#
+Organization#==#
+Abstract#==#What do linguistic models reveal about the emotions associated with words?  In this study, we consider the task of estimating word-level emotion intensity scores for specific emotions, exploring unsupervised, supervised, and finally a self-supervised method of extracting emotional associations from pretrained vectors and models. Overall, we find that linguistic models carry substantial potential for inducing fine-grained emotion intensity scores, showing a far higher correlation with human ground truth ratings than state-of-the-art emotion lexicons based on labeled data.
+Author{1}{Firstname}#=%=#Shahab
+Author{1}{Lastname}#=%=#Raji
+Author{1}{Username}#=%=#shahabraji
+Author{1}{Email}#=%=#shahab.raji@rutgers.edu
+Author{1}{Affiliation}#=%=#Rutgers University
+Author{2}{Firstname}#=%=#Gerard
+Author{2}{Lastname}#=%=#de Melo
+Author{2}{Username}#=%=#gdm
+Author{2}{Email}#=%=#gdm@demelo.org
+Author{2}{Affiliation}#=%=#Hasso Plattner Institute, University of Potsdam
+
+==========

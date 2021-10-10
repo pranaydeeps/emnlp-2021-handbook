@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#788
+FinalPaperTitle#=%=#Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chung-Chi Chen
+JobTitle#==#
+Organization#==#National Taiwan University/ No. 1, Sec. 4, Roosevelt Rd., Taipei 10617, Taiwan
+Abstract#==#Both the issues of data deficiencies and semantic consistency are important for data augmentation. 
+Most of previous methods address the first issue, but ignore the second one. In the cases of aspect-based sentiment analysis, violation of the above issues may change the aspect and sentiment polarity. In this paper, we propose a semantics-preservation data augmentation approach by considering the importance of each word in a textual sequence according to the related aspects and sentiments. We then substitute the unimportant tokens with two replacement strategies without altering the aspect-level polarity. Our approach is evaluated on several publicly available sentiment analysis datasets and the real-world stock price/risk movement prediction scenarios. Experimental results show that our methodology achieves better performances in all datasets.
+Author{1}{Firstname}#=%=#Ting-Wei
+Author{1}{Lastname}#=%=#Hsu
+Author{1}{Username}#=%=#twhsu
+Author{1}{Email}#=%=#twhsu@nlg.csie.ntu.edu.tw
+Author{1}{Affiliation}#=%=#National Taiwan University
+Author{2}{Firstname}#=%=#Chung-Chi
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#chunji
+Author{2}{Email}#=%=#chunji0112@gmail.com
+Author{2}{Affiliation}#=%=#Department of Computer Science and Information Engineering National Taiwan University, Taipei, Taiwan
+Author{3}{Firstname}#=%=#Hen-Hsen
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Username}#=%=#hhhuang
+Author{3}{Email}#=%=#hhhuang@iis.sinica.edu.tw
+Author{3}{Affiliation}#=%=#Institute of Information Science, Academia Sinica
+Author{4}{Firstname}#=%=#Hsin-Hsi
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#hhchen
+Author{4}{Email}#=%=#hhchen@ntu.edu.tw
+Author{4}{Affiliation}#=%=#National Taiwan University
+
+==========

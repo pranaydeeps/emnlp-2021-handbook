@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#71
+FinalPaperTitle#=%=#Learning Mathematical Properties of Integers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Maria Ryskina
+JobTitle#==#
+Organization#==#
+Abstract#==#Embedding words in high-dimensional vector spaces has proven valuable in many natural language applications. In this work, we investigate whether similarly-trained embeddings of integers can capture concepts that are useful for mathematical applications. We probe the integer embeddings for mathematical knowledge, apply them to a set of numerical reasoning tasks, and show that by learning the representations from mathematical sequence data, we can substantially improve over number embeddings learned from English text corpora.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Ryskina
+Author{1}{Username}#=%=#mryskina
+Author{1}{Email}#=%=#mryskina@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Knight
+Author{2}{Username}#=%=#knight
+Author{2}{Email}#=%=#kevin.crawford.knight@gmail.com
+Author{2}{Affiliation}#=%=#DiDi Labs
+
+==========

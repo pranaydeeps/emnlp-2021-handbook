@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2119
+FinalPaperTitle#=%=#Speechformer: Reducing Information Loss in Direct Speech Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Sara Papi
+JobTitle#==#
+Organization#==#Fondazione Bruno Kessler
+Abstract#==#Transformer-based models have gained increasing popularity achieving state-of-the-art performance in many research fields including speech translation.
+However, Transformer's quadratic complexity with respect to the input sequence length prevents its adoption as is with audio signals, which are typically represented by long sequences.
+Current solutions resort to an initial sub-optimal compression based on a fixed sampling of raw audio features.
+Therefore, potentially useful linguistic information is not accessible to higher-level layers in the architecture. 
+To solve this issue, we propose Speechformer, an architecture that, thanks to reduced memory usage in the attention layers, avoids the initial lossy compression and aggregates information only at a higher level according to more informed linguistic criteria.
+Experiments on three language pairs (en→de/es/nl) show the efficacy of our solution, with gains of up to 0.8 BLEU on the standard MuST-C corpus and of up to 4.0 BLEU in a low resource scenario.
+Author{1}{Firstname}#=%=#Sara
+Author{1}{Lastname}#=%=#Papi
+Author{1}{Username}#=%=#sarapapi
+Author{1}{Email}#=%=#spapi@fbk.eu
+Author{1}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{2}{Firstname}#=%=#Marco
+Author{2}{Lastname}#=%=#Gaido
+Author{2}{Username}#=%=#mgaido91
+Author{2}{Email}#=%=#mgaido@fbk.eu
+Author{2}{Affiliation}#=%=#Fondazione Bruno Kessler, University of Trento
+Author{3}{Firstname}#=%=#Matteo
+Author{3}{Lastname}#=%=#Negri
+Author{3}{Username}#=%=#negri
+Author{3}{Email}#=%=#negri@fbk.eu
+Author{3}{Affiliation}#=%=#Fondazione Bruno Kessler
+Author{4}{Firstname}#=%=#Marco
+Author{4}{Lastname}#=%=#Turchi
+Author{4}{Username}#=%=#turchmo
+Author{4}{Email}#=%=#marco.turchi@gmail.com
+Author{4}{Affiliation}#=%=#Fondazione Bruno Kessler
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#789
+FinalPaperTitle#=%=#Students Who Study Together Learn Better: On the Importance of Collective Knowledge Distillation for Domain Transfer in Fact Verification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mithun
+JobTitle#==#phd candidate
+Organization#==#Department of Computer Science, University of Arizona, 1040 E 4th Street, Tucson, AZ, USA 85721
+Abstract#==#While neural networks produce state-of-the- art performance in several NLP tasks, they generally depend heavily on lexicalized information, which transfer poorly between domains. Previous works have proposed delexicalization as a form of knowledge distillation to reduce the dependency on such lexical artifacts. However, a critical unsolved issue that remains is  how much delexicalization to apply: a little helps reduce overfitting, but too much discards useful information. We propose Group Learning, a knowledge and model distillation approach for fact verification in which multiple student models have access to different delexicalized views of the data, but are encouraged to learn from each other through pair-wise consistency losses. In several cross-domain experiments between the FEVER and FNC fact verification datasets, we show that our approach learns the best delexicalization strategy for the given training dataset, and outperforms state-of-the-art classifiers that rely on the original data.
+Author{1}{Firstname}#=%=#Mitch Paul
+Author{1}{Lastname}#=%=#Mithun
+Author{1}{Username}#=%=#mithunpaul08
+Author{1}{Email}#=%=#mithunpaul@email.arizona.edu
+Author{1}{Affiliation}#=%=#University Of Arizona
+Author{2}{Firstname}#=%=#Sandeep
+Author{2}{Lastname}#=%=#Suntwal
+Author{2}{Username}#=%=#suntwal
+Author{2}{Email}#=%=#sandeepsuntwal@email.arizona.edu
+Author{2}{Affiliation}#=%=#University of Arizona
+Author{3}{Firstname}#=%=#Mihai
+Author{3}{Lastname}#=%=#Surdeanu
+Author{3}{Username}#=%=#surdeanu
+Author{3}{Email}#=%=#surdeanu@gmail.com
+Author{3}{Affiliation}#=%=#University of Arizona
+
+==========

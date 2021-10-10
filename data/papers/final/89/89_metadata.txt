@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#89
+FinalPaperTitle#=%=#A Role-Selected Sharing Network for Joint Machine-Human Chatting Handoff and Service Satisfaction Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiawei Liu
+JobTitle#==#
+Organization#==#Wuhan University
+Bayi Road, Wuhan, Hubei, 430072, China
+Abstract#==#Chatbot is increasingly thriving in different domains, however, because of unexpected discourse complexity and training data sparseness, its potential distrust hatches vital apprehension. Recently, Machine-Human Chatting Handoff (MHCH), predicting chatbot failure and enabling human-algorithm collaboration to enhance chatbot quality, has attracted increasing attention from industry and academia. In this study, we propose a novel model, Role-Selected Sharing Network (RSSN), which integrates both dialogue satisfaction estimation and handoff prediction in one multi-task learning framework. Unlike prior efforts in dialog mining, by utilizing local user satisfaction as a bridge, global satisfaction detector and handoff predictor can effectively exchange critical information. Specifically, we decouple the relation and interaction between the two tasks by the role information after the shared encoder. Extensive experiments on two public datasets demonstrate the effectiveness of our model.
+Author{1}{Firstname}#=%=#Jiawei
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#laujames
+Author{1}{Email}#=%=#laujames2017@whu.edu.cn
+Author{1}{Affiliation}#=%=#School of Information Management, Wuhan University
+Author{2}{Firstname}#=%=#Kaisong
+Author{2}{Lastname}#=%=#Song
+Author{2}{Username}#=%=#kaisongsong
+Author{2}{Email}#=%=#kaisong.sks@alibaba-inc.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Yangyang
+Author{3}{Lastname}#=%=#Kang
+Author{3}{Username}#=%=#yangyangkang
+Author{3}{Email}#=%=#yangyang.kangyy@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Guoxiu
+Author{4}{Lastname}#=%=#He
+Author{4}{Username}#=%=#frankblood
+Author{4}{Email}#=%=#gxhe@fem.ecnu.edu.cn
+Author{4}{Affiliation}#=%=#East China Normal University
+Author{5}{Firstname}#=%=#Zhuoren
+Author{5}{Lastname}#=%=#Jiang
+Author{5}{Username}#=%=#jeffreyjzr
+Author{5}{Email}#=%=#jiangzhuoren@zju.edu.cn
+Author{5}{Affiliation}#=%=#Zhejiang University
+Author{6}{Firstname}#=%=#Changlong
+Author{6}{Lastname}#=%=#Sun
+Author{6}{Username}#=%=#changlong_sun
+Author{6}{Email}#=%=#changlong.scl@taobao.com
+Author{6}{Affiliation}#=%=#Alibaba
+Author{7}{Firstname}#=%=#Wei
+Author{7}{Lastname}#=%=#Lu
+Author{7}{Email}#=%=#weilu@whu.edu.cn
+Author{7}{Affiliation}#=%=#Wuhan University
+Author{8}{Firstname}#=%=#Xiaozhong
+Author{8}{Lastname}#=%=#Liu
+Author{8}{Username}#=%=#liu237
+Author{8}{Email}#=%=#liu237@indiana.edu
+Author{8}{Affiliation}#=%=#Indiana University Bloomington
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1425
+FinalPaperTitle#=%=#Improving Neural Machine Translation by Bidirectional Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Liang Ding
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a simple and effective pretraining strategy -- bidirectional training (BiT) for neural machine translation. Specifically, we bidirectionally update the model parameters at the early stage and then tune the model normally. To achieve bidirectional updating, we simply reconstruct the training samples from ``src$\rightarrow$tgt'' to  ``src+tgt$\rightarrow$tgt+src'' without any complicated model modifications.  Notably, our approach does not increase any parameters or training steps, requiring the parallel data merely. Experimental results show that BiT pushes the SOTA neural machine translation performance across 15 translation tasks on 8 language pairs (data sizes range from 160K to 38M) significantly higher. Encouragingly, our proposed model can complement existing data manipulation strategies, i.e. back translation, data distillation, and data diversification. Extensive analyses show that our approach functions as a novel bilingual code-switcher, obtaining better bilingual alignment.
+Author{1}{Firstname}#=%=#Liang
+Author{1}{Lastname}#=%=#Ding
+Author{1}{Username}#=%=#ldin3097
+Author{1}{Email}#=%=#liangding_liam@hotmail.com
+Author{1}{Affiliation}#=%=#School of Computer Science, The University of Sydney
+Author{2}{Firstname}#=%=#Di
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#moore3930
+Author{2}{Email}#=%=#inbath@163.com
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Dacheng
+Author{3}{Lastname}#=%=#Tao
+Author{3}{Username}#=%=#dacheng.tao
+Author{3}{Email}#=%=#dacheng.tao@sydney.edu.au
+Author{3}{Affiliation}#=%=#School of Computer Science, The University of Sydney
+
+==========

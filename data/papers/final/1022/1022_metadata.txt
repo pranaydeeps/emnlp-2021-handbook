@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1022
+FinalPaperTitle#=%=#Summarize-then-Answer: Generating Concise Explanations for Multi-hop Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#NAOYA INOUE
+JobTitle#==#
+Organization#==#
+Abstract#==#How can we generate concise explanations for multi-hop Reading Comprehension (RC)? The current strategies of identifying supporting sentences can be seen as an extractive question-focused summarization of the input text. However, these extractive explanations are not necessarily concise i.e. not minimally sufficient for answering a question. Instead, we advocate for an abstractive approach, where we propose to generate a question-focused, abstractive summary of input paragraphs and then feed it to an RC system. Given a limited amount of human-annotated abstractive explanations, we train the abstractive explainer in a semi-supervised manner, where we start from the supervised model and then train it further through trial and error maximizing a conciseness-promoted reward function. Our experiments demonstrate that the proposed abstractive explainer can generate more compact explanations than an extractive explainer with limited supervision (only 2k instances) while maintaining sufficiency.
+Author{1}{Firstname}#=%=#Naoya
+Author{1}{Lastname}#=%=#Inoue
+Author{1}{Username}#=%=#naoya-i
+Author{1}{Email}#=%=#naoya.inoue.lab@gmail.com
+Author{1}{Affiliation}#=%=#Stony Brook University / RIKEN
+Author{2}{Firstname}#=%=#Harsh
+Author{2}{Lastname}#=%=#Trivedi
+Author{2}{Username}#=%=#harshtrivedi
+Author{2}{Email}#=%=#hjtrivedi@cs.stonybrook.edu
+Author{2}{Affiliation}#=%=#Stony Brook University
+Author{3}{Firstname}#=%=#Steven
+Author{3}{Lastname}#=%=#Sinha
+Author{3}{Email}#=%=#stsinha@cs.stonybrook.edu
+Author{3}{Affiliation}#=%=#Stony Brook University
+Author{4}{Firstname}#=%=#Niranjan
+Author{4}{Lastname}#=%=#Balasubramanian
+Author{4}{Username}#=%=#niranjan
+Author{4}{Email}#=%=#niranjan@cs.stonybrook.edu
+Author{4}{Affiliation}#=%=#Stony Brook University
+Author{5}{Firstname}#=%=#Kentaro
+Author{5}{Lastname}#=%=#Inui
+Author{5}{Username}#=%=#k.inui
+Author{5}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{5}{Affiliation}#=%=#Tohoku University / Riken
+
+==========

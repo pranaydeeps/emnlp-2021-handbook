@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#4045
+FinalPaperTitle#=%=#Universal-KD: Attention-based Output-Grounded Intermediate Layer Knowledge Distillation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Yimeng Wu
+JobTitle#==#
+Organization#==#
+Abstract#==#Intermediate layer matching is shown as an effective approach for improving knowledge distillation (KD). However, this technique applies matching in the hidden spaces of two different networks (i.e. student and teacher), which lacks clear interpretability. Moreover, intermediate layer KD cannot easily deal with other problems such as layer mapping search and architecture mismatch (i.e. it requires the teacher and student to be of the same model type). 
+To tackle the aforementioned problems all together, we propose Universal-KD to match intermediate layers of the teacher and the student in the output space (by adding pseudo classifiers on intermediate layers) via the attention-based layer projection. By doing this, our unified approach has three merits: (i) it can be flexibly combined with current intermediate layer distillation techniques to improve their results 
+(ii) the pseudo classifiers of the teacher can be deployed instead of extra expensive teacher assistant networks to address the capacity gap problem in KD which is a common issue when the gap between the size of the teacher and student networks becomes too large; 
+(iii) it can be used in cross-architecture intermediate layer KD. We did comprehensive experiments in distilling BERT-base into BERT-4, RoBERTa-large into DistilRoBERTa and BERT-base into CNN and LSTM-based models. Results on the GLUE tasks show that our approach is able to outperform other KD techniques.
+Author{1}{Firstname}#=%=#Yimeng
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Username}#=%=#yimeng_wu
+Author{1}{Email}#=%=#yimengwu71@gmail.com
+Author{1}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{2}{Firstname}#=%=#Mehdi
+Author{2}{Lastname}#=%=#Rezagholizadeh
+Author{2}{Username}#=%=#mrgzadeh
+Author{2}{Email}#=%=#mehdi.rezagholizadeh@gmail.com
+Author{2}{Affiliation}#=%=#Noah's Ark Lab Huawei
+Author{3}{Firstname}#=%=#Abbas
+Author{3}{Lastname}#=%=#Ghaddar
+Author{3}{Username}#=%=#ghaddara
+Author{3}{Email}#=%=#abbas.ghaddar@huawei.com
+Author{3}{Affiliation}#=%=#Huawei Noah's Ark Lab, Montreal Research Center
+Author{4}{Firstname}#=%=#Md Akmal
+Author{4}{Lastname}#=%=#Haidar
+Author{4}{Username}#=%=#haidar018
+Author{4}{Email}#=%=#akmalcuet00@yahoo.com
+Author{4}{Affiliation}#=%=#Huawei Noah's Ark Lab
+Author{5}{Firstname}#=%=#Ali
+Author{5}{Lastname}#=%=#Ghodsi
+Author{5}{Username}#=%=#aghodsib
+Author{5}{Email}#=%=#ali.ghodsi@uwaterloo.ca
+Author{5}{Affiliation}#=%=#University of Waterloo
+
+==========

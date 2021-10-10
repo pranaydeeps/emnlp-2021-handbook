@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#582
+FinalPaperTitle#=%=#Proxy Indicators for the Quality of Open-domain Dialogues
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#22
+CopyrightSigned#=%=#Rostislav Nedelchev
+JobTitle#==#
+Organization#==#
+Abstract#==#The automatic evaluation of open-domain dialogues remains a largely unsolved challenge. Despite the abundance of work done in the field, human judges have to evaluate dialogues' quality. 
+As a consequence, performing such evaluations at scale is usually expensive. This work investigates using a deep-learning model trained on the General Language Understanding Evaluation (GLUE) benchmark to serve as a quality indication of open-domain dialogues. The aim is to use the various GLUE tasks as different perspectives on judging the quality of conversation, thus reducing the need for additional training data or responses that serve as quality references. Due to this nature, the method can infer various quality metrics and can derive a component-based overall score. We achieve statistically significant correlation coefficients of up to 0.7.
+Author{1}{Firstname}#=%=#Rostislav
+Author{1}{Lastname}#=%=#Nedelchev
+Author{1}{Username}#=%=#roskon
+Author{1}{Email}#=%=#rostislav.nedelchev@uni-bonn.de
+Author{1}{Affiliation}#=%=#University of Bonn
+Author{2}{Firstname}#=%=#Jens
+Author{2}{Lastname}#=%=#Lehmann
+Author{2}{Username}#=%=#lehmann
+Author{2}{Email}#=%=#jens.lehmann@cs.uni-bonn.de
+Author{2}{Affiliation}#=%=#University of Bonn and Fraunhofer IAIS
+Author{3}{Firstname}#=%=#Ricardo
+Author{3}{Lastname}#=%=#Usbeck
+Author{3}{Username}#=%=#ricardousbeck
+Author{3}{Email}#=%=#ricardo.usbeck@googlemail.com
+Author{3}{Affiliation}#=%=#Hamburg University
+
+==========

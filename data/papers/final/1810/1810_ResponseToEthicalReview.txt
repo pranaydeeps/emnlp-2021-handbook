@@ -1,0 +1,37 @@
+============================================================================
+Ethics Metareview
+============================================================================ 
+
+The ethics committee would like to suggest that the authors openly discuss the issue of whether their system outputs could be harmful to users. Their own examples indicate that they intend for high-stakes issues to be discussed. What might the consequences of really problematic generations be, and how could those risks be mitigated?
+
+============================================================================
+Ethics Review
+============================================================================ 
+
+I am bothered by whether the created results are "appropriate." The concern arises from the very first example (Figure 1) in which Speaker A is saying things that border on suicide ideation. The choices that have green checks are good, but what if the system generated something that sounded positive but really wasn't?The experiments just aim to create positive or negative results, measure content relevance, fluency, and sentiment accuracy. I cannot help but to wonder if the results are sometimes inappropriate -- not as in funny, but as in harmful. Even if you don't actually attempt to evaluate it, doesn't this seem like a concern that should at least be mentioned in a paper like this? Note that I get that this issue is sort of separate from the problem being tackled, but in an era when we try to be aware of the possible harm of our algorithms, I feel like it should be mentioned.
+
+============================================================================
+Our Response
+============================================================================ 
+
+We are very sorry that our example (Figure 1) may have misled you. Our work does not apply to high-stakes issues such as suicide ideation, but our example looks like a professional-level mental health support application which can solve it. We have modified the example (Figure 1) to avoid this misunderstanding. 
+
+Actually, our work is only intended for building affective chatbots used in daily life. We anticipate that this technique will significantly promote affective communication and enhance user satisfaction during human-computer interactions, which is an enhancement to existing chatbots. Applying it to professional-level mental health support is extremely risky, and in extreme cases it may cause harm to users. We have clearly added relevant explanations in the "Ethical Considerations" section. 
+
+In addition, since our work is based on an early classic dataset which does not represent current norms and practices, there is indeed a possibility of harmful responses(but actually very few), which may involve offensive speech, hate speech, etc. In the "Ethical Considerations" section, we discussed how to reduce this risk and provide an empirical evaluation result of the harmfulness of the model. 
+
+============================================================================
+Excerpts from "Ethical Considerations"
+============================================================================ 
+
+In this section, we address relevant ethical considerations that were not explicitly discussed in the main body of our paper. 
+
+[Intended Use]
+The reported technique is intended for building affective chatbots used in daily life. We anticipate that this technique will significantly promote affective communication and enhance user satisfaction during human-computer interactions, which is an enhancement to existing chatbots. 
+
+[Potential Misuse]
+In some cases, our proposed model may produce effects similar to mental health support. This may mislead users that the model has professional psychotherapeutic capabilities, leading to misuse. In fact, this model is not developed from the perspective of professional psychology applications. Applying it to professional-level mental health support is extremely risky, and in extreme cases it may cause harm to users. We reiterate once again that the reported technique is only intended for building affective chatbots used in daily life. 
+
+[Failure Modes]
+The main failure mode is that the model may learn some bad expressions in the training data which are harmful to users. Based on the consideration of compatibility with existing works, we performed additional annotations on a widely used dataset and trained the model based on it. This dataset is an early classic dataset which does not represent current norms and practices, so there is indeed a possibility of harmful responses(but actually very few), which may involve offensive speech, hate speech, etc. In order to reduce this risk, one idea is to clean the harmful responses in the dataset, and the other is to detect the harmfulness of the results output by the model. Both of these can be achieved based on some recent works on offensive speech detection~\cite{ranasinghe-zampieri-2020-multilingual} or hate speech detection~\cite{vidgen-etal-2021-learning}. 
+In addition, in order to provide an intuitive reference for users of the model, we conducted an empirical evaluation of the harmfulness of the model. Specifically, we randomly sampled 1,000 responses output by the model and asked three human annotators to evaluate whether the responses might make users uncomfortable. The evaluation results show that only 19 responses will make users slightly uncomfortable, and there are no responses that make users seriously uncomfortable. This result is not enough to completely eliminate concerns, but in a sense, it shows the actual performance of the model trained on the dataset. 

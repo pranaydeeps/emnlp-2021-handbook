@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#154
+FinalPaperTitle#=%=#Commonsense Knowledge in Word Associations and ConceptNet
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Chunhua Liu
+JobTitle#==#
+Organization#==#The University of Melbourne 
+Grattan Street, Parkville, Victoria, 3010, Australia
+Abstract#==#Humans use countless basic, shared facts about the world to efficiently navigate in their environment. This commonsense knowledge is rarely communicated explicitly, however, understanding how commonsense knowledge is represented in different paradigms is important for (a) a deeper understanding of human cognition and (b) augmenting automatic reasoning systems. This paper presents an in-depth comparison of two large-scale resources of general knowledge: ConceptNet, an engineered relational database, and SWOW, a knowledge graph derived from crowd-sourced word associations. We examine the structure, overlap and differences between the two graphs, as well as the extent of situational commonsense knowledge present in the two resources. We finally show empirically that both resources improve downstream task performance on commonsense reasoning benchmarks over text-only baselines, suggesting that large-scale word association data, which have been obtained for several languages through crowd-sourcing, can be a valuable complement to curated knowledge graphs.
+Author{1}{Firstname}#=%=#Chunhua
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#chunhualiu
+Author{1}{Email}#=%=#chunhualiu596@gmail.com
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Trevor
+Author{2}{Lastname}#=%=#Cohn
+Author{2}{Username}#=%=#t.cohn
+Author{2}{Email}#=%=#trevor.cohn@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Lea
+Author{3}{Lastname}#=%=#Frermann
+Author{3}{Username}#=%=#frermann
+Author{3}{Email}#=%=#lea.frermann@unimelb.edu.au
+Author{3}{Affiliation}#=%=#Melbourne University
+
+==========

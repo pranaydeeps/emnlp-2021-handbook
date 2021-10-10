@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4467
+FinalPaperTitle#=%=#Numerical reasoning in machine reading comprehension tasks: are we there yet?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hadeel Alnegheimish
+JobTitle#==#
+Organization#==#Imperial College London, SW7 2AT
+Abstract#==#Numerical reasoning based machine reading comprehension is a task that involves reading comprehension along with using arithmetic operations such as addition, subtraction, sorting and counting. The DROP benchmark  (Dua et al., 2019) is a recent dataset that has inspired the design of NLP models aimed at solving this task. The current standings of these models in the DROP leaderboard, over standard metrics, suggests that the models have achieved near-human performance. However, does this mean that these models have learned to reason? In this paper, we present a controlled study on some of the top-performing model architectures for the task of numerical reasoning. Our observations suggest that the standard metrics are incapable of measuring progress towards such tasks.
+Author{1}{Firstname}#=%=#Hadeel
+Author{1}{Lastname}#=%=#Al-Negheimish
+Author{1}{Username}#=%=#halnegheimish
+Author{1}{Email}#=%=#halnegheimish@imperial.ac.uk
+Author{1}{Affiliation}#=%=#Imperial College London
+Author{2}{Firstname}#=%=#Pranava
+Author{2}{Lastname}#=%=#Madhyastha
+Author{2}{Username}#=%=#prsm
+Author{2}{Email}#=%=#pranava.madhyastha@gmail.com
+Author{2}{Affiliation}#=%=#City, University of London
+Author{3}{Firstname}#=%=#Alessandra
+Author{3}{Lastname}#=%=#Russo
+Author{3}{Username}#=%=#alessandrarusso
+Author{3}{Email}#=%=#a.russo@imperial.ac.uk
+Author{3}{Affiliation}#=%=#Imperial College London
+
+==========

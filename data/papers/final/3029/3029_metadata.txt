@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3029
+FinalPaperTitle#=%=#Fast WordPiece Tokenization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Xinying Song
+JobTitle#==#
+Organization#==#Google Research, 1600 Amphitheatre Parkway, Mountain View, CA 94043
+Abstract#==#Tokenization is a fundamental preprocessing step for almost all NLP tasks. In this paper, we propose efficient algorithms for the WordPiece tokenization used in BERT, from single-word tokenization to general text (e.g., sentence) tokenization. When tokenizing a single word, WordPiece uses a longest-match-first strategy, known as maximum matching. The best known algorithms so far are O(n^2) (where n is the input length) or O(nm) (where m is the maximum vocabulary token length). We propose a novel algorithm whose tokenization complexity is strictly O(n).  Our method is inspired by the Aho-Corasick algorithm. We introduce additional linkages on top of the trie built from the vocabulary, allowing smart transitions when the trie matching cannot continue.  For general text, we further propose an algorithm that combines pre-tokenization (splitting the text into words) and our linear-time WordPiece method into a single pass. Experimental results show that our method is 8.2x faster than HuggingFace Tokenizers and 5.1x faster than TensorFlow Text on average for general text tokenization.
+Author{1}{Firstname}#=%=#Xinying
+Author{1}{Lastname}#=%=#Song
+Author{1}{Username}#=%=#leibniz
+Author{1}{Email}#=%=#xysong@google.com
+Author{1}{Affiliation}#=%=#Google AI
+Author{2}{Firstname}#=%=#Alex
+Author{2}{Lastname}#=%=#Salcianu
+Author{2}{Username}#=%=#salcianu
+Author{2}{Email}#=%=#salcianu@google.com
+Author{2}{Affiliation}#=%=#Google, Inc
+Author{3}{Firstname}#=%=#Yang
+Author{3}{Lastname}#=%=#Song
+Author{3}{Username}#=%=#yangsong
+Author{3}{Email}#=%=#ys@sonyis.me
+Author{3}{Affiliation}#=%=#Google Seattle
+Author{4}{Firstname}#=%=#Dave
+Author{4}{Lastname}#=%=#Dopson
+Author{4}{Username}#=%=#ddopson
+Author{4}{Email}#=%=#ddopson@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Denny
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Username}#=%=#dennyzhou
+Author{5}{Email}#=%=#dennyzhou@gmail.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

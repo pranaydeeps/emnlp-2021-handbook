@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#2979
+FinalPaperTitle#=%=#Models and Datasets for Cross-Lingual Summarisation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Laura Perez
+JobTitle#==#
+Organization#==#University of Edinburgh
+Abstract#==#We present a cross-lingual summarisation corpus with long documents in a source language associated with multi-sentence summaries in a target language.  The corpus covers twelve language pairs and directions for four European languages, namely Czech, English, French and German, and the methodology for its creation can be applied to several other languages.  We derive cross-lingual document-summary instances from Wikipedia by combining lead paragraphs and articles' bodies from language aligned Wikipedia titles.  We analyse the proposed cross-lingual summarisation task with automatic metrics and validate it with a human study.  To illustrate the utility of our dataset we report experiments with multi-lingual pre-trained models in supervised, zero- and few-shot, and out-of-domain scenarios.
+Author{1}{Firstname}#=%=#Laura
+Author{1}{Lastname}#=%=#Perez-Beltrachini
+Author{1}{Username}#=%=#laura.perez
+Author{1}{Email}#=%=#lperez@inf.ed.ac.uk
+Author{1}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{2}{Firstname}#=%=#Mirella
+Author{2}{Lastname}#=%=#Lapata
+Author{2}{Username}#=%=#mlap
+Author{2}{Email}#=%=#mlap@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+
+==========

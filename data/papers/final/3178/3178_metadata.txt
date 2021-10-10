@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#3178
+FinalPaperTitle#=%=#COSMic: A Coherence-Aware Generation Metric for Image Descriptions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mert Inan
+JobTitle#==#
+Organization#==#
+Abstract#==#Developers of text generation models rely on automated evaluation metrics as a stand-in for slow and expensive manual evaluations. However, image captioning metrics have struggled to give accurate learned estimates of the semantic and pragmatic success of output text. We address this weakness by introducing the first discourse-aware learned generation metric for evaluating image descriptions.  Our approach is inspired by computational theories of discourse for capturing information goals using coherence.  We present a dataset of image–description pairs annotated with coherence relations. We then train a coherence-aware metric on a subset of the Conceptual Captions dataset and measure its effectiveness—its ability to predict human ratings of output captions—on a test set composed of out-of-domain images.
+We demonstrate a higher Kendall Correlation Coefficient for our proposed metric with the human judgments for the results of a number of state-of-the-art coherence-aware caption generation models when compared to several other metrics including recently proposed learned metrics such as BLEURT and BERTScore.
+Author{1}{Firstname}#=%=#Mert
+Author{1}{Lastname}#=%=#Inan
+Author{1}{Username}#=%=#merterm
+Author{1}{Email}#=%=#mertinan96@gmail.com
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Piyush
+Author{2}{Lastname}#=%=#Sharma
+Author{2}{Username}#=%=#piyushsharma
+Author{2}{Email}#=%=#piyushsharma@google.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Baber
+Author{3}{Lastname}#=%=#Khalid
+Author{3}{Username}#=%=#bk456
+Author{3}{Email}#=%=#baber.khalid@rutgers.edu
+Author{3}{Affiliation}#=%=#Rutgers University
+Author{4}{Firstname}#=%=#Radu
+Author{4}{Lastname}#=%=#Soricut
+Author{4}{Username}#=%=#rsoricut
+Author{4}{Email}#=%=#radu.soricut@gmail.com
+Author{4}{Affiliation}#=%=#Google LLC
+Author{5}{Firstname}#=%=#Matthew
+Author{5}{Lastname}#=%=#Stone
+Author{5}{Username}#=%=#matthew.stone
+Author{5}{Email}#=%=#matthew.stone@rutgers.edu
+Author{5}{Affiliation}#=%=#Rutgers University
+Author{6}{Firstname}#=%=#Malihe
+Author{6}{Lastname}#=%=#Alikhani
+Author{6}{Username}#=%=#mondial93
+Author{6}{Email}#=%=#alikhani.malihe@gmail.com
+Author{6}{Affiliation}#=%=#University of Pittsburgh
+
+==========

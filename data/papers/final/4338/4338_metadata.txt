@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#4338
+FinalPaperTitle#=%=#Comprehensive Punctuation Restoration for English and Polish
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Michał Pogoda
+JobTitle#==#
+Organization#==#
+Abstract#==#Punctuation restoration is a fundamental requirement for the readability of text derived from  Automatic Speech Recognition (ASR) systems. Most contemporary solutions are limited to predicting only a few of the most frequently occurring marks, such as periods, commas, and question marks - and only one per word. However, in written language, we deal with a much larger number of punctuation characters (such as parentheses, hyphens, etc.), and their combinations (like parenthesis followed by a dot). Such comprehensive punctuation cannot always be unambiguously reduced to a basic set of the most frequently occurring marks. In this work, we evaluate several methods in the comprehensive punctuation reconstruction task. We conduct experiments on parallel corpora of two different languages, English and Polish - languages with a relatively simple and complex morphology, respectively. We also investigate the influence of building a model on comprehensive punctuation on the quality of the basic punctuation restoration task
+Author{1}{Firstname}#=%=#Michał
+Author{1}{Lastname}#=%=#Pogoda
+Author{1}{Username}#=%=#mpogoda
+Author{1}{Email}#=%=#mipo57gd@gmail.com
+Author{1}{Affiliation}#=%=#Wrocław University of Science & Technology
+Author{2}{Firstname}#=%=#Tomasz
+Author{2}{Lastname}#=%=#Walkowiak
+Author{2}{Username}#=%=#twalkow
+Author{2}{Email}#=%=#tomasz.walkowiak@pwr.edu.pl
+Author{2}{Affiliation}#=%=#Wroclaw University of Science and Technology
+
+==========

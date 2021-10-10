@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#1388
+FinalPaperTitle#=%=#Don't Miss the Potential Customers! Retrieving Similar Ads to Improve User Targeting
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chuanyi Li
+JobTitle#==#
+Organization#==#
+Abstract#==#User targeting is an essential task in the modern advertising industry: given a package of ads for a particular category of products (e.g., green tea), identify the online users to whom the ad package should be targeted. A (ad package specific) user targeting model is typically trained using historical clickthrough data: positive instances correspond to users who have clicked on an ad in the package before, whereas negative instances correspond to users who have not clicked on any ads in the package that were displayed to them. Collecting a sufficient amount of positive training data for training an accurate user targeting model, however, is by no means trivial. This paper focuses on the development of a method for automatic augmentation of the set of positive training instances. Experimental results on two datasets, including a real-world company dataset, demonstrate the effectiveness of our proposed method.
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Feng
+Author{1}{Username}#=%=#fengyi
+Author{1}{Email}#=%=#fy@smail.nju.edu.cn
+Author{1}{Affiliation}#=%=#Nanjing University
+Author{2}{Firstname}#=%=#Ting
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#txtingwang@tencent.com
+Author{2}{Affiliation}#=%=#Tencent
+Author{3}{Firstname}#=%=#Chuanyi
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#lcynju
+Author{3}{Email}#=%=#lcy@nju.edu.cn
+Author{3}{Affiliation}#=%=#Software Institute, Nanjing University
+Author{4}{Firstname}#=%=#Vincent
+Author{4}{Lastname}#=%=#Ng
+Author{4}{Username}#=%=#vince
+Author{4}{Email}#=%=#vince@hlt.utdallas.edu
+Author{4}{Affiliation}#=%=#University of Texas at Dallas
+Author{5}{Firstname}#=%=#Jidong
+Author{5}{Lastname}#=%=#Ge
+Author{5}{Username}#=%=#gjdnju
+Author{5}{Email}#=%=#gjd@nju.edu.cn
+Author{5}{Affiliation}#=%=#Nanjing University
+Author{6}{Firstname}#=%=#Bin
+Author{6}{Lastname}#=%=#Luo
+Author{6}{Email}#=%=#luobin@nju.edu.cn
+Author{6}{Affiliation}#=%=#Nanjing University
+Author{7}{Firstname}#=%=#Yucheng
+Author{7}{Lastname}#=%=#Hu
+Author{7}{Email}#=%=#nikohu@tencent.com
+Author{7}{Affiliation}#=%=#Tencent
+Author{8}{Firstname}#=%=#Xiaopeng
+Author{8}{Lastname}#=%=#Zhang
+Author{8}{Email}#=%=#xpzhang@tencent.com
+Author{8}{Affiliation}#=%=#Tencent
+
+==========

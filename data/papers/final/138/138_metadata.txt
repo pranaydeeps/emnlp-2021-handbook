@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#138
+FinalPaperTitle#=%=#Consistent Accelerated Inference via Confident Adaptive Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Tal Schuster
+JobTitle#==#
+Organization#==#
+Abstract#==#We develop a novel approach for confidently accelerating inference in the large and expensive multilayer Transformers that are now ubiquitous in natural language processing (NLP). Amortized or approximate computational methods increase efficiency, but can come with unpredictable performance costs. In this work, we present CATs -- Confident Adaptive Transformers -- in which we simultaneously increase computational efficiency, while guaranteeing a specifiable degree of consistency with the original model with high confidence. Our method trains additional prediction heads on top of intermediate layers, and dynamically decides when to stop allocating computational effort to each input using a meta consistency classifier. To calibrate our early prediction stopping rule, we formulate a unique extension of conformal prediction. We demonstrate the effectiveness of this approach on four classification and regression tasks.
+Author{1}{Firstname}#=%=#Tal
+Author{1}{Lastname}#=%=#Schuster
+Author{1}{Username}#=%=#tals
+Author{1}{Email}#=%=#talschuster@gmail.com
+Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{2}{Firstname}#=%=#Adam
+Author{2}{Lastname}#=%=#Fisch
+Author{2}{Username}#=%=#afisch
+Author{2}{Email}#=%=#fisch@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#Tommi
+Author{3}{Lastname}#=%=#Jaakkola
+Author{3}{Username}#=%=#tommi
+Author{3}{Email}#=%=#tommi@csail.mit.edu
+Author{3}{Affiliation}#=%=#MIT
+Author{4}{Firstname}#=%=#Regina
+Author{4}{Lastname}#=%=#Barzilay
+Author{4}{Username}#=%=#regina
+Author{4}{Email}#=%=#regina@csail.mit.edu
+Author{4}{Affiliation}#=%=#MIT
+
+==========

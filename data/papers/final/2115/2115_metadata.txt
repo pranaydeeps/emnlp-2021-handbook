@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2115
+FinalPaperTitle#=%=#BERT4GCN: Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Zeguan Xiao
+JobTitle#==#
+Organization#==#Department of Computer Science, Jinan University, Guangzhou 510632, China
+Abstract#==#Graph-based Aspect-based Sentiment Classification (ABSC) approaches have yielded state-of-the-art results, expecially when equipped with contextual word embedding from pre-training language models (PLMs). However, they ignore sequential features of the context and have not yet made the best of PLMs. In this paper, we propose a novel model, BERT4GCN, which integrates the grammatical sequential features from the PLM of BERT, and the syntactic knowledge from dependency graphs. BERT4GCN utilizes outputs from intermediate layers of BERT and positional information between words to augment GCN (Graph Convolutional Network) to better encode the dependency graphs for the downstream classification. Experimental results demonstrate that the proposed BERT4GCN outperforms all state-of-the-art baselines, justifying that augmenting GCN with the grammatical features from intermediate layers of BERT can significantly empower ABSC models.
+Author{1}{Firstname}#=%=#Zeguan
+Author{1}{Lastname}#=%=#Xiao
+Author{1}{Username}#=%=#xiaozg
+Author{1}{Email}#=%=#xiaozg@stu2018.jnu.edu.cn
+Author{1}{Affiliation}#=%=#Jinan University
+Author{2}{Firstname}#=%=#Jiarun
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#ben_wu14
+Author{2}{Email}#=%=#benwu@stu2019.jnu.edu.cn
+Author{2}{Affiliation}#=%=#Jinan University
+Author{3}{Firstname}#=%=#Qingliang
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Username}#=%=#qingliang_chen
+Author{3}{Email}#=%=#tpchen@jnu.edu.cn
+Author{3}{Affiliation}#=%=#Jinan University
+Author{4}{Firstname}#=%=#Congjian
+Author{4}{Lastname}#=%=#Deng
+Author{4}{Username}#=%=#congjian_deng
+Author{4}{Email}#=%=#dcj@yunqu-info.com
+Author{4}{Affiliation}#=%=#Guangzhou Yunqu Information Technology Company, Ltd.
+
+==========

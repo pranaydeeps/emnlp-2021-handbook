@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1126
+FinalPaperTitle#=%=#Is Multi-Hop Reasoning Really Explainable? Towards Benchmarking Reasoning Interpretability
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Xin Lv
+JobTitle#==#
+Organization#==#
+Abstract#==#Multi-hop reasoning has been widely studied in recent years to obtain more interpretable link prediction. However, we find in experiments that many paths given by these models are actually unreasonable, while little work has been done on interpretability evaluation for them. In this paper, we propose a unified framework to quantitatively evaluate the interpretability of multi-hop reasoning models so as to advance their development. In specific, we define three metrics, including path recall, local interpretability, and global interpretability for evaluation, and design an approximate strategy to calculate these metrics using the interpretability scores of rules. We manually annotate all possible rules and establish a benchmark. In experiments, we verify the effectiveness of our benchmark. Besides, we run nine representative baselines on our benchmark, and the experimental results show that the interpretability of current multi-hop reasoning models is less satisfactory and is 51.7% lower than the upper bound given by our benchmark. Moreover, the rule-based models outperform the multi-hop reasoning models in terms of performance and interpretability, which points to a direction for future research, i.e., how to better incorporate rule information into the multi-hop reasoning model. We will publish our codes and datasets upon acceptance.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Lv
+Author{1}{Username}#=%=#lvxin
+Author{1}{Email}#=%=#lv-x18@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Yixin
+Author{2}{Lastname}#=%=#Cao
+Author{2}{Username}#=%=#god13dog
+Author{2}{Email}#=%=#caoyixin2011@gmail.com
+Author{2}{Affiliation}#=%=#Nanyang Technological University
+Author{3}{Firstname}#=%=#Lei
+Author{3}{Lastname}#=%=#Hou
+Author{3}{Username}#=%=#greener
+Author{3}{Email}#=%=#houlei@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Juanzi
+Author{4}{Lastname}#=%=#Li
+Author{4}{Username}#=%=#lijuanzi
+Author{4}{Email}#=%=#lijuanzi2008@gmail.com
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Zhiyuan
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#lzy.thu
+Author{5}{Email}#=%=#liuzy@tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua University
+Author{6}{Firstname}#=%=#YICHI
+Author{6}{Lastname}#=%=#ZHANG
+Author{6}{Username}#=%=#yichizhang
+Author{6}{Email}#=%=#yichizhang0926@gmail.com
+Author{6}{Affiliation}#=%=#Alibaba Group
+Author{7}{Firstname}#=%=#zelin
+Author{7}{Lastname}#=%=#Dai
+Author{7}{Username}#=%=#zelindai
+Author{7}{Email}#=%=#zelin.dzl@alibaba-inc.com
+Author{7}{Affiliation}#=%=#alibaba
+
+==========

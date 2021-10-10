@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1317
+FinalPaperTitle#=%=#Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nattapong Tiyajamorn
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a method to distill a language-agnostic meaning embedding from a multilingual sentence encoder. By removing language-specific information from the original embedding, we retrieve an embedding that fully represents the sentence's meaning. The proposed method relies only on parallel corpora without any human annotations. Our meaning embedding allows efficient cross-lingual sentence similarity estimation by simple cosine similarity calculation. Experimental results on both quality estimation of machine translation and cross-lingual semantic textual similarity tasks reveal that our method consistently outperforms the strong baselines using the original multilingual embedding. Our method consistently improves the performance of any pre-trained multilingual sentence encoder, even in low-resource language pairs where only tens of thousands of parallel sentence pairs are available.
+Author{1}{Firstname}#=%=#Nattapong
+Author{1}{Lastname}#=%=#Tiyajamorn
+Author{1}{Username}#=%=#nattaptiy
+Author{1}{Email}#=%=#nat.tiyajamorn@gmail.com
+Author{1}{Affiliation}#=%=#University of Tokyo
+Author{2}{Firstname}#=%=#Tomoyuki
+Author{2}{Lastname}#=%=#Kajiwara
+Author{2}{Username}#=%=#moguranosenshi
+Author{2}{Email}#=%=#kajiwara@cs.ehime-u.ac.jp
+Author{2}{Affiliation}#=%=#Ehime University
+Author{3}{Firstname}#=%=#Yuki
+Author{3}{Lastname}#=%=#Arase
+Author{3}{Username}#=%=#yukiar
+Author{3}{Email}#=%=#arase@ist.osaka-u.ac.jp
+Author{3}{Affiliation}#=%=#Osaka University
+Author{4}{Firstname}#=%=#Makoto
+Author{4}{Lastname}#=%=#Onizuka
+Author{4}{Username}#=%=#onizuka
+Author{4}{Email}#=%=#onizuka@ist.osaka-u.ac.jp
+Author{4}{Affiliation}#=%=#Osaka University
+
+==========

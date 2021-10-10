@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#2991
+FinalPaperTitle#=%=#Weakly supervised discourse segmentation for multiparty oral conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Philippe Muller
+JobTitle#==#
+Organization#==#University of Toulouse
+Toulouse, France
+Abstract#==#Discourse segmentation, the first step of discourse analysis, has been shown to improve results for text summarization,  translation and other NLP tasks. 
+While segmentation models for written text  tend to perform well, they are not directly applicable to spontaneous, oral conversation, which has linguistic features foreign to written text.  Segmentation is less studied for this type of language, where annotated data is scarce, and existing corpora more heterogeneous. We develop a weak supervision approach to adapt, using minimal annotation, a state of the art discourse segmenter trained on written text to French conversation transcripts. Supervision is given by a latent model bootstrapped by manually defined heuristic rules that use  linguistic and acoustic information. The resulting model improves the original segmenter, especially in contexts where information on speaker turns is lacking or noisy, gaining up to 13% in F-score. Evaluation is performed on data like those used to define our heuristic rules, but also on  transcripts from two other  corpora.
+Author{1}{Firstname}#=%=#Lila
+Author{1}{Lastname}#=%=#Gravellier
+Author{1}{Email}#=%=#Lila.Gravellier@irit.fr
+Author{1}{Affiliation}#=%=#IRIT, University of Toulouse
+Author{2}{Firstname}#=%=#Julie
+Author{2}{Lastname}#=%=#Hunter
+Author{2}{Username}#=%=#juliehunter
+Author{2}{Email}#=%=#jhunter@linagora.com
+Author{2}{Affiliation}#=%=#LINAGORA
+Author{3}{Firstname}#=%=#Philippe
+Author{3}{Lastname}#=%=#Muller
+Author{3}{Username}#=%=#philippe.muller
+Author{3}{Email}#=%=#philippe.muller@irit.fr
+Author{3}{Affiliation}#=%=#IRIT, University of Toulouse
+Author{4}{Firstname}#=%=#Thomas
+Author{4}{Lastname}#=%=#Pellegrini
+Author{4}{Username}#=%=#thomas.pellegrini
+Author{4}{Email}#=%=#thomas.pellegrini@irit.fr
+Author{4}{Affiliation}#=%=#IRIT, University of Toulouse
+Author{5}{Firstname}#=%=#Isabelle
+Author{5}{Lastname}#=%=#Ferrané
+Author{5}{Username}#=%=#isabelle.ferrane
+Author{5}{Email}#=%=#isabelle.ferrane@irit.fr
+Author{5}{Affiliation}#=%=#IRIT, University of Toulouse
+
+==========

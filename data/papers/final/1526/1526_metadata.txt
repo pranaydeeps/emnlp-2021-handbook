@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#1526
+FinalPaperTitle#=%=#Low Frequency Names Exhibit Bias and Overfitting in Contextualizing Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Robert Wolfe
+JobTitle#==#
+Organization#==#University of Washington
+Seattle, Washington 98195
+Abstract#==#We use a dataset of U.S. first names with labels based on predominant gender and racial group to examine the effect of training corpus frequency on tokenization, contextualization, similarity to initial representation, and bias in BERT, GPT-2, T5, and XLNet. We show that predominantly female and non-white names are less frequent in the training corpora of these four language models. We find that infrequent names are more self-similar across contexts, with Spearman's rho between frequency and self-similarity as low as -.763. Infrequent names are also less similar to initial representation, with Spearman's rho between frequency and linear centered kernel alignment (CKA) similarity to initial representation as high as .702. Moreover, we find Spearman's rho between racial bias and name frequency in BERT of .492, indicating that lower-frequency minority group names are more associated with unpleasantness. Representations of infrequent names undergo more processing, but are more self-similar, indicating that models rely on less context-informed representations of uncommon and minority names which are overfit to a lower number of observed contexts.
+Author{1}{Firstname}#=%=#Robert
+Author{1}{Lastname}#=%=#Wolfe
+Author{1}{Username}#=%=#wolferobert3
+Author{1}{Email}#=%=#rwolfe89@gwu.edu
+Author{1}{Affiliation}#=%=#The George Washington University
+Author{2}{Firstname}#=%=#Aylin
+Author{2}{Lastname}#=%=#Caliskan
+Author{2}{Username}#=%=#aylin
+Author{2}{Email}#=%=#aylin@gwu.edu
+Author{2}{Affiliation}#=%=#George Washington University
+
+==========

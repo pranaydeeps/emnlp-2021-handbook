@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1361
+FinalPaperTitle#=%=#An Edge-Enhanced Hierarchical Graph-to-Tree Network for Math Word Problem Solving
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Qinzhuo Wu
+JobTitle#==#
+Organization#==#
+Abstract#==#Math word problem solving has attracted considerable research interest in recent years.
+Previous works have shown the effectiveness of utilizing graph neural networks to capture the relationships in the problem. 
+However, these works did not carefully take the edge label information and the long-range word relationship across sentences into consideration.
+In addition, during generation, they focus on the most relevant areas of the currently generated word, while neglecting the rest of the problem.
+In this paper, we propose a novel Edge-Enhanced Hierarchical Graph-to-Tree model (EEH-G2T), in which the math word problems are represented as edge-labeled graphs.
+Specifically, an edge-enhanced hierarchical graph encoder is used to incorporate edge label information. 
+This encoder updates the graph nodes hierarchically in two steps: sentence-level aggregation and problem-level aggregation.
+Furthermore, a tree-structured decoder with a split attention mechanism is applied to guide the model to pay attention to different parts of the input problem.
+Experimental results on the MAWPS and Math23K dataset showed that our EEH-G2T can effectively improve performance compared with state-of-the-art methods.
+Author{1}{Firstname}#=%=#Qinzhuo
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Username}#=%=#wuqinzhuo
+Author{1}{Email}#=%=#qzwu17@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Qi
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#lloydzq
+Author{2}{Email}#=%=#qz@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Zhongyu
+Author{3}{Lastname}#=%=#Wei
+Author{3}{Username}#=%=#zywei
+Author{3}{Email}#=%=#zywei@fudan.edu.cn
+Author{3}{Affiliation}#=%=#School of Data Science, Fudan University
+
+==========

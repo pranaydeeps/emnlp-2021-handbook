@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2139
+FinalPaperTitle#=%=#Refining BERT Embeddings for Document Hashing via Mutual Information Maximization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zijing Ou
+JobTitle#==#
+Organization#==#
+Abstract#==#Existing unsupervised document hashing methods are mostly established on generative models. Due to the difficulties of capturing long dependency structures, these methods rarely model the raw documents directly, but instead to model the features extracted from them ({\it e.g.} bag-of-words (BOG), TFIDF). In this paper, we propose to learn hash codes from BERT embeddings after observing their tremendous successes on downstream tasks. As a first try, we modify existing generative hashing models to accommodate the BERT embeddings. However, little improvement is observed over the codes learned from the old BOG or TFIDF features. We attribute this to the reconstruction requirement in the generative hashing, which will enforce irrelevant information that is abundant in the BERT embeddings also compressed into the codes. To remedy this issue, a new unsupervised hashing paradigm is further proposed based on the mutual information (MI) maximization principle. Specifically, the method first constructs appropriate global and local codes from the documents and then seeks to maximize their mutual information. Experimental results on three benchmark datasets demonstrate that the proposed method is able to generate hash codes that outperform existing ones learned from BOG features by a substantial margin.
+Author{1}{Firstname}#=%=#Zijing
+Author{1}{Lastname}#=%=#Ou
+Author{1}{Username}#=%=#zijingou
+Author{1}{Email}#=%=#ouzj@mail2.sysu.edu.cn
+Author{1}{Affiliation}#=%=#Sun Yat-sen University
+Author{2}{Firstname}#=%=#Qinliang
+Author{2}{Lastname}#=%=#Su
+Author{2}{Username}#=%=#qinliangsu
+Author{2}{Email}#=%=#suqliang@mail.sysu.edu.cn
+Author{2}{Affiliation}#=%=#Sun Yat-sen University
+Author{3}{Firstname}#=%=#Jianxing
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#yjxruc
+Author{3}{Email}#=%=#yujx26@mail.sysu.edu.cn
+Author{3}{Affiliation}#=%=#Sun Yat-sen University
+Author{4}{Firstname}#=%=#Ruihui
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Username}#=%=#zacharyzhao
+Author{4}{Email}#=%=#zacharyzhao@tencent.com
+Author{4}{Affiliation}#=%=#Tencent Jarvis Lab
+Author{5}{Firstname}#=%=#Yefeng
+Author{5}{Lastname}#=%=#Zheng
+Author{5}{Username}#=%=#zhengyf
+Author{5}{Email}#=%=#yefengzheng@tencent.com
+Author{5}{Affiliation}#=%=#Tencent
+Author{6}{Firstname}#=%=#Bang
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Username}#=%=#bangliu
+Author{6}{Email}#=%=#bang.liu@umontreal.ca
+Author{6}{Affiliation}#=%=#University of Montreal
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3053
+FinalPaperTitle#=%=#Open Aspect Target Sentiment Classification with Natural Language Prompts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ronald Seoh
+JobTitle#==#
+Organization#==#
+Abstract#==#For many business applications, we often seek to analyze sentiments associated with any arbitrary aspects of commercial products, despite having a very limited amount of labels or even without any labels at all. However, existing aspect target sentiment classification (ATSC) models are not trainable if annotated datasets are not available. Even with labeled data, they fall short of reaching satisfactory performance. To address this, we propose simple approaches that better solve ATSC with natural language prompts, enabling the task under zero-shot cases and enhancing supervised settings, especially for few-shot cases. Under the few-shot setting for SemEval 2014 Task 4 laptop domain, our method of reformulating ATSC as an NLI task outperforms supervised SOTA approaches by up to 24.13 accuracy points and 33.14 macro F1 points. Moreover, we demonstrate that our prompts could handle implicitly stated aspects as well: our models reach about 77% accuracy on detecting sentiments for aspect categories (e.g., food), which do not necessarily appear within the text, even though we trained the models only with explicitly mentioned aspect terms (e.g., fajitas) from just 16 reviews - while the accuracy of the no-prompt baseline is only around 65%.
+Author{1}{Firstname}#=%=#Ronald
+Author{1}{Lastname}#=%=#Seoh
+Author{1}{Username}#=%=#ronaldseoh
+Author{1}{Email}#=%=#bseoh@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Ian
+Author{2}{Lastname}#=%=#Birle
+Author{2}{Username}#=%=#ibirle
+Author{2}{Email}#=%=#ibirle@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Mrinal
+Author{3}{Lastname}#=%=#Tak
+Author{3}{Username}#=%=#mrinaltak
+Author{3}{Email}#=%=#mtak@cs.umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{4}{Firstname}#=%=#Haw-Shiuan
+Author{4}{Lastname}#=%=#Chang
+Author{4}{Username}#=%=#hschang
+Author{4}{Email}#=%=#hschang@cs.umass.edu
+Author{4}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{5}{Firstname}#=%=#Brian
+Author{5}{Lastname}#=%=#Pinette
+Author{5}{Username}#=%=#bpinette
+Author{5}{Email}#=%=#brian.pinette@lexalytics.com
+Author{5}{Affiliation}#=%=#Lexalytics, Inc.
+Author{6}{Firstname}#=%=#Alfred
+Author{6}{Lastname}#=%=#Hough
+Author{6}{Username}#=%=#ahough
+Author{6}{Email}#=%=#al.hough@lexalytics.com
+Author{6}{Affiliation}#=%=#Lexalytics
+
+==========

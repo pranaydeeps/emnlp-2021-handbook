@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1322
+FinalPaperTitle#=%=#Distilling Relation Embeddings from Pretrained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Asahi Ushio
+JobTitle#==#
+Organization#==#Cardiff NLP, School of Computer Science and Informatics, Cardiff University, United Kingdom
+Abstract#==#Pre-trained language models have been found to capture a surprisingly rich amount of lexical knowledge, ranging from commonsense properties of everyday concepts to detailed factual knowledge about named entities. Among others, this makes it possible to distill high-quality word vectors from pre-trained language models. However, it is currently unclear to what extent it is possible to distill relation embeddings, i.e. vectors that characterize the relationship between two words. Such relation embeddings are appealing because they can, in principle, encode relational knowledge in a more fine-grained way than is possible with knowledge graphs. To obtain relation embeddings from a pre-trained language model, we encode word pairs using a (manually or automatically generated) prompt, and we fine-tune the language model such that relationally similar word pairs yield similar output vectors. We find that the resulting relation embeddings are highly competitive on analogy (unsupervised) and relation classification (supervised) benchmarks, even without any task-specific fine-tuning. Source code to reproduce our experimental results and the model checkpoints are available in the following repository: https://github.com/asahi417/relbert
+Author{1}{Firstname}#=%=#Asahi
+Author{1}{Lastname}#=%=#Ushio
+Author{1}{Username}#=%=#asahi417
+Author{1}{Email}#=%=#ushioa@cardiff.ac.uk
+Author{1}{Affiliation}#=%=#Cardiff University
+Author{2}{Firstname}#=%=#Jose
+Author{2}{Lastname}#=%=#Camacho-Collados
+Author{2}{Username}#=%=#pedrada
+Author{2}{Email}#=%=#camachocolladosj@cardiff.ac.uk
+Author{2}{Affiliation}#=%=#Cardiff University
+Author{3}{Firstname}#=%=#Steven
+Author{3}{Lastname}#=%=#Schockaert
+Author{3}{Username}#=%=#stevenschockaert
+Author{3}{Email}#=%=#schockaerts1@cardiff.ac.uk
+Author{3}{Affiliation}#=%=#Cardiff University
+
+==========

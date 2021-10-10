@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#2109
+FinalPaperTitle#=%=#Evaluating the Robustness of Neural Language Models to Input Perturbations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Milad Moradi
+JobTitle#==#
+Organization#==#Institute for Artificial Intelligence, Währinger Straße 25a, 1090 Vienna, Austria
+Abstract#==#High-performance neural language models have obtained state-of-the-art results on a wide range of Natural Language Processing (NLP) tasks. However, results for common benchmark datasets often do not reflect model reliability and robustness when applied to noisy, real-world data. In this study, we design and implement various types of character-level and word-level perturbation methods to simulate realistic scenarios in which input texts may be slightly noisy or different from the data distribution on which NLP systems were trained. Conducting comprehensive experiments on different NLP tasks, we investigate the ability of high-performance language models such as BERT, XLNet, RoBERTa, and ELMo in handling different types of input perturbations. The results suggest that language models are sensitive to input perturbations and their performance can decrease even when small changes are introduced. We highlight that models need to be further improved and that current benchmarks are not reflecting model robustness well. We argue that evaluations on perturbed inputs should routinely complement widely-used benchmarks in order to yield a more realistic understanding of NLP systems’ robustness.
+Author{1}{Firstname}#=%=#Milad
+Author{1}{Lastname}#=%=#Moradi
+Author{1}{Username}#=%=#miladmoradi
+Author{1}{Email}#=%=#milad.moradivastegani@meduniwien.ac.at
+Author{1}{Affiliation}#=%=#Section for Artificial Intelligence and Decision Support, Center for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna
+Author{2}{Firstname}#=%=#Matthias
+Author{2}{Lastname}#=%=#Samwald
+Author{2}{Email}#=%=#matthias.samwald@meduniwien.ac.at
+Author{2}{Affiliation}#=%=#Institute for Artificial Intelligence and Decision Support, Center for Medical Statistics, Informatics, and Intelligent Systems, Medical University of Vienna
+
+==========

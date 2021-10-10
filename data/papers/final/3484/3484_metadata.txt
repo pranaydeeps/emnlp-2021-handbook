@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#3484
+FinalPaperTitle#=%=#Learning Opinion Summarizers by Selecting Informative Reviews
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Arthur Brazinskas
+JobTitle#==#
+Organization#==#
+Abstract#==#Opinion summarization has been traditionally approached with unsupervised, weakly-supervised and few-shot learning techniques. In this work, we collect a large dataset of summaries paired with user reviews for over 31,000 products, enabling supervised training. However, the number of reviews per product is large (320 on average), making summarization – and especially training a summarizer – impractical. Moreover, the content of many reviews is not reflected in the human-written summaries, and, thus, the summarizer trained on random review subsets hallucinates. In order to deal with both of these challenges, we formulate the task as jointly learning to select informative subsets of reviews and summarizing the opinions expressed in these subsets. The choice of the review subset is treated as a latent variable, predicted by a small and simple selector. The subset is then fed into a more powerful summarizer. For joint training, we use amortized variational inference and policy gradient methods. Our experiments demonstrate the importance of selecting informative reviews resulting in improved quality of summaries and reduced hallucinations.
+Author{1}{Firstname}#=%=#Arthur
+Author{1}{Lastname}#=%=#Bražinskas
+Author{1}{Username}#=%=#abrazinskas
+Author{1}{Email}#=%=#arthur.brazinskas@gmail.com
+Author{1}{Affiliation}#=%=#The University of Edinburgh
+Author{2}{Firstname}#=%=#Mirella
+Author{2}{Lastname}#=%=#Lapata
+Author{2}{Username}#=%=#mlap
+Author{2}{Email}#=%=#mlap@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{3}{Firstname}#=%=#Ivan
+Author{3}{Lastname}#=%=#Titov
+Author{3}{Username}#=%=#titov
+Author{3}{Email}#=%=#titov@uva.nl
+Author{3}{Affiliation}#=%=#University of Edinburgh / University of Amsterdam
+
+==========

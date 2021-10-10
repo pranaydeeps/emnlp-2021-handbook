@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2097
+FinalPaperTitle#=%=#GiBERT: Enhancing BERT with Linguistic Information using a Lightweight Gated Injection Method
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Nicole Peinelt
+JobTitle#==#
+Organization#==#
+Abstract#==#Large pre-trained language models such as BERT have been the driving force behind recent improvements across many NLP tasks. However, BERT is only trained to predict missing words – either through masking or next sentence prediction – and has no knowledge of lexical, syntactic or semantic information beyond what it picks up through unsupervised pre-training. We propose a novel method to explicitly inject linguistic information in the form of word embeddings into any layer of a pre-trained BERT. When injecting counter-fitted and dependency-based embeddings, the performance improvements on multiple semantic similarity datasets indicate that such information is beneficial and currently missing from the original model. Our qualitative analysis shows that counter-fitted embedding injection is particularly beneficial, with notable improvements on examples that require synonym resolution.
+Author{1}{Firstname}#=%=#Nicole
+Author{1}{Lastname}#=%=#Peinelt
+Author{1}{Username}#=%=#ningxi
+Author{1}{Email}#=%=#N.Peinelt@warwick.ac.uk
+Author{1}{Affiliation}#=%=#University of Warwick
+Author{2}{Firstname}#=%=#Marek
+Author{2}{Lastname}#=%=#Rei
+Author{2}{Username}#=%=#marek
+Author{2}{Email}#=%=#marek.rei@imperial.ac.uk
+Author{2}{Affiliation}#=%=#Imperial College London
+Author{3}{Firstname}#=%=#Maria
+Author{3}{Lastname}#=%=#Liakata
+Author{3}{Username}#=%=#liakata
+Author{3}{Email}#=%=#maria.liakata@gmail.com
+Author{3}{Affiliation}#=%=#Queen Mary University of London
+
+==========

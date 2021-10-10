@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#220
+FinalPaperTitle#=%=#The Influence of Regional Pronunciation Variation on Children's Spelling and the Potential Benefits of Accent Adapted Spellcheckers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Emma O'Neill
+JobTitle#==#
+Organization#==#
+Abstract#==#A child who is unfamiliar with the correct spelling of a word often employs a "sound it out" approach: breaking the word down into its constituent sounds and then choosing letters to represent the identified sounds. This often results in a misspelling that is orthographically very different to the intended target. Recently, efforts have been made to develop phonetic based spellcheckers to tackle the more deviant nature of children's misspellings. However, little work has been done to investigate the potential of spelling correction tools that incorporate regional pronunciation variation. If a child must first identify the sounds that make up a word, it stands to reason their pronunciation would influence this process. We investigate this hypothesis along with the feasibility and potential benefits of adapting spelling correction tools to more specific language variants - particularly Irish Accented English. We use misspelling data from schoolchildren across Ireland to adapt an existing English phonetic-based spellchecker and demonstrate improvements in performance. These results not only prompt consideration of language varieties in the development of spellcheckers but also contribute to existing literature on the role of regional accent in the acquisition of writing proficiency.
+Author{1}{Firstname}#=%=#Emma
+Author{1}{Lastname}#=%=#O'Neill
+Author{1}{Username}#=%=#emmaoneill
+Author{1}{Email}#=%=#emma.l.oneill@ucdconnect.ie
+Author{1}{Affiliation}#=%=#University College Dublin
+Author{2}{Firstname}#=%=#Joe
+Author{2}{Lastname}#=%=#Kenny
+Author{2}{Email}#=%=#joe@zeeko.ie
+Author{2}{Affiliation}#=%=#Zeeko
+Author{3}{Firstname}#=%=#Anthony
+Author{3}{Lastname}#=%=#Ventresque
+Author{3}{Username}#=%=#anthonyv
+Author{3}{Email}#=%=#anthony.ventresque@ucd.ie
+Author{3}{Affiliation}#=%=#University College Dublin
+Author{4}{Firstname}#=%=#Julie
+Author{4}{Lastname}#=%=#Carson-Berndsen
+Author{4}{Username}#=%=#julie.berndsen
+Author{4}{Email}#=%=#julie.berndsen@ucd.ie
+Author{4}{Affiliation}#=%=#University College Dublin
+
+==========

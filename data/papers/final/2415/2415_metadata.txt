@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#2415
+FinalPaperTitle#=%=#CDLM: Cross-Document Language Modeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Avi Caciularu
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce a new pretraining approach geared for multi-document language modeling, incorporating two key ideas into the masked language modeling self-supervised objective. First, instead of considering documents in isolation, we pretrain over sets of multiple related documents, encouraging the model to learn cross-document relationships. Second, we improve over recent long-range transformers by introducing dynamic global attention that has access to the entire input to predict masked tokens. We release CDLM (Cross-Document Language Model), a new general language model for multi-document setting that can be easily applied to downstream tasks.
+Our extensive analysis shows that both ideas are essential for the success of CDLM, and work in synergy to set new state-of-the-art results for several multi-text tasks.
+Author{1}{Firstname}#=%=#Avi
+Author{1}{Lastname}#=%=#Caciularu
+Author{1}{Username}#=%=#codevan
+Author{1}{Email}#=%=#avi.c33@gmail.com
+Author{1}{Affiliation}#=%=#Bar-Ilan University
+Author{2}{Firstname}#=%=#Arman
+Author{2}{Lastname}#=%=#Cohan
+Author{2}{Username}#=%=#arman
+Author{2}{Email}#=%=#armanc@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for AI
+Author{3}{Firstname}#=%=#Iz
+Author{3}{Lastname}#=%=#Beltagy
+Author{3}{Username}#=%=#islam.beltagy
+Author{3}{Email}#=%=#iz@beltagy.net
+Author{3}{Affiliation}#=%=#Allen Institute for AI (AI2)
+Author{4}{Firstname}#=%=#Matthew
+Author{4}{Lastname}#=%=#Peters
+Author{4}{Username}#=%=#mattpeters
+Author{4}{Email}#=%=#matthewp@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{5}{Firstname}#=%=#Arie
+Author{5}{Lastname}#=%=#Cattan
+Author{5}{Username}#=%=#cattana
+Author{5}{Email}#=%=#arie.cattan@gmail.com
+Author{5}{Affiliation}#=%=#Bar-Ilan University
+Author{6}{Firstname}#=%=#Ido
+Author{6}{Lastname}#=%=#Dagan
+Author{6}{Username}#=%=#dagan
+Author{6}{Email}#=%=#dagan@cs.biu.ac.il
+Author{6}{Affiliation}#=%=#Bar-Ilan University
+
+==========

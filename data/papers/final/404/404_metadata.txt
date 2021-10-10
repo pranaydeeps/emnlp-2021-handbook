@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#404
+FinalPaperTitle#=%=#Logic-level Evidence Retrieval and Graph-based Verification Network for Table-based Fact Verification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Qi Shi
+JobTitle#==#
+Organization#==#
+Abstract#==#Table-based fact verification task aims to verify whether the given statement is supported by the given semi-structured table. Symbolic reasoning with logical operations plays a crucial role in this task. Existing methods leverage programs that contain rich logical information to enhance the verification process. However, due to the lack of fully supervised signals in the program generation process, spurious programs can be derived and employed, which leads to the inability of the model to catch helpful logical operations. To address the aforementioned problems, in this work, we formulate the table-based fact verification task as an evidence retrieval and reasoning framework, proposing the Logic-level Evidence Retrieval and Graph-based Verification network (LERGV). Specifically, we first retrieve logic-level program-like evidence from the given table and statement as supplementary evidence for the table. After that, we construct a logic-level graph to capture the logical relations between entities and functions in the retrieved evidence, and design a graph-based verification network to perform logic-level graph-based reasoning based on the constructed graph to classify the final entailment relation. Experimental results on the large-scale benchmark TABFACT show the effectiveness of the proposed approach.
+Author{1}{Firstname}#=%=#Qi
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Username}#=%=#qshi
+Author{1}{Email}#=%=#qshi@ir.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Yu
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#zhangyu72
+Author{2}{Email}#=%=#zhangyu@ir.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Qingyu
+Author{3}{Lastname}#=%=#Yin
+Author{3}{Username}#=%=#yqy2428125
+Author{3}{Email}#=%=#yinqingyucn@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Ting
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#tliu72
+Author{4}{Email}#=%=#tliu72@qq.com
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

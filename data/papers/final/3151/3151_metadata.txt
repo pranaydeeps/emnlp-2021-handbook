@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3151
+FinalPaperTitle#=%=#Detecting Community Sensitive Norm Violations in Online Conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Chan Young Park
+JobTitle#==#
+Organization#==#
+Abstract#==#Online platforms and communities establish their own norms that govern what behavior is acceptable within the community. Substantial effort in NLP has focused on identifying unacceptable behaviors and, recently, on forecasting them before they occur. However, these efforts have largely focused on toxicity as the sole form of community norm violation. Such focus has overlooked the much larger set of rules that moderators enforce. Here, we introduce a new dataset focusing on a more complete spectrum of community norms and their violations in the local conversational and global community contexts. We introduce a series of models that use this data to develop context- and community-sensitive norm violation detection, showing that these changes give high performance.
+Author{1}{Firstname}#=%=#Chan Young
+Author{1}{Lastname}#=%=#Park
+Author{1}{Username}#=%=#chan0park
+Author{1}{Email}#=%=#chanyoun@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Julia
+Author{2}{Lastname}#=%=#Mendelsohn
+Author{2}{Username}#=%=#juliamendelsohn
+Author{2}{Email}#=%=#juliame@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Karthik
+Author{3}{Lastname}#=%=#Radhakrishnan
+Author{3}{Username}#=%=#karthikradhakrishnan96
+Author{3}{Email}#=%=#karthikradhakrishnan96@gmail.com
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Kinjal
+Author{4}{Lastname}#=%=#Jain
+Author{4}{Username}#=%=#kinjaljain01
+Author{4}{Email}#=%=#kinjaljain01@gmail.com
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Tushar
+Author{5}{Lastname}#=%=#Kanakagiri
+Author{5}{Username}#=%=#tkcmu
+Author{5}{Email}#=%=#tusharkanakagiri@gmail.com
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Firstname}#=%=#David
+Author{6}{Lastname}#=%=#Jurgens
+Author{6}{Username}#=%=#davidjurgens
+Author{6}{Email}#=%=#jurgens@umich.edu
+Author{6}{Affiliation}#=%=#University of Michigan
+Author{7}{Firstname}#=%=#Yulia
+Author{7}{Lastname}#=%=#Tsvetkov
+Author{7}{Username}#=%=#yulia.tsvetkov
+Author{7}{Email}#=%=#yuliats@cs.washington.edu
+Author{7}{Affiliation}#=%=#University of Washington
+
+==========

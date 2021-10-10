@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#4017
+FinalPaperTitle#=%=#Does Vision-and-Language Pretraining Improve Lexical Grounding?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tian Yun
+JobTitle#==#
+Organization#==#
+Abstract#==#Linguistic representations derived from text alone have been criticized for their lack of grounding, i.e., connecting words to their meanings in the physical world. Vision-and- Language (VL) models, trained jointly on text and image or video data, have been offered as a response to such criticisms. However, while VL pretraining has shown success on multimodal tasks such as visual question answering, it is not yet known how the internal linguistic representations themselves compare to their text-only counterparts. This paper compares the semantic representations learned via VL vs. text-only pretraining for two recent VL models using a suite of analyses (clustering, probing, and performance on a commonsense question answering task) in a language-only setting. We find that the multimodal models fail to significantly outperform the text-only variants, suggesting that future work is required if multimodal pretraining is to be pursued as a means of improving NLP in general.
+Author{1}{Firstname}#=%=#Tian
+Author{1}{Lastname}#=%=#Yun
+Author{1}{Username}#=%=#tian_yun
+Author{1}{Email}#=%=#tian_yun@brown.edu
+Author{1}{Affiliation}#=%=#Brown University
+Author{2}{Firstname}#=%=#Chen
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#chensun_brown
+Author{2}{Email}#=%=#chensun@brown.edu
+Author{2}{Affiliation}#=%=#Brown University
+Author{3}{Firstname}#=%=#Ellie
+Author{3}{Lastname}#=%=#Pavlick
+Author{3}{Username}#=%=#epavlick
+Author{3}{Email}#=%=#ellie_pavlick@brown.edu
+Author{3}{Affiliation}#=%=#Brown University
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#47
+FinalPaperTitle#=%=#On the Role of Corpus Ordering in Language Modeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Ameeta Agrawal
+JobTitle#==#
+Organization#==#
+Abstract#==#Language models pretrained on vast corpora of unstructured text using self-supervised learning framework are used in numerous natural language understanding and generation tasks. Many studies show that language acquisition in humans follows a rather structured simple-to-complex pattern and guided by this intuition, curriculum learning, which enables training of computational models in a meaningful order, such as processing easy samples before hard ones, has been shown to potentially reduce training time. The question remains whether curriculum learning can benefit pretraining of language models. In this work, we perform comprehensive experiments involving multiple curricula strategies varying the criteria for complexity and the training schedules. Empirical results of training transformer language models on English corpus and evaluating it intrinsically as well as after fine-tuning across eight tasks from the GLUE benchmark, show consistent improvement gains over conventional vanilla training. Interestingly, in our experiments, when evaluated on one epoch, the best model following a document-level hard-to-easy curriculum, outperforms the vanilla model by 1.7 points (average GLUE score) and it takes the vanilla model twice as many training steps to reach comparable performance.
+Author{1}{Firstname}#=%=#Ameeta
+Author{1}{Lastname}#=%=#Agrawal
+Author{1}{Username}#=%=#ameeta
+Author{1}{Email}#=%=#ameeta@cs.pdx.edu
+Author{1}{Affiliation}#=%=#Portland State University
+Author{2}{Firstname}#=%=#Suresh
+Author{2}{Lastname}#=%=#Singh
+Author{2}{Email}#=%=#singh@cs.pdx.edu
+Author{2}{Affiliation}#=%=#Portland State University
+Author{3}{Firstname}#=%=#Lauren
+Author{3}{Lastname}#=%=#Schneider
+Author{3}{Email}#=%=#braun@pdx.edu
+Author{3}{Affiliation}#=%=#Portland State University
+Author{4}{Firstname}#=%=#Michael
+Author{4}{Lastname}#=%=#Samuels
+Author{4}{Email}#=%=#msamuels@pdx.edu
+Author{4}{Affiliation}#=%=#Portland State Univesity
+
+==========

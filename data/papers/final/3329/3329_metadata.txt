@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#3329
+FinalPaperTitle#=%=#Model-based analysis of brain activity reveals the hierarchy of language in 305 subjects
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Charlotte Caucheteux
+JobTitle#==#
+Organization#==#
+Abstract#==#A popular approach to decompose the neural bases of language consists in correlating, across individuals, the brain responses to different stimuli (e.g. regular speech versus scrambled words, sentences, or paragraphs). Although successful, this 'model-free' approach necessitates the acquisition of a large and costly set of neuroimaging data. Here, we show that a model-based approach can reach equivalent results within subjects exposed to natural stimuli. We capitalize on the recently-discovered similarities between deep language models and the human brain to compute the mapping between i) the brain responses to regular speech and ii) the activations of deep language models elicited by modified stimuli (e.g. scrambled words, sentences, or paragraphs). Our model-based approach successfully replicates the seminal study of Lerner et al. (2011), which revealed the hierarchy of language areas by comparing the functional-magnetic resonance imaging (fMRI) of seven subjects listening to 7min of both regular and scrambled narratives. We further extend and precise these results to the brain signals of 305 individuals listening to 4.1 hours of narrated stories. Overall, this study paves the way for efficient and flexible analyses of the brain bases of language.
+Author{1}{Firstname}#=%=#charlotte
+Author{1}{Lastname}#=%=#caucheteux
+Author{1}{Username}#=%=#ccaucheteux
+Author{1}{Email}#=%=#ccaucheteux@fb.com
+Author{1}{Affiliation}#=%=#INRIA Saclay
+Author{2}{Firstname}#=%=#Alexandre
+Author{2}{Lastname}#=%=#Gramfort
+Author{2}{Email}#=%=#alexandre.gramfort@inria.fr
+Author{2}{Affiliation}#=%=#Université Paris-Saclay, Inria, CEA, Palaiseau, France
+Author{3}{Firstname}#=%=#Jean-Remi
+Author{3}{Lastname}#=%=#King
+Author{3}{Email}#=%=#jeanremi@fb.com
+Author{3}{Affiliation}#=%=#ENS / Facebook AI Research
+
+==========

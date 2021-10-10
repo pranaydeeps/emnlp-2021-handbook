@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#3474
+FinalPaperTitle#=%=#Flexible Generation of Natural Language Deductions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Kaj Bostrom
+JobTitle#==#
+Organization#==#Department of Computer Science, The University of Texas at Austin
+2317 Speedway
+Austin, Texas 78712
+Abstract#==#An interpretable system for open-domain reasoning needs to express its reasoning process in a transparent form. Natural language is an attractive representation for this purpose — it is both highly expressive and easy for humans to understand. However, manipulating natural language statements in logically consistent ways is hard: models must cope with variation in how meaning is expressed while remaining precise. In this paper, we describe ParaPattern, a method for building models to generate deductive inferences from diverse natural language inputs without direct human supervision. We train BART-based models (Lewis et al., 2020) to generate the result of applying a particular logical operation to one or more premise statements. Crucially, we develop a largely automated pipeline for constructing suitable training examples from Wikipedia. We evaluate our models using out-of-domain sentence compositions from the QASC (Khot et al., 2020) and EntailmentBank (Dalvi et al., 2021) datasets as well as targeted perturbation sets. Our results show that our models are substantially more accurate and flexible than baseline systems. ParaPattern achieves 85% validity on examples of the ‘substitution’ operation from EntailmentBank without the use of any in-domain training data, matching the performance of a model fine-tuned for EntailmentBank. The full source code for our method is publicly available.
+Author{1}{Firstname}#=%=#Kaj
+Author{1}{Lastname}#=%=#Bostrom
+Author{1}{Username}#=%=#kajb
+Author{1}{Email}#=%=#kaj@cs.utexas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Firstname}#=%=#Xinyu
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Username}#=%=#xinyuzhao
+Author{2}{Email}#=%=#xinyuzhao@utexas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+Author{3}{Firstname}#=%=#Swarat
+Author{3}{Lastname}#=%=#Chaudhuri
+Author{3}{Username}#=%=#swarat
+Author{3}{Email}#=%=#swarat@cs.utexas.edu
+Author{3}{Affiliation}#=%=#UT Austin
+Author{4}{Firstname}#=%=#Greg
+Author{4}{Lastname}#=%=#Durrett
+Author{4}{Username}#=%=#gdurrett
+Author{4}{Email}#=%=#gdurrett@cs.utexas.edu
+Author{4}{Affiliation}#=%=#UT Austin
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#487
+FinalPaperTitle#=%=#Extract, Denoise and Enforce: Evaluating and Improving Concept Preservation for Text-to-Text Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yuning Mao
+JobTitle#==#
+Organization#==#
+Abstract#==#Prior studies on text-to-text generation typically assume that the model could figure out what to attend to in the input and what to include in the output via seq2seq learning, with only the parallel training data and no additional guidance.
+However, it remains unclear whether current models can preserve important concepts in the source input, as seq2seq learning does not have explicit focus on the concepts and commonly used evaluation metrics also treat them equally important as other tokens.
+In this paper, we present a systematic analysis that studies whether current seq2seq models, especially pre-trained language models, are good enough for preserving important input concepts and to what extent explicitly guiding generation with the concepts as lexical constraints is beneficial.
+We answer the above questions by conducting extensive analytical experiments on four representative text-to-text generation tasks.
+Based on the observations, we then propose a simple yet effective framework to automatically extract, denoise, and enforce important input concepts as lexical constraints. This new method performs comparably or better than its unconstrained counterpart on automatic metrics, demonstrates higher coverage for concept preservation, and receives better ratings in the human evaluation.
+Our code is available at https://github.com/morningmoni/EDE.
+Author{1}{Firstname}#=%=#Yuning
+Author{1}{Lastname}#=%=#Mao
+Author{1}{Username}#=%=#morningmoni
+Author{1}{Email}#=%=#yuningm2@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana–Champaign
+Author{2}{Firstname}#=%=#Wenchang
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#arthur_ma
+Author{2}{Email}#=%=#957980613@qq.com
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Deren
+Author{3}{Lastname}#=%=#Lei
+Author{3}{Username}#=%=#derenlei
+Author{3}{Email}#=%=#derenlei@usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+Author{4}{Firstname}#=%=#Jiawei
+Author{4}{Lastname}#=%=#Han
+Author{4}{Username}#=%=#hanj
+Author{4}{Email}#=%=#hanj@illinois.edu
+Author{4}{Affiliation}#=%=#UIUC
+Author{5}{Firstname}#=%=#Xiang
+Author{5}{Lastname}#=%=#Ren
+Author{5}{Username}#=%=#xren7
+Author{5}{Email}#=%=#xiangren@usc.edu
+Author{5}{Affiliation}#=%=#University of Southern California
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1378
+FinalPaperTitle#=%=#SciXGen: A Scientific Paper Dataset for Context-Aware Text Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hong Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Generating texts in scientific papers requires not only capturing the content contained within the given input but also frequently acquiring the external information called context. We push forward the scientific text generation by proposing a new task, namely context-aware text generation in the scientific domain, aiming at exploiting the contributions of context in generated texts. To this end, we present a novel challenging large-scale Scientific Paper Dataset for ConteXt-Aware Text Generation (SciXGen), consisting of well-annotated 205,304 papers with full references to widely-used objects (e.g., tables, figures, algorithms) in a paper. We comprehensively benchmark, using state-of-the-arts, the efficacy of our newly constructed SciXGen dataset in generating description and paragraph. Our dataset and benchmarks will be made publicly available to hopefully facilitate the scientific text generation research.
+Author{1}{Firstname}#=%=#Hong
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#chen1202
+Author{1}{Email}#=%=#chen@nlab.ci.i.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#University of Tokyo
+Author{2}{Firstname}#=%=#Hiroya
+Author{2}{Lastname}#=%=#Takamura
+Author{2}{Username}#=%=#takamura
+Author{2}{Email}#=%=#takamura.hiroya@aist.go.jp
+Author{2}{Affiliation}#=%=#The National Institute of Advanced Industrial Science and Technology (AIST)
+Author{3}{Firstname}#=%=#Hideki
+Author{3}{Lastname}#=%=#Nakayama
+Author{3}{Username}#=%=#n_hidekey
+Author{3}{Email}#=%=#nakayama@ci.i.u-tokyo.ac.jp
+Author{3}{Affiliation}#=%=#The University of Tokyo
+
+==========

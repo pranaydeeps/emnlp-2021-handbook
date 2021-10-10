@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#2728
+FinalPaperTitle#=%=#To Share or not to Share: {P}redicting Sets of Sources for Model Transfer Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Lukas Lange
+JobTitle#==#
+Organization#==#Robert Bosch GmbH
+Robert-Bosch-Campus 1
+71272 Renningen
+Germany
+Abstract#==#In low-resource settings, model transfer can help to overcome a lack of labeled data for
+many tasks and domains. 
+However, predicting useful transfer sources is a challenging problem, as even the most similar sources might lead to unexpected negative transfer results.
+Thus, ranking methods based on task and text similarity — as suggested in prior work — may not be sufficient to identify promising sources. To tackle this problem, we propose a new approach to automatically determine which and how many sources should be exploited.
+For this, we study the effects of model transfer on sequence labeling across various domains and tasks and show that our methods based on model similarity and support vector machines are able to predict promising sources, resulting in performance increases of up to 24 F1 points.
+Author{1}{Firstname}#=%=#Lukas
+Author{1}{Lastname}#=%=#Lange
+Author{1}{Username}#=%=#llange
+Author{1}{Email}#=%=#lukas.lange@de.bosch.com
+Author{1}{Affiliation}#=%=#Bosch Center for Artificial Intelligence
+Author{2}{Firstname}#=%=#Jannik
+Author{2}{Lastname}#=%=#Strötgen
+Author{2}{Username}#=%=#jannik.stroetgen
+Author{2}{Email}#=%=#jannik.stroetgen@gmail.com
+Author{2}{Affiliation}#=%=#Bosch Center for Artificial Intelligence
+Author{3}{Firstname}#=%=#Heike
+Author{3}{Lastname}#=%=#Adel
+Author{3}{Username}#=%=#heikeadel
+Author{3}{Email}#=%=#heike.adel@de.bosch.com
+Author{3}{Affiliation}#=%=#Bosch Center for Artificial Intelligence
+Author{4}{Firstname}#=%=#Dietrich
+Author{4}{Lastname}#=%=#Klakow
+Author{4}{Username}#=%=#dietrich.klakow
+Author{4}{Email}#=%=#dklakow@lsv.uni-saarland.de
+Author{4}{Affiliation}#=%=#Saarland University
+
+==========

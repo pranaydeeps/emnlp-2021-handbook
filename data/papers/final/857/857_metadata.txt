@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#857
+FinalPaperTitle#=%=#Identifying Morality Frames in Political Tweets using Relational Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#Shamik Roy
+JobTitle#==#
+Organization#==#Purdue University, West Lafayette, IN 47907, USA
+Abstract#==#Extracting moral sentiment from text is a vital component in understanding public opinion, social movements, and policy decisions. The Moral Foundation Theory identifies five moral foundations, each associated with a positive and negative polarity. However, moral sentiment is often motivated by its targets, which can correspond to individuals or collective entities. In this paper, we introduce morality frames, a representation framework for organizing moral attitudes directed at different entities, and come up with a novel and high-quality annotated dataset of tweets written by US politicians. Then, we propose a relational learning model to predict moral attitudes towards entities and moral foundations jointly. We do qualitative and quantitative evaluations, showing that moral sentiment towards entities differs highly across political ideologies.
+Author{1}{Firstname}#=%=#Shamik
+Author{1}{Lastname}#=%=#Roy
+Author{1}{Username}#=%=#shamik
+Author{1}{Email}#=%=#roy98@purdue.edu
+Author{1}{Affiliation}#=%=#Purdue University
+Author{2}{Firstname}#=%=#Maria Leonor
+Author{2}{Lastname}#=%=#Pacheco
+Author{2}{Username}#=%=#pachecog
+Author{2}{Email}#=%=#pachecog@purdue.edu
+Author{2}{Affiliation}#=%=#Purdue University
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Goldwasser
+Author{3}{Username}#=%=#goldan55
+Author{3}{Email}#=%=#dgoldwas@purdue.edu
+Author{3}{Affiliation}#=%=#Purdue University
+
+==========

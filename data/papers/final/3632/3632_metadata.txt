@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3632
+FinalPaperTitle#=%=#CrossVQA: Scalably Generating Benchmarks for Systematically Testing VQA Generalization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Arjun Reddy Akula
+JobTitle#==#
+Organization#==#
+Abstract#==#One challenge in evaluating visual question answering (VQA) models in the cross-dataset adaptation setting is that the distribution shifts are multi-modal, making it difficult to identify if it is the shifts in visual or language features that play a key role. In this paper, we propose a semi-automatic framework for generating disentangled shifts by introducing a controllable visual question-answer generation (VQAG) module that is capable of generating highly-relevant and diverse question-answer pairs with the desired dataset style. We use it to create CrossVQA, a collection of test splits for assessing VQA generalization based on the VQA2, VizWiz, and Open~Images datasets. We provide an analysis of our generated datasets and demonstrate its utility by using them to evaluate several state-of-the-art VQA systems. One important finding is that the visual shifts in cross-dataset VQA matter more than the language shifts. More broadly, we present a scalable framework for systematically evaluating the machine with little human intervention.
+Author{1}{Firstname}#=%=#Arjun
+Author{1}{Lastname}#=%=#Akula
+Author{1}{Username}#=%=#arjunakula
+Author{1}{Email}#=%=#aakula@ucla.edu
+Author{1}{Affiliation}#=%=#University of California, Los Angeles
+Author{2}{Firstname}#=%=#Soravit
+Author{2}{Lastname}#=%=#Changpinyo
+Author{2}{Username}#=%=#schangpi
+Author{2}{Email}#=%=#martbeerina@gmail.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Boqing
+Author{3}{Lastname}#=%=#Gong
+Author{3}{Username}#=%=#boqinggo
+Author{3}{Email}#=%=#boqinggo@outlook.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Piyush
+Author{4}{Lastname}#=%=#Sharma
+Author{4}{Username}#=%=#piyushsharma
+Author{4}{Email}#=%=#piyushsharma@google.com
+Author{4}{Affiliation}#=%=#Google Research
+Author{5}{Firstname}#=%=#Song-Chun
+Author{5}{Lastname}#=%=#Zhu
+Author{5}{Username}#=%=#sczhu
+Author{5}{Email}#=%=#sczhu@stat.ucla.edu
+Author{5}{Affiliation}#=%=#UCLA
+Author{6}{Firstname}#=%=#Radu
+Author{6}{Lastname}#=%=#Soricut
+Author{6}{Username}#=%=#rsoricut
+Author{6}{Email}#=%=#radu.soricut@gmail.com
+Author{6}{Affiliation}#=%=#Google LLC
+
+==========

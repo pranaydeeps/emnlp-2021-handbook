@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3937
+FinalPaperTitle#=%=#Discovering Explanatory Sentences in Legal Case Decisions Using Pre-trained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jaromir Savelka
+JobTitle#==#
+Organization#==#University of Pittsburgh, 4200 Fifth Ave, Pittsburgh, PA 15260
+Abstract#==#Legal texts routinely use concepts that are difficult to understand. Lawyers elaborate on the meaning of such concepts by, among other things, carefully investigating how they have been used in the past. Finding text snippets that mention a particular concept in a useful way is tedious, time-consuming, and hence expensive. We assembled a data set of 26,959 sentences, coming from legal case decisions, and labeled them in terms of their usefulness for explaining selected legal concepts. Using the dataset we study the effectiveness of transformer models pre-trained on large language corpora to detect which of the sentences are useful. In light of models' predictions, we analyze various linguistic properties of the explanatory sentences as well as their relationship to the legal concept that needs to be explained. We show that the transformer-based models are capable of learning surprisingly sophisticated features and outperform the prior approaches to the task.
+Author{1}{Firstname}#=%=#Jaromir
+Author{1}{Lastname}#=%=#Savelka
+Author{1}{Username}#=%=#jsavelka
+Author{1}{Email}#=%=#jsavelka@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Ashley
+Author{2}{Username}#=%=#ashley
+Author{2}{Email}#=%=#ashley@pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

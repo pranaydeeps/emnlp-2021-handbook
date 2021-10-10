@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1006
+FinalPaperTitle#=%=#When Retriever-Reader Meets Scenario-Based Multiple-Choice Questions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gong Cheng
+JobTitle#==#
+Organization#==#Nanjing University, 163 Xianlin Avenue, Nanjing 210023, China.
+Abstract#==#Scenario-based question answering (SQA) requires retrieving and reading paragraphs from a large corpus to answer a question which is contextualized by a long scenario description. Since a scenario contains both keyphrases for retrieval and much noise, retrieval for SQA is extremely difficult. Moreover, it can hardly be supervised due to the lack of relevance labels of paragraphs for SQA. To meet the challenge, in this paper we propose a joint retriever-reader model called JEEVES where the retriever is implicitly supervised only using QA labels via a novel word weighting mechanism. JEEVES significantly outperforms a variety of strong baselines on multiple-choice questions in three SQA datasets.
+Author{1}{Firstname}#=%=#ZiXian
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Username}#=%=#njuhzx
+Author{1}{Email}#=%=#zixianhuang@smail.nju.edu.cn
+Author{1}{Affiliation}#=%=#NanJing University
+Author{2}{Firstname}#=%=#Ao
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#awsyt
+Author{2}{Email}#=%=#awu@smail.nju.edu.cn
+Author{2}{Affiliation}#=%=#Nanjing University
+Author{3}{Firstname}#=%=#Yulin
+Author{3}{Lastname}#=%=#Shen
+Author{3}{Username}#=%=#ylshennju
+Author{3}{Email}#=%=#ylshen@smail.nju.edu.cn
+Author{3}{Affiliation}#=%=#Nanjing University
+Author{4}{Firstname}#=%=#Gong
+Author{4}{Lastname}#=%=#Cheng
+Author{4}{Username}#=%=#gcheng
+Author{4}{Email}#=%=#gcheng@nju.edu.cn
+Author{4}{Affiliation}#=%=#Nanjing University
+Author{5}{Firstname}#=%=#Yuzhong
+Author{5}{Lastname}#=%=#Qu
+Author{5}{Username}#=%=#yzqu2
+Author{5}{Email}#=%=#yzqu@nju.edu.cn
+Author{5}{Affiliation}#=%=#Nanjing University
+
+==========

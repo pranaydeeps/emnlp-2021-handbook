@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3563
+FinalPaperTitle#=%=#Muppet: Massive Multi-task Representations with Pre-Finetuning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Armen Aghajanyan
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose pre-finetuning, an additional large-scale learning stage between language model pre-training and fine-tuning. Pre-finetuning is massively multi-task learning (around 50 datasets, over 4.8 million total labeled examples), and is designed to encourage learning of representations that generalize better to many different tasks. We show that pre-finetuning consistently improves performance for pretrained discriminators (e.g.~RoBERTa) and generation models (e.g.~BART) on a wide range of tasks (sentence prediction, commonsense reasoning, MRC, etc.), while also significantly improving sample efficiency during fine-tuning. We also show that large-scale multi-tasking is crucial; pre-finetuning can hurt performance when few tasks are used up until a critical point (usually above 15) after which performance improves linearly in the number of tasks.
+Author{1}{Firstname}#=%=#Armen
+Author{1}{Lastname}#=%=#Aghajanyan
+Author{1}{Username}#=%=#armenag
+Author{1}{Email}#=%=#armen.ag@live.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Anchit
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Username}#=%=#anchit
+Author{2}{Email}#=%=#anchit@fb.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Akshat
+Author{3}{Lastname}#=%=#Shrivastava
+Author{3}{Username}#=%=#akshats
+Author{3}{Email}#=%=#akshat.shrivastava1998@gmail.com
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Xilun
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#ccsasuke
+Author{4}{Email}#=%=#xlchen@cs.cornell.edu
+Author{4}{Affiliation}#=%=#Facebook
+Author{5}{Firstname}#=%=#Luke
+Author{5}{Lastname}#=%=#Zettlemoyer
+Author{5}{Username}#=%=#lsz
+Author{5}{Email}#=%=#lsz@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington; Facebook
+Author{6}{Firstname}#=%=#Sonal
+Author{6}{Lastname}#=%=#Gupta
+Author{6}{Username}#=%=#sonalgupta
+Author{6}{Email}#=%=#sonalgupta@fb.com
+Author{6}{Affiliation}#=%=#Facebook
+
+==========

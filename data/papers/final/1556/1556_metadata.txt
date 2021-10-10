@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1556
+FinalPaperTitle#=%=#Sent2Span: Span Detection for PICO Extraction in the Biomedical Text without Span Annotations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shifeng Liu
+JobTitle#==#
+Organization#==#The University of Sydney
+Abstract#==#The rapid growth in published clinical trials makes it difficult to maintain up-to-date systematic reviews, which require finding all relevant trials. 
+This leads to policy and practice decisions based on out-of-date, incomplete, and biased subsets of available clinical evidence. 
+Extracting and then normalising Population, Intervention, Comparator, and Outcome (PICO) information from clinical trial articles may be an effective way to automatically assign trials to systematic reviews and avoid searching and screening—the two most time-consuming systematic review processes.
+We propose and test a novel approach to PICO span detection. 
+The major difference between our proposed method and previous approaches comes from detecting spans without needing annotated span data and using only crowdsourced sentence-level annotations.
+Experiments on two datasets show that PICO span detection results achieve much higher results for recall when compared to fully supervised methods
+with PICO sentence detection at least as good as human annotations.
+By removing the reliance on expert annotations for span detection, this work could be used in a human-machine pipeline for turning low-quality, crowdsourced, and sentence-level PICO annotations into structured information that can be used to quickly assign trials to relevant systematic reviews.
+Author{1}{Firstname}#=%=#Shifeng
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#shifeng.liu
+Author{1}{Email}#=%=#shifeng.liu@sydney.edu.au
+Author{1}{Affiliation}#=%=#The University of Sydney
+Author{2}{Firstname}#=%=#Yifang
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Username}#=%=#yifangs
+Author{2}{Email}#=%=#yifangs@cse.unsw.edu.au
+Author{2}{Affiliation}#=%=#University of New South Wales
+Author{3}{Firstname}#=%=#Bing
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#bing.li@unsw.edu.au
+Author{3}{Affiliation}#=%=#The University of New South Wales
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#weiw@cse.unsw.edu.au
+Author{4}{Affiliation}#=%=#The University of New South Wales
+Author{5}{Firstname}#=%=#Florence T.
+Author{5}{Lastname}#=%=#Bourgeois
+Author{5}{Email}#=%=#Florence.Bourgeois@childrens.harvard.edu
+Author{5}{Affiliation}#=%=#Harvard Medical School
+Author{6}{Firstname}#=%=#Adam G.
+Author{6}{Lastname}#=%=#Dunn
+Author{6}{Email}#=%=#adam.dunn@sydney.edu.au
+Author{6}{Affiliation}#=%=#The University of Sydney
+
+==========

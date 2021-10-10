@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#4495
+FinalPaperTitle#=%=#Revisiting Self-training for Few-shot Learning of Language Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yiming Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#As unlabeled data carry rich task-relevant information, they are proven useful for few-shot learning of language model. The question is how to effectively make use of such data. In this work, we revisit the self-training technique for language model fine-tuning and present a state-of-the-art prompt-based few-shot learner, SFLM. Given two views of a text sample via weak and strong augmentation techniques, SFLM generates a pseudo label on the weakly augmented version. Then, the model predicts the same pseudo label when fine-tuned with the strongly augmented version. This simple approach is shown to outperform other state-of-the-art supervised and semi-supervised counterparts on six sentence classification and six sentence-pair classification benchmarking tasks. In addition, SFLM only relies on a few in-domain unlabeled data. We conduct a comprehensive analysis to demonstrate the robustness of our proposed approach under various settings, including augmentation techniques, model scale, and few-shot knowledge transfer across tasks.
+Author{1}{Firstname}#=%=#Yiming
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#mattymchen
+Author{1}{Email}#=%=#e0622334@u.nus.edu
+Author{1}{Affiliation}#=%=#National University of Singapore
+Author{2}{Firstname}#=%=#Yan
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#yan_zhang
+Author{2}{Email}#=%=#eleyanz@nus.edu.sg
+Author{2}{Affiliation}#=%=#National University of Singapore
+Author{3}{Firstname}#=%=#Chen
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#e0397123
+Author{3}{Email}#=%=#e0397123@u.nus.edu
+Author{3}{Affiliation}#=%=#ECE, National University of SIngapore
+Author{4}{Firstname}#=%=#Grandee
+Author{4}{Lastname}#=%=#Lee
+Author{4}{Username}#=%=#grandee
+Author{4}{Email}#=%=#grandee.lee@u.nus.edu
+Author{4}{Affiliation}#=%=#National University of Singapore
+Author{5}{Firstname}#=%=#Ran
+Author{5}{Lastname}#=%=#Cheng
+Author{5}{Email}#=%=#ranchengcn@gmail.com
+Author{5}{Affiliation}#=%=#Southern University of Science and Technology
+Author{6}{Firstname}#=%=#Haizhou
+Author{6}{Lastname}#=%=#Li
+Author{6}{Username}#=%=#hzli
+Author{6}{Email}#=%=#haizhou.li@nus.edu.sg
+Author{6}{Affiliation}#=%=#National University of Singapore
+
+==========

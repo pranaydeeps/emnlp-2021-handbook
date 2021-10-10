@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#492
+FinalPaperTitle#=%=#LayoutReader: Pre-training of Text and Layout for Reading Order Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zilong Wang
+JobTitle#==#
+Organization#==#University of California, San Diego, 9500 Gilman Dr, La Jolla, CA 92093
+Abstract#==#Reading order detection is the cornerstone to understanding visually-rich documents (e.g., receipts and forms). Unfortunately, no existing work took advantage of advanced deep learning models because it is too laborious to annotate a large enough dataset. We observe that the reading order of WORD documents is embedded in their XML metadata; meanwhile, it is easy to convert WORD documents to PDFs or images. Therefore, in an automated manner, we construct ReadingBank, a benchmark dataset that contains reading order, text, and layout information for 500,000 document images covering a wide spectrum of document types. This first-ever large-scale dataset unleashes the power of deep neural networks for reading order detection. Specifically, our proposed LayoutReader captures the text and layout information for reading order prediction using the seq2seq model. It performs almost perfectly in reading order detection and significantly improves both open-source and commercial OCR engines in ordering text lines in their results in our experiments. The dataset and models are publicly available at https://aka.ms/layoutreader.
+Author{1}{Firstname}#=%=#Zilong
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#zilong_wang
+Author{1}{Email}#=%=#zlwang@ucsd.edu
+Author{1}{Affiliation}#=%=#University of California at San Diego
+Author{2}{Firstname}#=%=#Yiheng
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Username}#=%=#yihengxu
+Author{2}{Email}#=%=#charlesyihengxu@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Lei
+Author{3}{Lastname}#=%=#Cui
+Author{3}{Username}#=%=#leicui
+Author{3}{Email}#=%=#lecu@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia
+Author{4}{Firstname}#=%=#Jingbo
+Author{4}{Lastname}#=%=#Shang
+Author{4}{Username}#=%=#shangjingbo
+Author{4}{Email}#=%=#jshang@ucsd.edu
+Author{4}{Affiliation}#=%=#University of California, San Diego
+Author{5}{Firstname}#=%=#Furu
+Author{5}{Lastname}#=%=#Wei
+Author{5}{Username}#=%=#fuwei
+Author{5}{Email}#=%=#fuwei@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+
+==========

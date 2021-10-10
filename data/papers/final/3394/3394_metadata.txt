@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#3394
+FinalPaperTitle#=%=#Few-Shot Emotion Recognition in Conversation with Sequential Prototypical Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Gaël Guibon
+JobTitle#==#
+Organization#==#Télécom Paris (Palaiseau, France)
+SNCF (Saint-Denis, France)
+Abstract#==#Several recent studies on dyadic human-human interactions have been done on conversations without specific business objectives. However, many companies might benefit from studies dedicated to more precise environments such as after sales services or customer satisfaction surveys. In this work, we place ourselves in the scope of a live chat customer service in which we want to detect emotions and their evolution in the conversation flow. This context leads to multiple challenges that range from exploiting restricted, small and mostly unlabeled datasets to finding and adapting methods for such context.
+We tackle these challenges by using Few-Shot Learning while making the hypothesis it can serve conversational emotion classification for different languages and sparse labels. We contribute by proposing a variation of Prototypical Networks for sequence labeling in conversation that we name ProtoSeq. We test this method on two datasets with different languages: daily conversations in English and customer service chat conversations in French. When applied to emotion classification in conversations, our method proved to be competitive even when compared to other ones.
+Author{1}{Firstname}#=%=#Gaël
+Author{1}{Lastname}#=%=#Guibon
+Author{1}{Username}#=%=#gg
+Author{1}{Email}#=%=#gael.guibon@gmail.com
+Author{1}{Affiliation}#=%=#Télécom Paris, Direction Innovation & Recherche SNCF
+Author{2}{Firstname}#=%=#Matthieu
+Author{2}{Lastname}#=%=#Labeau
+Author{2}{Username}#=%=#matthieulabeau
+Author{2}{Email}#=%=#matthieu.labeau@telecom-paris.fr
+Author{2}{Affiliation}#=%=#Telecom Paris
+Author{3}{Firstname}#=%=#Hélène
+Author{3}{Lastname}#=%=#Flamein
+Author{3}{Username}#=%=#hflamein
+Author{3}{Email}#=%=#helene.flamein@sncf.fr
+Author{3}{Affiliation}#=%=#Direction Innovation & Recherche, SNCF
+Author{4}{Firstname}#=%=#Luce
+Author{4}{Lastname}#=%=#Lefeuvre
+Author{4}{Username}#=%=#lucel
+Author{4}{Email}#=%=#luce.lefeuvre@sncf.fr
+Author{4}{Affiliation}#=%=#Direction Innovation & Recherche SNCF
+Author{5}{Firstname}#=%=#Chloé
+Author{5}{Lastname}#=%=#Clavel
+Author{5}{Username}#=%=#cclavel
+Author{5}{Email}#=%=#chloe.clavel@telecom-paristech.fr
+Author{5}{Affiliation}#=%=#LTCI, Telecom-Paris, Institut Polytechnique de Paris
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#51
+FinalPaperTitle#=%=#Screening Gender Transfer in Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Guillaume Wisniewski
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper aims at identifying the information flow in state-of-the-art machine translation systems, taking as example the transfer of gender when translating from French into English.   Using a controlled set of examples, we experiment several ways to investigate how gender information circulates in a encoder-decoder architecture considering both probing techniques as well as interventions on the internal representations used in the MT system. Our  results show that gender information can be found in all token representations built by the encoder and the decoder and lead us to conclude that there are multiple pathways for gender transfer.
+Author{1}{Firstname}#=%=#Guillaume
+Author{1}{Lastname}#=%=#Wisniewski
+Author{1}{Username}#=%=#gwisniewski
+Author{1}{Email}#=%=#guillaume.wisniewski@u-paris.fr
+Author{1}{Affiliation}#=%=#Université Paris and LLF
+Author{2}{Firstname}#=%=#Lichao
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Username}#=%=#lzhu
+Author{2}{Email}#=%=#lichao.zhu@gmail.com
+Author{2}{Affiliation}#=%=#Sorbonne Université
+Author{3}{Firstname}#=%=#Nicolas
+Author{3}{Lastname}#=%=#Bailler
+Author{3}{Email}#=%=#nicolas.ballier@u-paris.fr
+Author{3}{Affiliation}#=%=#CLILLAC-ARP and Paris University
+Author{4}{Firstname}#=%=#François
+Author{4}{Lastname}#=%=#Yvon
+Author{4}{Username}#=%=#francois.yvon
+Author{4}{Email}#=%=#francois.yvon@limsi.fr
+Author{4}{Affiliation}#=%=#LISN CNRS & Univ. Paris Saclay
+
+==========

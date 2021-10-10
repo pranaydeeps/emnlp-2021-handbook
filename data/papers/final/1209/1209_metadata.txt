@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1209
+FinalPaperTitle#=%=#Honey or Poison? Solving the Trigger Curse in Few-shot Event Detection via Causal Intervention
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#jiawei chen
+JobTitle#==#
+Organization#==#Chinese Information Processing Laboratory, Institute of Software, Chinese Academy of Sciences, Beijing, China
+Abstract#==#Event detection has long been troubled by the trigger curse: overfitting the trigger will harm the generalization ability while underfitting it will hurt the detection performance. This problem is even more severe in few-shot scenario. In this paper, we identify and solve the trigger curse problem in few-shot event detection (FSED) from a causal view. By formulating FSED with a structural causal model (SCM), we found that the trigger is a confounder of the context and the result, which makes previous FSED methods much easier to overfit triggers. To resolve this problem, we propose to intervene on the context via backdoor adjustment during training. Experiments show that our method significantly improves the FSED on both ACE05 and MAVEN datasets.
+Author{1}{Firstname}#=%=#Jiawei
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#chenjiawei
+Author{1}{Email}#=%=#jiawei2020@iscas.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Hongyu
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Username}#=%=#sanmu_sunrise
+Author{2}{Email}#=%=#sanmu_sunrise@foxmail.com
+Author{2}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Xianpei
+Author{3}{Lastname}#=%=#Han
+Author{3}{Username}#=%=#xphan
+Author{3}{Email}#=%=#hanxianpei@gmail.com
+Author{3}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Le
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Username}#=%=#lesun
+Author{4}{Email}#=%=#lesunle@163.com
+Author{4}{Affiliation}#=%=#ISCAS
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#4644
+FinalPaperTitle#=%=#Counter-Contrastive Learning for Language GANs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yekun Chai
+JobTitle#==#
+Organization#==#
+Abstract#==#Generative Adversarial Networks (GANs) have achieved great success in image synthesis, but have proven to be difficult to generate natural language. Challenges arise from the uninformative learning signals passed from the discriminator. In other words, the poor learning signals limit the learning capacity for generating languages with rich structures and semantics. In this paper, we propose to adopt the counter-contrastive learning (CCL) method to support the generator's training in language GANs. In contrast to standard GANs that adopt a simple binary classifier to discriminate whether a sample is real or fake, we employ a counter-contrastive learning signal that advances the training of language synthesizers by (1) pulling the language representations of generated and real samples together and (2) pushing apart representations of real samples to compete with the discriminator and thus prevent the discriminator from being overtrained. 
+We evaluate our method on both synthetic and real benchmarks and yield competitive performance compared to previous GANs for adversarial sequence generation.
+Author{1}{Firstname}#=%=#Yekun
+Author{1}{Lastname}#=%=#Chai
+Author{1}{Username}#=%=#cyk
+Author{1}{Email}#=%=#chaiyekun@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Haidong
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#haidongzhang
+Author{2}{Email}#=%=#haidong_zhang14@yahoo.com
+Author{2}{Affiliation}#=%=#Chinese Academy of Sciences, Institute of Automation
+Author{3}{Firstname}#=%=#Qiyue
+Author{3}{Lastname}#=%=#Yin
+Author{3}{Email}#=%=#qyyin@nlpr.ia.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Junge
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#jgzhang@nlpr.ia.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+
+==========

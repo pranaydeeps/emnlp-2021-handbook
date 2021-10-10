@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#4051
+FinalPaperTitle#=%=#MRF-Chat: Improving Dialogue with Markov Random Fields
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ishaan Grover
+JobTitle#==#
+Organization#==#Massachusetts Institute of Technology
+77 Massachusetts Avenue, Cambridge, MA, 02139
+Abstract#==#Recent state-of-the-art approaches in open-domain dialogue include training end-to-end deep-learning models to learn various conversational features like emotional content of response, symbolic transitions of dialogue contexts in a knowledge graph and persona of the agent and the user, among others. While neural models have shown reasonable results, modelling the cognitive processes that humans use when conversing with each other may improve the agent's quality of responses. A key element of natural conversation is to tailor one's response such that it accounts for concepts that the speaker and listener may or may not know and the contextual relevance of all prior concepts used in conversation. We show that a rich representation and explicit modeling of these psychological processes can improve predictions made by existing neural network models. In this work, we propose a novel probabilistic approach using Markov Random Fields (MRF) to augment existing deep-learning methods for improved next utterance prediction. Using human and automatic evaluations, we show that our augmentation approach significantly improves the performance of existing state-of-the-art retrieval models for open-domain conversational agents.
+Author{1}{Firstname}#=%=#Ishaan
+Author{1}{Lastname}#=%=#Grover
+Author{1}{Username}#=%=#ishaangrover
+Author{1}{Email}#=%=#igrover@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Matthew
+Author{2}{Lastname}#=%=#Huggins
+Author{2}{Username}#=%=#hugginsm
+Author{2}{Email}#=%=#hugginsm@mit.edu
+Author{2}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{3}{Firstname}#=%=#Cynthia
+Author{3}{Lastname}#=%=#Breazeal
+Author{3}{Username}#=%=#cynthiabreazeal
+Author{3}{Email}#=%=#cynthiab@media.mit.edu
+Author{3}{Affiliation}#=%=#MIT Media Lab
+Author{4}{Firstname}#=%=#Hae Won
+Author{4}{Lastname}#=%=#Park
+Author{4}{Username}#=%=#haewon
+Author{4}{Email}#=%=#haewon@media.mit.edu
+Author{4}{Affiliation}#=%=#MIT
+
+==========

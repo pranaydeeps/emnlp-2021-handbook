@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#75
+FinalPaperTitle#=%=#How Familiar Does That Sound? Cross-Lingual Representational Similarity Analysis of Acoustic Word Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Badr M. Abdullah
+JobTitle#==#
+Organization#==#Saarland University
+Abstract#==#How do neural networks "perceive'' speech sounds from unknown languages? Does the typological similarity between the model's training language (L1) and an unknown language (L2) have an impact on the model representations of L2 speech signals? To answer these questions, we present a novel experimental design based on representational similarity analysis (RSA) to analyze acoustic word embeddings (AWEs)---vector representations of variable-duration spoken-word segments. First, we train monolingual AWE models on seven Indo-European languages with various degrees of typological similarity. We then employ RSA to quantify the cross-lingual similarity by simulating native and non-native spoken-word processing using AWEs. Our experiments show that typological similarity indeed affects the representational similarity of the models in our study. We further discuss the implications of our work on modeling speech processing and language similarity with neural networks.
+Author{1}{Firstname}#=%=#Badr
+Author{1}{Lastname}#=%=#Abdullah
+Author{1}{Username}#=%=#badr_abdullah
+Author{1}{Email}#=%=#babdullah@lsv.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Iuliia
+Author{2}{Lastname}#=%=#Zaitova
+Author{2}{Email}#=%=#izaitova@lsv.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Tania
+Author{3}{Lastname}#=%=#Avgustinova
+Author{3}{Username}#=%=#avgustinova
+Author{3}{Email}#=%=#avgustinova@lst.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+Author{4}{Firstname}#=%=#Bernd
+Author{4}{Lastname}#=%=#Möbius
+Author{4}{Username}#=%=#moebius
+Author{4}{Email}#=%=#moebius@lst.uni-saarland.de
+Author{4}{Affiliation}#=%=#Saarland University
+Author{5}{Firstname}#=%=#Dietrich
+Author{5}{Lastname}#=%=#Klakow
+Author{5}{Username}#=%=#dietrich.klakow
+Author{5}{Email}#=%=#dklakow@lsv.uni-saarland.de
+Author{5}{Affiliation}#=%=#Saarland University
+
+==========

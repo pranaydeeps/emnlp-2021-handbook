@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3550
+FinalPaperTitle#=%=#Pairwise Supervised Contrastive Learning of Sentence Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Dejiao Zhang
+JobTitle#==#Applied Scientist
+Organization#==#AWS AI, 7west 33rd street, New York City, USA
+Abstract#==#Many recent successes in sentence representation learning have been achieved by simply fine-tuning on the Natural Language Inference (NLI) datasets with triplet loss or siamese loss. Nevertheless, they share a common weakness: sentences in a contradiction pair are not necessarily from different semantic categories. Therefore, optimizing the semantic entailment and contradiction reasoning objective alone is inadequate to capture the high-level semantic structure. The drawback is compounded by the fact that the vanilla siamese or triplet losses only learn from individual sentence pairs or triplets, which often suffer from bad local optima. In this paper, we propose PairSupCon, an instance discrimination based approach aiming to bridge semantic entailment and contradiction understanding with high-level categorical concept encoding. We evaluate PairSupCon on various downstream tasks that involve understanding sentence semantics at different granularities. We outperform the previous state-of-the-art method with 10%--13% averaged improvement on eight clustering tasks, and 5%--6% averaged improvement on seven semantic textual similarity (STS) tasks.
+Author{1}{Firstname}#=%=#Dejiao
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#lantong2018
+Author{1}{Email}#=%=#dejiaozhang@gmail.com
+Author{1}{Affiliation}#=%=#AWS AMAZON
+Author{2}{Firstname}#=%=#Shang-Wen
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#swli
+Author{2}{Email}#=%=#swdanielli@gmail.com
+Author{2}{Affiliation}#=%=#Amazon AWS AI
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Xiao
+Author{3}{Username}#=%=#wxiao
+Author{3}{Email}#=%=#wxiao0421@gmail.com
+Author{3}{Affiliation}#=%=#AWS AI
+Author{4}{Firstname}#=%=#Henghui
+Author{4}{Lastname}#=%=#Zhu
+Author{4}{Username}#=%=#zhhtc200
+Author{4}{Email}#=%=#henghui@amazon.com
+Author{4}{Affiliation}#=%=#Amazon Web Services
+Author{5}{Firstname}#=%=#Ramesh
+Author{5}{Lastname}#=%=#Nallapati
+Author{5}{Username}#=%=#ramesh.nallapati
+Author{5}{Email}#=%=#rnallapa@amazon.com
+Author{5}{Affiliation}#=%=#AWS AI
+Author{6}{Firstname}#=%=#Andrew O.
+Author{6}{Lastname}#=%=#Arnold
+Author{6}{Username}#=%=#andrew.arnold
+Author{6}{Email}#=%=#andrew.arnold@gmail.com
+Author{6}{Affiliation}#=%=#AWS AI
+Author{7}{Firstname}#=%=#Bing
+Author{7}{Lastname}#=%=#Xiang
+Author{7}{Username}#=%=#bxiang
+Author{7}{Email}#=%=#bxiang@amazon.com
+Author{7}{Affiliation}#=%=#Amazon
+
+==========

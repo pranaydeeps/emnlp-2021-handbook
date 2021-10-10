@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#4127
+FinalPaperTitle#=%=#Exploring Non-Autoregressive Text Style Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yun Ma
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we explore Non-AutoRegressive (NAR) decoding for unsupervised text style transfer. We first propose a base NAR model by directly adapting the common training scheme from its AutoRegressive (AR) counterpart. Despite the faster inference speed over the AR model, this NAR model sacrifices its transfer performance due to the lack of conditional dependence between output tokens. To this end, we investigate three techniques, i.e., knowledge distillation, contrastive learning, and iterative decoding, for performance enhancement. Experimental results on two benchmark datasets suggest that, although the base NAR model is generally inferior to AR decoding, their performance gap can be clearly narrowed when empowering NAR decoding with knowledge distillation, contrastive learning, and iterative decoding.
+Author{1}{Firstname}#=%=#Yun
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Username}#=%=#yunma3
+Author{1}{Email}#=%=#mayun371@gmail.com
+Author{1}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{2}{Firstname}#=%=#Qing
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#csqli
+Author{2}{Email}#=%=#csqli@comp.polyu.edu.hk
+Author{2}{Affiliation}#=%=#the Hong Kong Polytechnic University
+
+==========

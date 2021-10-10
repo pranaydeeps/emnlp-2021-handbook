@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2507
+FinalPaperTitle#=%=#Multilingual Translation via Grafting Pre-trained Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Zewei Sun
+JobTitle#==#
+Organization#==#
+Abstract#==#Can pre-trained BERT for one language and GPT for another be glued together to translate texts? Self-supervised training using only monolingual data has led to the success of pre-trained (masked) language models in many NLP tasks. However, directly connecting BERT as an encoder and GPT as a decoder can be challenging in machine translation, for GPT-like models lack a cross-attention component that is needed in seq2seq decoders. In this paper, we propose Graformer to graft separately pre-trained (masked) language models for machine translation. With monolingual data for pre-training and parallel data for grafting training, we maximally take advantage of the usage of both types of data. Experiments on 60 directions show that our method achieves average improvements of 5.8 BLEU in x2en and 2.9 BLEU in en2x directions comparing with the multilingual Transformer of the same size.
+Author{1}{Firstname}#=%=#Zewei
+Author{1}{Lastname}#=%=#Sun
+Author{1}{Username}#=%=#sunzewei2715
+Author{1}{Email}#=%=#sunzewei.v@bytedance.com
+Author{1}{Affiliation}#=%=#ByteDance
+Author{2}{Firstname}#=%=#Mingxuan
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangmingxuan
+Author{2}{Email}#=%=#wangmingxuan.89@bytedance.com
+Author{2}{Affiliation}#=%=#Bytedance AI Lab
+Author{3}{Firstname}#=%=#Lei
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#leili
+Author{3}{Email}#=%=#lilei@ucsb.edu
+Author{3}{Affiliation}#=%=#UCSB
+
+==========

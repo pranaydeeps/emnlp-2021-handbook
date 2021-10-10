@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1457
+FinalPaperTitle#=%=#Adaptive Information Seeking for Open-Domain Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yunchang Zhu
+JobTitle#==#
+Organization#==#
+Abstract#==#Information seeking is an essential step for open-domain question answering to efficiently gather evidence from a large corpus. 
+Recently, iterative approaches have been proven to be effective for complex questions, by recursively retrieving new evidence at each step.
+However, almost all existing iterative approaches use predefined strategies, either applying the same retrieval function multiple times or fixing the order of different retrieval functions, which cannot fulfill the diverse requirements of various questions. 
+In this paper, we propose a novel adaptive information-seeking strategy for open-domain question answering, namely AISO. 
+Specifically, the whole retrieval and answer process is modeled as a partially observed Markov decision process, where three types of retrieval operations (e.g., BM25, DPR, and hyperlink) and one answer operation are defined as actions.
+According to the learned policy, AISO could adaptively select a proper retrieval action to seek the missing evidence at each step, based on the collected evidence and the reformulated query, or directly output the answer when the evidence set is sufficient for the question.
+Experiments on SQuAD Open and HotpotQA fullwiki, which serve as single-hop and multi-hop open-domain QA benchmarks, show that AISO outperforms all baseline methods with predefined strategies in terms of both retrieval and answer evaluations.
+Author{1}{Firstname}#=%=#Yunchang
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Username}#=%=#zycdev
+Author{1}{Email}#=%=#zhuyunchang17s@ict.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Science
+Author{2}{Firstname}#=%=#Liang
+Author{2}{Lastname}#=%=#Pang
+Author{2}{Username}#=%=#pl8787
+Author{2}{Email}#=%=#pl8787@gmail.com
+Author{2}{Affiliation}#=%=#Institute of Computing Technology of Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Yanyan
+Author{3}{Lastname}#=%=#Lan
+Author{3}{Username}#=%=#lanyanyan
+Author{3}{Email}#=%=#lanyanyan@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Huawei
+Author{4}{Lastname}#=%=#Shen
+Author{4}{Username}#=%=#shenhuawei
+Author{4}{Email}#=%=#shenhuawei@ict.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Xueqi
+Author{5}{Lastname}#=%=#Cheng
+Author{5}{Username}#=%=#cxq
+Author{5}{Email}#=%=#cxq@ict.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Computing Technology, CAS
+
+==========

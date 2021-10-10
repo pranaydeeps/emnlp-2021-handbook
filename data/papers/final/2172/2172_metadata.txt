@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2172
+FinalPaperTitle#=%=#Detect and Classify – Joint Span Detection and Classification for Health Outcomes
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Micheal Abaho
+JobTitle#==#
+Organization#==#
+Abstract#==#A health outcome is a measurement or an observation used to capture and assess the effect of a treatment.  Automatic detection of health outcomes from text would undoubtedly speed up access to evidence necessary in healthcare decision making. Prior work on outcome detection has modelled this task as either (a) a sequence labelling task, where the goal is to detect which text spans describe health outcomes, or (b) a classification task, where the goal is to classify a text into a predefined set of categories depending on an outcome that is mentioned somewhere in that text. However, this decoupling of span detection and classification is problematic from a modelling perspective  and  ignores global structural correspondences between sentence-level and word-level information present in a given text. To address this, we propose a method that uses both word-level and sentence-level information to simultaneously perform  outcome  span  detection and outcome type classification. In addition to injecting contextual information to hidden vectors, we use label attention to appropriately weight both word and sentence level information. Experimental results on several benchmark datasets for health outcome detection show that our proposed method consistently outperforms decoupled methods, reporting competitive results.
+Author{1}{Firstname}#=%=#Micheal
+Author{1}{Lastname}#=%=#Abaho
+Author{1}{Username}#=%=#micheala
+Author{1}{Email}#=%=#m.abaho@liverpool.ac.uk
+Author{1}{Affiliation}#=%=#University of Liverpool
+Author{2}{Firstname}#=%=#Danushka
+Author{2}{Lastname}#=%=#Bollegala
+Author{2}{Username}#=%=#danushka
+Author{2}{Email}#=%=#danushka@liverpool.ac.uk
+Author{2}{Affiliation}#=%=#University of Liverpool/Amazon
+Author{3}{Firstname}#=%=#Paula
+Author{3}{Lastname}#=%=#Williamson
+Author{3}{Username}#=%=#paulaw
+Author{3}{Email}#=%=#prw@liv.ac.uk
+Author{3}{Affiliation}#=%=#University of Liverpool
+Author{4}{Firstname}#=%=#Susanna
+Author{4}{Lastname}#=%=#Dodd
+Author{4}{Username}#=%=#srdodd
+Author{4}{Email}#=%=#s.r.dodd@liv.ac.uk
+Author{4}{Affiliation}#=%=#University of Liverpool
+
+==========

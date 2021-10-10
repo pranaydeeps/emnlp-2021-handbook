@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#231
+FinalPaperTitle#=%=#Distantly Supervised Relation Extraction using Multi-Layer Revision Network and Confidence-based Multi-Instance Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xiangyu Lin
+JobTitle#==#
+Organization#==#
+Abstract#==#Distantly supervised relation extraction is widely used in the construction of knowledge bases due to its high efficiency. However, the automatically obtained instances are of low quality with numerous irrelevant words. In addition, the strong assumption of distant supervision leads to the existence of noisy sentences in the sentence bags. In this paper, we propose a novel Multi-Layer Revision Network (MLRN) which alleviates the effects of word-level noise by emphasizing inner-sentence correlations before extracting relevant information within sentences. Then, we devise a balanced and noise-resistant Confidence-based Multi-Instance Learning (CMIL) method to filter out noisy sentences as well as assign proper weights to relevant ones. Extensive experiments on two New York Times (NYT) datasets demonstrate that our approach achieves significant improvements over the baselines.
+Author{1}{Firstname}#=%=#Xiangyu
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#linxiangyu
+Author{1}{Email}#=%=#yc07403@um.edu.mo
+Author{1}{Affiliation}#=%=#University of Macau
+Author{2}{Firstname}#=%=#Tianyi
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#liutianyi
+Author{2}{Email}#=%=#liutianyi@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Weijia
+Author{3}{Lastname}#=%=#Jia
+Author{3}{Username}#=%=#jiawj
+Author{3}{Email}#=%=#weijiaj@gmail.com
+Author{3}{Affiliation}#=%=#BNU-UIC Joint AI Resrach Institute, Beijing Normal University (Zhuhai) & Shanghai Jiao Tong University
+Author{4}{Firstname}#=%=#Zhiguo
+Author{4}{Lastname}#=%=#Gong
+Author{4}{Email}#=%=#fstzgg@um.edu.mo
+Author{4}{Affiliation}#=%=#University of Macau
+
+==========

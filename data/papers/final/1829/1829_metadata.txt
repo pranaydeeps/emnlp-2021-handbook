@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1829
+FinalPaperTitle#=%=#TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Adaku Uchendu
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent progress in generative language models has enabled machines to generate astonishingly realistic texts. While there are many legitimate applications of such models, there is also a rising need to distinguish machine-generated texts from human-written ones (e.g., fake news detection). However, to our best knowledge, there is currently no benchmark environment with datasets and tasks to systematically study the so-called ''Turing Test'' problem for neural text generation methods. In this work, we present the TURINGBENCH benchmark environment, which is comprised of (1) a dataset with 200K human- or machine-generated samples across 20 labels {Human, GPT-1, GPT-2_small, GPT-2_medium, GPT-2_large,GPT-2_xl, GPT-2_PyTorch, GPT-3, GROVER_base, GROVER_large,
+GROVER_mega, CTRL, XLM, XLNET_base, XLNET_large, FAIR_wmt19, FAIR_wmt20, TRANSFORMER_XL, PPLM_distil, PPLM_gpt2}, (2) two benchmark tasks--i.e., Turing Test (TT) and Authorship Attribution (AA), and (3) a website with leaderboards. Our preliminary experimental results using  TURINGBENCH  show that GPT-3 and FAIR_wmt20 are the current winners, among all language models tested, in generating the most human-like indistinguishable texts with the lowest F1 score by five state-of-the-art TT detection models. The TURINGBENCH  is available at: https://turingbench.ist.psu.edu/
+Author{1}{Firstname}#=%=#Adaku
+Author{1}{Lastname}#=%=#Uchendu
+Author{1}{Username}#=%=#adaku
+Author{1}{Email}#=%=#azu5030@psu.edu
+Author{1}{Affiliation}#=%=#Pennsylvania State University
+Author{2}{Firstname}#=%=#Zeyu
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#zeyu.ma
+Author{2}{Email}#=%=#mazeyuwhu@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Thai
+Author{3}{Lastname}#=%=#Le
+Author{3}{Username}#=%=#itmth19
+Author{3}{Email}#=%=#tql3@psu.edu
+Author{3}{Affiliation}#=%=#The Pennsylvania State University
+Author{4}{Firstname}#=%=#Rui
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#ryanzh
+Author{4}{Email}#=%=#rmz5227@psu.edu
+Author{4}{Affiliation}#=%=#Penn State University
+Author{5}{Firstname}#=%=#Dongwon
+Author{5}{Lastname}#=%=#Lee
+Author{5}{Username}#=%=#dongwon
+Author{5}{Email}#=%=#dongwon@psu.edu
+Author{5}{Affiliation}#=%=#Penn State University
+
+==========

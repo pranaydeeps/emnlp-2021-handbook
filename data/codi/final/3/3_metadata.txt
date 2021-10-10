@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#"I’ll be there for you": The One with Understanding Indirect Answers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Paulina Toborek
+JobTitle#==#
+Organization#==#IT University of Copenhagen
+Rued Langgaards Vej 7
+DK-2300 Copenhagen S
+Denmark
+Abstract#==#Indirect answers are replies to polar questions without the direct use of word cues such as `yes' and `no'. Humans are very good at understanding indirect answers, such as `I gotta go home sometime', when asked `You wanna crash on the couch?'. Understanding indirect answers is a challenging problem for dialogue systems. In this paper, we introduce a new English corpus to study the problem of understanding indirect answers. Instead of crowd-sourcing both polar questions and answers, we collect questions and indirect answers from transcripts of a prominent TV series and manually annotate them for answer type. The resulting dataset contains 5,930 question-answer pairs. We release both aggregated and raw human annotations. We present a set of experiments in which we evaluate Convolutional Neural Networks (CNNs) for this task, including a cross-dataset evaluation and experiments with learning from disagreements in annotation. Our results show that the task of interpreting indirect answers remains challenging, yet  we obtain encouraging improvements when explicitly modeling human disagreement.
+Author{1}{Firstname}#=%=#Cathrine
+Author{1}{Lastname}#=%=#Damgaard
+Author{1}{Username}#=%=#catd
+Author{1}{Email}#=%=#catd@itu.dk
+Author{1}{Affiliation}#=%=#IT University of Copenhagen
+Author{2}{Firstname}#=%=#Paulina
+Author{2}{Lastname}#=%=#Toborek
+Author{2}{Username}#=%=#ptoborek
+Author{2}{Email}#=%=#pato@itu.dk
+Author{2}{Affiliation}#=%=#IT University of Copenhagen
+Author{3}{Firstname}#=%=#Trine
+Author{3}{Lastname}#=%=#Eriksen
+Author{3}{Username}#=%=#trer
+Author{3}{Email}#=%=#trer@itu.dk
+Author{3}{Affiliation}#=%=#IT University of Copenhagen
+Author{4}{Firstname}#=%=#Barbara
+Author{4}{Lastname}#=%=#Plank
+Author{4}{Username}#=%=#bplank
+Author{4}{Email}#=%=#bplank@gmail.com
+Author{4}{Affiliation}#=%=#IT University of Copenhagen
+
+==========

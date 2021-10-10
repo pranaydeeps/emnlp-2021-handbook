@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#2721
+FinalPaperTitle#=%=#Come hither or go away? Recognising pre-electoral coalition signals in the news
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Ines Rehbein
+JobTitle#==#
+Organization#==#University of Mannheim
+B 6, 26
+68159 Mannheim 
+Germany
+Abstract#==#In this paper, we introduce the task of political coalition signal prediction from text, that is, the task of recognizing from the news coverage leading up to an election the (un)willingness of political parties to form a government coalition. We decompose our problem into two related, but distinct tasks: (i) predicting whether a reported statement from a politician or a journalist refers to a potential coalition and (ii) predicting the polarity of the signal -- namely, whether the speaker is in favour of or against the coalition. For this, we explore the benefits of multi-task learning and investigate which setup and task formulation is best suited for each sub-task. We evaluate our approach, based on hand-coded newspaper articles, covering elections in three countries (Ireland, Germany, Austria) and two languages (English, German). Our results show that the multi-task learning approach can further improve results over a strong monolingual transfer learning baseline.
+Author{1}{Firstname}#=%=#Ines
+Author{1}{Lastname}#=%=#Rehbein
+Author{1}{Username}#=%=#irehbein
+Author{1}{Email}#=%=#ines@informatik.uni-mannheim.de
+Author{1}{Affiliation}#=%=#University of Mannheim
+Author{2}{Firstname}#=%=#Simone Paolo
+Author{2}{Lastname}#=%=#Ponzetto
+Author{2}{Username}#=%=#ponzetto
+Author{2}{Email}#=%=#simone@informatik.uni-mannheim.de
+Author{2}{Affiliation}#=%=#University of Mannheim
+Author{3}{Firstname}#=%=#Anna
+Author{3}{Lastname}#=%=#Adendorf
+Author{3}{Username}#=%=#aadendor
+Author{3}{Email}#=%=#anna.adendorf@mzes.uni-mannheim.de
+Author{3}{Affiliation}#=%=#University of Mannheim
+Author{4}{Firstname}#=%=#Oke
+Author{4}{Lastname}#=%=#Bahnsen
+Author{4}{Username}#=%=#obahnsen
+Author{4}{Email}#=%=#oke.bahnsen@gmx.net
+Author{4}{Affiliation}#=%=#University of Mannheim
+Author{5}{Firstname}#=%=#Lukas
+Author{5}{Lastname}#=%=#Stoetzer
+Author{5}{Username}#=%=#lstoetze
+Author{5}{Email}#=%=#lukas.stoetzer@hu-berlin.de
+Author{5}{Affiliation}#=%=#Humboldt University of Berlin
+Author{6}{Firstname}#=%=#Heiner
+Author{6}{Lastname}#=%=#Stuckenschmidt
+Author{6}{Username}#=%=#heiner
+Author{6}{Email}#=%=#heiner@informatik.uni-mannheim.de
+Author{6}{Affiliation}#=%=#University of Mannheim
+
+==========

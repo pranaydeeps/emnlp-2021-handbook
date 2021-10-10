@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#Self-trained Pretrained Language Models for Evidence Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mohamed Elaraby
+JobTitle#==#
+Organization#==#
+Abstract#==#Argument role labeling is a fundamental task001in Argument Mining research.  However, such002research  often  suffers  from  a  lack  of  large-003scale datasets labeled for argument roles such004as evidence, which is crucial for neural model005training.While  large  pretrained  language006models  have  somewhat  alleviated  the  need007for  massive  manually  labeled  datasets,  how008much  these  models  can  further  benefit  from009self-training techniques hasn’t been widely ex-010plored  in  the  literature  in  general  and  in  Ar-011gument Mining specifically.  In this work, we012focus  on  self-trained  language  models  (par-013ticularly  BERT)  for  evidence  detection.   We014provide  a  thorough  investigation  on  how  to015utilize  pseudo  labels  effectively  in  the  self-016training  scheme.We  also  assess  whether017adding  pseudo  labels  from  an  out-of-domain018source can be beneficial.  Experiments on sen-019tence level evidence detection show that self-020training can complement pretrained language021models to provide performance improvements.
+Author{1}{Firstname}#=%=#mohamed
+Author{1}{Lastname}#=%=#elaraby
+Author{1}{Username}#=%=#a-mohsa
+Author{1}{Email}#=%=#mhmd.sl.elhady@gmail.com
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Diane
+Author{2}{Lastname}#=%=#Litman
+Author{2}{Username}#=%=#litman
+Author{2}{Email}#=%=#dlitman@pitt.edu
+Author{2}{Affiliation}#=%=#University of Pittsburgh
+
+==========

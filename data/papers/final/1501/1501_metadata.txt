@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1501
+FinalPaperTitle#=%=#We've had this conversation before: A Novel Approach to Measuring Dialog Similarity
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Ella Rabinovich
+JobTitle#==#
+Organization#==#
+Abstract#==#Dialog is a core building block of human natural language interactions. It contains multi-party utterances used to convey information from one party to another in a dynamic and evolving manner. The ability to compare dialogs is beneficial in many real world use cases, such as conversation analytics for contact center calls and virtual agent design.
+
+We propose a novel adaptation of the edit distance metric to the scenario of dialog similarity. Our approach takes into account various conversation aspects such as utterance semantics, conversation flow, and the participants. We evaluate this new approach and compare it to existing document similarity measures on two publicly available datasets. The results demonstrate that our method outperforms the other approaches in capturing dialog flow, and is better aligned with the human perception of conversation similarity.
+Author{1}{Firstname}#=%=#Ofer
+Author{1}{Lastname}#=%=#Lavi
+Author{1}{Username}#=%=#oferl
+Author{1}{Email}#=%=#oferl@il.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Ella
+Author{2}{Lastname}#=%=#Rabinovich
+Author{2}{Username}#=%=#ellarabi
+Author{2}{Email}#=%=#ellarabi@gmail.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Segev
+Author{3}{Lastname}#=%=#Shlomov
+Author{3}{Username}#=%=#segevshlomov
+Author{3}{Email}#=%=#segevs@campus.technion.ac.il
+Author{3}{Affiliation}#=%=#Technion – Israel Institute of Technology
+Author{4}{Firstname}#=%=#David
+Author{4}{Lastname}#=%=#Boaz
+Author{4}{Email}#=%=#davidbo@il.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research
+Author{5}{Firstname}#=%=#Inbal
+Author{5}{Lastname}#=%=#Ronen
+Author{5}{Username}#=%=#inbal
+Author{5}{Email}#=%=#inbal.ronen46@gmail.com
+Author{5}{Affiliation}#=%=#Self Employed
+Author{6}{Firstname}#=%=#Ateret
+Author{6}{Lastname}#=%=#Anaby Tavor
+Author{6}{Username}#=%=#atereta
+Author{6}{Email}#=%=#atereta@il.ibm.com
+Author{6}{Affiliation}#=%=#IBM Research AI
+
+==========

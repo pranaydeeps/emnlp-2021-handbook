@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#4265
+FinalPaperTitle#=%=#Re-embedding Difficult Samples via Mutual Information Constrained Semantically Oversampling for Imbalanced Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Jiachen Tian
+JobTitle#==#
+Organization#==#
+Abstract#==#Difficult samples of the minority class in imbalanced text classification are usually hard to be classified as they are embedded into an overlapping semantic region with the majority class. In this paper, we propose a Mutual Information constrained Semantically Oversampling framework (MISO) that can generate anchor instances to help the backbone network determine the re-embedding position of a non-overlapping representation for each difficult sample. MISO consists of (1) a semantic fusion module that learns entangled semantics among difficult and majority samples with an adaptive multi-head attention mechanism, (2) a mutual information loss that forces our model to learn new representations of entangled semantics in the non-overlapping region of the minority class, and (3) a coupled adversarial encoder-decoder that fine-tunes disentangled semantic representations to remain their correlations with the minority class, and then using these disentangled semantic representations to generate anchor instances for each difficult sample. Experiments on a variety of imbalanced text classification tasks demonstrate that anchor instances help classifiers achieve significant improvements over strong baselines.
+Author{1}{Firstname}#=%=#Jiachen
+Author{1}{Lastname}#=%=#Tian
+Author{1}{Username}#=%=#tianjiachen
+Author{1}{Email}#=%=#jiachen6677@tju.edu.cn
+Author{1}{Affiliation}#=%=#Tianjin University
+Author{2}{Firstname}#=%=#Shizhan
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#shizhan@tju.edu.cn
+Author{2}{Affiliation}#=%=#Tianjin University
+Author{3}{Firstname}#=%=#Xiaowang
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#zhangxiaowang
+Author{3}{Email}#=%=#xiaowangzhang@tju.edu.cn
+Author{3}{Affiliation}#=%=#Tianjin University
+Author{4}{Firstname}#=%=#Zhiyong
+Author{4}{Lastname}#=%=#Feng
+Author{4}{Username}#=%=#fengzhiyong
+Author{4}{Email}#=%=#zyfeng@tju.edu.cn
+Author{4}{Affiliation}#=%=#Tianjin university
+Author{5}{Firstname}#=%=#Deyi
+Author{5}{Lastname}#=%=#Xiong
+Author{5}{Username}#=%=#dyxiong
+Author{5}{Email}#=%=#dyxiong@tju.edu.cn
+Author{5}{Affiliation}#=%=#Tianjin University
+Author{6}{Firstname}#=%=#Shaojuan
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Email}#=%=#shaojuanwu@tju.edu.cn
+Author{6}{Affiliation}#=%=#Tianjin University
+Author{7}{Firstname}#=%=#Chunliu
+Author{7}{Lastname}#=%=#Dou
+Author{7}{Email}#=%=#2019229041@tju.edu.cn
+Author{7}{Affiliation}#=%=#Tianjin University
+
+==========

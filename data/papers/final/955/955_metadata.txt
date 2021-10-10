@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#955
+FinalPaperTitle#=%=#Leveraging Word-Formation Knowledge for Chinese Word Sense Disambiguation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hua Zheng
+JobTitle#==#
+Organization#==#Peking University, Beijing, China
+Abstract#==#In parataxis languages like Chinese, word meanings are constructed using specific word-formations, which can help to disambiguate word senses. However, such knowledge is rarely explored in previous word sense disambiguation (WSD) methods. In this paper, we propose to leverage word-formation knowledge to enhance Chinese WSD. We first construct a large-scale Chinese lexical sample WSD dataset with word-formations. Then, we propose a model FormBERT to explicitly incorporate word-formations into sense disambiguation. To further enhance generalizability, we design a word-formation predictor module in case word-formation annotations are unavailable. Experimental results show that our method brings substantial performance improvement over strong baselines.
+Author{1}{Firstname}#=%=#Hua
+Author{1}{Lastname}#=%=#Zheng
+Author{1}{Username}#=%=#huaz
+Author{1}{Email}#=%=#zhenghua@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Lei
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#tobiaslee
+Author{2}{Email}#=%=#lilei@stu.pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Damai
+Author{3}{Lastname}#=%=#Dai
+Author{3}{Username}#=%=#daidamai
+Author{3}{Email}#=%=#daidamai@pku.edu.cn
+Author{3}{Affiliation}#=%=#MOE Key Laboratory of Computational Linguistics, Peking University, China
+Author{4}{Firstname}#=%=#Deli
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Username}#=%=#chendeli96
+Author{4}{Email}#=%=#chendeli@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Tianyu
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Username}#=%=#tianyu_liu_pku
+Author{5}{Email}#=%=#tianyu0421@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Xu
+Author{6}{Lastname}#=%=#Sun
+Author{6}{Username}#=%=#xusun26
+Author{6}{Email}#=%=#xusun@pku.edu.cn
+Author{6}{Affiliation}#=%=#Peking University
+Author{7}{Firstname}#=%=#Yang
+Author{7}{Lastname}#=%=#Liu
+Author{7}{Username}#=%=#liuyangpku
+Author{7}{Email}#=%=#liuyang@pku.edu.cn
+Author{7}{Affiliation}#=%=#Peking University
+
+==========

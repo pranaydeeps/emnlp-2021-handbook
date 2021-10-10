@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#4460
+FinalPaperTitle#=%=#Machine Translation Decoding beyond Beam Search
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#25
+CopyrightSigned#=%=#Rémi Leblond
+JobTitle#==#
+Organization#==#
+Abstract#==#Beam search is the go-to method for decoding auto-regressive machine translation models. While it yields consistent improvements in terms of BLEU, it is only concerned with finding outputs with high model likelihood, and is thus agnostic to whatever end metric or score practitioners care about. Our aim is to establish whether beam search can be replaced by a more powerful metric-driven search technique. To this end, we explore numerous decoding algorithms, including some which rely on a value function parameterised by a neural network, and report results on a variety of metrics. Notably, we introduce a Monte-Carlo Tree Search (MCTS) based method and showcase its competitiveness. We provide a blueprint for how to use MCTS fruitfully in language applications, which opens promising future directions. We find that which algorithm is best heavily depends on the characteristics of the goal metric; we believe that our extensive experiments and analysis will inform further research in this area.
+Author{1}{Firstname}#=%=#Rémi
+Author{1}{Lastname}#=%=#Leblond
+Author{1}{Username}#=%=#remileblond
+Author{1}{Email}#=%=#remileblond@google.com
+Author{1}{Affiliation}#=%=#DeepMind
+Author{2}{Firstname}#=%=#Jean-Baptiste
+Author{2}{Lastname}#=%=#Alayrac
+Author{2}{Username}#=%=#jalayrac
+Author{2}{Email}#=%=#jalayrac@google.com
+Author{2}{Affiliation}#=%=#DeepMind
+Author{3}{Firstname}#=%=#laurent
+Author{3}{Lastname}#=%=#sifre
+Author{3}{Username}#=%=#sifre
+Author{3}{Email}#=%=#sifre@google.com
+Author{3}{Affiliation}#=%=#deepmind
+Author{4}{Firstname}#=%=#Miruna
+Author{4}{Lastname}#=%=#Pislar
+Author{4}{Username}#=%=#miruna.pislar
+Author{4}{Email}#=%=#mirunapislar@google.com
+Author{4}{Affiliation}#=%=#Google DeepMind Paris
+Author{5}{Firstname}#=%=#Lespiau
+Author{5}{Lastname}#=%=#Jean-Baptiste
+Author{5}{Username}#=%=#jblespiau
+Author{5}{Email}#=%=#jblespiau@google.com
+Author{5}{Affiliation}#=%=#DeepMind
+Author{6}{Firstname}#=%=#Ioannis
+Author{6}{Lastname}#=%=#Antonoglou
+Author{6}{Username}#=%=#ioannisa
+Author{6}{Email}#=%=#ioannisa@deepmind.com
+Author{6}{Affiliation}#=%=#Deepmind, UCL
+Author{7}{Firstname}#=%=#Karen
+Author{7}{Lastname}#=%=#Simonyan
+Author{7}{Username}#=%=#ksimonyan
+Author{7}{Email}#=%=#simonyan@google.com
+Author{7}{Affiliation}#=%=#DeepMind
+Author{8}{Firstname}#=%=#Oriol
+Author{8}{Lastname}#=%=#Vinyals
+Author{8}{Username}#=%=#vinyals
+Author{8}{Email}#=%=#vinyals@google.com
+Author{8}{Affiliation}#=%=#Google
+
+==========

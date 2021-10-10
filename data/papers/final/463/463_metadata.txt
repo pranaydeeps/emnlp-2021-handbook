@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#463
+FinalPaperTitle#=%=#Good-Enough Example Extrapolation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jason Wei
+JobTitle#==#
+Organization#==#Google
+Abstract#==#This paper asks whether extrapolating the hidden space distribution of text examples from one class onto another is a valid inductive bias for data augmentation. To operationalize this question, I propose a simple data augmentation protocol called "good-enough example extrapolation'' (GE3). GE3 is lightweight and has no hyperparameters. Applied to three text classification datasets for various data imbalance scenarios, GE3 improves performance more than upsampling and other hidden-space data augmentation methods.
+Author{1}{Firstname}#=%=#Jason
+Author{1}{Lastname}#=%=#Wei
+Author{1}{Username}#=%=#jasonwei
+Author{1}{Email}#=%=#jason.weng.wei@gmail.com
+Author{1}{Affiliation}#=%=#Google
+
+==========

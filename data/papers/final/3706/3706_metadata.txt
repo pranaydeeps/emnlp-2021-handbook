@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#3706
+FinalPaperTitle#=%=#NB-MLM: Efficient Domain Adaptation of Masked Language Models for Sentiment Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nikolay Arefyev
+JobTitle#==#
+Organization#==#
+Abstract#==#While Masked Language Models (MLM) are pre-trained on massive datasets, the additional training with the MLM objective on domain or task-specific data before fine-tuning for the final task is known to improve the final performance. This is usually referred to as the domain or task adaptation step. However, unlike the initial pre-training, this step is performed for each domain or task individually and is still rather slow, requiring several GPU days compared to several GPU hours required for the final task fine-tuning. 
+
+We argue that the standard MLM objective leads to inefficiency when it is used for the adaptation step because it mostly learns to predict the most frequent words, which are not necessarily related to a final task. We propose a technique for more efficient adaptation that focuses on predicting words with large weights of the Naive Bayes classifier trained for the task at hand, which are likely more relevant than the most frequent words. The proposed method provides faster adaptation and better final performance for sentiment analysis compared to the standard approach.
+Author{1}{Firstname}#=%=#Nikolay
+Author{1}{Lastname}#=%=#Arefyev
+Author{1}{Username}#=%=#nick.arefyev
+Author{1}{Email}#=%=#nick.arefyev@gmail.com
+Author{1}{Affiliation}#=%=#Lomonosov Moscow State University, Samsung R&D Institute, National Research University Higher School of Economics, Russia
+Author{2}{Firstname}#=%=#Dmitrii
+Author{2}{Lastname}#=%=#Kharchev
+Author{2}{Username}#=%=#dkhar
+Author{2}{Email}#=%=#hd898@yandex.ru
+Author{2}{Affiliation}#=%=#Lomonosov Moscow State University, Samsung R&D Institute Russia
+Author{3}{Firstname}#=%=#Artem
+Author{3}{Lastname}#=%=#Shelmanov
+Author{3}{Username}#=%=#artemshelmanov
+Author{3}{Email}#=%=#artemshelmanov@gmail.com
+Author{3}{Affiliation}#=%=#Lomonosov Moscow State University
+
+==========

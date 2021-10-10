@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#2965
+FinalPaperTitle#=%=#Self-Supervised Detection of Contextual Synonyms in a Multi-Class Setting: Phenotype Annotation Use Case
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Jingqing Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Contextualised word embeddings is a powerful tool to detect contextual synonyms. However, most of the current state-of-the-art (SOTA) deep learning concept extraction methods remain supervised and underexploit the potential of the context. In this paper, we propose a self-supervised pre-training approach which is able to detect contextual synonyms of concepts being training on the data created by shallow matching. We apply our methodology in the sparse multi-class setting (over 15,000 concepts) to extract phenotype information from electronic health records. We further investigate data augmentation techniques to address the problem of the class sparsity. Our approach achieves a new SOTA for the unsupervised phenotype concept annotation on clinical text on F1 and Recall outperforming the previous SOTA with a gain of up to 4.5 and 4.0 absolute points, respectively. After fine-tuning with as little as 20\% of the labelled data, we also outperform BioBERT and ClinicalBERT. The extrinsic evaluation on three ICU benchmarks also shows the benefit of using the phenotypes annotated by our model as features.
+Author{1}{Firstname}#=%=#Jingqing
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#jinqingz
+Author{1}{Email}#=%=#jingqing.zhang15@imperial.ac.uk
+Author{1}{Affiliation}#=%=#Imperial College London
+Author{2}{Firstname}#=%=#Luis
+Author{2}{Lastname}#=%=#Bolanos Trujillo
+Author{2}{Username}#=%=#lbolanos
+Author{2}{Email}#=%=#lbolanos@pangaeadata.ai
+Author{2}{Affiliation}#=%=#Pangaea Data
+Author{3}{Firstname}#=%=#Tong
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#tongli3701
+Author{3}{Email}#=%=#tli@pangaeadata.ai
+Author{3}{Affiliation}#=%=#Pangaea Data
+Author{4}{Firstname}#=%=#Ashwani
+Author{4}{Lastname}#=%=#Tanwar
+Author{4}{Username}#=%=#ashwani_tanwar
+Author{4}{Email}#=%=#ashwanitanwar333@gmail.com
+Author{4}{Affiliation}#=%=#Pangaea Data Limited
+Author{5}{Firstname}#=%=#Guilherme
+Author{5}{Lastname}#=%=#Freire
+Author{5}{Username}#=%=#guilhermefreire
+Author{5}{Email}#=%=#guilherme@freire.ai
+Author{5}{Affiliation}#=%=#Pangaea Data
+Author{6}{Firstname}#=%=#Xian
+Author{6}{Lastname}#=%=#Yang
+Author{6}{Username}#=%=#whfairy2007
+Author{6}{Email}#=%=#xianyang@hkbu.edu.hk
+Author{6}{Affiliation}#=%=#Hong Kong Baptist University
+Author{7}{Firstname}#=%=#Julia
+Author{7}{Lastname}#=%=#Ive
+Author{7}{Username}#=%=#julia.ive
+Author{7}{Email}#=%=#julia.ive84@gmail.com
+Author{7}{Affiliation}#=%=#Imperial College London
+Author{8}{Firstname}#=%=#Vibhor
+Author{8}{Lastname}#=%=#Gupta
+Author{8}{Username}#=%=#vguptapd
+Author{8}{Email}#=%=#vgupta@pangaeadata.ai
+Author{8}{Affiliation}#=%=#Pangaea Data
+Author{9}{Firstname}#=%=#Yike
+Author{9}{Lastname}#=%=#Guo
+Author{9}{Username}#=%=#yk2019
+Author{9}{Email}#=%=#y.guo@imperial.ac.uk
+Author{9}{Affiliation}#=%=#Imperial College London
+
+==========

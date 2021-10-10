@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#829
+FinalPaperTitle#=%=#Improving Math Word Problems with Pre-trained Knowledge and Hierarchical Reasoning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Weijiang Yu
+JobTitle#==#
+Organization#==#School of Computer Science and Engineering, Sun Yat-sen University
+Abstract#==#The recent algorithms for math word problems (MWP) neglect to use outside knowledge not present in the problems. Most of them only capture the word-level relationship and ignore to build hierarchical reasoning like the human being for mining the contextual structure between words and sentences. In this paper, we propose a \textbf{R}easoning with \textbf{P}re-trained \textbf{K}nowledge and \textbf{H}ierarchical \textbf{S}tructure (\textbf{RPKHS}) network, which contains a pre-trained knowledge encoder and a hierarchical reasoning encoder. Firstly, our pre-trained knowledge encoder aims at reasoning the MWP by using outside knowledge from the pre-trained transformer-based models. Secondly, the hierarchical reasoning encoder is presented for seamlessly integrating the word-level and sentence-level reasoning to bridge the entity and context domain on MWP. Extensive experiments show that our RPKHS significantly outperforms state-of-the-art approaches on two large-scale commonly-used datasets, and boosts performance from 77.4\% to 83.9\% on Math23K, from 75.5 to 82.2\% on Math23K with 5-fold cross-validation and from 83.7\% to 89.8\% on MAWPS. More extensive ablations are shown to demonstrate the effectiveness and interpretability of our proposed method.
+Author{1}{Firstname}#=%=#Weijiang
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#weijiangyu
+Author{1}{Email}#=%=#weijiangyu8@gmail.com
+Author{1}{Affiliation}#=%=#Sun Yat-sen University
+Author{2}{Firstname}#=%=#Yingpeng
+Author{2}{Lastname}#=%=#Wen
+Author{2}{Email}#=%=#wenyp6@mail2.sysu.edu.cn
+Author{2}{Affiliation}#=%=#Sun Yat-sen University
+Author{3}{Firstname}#=%=#Fudan
+Author{3}{Lastname}#=%=#zheng
+Author{3}{Email}#=%=#zhengfd3@mail2.sysu.edu.cn
+Author{3}{Affiliation}#=%=#Sun Yat-sen University
+Author{4}{Firstname}#=%=#Nong
+Author{4}{Lastname}#=%=#Xiao
+Author{4}{Email}#=%=#xiaon6@sysu.edu.cn
+Author{4}{Affiliation}#=%=#Sun Yat-sen University
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2699
+FinalPaperTitle#=%=#A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yang Sun
+JobTitle#==#
+Organization#==#School of Computer Science and Technology, Soochow University, China
+Abstract#==#Emotion recognition in multi-party conversation (ERMC) is becoming increasingly popular as an emerging research topic in natural language processing. Prior research focuses on exploring sequential information but ignores the discourse structures of conversations. In this paper, we investigate the importance of discourse structures in handling informative contextual cues and speaker-specific features for ERMC. To this end, we propose a discourse-aware graph neural network (ERMC-DisGCN) for ERMC. In particular, we design a relational convolution to lever the self-speaker dependency of interlocutors to propagate contextual information. Furthermore, we exploit a gated convolution to select more informative cues for ERMC from dependent utterances. The experimental results show our method outperforms multiple baselines, illustrating that discourse structures are of great value to ERMC.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Sun
+Author{1}{Username}#=%=#sunyang
+Author{1}{Email}#=%=#ysun23@stu.suda.edu.cn
+Author{1}{Affiliation}#=%=#soochow university
+Author{2}{Firstname}#=%=#Nan
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Username}#=%=#yunan
+Author{2}{Email}#=%=#nyu@stu.suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Guohong
+Author{3}{Lastname}#=%=#Fu
+Author{3}{Username}#=%=#ghfu
+Author{3}{Email}#=%=#ghfu@hotmail.com
+Author{3}{Affiliation}#=%=#Soochow University
+
+==========

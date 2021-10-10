@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#4253
+FinalPaperTitle#=%=#A Unified Encoding of Structures in Transition Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Tao Ji
+JobTitle#==#
+Organization#==#
+Abstract#==#Transition systems usually contain various dynamic structures (e.g., stacks, buffers). An ideal transition-based model should encode these structures completely and efficiently. Previous works relying on templates or neural network structures either only encode partial structure information or suffer from computation efficiency. In this paper, we propose a novel attention-based encoder unifying representation of all structures in a transition system. Specifically, we separate two views of items on structures, namely structure-invariant view and structure-dependent view. With the help of parallel-friendly attention network, we are able to encoding transition states with O(1) additional complexity (with respect to basic feature extractors). Experiments on the PTB and UD show that our proposed method significantly improves the test speed and achieves the best transition-based model, and is comparable to state-of-the-art methods.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Ji
+Author{1}{Username}#=%=#jitao_start
+Author{1}{Email}#=%=#taoji.cs@gmail.com
+Author{1}{Affiliation}#=%=#Department of Computer Science and Technology at East China Normal University
+Author{2}{Firstname}#=%=#Yong
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Username}#=%=#yong
+Author{2}{Email}#=%=#jiangyong.ml@gmail.com
+Author{2}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{3}{Firstname}#=%=#Tao
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#leeo.wangt
+Author{3}{Email}#=%=#leeo.wangt@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Inc.
+Author{4}{Firstname}#=%=#Zhongqiang
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Username}#=%=#zqhuang
+Author{4}{Email}#=%=#zqhuang@gmail.com
+Author{4}{Affiliation}#=%=#Alibaba Group
+Author{5}{Firstname}#=%=#Fei
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Username}#=%=#fei.huang
+Author{5}{Email}#=%=#feirhuang@gmail.com
+Author{5}{Affiliation}#=%=#Alibaba DAMO Academy
+Author{6}{Firstname}#=%=#Yuanbin
+Author{6}{Lastname}#=%=#Wu
+Author{6}{Username}#=%=#wuyuanbin.fdu
+Author{6}{Email}#=%=#wuyuanbin.fdu@gmail.com
+Author{6}{Affiliation}#=%=#East China Normal University
+Author{7}{Firstname}#=%=#Xiaoling
+Author{7}{Lastname}#=%=#Wang
+Author{7}{Username}#=%=#xlwang
+Author{7}{Email}#=%=#xlwang@sei.ecnu.edu.cn
+Author{7}{Affiliation}#=%=#East China Normal University
+
+==========

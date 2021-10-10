@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1489
+FinalPaperTitle#=%=#Neural Machine Translation Quality and Post-Editing Performance
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Vilém Zouhar
+JobTitle#==#
+Organization#==#Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics
+Abstract#==#We test the natural expectation that using MT in professional translation saves human processing time. The last such study was carried out by Sanchez-Torron and Koehn (2016) with phrase-based MT, artificially reducing the translation quality. In contrast, we focus on neural MT (NMT) of high quality, which has become the state-of-the-art approach since then and also got adopted by most translation companies.
+
+Through an experimental study involving over 30 professional translators for English -> Czech translation, we examine the relationship between NMT performance and post-editing time and quality. Across all models, we found that better MT systems indeed lead to fewer changes in the sentences in this industry setting. The relation between system quality and post-editing time is however not straightforward and, contrary to the results on phrase-based MT, BLEU is definitely not a stable predictor of the time or final output quality.
+Author{1}{Firstname}#=%=#Vilém
+Author{1}{Lastname}#=%=#Zouhar
+Author{1}{Username}#=%=#zouharvi
+Author{1}{Email}#=%=#zouhar@ufal.mff.cuni.cz
+Author{1}{Affiliation}#=%=#Charles University, ÚFAL
+Author{2}{Firstname}#=%=#Martin
+Author{2}{Lastname}#=%=#Popel
+Author{2}{Username}#=%=#popel
+Author{2}{Email}#=%=#popel@ufal.mff.cuni.cz
+Author{2}{Affiliation}#=%=#Charles University, Faculty of Mathematics and Physics, UFAL
+Author{3}{Firstname}#=%=#Ondřej
+Author{3}{Lastname}#=%=#Bojar
+Author{3}{Username}#=%=#bojar
+Author{3}{Email}#=%=#bojar@ufal.mff.cuni.cz
+Author{3}{Affiliation}#=%=#Charles University, MFF UFAL
+Author{4}{Firstname}#=%=#Aleš
+Author{4}{Lastname}#=%=#Tamchyna
+Author{4}{Username}#=%=#ales.tamchyna
+Author{4}{Email}#=%=#a.tamchyna@gmail.com
+Author{4}{Affiliation}#=%=#Memsource
+
+==========

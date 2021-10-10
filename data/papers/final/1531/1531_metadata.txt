@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1531
+FinalPaperTitle#=%=#TIAGE: A Benchmark for Topic-Shift Aware Dialog Modeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Huiyuan Xie
+JobTitle#==#
+Organization#==#
+Abstract#==#Human conversations naturally evolve around different topics and fluently move between them. In research on dialog systems, the ability to actively and smoothly transition to new topics is often ignored. In this paper we introduce TIAGE, a new topic-shift aware dialog benchmark constructed utilizing human annotations on topic shifts. Based on TIAGE, we introduce three tasks to investigate different scenarios of topic-shift modeling in dialog settings: topic-shift detection, topic-shift triggered response generation and topic-aware dialog generation. Experiments on these tasks show that the topic-shift signals in TIAGE are useful for topic-shift response generation. On the other hand, dialog systems still struggle to decide when to change topic. This indicates further research is needed in topic-shift aware dialog modeling.
+Author{1}{Firstname}#=%=#Huiyuan
+Author{1}{Lastname}#=%=#Xie
+Author{1}{Username}#=%=#hx255
+Author{1}{Email}#=%=#hx255@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Zhenghao
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#liuzhenghao
+Author{2}{Email}#=%=#liuzhenghao0819@gmail.com
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Chenyan
+Author{3}{Lastname}#=%=#Xiong
+Author{3}{Username}#=%=#xiongchenyan
+Author{3}{Email}#=%=#Chenyan.Xiong@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Zhiyuan
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#lzy.thu
+Author{4}{Email}#=%=#liuzy@tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua University
+Author{5}{Firstname}#=%=#Ann
+Author{5}{Lastname}#=%=#Copestake
+Author{5}{Username}#=%=#ann.copestake
+Author{5}{Email}#=%=#ann.copestake@cl.cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+
+==========

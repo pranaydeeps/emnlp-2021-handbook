@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#3560
+FinalPaperTitle#=%=#Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#An Yan
+JobTitle#==#
+Organization#==#
+Abstract#==#Radiology report generation aims at generating descriptive text from radiology images automatically, which may present an opportunity to improve radiology reporting and interpretation. A typical setting consists of training encoder-decoder models on image-report pairs with a cross entropy loss, which struggles to generate informative sentences for clinical diagnoses since normal findings dominate the datasets. 
+To tackle this challenge and encourage more clinically-accurate text outputs, we propose a novel weakly supervised contrastive loss for medical report generation. 
+Experimental results demonstrate that our method benefits from contrasting target reports with incorrect but semantically-close ones.
+It outperforms previous work on both clinical correctness and text generation metrics for two public benchmarks.
+Author{1}{Firstname}#=%=#An
+Author{1}{Lastname}#=%=#Yan
+Author{1}{Username}#=%=#zzxslp
+Author{1}{Email}#=%=#ayan@ucsd.edu
+Author{1}{Affiliation}#=%=#University of California San Diego
+Author{2}{Firstname}#=%=#Zexue
+Author{2}{Lastname}#=%=#He
+Author{2}{Username}#=%=#euxzh
+Author{2}{Email}#=%=#zehe@eng.ucsd.edu
+Author{2}{Affiliation}#=%=#University of California, San Diego
+Author{3}{Firstname}#=%=#Xing
+Author{3}{Lastname}#=%=#Lu
+Author{3}{Username}#=%=#lvxingvir
+Author{3}{Email}#=%=#lvxingvir@gmail.com
+Author{3}{Affiliation}#=%=#UCSD
+Author{4}{Firstname}#=%=#Jiang
+Author{4}{Lastname}#=%=#Du
+Author{4}{Email}#=%=#jiangdu@health.ucsd.edu
+Author{4}{Affiliation}#=%=#University of California, San Diego
+Author{5}{Firstname}#=%=#Eric
+Author{5}{Lastname}#=%=#Chang
+Author{5}{Email}#=%=#Eric.Chang2@va.gov
+Author{5}{Affiliation}#=%=#Veterans Affairs, San Diego Healthcare System
+Author{6}{Firstname}#=%=#Amilcare
+Author{6}{Lastname}#=%=#Gentili
+Author{6}{Username}#=%=#agentili
+Author{6}{Email}#=%=#agentili@ucsd.edu
+Author{6}{Affiliation}#=%=#San DIego VA HCS/UCSD
+Author{7}{Firstname}#=%=#Julian
+Author{7}{Lastname}#=%=#McAuley
+Author{7}{Username}#=%=#julian.mcauley
+Author{7}{Email}#=%=#jmcauley@eng.ucsd.edu
+Author{7}{Affiliation}#=%=#UCSD
+Author{8}{Firstname}#=%=#Chun-Nan
+Author{8}{Lastname}#=%=#Hsu
+Author{8}{Username}#=%=#chunnan
+Author{8}{Email}#=%=#chunnan@ucsd.edu
+Author{8}{Affiliation}#=%=#University of California, San Diego
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1751
+FinalPaperTitle#=%=#Language Resource Efficient Learning for Captioning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yike Wu
+JobTitle#==#
+Organization#==#
+Abstract#==#Due to complex cognitive and inferential efforts involved in the manual generation of one caption per image/video input, the human annotation resources are very limited for captioning tasks. We define language resource efficient as reaching the same performance with fewer annotated captions per input. We first study the performance degradation of caption models in different language resource settings. Our analysis of caption models with SC loss shows that the performance degradation is caused by the increasingly noisy estimation of reward and baseline with fewer language resources. To mitigate this issue, we propose to reduce the variance of noise in the baseline by generalizing the single pairwise comparison in SC loss and using multiple generalized pairwise comparisons. The generalized pairwise comparison (GPC) measures the difference between the evaluation scores of two captions with respect to an input. Empirically, we show that the model trained with the proposed GPC loss is efficient on language resource and achieves similar performance with the state-of-the-art models on MSCOCO by using only half of the language resources. Furthermore, our model significantly outperforms the state-of-the-art models on a video caption dataset that has only one labeled caption per input in the training set.
+Author{1}{Firstname}#=%=#Jia
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#jiac
+Author{1}{Email}#=%=#sjtu_chenjia@163.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Yike
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Username}#=%=#yikewu
+Author{2}{Email}#=%=#wuyike@dbis.nankai.edu.cn
+Author{2}{Affiliation}#=%=#Nankai University
+Author{3}{Firstname}#=%=#Shiwan
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Username}#=%=#shiwan
+Author{3}{Email}#=%=#zhaosw@gmail.com
+Author{3}{Affiliation}#=%=#Independent Researcher
+Author{4}{Firstname}#=%=#Qin
+Author{4}{Lastname}#=%=#Jin
+Author{4}{Username}#=%=#qjin
+Author{4}{Email}#=%=#qjin@ruc.edu.cn
+Author{4}{Affiliation}#=%=#Renmin University of China
+
+==========

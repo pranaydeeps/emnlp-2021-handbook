@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3496
+FinalPaperTitle#=%=#Contrastive Document Representation Learning with Graph Attention Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Peng Xu
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent progress in pretrained Transformer-based language models has shown great success in learning contextual representation of text. However, due to the quadratic self-attention complexity, most of the pretrained Transformers models can only handle relatively short text. It is still a challenge when it comes to modeling very long documents. In this work, we propose to use a graph attention network on top of the available pretrained Transformers model to learn document embeddings. This graph attention network allows us to leverage the high-level semantic structure of the document. In addition, based on our graph document model, we design a simple contrastive learning strategy to pretrain our models on a large amount of unlabeled corpus. Empirically, we demonstrate the effectiveness of our approaches in document classification and document retrieval tasks.
+Author{1}{Firstname}#=%=#Peng
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#pengx
+Author{1}{Email}#=%=#pengx@amazon.com
+Author{1}{Affiliation}#=%=#Amazon
+Author{2}{Firstname}#=%=#Xinchi
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Username}#=%=#dalstonchen
+Author{2}{Email}#=%=#dalstonchen@gmail.com
+Author{2}{Affiliation}#=%=#Amazon AWS
+Author{3}{Firstname}#=%=#Xiaofei
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Username}#=%=#feixiaoma
+Author{3}{Email}#=%=#xiaofeim@amazon.com
+Author{3}{Affiliation}#=%=#Amazon Web Services
+Author{4}{Firstname}#=%=#zhiheng
+Author{4}{Lastname}#=%=#huang
+Author{4}{Username}#=%=#zhiheng_huang
+Author{4}{Email}#=%=#zhiheng.huang@gmail.com
+Author{4}{Affiliation}#=%=#Amazon AI
+Author{5}{Firstname}#=%=#Bing
+Author{5}{Lastname}#=%=#Xiang
+Author{5}{Username}#=%=#bxiang
+Author{5}{Email}#=%=#bxiang@amazon.com
+Author{5}{Affiliation}#=%=#Amazon
+
+==========

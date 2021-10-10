@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#Summarization of German Court Rulings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ingo Glaser
+JobTitle#==#
+Organization#==#Technical University of Munich
+Arcisstrasse 21, 80333 Munich, Germany
+Abstract#==#Historically speaking, the German legal language is widely neglected in NLP research, especially in summarization systems, as most of them are based on English newspaper articles. In this paper, we propose the task of automatic summarization of German court rulings. Due to their complexity and length, it is of critical importance that legal practitioners can quickly identify the content of a verdict and thus be able to decide on the relevance for a given legal case. To tackle this problem, we introduce a new dataset consisting of 100k German judgments with short summaries. Our dataset has the highest compression ratio among the most common summarization datasets. German court rulings contain much structural information, so we create a pre-processing pipeline tailored explicitly to the German legal domain. Additionally, we implement multiple extractive as well as abstractive summarization systems and build a wide variety of baseline models. Our best model achieves a ROUGE-1 score of 30.50. Therefore with this work, we are laying the crucial groundwork for further research on German summarization systems.
+Author{1}{Firstname}#=%=#Ingo
+Author{1}{Lastname}#=%=#Glaser
+Author{1}{Username}#=%=#ingoglaser
+Author{1}{Email}#=%=#ingo.glaser@tum.de
+Author{1}{Affiliation}#=%=#Technical University of Munich
+Author{2}{Firstname}#=%=#Sebastian
+Author{2}{Lastname}#=%=#Moser
+Author{2}{Email}#=%=#sebastian.moser@tum.de
+Author{2}{Affiliation}#=%=#Technical University of Munich
+Author{3}{Firstname}#=%=#Florian
+Author{3}{Lastname}#=%=#Matthes
+Author{3}{Username}#=%=#f1matthes
+Author{3}{Email}#=%=#matthes@tum.de
+Author{3}{Affiliation}#=%=#Technische Universität München
+
+==========

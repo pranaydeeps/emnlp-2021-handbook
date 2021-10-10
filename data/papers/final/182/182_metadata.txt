@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#182
+FinalPaperTitle#=%=#Segmenting Natural Language Sentences via Lexical Unit Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yangming Li
+JobTitle#==#Researcher
+Organization#==#Tencent AI Lab
+Shenzhen, China
+Abstract#==#The span-based model enjoys great popularity in recent works of sequence segmentation. However, each of these methods suffers from its own defects, such as invalid predictions. In this work, we introduce a unified span-based model, lexical unit analysis (LUA), that addresses all these matters. Segmenting a lexical unit sequence involves two steps. Firstly, we embed every span by using the representations from a pretraining language model. Secondly, we define a score for every segmentation candidate and apply dynamic programming (DP) to extract the candidate with the maximum score. We have conducted extensive experiments on 3 tasks, (e.g., syntactic chunking), across 7 datasets. LUA has established new state-of-the-art performances on 6 of them. We have achieved even better results through incorporating label correlations.
+Author{1}{Firstname}#=%=#Yangming
+Author{1}{Lastname}#=%=#Li
+Author{1}{Username}#=%=#yangmingli
+Author{1}{Email}#=%=#yangmingli@ir.hit.edu.cn
+Author{1}{Affiliation}#=%=#Tencent AI Lab
+Author{2}{Firstname}#=%=#Lemao
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#lemaoliu
+Author{2}{Email}#=%=#lemaoliu@gmail.com
+Author{2}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Firstname}#=%=#Shuming
+Author{3}{Lastname}#=%=#Shi
+Author{3}{Username}#=%=#shumings
+Author{3}{Email}#=%=#shumingshi@tencent.com
+Author{3}{Affiliation}#=%=#Tencent AI Lab
+
+==========

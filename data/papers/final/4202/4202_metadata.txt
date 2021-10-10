@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#4202
+FinalPaperTitle#=%=#KLMo: Knowledge Graph Enhanced Pretrained Language Model with Fine-Grained Relationships
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#LEI HE
+JobTitle#==#
+Organization#==#
+Abstract#==#Interactions between entities in knowledge graph (KG) provide rich knowledge for language representation learning. 
+However, existing knowledge-enhanced pretrained language models (PLMs) only focus on entity information and ignore the ﬁne-grained relationships between entities.
+In this work, we propose to incorporate KG (including both entities and relations) into the language learning process to obtain KG-enhanced pretrained Language Model, namely KLMo.
+Specifically, a novel knowledge aggregator is designed to explicitly model the interaction between entity spans in text and all entities and relations in a contextual KG.
+An relation prediction objective is utilized to incorporate relation information by distant supervision.
+An entity linking objective is further utilized to link entity spans in text to entities in KG. 
+In this way, the structured knowledge can be effectively integrated into language representations.
+Experimental results demonstrate that KLMo achieves great improvements on several knowledge-driven tasks, such as entity typing and relation classification, comparing with the state-of-the-art knowledge-enhanced PLMs.
+Author{1}{Firstname}#=%=#Lei
+Author{1}{Lastname}#=%=#He
+Author{1}{Username}#=%=#bettyleihe
+Author{1}{Email}#=%=#helenhl@yeah.net
+Author{1}{Affiliation}#=%=#Tencent AI Lab
+Author{2}{Firstname}#=%=#Suncong
+Author{2}{Lastname}#=%=#Zheng
+Author{2}{Username}#=%=#suncongzheng
+Author{2}{Email}#=%=#congzheng@tencent.com
+Author{2}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Firstname}#=%=#Tao
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Username}#=%=#taoyang
+Author{3}{Email}#=%=#rigorosyang@tencent.com
+Author{3}{Affiliation}#=%=#Tencent. Corp.
+Author{4}{Firstname}#=%=#Feng
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Username}#=%=#zhangf95
+Author{4}{Email}#=%=#jayzhang@tencent.com
+Author{4}{Affiliation}#=%=#tencent AI  Lab
+
+==========

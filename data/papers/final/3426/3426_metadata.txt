@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#3426
+FinalPaperTitle#=%=#Adversarial Scrubbing of Demographic Information for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Somnath Basu Roy Chowdhury
+JobTitle#==#
+Organization#==#UNC Chapel Hill, 201 S Columbia St, Chapel Hill, NC 27599
+Abstract#==#Contextual representations learned by language models can often encode undesirable attributes, like demographic associations of the users, while being trained for an unrelated target task. We aim to scrub such undesirable attributes and learn fair representations while maintaining performance on the target task.  In this paper, we present an adversarial learning framework "Adversarial Scrubber'' (AdS), to debias contextual representations. We perform theoretical analysis to show that our framework converges without leaking demographic information under certain conditions. We extend previous evaluation techniques by evaluating debiasing performance using Minimum Description Length (MDL) probing. Experimental evaluations on 8 datasets show that AdS generates representations with minimal information about demographic attributes while being maximally informative about the target task.
+Author{1}{Firstname}#=%=#Somnath
+Author{1}{Lastname}#=%=#Basu Roy Chowdhury
+Author{1}{Username}#=%=#somnathbrc
+Author{1}{Email}#=%=#somnath@cs.unc.edu
+Author{1}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{2}{Firstname}#=%=#Sayan
+Author{2}{Lastname}#=%=#Ghosh
+Author{2}{Username}#=%=#sgdgp
+Author{2}{Email}#=%=#sayghosh@cs.unc.edu
+Author{2}{Affiliation}#=%=#Department of Computer Science, University of North Carolina at Chapel Hill
+Author{3}{Firstname}#=%=#Yiyuan
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#bill_lyy
+Author{3}{Email}#=%=#bill.lyy.nisioptimum@gmail.com
+Author{3}{Affiliation}#=%=#University of North Carolina, Chapel Hill
+Author{4}{Firstname}#=%=#Junier
+Author{4}{Lastname}#=%=#Oliva
+Author{4}{Username}#=%=#joliva
+Author{4}{Email}#=%=#joliva@cs.unc.edu
+Author{4}{Affiliation}#=%=#UNC
+Author{5}{Firstname}#=%=#Shashank
+Author{5}{Lastname}#=%=#Srivastava
+Author{5}{Username}#=%=#shsriva
+Author{5}{Email}#=%=#shsriva@gmail.com
+Author{5}{Affiliation}#=%=#UNC Chapel Hill
+Author{6}{Firstname}#=%=#Snigdha
+Author{6}{Lastname}#=%=#Chaturvedi
+Author{6}{Username}#=%=#snigdha
+Author{6}{Email}#=%=#snigdhac@gmail.com
+Author{6}{Affiliation}#=%=#University of North Carolina, Chapel Hill
+
+==========

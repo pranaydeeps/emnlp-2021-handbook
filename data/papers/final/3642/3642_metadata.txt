@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3642
+FinalPaperTitle#=%=#Systematic Generalization on g{SCAN}: {W}hat is Nearly Solved and What is Next?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Linlu Qiu
+JobTitle#==#
+Organization#==#
+Abstract#==#We analyze the \emph{grounded} SCAN (gSCAN) benchmark, which was recently proposed to study systematic generalization for grounded language understanding. First, we study which aspects of the original benchmark can be solved by commonly used methods in multi-modal research. We find that a general-purpose Transformer-based model with cross-modal attention achieves strong performance on a majority of the gSCAN splits, surprisingly outperforming more specialized approaches from prior work. Furthermore, our analysis suggests that many of the remaining errors reveal the same fundamental challenge in systematic generalization of linguistic constructs regardless of visual context. Second, inspired by this finding, we propose challenging new tasks for gSCAN by generating data to incorporate relations between objects in the visual environment. Finally, we find that current models are surprisingly data inefficient given the narrow scope of commands in gSCAN, suggesting another challenge for future work.
+Author{1}{Firstname}#=%=#Linlu
+Author{1}{Lastname}#=%=#Qiu
+Author{1}{Username}#=%=#linluqiu
+Author{1}{Email}#=%=#linluqiu@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Hexiang
+Author{2}{Lastname}#=%=#Hu
+Author{2}{Username}#=%=#hexianghu
+Author{2}{Email}#=%=#hexiang.frank.hu@gmail.com
+Author{2}{Affiliation}#=%=#USC
+Author{3}{Firstname}#=%=#Bowen
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#zbwglory
+Author{3}{Email}#=%=#zhan734@usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+Author{4}{Firstname}#=%=#Peter
+Author{4}{Lastname}#=%=#Shaw
+Author{4}{Username}#=%=#petershaw
+Author{4}{Email}#=%=#petershaw@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Fei
+Author{5}{Lastname}#=%=#Sha
+Author{5}{Username}#=%=#feisha
+Author{5}{Email}#=%=#fsha@google.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

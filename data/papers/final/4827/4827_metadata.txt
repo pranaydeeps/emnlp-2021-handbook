@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#4827
+FinalPaperTitle#=%=#Data Collection vs. Knowledge Graph Completion: What is Needed to Improve Coverage?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kenneth Church
+JobTitle#==#
+Organization#==#Baidu, USA
+1195 Bordeau Dr
+Sunnyvale, CA USA 94089
+Abstract#==#This survey/position paper discusses ways to improve coverage of resources such as WordNet.
+Rapp estimated correlations, rho,
+between corpus statistics
+and pyscholinguistic norms.  rho improves with quantity (corpus size) and quality (balance).
+1M words is enough for simple estimates (unigram frequencies), but at least 100x more
+is required for good estimates of word associations and embeddings. 
+Given such estimates, WordNet's coverage is remarkable.  WordNet was developed on SemCor, a small  sample (200k words) 
+from the Brown Corpus.  Knowledge Graph Completion (KGC) attempts
+to learn missing links from subsets.  But Rapp's estimates of sizes suggest it would
+be more profitable to collect more data than to infer missing information that is not there.
+Author{1}{Firstname}#=%=#Kenneth
+Author{1}{Lastname}#=%=#Church
+Author{1}{Username}#=%=#kwc
+Author{1}{Email}#=%=#Kenneth.Ward.Church@gmail.com
+Author{1}{Affiliation}#=%=#Baidu, USA
+Author{2}{Firstname}#=%=#Yuchen
+Author{2}{Lastname}#=%=#Bian
+Author{2}{Username}#=%=#yuchenbian
+Author{2}{Email}#=%=#yuchenbian@baidu.com
+Author{2}{Affiliation}#=%=#Baidu Research USA
+
+==========

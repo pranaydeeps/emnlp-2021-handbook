@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3348
+FinalPaperTitle#=%=#FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Han Guo
+JobTitle#==#
+Organization#==#
+Abstract#==#Influence functions approximate the “influences” of training data-points for test predictions and have a wide variety of applications. Despite the popularity, their computational cost does not scale well with model and training data size. We present FastIF, a set of simple modifications to influence functions that significantly improves their run-time. We use k-Nearest Neighbors (kNN) to narrow the search space down to a subset of good candidate data points, identify the configurations that best balance the speed-quality trade-off in estimating the inverse Hessian-vector product, and introduce a fast parallel variant. Our proposed method achieves about 80X speedup while being highly correlated with the original influence values. With the availability of the fast influence functions, we demonstrate their usefulness in four applications. First, we examine whether influential data-points can “explain” test time behavior using the framework of simulatability. Second, we visualize the influence interactions between training and test data-points. Third, we show that we can correct model errors by additional fine-tuning on certain influential data-points, improving the accuracy of a trained MultiNLI model by 2.5% on the HANS dataset. Finally, we experiment with a similar setup but fine-tuning on datapoints not seen during training, improving the model accuracy by 2.8% and 1.7% on HANS and ANLI datasets respectively. Overall, our fast influence functions can be efficiently applied to large models and datasets, and our experiments demonstrate the potential of influence functions in model interpretation and correcting model errors.
+Author{1}{Firstname}#=%=#Han
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Username}#=%=#hanguo
+Author{1}{Email}#=%=#hanguo@cs.cmu.edu
+Author{1}{Affiliation}#=%=#CMU
+Author{2}{Firstname}#=%=#Nazneen
+Author{2}{Lastname}#=%=#Rajani
+Author{2}{Username}#=%=#emailnazneen
+Author{2}{Email}#=%=#emailnazneen@gmail.com
+Author{2}{Affiliation}#=%=#Salesforce Research
+Author{3}{Firstname}#=%=#Peter
+Author{3}{Lastname}#=%=#Hase
+Author{3}{Username}#=%=#peterhase
+Author{3}{Email}#=%=#peter@cs.unc.edu
+Author{3}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{4}{Firstname}#=%=#Mohit
+Author{4}{Lastname}#=%=#Bansal
+Author{4}{Username}#=%=#mbansal
+Author{4}{Email}#=%=#mbansal@cs.unc.edu
+Author{4}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{5}{Firstname}#=%=#Caiming
+Author{5}{Lastname}#=%=#Xiong
+Author{5}{Username}#=%=#cxiong
+Author{5}{Email}#=%=#cmxiong.lhi@gmail.com
+Author{5}{Affiliation}#=%=#Salesforce
+
+==========

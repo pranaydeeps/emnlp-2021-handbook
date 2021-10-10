@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#276
+FinalPaperTitle#=%=#An Unsupervised Method for Building Sentence Simplification Corpora in Multiple Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jipeng Qiang
+JobTitle#==#
+Organization#==#Yangzhou University, Department of Computer Science, Yangzhou University, Yangzhou, Jiangsu, China
+Abstract#==#The availability of parallel sentence simplification (SS) is scarce for neural SS modelings. We propose an unsupervised method to build SS corpora from large-scale bilingual translation corpora, alleviating the need for SS supervised corpora. Our method is motivated by the following two findings: neural machine translation model usually tends to generate more high-frequency tokens and the difference of text complexity levels exists between the source and target language of a translation corpus. By taking the pair of the source sentences of translation corpus and the translations of their references in a bridge language, we can construct large-scale pseudo parallel SS data. Then, we keep these sentence pairs with a higher complexity difference as SS sentence pairs. The building SS corpora with an unsupervised approach can satisfy the expectations that the aligned sentences preserve the same meanings and have difference in text complexity levels. Experimental results show that SS methods trained by our corpora achieve the state-of-the-art results and significantly outperform the results on English benchmark WikiLarge.
+Author{1}{Firstname}#=%=#Xinyu
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Username}#=%=#luxinyu
+Author{1}{Email}#=%=#181303216@yzu.edu.cn
+Author{1}{Affiliation}#=%=#yzu.edu.cn
+Author{2}{Firstname}#=%=#Jipeng
+Author{2}{Lastname}#=%=#Qiang
+Author{2}{Username}#=%=#qiang2100
+Author{2}{Email}#=%=#qjp2100@163.com
+Author{2}{Affiliation}#=%=#Yangzhou University
+Author{3}{Firstname}#=%=#Yun
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#yzuliyun
+Author{3}{Email}#=%=#liyun@yzu.edu.cn
+Author{3}{Affiliation}#=%=#yzu.edu.cn
+Author{4}{Firstname}#=%=#Yunhao
+Author{4}{Lastname}#=%=#Yuan
+Author{4}{Username}#=%=#yyhzbh
+Author{4}{Email}#=%=#yhyuan@yzu.edu.cn
+Author{4}{Affiliation}#=%=#Yangzhou University
+Author{5}{Firstname}#=%=#Yi
+Author{5}{Lastname}#=%=#Zhu
+Author{5}{Username}#=%=#zhuyi
+Author{5}{Email}#=%=#zhuyi@yzu.edu.cn
+Author{5}{Affiliation}#=%=#Yangzhou University
+
+==========

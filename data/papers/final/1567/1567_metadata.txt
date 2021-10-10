@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1567
+FinalPaperTitle#=%=#A Root of a Problem: Optimizing Single-Root Dependency Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Milos Stanojevic
+JobTitle#==#
+Organization#==#
+Abstract#==#We describe two approaches to single-root dependency parsing that yield significant speed ups in such parsing. One approach has been previously used in dependency parsers in practice, but remains undocumented in the parsing literature, and is considered a heuristic. We show that this approach actually finds the optimal dependency tree. The second approach relies on simple reweighting of the inference graph being input to the dependency parser and has an optimal running time. Here, we again show that this approach is fully correct and identifies the highest-scoring parse tree. Our experiments demonstrate a manyfold speed up compared to a previous graph-based state-of-the-art parser without any loss in accuracy or optimality.
+Author{1}{Firstname}#=%=#Miloš
+Author{1}{Lastname}#=%=#Stanojević
+Author{1}{Username}#=%=#m.stanojevic
+Author{1}{Email}#=%=#milosh.stanojevic@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Shay B.
+Author{2}{Lastname}#=%=#Cohen
+Author{2}{Username}#=%=#scohen2
+Author{2}{Email}#=%=#scohen@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

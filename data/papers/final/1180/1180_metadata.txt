@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1180
+FinalPaperTitle#=%=#Smelting Gold and Silver for Improved Multilingual {AMR}-to-{T}ext Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Leonardo F. R. Ribeiro
+JobTitle#==#
+Organization#==#Technical University of Darmstadt, Karolinenpl. 5, 64289 Darmstadt, Germany
+Abstract#==#Recent work on multilingual AMR-to-text generation has exclusively focused on data augmentation strategies that utilize silver AMR. However, this assumes a high quality of generated AMRs, potentially limiting the transferability to the target task. In this paper, we investigate different techniques for automatically generating AMR annotations, where we aim to study which source of information yields better multilingual results. Our models trained on gold AMR with silver (machine translated) sentences outperform approaches which leverage generated silver AMR. We find that combining both complementary sources of information further improves multilingual AMR-to-text generation. Our models surpass the previous state of the art for German, Italian, Spanish, and Chinese by a large margin.
+Author{1}{Firstname}#=%=#Leonardo F. R.
+Author{1}{Lastname}#=%=#Ribeiro
+Author{1}{Username}#=%=#leonardoribeiro
+Author{1}{Email}#=%=#ribeiro@aiphes.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#TU Darmstadt
+Author{2}{Firstname}#=%=#Jonas
+Author{2}{Lastname}#=%=#Pfeiffer
+Author{2}{Username}#=%=#jopfeiff
+Author{2}{Email}#=%=#pfeiffer@ukp.informatik.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#TU Darmstadt
+Author{3}{Firstname}#=%=#Yue
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Username}#=%=#frcchang
+Author{3}{Email}#=%=#yue.zhang@wias.org.cn
+Author{3}{Affiliation}#=%=#Westlake University
+Author{4}{Firstname}#=%=#Iryna
+Author{4}{Lastname}#=%=#Gurevych
+Author{4}{Username}#=%=#gurevych
+Author{4}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{4}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

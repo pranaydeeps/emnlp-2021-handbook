@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#4009
+FinalPaperTitle#=%=#Mitigating Data Poisoning in Text Classification with Differential Privacy
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Trevor Cohn
+JobTitle#==#Professor
+Organization#==#University of Melbourne
+
+Parkville, VIC 3010, Australia
+Abstract#==#NLP models are vulnerable to data poisoning attacks. One type of attack can plant a backdoor in a model by injecting poisoned examples in training, causing the victim model to misclassify test instances which include a specific pattern. Although defences exist to counter these attacks, they are specific to an attack type or pattern. In this paper, we propose a generic defence mechanism by making the training process robust to poisoning attacks through gradient shaping methods, based on differentially private training. We show that our method is highly effective in mitigating, or even eliminating, poisoning attacks on text classification, with only a small cost in predictive accuracy.
+Author{1}{Firstname}#=%=#Chang
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Username}#=%=#changxu777
+Author{1}{Email}#=%=#xu.c3@unimelb.edu.au
+Author{1}{Affiliation}#=%=#University of Melbourne
+Author{2}{Firstname}#=%=#Jun
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#junw
+Author{2}{Email}#=%=#jun2@student.unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Francisco
+Author{3}{Lastname}#=%=#Guzmán
+Author{3}{Username}#=%=#fguzman
+Author{3}{Email}#=%=#fguzman@fb.com
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Benjamin
+Author{4}{Lastname}#=%=#Rubinstein
+Author{4}{Username}#=%=#brubinstein
+Author{4}{Email}#=%=#benjamin.i.p.rubinstein@gmail.com
+Author{4}{Affiliation}#=%=#University of Melbourne
+Author{5}{Firstname}#=%=#Trevor
+Author{5}{Lastname}#=%=#Cohn
+Author{5}{Username}#=%=#t.cohn
+Author{5}{Email}#=%=#trevor.cohn@unimelb.edu.au
+Author{5}{Affiliation}#=%=#University of Melbourne
+
+==========

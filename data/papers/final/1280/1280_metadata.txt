@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#1280
+FinalPaperTitle#=%=#ArabicTransformer: Efficient Large Arabic Language Model with Funnel Transformer and ELECTRA Objective
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sultan Alrowili
+JobTitle#==#
+Organization#==#University of Delaware  Newark, Delaware, USA
+Abstract#==#Pre-training Transformer-based models such as BERT and ELECTRA on a collection of Arabic corpora, demonstrated by both AraBERT and AraELECTRA, shows an impressive result on downstream tasks. However, pre-training Transformer-based language models is computationally expensive, especially for large-scale models. Recently, Funnel Transformer has addressed the sequential redundancy inside Transformer architecture by compressing the sequence of hidden states, leading to a significant reduction in the pre-training cost. This paper empirically studies the performance and efficiency of building an Arabic language model with Funnel Transformer and ELECTRA objective. We find that our model achieves state-of-the-art results on several Arabic downstream tasks despite using less computational resources compared to other BERT-based models.
+Author{1}{Firstname}#=%=#Sultan
+Author{1}{Lastname}#=%=#Alrowili
+Author{1}{Username}#=%=#sultan250
+Author{1}{Email}#=%=#alrowili@udel.edu
+Author{1}{Affiliation}#=%=#University of Delaware
+Author{2}{Firstname}#=%=#Vijay
+Author{2}{Lastname}#=%=#Shanker
+Author{2}{Username}#=%=#vijay
+Author{2}{Email}#=%=#vijay@udel.edu
+Author{2}{Affiliation}#=%=#University of Delaware
+
+==========

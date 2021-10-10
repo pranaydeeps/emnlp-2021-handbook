@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#1796
+FinalPaperTitle#=%=#Transformer-based Lexically Constrained Headline Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kosuke Yamada
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper explores a variant of automatic headline generation methods, where a generated headline is required to include a given phrase such as a company or a product name. Previous methods using Transformer-based models generate a headline including a given phrase by providing the encoder with additional information corresponding to the given phrase. However, these methods cannot always include the phrase in the generated headline. Inspired by previous RNN-based methods generating token sequences in backward and forward directions from the given phrase, we propose a simple Transformer-based method that guarantees to include the given phrase in the high-quality generated headline. We also consider a new headline generation strategy that takes advantage of the controllable generation order of Transformer. Our experiments with the Japanese News Corpus demonstrate that our methods, which are guaranteed to include the phrase in the generated headline, achieve ROUGE scores comparable to previous Transformer-based methods. We also show that our generation strategy performs better than previous strategies.
+Author{1}{Firstname}#=%=#Kosuke
+Author{1}{Lastname}#=%=#Yamada
+Author{1}{Username}#=%=#kosyamada
+Author{1}{Email}#=%=#yamada.kosuke@c.mbox.nagoya-u.ac.jp
+Author{1}{Affiliation}#=%=#Nagoya university
+Author{2}{Firstname}#=%=#Yuta
+Author{2}{Lastname}#=%=#Hitomi
+Author{2}{Username}#=%=#asahi_hitomi
+Author{2}{Email}#=%=#yuta.hitomi@insightedge.jp
+Author{2}{Affiliation}#=%=#Insight Edge, Inc.
+Author{3}{Firstname}#=%=#Hideaki
+Author{3}{Lastname}#=%=#Tamori
+Author{3}{Username}#=%=#tamori
+Author{3}{Email}#=%=#tamori-h@asahi.com
+Author{3}{Affiliation}#=%=#Media R&D Center, The Asahi Shimbun Company
+Author{4}{Firstname}#=%=#Ryohei
+Author{4}{Lastname}#=%=#Sasano
+Author{4}{Username}#=%=#sasano
+Author{4}{Email}#=%=#sasano@i.nagoya-u.ac.jp
+Author{4}{Affiliation}#=%=#Nagoya University
+Author{5}{Firstname}#=%=#Naoaki
+Author{5}{Lastname}#=%=#Okazaki
+Author{5}{Username}#=%=#okazaki
+Author{5}{Email}#=%=#okazaki@c.titech.ac.jp
+Author{5}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{6}{Firstname}#=%=#Kentaro
+Author{6}{Lastname}#=%=#Inui
+Author{6}{Username}#=%=#k.inui
+Author{6}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{6}{Affiliation}#=%=#Tohoku University / Riken
+Author{7}{Firstname}#=%=#Koichi
+Author{7}{Lastname}#=%=#Takeda
+Author{7}{Username}#=%=#takedasu
+Author{7}{Email}#=%=#takedasu@i.nagoya-u.ac.jp
+Author{7}{Affiliation}#=%=#Nagoya University
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2779
+FinalPaperTitle#=%=#Building and Evaluating Open-Domain Dialogue Corpora with Clarifying Questions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mohammad Aliannejadi
+JobTitle#==#
+Organization#==#
+Abstract#==#Enabling open-domain dialogue systems to ask clarifying questions when appropriate is an important direction for improving the quality of the system response. Namely, for cases when a user request is not specific enough for a conversation system to provide an answer right away, it is desirable to ask a clarifying question to increase the chances of retrieving a satisfying answer. To address the problem of 'asking clarifying questions in open-domain dialogues': (1) we collect and release a new dataset focused on open-domain single- and multi-turn conversations, (2) we benchmark several state-of-the-art neural baselines, and (3) we propose a pipeline consisting of offline and online steps for evaluating the quality of clarifying questions in various dialogues. These contributions are suitable as a foundation for further research.
+Author{1}{Firstname}#=%=#Mohammad
+Author{1}{Lastname}#=%=#Ailannejadi
+Author{1}{Username}#=%=#m.aliannejadi
+Author{1}{Email}#=%=#m.aliannejadi@uva.nl
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Julia
+Author{2}{Lastname}#=%=#Kiseleva
+Author{2}{Username}#=%=#j.kiseleva
+Author{2}{Email}#=%=#julianakiseleva@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Aleksandr
+Author{3}{Lastname}#=%=#Chuklin
+Author{3}{Username}#=%=#varepsilon
+Author{3}{Email}#=%=#a.chuklin@gmail.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Jeff
+Author{4}{Lastname}#=%=#Dalton
+Author{4}{Username}#=%=#jefferydalton
+Author{4}{Email}#=%=#jeff.dalton.gla@gmail.com
+Author{4}{Affiliation}#=%=#University of Glasgow
+Author{5}{Firstname}#=%=#Mikhail
+Author{5}{Lastname}#=%=#Burtsev
+Author{5}{Username}#=%=#mbur
+Author{5}{Email}#=%=#burtcev.ms@mipt.ru
+Author{5}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+
+==========

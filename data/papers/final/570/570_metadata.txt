@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#570
+FinalPaperTitle#=%=#Effect Generation Based on Causal Reasoning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Feiteng Mu
+JobTitle#==#
+Organization#==#
+Abstract#==#Causal reasoning aims to predict the future scenarios that may be caused by the observed actions. However, existing causal reasoning methods deal with causalities on the word level. In this paper, we propose a novel event-level causal reasoning method and demonstrate its use in the task of effect generation. In particular, we structuralize the observed cause-effect event pairs into an event causality network, which describes causality dependencies. Given an input cause sentence, a causal subgraph is retrieved from the event causality network and is encoded with the graph attention mechanism, in order to support better reasoning of the potential effects. The most probable effect event is then selected from the causal subgraph and is used as guidance to generate an effect sentence. Experiments show that our method generates more reasonable effect sentences than various well-designed competitors.
+Author{1}{Firstname}#=%=#Feiteng
+Author{1}{Lastname}#=%=#Mu
+Author{1}{Username}#=%=#mufeiteng
+Author{1}{Email}#=%=#mufeiteng@gmail.com
+Author{1}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{2}{Firstname}#=%=#Wenjie
+Author{2}{Lastname}#=%=#Li
+Author{2}{Username}#=%=#cswjli
+Author{2}{Email}#=%=#cswjli@comp.polyu.edu.hk
+Author{2}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{3}{Firstname}#=%=#Zhipeng
+Author{3}{Lastname}#=%=#Xie
+Author{3}{Username}#=%=#xiezp
+Author{3}{Email}#=%=#xiezp@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+
+==========

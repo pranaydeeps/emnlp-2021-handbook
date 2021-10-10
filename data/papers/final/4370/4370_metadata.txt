@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#4370
+FinalPaperTitle#=%=#Syntactically Diverse Adversarial Network for Knowledge-Grounded Conversation Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Fuwei Cui
+JobTitle#==#Student
+Organization#==#Beijing Jiaotong University 
+No. 3, Shangyuan village, Haidian District, Beijing, China
+Abstract#==#Generative conversation systems tend to produce meaningless and generic responses, which significantly reduce the user experience. In order to generate informative and diverse responses, recent studies proposed to fuse knowledge to improve informativeness and adopt latent variables to enhance the diversity. However, utilizing latent variables will lead to the inaccuracy of knowledge in the responses, and the dissemination of wrong knowledge will mislead the communicators. To address this problem, we propose a Syntactically Diverse Adversarial Network (SDAN) for knowledge-grounded conversation model. SDAN contains an adversarial hierarchical semantic network to keep the semantic coherence, a knowledge-aware network to attend more related knowledge for improving the informativeness and a syntactic latent variable network to generate syntactically diverse responses. Additionally, in order to increase the controllability of syntax, we adopt adversarial learning to decouple semantic and syntactic representations. Experimental results show that our model can not only generate syntactically diverse and knowledge-accurate responses but also significantly achieve the balance between improving the syntactic diversity and maintaining the knowledge accuracy.
+Author{1}{Firstname}#=%=#Fuwei
+Author{1}{Lastname}#=%=#Cui
+Author{1}{Username}#=%=#fwcui
+Author{1}{Email}#=%=#fuweicui@bjtu.edu.cn
+Author{1}{Affiliation}#=%=#Beijing Jiaotong University
+Author{2}{Firstname}#=%=#Hui
+Author{2}{Lastname}#=%=#Di
+Author{2}{Username}#=%=#dihui
+Author{2}{Email}#=%=#dihui@toshiba.com.cn
+Author{2}{Affiliation}#=%=#Toshiba (China) Co., Ltd.
+Author{3}{Firstname}#=%=#Hongjie
+Author{3}{Lastname}#=%=#Ren
+Author{3}{Username}#=%=#renhongjie
+Author{3}{Email}#=%=#20125222@bjtu.edu.cn
+Author{3}{Affiliation}#=%=#Beijing Jiaotong University
+Author{4}{Firstname}#=%=#Kazushige
+Author{4}{Lastname}#=%=#Ouchi
+Author{4}{Email}#=%=#kazushige.ouchi@toshiba.co.jp
+Author{4}{Affiliation}#=%=#Toshiba (China) Co., Ltd.
+Author{5}{Firstname}#=%=#Ze
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#zliu@bjtu.edu.cn
+Author{5}{Affiliation}#=%=#Beijing Jiaotong University
+Author{6}{Firstname}#=%=#Jinan
+Author{6}{Lastname}#=%=#Xu
+Author{6}{Username}#=%=#jaxu
+Author{6}{Email}#=%=#jaxu@bjtu.edu.cn
+Author{6}{Affiliation}#=%=#Beijing Jiaotong University
+
+==========

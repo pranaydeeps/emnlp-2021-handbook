@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#60
+FinalPaperTitle#=%=#Assessing the Generalization Capacity of Pre-trained Language Models through Japanese Adversarial Natural Language Inference
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Hitomi Yanaka
+JobTitle#==#
+Organization#==#the University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan.
+Abstract#==#Despite the success of multilingual pre-trained language models, it remains unclear to what extent these models have human-like generalization capacity across languages. The aim of this study is to investigate the out-of-distribution generalization of pre-trained language models through Natural Language Inference (NLI) in Japanese, the typological properties of which are different from those of English. We introduce a synthetically generated Japanese NLI dataset, called the Japanese Adversarial NLI (JaNLI) dataset, which is inspired by the English HANS dataset and is designed to require understanding of Japanese linguistic phenomena and illuminate the vulnerabilities of models. Through a series of experiments to evaluate the generalization performance of both Japanese and multilingual BERT models, we demonstrate that there is much room to improve current models trained on Japanese NLI tasks. Furthermore, a comparison of human performance and model performance on the different types of garden-path sentences in the JaNLI dataset shows that structural phenomena that ease interpretation of garden-path sentences for human readers do not help models in the same way, highlighting a difference between human readers and the models.
+Author{1}{Firstname}#=%=#Hitomi
+Author{1}{Lastname}#=%=#Yanaka
+Author{1}{Username}#=%=#verypluming
+Author{1}{Email}#=%=#hyanaka@is.s.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Koji
+Author{2}{Lastname}#=%=#Mineshima
+Author{2}{Username}#=%=#kojimineshima
+Author{2}{Email}#=%=#minesima@abelard.flet.keio.ac.jp
+Author{2}{Affiliation}#=%=#Keio University
+
+==========

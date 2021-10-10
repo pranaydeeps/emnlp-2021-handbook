@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#2146
+FinalPaperTitle#=%=#{RAP}: {R}obustness-{A}ware {P}erturbations for Defending against Backdoor Attacks on {NLP} Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Wenkai Yang
+JobTitle#==#
+Organization#==#Peking University
+No.5 Yiheyuan Road, Haidian District, Beijing, China
+Abstract#==#Backdoor attacks, which maliciously control a well-trained model's outputs of the instances with specific triggers, are recently shown to be serious threats to the safety of reusing deep neural networks (DNNs). In this work, we propose an efficient online defense mechanism based on robustness-aware perturbations. Specifically, by analyzing the backdoor training process, we point out that there exists a big gap of robustness between poisoned and clean samples. Motivated by this observation, we construct a word-based robustness-aware perturbation to distinguish poisoned samples from clean samples to defend against the backdoor attacks on natural language processing (NLP) models. Moreover, we give a theoretical analysis about the feasibility of our robustness-aware perturbation-based defense method. Experimental results on sentiment analysis and toxic detection tasks show that our method achieves better defending performance and much lower computational costs than existing online defense methods. Our code is available at https://github.com/lancopku/RAP.
+Author{1}{Firstname}#=%=#Wenkai
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#keven_yang
+Author{1}{Email}#=%=#wkyang@stu.pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yankai
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Username}#=%=#lyk423
+Author{2}{Email}#=%=#yankailin@tencent.com
+Author{2}{Affiliation}#=%=#Pattern Recognition Center, WeChat, Tencent
+Author{3}{Firstname}#=%=#Peng
+Author{3}{Lastname}#=%=#Li
+Author{3}{Username}#=%=#lipeng17
+Author{3}{Email}#=%=#patrickpli@tencent.com
+Author{3}{Affiliation}#=%=#WeChat AI, Tencent Inc., China
+Author{4}{Firstname}#=%=#Jie
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#jerryitp
+Author{4}{Email}#=%=#withtomzhou@tencent.com
+Author{4}{Affiliation}#=%=#Tencent Inc.
+Author{5}{Firstname}#=%=#Xu
+Author{5}{Lastname}#=%=#Sun
+Author{5}{Username}#=%=#xusun26
+Author{5}{Email}#=%=#xusun@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+
+==========

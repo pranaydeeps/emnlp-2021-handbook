@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1562
+FinalPaperTitle#=%=#When in Doubt: Improving Classification Performance with Alternating Normalization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Menglin Jia
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce Classification with Alternating Normalization (CAN), a non-parametric post-processing step for classification. CAN improves classification accuracy for challenging examples by re-adjusting their predicted class probability distribution using the predicted class distributions of high-confidence validation examples. CAN is easily applicable to any probabilistic classifier, with minimal computation overhead. We analyze the properties of CAN using simulated experiments, and empirically demonstrate its effectiveness across a diverse set of classification tasks.
+Author{1}{Firstname}#=%=#Menglin
+Author{1}{Lastname}#=%=#Jia
+Author{1}{Username}#=%=#mj493
+Author{1}{Email}#=%=#mj493@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Austin
+Author{2}{Lastname}#=%=#Reiter
+Author{2}{Username}#=%=#austinreiter
+Author{2}{Email}#=%=#areiter@fb.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Ser-Nam
+Author{3}{Lastname}#=%=#Lim
+Author{3}{Username}#=%=#sernam
+Author{3}{Email}#=%=#sernamlim@fb.com
+Author{3}{Affiliation}#=%=#Facebook AI
+Author{4}{Firstname}#=%=#Yoav
+Author{4}{Lastname}#=%=#Artzi
+Author{4}{Username}#=%=#yoav
+Author{4}{Email}#=%=#yoav@cs.cornell.edu
+Author{4}{Affiliation}#=%=#Cornell University
+Author{5}{Firstname}#=%=#Claire
+Author{5}{Lastname}#=%=#Cardie
+Author{5}{Username}#=%=#cardie
+Author{5}{Email}#=%=#cardie@cs.cornell.edu
+Author{5}{Affiliation}#=%=#Cornell University
+
+==========

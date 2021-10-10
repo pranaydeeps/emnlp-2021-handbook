@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Eliciting Bias in Question Answering Models through Ambiguity
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Naveen Raman
+JobTitle#==#
+Organization#==#University of Maryland, College Park
+7999 Regents Dr, College Park, MD 20742
+Abstract#==#Question answering (QA) models use retriever and reader systems to answer questions. Reliance on training data by QA systems can amplify or reflect inequity through their responses.        Many QA models, such as those for the SQuAD dataset, are trained and tested on a subset of Wikipedia articles which encode their own biases and also reproduce real-world inequality. Understanding how training data affects bias in QA systems can inform methods to mitigate inequity. We develop two sets of questions for closed and open domain questions respectively, which use ambiguous questions to probe QA models for bias.        We feed three deep-learning-based QA systems with our question sets and evaluate responses for bias via the metrics. Using our metrics, we find that open-domain QA models amplify biases more than their closed-domain counterparts and propose that biases in the retriever surface more readily due to greater freedom of choice.
+Author{1}{Firstname}#=%=#Andrew
+Author{1}{Lastname}#=%=#Mao
+Author{1}{Email}#=%=#amao1@terpmail.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Naveen
+Author{2}{Lastname}#=%=#Raman
+Author{2}{Username}#=%=#navr414
+Author{2}{Email}#=%=#nav.j.raman@gmail.com
+Author{2}{Affiliation}#=%=#University of Maryland
+Author{3}{Firstname}#=%=#Matthew
+Author{3}{Lastname}#=%=#Shu
+Author{3}{Username}#=%=#nonameentered
+Author{3}{Email}#=%=#matthew.shu@yale.edu
+Author{3}{Affiliation}#=%=#Yale University
+Author{4}{Firstname}#=%=#Eric
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#li.cz.eric@gmail.com
+Author{4}{Affiliation}#=%=#University of Maryland
+Author{5}{Firstname}#=%=#Franklin
+Author{5}{Lastname}#=%=#Yang
+Author{5}{Email}#=%=#franklinjcyang@gmail.com
+Author{5}{Affiliation}#=%=#University of Maryland
+Author{6}{Firstname}#=%=#Jordan
+Author{6}{Lastname}#=%=#Boyd-Graber
+Author{6}{Username}#=%=#ezubaric
+Author{6}{Email}#=%=#jbg@umiacs.umd.edu
+Author{6}{Affiliation}#=%=#University of Maryland
+
+==========

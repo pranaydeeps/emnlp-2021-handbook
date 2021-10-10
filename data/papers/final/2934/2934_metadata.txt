@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#2934
+FinalPaperTitle#=%=#Maximal Clique Based Non-Autoregressive Open Information Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Bowen Yu
+JobTitle#==#
+Organization#==#
+Abstract#==#Open Information Extraction (OpenIE) aims to discover textual facts from a given sentence. In essence, the facts contained in plain text are unordered. However, the popular OpenIE systems usually output facts sequentially in the way of predicting the next fact conditioned on the previous decoded ones, which enforce an unnecessary order on the facts and involve the error accumulation between autoregressive steps. To break this bottleneck, we propose MacroIE, a novel non-autoregressive framework for OpenIE. MacroIE firstly constructs a fact graph based on the table filling scheme, in which each node denotes a fact element, and an edge links two nodes that belong to the same fact. Then OpenIE can be reformulated as a non-parametric process of finding maximal cliques from the graph. It directly outputs the final set of facts in one go, thus getting rid of the burden of predicting fact order, as well as the error propagation between facts. Experiments conducted on two benchmark datasets show that our proposed model significantly outperforms current state-of-the-art methods, beats the previous systems by as much as 5.7 absolute gain in F1 score.
+Author{1}{Firstname}#=%=#Bowen
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Username}#=%=#yubowen
+Author{1}{Email}#=%=#yubowen@iie.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Yucheng
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wychengsoftconf
+Author{2}{Email}#=%=#wangyucheng@iie.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Tingwen
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Username}#=%=#ltw5253
+Author{3}{Email}#=%=#liutingwen@iie.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Hongsong
+Author{4}{Lastname}#=%=#Zhu
+Author{4}{Username}#=%=#zhuhongsong
+Author{4}{Email}#=%=#zhuhongsong@iie.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Limin
+Author{5}{Lastname}#=%=#Sun
+Author{5}{Username}#=%=#sunlimin
+Author{5}{Email}#=%=#sunlimin@iie.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{6}{Firstname}#=%=#Bin
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Username}#=%=#wangbin
+Author{6}{Email}#=%=#wangbin11@xiaomi.com
+Author{6}{Affiliation}#=%=#Xiaomi AI Lab
+
+==========

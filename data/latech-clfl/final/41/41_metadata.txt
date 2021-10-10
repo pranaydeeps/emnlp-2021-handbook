@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#A Pilot Study for BERT Language Modelling and Morphological Analysis for Ancient and Medieval Greek
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Pranaydeep Singh
+JobTitle#==#
+Organization#==#Language Technology and Translation Team, University of Ghent, Ghent, Belgium
+Abstract#==#This paper presents a pilot study to automatic linguistic preprocessing of Ancient and Byzantine Greek, and morphological analysis more specifically. To this end, a novel subword-based BERT language model was trained on the basis of a varied corpus of Modern, Ancient and Post-classical Greek texts. Consequently, the obtained BERT embeddings were incorporated to train a fine-grained Part-of-Speech tagger for Ancient and Byzantine Greek. In addition, a corpus of Greek Epigrams was manually annotated and the resulting gold standard was used to evaluate the performance of the morphological analyser on Byzantine Greek.
+The experimental results show very good perplexity scores (4.9) for the BERT language model and state-of-the-art performance for the fine-grained Part-of-Speech tagger for in-domain data (treebanks containing a mixture of Classical and Medieval Greek), as well as for the newly created Byzantine Greek gold standard data set. The language models and associated code are made available for use at https://github.com/pranaydeeps/Ancient-Greek-BERT
+Author{1}{Firstname}#=%=#Pranaydeep
+Author{1}{Lastname}#=%=#Singh
+Author{1}{Username}#=%=#c1pher
+Author{1}{Email}#=%=#pranaydeeps@gmail.com
+Author{1}{Affiliation}#=%=#LT3, University of Ghent
+Author{2}{Firstname}#=%=#Gorik
+Author{2}{Lastname}#=%=#Rutten
+Author{2}{Email}#=%=#gorik.rutten@gmail.com
+Author{2}{Affiliation}#=%=#LT3, University of Ghent
+Author{3}{Firstname}#=%=#Els
+Author{3}{Lastname}#=%=#Lefever
+Author{3}{Email}#=%=#els.lefever@ugent.be
+Author{3}{Affiliation}#=%=#LT3, University of Ghent
+
+==========

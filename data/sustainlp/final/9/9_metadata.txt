@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Anne-Laure Ligozat
+JobTitle#==#
+Organization#==#
+Abstract#==#Modern Natural Language Processing (NLP) makes intensive use of deep learning methods because of the accuracy they offer for a variety of applications. Due to the significant environmental impact of deep learning, cost-benefit analysis including carbon footprint as well as accuracy measures has been suggested to better document the use of NLP methods for research or deployment. In this paper, we review the tools that are available to measure energy use and CO2 emissions of NLP methods. We describe the scope of the measures provided and compare the use of six tools (carbon tracker, experiment impact tracker, green algorithms, ML CO2 impact, energy usage and cumulator) on named entity recognition experiments performed on different computational set-ups (local server vs. computing facility). Based on these findings, we propose actionable recommendations to accurately measure the environmental impact of NLP experiments.
+Author{1}{Firstname}#=%=#Nesrine
+Author{1}{Lastname}#=%=#bannour
+Author{1}{Username}#=%=#nesrinebannour
+Author{1}{Email}#=%=#nesrine.bannour@limsi.fr
+Author{1}{Affiliation}#=%=#PhD student
+Author{2}{Firstname}#=%=#Sahar
+Author{2}{Lastname}#=%=#Ghannay
+Author{2}{Username}#=%=#saharghannay
+Author{2}{Email}#=%=#sahar.ghannay@limsi.fr
+Author{2}{Affiliation}#=%=#CNRS, LISN
+Author{3}{Firstname}#=%=#Aurélie
+Author{3}{Lastname}#=%=#Névéol
+Author{3}{Username}#=%=#neveol
+Author{3}{Email}#=%=#aurelie.neveol@lisn.upsaclay.fr
+Author{3}{Affiliation}#=%=#Université Paris Saclay, CNRS, LISN
+Author{4}{Firstname}#=%=#Anne-Laure
+Author{4}{Lastname}#=%=#Ligozat
+Author{4}{Username}#=%=#annlor
+Author{4}{Email}#=%=#anne-laure.ligozat@lisn.upsaclay.fr
+Author{4}{Affiliation}#=%=#LISN & ENSIIE
+
+==========

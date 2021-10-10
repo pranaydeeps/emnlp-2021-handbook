@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#809
+FinalPaperTitle#=%=#Improving Graph-based Sentence Ordering with Iteratively Predicted Pairwise Orderings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#赖少鹏
+JobTitle#==#
+Organization#==#赖少鹏 Xiamen University, Xiamen, Fujian, China
+Abstract#==#Dominant sentence ordering models can be classified into pairwise ordering models and set-to-sequence models. However, there is little attempt to combine these two types of models, which inituitively possess complementary advantages. In this paper, we propose a novel sentence ordering framework which introduces two classifiers to make better use of pairwise orderings for graph-based sentence ordering (Yin et al. 2019, 2021). Specially, given an initial sentence-entity graph, we first introduce a graph-based classifier to predict pairwise orderings between linked sentences. Then, in an iterative manner, based on the graph updated by previously predicted high-confident pairwise orderings, another classifier is used to predict the remaining uncertain pairwise orderings. At last, we adapt a GRN-based sentence ordering model (Yin et al. 2019, 2021) on the basis of final graph. Experiments on five commonly-used datasets demonstrate the effectiveness and generality of our model. Particularly, when equipped with BERT (Devlin et al. 2019) and FHDecoder (Yin et al. 2020), our model achieves state-of-the-art performance. Our code is available at https://github.com/DeepLearnXMU/IRSEG.
+Author{1}{Firstname}#=%=#Shaopeng
+Author{1}{Lastname}#=%=#Lai
+Author{1}{Username}#=%=#shopping
+Author{1}{Email}#=%=#759849985@qq.com
+Author{1}{Affiliation}#=%=#Xiamen University
+Author{2}{Firstname}#=%=#Ante
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#wangante
+Author{2}{Email}#=%=#wangante@stu.xmu.edu.cn
+Author{2}{Affiliation}#=%=#Xiamen University
+Author{3}{Firstname}#=%=#Fandong
+Author{3}{Lastname}#=%=#Meng
+Author{3}{Username}#=%=#mengfandong
+Author{3}{Email}#=%=#fandongmeng@tencent.com
+Author{3}{Affiliation}#=%=#WeChat AI, Tencent
+Author{4}{Firstname}#=%=#Jie
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Username}#=%=#jerryitp
+Author{4}{Email}#=%=#withtomzhou@tencent.com
+Author{4}{Affiliation}#=%=#Tencent Inc.
+Author{5}{Firstname}#=%=#Yubin
+Author{5}{Lastname}#=%=#Ge
+Author{5}{Username}#=%=#gyb940421
+Author{5}{Email}#=%=#yubinge2@illinois.edu
+Author{5}{Affiliation}#=%=#University of Illinois, Urbana Champaign
+Author{6}{Firstname}#=%=#Jiali
+Author{6}{Lastname}#=%=#Zeng
+Author{6}{Username}#=%=#jializeng
+Author{6}{Email}#=%=#lemooon@foxmail.com
+Author{6}{Affiliation}#=%=#Tencent Technology Co., Ltd, Beijing, China
+Author{7}{Firstname}#=%=#Junfeng
+Author{7}{Lastname}#=%=#Yao
+Author{7}{Username}#=%=#yao0010
+Author{7}{Email}#=%=#yao0010@xmu.edu.cn
+Author{7}{Affiliation}#=%=#Xiamen University
+Author{8}{Firstname}#=%=#Degen
+Author{8}{Lastname}#=%=#Huang
+Author{8}{Username}#=%=#huangdg
+Author{8}{Email}#=%=#huangdg@dlut.edu.cn
+Author{8}{Affiliation}#=%=#Dalian University of Technology
+Author{9}{Firstname}#=%=#Jinsong
+Author{9}{Lastname}#=%=#Su
+Author{9}{Username}#=%=#jssu
+Author{9}{Email}#=%=#jssu@xmu.edu.cn
+Author{9}{Affiliation}#=%=#Xiamen university
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3684
+FinalPaperTitle#=%=#Attend, Memorize and Generate: Towards Faithful Table-to-Text Generation in Few Shots
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Wenting Zhao
+JobTitle#==#
+Organization#==#
+Abstract#==#Few-shot table-to-text generation is a task of composing fluent and faithful sentences to convey table content using limited data. Despite many efforts having been made towards generating impressive fluent sentences by fine-tuning powerful pre-trained language models, the faithfulness of generated content still needs to be improved. To this end, this paper proposes a novel approach Attend, Memorize and Generate (called AMG), inspired by the text generation process of humans. In particular, AMG (1) attends over the multi-granularity of context using a novel strategy based on table slot level and traditional token-by-token level attention to exploit both the table structure and natural linguistic information; (2) dynamically memorizes the table slot allocation states; and (3) generates faithful sentences according to both the context and memory allocation states. Comprehensive experiments with human evaluation on three domains (i.e., humans, songs, and books) of the Wiki dataset show that our model can generate higher qualified texts when compared with several state-of-the-art baselines, in both fluency and faithfulness.
+Author{1}{Firstname}#=%=#Wenting
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Username}#=%=#inweriok
+Author{1}{Email}#=%=#wzhao41@uic.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Ye
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#yliu279
+Author{2}{Email}#=%=#yliu279@uic.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Chicago
+Author{3}{Firstname}#=%=#Yao
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Username}#=%=#wanyao1992
+Author{3}{Email}#=%=#wanyao@hust.edu.cn
+Author{3}{Affiliation}#=%=#Huazhong University of Science and Technology
+Author{4}{Firstname}#=%=#Philip
+Author{4}{Lastname}#=%=#Yu
+Author{4}{Username}#=%=#philipsyu
+Author{4}{Email}#=%=#psyu@uic.edu
+Author{4}{Affiliation}#=%=#Universtiy of Illinois at Chicago
+
+==========

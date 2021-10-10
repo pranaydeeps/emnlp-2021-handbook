@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#3660
+FinalPaperTitle#=%=#Finding a Balanced Degree of Automation for Summary Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Shiyue Zhang
+JobTitle#==#
+Organization#==#UNC Chapel Hill
+Abstract#==#Human evaluation for summarization tasks is reliable but brings in issues of reproducibility and high costs. Automatic metrics are cheap and reproducible but sometimes poorly correlated with human judgment. In this work, we propose flexible semiautomatic to automatic summary evaluation metrics, following the Pyramid human evaluation method. Semi-automatic Lite2Pyramid retains the reusable human-labeled Summary Content Units (SCUs) for reference(s) but replaces the manual work of judging SCUs’ presence in system summaries with a natural language inference (NLI) model. Fully automatic Lite3Pyramid further substitutes SCUs with automatically extracted Semantic Triplet Units (STUs) via a semantic role labeling (SRL) model. Finally, we propose in-between metrics, Lite2.xPyramid, where we use a simple regressor to predict how well the STUs can simulate SCUs and retain SCUs that are more difficult to simulate, which provides a smooth transition and balance between automation and manual evaluation. Comparing to 15 existing metrics, we evaluate human-metric correlations on 3 existing meta-evaluation datasets and our newly collected PyrXSum (with 100/10 XSum examples/systems). It shows that Lite2Pyramid consistently has the best summary-level correlations; Lite3Pyramid works better than or comparable to other automatic metrics; Lite2.xPyramid trades off small correlation drops for larger manual effort reduction, which can reduce costs for future data collection.
+Author{1}{Firstname}#=%=#Shiyue
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#shiyuezhang
+Author{1}{Email}#=%=#shiyue@cs.unc.edu
+Author{1}{Affiliation}#=%=#The University of North Carolina at Chapel Hill
+Author{2}{Firstname}#=%=#Mohit
+Author{2}{Lastname}#=%=#Bansal
+Author{2}{Username}#=%=#mbansal
+Author{2}{Email}#=%=#mbansal@cs.unc.edu
+Author{2}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+
+==========

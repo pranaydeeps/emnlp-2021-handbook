@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#2639
+FinalPaperTitle#=%=#Can We Improve Model Robustness through Secondary Attribute Counterfactuals?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ananth Balashankar
+JobTitle#==#
+Organization#==#Google AI,
+111 8th Ave, New York, NY 10011
+Abstract#==#Developing robust NLP models that perform well on many, even small, slices of data is a significant but important challenge, with implications from fairness to general reliability.  To this end, recent research has explored how models rely on spurious correlations, and how counterfactual data augmentation (CDA) can mitigate such issues.  In this paper we study how and why modeling counterfactuals over multiple attributes can go significantly further in improving model performance. We propose RDI, a context-aware methodology which takes into account the impact of secondary attributes on the model's predictions and increases sensitivity for secondary attributes over reweighted counterfactually augmented data. By implementing RDI in the context of toxicity detection, we find that accounting for secondary attributes can significantly improve robustness, with improvements in sliced accuracy on the original dataset up to 7% compared to existing robustness methods. We also demonstrate that RDI generalizes to the coreference resolution task and provide guidelines to extend this to other tasks.
+Author{1}{Firstname}#=%=#Ananth
+Author{1}{Lastname}#=%=#Balashankar
+Author{1}{Username}#=%=#ananthb
+Author{1}{Email}#=%=#ananthbalashankar@gmail.com
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Xuezhi
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#xuezhiw
+Author{2}{Email}#=%=#xuezhiw@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Ben
+Author{3}{Lastname}#=%=#Packer
+Author{3}{Username}#=%=#bpacker
+Author{3}{Email}#=%=#bpacker@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Nithum
+Author{4}{Lastname}#=%=#Thain
+Author{4}{Username}#=%=#nthain
+Author{4}{Email}#=%=#nthain@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Ed
+Author{5}{Lastname}#=%=#Chi
+Author{5}{Username}#=%=#edchi
+Author{5}{Email}#=%=#ed.h.chi+emnlp@gmail.com
+Author{5}{Affiliation}#=%=#Google Research
+Author{6}{Firstname}#=%=#Alex
+Author{6}{Lastname}#=%=#Beutel
+Author{6}{Username}#=%=#alexbeutel
+Author{6}{Email}#=%=#alex@beu.tel
+Author{6}{Affiliation}#=%=#Google
+
+==========

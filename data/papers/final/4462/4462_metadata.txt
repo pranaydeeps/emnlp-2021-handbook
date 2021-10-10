@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#4462
+FinalPaperTitle#=%=#AUTOSUMM: Automatic Model Creation for Text Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sharmila Reddy Nangi
+JobTitle#==#
+Organization#==#Adobe Research, India
+Abstract#==#Recent efforts to develop deep learning models for text generation tasks such as extractive and abstractive summarization have resulted in state-of-the-art performances on various datasets. However, obtaining the best model configuration for a given dataset requires an extensive knowledge of deep learning specifics like model architecture, tuning parameters etc., and is often extremely challenging for a non-expert. In this paper, we propose methods to automatically create deep learning models for the tasks of extractive and abstractive text summarization. Based on the recent advances in Automated Machine Learning and the success of large language models such as BERT and GPT-2 in encoding knowledge, we use a combination of Neural Architecture Search (NAS) and Knowledge Distillation (KD) techniques to perform model search and compression using the vast knowledge provided by these language models to develop smaller, customized models for any given dataset. We present extensive empirical results to illustrate the effectiveness of our model creation methods in terms of inference time and model size, while achieving near state-of-the-art performances in terms of accuracy across a range of datasets.
+Author{1}{Firstname}#=%=#Sharmila Reddy
+Author{1}{Lastname}#=%=#Nangi
+Author{1}{Username}#=%=#snangi
+Author{1}{Email}#=%=#snangi@adobe.com
+Author{1}{Affiliation}#=%=#Adobe Research
+Author{2}{Firstname}#=%=#Atharv
+Author{2}{Lastname}#=%=#Tyagi
+Author{2}{Username}#=%=#atharvtyagi
+Author{2}{Email}#=%=#atharv@iitk.ac.in
+Author{2}{Affiliation}#=%=#Indian Institute of Technology Kanpur, Adobe
+Author{3}{Firstname}#=%=#Jay
+Author{3}{Lastname}#=%=#Mundra
+Author{3}{Username}#=%=#jay_mundra
+Author{3}{Email}#=%=#jaym@iitk.ac.in
+Author{3}{Affiliation}#=%=#IIT Kanpur, Adobe
+Author{4}{Firstname}#=%=#Sagnik
+Author{4}{Lastname}#=%=#Mukherjee
+Author{4}{Username}#=%=#sagnik_mukherjee
+Author{4}{Email}#=%=#sagnikm@iitk.ac.in
+Author{4}{Affiliation}#=%=#Indian Institute of Technology, Kanpur
+Author{5}{Firstname}#=%=#Raj
+Author{5}{Lastname}#=%=#Snehal
+Author{5}{Username}#=%=#snehal
+Author{5}{Email}#=%=#snehal@iitk.ac.in
+Author{5}{Affiliation}#=%=#Adobe, Indian Institute of Technology Kanpur
+Author{6}{Firstname}#=%=#Niyati
+Author{6}{Lastname}#=%=#Chhaya
+Author{6}{Username}#=%=#nchhaya
+Author{6}{Email}#=%=#nchhaya@adobe.com
+Author{6}{Affiliation}#=%=#Adobe Research
+Author{7}{Firstname}#=%=#Aparna
+Author{7}{Lastname}#=%=#Garimella
+Author{7}{Username}#=%=#gaparna
+Author{7}{Email}#=%=#garimell@adobe.com
+Author{7}{Affiliation}#=%=#Adobe Research
+
+==========

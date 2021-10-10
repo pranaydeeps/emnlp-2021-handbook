@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#813
+FinalPaperTitle#=%=#Probing Across Time: What Does RoBERTa Know and When?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#23
+CopyrightSigned#=%=#Zeyu Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#Models of language trained on very large corpora have been demonstrated useful for natural language processing. As fixed artifacts, they have become the object of intense study, with many researchers "probing" the extent to which they acquire and readily demonstrate linguistic abstractions, factual and commonsense knowledge, and reasoning abilities. Recent work applied several probes to intermediate training stages to observe the developmental process of a large-scale model (Chiang et al., 2020). Following this effort, we systematically answer a question: for various types of knowledge a language model learns, when during (pre)training are they acquired? Using RoBERTa as a case study, we find:  linguistic knowledge is acquired fast, stably, and robustly across domains. Facts and commonsense are slower and more domain-sensitive. Reasoning abilities are, in general, not stably acquired. As new datasets, pretraining protocols, and probes emerge, we believe that probing-across-time analyses can help researchers understand the complex, intermingled learning that these models undergo and guide us toward more efficient approaches that accomplish necessary learning faster.
+Author{1}{Firstname}#=%=#Zeyu
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#zeyuliu
+Author{1}{Email}#=%=#zeyuliu2@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Yizhong
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#yizhong
+Author{2}{Email}#=%=#yizhongw@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Jungo
+Author{3}{Lastname}#=%=#Kasai
+Author{3}{Username}#=%=#jungokasai
+Author{3}{Email}#=%=#jkasai@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Hannaneh
+Author{4}{Lastname}#=%=#Hajishirzi
+Author{4}{Username}#=%=#hannaneh
+Author{4}{Email}#=%=#hannaneh@washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Noah A.
+Author{5}{Lastname}#=%=#Smith
+Author{5}{Username}#=%=#nasmith
+Author{5}{Email}#=%=#nasmith@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

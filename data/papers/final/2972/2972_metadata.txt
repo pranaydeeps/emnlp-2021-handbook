@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#2972
+FinalPaperTitle#=%=#Visual News: Benchmark and Challenges in News Image Captioning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Fuxiao Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose Visual News Captioner, an entity-aware model for the task of news image captioning. We also introduce Visual News, a large-scale benchmark consisting of more than one million news images along with associated news articles, image captions, author information, and other metadata. Unlike the standard image captioning task, news images depict situations where people, locations, and events are of paramount importance. 
+Our proposed method can effectively combine visual and textual features to generate captions with richer information such as events and entities. More specifically, built upon the Transformer architecture, our model is further equipped with novel multi-modal feature fusion techniques and attention mechanisms, which are designed to generate named entities more accurately. Our method utilizes much fewer parameters while achieving slightly better prediction results than competing methods. Our larger and more diverse Visual News dataset further highlights the remaining challenges in captioning news images.
+Author{1}{Firstname}#=%=#Fuxiao
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#fuxiao
+Author{1}{Email}#=%=#fl3es@virginia.edu
+Author{1}{Affiliation}#=%=#University of Virginia
+Author{2}{Firstname}#=%=#Yinghan
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Username}#=%=#yinghan96
+Author{2}{Email}#=%=#yw9fm@virginia.edu
+Author{2}{Affiliation}#=%=#University of Virginia
+Author{3}{Firstname}#=%=#Tianlu
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Username}#=%=#tianluwang
+Author{3}{Email}#=%=#tw8cb@virginia.edu
+Author{3}{Affiliation}#=%=#University of Virginia
+Author{4}{Firstname}#=%=#Vicente
+Author{4}{Lastname}#=%=#Ordonez
+Author{4}{Username}#=%=#vicente
+Author{4}{Email}#=%=#vicente@virginia.edu
+Author{4}{Affiliation}#=%=#University of Virginia
+
+==========

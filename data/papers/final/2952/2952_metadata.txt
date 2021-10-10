@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2952
+FinalPaperTitle#=%=#"So You Think You're Funny?": Rating the Humour Quotient in Standup Comedy
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Anirudh Mittal
+JobTitle#==#
+Organization#==#
+Abstract#==#Computational Humour (CH) has attracted the interest of Natural Language Processing and Computational Linguistics communities. Creating datasets for automatic measurement of humour quotient is difficult due to multiple possible interpretations of the content. In this work, we create a multi-modal humour-annotated dataset (~40 hours) using stand-up comedy clips. We devise a novel scoring mechanism to annotate the training data with a humour quotient score using the audience's laughter. The normalized duration (laughter duration divided by the clip duration) of laughter in each clip is used to compute this humour coefficient score on a five-point scale (0-4). This method of scoring is validated by comparing with manually annotated scores, wherein a quadratic weighted kappa of 0.6 is obtained. We use this dataset to train a model that provides a 'funniness' score, on a five-point scale, given the audio and its corresponding text. We compare various neural language models for the task of humour-rating and achieve an accuracy of 0.813 in terms of Quadratic Weighted Kappa (QWK). Our `Open Mic' dataset is released for further research along with the code.
+Author{1}{Firstname}#=%=#Anirudh
+Author{1}{Lastname}#=%=#Mittal
+Author{1}{Username}#=%=#anirudhmittal
+Author{1}{Email}#=%=#170020057@iitb.ac.in
+Author{1}{Affiliation}#=%=#IIT Bombay
+Author{2}{Firstname}#=%=#Pranav Jeevan
+Author{2}{Lastname}#=%=#P
+Author{2}{Username}#=%=#pranavphoenix
+Author{2}{Email}#=%=#194070025@iitb.ac.in
+Author{2}{Affiliation}#=%=#IIT Bombay
+Author{3}{Firstname}#=%=#Prerak
+Author{3}{Lastname}#=%=#Gandhi
+Author{3}{Username}#=%=#prerak
+Author{3}{Email}#=%=#prerakgandhi13@gmail.com
+Author{3}{Affiliation}#=%=#Indian Institute of Technology Bombay
+Author{4}{Firstname}#=%=#Diptesh
+Author{4}{Lastname}#=%=#Kanojia
+Author{4}{Username}#=%=#dipteshkanojia
+Author{4}{Email}#=%=#dipteshkanojia@gmail.com
+Author{4}{Affiliation}#=%=#University of Surrey
+Author{5}{Firstname}#=%=#Pushpak
+Author{5}{Lastname}#=%=#Bhattacharyya
+Author{5}{Username}#=%=#pushpak
+Author{5}{Email}#=%=#pushpakbh@gmail.com
+Author{5}{Affiliation}#=%=#Indian Institute of Technology Bombay and Patna
+
+==========

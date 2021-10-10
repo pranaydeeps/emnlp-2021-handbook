@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#4739
+FinalPaperTitle#=%=#Syntactically-Informed Unsupervised Paraphrasing with Non-Parallel Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Erguang Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#Previous works on syntactically controlled paraphrase generation heavily rely on large-scale parallel paraphrase data that is not easily available for many languages and domains. In this paper, we take this research direction to the extreme and investigate whether it is possible to learn syntactically controlled paraphrase generation with nonparallel data. We propose a syntactically-informed unsupervised paraphrasing model based on conditional variational auto-encoder (VAE) which can generate texts in a specified syntactic structure. Particularly, we design a two-stage learning method to effectively train the model using non-parallel data. The conditional VAE is trained to reconstruct the input sentence according to the given input and its syntactic structure. Furthermore, to improve the
+syntactic controllability and semantic consistency of the pre-trained conditional VAE, we fine-tune it using syntax controlling and cycle reconstruction learning objectives, and employ Gumbel-Softmax
+to combine these new learning objectives. Experiment results demonstrate that the proposed model trained only on non-parallel data is capable of generating diverse paraphrases with specified syntactic structure. Additionally, we validate the effectiveness of our method for generating syntactically adversarial examples on the sentiment analysis task.
+Author{1}{Firstname}#=%=#Erguang
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Username}#=%=#lanse
+Author{1}{Email}#=%=#egyang@bjtu.edu.cn
+Author{1}{Affiliation}#=%=#Beijing Jiaotong University
+Author{2}{Firstname}#=%=#Mingtong
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Username}#=%=#liumingtong521
+Author{2}{Email}#=%=#16112075@bjtu.edu.cn
+Author{2}{Affiliation}#=%=#Beijing Jiaotong University
+Author{3}{Firstname}#=%=#Deyi
+Author{3}{Lastname}#=%=#Xiong
+Author{3}{Username}#=%=#dyxiong
+Author{3}{Email}#=%=#dyxiong@tju.edu.cn
+Author{3}{Affiliation}#=%=#Tianjin University
+Author{4}{Firstname}#=%=#YUJIE
+Author{4}{Lastname}#=%=#ZHANG
+Author{4}{Username}#=%=#zhangyujie
+Author{4}{Email}#=%=#yjzhang@bjtu.edu.cn
+Author{4}{Affiliation}#=%=#Beijing Jiaotong University
+Author{5}{Firstname}#=%=#Yao
+Author{5}{Lastname}#=%=#Meng
+Author{5}{Username}#=%=#mengyao
+Author{5}{Email}#=%=#mengyao1@lenovo.com
+Author{5}{Affiliation}#=%=#Lenovo
+Author{6}{Firstname}#=%=#Changjian
+Author{6}{Lastname}#=%=#Hu
+Author{6}{Username}#=%=#changjiancn
+Author{6}{Email}#=%=#hucj1@lenovo.com
+Author{6}{Affiliation}#=%=#Lenovo
+Author{7}{Firstname}#=%=#Jinan
+Author{7}{Lastname}#=%=#Xu
+Author{7}{Username}#=%=#jaxu
+Author{7}{Email}#=%=#jaxu@bjtu.edu.cn
+Author{7}{Affiliation}#=%=#Beijing Jiaotong University
+Author{8}{Firstname}#=%=#Yufeng
+Author{8}{Lastname}#=%=#Chen
+Author{8}{Username}#=%=#chenyf
+Author{8}{Email}#=%=#chenyf@bjtu.edu.cn
+Author{8}{Affiliation}#=%=#Beijing Jiaotong University
+
+==========
