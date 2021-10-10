@@ -5,21 +5,6 @@ Bronze: quarter page (4.5 x 2)
 Supporters: no ad
 
 ------------
-Platinum
-- Bloomberg
-
-Gold
-- Google
-- Goldman Sachs
-- A9
-
 Silver
-- SDL
-- Nuance
-
-Bronze
-- Yahoo Labs
-
-Supporters
-- UW Computational Linguistics
-- Digital roots
+- Duolingo
+- Naver Labs
