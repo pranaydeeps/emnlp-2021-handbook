@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 OCT 2021 17:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 OCT 2021 17:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2859,19 +2859,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/papers/Sunday-parallel-session-3.tex
 Package marginnote Info: Margin note 68.1 is on absolute page 68
 (marginnote)              on input line 10.
-Package marginnote Info: xpos seems to be 95.85274pt,
+Package marginnote Info: xpos seems to be 38.68724pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 10.
 Package marginnote Info: Margin note 68.2 is on absolute page 68
 (marginnote)              on input line 14.
-Package marginnote Info: xpos seems to be 44.07742pt,
+Package marginnote Info: xpos seems to be 38.68724pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 14.
 Package marginnote Info: Margin note 68.3 is on absolute page 68
 (marginnote)              on input line 18.
-Package marginnote Info: xpos seems to be 44.07742pt,
+Package marginnote Info: xpos seems to be 38.68724pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 18.
 Package marginnote Info: Margin note 68.4 is on absolute page 68
 (marginnote)              on input line 22.
-Package marginnote Info: xpos seems to be 44.07742pt,
+Package marginnote Info: xpos seems to be 38.68724pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 22.
 
 Overfull \hbox (9.79233pt too wide) in paragraph at lines 23--23
@@ -5005,15 +5005,15 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ] (./auto/insights/schedule.tex) [172
 
-] (./auto/mrqa/schedule.tex [173
-
-]
+] (./auto/mrqa/schedule.tex
 Overfull \hbox (1.01765pt too wide) in paragraph at lines 50--52
 []\T1/ptm/b/n/7 Synthetic Tar-get Do-main Su-per-vi-sion for Open Re-trieval QA
  (Re-vanth Gangi Reddy,
  []
 
+[173
 
+]
 Overfull \hbox (16.39642pt too wide) in paragraph at lines 56--58
 []\T1/ptm/b/n/7 Generative Con-text Pair Se-lec-tion for Multi-hop Ques-tion An
 -swer-ing (Dheeru Dua,Cicero
@@ -5558,9 +5558,6 @@ Package rerunfilecheck Info: File `handbook.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package logreq Info: Writing requests to 'handbook.run.xml'.
 \openout1 = `handbook.run.xml'.
 
@@ -5575,7 +5572,7 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 Here is how much of TeX's memory you used:
  24045 strings out of 493089
  418641 string characters out of 6134842
- 1105595 words of memory out of 5000000
+ 1105554 words of memory out of 5000000
  25738 multiletter control sequences out of 15000+600000
  43672 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -5594,7 +5591,7 @@ f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/u
 rw/times/utmri8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/zapfch
 an/uzcmi8a.pfb>
-Output written on handbook.pdf (201 pages, 3983016 bytes).
+Output written on handbook.pdf (201 pages, 3982051 bytes).
 PDF statistics:
  1378 PDF objects out of 1440 (max. 8388607)
  1082 compressed objects within 11 object streams
