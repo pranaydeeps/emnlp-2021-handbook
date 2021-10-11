@@ -40,70 +40,68 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Student Lunch}{50}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 1}{51}{section.4.4}
+\contentsline {section}{Session 2}{51}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 2}{65}{section.4.5}
+\contentsline {section}{Session 3}{65}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 3}{79}{section.4.6}
+\contentsline {section}{Session 4}{78}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 4}{92}{section.4.7}
+\contentsline {chapter}{\numberline {5}Main Conference: Monday, November 8\xspace }{91}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Main Conference: Monday, November 8\xspace }{105}{chapter.5}
+\contentsline {section}{Session 5}{92}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 5}{106}{section.5.1}
+\contentsline {section}{Session 6}{106}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 6}{120}{section.5.2}
+\contentsline {section}{Session 7}{119}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 7}{133}{section.5.3}
+\contentsline {section}{Social Event}{133}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Social Event}{147}{section.5.4}
+\contentsline {chapter}{\numberline {6}Main Conference: Tuesday, November 9\xspace }{135}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Main Conference: Tuesday, November 9\xspace }{149}{chapter.6}
+\contentsline {section}{Keynote Address: Fei-Fei Li}{136}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Keynote Address: Fei-Fei Li}{150}{section.6.1}
+\contentsline {section}{Session 8}{137}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 8}{151}{section.6.2}
+\contentsline {section}{Session 9}{150}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 9}{164}{section.6.3}
+\contentsline {chapter}{\numberline {7}Workshops: Thursday--Friday, November 10--11\xspace }{161}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Workshops: Thursday--Friday, November 10--11\xspace }{175}{chapter.7}
+\contentsline {section}{{\bfseries W22:} The 25th Conference on Computational Natural Language Learning (CoNLL)}{162}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W22:} The 25th Conference on Computational Natural Language Learning (CoNLL)}{176}{section.7.1}
+\contentsline {section}{{\bfseries W9:} 8th International Workshop on Argument Mining}{165}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W9:} 8th International Workshop on Argument Mining}{179}{section.7.2}
+\contentsline {section}{{\bfseries W16:} 2nd Workshop on Computational Approaches to Discourse (CODI)}{166}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W16:} 2nd Workshop on Computational Approaches to Discourse (CODI)}{180}{section.7.3}
+\contentsline {section}{{\bfseries W3:} 3rd Workshop on NLP for Conversational AI (NLP4ConvAI)}{169}{section.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W3:} 3rd Workshop on NLP for Conversational AI (NLP4ConvAI)}{183}{section.7.4}
+\contentsline {section}{{\bfseries W6:} CI+NLP: First Workshop on Causal Inference in NLP}{171}{section.7.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W6:} CI+NLP: First Workshop on Causal Inference in NLP}{185}{section.7.5}
+\contentsline {section}{{\bfseries W10:} The Second Workshop on Insights from Negative Results in NLP}{172}{section.7.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W10:} The Second Workshop on Insights from Negative Results in NLP}{186}{section.7.6}
+\contentsline {section}{{\bfseries W12:} The 3rd Workshop on Machine Reading for Question Answering}{173}{section.7.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W12:} The 3rd Workshop on Machine Reading for Question Answering}{187}{section.7.7}
+\contentsline {section}{{\bfseries W15:} The Natural Legal Language Processing Workshop 2021 (NLLP) }{176}{section.7.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W15:} The Natural Legal Language Processing Workshop 2021 (NLLP) }{190}{section.7.8}
+\contentsline {section}{{\bfseries W18:} SustaiNLP 2021: The Second Workshop on Simple and Efficient Natural Language Processing}{177}{section.7.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W18:} SustaiNLP 2021: The Second Workshop on Simple and Efficient Natural Language Processing}{191}{section.7.9}
+\contentsline {section}{{\bfseries W20:} Fourth Workshop on Fact Extraction and VERification (FEVER)}{178}{section.7.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W20:} Fourth Workshop on Fact Extraction and VERification (FEVER)}{192}{section.7.10}
+\contentsline {section}{{\bfseries W21:} Third Workshop on New Frontiers in Summarization (NewSum)}{179}{section.7.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W21:} Third Workshop on New Frontiers in Summarization (NewSum)}{193}{section.7.11}
+\contentsline {section}{{\bfseries W1:} 3rd Workshop on Economics and Natural Language Processing (ECONLP)}{181}{section.7.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W1:} 3rd Workshop on Economics and Natural Language Processing (ECONLP)}{195}{section.7.12}
+\contentsline {section}{{\bfseries W7:} 7th Workshop on Noisy User-generated Text (W-NUT 2021)}{182}{section.7.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W7:} 7th Workshop on Noisy User-generated Text (W-NUT 2021)}{196}{section.7.13}
+\contentsline {section}{{\bfseries W8:} The 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)}{184}{section.7.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W8:} The 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)}{198}{section.7.14}
+\contentsline {section}{{\bfseries W17:} Workshop on Evaluations and Assessments of Neural Conversation Systems}{185}{section.7.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W17:} Workshop on Evaluations and Assessments of Neural Conversation Systems}{199}{section.7.15}
+\contentsline {section}{{\bfseries W19:} Fourth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2021)}{186}{section.7.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W19:} Fourth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2021)}{200}{section.7.16}
+\contentsline {section}{{\bfseries W23:} BlackboxNLP: Analyzing and interpreting neural networks for NLP}{188}{section.7.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W23:} BlackboxNLP: Analyzing and interpreting neural networks for NLP}{202}{section.7.17}
+\contentsline {chapter}{\numberline {8}Anti-harassment policy}{189}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Anti-harassment policy}{203}{chapter.8}
+\contentsline {chapter}{Author Index}{191}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author Index}{205}{chapter.8}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Local Guide}{205}{chapter.9}
+\contentsline {chapter}{\numberline {9}Local Guide}{191}{chapter.9}

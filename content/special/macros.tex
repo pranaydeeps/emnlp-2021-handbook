@@ -492,6 +492,32 @@ Human Language Technologies}\par
       \hline\hline}
 {\hline\end{tabular}\end{center}}
 
+\newenvironment{SixSessionOverview}[8]{
+  \section[#1]{#1 Overview -- #2}
+  \setheaders{#1}{#2}
+  \begin{center}
+    \righthyphenmin2
+    \sloppy
+    \begin{tabular}{|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|}
+      \hline
+      \bf Track A & \bf Track B & \bf Track C & \bf Track D & \bf Track E & \bf Track F \\\hline
+      \it #3 & \it #4 & \it #5 & \it #6 & \it #7 & \it #8 \\
+      \hline\hline}
+{\hline\end{tabular}\end{center}}
+
+\newenvironment{SixSessionsmall}[8]{
+  \setheaders{#1}{#2}
+  \begin{center}
+    \righthyphenmin2
+    \sloppy
+    \begin{tabular}{|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|>{\RaggedRight}p{0.65in}|}
+      \hline
+      \bf Track A & \bf Track B & \bf Track C & \bf Track D & \bf Track E & \bf Track F \\\hline
+      \it #3 & \it #4 & \it #5 & \it #6 & \it #7 & \it #8 \\
+      \hline\hline}
+{\hline\end{tabular}\end{center}}
+
+
 \newcommand{\daydate}{DAY, DATE}
 \newcommand{\daydateyear}{DAY, DATE, YEAR}
 \newcommand{\setdaydateyear}[3]{
