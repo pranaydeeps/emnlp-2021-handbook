@@ -1,27 +1,26 @@
 * Wednesday, November 10, 2021
-= 0900--0905 Opening
-16 09:00--09:05 Opening Remarks
-= 0905--1020 Keynote Talks
-! 0905--0935 Keynote Talk %by Preslav Nakov
-! 0935--1005 Keynote Talk %by Maria Liakata
-! 1005--1020 Q&A
-= 1020--1100 Research Talks
+= 09:00--09:05 Opening Remarks
+= 09:05--10:20 Keynote Talks
+! 09:05--09:35 Keynote Talk %by Preslav Nakov
+! 09:35--10:05 Keynote Talk %by Maria Liakata
+! 10:05--10:20 Q&A
+= 10:20--11:00 Research Talks
 2 10:20--10:35  # Evidence Selection as a Token-Level Prediction Task
 3 10:35--10:50  # Graph Reasoning with Context-Aware Linearization for Interpretable Fact Extraction and Verification
-! 1050--1100 Q&A  
+! 10:50--11:00 Q&A
 + 11:00--11:15 Break
-= 1115--1230 Keynote Talks
-! 1115--1145 Keynote Talk %by Mirella Lapata
-! 1145--1215 Keynote Talk %by Pasquale Minervini
-! 1215--1230 Q&A
+= 11:15--12:30 Keynote Talks
+! 11:15--11:45 Keynote Talk %by Mirella Lapata
+! 11:45--12:15 Keynote Talk %by Pasquale Minervini
+! 12:15--12:30 Q&A
 + 12:30--13:30 Lunch
-= 1330--1445 Keynote and Shared Task
-! 1330--1400 Keynote Talk %by Mohit Bansal
-! 1400--1410  # The Fact Extraction and VERification Over Unstructured and Structured information (FEVEROUS) Shared Task
+= 13:30--14:45 Keynote and Shared Task
+! 13:30--14:00 Keynote Talk %by Mohit Bansal
+! 14:00--14:10  # The Fact Extraction and VERification Over Unstructured and Structured information (FEVEROUS) Shared Task
 9 14:10--14:20  # FaBULOUS: Fact-checking Based on Understanding of Language Over Unstructured and Structured information
 5 14:20--14:30  # Team Papelo at FEVEROUS: Multi-hop Evidence Pursuit
-! 1430--1445 Q&A
-= 1445--1615 Virtual Poster Session
+! 14:30--14:45 Q&A
+= 14:45--16:15 Virtual Poster Session
 4   # Modeling Entity Knowledge for Fact Verification
 6   # Verdict Inference with Claim and Retrieved Elements Using RoBERTa
 7   # Stance Detection in German News Articles
@@ -30,8 +29,8 @@
 11   # Automatic Fact-Checking with Document-level Annotations using BERT and Multiple Instance Learning
 13   # Neural Re-rankers for Evidence Retrieval in the FEVEROUS Task
 15   # An Unsupervised Fact Checking and Verification System for FEVEROUS
-= 1615--1730 Keynote Talks
-! 1615--1645 Keynote Talk %by Steven Novella
-! 1645--1715 Keynote Talk %by Brendan Nyhan
-! 1715--1730 Q&A
+= 16:15--17:30 Keynote Talks
+! 16:15--16:45 Keynote Talk %by Steven Novella
+! 16:45--17:15 Keynote Talk %by Brendan Nyhan
+! 17:15--17:30 Q&A
 + 17:30--17:45 Closing Remarks
