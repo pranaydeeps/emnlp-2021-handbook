@@ -88,15 +88,19 @@
       <file>auto/crac/papers.bib</file>
       <file>auto/eancs/papers.bib</file>
       <file>auto/econlp/papers.bib</file>
+      <file>auto/eval4nlp/papers.bib</file>
       <file>auto/fever/papers.bib</file>
       <file>auto/insights/papers.bib</file>
       <file>auto/latech-clfl/papers.bib</file>
+      <file>auto/lawdmr/papers.bib</file>
+      <file>auto/MRL/papers.bib</file>
       <file>auto/mrqa/papers.bib</file>
       <file>auto/newsum/papers.bib</file>
       <file>auto/nllp/papers.bib</file>
       <file>auto/nlp4convai/papers.bib</file>
       <file>auto/papers/papers.bib</file>
       <file>auto/sustainlp/papers.bib</file>
+      <file>auto/WiNLP/papers.bib</file>
       <file>auto/w-nut/papers.bib</file>
       <file>content/workshops/papers.bib</file>
     </requires>
