@@ -25,29 +25,29 @@
 22 13:10--14:10  # Semantic Answer Similarity for Evaluating Question Answering Models
 24 13:10--14:10  # Simple and Efficient ways to Improve REALM
 = 13:10--14:10 Poster Session (non-archival track)
-! 13:10--14:10 Synthetic Target Domain Supervision for Open Retrieval QA %by Revanth Gangi Reddy, Bhavani Iyer, Md Arafat Sultan, Rong Zhang, Avirup Sil, Vittorio Castelli, Radu Florian, Salim Roukos
-! 13:10--14:10 Entity-based Knowledge Conflicts in Question Answering %by Shayne Longpre, Kartik Perisetla, Anthony Chen, Nikhil Ramesh, Chris Dubois, Sameer Singh
-! 13:10--14:10 Mitigating False-Negative Contexts in Multi-Document Question Answering with Retrieval Marginalization %by Ansong Ni, Matt Gardner, Pradeep Dasigi
-! 13:10--14:10 Generative Context Pair Selection for Multi-hop Question Answering %by Dheeru Dua,Cicero Nogueira dos Santos,Patrick Ng,Ben Athiwaratkun,Bing Xiang,Matt Gardner,Sameer Singh
-! 13:10--14:10 Learning with Instance Bundles for Reading Comprehension %by Dheeru Dua, Pradeep Dasigi,Sameer Singh,Matt Gardner
-! 13:10--14:10 Can NLI Models Verify QA Systems’ Predictions? %by Jifan Chen, Eunsol Choi, Greg Durrett
-! 13:10--14:10 Knowing More About Questions Can Help: Improving Calibration in Question Answering %by Shujian Zhang, Chengyue Gong and Eunsol Choi
-! 13:10--14:10 RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering %by Yingqi Qu, Yuchen Ding, Jing Liu, Kai Liu, Ruiyang Ren, Wayne Xin Zhao, Daxiang Dong, Hua Wu and Haifeng Wang
-! 13:10--14:10 Weakly Supervised Pre-Training for Multi-Hop Retriever %by Yeon Seonwoo, Sang-Woo Lee, Ji-Hoon Kim, Jung-Woo Ha and Alice Oh
-! 13:10--14:10 ReasonBert: Pre-trained to Reason with Distant Supervision %by Xiang Deng, Yu Su, Alyssa Lees, You Wu, Cong Yu and Huan Sun
-! 13:10--14:10 Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework %by Abhilash Nandy, Soumya Sharma, Shubham Maddhashiya, Kapil Sachdeva, Pawan Goyal and NIloy Ganguly
-! 13:10--14:10 Do We Know What We Don't Know? Studying Unanswerable Questions beyond SQuAD 2.0 %by Elior Sulem, Jamaal Hay and Dan Roth
-! 13:10--14:10 Relation-Guided Pre-Training for Open-Domain Question Answering %by Ziniu Hu, Yizhou Sun and Kai-Wei Chang
-! 13:10--14:10 Beyond Reptile: Meta-Learned Dot-Product Maximization between Gradients for Improved Single-Task Regularization %by Akhil Kedia, Sai Chetan Chinthakindi and Wonho Ryu
-! 13:10--14:10 SD-QA: Spoken Dialectal Question Answering for the Real World %by Fahim Faisal, Sharlina Keshava, Md Mahfuz Ibn Alam and Antonios Anastasopoulos
-! 13:10--14:10 When Retriever-Reader Meets Scenario-Based Multiple-Choice Questions %by ZiXian Huang, Ao Wu, Yulin Shen, Gong Cheng and Yuzhong Qu
-! 13:10--14:10 Winnowing Knowledge for Multi-choice Question Answering %by Yeqiu Li, Bowei Zou, Zhifeng Li, Ai Ti Aw, Yu Hong and Qiaoming Zhu
-! 13:10--14:10 Extract, Integrate, Compete: Towards Verification Style Reading Comprehension %by Chen Zhang, Yuxuan Lai, Yansong Feng and Dongyan Zhao
-! 13:10--14:10 Reference-based Weak Supervision for Answer Sentence Selection using Web Data %by Vivek Krishnamurthy, Thuy Vu and Alessandro Moschitti
-! 13:10--14:10 NOAHQA: Numerical Reasoning with Interpretable Graph Question Answering Dataset %by Qiyuan Zhang, Lei Wang, SICHENG YU, Shuohang Wang, Yang Wang, Jing Jiang and Ee-Peng Lim
-! 13:10--14:10 Improving Numerical Reasoning Skills in the Modular Approach for Complex Question Answering on Text %by Xiao-Yu Guo, Yuan-Fang Li and Gholamreza Haffari
-! 13:10--14:10 R2-D2: A Modular Baseline for Open-Domain Question Answering %by Martin Fajcik, Martin Docekal, Karel Ondrej and Pavel Smrz
-! 13:10--14:10 AutoEQA: Auto-Encoding Questions for Extractive Question Answering %by Stalin Varanasi, Saadullah Amin and Guenter Neumann
+= 13:10--14:10 Synthetic Target Domain Supervision for Open Retrieval QA %by Revanth Gangi Reddy, Bhavani Iyer, Md Arafat Sultan, Rong Zhang, Avirup Sil, Vittorio Castelli, Radu Florian, Salim Roukos
+= 13:10--14:10 Entity-based Knowledge Conflicts in Question Answering %by Shayne Longpre, Kartik Perisetla, Anthony Chen, Nikhil Ramesh, Chris Dubois, Sameer Singh
+= 13:10--14:10 Mitigating False-Negative Contexts in Multi-Document Question Answering with Retrieval Marginalization %by Ansong Ni, Matt Gardner, Pradeep Dasigi
+= 13:10--14:10 Generative Context Pair Selection for Multi-hop Question Answering %by Dheeru Dua,Cicero Nogueira dos Santos,Patrick Ng,Ben Athiwaratkun,Bing Xiang,Matt Gardner,Sameer Singh
+= 13:10--14:10 Learning with Instance Bundles for Reading Comprehension %by Dheeru Dua, Pradeep Dasigi,Sameer Singh,Matt Gardner
+= 13:10--14:10 Can NLI Models Verify QA Systems’ Predictions? %by Jifan Chen, Eunsol Choi, Greg Durrett
+= 13:10--14:10 Knowing More About Questions Can Help: Improving Calibration in Question Answering %by Shujian Zhang, Chengyue Gong and Eunsol Choi
+= 13:10--14:10 RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering %by Yingqi Qu, Yuchen Ding, Jing Liu, Kai Liu, Ruiyang Ren, Wayne Xin Zhao, Daxiang Dong, Hua Wu and Haifeng Wang
+= 13:10--14:10 Weakly Supervised Pre-Training for Multi-Hop Retriever %by Yeon Seonwoo, Sang-Woo Lee, Ji-Hoon Kim, Jung-Woo Ha and Alice Oh
+= 13:10--14:10 ReasonBert: Pre-trained to Reason with Distant Supervision %by Xiang Deng, Yu Su, Alyssa Lees, You Wu, Cong Yu and Huan Sun
+= 13:10--14:10 Question Answering over Electronic Devices: A New Benchmark Dataset and a Multi-Task Learning based QA Framework %by Abhilash Nandy, Soumya Sharma, Shubham Maddhashiya, Kapil Sachdeva, Pawan Goyal and NIloy Ganguly
+= 13:10--14:10 Do We Know What We Don't Know? Studying Unanswerable Questions beyond SQuAD 2.0 %by Elior Sulem, Jamaal Hay and Dan Roth
+= 13:10--14:10 Relation-Guided Pre-Training for Open-Domain Question Answering %by Ziniu Hu, Yizhou Sun and Kai-Wei Chang
+= 13:10--14:10 Beyond Reptile: Meta-Learned Dot-Product Maximization between Gradients for Improved Single-Task Regularization %by Akhil Kedia, Sai Chetan Chinthakindi and Wonho Ryu
+= 13:10--14:10 SD-QA: Spoken Dialectal Question Answering for the Real World %by Fahim Faisal, Sharlina Keshava, Md Mahfuz Ibn Alam and Antonios Anastasopoulos
+= 13:10--14:10 When Retriever-Reader Meets Scenario-Based Multiple-Choice Questions %by ZiXian Huang, Ao Wu, Yulin Shen, Gong Cheng and Yuzhong Qu
+= 13:10--14:10 Winnowing Knowledge for Multi-choice Question Answering %by Yeqiu Li, Bowei Zou, Zhifeng Li, Ai Ti Aw, Yu Hong and Qiaoming Zhu
+= 13:10--14:10 Extract, Integrate, Compete: Towards Verification Style Reading Comprehension %by Chen Zhang, Yuxuan Lai, Yansong Feng and Dongyan Zhao
+= 13:10--14:10 Reference-based Weak Supervision for Answer Sentence Selection using Web Data %by Vivek Krishnamurthy, Thuy Vu and Alessandro Moschitti
+= 13:10--14:10 NOAHQA: Numerical Reasoning with Interpretable Graph Question Answering Dataset %by Qiyuan Zhang, Lei Wang, SICHENG YU, Shuohang Wang, Yang Wang, Jing Jiang and Ee-Peng Lim
+= 13:10--14:10 Improving Numerical Reasoning Skills in the Modular Approach for Complex Question Answering on Text %by Xiao-Yu Guo, Yuan-Fang Li and Gholamreza Haffari
+= 13:10--14:10 R2-D2: A Modular Baseline for Open-Domain Question Answering %by Martin Fajcik, Martin Docekal, Karel Ondrej and Pavel Smrz
+= 13:10--14:10 AutoEQA: Auto-Encoding Questions for Extractive Question Answering %by Stalin Varanasi, Saadullah Amin and Guenter Neumann
 + 14:10--14:30 Break
 = 14:30--16:45 Interpretability in QA Invited Talk Session
 + 14:30--15:00 Invited Talk 4 - Jonathan Berant
