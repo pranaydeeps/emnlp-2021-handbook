@@ -19,53 +19,51 @@
 ! 16:45--17:15 Oral Session 5
 ! 17:15--18:00 Invited Talk by Ana Marasović \& Q\&A
 + 18:00--18:15 Closing
-
 = Oral Sessions
-56 TBD # To what extent do human explanations of model behavior align with actual model behavior?
-65 TBD # Test Harder than You Train: Probing with Extrapolation Splits
-13 TBD # Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings
-24 TBD # The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation
-83 TBD # On the Limits of Minimal Pairs in Contrastive Evaluation
-87 TBD # What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations
-
+56 # To what extent do human explanations of model behavior align with actual model behavior?
+65 # Test Harder than You Train: Probing with Extrapolation Splits
+13 # Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings
+24 # The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation
+83 # On the Limits of Minimal Pairs in Contrastive Evaluation
+87 # What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations
 = Poster Sessions
-2 TBD # ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns___ Semantic Properties and their Prototypicality
-5 TBD # ProSPer: Probing Human and Neural Network Language Model Understanding of Spatial Perspective
-6 TBD # Can Transformers Jump Around Right in Natural Language? Assessing Performance Transfer from SCAN
-7 TBD # Transferring Knowledge from Vision to Language: How to Achieve it and how to Measure it?
-10 TBD # Discrete representations in neural models of spoken language
-12 TBD # Word Equations: Inherently Interpretable Sparse Word Embeddings through Sparse Coding
-14 TBD # A howling success or a working sea? Testing what BERT knows about metaphors
-15 TBD # How Length Prediction Influence the Performance of Non-Autoregressive Translation?
-18 TBD # On the Language-specificity of Multilingual BERT and the Impact of Fine-tuning
-22 TBD # Relating Neural Text Degeneration to Exposure Bias
-23 TBD # Efficient Explanations from Empirical Explainers
-30 TBD # Variation and generality in encoding of syntactic anomaly information in sentence embeddings
-32 TBD # Enhancing Interpretable Clauses Semantically using Pretrained Word Representation
-39 TBD # Analyzing BERT's Knowledge of Hypernymy via Prompting
-41 TBD # An in-depth look at Euclidean disk embeddings for structure preserving parsing
-42 TBD # Training Dynamic based data filtering may not work for NLP datasets
-44 TBD # Multi-Layer Random Perturbation Training for improving Model Generalization Efficiently
-51 TBD # Screening Gender Transfer in Neural Machine Translation
-52 TBD # What BERT Based Language Model Learns in Spoken Transcripts: An Empirical Study
-60 TBD # Assessing the Generalization Capacity of Pre-trained Language Models through Japanese Adversarial Natural Language Inference
-63 TBD # Investigating Negation in Pre-trained Vision-and-language Models
-66 TBD # Not all parameters are born equal: Attention is mostly what you need
-69 TBD # Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids___ Representations
-71 TBD # Learning Mathematical Properties of Integers
-74 TBD # Probing Language Models for Understanding of Temporal Expressions
-75 TBD # How Familiar Does That Sound? Cross-Lingual Representational Similarity Analysis of Acoustic Word Embeddings
-77 TBD # Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing
-78 TBD # An Investigation of Language Model Interpretability via Sentence Editing
-79 TBD # Interacting Knowledge Sources, Inspection and Analysis: Case-studies on Biomedical text processing
-81 TBD # Attacks against Ranking Algorithms with Text Embeddings: {A} Case Study on Recruitment Algorithms
-82 TBD # Controlled tasks for model analysis: Retrieving discrete information from sequences
-84 TBD # The Acceptability Delta Criterion: Testing Knowledge of Language using the Gradience of Sentence Acceptability
-85 TBD # How Does BERT Rerank Passages? An Attribution Analysis with Information Bottlenecks
-92 TBD # Do Language Models Know the Way to Rome?
-98 TBD # Exploratory Model Analysis Using Data-Driven Neuron Representations
-99 TBD # Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers
-100 TBD # BERT Has Uncommon Sense: Similarity Ranking for Word Sense BERTology
+2 # ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns___ Semantic Properties and their Prototypicality
+5 # ProSPer: Probing Human and Neural Network Language Model Understanding of Spatial Perspective
+6 # Can Transformers Jump Around Right in Natural Language? Assessing Performance Transfer from SCAN
+7 # Transferring Knowledge from Vision to Language: How to Achieve it and how to Measure it?
+10 # Discrete representations in neural models of spoken language
+12 # Word Equations: Inherently Interpretable Sparse Word Embeddings through Sparse Coding
+14 # A howling success or a working sea? Testing what BERT knows about metaphors
+15 # How Length Prediction Influence the Performance of Non-Autoregressive Translation?
+18 # On the Language-specificity of Multilingual BERT and the Impact of Fine-tuning
+22 # Relating Neural Text Degeneration to Exposure Bias
+23 # Efficient Explanations from Empirical Explainers
+30 # Variation and generality in encoding of syntactic anomaly information in sentence embeddings
+32 # Enhancing Interpretable Clauses Semantically using Pretrained Word Representation
+39 # Analyzing BERT's Knowledge of Hypernymy via Prompting
+41 # An in-depth look at Euclidean disk embeddings for structure preserving parsing
+42 # Training Dynamic based data filtering may not work for NLP datasets
+44 # Multi-Layer Random Perturbation Training for improving Model Generalization Efficiently
+51 # Screening Gender Transfer in Neural Machine Translation
+52 # What BERT Based Language Model Learns in Spoken Transcripts: An Empirical Study
+60 # Assessing the Generalization Capacity of Pre-trained Language Models through Japanese Adversarial Natural Language Inference
+63 # Investigating Negation in Pre-trained Vision-and-language Models
+66 # Not all parameters are born equal: Attention is mostly what you need
+69 # Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids___ Representations
+71 # Learning Mathematical Properties of Integers
+74 # Probing Language Models for Understanding of Temporal Expressions
+75 # How Familiar Does That Sound? Cross-Lingual Representational Similarity Analysis of Acoustic Word Embeddings
+77 # Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing
+78 # An Investigation of Language Model Interpretability via Sentence Editing
+79 # Interacting Knowledge Sources, Inspection and Analysis: Case-studies on Biomedical text processing
+81 # Attacks against Ranking Algorithms with Text Embeddings: {A} Case Study on Recruitment Algorithms
+82 # Controlled tasks for model analysis: Retrieving discrete information from sequences
+84 # The Acceptability Delta Criterion: Testing Knowledge of Language using the Gradience of Sentence Acceptability
+85 # How Does BERT Rerank Passages? An Attribution Analysis with Information Bottlenecks
+92 # Do Language Models Know the Way to Rome?
+98 # Exploratory Model Analysis Using Data-Driven Neuron Representations
+99 # Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers
+100 # BERT Has Uncommon Sense: Similarity Ranking for Word Sense BERTology
 
 = Non-archival papers (posters)
 ! Language Models Use Monotonicity to Assess NPI Licensing -- Jaap Jumelet, Milica Denic, Jakub Szymanik, Dieuwke Hupkes and Shane Steinert-Threlkeld
