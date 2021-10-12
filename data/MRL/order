@@ -1,8 +1,6 @@
 * Thursday, November 11, 2021
-= 10:00--10:30 
-43   # Language Models are Few-shot Multilingual Learners
-= 10:30--11:00 
-60   # Learning Contextualised Cross-lingual Word Embeddings and Alignments for Extremely Low-Resource Languages Using Parallel Corpora
+43 10:00--10:30 # Language Models are Few-shot Multilingual Learners
+60 10:30--11:00 # Learning Contextualised Cross-lingual Word Embeddings and Alignments for Extremely Low-Resource Languages Using Parallel Corpora
 = 11:00--12:00 
 10   # Clustering Monolingual Vocabularies to Improve Cross-Lingual Generalization
 12   # Do not neglect related languages: The case of low-resource Occitan cross-lingual word embeddings
@@ -13,10 +11,8 @@
 34   # Identifying the Importance of Content Overlap for Better Cross-lingual Embedding Mappings
 36   # On the Cross-lingual Transferability of Contextualized Sense Embeddings
 44   # Small Data? No Problem! Exploring the Viability of Pretrained Multilingual Language Models for Low-resourced Languages
-= 13:45--14:15 
-18   # Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval
-= 14:15--14:45 
-19   # VisualSem: a high-quality knowledge graph for vision and language
+18 13:45--14:15 # Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval
+19 14:15--14:45 # VisualSem: a high-quality knowledge graph for vision and language
 = 14:45--15:45 
 46   # {V}y__karana: {A} Colorless Green Benchmark for Syntactic Evaluation in Indic Languages
 55   # Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs
