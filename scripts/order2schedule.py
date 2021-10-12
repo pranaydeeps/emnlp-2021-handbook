@@ -104,8 +104,12 @@ for session in sorted(sessions.keys()):
     schedule[(day, date, year)][timerange].append(sessions[session])
 
 def sort_times(a, b):
-    ahour, amin = a[0].split('--')[0].split(':')
-    bhour, bmin = b[0].split('--')[0].split(':')
+    try:
+        ahour, amin = a[0].split('--')[0].split(':')
+        bhour, bmin = b[0].split('--')[0].split(':')
+    except:
+        print(a[0])
+        print(b[0])
     if ahour == bhour:
         return cmp(int(amin), int(bmin))
     return cmp(int(ahour), int(bhour))
@@ -127,6 +131,8 @@ def minus12(time):
 for date in dates:
     day, num, year = date
     for timerange, events in sorted(schedule[date].iteritems(), cmp=sort_times):
+        print(timerange)
+        print(events)
         start, stop = timerange.split('--')
 
         if not isinstance(events, list):

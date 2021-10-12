@@ -136,7 +136,10 @@ for date in dates:
             for event in events:
                 # A regular event
                 print >>out, '  %s & -- & %s &' % (minus12(start), minus12(stop))
-                loc = event.split(' ')[0].capitalize()
+                try:
+                    loc = event.split(' ')[0].capitalize()
+                except:
+                    print(event)
                 print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event, loc)
                 print >>out, '  \\\\'
 
