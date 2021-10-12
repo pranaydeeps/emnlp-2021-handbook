@@ -11,13 +11,13 @@
 + 9:00--9:10 Opening Remarks
 
 =  9:10--10:15 Session 1: Shared Task Overview Papers I 
-160 9:10--10:15 # Main Findings
+161 9:10--10:15 # Main Findings
 + 9:00--9:25 News Translation Task
 + 9:25--9:35 Similar Languages Translation Task
 + 9:35--9:45 Automatic Postediting Task
 + 9:45--9:55 Triangular Translation Task
 + 9:55--10:05 Indo-European Multilingual Translation Task
-+ 10:05--10:15 Large-Scale Multilingual Translation Task
+162 10:05--10:15 Large-Scale Multilingual Translation Task
 
 + 10:15--10:30 Coffee Break
 
@@ -88,7 +88,7 @@
 
 + 12:00--13:00 Lunch Break
 
-= 13:00--14:15 Session 3: Panel Discussion on Evaluation
+= 13:00--14:15 Session 3: Panel Discussion on Evaluation with Nitika Mathur (Univ. Melbourne), Benjamin Marie (NICT), Ricardo Rei (Unbabel), Tom Kocmi (Microsoft) and moderated by Markus Freitag (Google) 
 
 + 14:15--14:45 Mini Break
 
@@ -118,7 +118,7 @@
 154 9:24--9:36  # Yeganova: Overview Biomedical
 156 9:36--9:48  # Specia: Overview Quality Estimation
 159 9:48--10:00  # Libovický: Overview Unsupervised 
-+ 10:00--10:15 Metrics Task and Test Suites
+90 10:00--10:15 # Freitag: Results of the WMT21 Metric Sh...
 
 + 10:15--10:30 Coffee Break
 
@@ -168,7 +168,6 @@
 66 10:30--12:00 # Zhang: NoahNMT at WMT 2021: Dual Tran...
 
 = 10:30--12:00 Metrics Task
-90 10:30--12:00 # Freitag: Results of the WMT21 Metric Sh...
 67 10:30--12:00 # Han: cushLEPOR: Customised hLEPOR M...
 127 10:30--12:00 # Krubiński: MTEQA at WMT21 Metrics Shared ...
 81 10:30--12:00 # Rei: Are References Really Needed? ...
@@ -196,4 +195,3 @@
 + 16:15--16:45 Coffee Break
 
 = 16:45--18:15 Session 10: Machine Translation Papers from the Findings of the EMNLP
-

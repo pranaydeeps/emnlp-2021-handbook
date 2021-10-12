@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 OCT 2021 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 OCT 2021 10:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -5572,7 +5572,7 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 Here is how much of TeX's memory you used:
  24045 strings out of 493089
  418641 string characters out of 6134842
- 1105554 words of memory out of 5000000
+ 1104554 words of memory out of 5000000
  25738 multiletter control sequences out of 15000+600000
  43672 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -5591,7 +5591,7 @@ f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/u
 rw/times/utmri8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/zapfch
 an/uzcmi8a.pfb>
-Output written on handbook.pdf (201 pages, 3982051 bytes).
+Output written on handbook.pdf (201 pages, 3981660 bytes).
 PDF statistics:
  1378 PDF objects out of 1440 (max. 8388607)
  1082 compressed objects within 11 object streams
