@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#Reference-Free Word- and Sentence-Level Translation Evaluation with Token-Matching Metrics
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Christoph Wolfgang Leiter
+JobTitle#==#
+Organization#==#
+Abstract#==#Many modern machine translation evaluation metrics like BERTScore, BLEURT, COMET, MonoTransquest or XMoverScore are based on black-box language models. Hence, it is difficult to explain why these metrics return certain scores. This year’s Eval4NLP shared task tackles this challenge by searching for methods that can extract feature importance scores that correlate well with human word-level error annotations. In this paper we show that unsupervised metrics that are based on tokenmatching can intrinsically provide such scores. The submitted system interprets the similarities of the contextualized word-embeddings that are used to compute (X)BERTScore as word-level importance scores.
+Author{1}{Firstname}#=%=#Christoph Wolfgang
+Author{1}{Lastname}#=%=#Leiter
+Author{1}{Username}#=%=#chris_l
+Author{1}{Email}#=%=#christoph_leiter@web.de
+Author{1}{Affiliation}#=%=#CS Department TU Darmstadt
+
+==========

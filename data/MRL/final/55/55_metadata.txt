@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#55
+FinalPaperTitle#=%=#Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sachin Kumar
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#We present a novel technique for zero-shot paraphrase generation. 
+The key contribution is an end-to-end multilingual paraphrasing model that is trained using translated parallel corpora to generate paraphrases into "meaning spaces" -- replacing the final softmax layer with word embeddings. 
+This architectural modification, plus a training procedure that incorporates an autoencoding objective,
+enables effective parameter sharing across languages for more fluent monolingual rewriting, and facilitates fluency and diversity in the generated outputs. 
+Our continuous-output paraphrase generation models outperform zero-shot paraphrasing baselines when evaluated on two languages using a battery of computational metrics as well as in human assessment.
+Author{1}{Firstname}#=%=#Monisha
+Author{1}{Lastname}#=%=#Jegadeesan
+Author{1}{Username}#=%=#monisha.j
+Author{1}{Email}#=%=#monishaj.65@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Madras
+Author{2}{Firstname}#=%=#Sachin
+Author{2}{Lastname}#=%=#Kumar
+Author{2}{Username}#=%=#sachinkumar
+Author{2}{Email}#=%=#sachink@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#John
+Author{3}{Lastname}#=%=#Wieting
+Author{3}{Username}#=%=#wieting2
+Author{3}{Email}#=%=#jwieting@cs.cmu.edu
+Author{3}{Affiliation}#=%=#University of Illinois; TTI-Chicago; CMU
+Author{4}{Firstname}#=%=#Yulia
+Author{4}{Lastname}#=%=#Tsvetkov
+Author{4}{Username}#=%=#yulia.tsvetkov
+Author{4}{Email}#=%=#yuliats@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

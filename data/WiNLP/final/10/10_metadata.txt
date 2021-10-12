@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Multi-label Emotion Classification on Code-Mixed Text: Data and Methods
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#The Multi-label Emotion Classification task aims to identify all possible emotions in a written text that best represents the author's mental state. The majority of benchmark corpora have been developed for the English language (monolingual) using tweets. However, Multi-label Emotion Classification has not been explored for code-mixed text (English and Roman Urdu), although code-mixed text like Roman Urdu (written with English alphabets) is widely used on social media, particularly by the South Asian community. This study presents a large benchmark corpus comprising 12,000 code-mixed (English and Roman Urdu) SMS messages to fulfill this gap. Each code-mixed SMS message is annotated using a set of 12 emotions, including anger, anticipation, disgust, fear, joy, love, optimism, pessimism, sadness, surprise, trust, and neutral (no emotion). We applied Content-based methods (3-word n-gram features and eight character n-gram features) and deep learning-based methods (CNN, RNN, Bi-RNN, GRU, Bi-GRU, LSTM, and Bi-LSTM). Our CNN outperformed all other methods (Micro Precision = 0.79, Micro Recall = 0.55, Micro F1 = 0.65, and Macro F1 = 0.67).
+Author{1}{Firstname}#=%=#Iqra
+Author{1}{Lastname}#=%=#Ameer
+Author{1}{Username}#=%=#iqranlpcicipnmx
+Author{1}{Email}#=%=#iqra@nlp.cic.ipn.mx
+Author{1}{Affiliation}#=%=#Centro de Investigación en Computación, Instituto Politécnico Nacional
+Author{2}{Firstname}#=%=#Grigori
+Author{2}{Lastname}#=%=#Sidorov
+Author{2}{Email}#=%=#sidorov@cic.ipn.mx
+Author{2}{Affiliation}#=%=#Centro de Investigación en Computación, Instituto Politécnico Nacional, Mexico
+Author{3}{Firstname}#=%=#Helena
+Author{3}{Lastname}#=%=#Gómez-Adorno
+Author{3}{Email}#=%=#helena.gomez@iimas.unam.mx
+Author{3}{Affiliation}#=%=#Instituto de Investigación en Matemáticas Aplicadas y en Sistemas (IIMAS), Universidad Nacional Autónoma de México (UNAM), Ciudad de México, CDMX, México.
+Author{4}{Firstname}#=%=#Rao Muhammad Adeel
+Author{4}{Lastname}#=%=#Nawab
+Author{4}{Email}#=%=#adeelnawab@cuilahore.edu.pk
+Author{4}{Affiliation}#=%=#Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan.
+
+==========

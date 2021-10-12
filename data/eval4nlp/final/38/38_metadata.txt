@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#Validating Label Consistency in NER Data Annotation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Qingkai Zeng
+JobTitle#==#
+Organization#==#
+Abstract#==#Data annotation plays a crucial role in ensuring your named entity recognition (NER) projects are trained with the right information to learn from. Producing the most accurate labels is a challenge due to the complexity involved with annotation. Label inconsistency between multiple subsets of data annotation (e.g., training set and test set, or multiple training subsets) is an indicator of label mistakes. In this work, we present an empirical method to explore the relationship between label (in-)consistency and NER model performance. It can be used to validate the label consistency (or catches the inconsistency) in multiple sets of NER data annotation. In experiments, our method identified the label inconsistency of test data in SCIERC and CoNLL03 datasets (with 26.7% and 5.4% label mistakes). It validated the consistency in the corrected version of both datasets.
+Author{1}{Firstname}#=%=#Qingkai
+Author{1}{Lastname}#=%=#Zeng
+Author{1}{Username}#=%=#qingkaizeng
+Author{1}{Email}#=%=#qzeng@nd.edu
+Author{1}{Affiliation}#=%=#University of Notre Dame
+Author{2}{Firstname}#=%=#Mengxia
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Username}#=%=#mengxiayu
+Author{2}{Email}#=%=#myu2@nd.edu
+Author{2}{Affiliation}#=%=#University of Notre Dame
+Author{3}{Firstname}#=%=#Wenhao
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#wenhaoyu97
+Author{3}{Email}#=%=#wyu1@nd.edu
+Author{3}{Affiliation}#=%=#University of Notre Dame
+Author{4}{Firstname}#=%=#Tianwen
+Author{4}{Lastname}#=%=#Jiang
+Author{4}{Username}#=%=#twjiang
+Author{4}{Email}#=%=#jtianwen2014@163.com
+Author{4}{Affiliation}#=%=#Harbin Institute of Technology
+Author{5}{Firstname}#=%=#Meng
+Author{5}{Lastname}#=%=#Jiang
+Author{5}{Username}#=%=#mjiang89
+Author{5}{Email}#=%=#mjiang2@nd.edu
+Author{5}{Affiliation}#=%=#University of Notre Dame
+
+==========

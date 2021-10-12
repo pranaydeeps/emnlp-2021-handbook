@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Ara-Women-Hate: The first Arabic Hate Speech corpus regarding Women
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, an approach for hate speech detection against women in the Arabic community on social media (e.g. Youtube) is proposed. In the literature, similar works have been presented for other languages such as English. However, to the best of our knowledge, not much work has been conducted in the Arabic language. A new hate speech corpus (Arabic\_fr\_en) is developed using three different annotators. Three different machine learning algorithms are used, simulation results demonstrate the best performance of the Bi-LSTM model, which achieved an F1-score up to 85%.
+Author{1}{Firstname}#=%=#Imane
+Author{1}{Lastname}#=%=#Guellil
+Author{1}{Username}#=%=#researcher86
+Author{1}{Email}#=%=#i.guellil@aston.ac.uk
+Author{1}{Affiliation}#=%=#Aston university, Birmingham UK
+Author{2}{Firstname}#=%=#Ahsan
+Author{2}{Lastname}#=%=#Adeel
+Author{2}{Email}#=%=#ahsan.adeel@deepci.org
+Author{2}{Affiliation}#=%=#School of Mathematics and Computer Science, University of Wolverhampton, UK
+Author{3}{Firstname}#=%=#Faical
+Author{3}{Lastname}#=%=#Azouaou
+Author{3}{Email}#=%=#f_azouaou@esi.dz
+Author{3}{Affiliation}#=%=#Laboratoire des Méthodes de Conception des Systèmes. Ecole nationale Supérieure d’Informatique,  BP 68M, 16309, Oued-Smar, Alger, Algérie.  http://www.esi.dz
+Author{4}{Firstname}#=%=#Mohamed
+Author{4}{Lastname}#=%=#Boubred
+Author{4}{Email}#=%=#gm_boubred@esi.dz
+Author{4}{Affiliation}#=%=#Laboratoire des Méthodes de Conception des Systèmes. Ecole nationale Supérieure d’Informatique,  BP 68M, 16309, Oued-Smar, Alger, Algérie.  http://www.esi.dz
+Author{5}{Firstname}#=%=#Yousra
+Author{5}{Lastname}#=%=#Houichi
+Author{5}{Email}#=%=#gy_houichi@esi.dz
+Author{5}{Affiliation}#=%=#Laboratoire des Méthodes de Conception des Systèmes. Ecole nationale Supérieure d’Informatique,  BP 68M, 16309, Oued-Smar, Alger, Algérie.  http://www.esi.dz
+Author{6}{Firstname}#=%=#Akram Abdelhaq
+Author{6}{Lastname}#=%=#Moumna
+Author{6}{Email}#=%=#ha_moumna@esi.dz
+Author{6}{Affiliation}#=%=#Laboratoire des Méthodes de Conception des Systèmes. Ecole nationale Supérieure d’Informatique,  BP 68M, 16309, Oued-Smar, Alger, Algérie.  http://www.esi.dz
+
+==========

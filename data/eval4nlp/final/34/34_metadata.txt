@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#34
+FinalPaperTitle#=%=#Referenceless Parsing-Based Evaluation of AMR-to-English Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Emma Manning
+JobTitle#==#
+Organization#==#
+Abstract#==#Reference-based automatic evaluation metrics are notoriously limited for NLG due to their inability to fully capture the range of possible outputs. We examine a referenceless alternative: evaluating the adequacy of English sentences generated from Abstract Meaning Representation (AMR) graphs by parsing into AMR and comparing the parse directly to the input. We find that the errors introduced by automatic AMR parsing substantially limit the effectiveness of this approach, but a manual editing study indicates that as parsing improves, parsing-based evaluation has the potential to outperform most reference-based metrics.
+Author{1}{Firstname}#=%=#Emma
+Author{1}{Lastname}#=%=#Manning
+Author{1}{Username}#=%=#esm76
+Author{1}{Email}#=%=#esm76@georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Nathan
+Author{2}{Lastname}#=%=#Schneider
+Author{2}{Username}#=%=#nschneid
+Author{2}{Email}#=%=#nathan.schneider@georgetown.edu
+Author{2}{Affiliation}#=%=#Georgetown University
+
+==========

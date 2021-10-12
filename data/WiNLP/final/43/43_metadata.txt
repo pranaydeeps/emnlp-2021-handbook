@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#A Prototype Free/Open-Source Morphological Analyser and Generator for Sakha
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We present, to our knowledge, the first ever published morphological analyser and generator for Sakha, a marginalised language of Siberia. The transducer has coverage of between 87-89%, and high precision. In the development of the analyser, we have expanded linguistic knowledge about Sakha, and developed strategies for complex grammatical patterns. The transducer is already being used in downstream tasks, including computer assisted language learning applications for linguistic maintenance and computational linguistic shared tasks.
+Author{1}{Firstname}#=%=#Sardana
+Author{1}{Lastname}#=%=#Ivanova
+Author{1}{Username}#=%=#sardana.ivanova
+Author{1}{Email}#=%=#sardana.ivanova@helsinki.fi
+Author{1}{Affiliation}#=%=#University of Helsinki
+Author{2}{Firstname}#=%=#Francis
+Author{2}{Lastname}#=%=#Tyers
+Author{2}{Username}#=%=#fmt
+Author{2}{Email}#=%=#ftyers@prompsit.com
+Author{2}{Affiliation}#=%=#Indiana University
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Washington
+Author{3}{Username}#=%=#jonorthwash
+Author{3}{Email}#=%=#jwashin1@swarthmore.edu
+Author{3}{Affiliation}#=%=#Swarthmore College
+
+==========

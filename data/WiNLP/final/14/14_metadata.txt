@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#How to Make Virtual Conferences Queer-Friendly: A Guide
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Queer in AI’s demographic survey reveals that many queer scientists in AI fields do not feel fully welcome in conferences or their work environments; 85% reported a lack of role models, and 80% a lack of queer community spaces. In this extended abstract, we outline best practices for making conferences queer-friendly, which include inclusive designs of registration forms and virtual spaces, strengthening queer diversity and developing trans-inclusive publication workflow.
+Author{1}{Firstname}#=%=#Organizers of
+Author{1}{Lastname}#=%=#QueerInAI
+Author{1}{Email}#=%=#queerinai@gmail.com
+Author{1}{Affiliation}#=%=#Queer in AI
+Author{2}{Firstname}#=%=#A
+Author{2}{Lastname}#=%=#Pranav
+Author{2}{Username}#=%=#pranava
+Author{2}{Email}#=%=#cs.pranav.a@gmail.com
+Author{2}{Affiliation}#=%=#Miro AI
+Author{3}{Firstname}#=%=#MaryLena
+Author{3}{Lastname}#=%=#Bleile
+Author{3}{Email}#=%=#mbleile@smu.edu
+Author{3}{Affiliation}#=%=#Southern Methodist University
+Author{4}{Firstname}#=%=#Arjun
+Author{4}{Lastname}#=%=#Subramonian
+Author{4}{Username}#=%=#arjunsub
+Author{4}{Email}#=%=#arjunsub@ucla.edu
+Author{4}{Affiliation}#=%=#University of California, Los Angeles
+Author{5}{Firstname}#=%=#Luca
+Author{5}{Lastname}#=%=#Soldaini
+Author{5}{Username}#=%=#lucasoldaini
+Author{5}{Email}#=%=#luca@soldaini.net
+Author{5}{Affiliation}#=%=#Amazon
+Author{6}{Firstname}#=%=#Danica
+Author{6}{Lastname}#=%=#Sutherland
+Author{6}{Username}#=%=#dsuth
+Author{6}{Email}#=%=#dsuth@cs.ubc.ca
+Author{6}{Affiliation}#=%=#University of British Columbia
+Author{7}{Firstname}#=%=#Sabine
+Author{7}{Lastname}#=%=#Weber
+Author{7}{Username}#=%=#webersab
+Author{7}{Email}#=%=#s.weber@sms.ed.ac.uk
+Author{7}{Affiliation}#=%=#University of Edinburgh
+Author{8}{Firstname}#=%=#Pan
+Author{8}{Lastname}#=%=#Xu
+Author{8}{Username}#=%=#panxu
+Author{8}{Email}#=%=#panxu@cs.ucla.edu
+Author{8}{Affiliation}#=%=#University of California, Los Angeles
+
+==========

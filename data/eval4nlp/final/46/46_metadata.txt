@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#46
+FinalPaperTitle#=%=#Error Identification for Machine Translation with Metric Embedding and Attention
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Raphael Rubino
+JobTitle#==#
+Organization#==#National Institute of Information and Communications Technology, 3-5 Hikaridai, Seika-cho, Soraku-gun, Kyoto, 619-0289, Japan
+Abstract#==#Quality Estimation (QE) for Machine Translation has been shown to reach relatively high accuracy in predicting sentence-level scores, relying on pretrained contextual embeddings and human-produced quality scores. However, the lack of explanations along with decisions made by end-to-end neural models makes the results difficult to interpret. Furthermore, word-level annotated datasets are rare due to the prohibitive effort required to perform this task, while they could provide interpretable signals in addition to sentence-level QE outputs. In this paper, we propose a novel QE architecture which tackles both the word-level data scarcity and the interpretability limitations of recent approaches. Sentence-level and word-level components are jointly pretrained through an attention mechanism based on synthetic data and a set of MT metrics embedded in a common space. Our approach is evaluated on the Eval4NLP 2021 shared task and our submissions reach the first position in all language pairs. The extraction of metric-to-input attention weights show that different metrics focus on different parts of the source and target text, providing strong rationales in the decision-making process of the QE model.
+Author{1}{Firstname}#=%=#Raphael
+Author{1}{Lastname}#=%=#Rubino
+Author{1}{Username}#=%=#rafa
+Author{1}{Email}#=%=#raphael.rubino@gmail.com
+Author{1}{Affiliation}#=%=#NICT
+Author{2}{Firstname}#=%=#Atsushi
+Author{2}{Lastname}#=%=#Fujita
+Author{2}{Username}#=%=#fujita
+Author{2}{Email}#=%=#fujita@paraphrasing.org
+Author{2}{Affiliation}#=%=#National Institute of Information and Communications Technology
+Author{3}{Firstname}#=%=#Benjamin
+Author{3}{Lastname}#=%=#Marie
+Author{3}{Username}#=%=#benjamin.marie
+Author{3}{Email}#=%=#bmarie@nict.go.jp
+Author{3}{Affiliation}#=%=#NICT
+
+==========

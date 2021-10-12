@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#StoryDB: Broad Multi-language Narrative Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Yamshchikov
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents StoryDB — a broad multi-language dataset of narratives. StoryDB is a corpus of texts that includes stories in 42 different languages. Every language includes 500+ stories. Some of the languages include more than 20 000 stories. Every story is indexed across languages and labeled with tags such as a genre or a topic. The corpus shows rich topical and language variation and can serve as a resource for the study of the role of narrative in natural language processing across various languages including low resource ones. We also demonstrate how the dataset could be used to benchmark three modern multilanguage models, namely, mDistillBERT, mBERT, and XLM-RoBERTa.
+Author{1}{Firstname}#=%=#Alexey
+Author{1}{Lastname}#=%=#Tikhonov
+Author{1}{Username}#=%=#altsoph
+Author{1}{Email}#=%=#altsoph@gmail.com
+Author{1}{Affiliation}#=%=#Yandex
+Author{2}{Firstname}#=%=#Igor
+Author{2}{Lastname}#=%=#Samenko
+Author{2}{Username}#=%=#i.samenko
+Author{2}{Email}#=%=#i.samenko@mail.ru
+Author{2}{Affiliation}#=%=#Institute of Computational Technologies, Russian Academy of Sciences
+Author{3}{Firstname}#=%=#Ivan
+Author{3}{Lastname}#=%=#Yamshchikov
+Author{3}{Username}#=%=#kroniker
+Author{3}{Email}#=%=#yndx.kroniker@yandex.ru
+Author{3}{Affiliation}#=%=#LEYA Lab, Yandex, Higher School of Economics
+
+==========

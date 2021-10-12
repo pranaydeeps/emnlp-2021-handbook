@@ -1,0 +1,28 @@
+* Thursday, November 11, 2021
+= 08:45--09:00 Introduction # %chair1 Nianwen Xue
+= 09:00--11:00 Session A: Oral presentations:  # %chair1 Nianwen Xue
+= 09:00--10:00 Invited talk by Stephan Oepen: Linguistic Structure beyond Strings and Trees
+21 10:00--10:15  # Zero-shot cross-lingual Meaning Representation Transfer: Annotation of Hungarian using the Prague Functional Generative Description
+32 10:15--10:30  # Theoretical and Practical Issues in the Semantic Annotation of Four Indigenous Languages
+23 10:30--10:45  # Representing Implicit Positive Meaning of Negated Statements in AMR
+26 10:45--11:00  # AutoAspect: Automatic Annotation of Tense and Aspect for Uniform Meaning Representations
+= 11:30--13:30 Session B: Poster presentations:  # %chair1 Nianwen Xue
+= 11:30--12:00 Overview of poster presentations
+1 12:00--12:45  # Can predicate-argument relationships be extracted from UD trees?
+11 12:00--12:45  # Classifying Divergences in Cross-lingual AMR Pairs
+12 12:00--12:45  # A Linguistic Annotation Framework to Study Interactions in Multilingual Healthcare Conversational Forums
+18 12:00--12:45  # Sister Help: Data Augmentation for Frame-Semantic Role Labeling
+22 12:00--12:45  # A Corpus Study of Creating Rule-Based Enhanced Universal Dependencies for German
+24 12:00--12:45  # Subcategorizing Adverbials in Universal Conceptual Cognitive Annotation
+25 12:00--12:45  # Simplifying annotation of intersections in time normalization annotation: exploring syntactic and semantic validation
+29 12:00--12:45  # Overcoming the challenges in morphological annotation of Turkish in universal dependencies framework
+31 12:00--12:45  # Automatic Entity State Annotation using the VerbNet Semantic Parser
+33 12:00--12:45  # On Releasing Annotator-Level Labels and Information in Datasets
+= 12:45--13:30 Panel discussion: what's the future of linguistic annotation? # %chair1 Claire Bonial
+= 14:00--16:00 Session C: Oral presentations:  # %chair1 Claire Bonial
+= 14:00--15:00 Invited talk by Joyce Chai: Intuitive Physics in Commonsense Language Understanding
+5 15:00--15:15  # Increasing Sentence-Level Comprehension Through Text Classification of Epistemic Functions
+4 15:15--15:30  # Towards a Methodology Supporting Semiautomatic Annotation of HeadMovements in Video-recorded Conversations
+28 15:30--15:45  # Intensionalizing Abstract Meaning Representations: Non-Veridicality and Scope
+10 15:45--16:00  # WikiGUM: Exhaustive Entity Linking for Wikification in 12 Genres
+= 16:00--16:15 Concluding remarks # %chair1 Claire Bonial

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#IST-Unbabel 2021 Submission for the Explainable Quality Estimation Shared Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Marcos Vinicius Treviso
+JobTitle#==#
+Organization#==#
+Abstract#==#We present the joint contribution of Instituto Superior Técnico (IST) and Unbabel to the Explainable Quality Estimation (QE) shared task, where systems were submitted to two tracks: constrained (without word-level supervision) and unconstrained (with word-level supervision). For the constrained track, we experimented with several explainability methods to extract the relevance of input tokens from sentence-level QE models built on top of multilingual pre-trained transformers. Among the different tested methods, composing explanations in the form of attention weights scaled by the norm of value vectors yielded the best results. When word-level labels are used during training, our best results were obtained by using word-level predicted probabilities. We further improve the performance of our methods on the two tracks by ensembling explanation scores extracted from models trained with different pre-trained transformers, achieving strong results for in-domain and zero-shot language pairs.
+Author{1}{Firstname}#=%=#Marcos
+Author{1}{Lastname}#=%=#Treviso
+Author{1}{Username}#=%=#mtreviso
+Author{1}{Email}#=%=#marcosvtreviso@gmail.com
+Author{1}{Affiliation}#=%=#Instituto de Telecomunicações
+Author{2}{Firstname}#=%=#Nuno M.
+Author{2}{Lastname}#=%=#Guerreiro
+Author{2}{Username}#=%=#nunonmg
+Author{2}{Email}#=%=#nuno.s.guerreiro@tecnico.ulisboa.pt
+Author{2}{Affiliation}#=%=#Instituto de Telecomunicações
+Author{3}{Firstname}#=%=#Ricardo
+Author{3}{Lastname}#=%=#Rei
+Author{3}{Username}#=%=#ricardorei
+Author{3}{Email}#=%=#ricardo.rei@unbabel.com
+Author{3}{Affiliation}#=%=#Unbabel/INESC-ID
+Author{4}{Firstname}#=%=#André F. T.
+Author{4}{Lastname}#=%=#Martins
+Author{4}{Username}#=%=#afm
+Author{4}{Email}#=%=#andre.t.martins@tecnico.ulisboa.pt
+Author{4}{Affiliation}#=%=#Unbabel, Instituto de Telecomunicacoes
+
+==========

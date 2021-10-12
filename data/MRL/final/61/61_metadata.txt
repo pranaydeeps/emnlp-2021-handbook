@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#61
+FinalPaperTitle#=%=#Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Jitin Krishnan
+JobTitle#==#
+Organization#==#
+Abstract#==#Predicting user intent and detecting the corresponding slots from text are two key problems in Natural Language Understanding (NLU). Since annotated datasets are only available for a handful of languages, our work focuses particularly on a zero-shot scenario where the target language is unseen during training. In the context of zero-shot learning, this task is typically approached using representations from pre-trained multilingual language models such as mBERT or by fine-tuning on data automatically translated into the target language. We propose a novel method which augments monolingual source data using multilingual code-switching via random translations, to enhance generalizability of large multilingual language models when fine-tuning them for downstream tasks. Experiments on the MultiATIS++ benchmark show that our method leads to an average improvement of +4.2% in accuracy for the intent task and +1.8% in F1 for the slot-filling task over the state-of-the-art across 8 typologically diverse languages. We also study the impact of code-switching into different families of languages on downstream performance. Furthermore, we present an application of our method for crisis informatics using a new human-annotated tweet dataset of slot filling in English and Haitian Creole, collected during the Haiti earthquake.
+Author{1}{Firstname}#=%=#Jitin
+Author{1}{Lastname}#=%=#Krishnan
+Author{1}{Username}#=%=#jitin
+Author{1}{Email}#=%=#jktaliyil@gmail.com
+Author{1}{Affiliation}#=%=#George Mason University
+Author{2}{Firstname}#=%=#Antonios
+Author{2}{Lastname}#=%=#Anastasopoulos
+Author{2}{Username}#=%=#aanastas
+Author{2}{Email}#=%=#antonis@gmu.edu
+Author{2}{Affiliation}#=%=#George Mason University
+Author{3}{Firstname}#=%=#Hemant
+Author{3}{Lastname}#=%=#Purohit
+Author{3}{Username}#=%=#hpurohit
+Author{3}{Email}#=%=#hpurohit@gmu.edu
+Author{3}{Affiliation}#=%=#George Mason University
+Author{4}{Firstname}#=%=#Huzefa
+Author{4}{Lastname}#=%=#Rangwala
+Author{4}{Username}#=%=#hrangwal
+Author{4}{Email}#=%=#hrangwal@gmu.edu
+Author{4}{Affiliation}#=%=#George Mason University
+
+==========

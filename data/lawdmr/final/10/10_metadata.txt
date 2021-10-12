@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#WikiGUM: Exhaustive Entity Linking for Wikification in 12 Genres
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jessica Lin
+JobTitle#==#
+Organization#==#Georgetown University
+3700 O St NW, Washington, DC 20057
+Abstract#==#Previous work on Entity Linking has focused on resources targeting non-nested proper named entity mentions, often in data from Wikipedia, i.e. Wikification. In this paper, we present and evaluate WikiGUM, a fully wikified dataset, covering all mentions of named entities, including their non-named and pronominal mentions, as well as mentions nested within other mentions. The dataset covers a broad range of 12 written and spoken genres, most of which have not been included in Entity Linking efforts to date, leading to poor performance by a pretrained SOTA system in our evaluation. The availability of a variety of other annotations for the same data also enables further research on entities in context.
+Author{1}{Firstname}#=%=#Jessica
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Username}#=%=#jl8394
+Author{1}{Email}#=%=#yl1290@georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Amir
+Author{2}{Lastname}#=%=#Zeldes
+Author{2}{Username}#=%=#amirzeldes
+Author{2}{Email}#=%=#amir.zeldes@georgetown.edu
+Author{2}{Affiliation}#=%=#Georgetown University
+
+==========

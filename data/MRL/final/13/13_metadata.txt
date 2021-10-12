@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Specializing Multilingual Language Models: An Empirical Study
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ethan C. Chau
+JobTitle#==#
+Organization#==#Paul G. Allen School of Computer Science & Engineering, University of Washington
+185 E Stevens Way NE
+Seattle, WA 98195-2350 USA
+Abstract#==#Pretrained multilingual language models have become a common tool in transferring NLP capabilities to low-resource languages, often with adaptations.  In this work, we study the performance, extensibility, and interaction of two such adaptations: vocabulary augmentation and script transliteration.  Our evaluations on part-of-speech tagging, universal dependency parsing, and named entity recognition in nine diverse low-resource languages uphold the viability of these approaches while raising new questions around how to optimally adapt multilingual models to low-resource settings.
+Author{1}{Firstname}#=%=#Ethan C.
+Author{1}{Lastname}#=%=#Chau
+Author{1}{Username}#=%=#echau18
+Author{1}{Email}#=%=#echau18@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Noah A.
+Author{2}{Lastname}#=%=#Smith
+Author{2}{Username}#=%=#nasmith
+Author{2}{Email}#=%=#nasmith@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+
+==========

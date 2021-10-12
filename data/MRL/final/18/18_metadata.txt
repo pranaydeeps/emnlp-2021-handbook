@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Mr. TyDi: A Multi-lingual Benchmark for Dense Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xinyu ZHANG
+JobTitle#==#
+Organization#==#
+Abstract#==#We present Mr. TyDi, a multi-lingual benchmark dataset for mono-lingual retrieval in eleven typologically diverse languages, designed to evaluate ranking with learned dense representations. The goal of this resource is to spur research in dense retrieval techniques in non-English languages, motivated by recent observations that existing techniques for representation learning perform poorly when applied to out-of-distribution data. As a starting point, we provide zero-shot baselines for this new dataset based on a multi-lingual adaptation of DPR that we call "mDPR". Experiments show that although the effectiveness of mDPR is much lower than BM25, dense representations nevertheless appear to provide valuable relevance signals, improving BM25 results in sparse--dense hybrids. In addition to analyses of our results, we also discuss future challenges and present a research agenda in multi-lingual dense retrieval. Mr. TyDi can be downloaded at https://github.com/castorini/mr.tydi.
+Author{1}{Firstname}#=%=#Xinyu
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Username}#=%=#xzhangbx
+Author{1}{Email}#=%=#xzhangbx@gmail.com
+Author{1}{Affiliation}#=%=#David R. Cheriton School of Computer Science, University of Waterloo
+Author{2}{Firstname}#=%=#Xueguang
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Username}#=%=#xueguang
+Author{2}{Email}#=%=#x93ma@uwaterloo.ca
+Author{2}{Affiliation}#=%=#University of Waterloo
+Author{3}{Firstname}#=%=#Peng
+Author{3}{Lastname}#=%=#Shi
+Author{3}{Username}#=%=#spone
+Author{3}{Email}#=%=#spone.2014@gmail.com
+Author{3}{Affiliation}#=%=#University of Waterloo
+Author{4}{Firstname}#=%=#Jimmy
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Username}#=%=#jimmylin
+Author{4}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{4}{Affiliation}#=%=#University of Waterloo
+
+==========

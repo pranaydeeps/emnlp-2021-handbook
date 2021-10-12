@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#48
+FinalPaperTitle#=%=#Well-Defined Morphology is Sentence-Level Morphology
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#omer
+JobTitle#==#
+Organization#==#
+Abstract#==#Morphological tasks have gained decent popularity within the NLP community in the recent years, with large multi-lingual datasets providing morphological analysis of words, either in or out of context. However, the lack of a clear linguistic definition for words destines the annotative work to be incomplete and mired in inconsistencies, especially cross-linguistically.
+In this work we expand morphological inflection of words to inflection of sentences to provide true universality disconnected from orthographic traditions of white-space usage. To allow annotation for sentence-inflection we define a morphological annotation scheme by a fixed set of inflectional features. We present a small cross-linguistic dataset including semi-manually generated simple sentences in 4 typologically diverse languages annotated according to our suggested scheme, and show that the task of reinflection gets substantially more difficult but that the change of scope from words to well-defined sentences allows interface with contextualized language models.
+Author{1}{Firstname}#=%=#Omer
+Author{1}{Lastname}#=%=#Goldman
+Author{1}{Username}#=%=#omergoldman
+Author{1}{Email}#=%=#omer.goldman@gmail.com
+Author{1}{Affiliation}#=%=#Bar Ilan University
+Author{2}{Firstname}#=%=#Reut
+Author{2}{Lastname}#=%=#Tsarfaty
+Author{2}{Username}#=%=#reut
+Author{2}{Email}#=%=#reut.tsarfaty@biu.ac.il
+Author{2}{Affiliation}#=%=#Bar-Ilan University
+
+==========

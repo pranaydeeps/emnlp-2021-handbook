@@ -1,0 +1,15 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Multilingual and Multilabel Emotion Recognition using Virtual Adversarial Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Vikram Gupta
+JobTitle#==#
+Organization#==#
+Abstract#==#Virtual Adversarial Training (VAT) has been effective in learning robust models under supervised and semi-supervised settings for both computer vision and NLP tasks. However, the efficacy of VAT for multilingual and multilabel emotion recognition has not been explored before. In this work, we explore VAT for multilabel emotion recognition with a focus on leveraging unlabelled data from different languages to improve the model performance. We perform extensive semi-supervised experiments on SemEval2018 multilabel and multilingual emotion recognition dataset and show performance gains of 6.2% (Arabic), 3.8% (Spanish) and 1.8% (English) over supervised learning with same amount of labelled data (10% of training data). We also improve the existing state-of-the-art by 7%, 4.5% and 1% (Jaccard Index) for Spanish, Arabic and English respectively and perform probing experiments for understanding the impact of different layers of the contextual models.
+Author{1}{Firstname}#=%=#Vikram
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Username}#=%=#vikram-gupta
+Author{1}{Email}#=%=#vikram.nov.14@gmail.com
+Author{1}{Affiliation}#=%=#ShareChat, Bangalore
+
+==========

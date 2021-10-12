@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#52
+FinalPaperTitle#=%=#Sample Selection Guided by Domain and Task for Cross-Domain Targeted Sentiment Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#A challenge for targeted sentiment analysis is that most datasets are domain-specific and thus building supervised models for a new target domain requires substantial annotation effort. Domain adaptation for this task has two dimensions: the nature of targets and the opinion words used to describe sentiment towards the target. We present a data sampling strategy informed by domain differences across these two dimensions with the goal of selecting a small number of examples, thereby minimizing annotation effort. This obtains performance in the 86-100% range compared to the full supervised model using only ~4-15% of the full training data.
+Author{1}{Firstname}#=%=#Kasturi
+Author{1}{Lastname}#=%=#Bhattacharjee
+Author{1}{Username}#=%=#kastb
+Author{1}{Email}#=%=#kastb@amazon.com
+Author{1}{Affiliation}#=%=#Amazon, AWS AI
+Author{2}{Firstname}#=%=#Rashmi
+Author{2}{Lastname}#=%=#Gangadharaiah
+Author{2}{Username}#=%=#rgangad
+Author{2}{Email}#=%=#rgangad@amazon.com
+Author{2}{Affiliation}#=%=#AWS AI, Amazon
+Author{3}{Firstname}#=%=#Smaranda
+Author{3}{Lastname}#=%=#Muresan
+Author{3}{Username}#=%=#smuresan
+Author{3}{Email}#=%=#smara@columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+
+==========

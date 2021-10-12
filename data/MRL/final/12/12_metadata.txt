@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Do not neglect related languages: The case of low-resource Occitan cross-lingual word embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Lisa Woller
+JobTitle#==#
+Organization#==#Ludwig-Maximilians-Universität München,
+Geschwister-Scholl-Platz 1, 80539 Munich
+Abstract#==#Cross-lingual word embeddings (CLWEs) have proven indispensable for various natural language processing tasks, e.g., bilingual lexicon induction (BLI). However, the lack of data often impairs the quality of representations. Various approaches requiring only weak cross-lingual supervision were proposed, but current methods still fail to learn good CLWEs for languages with only a small monolingual corpus. We therefore claim that it is necessary to explore further datasets to improve CLWEs in low-resource setups. In this paper we propose to incorporate data of related high-resource languages. In contrast to previous approaches which leverage independently pre-trained embeddings of languages, we (i) train CLWEs for the low-resource and a related language jointly and (ii) map them to the target language to build the final multilingual space. In our experiments we focus on Occitan, a low-resource Romance language which is often neglected due to lack of resources. We leverage data from French, Spanish and Catalan for training and evaluate on the Occitan-English BLI task. By incorporating supporting languages our method outperforms previous approaches by a large margin. Furthermore, our analysis shows that the degree of relatedness between an incorporated language and the low-resource language is critically important.
+Author{1}{Firstname}#=%=#Lisa
+Author{1}{Lastname}#=%=#Woller
+Author{1}{Username}#=%=#lisa_lmu
+Author{1}{Email}#=%=#lisa_woller@web.de
+Author{1}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+Author{2}{Firstname}#=%=#Viktor
+Author{2}{Lastname}#=%=#Hangya
+Author{2}{Username}#=%=#hangyav
+Author{2}{Email}#=%=#hangyav@cis.uni-muenchen.de
+Author{2}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+Author{3}{Firstname}#=%=#Alexander
+Author{3}{Lastname}#=%=#Fraser
+Author{3}{Username}#=%=#afraser
+Author{3}{Email}#=%=#fraser@cis.uni-muenchen.de
+Author{3}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+
+==========

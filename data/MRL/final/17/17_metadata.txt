@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Learning Cross-lingual Representations for Event Coreference Resolution with Multi-view Alignment and Optimal Transport
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Thien Huu Nguyen
+JobTitle#==#
+Organization#==#University of Oregon
+1585 E 13th Ave.
+Eugene, OR 97403, USA
+Abstract#==#We study a new problem of cross-lingual transfer learning for event coreference resolution (ECR) where models trained on data from a source language are adapted for evaluations in different target languages. We introduce the first baseline model for this task based on XLM-RoBERTa, a state-of-the-art multilingual pre-trained language model. We also explore language adversarial neural networks (LANN) that present language discriminators to distinguish texts from the source and target languages to improve the language generalization for ECR. In addition, we introduce two novel mechanisms to further enhance the general representation learning of LANN, featuring: (i) multi-view alignment to penalize cross coreference-label alignment of examples in the source and target languages, and (ii) optimal transport to select close examples in the source and target languages to provide better training signals for the language discriminators. Finally, we perform extensive experiments for cross-lingual ECR from English to Spanish and Chinese to demonstrate the effectiveness of the proposed methods.
+Author{1}{Firstname}#=%=#Duy
+Author{1}{Lastname}#=%=#Phung
+Author{1}{Username}#=%=#pvduy
+Author{1}{Email}#=%=#v.duypv1@vinai.io
+Author{1}{Affiliation}#=%=#VinAI Research Vietnam
+Author{2}{Firstname}#=%=#Hieu
+Author{2}{Lastname}#=%=#Minh Tran
+Author{2}{Username}#=%=#hieutran
+Author{2}{Email}#=%=#v.hieutm4@vinai.io
+Author{2}{Affiliation}#=%=#VinAI Research Vietnam, VinUniversity
+Author{3}{Firstname}#=%=#Minh Van
+Author{3}{Lastname}#=%=#Nguyen
+Author{3}{Username}#=%=#minhgl96
+Author{3}{Email}#=%=#minhnv@cs.uoregon.edu
+Author{3}{Affiliation}#=%=#University of Oregon
+Author{4}{Firstname}#=%=#Thien Huu
+Author{4}{Lastname}#=%=#Nguyen
+Author{4}{Username}#=%=#anoperson
+Author{4}{Email}#=%=#thien@cs.uoregon.edu
+Author{4}{Affiliation}#=%=#University of Oregon
+
+==========

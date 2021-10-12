@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Simplifying annotation of intersections in time normalization annotation: exploring syntactic and semantic validation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Peiwen Su
+JobTitle#==#
+Organization#==#University Of Arizona 
+1103 E. 2nd St.
+Tucson, AZ 85721 
+USA
+Abstract#==#While annotating normalized times in food security documents, we found that the semantically compositional annotation for time normalization (SCATE) scheme required several near-duplicate annotations to get the correct semantics for expressions like Nov. 7th to 11th 2021.
+To reduce this problem, we explored replacing SCATE's Sub-Interval property with a Super-Interval property, that is, making the smallest units (e.g., 7th and 11th) rather than the largest units (e.g., 2021) the heads of the intersection chains.
+To ensure that the semantics of annotated time intervals remained unaltered despite our changes to the syntax of the annotation scheme, we applied several different techniques to validate our changes.
+These validation techniques detected and allowed us to resolve several important bugs in our automated translation from Sub-Interval to Super-Interval syntax.
+Author{1}{Firstname}#=%=#Peiwen
+Author{1}{Lastname}#=%=#Su
+Author{1}{Username}#=%=#peiwensu
+Author{1}{Email}#=%=#peiwensu@email.arizona.edu
+Author{1}{Affiliation}#=%=#University of Arizona
+Author{2}{Firstname}#=%=#Steven
+Author{2}{Lastname}#=%=#Bethard
+Author{2}{Username}#=%=#steven.bethard
+Author{2}{Email}#=%=#bethard@arizona.edu
+Author{2}{Affiliation}#=%=#University of Arizona
+
+==========

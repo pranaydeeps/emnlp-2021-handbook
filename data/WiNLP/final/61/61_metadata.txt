@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#61
+FinalPaperTitle#=%=#How Well Can an Agent Understand Different Accents?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We evaluate several state-of-the-art automatic speech recognition systems on dialogue agent-directed English speech from speakers with General American vs. non-American accents. Our results show that the performance of the speech recognizers for non-American accents is considerably worse than for General American accents, with ~20% higher (relative difference) word error rate on average. This work demonstrates the need for more diligent collection of and training on non-native English speaker data in order to narrow this performance gap. There are performance differences across recognizers, and while the same general pattern holds, with more errors for non-American accents, there are some accents for which the best recognizer is different than in the overall case. We expect these results to be useful for dialogue system designers in developing more robust, inclusive dialogue systems.
+Author{1}{Firstname}#=%=#Divya
+Author{1}{Lastname}#=%=#Tadimeti
+Author{1}{Username}#=%=#dtadimeti
+Author{1}{Email}#=%=#dtadimeti@berkeley.edu
+Author{1}{Affiliation}#=%=#USC Institute for Creative Technologies
+Author{2}{Firstname}#=%=#Kallirroi
+Author{2}{Lastname}#=%=#Georgila
+Author{2}{Username}#=%=#kgeorgila
+Author{2}{Email}#=%=#kgeorgila@ict.usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California Institute for Creative Technologies
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Traum
+Author{3}{Username}#=%=#traum
+Author{3}{Email}#=%=#traum@ict.usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California Institute for Creative Technologies
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Explaining Errors in Machine Translation with Absolute Gradient Ensembles
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Melda Eksi
+JobTitle#==#
+Organization#==#Technical University of Darmstadt
+Karolinenplatz 5
+64289 Darmstadt
+Germany
+Abstract#==#Current research on quality estimation of machine translation focuses on the sentence-level quality of the translations. By using explainability methods, we can use these quality estimations for word-level error identification.
+In this work, we compare different explainability techniques and investigate gradient-based and perturbation-based methods by measuring their performance and required computational efforts.
+Throughout our experiments, we observed that using absolute word scores boosts the performance of gradient-based explainers significantly. Further, we combine explainability methods to ensembles to exploit the strengths of individual explainers to get better explanations. We propose the usage of absolute gradient-based methods. These work comparably well to popular perturbation-based ones while being more time-efficient.
+Author{1}{Firstname}#=%=#Melda
+Author{1}{Lastname}#=%=#Eksi
+Author{1}{Username}#=%=#melexi
+Author{1}{Email}#=%=#melda.eksi@stud.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#Technical University of Darmstadt
+Author{2}{Firstname}#=%=#Erik
+Author{2}{Lastname}#=%=#Gelbing
+Author{2}{Email}#=%=#erik.gelbing@stud.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#Technical University of Darmstadt
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Stieber
+Author{3}{Email}#=%=#jonathan.stieber@stud.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#Technical University of Darmstadt
+Author{4}{Firstname}#=%=#Chi Viet
+Author{4}{Lastname}#=%=#Vu
+Author{4}{Email}#=%=#chiviet.vu@stud.tu-darmstadt.de
+Author{4}{Affiliation}#=%=#Technical University of Darmstadt
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#57
+FinalPaperTitle#=%=#Shaking Syntactic Trees on the Sesame Street: Multilingual Probing with Controllable Perturbations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#20
+CopyrightSigned#=%=#EA
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent research has adopted a new experimental field centered around the concept of text perturbations which has revealed that shuffled word order has little to no impact on the downstream performance of Transformer-based language models across many NLP tasks. These findings contradict the common understanding of how the models encode hierarchical and structural information and even question if the word order is modeled with position embeddings. To this end, this paper proposes nine probing datasets organized by the type of controllable text perturbation for three Indo-European languages with a varying degree of word order flexibility: English, Swedish and Russian. Based on the probing analysis of the M-BERT and M-BART models, we report that the syntactic sensitivity depends on the language and model pre-training objectives. We also find that the sensitivity grows across layers together with the increase of the perturbation granularity. Last but not least, we show that the models barely use the positional information to induce syntactic trees from their intermediate self-attention and contextualized representations.
+Author{1}{Firstname}#=%=#Ekaterina
+Author{1}{Lastname}#=%=#Taktasheva
+Author{1}{Username}#=%=#evtaktasheva
+Author{1}{Email}#=%=#evtaktasheva@gmail.com
+Author{1}{Affiliation}#=%=#HSE University
+Author{2}{Firstname}#=%=#Vladislav
+Author{2}{Lastname}#=%=#Mikhailov
+Author{2}{Username}#=%=#vmkhlv
+Author{2}{Email}#=%=#vmikhailovhse@gmail.com
+Author{2}{Affiliation}#=%=#Sberbank, SberDevices
+Author{3}{Firstname}#=%=#Ekaterina
+Author{3}{Lastname}#=%=#Artemova
+Author{3}{Username}#=%=#artemovae
+Author{3}{Email}#=%=#ekaterina.l.artemova@gmail.com
+Author{3}{Affiliation}#=%=#HSE University and Huawei  Noah’s Ark lab
+
+==========

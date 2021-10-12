@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#TEET! Tunisian Dataset for Toxic Speech Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Hatem Haddad
+JobTitle#==#
+Organization#==#iCompass, 49 rue de marseille Tunis Tunisia
+Abstract#==#The complete freedom of expression in social media has its costs especially in spreading harmful and abusive content that may induce people to act accordingly. Therefore, the need of detecting automatically such a content becomes an urgent task that will help and enhance the efficiency in limiting this toxic spread. Compared to other Arabic dialects which are mostly based on MSA, the Tunisian dialect is a combination of many other languages like MSA, Tamazight, Italian and French. Because of its rich language, dealing with NLP problems can be challenging due to the lack of large annotated datasets. In our context of detecting hate and abusive speech for tunisian dialect, the only existing annotated dataset is T-HSAB combining 6,039 annotated comments as hateful, abusive or normal. In this paper we are introducing a larger annotated dataset composed of approximately 10k of comments. We provide an in-depth exploration of its vocabulary as well as the results of the classification performance of machine learning classifiers like NB and SVM and deep learning models such as ARBERT, MARBERT and XLM-R.
+Author{1}{Firstname}#=%=#Slim
+Author{1}{Lastname}#=%=#Gharbi
+Author{1}{Email}#=%=#slim.gharbi@medtech.tn
+Author{1}{Affiliation}#=%=#iCompass
+Author{2}{Firstname}#=%=#Hatem
+Author{2}{Lastname}#=%=#Haddad
+Author{2}{Username}#=%=#hatemhaddad
+Author{2}{Email}#=%=#haddad.hatem@gmail.com
+Author{2}{Affiliation}#=%=#iCompass
+Author{3}{Firstname}#=%=#Mayssa
+Author{3}{Lastname}#=%=#Kchaou
+Author{3}{Email}#=%=#mayssakchaou933@gmail.com
+Author{3}{Affiliation}#=%=#iCompass
+Author{4}{Firstname}#=%=#Heger
+Author{4}{Lastname}#=%=#Arfaoui
+Author{4}{Email}#=%=#heger.arfaoui@medtech.tn
+Author{4}{Affiliation}#=%=#Mediterranean Institute of Technology
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#65
+FinalPaperTitle#=%=#Detecting Gender Bias using Explainability
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Explanations for AI systems have been used to improve the trustworthiness of these systems. These explanations can be used to find the undesirable implicit biases that machine learning models can rely on for their outputs. We apply this concept to detect gender bias in sentiment analysis models for textual data. With the help of an Equity Evaluation Corpus (EEC), we use different gender signals for otherwise identical input to the system and use explanations from LIME and SHAP to find a trend of bias, and identify terms that contribute the most to it.
+Author{1}{Firstname}#=%=#Gauri
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Username}#=%=#gaurigupta
+Author{1}{Email}#=%=#gaurigupta.315@gmail.com
+Author{1}{Affiliation}#=%=#Manipal Institute of Technology
+Author{2}{Firstname}#=%=#Supriti
+Author{2}{Lastname}#=%=#Vijay
+Author{2}{Username}#=%=#supritivijay
+Author{2}{Email}#=%=#supriti.vijay@gmail.com
+Author{2}{Affiliation}#=%=#Manipal Institute Of Technology
+Author{3}{Firstname}#=%=#Krithika
+Author{3}{Lastname}#=%=#Ramesh
+Author{3}{Username}#=%=#krithikar
+Author{3}{Email}#=%=#kramesh.tlw@gmail.com
+Author{3}{Affiliation}#=%=#Manipal Institute of Technology
+
+==========

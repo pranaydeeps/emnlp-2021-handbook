@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#Language Models are Few-shot Multilingual Learners
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#GENTA INDRA WINATA
+JobTitle#==#
+Organization#==#The Hong Kong University of Science and Technology
+Abstract#==#General-purpose language models have demonstrated impressive capabilities, performing on par with state-of-the-art approaches on a range of downstream natural language processing (NLP) tasks and benchmarks when inferring instructions from very few examples. Here, we evaluate the multilingual skills of the GPT and T5 models in conducting multi-class classification on non-English languages without any parameter updates. We show that, given a few English examples as context, pre-trained language models can predict not only English test samples but also non-English ones. Finally, we find the in-context few-shot cross-lingual prediction results of language models are significantly better than random prediction, and they are competitive compared to the existing state-of-the-art cross-lingual models and translation models.
+Author{1}{Firstname}#=%=#Genta Indra
+Author{1}{Lastname}#=%=#Winata
+Author{1}{Username}#=%=#giwinata
+Author{1}{Email}#=%=#giwinata@connect.ust.hk
+Author{1}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Andrea
+Author{2}{Lastname}#=%=#Madotto
+Author{2}{Username}#=%=#andreamad8
+Author{2}{Email}#=%=#amadotto@connect.ust.hk
+Author{2}{Affiliation}#=%=#The Hong Kong University Of Science and Technology
+Author{3}{Firstname}#=%=#Zhaojiang
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Username}#=%=#zlinao
+Author{3}{Email}#=%=#zlinao@connect.ust.hk
+Author{3}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+Author{4}{Firstname}#=%=#Rosanne
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#mimosavvy@gmail.com
+Author{4}{Affiliation}#=%=#Google Brain
+Author{5}{Firstname}#=%=#Jason
+Author{5}{Lastname}#=%=#Yosinski
+Author{5}{Email}#=%=#jason@yosinski.com
+Author{5}{Affiliation}#=%=#ML Collective
+Author{6}{Firstname}#=%=#Pascale
+Author{6}{Lastname}#=%=#Fung
+Author{6}{Username}#=%=#pascale
+Author{6}{Email}#=%=#pascale@ece.ust.hk
+Author{6}{Affiliation}#=%=#Hong Kong University of Science and Technology
+
+==========

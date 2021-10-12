@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Differential Evaluation: a Qualitative Analysis of Natural Language Processing System Behavior Based Upon Data Resistance to Processing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Lucie Gianola
+JobTitle#==#
+Organization#==#LISN Campus universitaire bât 507
+Rue du Belvedère
+F - 91405 Orsay cedex 
+FRANCE
+Abstract#==#Most of the time, when dealing with a particular Natural Language Processing task, systems are compared on the basis of global statistics such as recall, precision, F1-score, etc. While such scores provide a general idea of the behavior of these systems, they ignore a key piece of information that can be useful for assessing progress and discerning remaining challenges: the relative difficulty of test instances. To address this shortcoming, we introduce the notion of differential evaluation which effectively defines a pragmatic partition of instances into gradually more difficult bins by leveraging the predictions made by a set of systems. Comparing systems along these difficulty bins enables us to produce a finer-grained analysis of their relative merits, which we illustrate on two use-cases: a comparison of systems participating in a multi-label text classification task (CLEF eHealth 2018 ICD-10 coding), and a comparison of neural models trained for biomedical entity detection (BioCreative V chemical-disease relations dataset).
+Author{1}{Firstname}#=%=#Lucie
+Author{1}{Lastname}#=%=#Gianola
+Author{1}{Email}#=%=#lucie.gianola@universite-paris-saclay.fr
+Author{1}{Affiliation}#=%=#LISN, CNRS, Université Paris Saclay
+Author{2}{Firstname}#=%=#Hicham
+Author{2}{Lastname}#=%=#El Boukkouri
+Author{2}{Username}#=%=#helboukkouri
+Author{2}{Email}#=%=#helboukkouri@gmail.com
+Author{2}{Affiliation}#=%=#LIMSI, CNRS, Université Paris-Saclay
+Author{3}{Firstname}#=%=#Cyril
+Author{3}{Lastname}#=%=#Grouin
+Author{3}{Username}#=%=#grouin
+Author{3}{Email}#=%=#cyril.grouin@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI-CNRS
+Author{4}{Firstname}#=%=#Thomas
+Author{4}{Lastname}#=%=#Lavergne
+Author{4}{Username}#=%=#lavergne
+Author{4}{Email}#=%=#lavergne@limsi.fr
+Author{4}{Affiliation}#=%=#LIMSI/CNRS & Université Paris Sud
+Author{5}{Firstname}#=%=#Patrick
+Author{5}{Lastname}#=%=#Paroubek
+Author{5}{Username}#=%=#pap
+Author{5}{Email}#=%=#pap@limsi.fr
+Author{5}{Affiliation}#=%=#University Paris-Saclay - CNRS - LISN
+Author{6}{Firstname}#=%=#Pierre
+Author{6}{Lastname}#=%=#Zweigenbaum
+Author{6}{Username}#=%=#pierre
+Author{6}{Email}#=%=#pz@limsi.fr
+Author{6}{Affiliation}#=%=#LIMSI, CNRS, Université Paris-Saclay
+
+==========

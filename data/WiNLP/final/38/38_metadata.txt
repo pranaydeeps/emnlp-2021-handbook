@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#Exploring Transfer Learning Pathways for Neural Machine Back Translation of Eskimo-Aleut, Chicham, and Classical Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Back translations are an important resource for those reviewing the quality of candidate translations. We explore various transfer learning techniques to create automated back translations in low resource scenarios with neural machine translation models. Results from Eskimo-Aleut, Chicham, and classical languages suggest that transfer learning using related language data improves back translation quality, even when the domain of the related language data does not match the target domain.
+Author{1}{Firstname}#=%=#Aaron
+Author{1}{Lastname}#=%=#Serianni
+Author{1}{Username}#=%=#serianni
+Author{1}{Email}#=%=#aaron.n.serianni@gmail.com
+Author{1}{Affiliation}#=%=#SIL International
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#Whitenack
+Author{2}{Username}#=%=#dwhitena
+Author{2}{Email}#=%=#dan_whitenack@sil.org
+Author{2}{Affiliation}#=%=#SIL International
+
+==========

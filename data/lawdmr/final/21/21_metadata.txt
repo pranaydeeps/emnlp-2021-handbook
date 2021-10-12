@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Zero-shot cross-lingual Meaning Representation Transfer: Annotation of Hungarian using the Prague Functional Generative Description
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Attila Novák
+JobTitle#==#
+Organization#==#Pázmány Péter Catholic University
+Abstract#==#In this paper, we present the results of our experiments concerning the zero-shot cross-lingual performance of the PERIN sentence-to-graph semantic parser. We applied the PTG model trained using the PERIN parser on a 740k-token Czech newspaper corpus to Hungarian. We evaluated the performance of the parser using the official evaluation tool of the MRP 2020 shared task. The gold standard Hungarian annotation was created by manual correction of the output of the parser following the annotation manual of the tectogrammatical level of the Prague Dependency Treebank. An English model trained on a larger one-million-token English newspaper corpus is also available, however, we found that the Czech model performed significantly better on Hungarian input due to the fact that Hungarian is typologically more similar to Czech than to English. We have found that zero-shot transfer of the PTG meaning representation across typologically not-too-distant languages using a neural parser model based on a multilingual contextual language model followed by a manual correction by linguist experts seems to be a viable scenario.
+Author{1}{Firstname}#=%=#Attila
+Author{1}{Lastname}#=%=#Novák
+Author{1}{Username}#=%=#novakat
+Author{1}{Email}#=%=#novak.attila@itk.ppke.hu
+Author{1}{Affiliation}#=%=#MTA-PPKE Hungarian Language Technology Research Group, Faculty of Information Technology and Bionics, Pázmány Péter Catholic University, Budapest
+Author{2}{Firstname}#=%=#Borbála
+Author{2}{Lastname}#=%=#Novák
+Author{2}{Username}#=%=#sikbo
+Author{2}{Email}#=%=#novak.borbala@itk.ppke.hu
+Author{2}{Affiliation}#=%=#MTA-PPKE Hungarian Language Technology Research Group, Faculty of Information Technology and Bionics, Pázmány Péter Catholic University
+Author{3}{Firstname}#=%=#Csilla
+Author{3}{Lastname}#=%=#Novák
+Author{3}{Email}#=%=#ncsilla2@gmail.com
+Author{3}{Affiliation}#=%=#Pázmány Péter Catholic University
+
+==========

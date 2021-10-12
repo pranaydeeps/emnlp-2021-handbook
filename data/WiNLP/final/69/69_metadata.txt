@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#69
+FinalPaperTitle#=%=#Leveraging ultradense embeddings to analyze gender-oriented extremist recruitment targeting
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#The Islamic State of Iraq and the Levant (ISIL) has a history of being antagonistic to females, yet its current digital recruitment technique expands female investment. This is exhibited by the recent stories of Aqsa Mahmood, Jaelyn Delshaun Young, Shamima Begum, and Hoda Muthana. 
+    Understanding ISIL's recruitment approach may help with counter-terrorism efforts. In this paper, we show significant language style distinctions in social media messages by ISIL that are designed to recruit each gender. We analyze and highlight some of these differences and other surprising similarities. For our analysis, we use a data set of 18M ISIL-related tweets written in 2015, obtained from researchers at the Stanford Network Analysis Project.
+Author{1}{Firstname}#=%=#Jatin
+Author{1}{Lastname}#=%=#Khilnani
+Author{1}{Username}#=%=#jatin03k
+Author{1}{Email}#=%=#jatin.khilnani@nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Rasika
+Author{2}{Lastname}#=%=#Bhalerao
+Author{2}{Email}#=%=#rvb255@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Tatenda
+Author{3}{Lastname}#=%=#Ndambakuwa
+Author{3}{Email}#=%=#tn1133@nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+Author{4}{Firstname}#=%=#Maxwell
+Author{4}{Lastname}#=%=#Aliapoulios
+Author{4}{Email}#=%=#mma570@nyu.edu
+Author{4}{Affiliation}#=%=#New York University
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#42
+FinalPaperTitle#=%=#Explorations in Transfer Learning for OCR Post-Correction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#In this abstract, we explore transfer learning to improve optical character recognition (OCR) post-correction, specifically for endangered language texts. We extend an existing OCR post-correction model (Rijhwani et al., 2020) by introducing an additional pretraining step on related data, such as text in a related language or available target endangered language datasets that may differ in orthography. Although cross-lingual transfer is often successful in high-resource settings, our preliminary results show that transferring from related language data decreases performance for this task. On the other hand, we observe small improvements in performance when transferring from additional target language data.
+Author{1}{Firstname}#=%=#Lindia
+Author{1}{Lastname}#=%=#Tjuatja
+Author{1}{Username}#=%=#ltjuatja
+Author{1}{Email}#=%=#lindia.tjuatja@utexas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Firstname}#=%=#Shruti
+Author{2}{Lastname}#=%=#Rijhwani
+Author{2}{Username}#=%=#shrutirijhwani
+Author{2}{Email}#=%=#srijhwan@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Graham
+Author{3}{Lastname}#=%=#Neubig
+Author{3}{Username}#=%=#gneubig
+Author{3}{Email}#=%=#gneubig@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

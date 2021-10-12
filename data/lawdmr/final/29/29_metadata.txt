@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Overcoming the challenges in morphological annotation of Turkish in universal dependencies framework
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Seyyit Talha Bedir
+JobTitle#==#Author
+Organization#==#Boğaziçi University, Istanbul, Turkey
+Abstract#==#This paper presents several challenges faced when annotating Turkish treebanks in accordance with the  Universal Dependencies (UD) guidelines and proposes solutions to address them. Most of these challenges stem from the lack of adequate support in the UD framework to accurately represent null morphemes and complex derivations, which results in a significant loss of information for Turkish. This loss negatively impacts the tools that are developed based on these treebanks. We raised and discussed these issues within the community on the official UD portal. This paper presents these issues and our proposals to more accurately represent morphosyntactic information for Turkish while adhering to guidelines of UD. This work aims to contribute to the representation of Turkish and other agglutinative languages in UD-based treebanks, which in turn aids to develop more accurately annotated datasets for such languages.
+Author{1}{Firstname}#=%=#Talha
+Author{1}{Lastname}#=%=#Bedir
+Author{1}{Username}#=%=#talhabedir
+Author{1}{Email}#=%=#stalhabedir@gmail.com
+Author{1}{Affiliation}#=%=#Boğaziçi University
+Author{2}{Firstname}#=%=#Karahan
+Author{2}{Lastname}#=%=#Şahin
+Author{2}{Email}#=%=#karahan.sahin@boun.edu.tr
+Author{2}{Affiliation}#=%=#Boğaziçi University
+Author{3}{Firstname}#=%=#Onur
+Author{3}{Lastname}#=%=#Gungor
+Author{3}{Username}#=%=#onurgu
+Author{3}{Email}#=%=#onurgu@gmail.com
+Author{3}{Affiliation}#=%=#Bogazici University
+Author{4}{Firstname}#=%=#Suzan
+Author{4}{Lastname}#=%=#Uskudarli
+Author{4}{Username}#=%=#uskudarli
+Author{4}{Email}#=%=#suzan.uskudarli@boun.edu.tr
+Author{4}{Affiliation}#=%=#Bogazici University
+Author{5}{Firstname}#=%=#Arzucan
+Author{5}{Lastname}#=%=#Özgür
+Author{5}{Username}#=%=#arzucani
+Author{5}{Email}#=%=#arzucan.ozgur@boun.edu.tr
+Author{5}{Affiliation}#=%=#Bogazici University
+Author{6}{Firstname}#=%=#Tunga
+Author{6}{Lastname}#=%=#Güngör
+Author{6}{Username}#=%=#gungort
+Author{6}{Email}#=%=#gungort@boun.edu.tr
+Author{6}{Affiliation}#=%=#Bogazici University
+Author{7}{Firstname}#=%=#Balkiz
+Author{7}{Lastname}#=%=#Ozturk Basaran
+Author{7}{Username}#=%=#balkiz.ozturk
+Author{7}{Email}#=%=#balkiz.ozturk@boun.edu.tr
+Author{7}{Affiliation}#=%=#Bogazici University
+
+==========

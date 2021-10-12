@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Analysis of Zero-Shot Crosslingual Learning between English and Korean for Named Entity Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Jongin Kim
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents a English-Korean parallel dataset that collects 381K news articles where 1,400 of them, comprising 10K sentences, are manually labeled for crosslingual named entity recognition (NER). The annotation guidelines for the two languages are developed in parallel, that yield the inter-annotator agreement scores of 91 and 88% for English and Korean respectively, indicating sublime quality annotation in our dataset. Three types of crosslingual learning approaches, direct model transfer, embedding projection, and annotation projection, are used to develop zero-shot Korean NER models. Our best model gives the F1-score of 51% that is very encouraging, considering the extremely distinct natures of these two languages. This is pioneering work that explores zero-shot cross-lingual learning between English and Korean and provides rich parallel annotation for a core NLP task such as named entity recognition.
+Author{1}{Firstname}#=%=#Jongin
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Username}#=%=#zzoliman
+Author{1}{Email}#=%=#jongin.kim@yonsei.ac.kr
+Author{1}{Affiliation}#=%=#Yonsei University
+Author{2}{Firstname}#=%=#Nayoung
+Author{2}{Lastname}#=%=#Choi
+Author{2}{Username}#=%=#skdudenql11
+Author{2}{Email}#=%=#skdudenql11@naver.com
+Author{2}{Affiliation}#=%=#Digital Analytics, Yonsei University
+Author{3}{Firstname}#=%=#Seunghyun
+Author{3}{Lastname}#=%=#Lim
+Author{3}{Username}#=%=#slim72
+Author{3}{Email}#=%=#seung.hyun.lim@emory.edu
+Author{3}{Affiliation}#=%=#Emory University
+Author{4}{Firstname}#=%=#Jungwhan
+Author{4}{Lastname}#=%=#Kim
+Author{4}{Username}#=%=#jungwhank
+Author{4}{Email}#=%=#jungwhan.kim.24@gmail.com
+Author{4}{Affiliation}#=%=#Yonsei University
+Author{5}{Firstname}#=%=#Soojin
+Author{5}{Lastname}#=%=#Chung
+Author{5}{Username}#=%=#soojinc
+Author{5}{Email}#=%=#socheon1130@gmail.com
+Author{5}{Affiliation}#=%=#Yonsei University
+Author{6}{Firstname}#=%=#Hyunsoo
+Author{6}{Lastname}#=%=#Woo
+Author{6}{Username}#=%=#hyunsoow
+Author{6}{Email}#=%=#wkat@yonsei.ac.kr
+Author{6}{Affiliation}#=%=#Yonsei University
+Author{7}{Firstname}#=%=#Min
+Author{7}{Lastname}#=%=#Song
+Author{7}{Username}#=%=#min.song
+Author{7}{Email}#=%=#min.song@yonsei.ac.kr
+Author{7}{Affiliation}#=%=#Yonsei Univ.
+Author{8}{Firstname}#=%=#Jinho D.
+Author{8}{Lastname}#=%=#Choi
+Author{8}{Username}#=%=#jdchoi77
+Author{8}{Email}#=%=#jinho.choi@emory.edu
+Author{8}{Affiliation}#=%=#Emory University
+
+==========

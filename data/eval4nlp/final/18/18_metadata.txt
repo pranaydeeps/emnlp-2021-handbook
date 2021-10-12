@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Error-Sensitive Evaluation for Ordinal Target Variables
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#David Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Product reviews and satisfaction surveys seek customer feedback in the form of ranked scales. In these settings, widely used evaluation metrics including F1 and accuracy ignore the rank in the responses (e.g., ‘very likely’ is closer to ‘likely’ than ‘not at all’). In this paper, we hypothesize that the order of class values is important for evaluating classifiers on ordinal target variables and should not be disregarded. To test this hypothesis, we compared Multi-class Classification (MC) and Ordinal Regression (OR) by applying OR and MC to benchmark tasks involving ordinal target variables using the same underlying model architecture. Experimental results show that while MC outperformed OR for some datasets in accuracy and F1, OR is significantly better than MC for minimizing the error between prediction and target for all benchmarks, as revealed by error-sensitive metrics, e.g. mean-squared error (MSE) and Spearman correlation. Our findings motivate the need to establish consistent, error-sensitive metrics for evaluating benchmarks with ordinal target variables, and we hope that it stimulates interest in exploring alternative losses for ordinal problems.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#dzchen
+Author{1}{Email}#=%=#dzchen314@gmail.com
+Author{1}{Affiliation}#=%=#Capital One
+Author{2}{Firstname}#=%=#Maury
+Author{2}{Lastname}#=%=#Courtland
+Author{2}{Username}#=%=#mcourtlandc1
+Author{2}{Email}#=%=#maury.courtland@capitalone.com
+Author{2}{Affiliation}#=%=#Capital One
+Author{3}{Firstname}#=%=#Adam
+Author{3}{Lastname}#=%=#Faulkner
+Author{3}{Email}#=%=#adam.faulkner@capitalone.com
+Author{3}{Affiliation}#=%=#Capital One
+Author{4}{Firstname}#=%=#Aysu
+Author{4}{Lastname}#=%=#Ezen-Can
+Author{4}{Email}#=%=#aysu.ezencan@capitalone.com
+Author{4}{Affiliation}#=%=#Capital One
+
+==========

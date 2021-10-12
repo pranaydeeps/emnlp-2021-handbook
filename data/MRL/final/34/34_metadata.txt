@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#34
+FinalPaperTitle#=%=#Identifying the Importance of Content Overlap for Better Cross-lingual Embedding Mappings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Cserháti Réka
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Szeged, Hungary
+6722 Szeged, Árpád tér 2.
+Abstract#==#In this work, we analyze the performance and properties of cross-lingual word embedding models created by mapping-based alignment methods.
+We use several measures of corpus and embedding similarity to predict BLI scores of cross-lingual embedding mappings over three types of corpora, three embedding methods and 55 language pairs.
+Our experimental results corroborate that instead of mere size, the amount of common content in the training corpora is essential. This phenomenon manifests in that i) despite of the smaller corpus sizes, using only the comparable parts of Wikipedia for training the monolingual embedding spaces to be mapped is often more efficient than relying on all the contents of Wikipedia, ii) the smaller, in return less diversified Spanish Wikipedia works almost always much better as a training corpus for bilingual mappings than the ubiquitously used English Wikipedia.
+Author{1}{Firstname}#=%=#Réka
+Author{1}{Lastname}#=%=#Cserháti
+Author{1}{Username}#=%=#xerevity
+Author{1}{Email}#=%=#cserhatir@gmail.com
+Author{1}{Affiliation}#=%=#University of Szeged
+Author{2}{Firstname}#=%=#Gábor
+Author{2}{Lastname}#=%=#Berend
+Author{2}{Email}#=%=#berendg@inf.u-szeged.hu
+Author{2}{Affiliation}#=%=#University of Szeged
+
+==========

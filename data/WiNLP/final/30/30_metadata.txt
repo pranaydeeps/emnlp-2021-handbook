@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#One-Shot Lexicon Learning for Low-Resource Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Current machine translation methods struggle to translate phrases that contain words that appear infrequently in the training data. Low-resource languages in particular are harmed by this because they have such little data that rare words may only be seen once. This issue can be partly addressed using approaches that explicitly incorporate word-level translation lexicons (Akyurek and Andreas, 2021). However, existing approaches for constructing these lexicons require either substantial human annotation or large datasets. We propose a model for few-shot learning of lexical translation rules. Our approach enables neural machine translation models to efficiently learn translations of infrequent words. In experiments on low-resource English→Spanish translation, our approach yields BLEU improvements on sentences containing words seen only once during training.
+Author{1}{Firstname}#=%=#Anjali
+Author{1}{Lastname}#=%=#Kantharuban
+Author{1}{Username}#=%=#anjaliruban
+Author{1}{Email}#=%=#anjaliruban@berkeley.edu
+Author{1}{Affiliation}#=%=#University of California, Berkeley
+Author{2}{Firstname}#=%=#Jacob
+Author{2}{Lastname}#=%=#Andreas
+Author{2}{Username}#=%=#jacobandreas
+Author{2}{Email}#=%=#jda@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+
+==========

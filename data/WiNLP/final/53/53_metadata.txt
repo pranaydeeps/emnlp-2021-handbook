@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#53
+FinalPaperTitle#=%=#Bengali Parallel Universal Dependency Treebank
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents a Parallel Universal Dependency (PUD) treebank for the Indo-Aryan
+language, Bengali. The treebank consists of 1000 Bengali sentences created using a
+parallel corpus of English-Bengali and Hindi-Bengali. We use both the English and Hindi
+corpus from the Universal Dependency (UD) repository and subsequently the English
+corpus acts as the source text. The corpus was then translated and annotated in Bengali
+from scratch based on universal parts of speech tag, language specific parts of speech tag
+and syntactic levels. The paper also presents an illustration on the linguistic analysis of
+the PUD treebank.
+Author{1}{Firstname}#=%=#Pritha
+Author{1}{Lastname}#=%=#Majumdar
+Author{1}{Username}#=%=#prithamajumdar
+Author{1}{Email}#=%=#pritha.majumdar2014@gmail.com
+Author{1}{Affiliation}#=%=#Panlingua Language Processing, LLP at New Delhi
+
+==========

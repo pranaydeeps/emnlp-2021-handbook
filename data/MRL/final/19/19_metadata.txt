@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#VisualSem: a high-quality knowledge graph for vision and language
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Iacer Calixto
+JobTitle#==#Research associate
+Organization#==#Institute for Logic, Language and Computation at the University of Amsterdam. Science Park 107, Amsterdam, NL.
+Abstract#==#An exciting frontier in natural language understanding (NLU) and generation (NLG) calls for (vision-and-) language models that can efficiently access external structured knowledge repositories. However, many existing knowledge bases only cover limited domains, or suffer from noisy data, and most of all are typically hard to integrate into neural language pipelines. To fill this gap, we release VisualSem: a high-quality knowledge graph (KG) which includes nodes with multilingual glosses, multiple illustrative images, and visually relevant relations. We also release a neural multi-modal retrieval model that can use images or sentences as inputs and retrieves entities in the KG. This multi-modal retrieval model can be integrated into any (neural network) model pipeline. We encourage the research community to use VisualSem for data augmentation and/or as a source of grounding, among other possible uses. VisualSem as well as the multi-modal retrieval models are publicly available and can be downloaded in this URL: https://github.com/iacercalixto/visualsem.
+Author{1}{Firstname}#=%=#Houda
+Author{1}{Lastname}#=%=#Alberts
+Author{1}{Email}#=%=#houda1996@hotmail.com
+Author{1}{Affiliation}#=%=#Rond Consulting
+Author{2}{Firstname}#=%=#Ningyuan
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Username}#=%=#nhuang37
+Author{2}{Email}#=%=#sass1213teresa@gmail.com
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Yash
+Author{3}{Lastname}#=%=#Deshpande
+Author{3}{Username}#=%=#yashd94
+Author{3}{Email}#=%=#yd1282@nyu.edu
+Author{3}{Affiliation}#=%=#NYU
+Author{4}{Firstname}#=%=#Yibo
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Username}#=%=#yibo.liu
+Author{4}{Email}#=%=#yl6769@nyu.edu
+Author{4}{Affiliation}#=%=#New York University
+Author{5}{Firstname}#=%=#Kyunghyun
+Author{5}{Lastname}#=%=#Cho
+Author{5}{Username}#=%=#kyunghyun.cho
+Author{5}{Email}#=%=#kyunghyun.cho@nyu.edu
+Author{5}{Affiliation}#=%=#New York University
+Author{6}{Firstname}#=%=#Clara
+Author{6}{Lastname}#=%=#Vania
+Author{6}{Username}#=%=#cvania
+Author{6}{Email}#=%=#clara.vaniia@gmail.com
+Author{6}{Affiliation}#=%=#Amazon
+Author{7}{Firstname}#=%=#Iacer
+Author{7}{Lastname}#=%=#Calixto
+Author{7}{Username}#=%=#icalixto
+Author{7}{Email}#=%=#calixto.iacer@gmail.com
+Author{7}{Affiliation}#=%=#New York University
+
+==========

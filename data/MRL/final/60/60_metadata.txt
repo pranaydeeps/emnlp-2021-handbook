@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#60
+FinalPaperTitle#=%=#Learning Contextualised Cross-lingual Word Embeddings and Alignments for Extremely Low-Resource Languages Using Parallel Corpora
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Takashi Wada
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a new approach for learning contextualised cross-lingual word embeddings based on a small parallel corpus (e.g. a few hundred sentence pairs). Our method obtains word embeddings via an LSTM encoder-decoder model that simultaneously translates and reconstructs an input sentence. Through sharing model parameters among different languages, our model jointly trains the word embeddings in a common cross-lingual space. We also propose to combine word and subword embeddings to make use of orthographic similarities across different languages. We base our experiments on real-world data from endangered languages, namely Yongning Na, Shipibo-Konibo, and Griko. Our experiments on bilingual lexicon induction and word alignment tasks show that our model outperforms existing methods by a large margin for most language pairs. These results demonstrate that, contrary to common belief, an encoder-decoder translation model is beneficial for learning cross-lingual representations even in extremely low-resource conditions. Furthermore, our model also works well on high-resource conditions, achieving state-of-the-art performance on a German-English word-alignment task.
+Author{1}{Firstname}#=%=#Takashi
+Author{1}{Lastname}#=%=#Wada
+Author{1}{Username}#=%=#t.wada
+Author{1}{Email}#=%=#takashi.wada@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Tomoharu
+Author{2}{Lastname}#=%=#Iwata
+Author{2}{Username}#=%=#tomoharu.iwata
+Author{2}{Email}#=%=#tomoharu.iwata.gy@hco.ntt.co.jp
+Author{2}{Affiliation}#=%=#NTT
+Author{3}{Firstname}#=%=#Yuji
+Author{3}{Lastname}#=%=#Matsumoto
+Author{3}{Username}#=%=#matsu
+Author{3}{Email}#=%=#yuji.matsumoto@riken.jp
+Author{3}{Affiliation}#=%=#Riken Center for Advanced Intelligence Project
+Author{4}{Firstname}#=%=#Timothy
+Author{4}{Lastname}#=%=#Baldwin
+Author{4}{Username}#=%=#tbaldwin
+Author{4}{Email}#=%=#tb@ldwin.net
+Author{4}{Affiliation}#=%=#The University of Melbourne
+Author{5}{Firstname}#=%=#Jey Han
+Author{5}{Lastname}#=%=#Lau
+Author{5}{Username}#=%=#jeyhan
+Author{5}{Email}#=%=#jeyhan.lau@gmail.com
+Author{5}{Affiliation}#=%=#The University of Melbourne
+
+==========

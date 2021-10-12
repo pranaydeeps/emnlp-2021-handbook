@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#Elementary-Level Math Word Problem Generation using Pre-Trained Transformers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#A math word problem(MWP) is a narrative with a specific topic that provides clues to the correct equation with numerical quantities and variables therein. Unlike other question types, MWPs are expressed in mathematical language and it requires solving ability.
+
+In our paper, we presented two approaches to generate MWPs by fine-tuning the OpenAI GPT-2 and T5 pre-trained models.  Our results have shown the high accuracy and creativity of the generated MWPs. Our research can be considered as the first attempt to generate MWPs using Transformer models. For our future work, we hope to add more mathematical constraints based techniques to generate MWPs and we are planning to provide multilingualism by using transformer-based translation approaches.
+Author{1}{Firstname}#=%=#Kashyapa
+Author{1}{Lastname}#=%=#Niyarepola
+Author{1}{Username}#=%=#kashyapa
+Author{1}{Email}#=%=#kashyapabandara.17@cse.mrt.ac.lk
+Author{1}{Affiliation}#=%=#University of Moratuwa
+Author{2}{Firstname}#=%=#Savindu
+Author{2}{Lastname}#=%=#Ekanayake
+Author{2}{Username}#=%=#savindu
+Author{2}{Email}#=%=#savinduekanayake.17@cse.mrt.ac.lk
+Author{2}{Affiliation}#=%=#University of Moratuwa
+Author{3}{Firstname}#=%=#Dineth
+Author{3}{Lastname}#=%=#Athapaththu
+Author{3}{Username}#=%=#dineth
+Author{3}{Email}#=%=#dinethnaradaam.17@cse.mrt.ac.lk
+Author{3}{Affiliation}#=%=#University Of Moratuwa
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=##WhyDidTheyStay: An NLP-driven approach to analyzing the factors that affect domestic violence victims
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper uses domain-specific data extracted from publicly available posts on social media platforms, Reddit and Twitter, to analyze and provide insight into the various psychosocioeconomic
+(Schmidt and Willis, 2007) factors that affect domestic violence survivors and contribute to their
+reluctance to leave abusive relationships. We propose a methodology that employs an unsupervised machine learning algorithm and natural language processing to extract abstractive topics from
+a large corpus of unstructured text. Further, we determine the distribution of these factors across
+the psychosocioeconomic spectrum and provide a few recommendations for policymakers based
+on the results of our analysis.
+Author{1}{Firstname}#=%=#Marthala
+Author{1}{Lastname}#=%=#Kavya
+Author{1}{Username}#=%=#saikavya
+Author{1}{Email}#=%=#saikavya27@gmail.com
+Author{1}{Affiliation}#=%=#Manipal Institute of Technology
+Author{2}{Firstname}#=%=#Smriti
+Author{2}{Lastname}#=%=#Singh
+Author{2}{Username}#=%=#smritisingh26
+Author{2}{Email}#=%=#smritisingh26@yahoo.com
+Author{2}{Affiliation}#=%=#Manipal Institute of Technology
+
+==========

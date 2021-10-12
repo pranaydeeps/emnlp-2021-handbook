@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#EM ALBERT: a step towards equipping Manipuri for NLP
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Availability of language technology benefits the value of the language and its existence on the digital platform, especially for minoritized languages. This paper introduces equipping a less-resourced Indian language called Manipuri (locally known as Meiteilon) with its first available ALBERT model that we call EM ALBERT (EM stands for "Ema-lon Manipuri," which translates to "our mother language Manipuri"). EM ALBERT will be made available for use to the NLP community.
+Author{1}{Firstname}#=%=#Rudali
+Author{1}{Lastname}#=%=#Huidrom
+Author{1}{Username}#=%=#rudali.huidrom
+Author{1}{Email}#=%=#rudali.huidrom@ruri.waseda.jp
+Author{1}{Affiliation}#=%=#Waseda University
+Author{2}{Firstname}#=%=#Yves
+Author{2}{Lastname}#=%=#Lepage
+Author{2}{Username}#=%=#yves.lepage
+Author{2}{Email}#=%=#yves.lepage@waseda.jp
+Author{2}{Affiliation}#=%=#Waseda University
+
+==========

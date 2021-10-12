@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#42
+FinalPaperTitle#=%=#The UMD Submission to the Explainable MT Quality Estimation Shared Task: Combining Explanation Models with Sequence Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Tasnim Kabir
+JobTitle#==#
+Organization#==#University of Maryland-- College Park
+Brendan Iribe Center for Computer Science and Engineering 
+8125, Paint Branch Dr, College Park, MD 20742
+Abstract#==#This paper describes the UMD submission to the Explainable Quality Estimation Shared Task at the EMNLP 2021 Workshop on "Evaluation & Comparison of NLP Systems". We participated in the word-level and sentence-level MT Quality Estimation (QE) constrained tasks for all language pairs: Estonian-English, Romanian-English, German-Chinese, and Russian-German. Our approach combines the predictions of a word-level explainer model on top of a sentence-level QE model and a sequence labeler trained on synthetic data.  These models are based on pre-trained multilingual language models and do not require any word-level annotations for training, making them well suited to zero-shot settings.  Our best-performing system improves over the best baseline across all metrics and language pairs, with an average gain of 0.1 in AUC, Average Precision, and Recall at Top-K score.
+Author{1}{Firstname}#=%=#Tasnim
+Author{1}{Lastname}#=%=#Kabir
+Author{1}{Username}#=%=#tkabir1
+Author{1}{Email}#=%=#tkabir1@umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland --College Park
+Author{2}{Firstname}#=%=#Marine
+Author{2}{Lastname}#=%=#Carpuat
+Author{2}{Username}#=%=#marinecarpuat
+Author{2}{Email}#=%=#marine@cs.umd.edu
+Author{2}{Affiliation}#=%=#University of Maryland
+
+==========

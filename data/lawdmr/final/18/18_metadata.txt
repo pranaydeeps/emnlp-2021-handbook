@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Sister Help: Data Augmentation for Frame-Semantic Role Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Swabha Swayamdipta
+JobTitle#==#
+Organization#==#Allen Institute for AI
+Abstract#==#While FrameNet is widely regarded as a rich resource of semantics in natural language processing, a major criticism concerns its lack of coverage and the relative paucity of its labeled data compared to other commonly used lexical resources such as PropBank and VerbNet. This paper reports on a pilot study to address these gaps. We propose a data augmentation approach, which uses existing frame-specific annotation to automatically annotate other lexical units of the same frame which are unannotated. Our rule-based approach defines the notion of a **sister lexical unit** and generates frame-specific augmented data for training. We present experiments on frame-semantic role labeling which demonstrate the importance of this data augmentation: we obtain a large improvement to prior results on frame identification and argument identification for FrameNet, utilizing both full-text and lexicographic annotations under FrameNet. Our findings on data augmentation highlight the value of automatic resource creation for improved models in frame-semantic parsing.
+Author{1}{Firstname}#=%=#Ayush
+Author{1}{Lastname}#=%=#Pancholy
+Author{1}{Email}#=%=#yush.pancholy@berkeley.edu
+Author{1}{Affiliation}#=%=#University of California, Berkeley
+Author{2}{Firstname}#=%=#Miriam R L
+Author{2}{Lastname}#=%=#Petruck
+Author{2}{Username}#=%=#miriam
+Author{2}{Email}#=%=#miriamp@icsi.berkeley.edu
+Author{2}{Affiliation}#=%=#International Computer Science Institute
+Author{3}{Firstname}#=%=#Swabha
+Author{3}{Lastname}#=%=#Swayamdipta
+Author{3}{Username}#=%=#swabha
+Author{3}{Email}#=%=#swabhas@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute for Artificial Intelligence; University of Washington
+
+==========

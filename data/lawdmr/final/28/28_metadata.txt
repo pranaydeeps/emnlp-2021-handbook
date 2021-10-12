@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#Intensionalizing Abstract Meaning Representations: Non-Veridicality and Scope
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gregor Williamson
+JobTitle#==#
+Organization#==#Emory University, Atlanta (GA) 30322, USA
+Abstract#==#Abstract Meaning Representation (AMR) is a graphical meaning representation language designed to represent propositional information about argument structure. However, at present it is unable to satisfyingly represent non-veridical intensional contexts, often licensing inappropriate inferences. In this paper, we show how to resolve the problem of non-veridicality without appealing to layered graphs through a mapping from AMRs into Simply-Typed Lambda Calculus (STLC). At least for some cases, this requires the introduction of a new role :content which functions as an intensional operator. The translation proposed is inspired by the formal linguistics literature on the event semantics of attitude reports. Next, we address the interaction of quantifier scope and intensional operators in so-called de re/de dicto ambiguities. We adopt a scope node from the literature and provide an explicit multidimensional semantics utilizing Cooper storage which allows us to derive the de re and de dicto scope readings as well as intermediate scope readings which prove difficult for accounts without a scope node.
+Author{1}{Firstname}#=%=#Gregor
+Author{1}{Lastname}#=%=#Williamson
+Author{1}{Username}#=%=#gregor_williamson
+Author{1}{Email}#=%=#gregor.jude.williamson@emory.edu
+Author{1}{Affiliation}#=%=#Emory University
+Author{2}{Firstname}#=%=#Patrick
+Author{2}{Lastname}#=%=#Elliott
+Author{2}{Username}#=%=#patrickdelliott
+Author{2}{Email}#=%=#pdell@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#Yuxin
+Author{3}{Lastname}#=%=#Ji
+Author{3}{Username}#=%=#yuxinji
+Author{3}{Email}#=%=#ji.yuxin@hotmail.com
+Author{3}{Affiliation}#=%=#Emory University
+
+==========

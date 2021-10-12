@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#57
+FinalPaperTitle#=%=#Evaluating automatic difficulty estimation \\ of logic formalization exercises
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We evaluated the difficulty estimation algorithm for logic formalization problems proposed by Perikos et al. (2016) by correlating the difficulty scores it produced for a set of exercises with empirical measures of difficulty, the proportion of students who solved an exercise correctly on the first try and the average number of attempts. The correlation was moderate, suggesting that while the algorithm captures important factors which contribute to students' difficulty, there is a lot of variation it does not capture. We conducted a detailed error analysis, which revealed two additional factors which contribute to difficulty, namely pragmatics and typicality of the exercise, and suggested a revision of the way the effect of word order should be computed.
+Author{1}{Firstname}#=%=#Alexandra
+Author{1}{Lastname}#=%=#Mayn
+Author{1}{Username}#=%=#smayn
+Author{1}{Email}#=%=#alexandra.mayn@gmail.com
+Author{1}{Affiliation}#=%=#Carleton College
+Author{2}{Firstname}#=%=#Kees
+Author{2}{Lastname}#=%=#van Deemter
+Author{2}{Username}#=%=#k.vdeemter
+Author{2}{Email}#=%=#c.j.vandeemter@uu.nl
+Author{2}{Affiliation}#=%=#Utrecht University
+
+==========

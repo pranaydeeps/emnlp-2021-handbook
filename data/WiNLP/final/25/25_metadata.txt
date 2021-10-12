@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Coral: An Approach for Conversational Agents in Mental Health Applications
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#It may be difficult for some individuals to open up and share their thoughts and feelings in front of a mental health expert. For those who are more at ease with a virtual agent, conversational agents can serve as an intermediate step in the right direction. The conversational agent must, therefore, be empathetic and able to conduct free-flowing conversations. To this effect, we present an approach for creating a generative empathetic open-domain chatbot that can be used for mental health applications. We leverage large scale pre-training and empathetic conversational data to make the responses more empathetic in nature and a multiturn dialogue arrangement to maintain context. Our models achieve state-of-the-art results on the Empathetic Dialogues test set.
+Author{1}{Firstname}#=%=#Harsh
+Author{1}{Lastname}#=%=#Sakhrani
+Author{1}{Username}#=%=#harshsakhrani
+Author{1}{Email}#=%=#harshsakhrani26@gmail.com
+Author{1}{Affiliation}#=%=#Pune Institute of Computer Technology
+Author{2}{Firstname}#=%=#Saloni
+Author{2}{Lastname}#=%=#Parekh
+Author{2}{Email}#=%=#saloniparekh1609@gmail.com
+Author{2}{Affiliation}#=%=#Pune Institute of Computer Technology
+Author{3}{Firstname}#=%=#Shubham
+Author{3}{Lastname}#=%=#Mahajan
+Author{3}{Email}#=%=#svmahajan8899@gmail.com
+Author{3}{Affiliation}#=%=#Pune Institute of Computer Technology
+
+==========

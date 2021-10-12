@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#ESTIME: Estimation of Summary-to-Text Inconsistency by Mismatched Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Oleg Vasilyev
+JobTitle#==#
+Organization#==#Primer Technologies
+Abstract#==#We propose a new reference-free summary quality evaluation measure, with emphasis on the faithfulness. The measure is based on finding and counting all probable potential inconsistencies of the summary with respect to the source document. The proposed ESTIME, Estimator of Summary-to-Text Inconsistency by Mismatched Embeddings, correlates with expert scores in summary-level SummEval dataset stronger than other common evaluation measures not only in Consistency but also in Fluency. We also introduce a method of generating subtle factual errors in human summaries. We show that ESTIME is more sensitive to subtle errors than other common evaluation measures.
+Author{1}{Firstname}#=%=#Oleg
+Author{1}{Lastname}#=%=#Vasilyev
+Author{1}{Username}#=%=#oleg
+Author{1}{Email}#=%=#vasilyev.oleg@gmail.com
+Author{1}{Affiliation}#=%=#Primer Technologies
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Bohannon
+Author{2}{Username}#=%=#bohannon
+Author{2}{Email}#=%=#john@johnbohannon.org
+Author{2}{Affiliation}#=%=#Primer
+
+==========

@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#AutoAspect: Automatic Annotation of Tense and Aspect for Uniform Meaning Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Daniel Chen
+JobTitle#==#
+Organization#==#University of Colorado Boulder
+Abstract#==#We present AutoAspect, a novel, rule-based annotation tool for labeling tense and aspect. The pilot version annotates English data. The aspect labels are designed specifically for Uniform Meaning Representations (UMR), an annotation schema that aims to encode crosslingual semantic information. The annotation tool combines syntactic and semantic cues to assign aspects on a sentence-by-sentence basis, following a sequence of rules that each output a UMR aspect. Identified events proceed through the sequence until they are assigned an aspect. We achieve a recall of 76.17% for identifying UMR events and an accuracy of 62.57% on all identified events, with high precision values for 2 of the aspect labels.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Username}#=%=#dchensta
+Author{1}{Email}#=%=#daniel.chen-1@colorado.edu
+Author{1}{Affiliation}#=%=#University of Colorado Boulder
+Author{2}{Firstname}#=%=#Martha
+Author{2}{Lastname}#=%=#Palmer
+Author{2}{Email}#=%=#martha.palmer@colorado.edu
+Author{2}{Affiliation}#=%=#University of Colorado Boulder
+Author{3}{Firstname}#=%=#Meagan
+Author{3}{Lastname}#=%=#Vigus
+Author{3}{Email}#=%=#mlvigus@gmail.com
+Author{3}{Affiliation}#=%=#University of New Mexico
+
+==========

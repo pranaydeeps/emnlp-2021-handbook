@@ -1,0 +1,37 @@
++ 9:00--9:10 Opening Remarks
++ 9:15--9:55 Keynote Talk 1
+= 10:00--10:40 Paper Presentation Session 1
+2   # Statistically Significant Detection of Semantic Shifts using Contextual Word Embeddings
+7   # Developing a Benchmark for Reducing Data Bias in Authorship Attribution
+9   # ESTIME: Estimation of Summary-to-Text Inconsistency by Mismatched Embeddings
+10   # Testing Cross-Database Semantic Parsers With Canonical Utterances
++ 10:45--11:25 Keynote Talk 2
+= 11:30--12:10 Paper Presentation Session 2
+16   # Writing Style Author Embedding Evaluation
+17   # HinGE: A Dataset for Generation and Evaluation of Code-Mixed Hinglish Text
+18   # Error-Sensitive Evaluation for Ordinal Target Variables
+19   # MIPE: A Metric Independent Pipeline for Effective Code-Mixed NLG Evaluation
++ 12:15--12:55 Keynote Talk 3
+= 13:00--14:00 Lunch Break
++ 14:00--14:40 Keynote Talk 4
+= 14:45--15:25 Paper Presentation Session 3
+20   # SeqScore: Addressing Barriers to Reproducible Named Entity Recognition Evaluation
+21   # How Emotionally Stable is ALBERT? Testing Robustness with Stochastic Weight Averaging on a Sentiment Analysis Task
+23   # StoryDB: Broad Multi-language Narrative Dataset
+26   # What is SemEval evaluating? A Systematic Analysis of Evaluation Campaigns in NLP
+27   # Differential Evaluation: a Qualitative Analysis of Natural Language Processing System Behavior Based Upon Data Resistance to Processing
++ 15:30--16:10 Keynote Talk 5
+= 16:15--16:55 Paper Presentation Session 4
+30   # Trainable Ranking Models to Evaluate the Semantic Accuracy of Data-to-Text Neural Generator
+34   # Referenceless Parsing-Based Evaluation of AMR-to-English Generation
+35   # Evaluation of Unsupervised Automatic Readability Assessors Using Rank Correlations
+38   # Validating Label Consistency in NER Data Annotation
+= 17:00--17:45 Award Announcment & Shared Task Winners Presentation
+47   # The Eval4NLP Shared Task on Explainable Quality Estimation: Overview and Results
+41   # IST-Unbabel 2021 Submission for the Explainable Quality Estimation Shared Task
+42   # The UMD Submission to the Explainable MT Quality Estimation Shared Task: Combining Explanation Models with Sequence Labeling
+43   # Reference-Free Word- and Sentence-Level Translation Evaluation with Token-Matching Metrics
+44   # Explaining Errors in Machine Translation with Absolute Gradient Ensembles
+45   # Explainable Quality Estimation: CUNI Eval4NLP Submission
+46   # Error Identification for Machine Translation with Metric Embedding and Attention
+= 17:50--18:00 Concluding Remarks

@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#A Linguistic Annotation Framework to Study Interactions in Multilingual Healthcare Conversational Forums
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ishani Mondal
+JobTitle#==#
+Organization#==#Microsoft Research Labs India
+9 Lavelle Road
+Bangalore 560001
+India
+Abstract#==#In recent years, remote digital healthcare using online chats has gained momentum, especially in the Global South. Though prior work has studied interaction patterns in online (health) forums, such as TalkLife, Reddit and Facebook, there has been limited work in understanding interactions in small, close-knit community of instant messengers. In this paper, we propose a linguistic annotation framework to facilitate analysis of health-focused WhatsApp groups. The primary aim of the framework is to understand interpersonal relationships among peer supporters in order to help develop NLP solutions for remote patient care and reduce burden of overworked healthcare providers. Our framework consists of fine-grained peer support categorization and message-level sentiment tagging. Additionally, due to the prevalence of code-mixing in such groups, we incorporate word-level language annotations. We use the proposed framework to study two WhatsApp groups in Kenya for  youth living with HIV, facilitated by a healthcare provider.
+Author{1}{Firstname}#=%=#Ishani
+Author{1}{Lastname}#=%=#Mondal
+Author{1}{Username}#=%=#ishani
+Author{1}{Email}#=%=#t-imonda@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft
+Author{2}{Firstname}#=%=#Kalika
+Author{2}{Lastname}#=%=#Bali
+Author{2}{Username}#=%=#kalikab
+Author{2}{Email}#=%=#kalikab@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Labs
+Author{3}{Firstname}#=%=#Mohit
+Author{3}{Lastname}#=%=#Jain
+Author{3}{Username}#=%=#mohitj
+Author{3}{Email}#=%=#mohitj@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington, Seattle
+Author{4}{Firstname}#=%=#Monojit
+Author{4}{Lastname}#=%=#Choudhury
+Author{4}{Username}#=%=#monojit
+Author{4}{Email}#=%=#monojitc@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+Author{5}{Firstname}#=%=#Ashish
+Author{5}{Lastname}#=%=#Sharma
+Author{5}{Username}#=%=#ashshar
+Author{5}{Email}#=%=#ashshar@cs.washington.edu
+Author{5}{Affiliation}#=%=#Paul G. Allen School of Computer Science and Engineering, University of Washington
+Author{6}{Firstname}#=%=#Evans
+Author{6}{Lastname}#=%=#Gitau
+Author{6}{Email}#=%=#evangitz@gmail.com
+Author{6}{Affiliation}#=%=#The Technical University of Kenya
+Author{7}{Firstname}#=%=#Jacki
+Author{7}{Lastname}#=%=#O’Neill
+Author{7}{Email}#=%=#jacki.oneill@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft Research
+Author{8}{Firstname}#=%=#Kagonya
+Author{8}{Lastname}#=%=#Awori
+Author{8}{Email}#=%=#kagonyaawori@microsoft.com
+Author{8}{Affiliation}#=%=#Microsoft Research
+Author{9}{Firstname}#=%=#Sarah
+Author{9}{Lastname}#=%=#Gitau
+Author{9}{Email}#=%=#sarahgitau102@gmail.com
+Author{9}{Affiliation}#=%=#Mount Kenya University
+
+==========

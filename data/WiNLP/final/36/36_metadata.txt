@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#Occupational Gender stereotypes in Indic Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#As the use of Natural Language Processing systems increases, there is a need to address
+the gender bias in these systems. While research is being done in the English language
+to quantify and eliminate bias, it is not the same for Indic Languages. Most Indic
+languages are gendered, i.e., each noun is assigned a gender. Therefore, evaluation differs
+from what is done in English. In this paper, we evaluate and find occupational bias
+in Indic languages. We prepare a dataset of gender neutral occupations and gendered
+occupation pairs, in Hindi and Marathi.
+Author{1}{Firstname}#=%=#Neeraja
+Author{1}{Lastname}#=%=#Kirtane
+Author{1}{Username}#=%=#neerajak
+Author{1}{Email}#=%=#kirtane.neeraja@gmail.com
+Author{1}{Affiliation}#=%=#Manipal Academy of Higher Education
+Author{2}{Firstname}#=%=#Tanvi
+Author{2}{Lastname}#=%=#Anand
+Author{2}{Username}#=%=#tanvi15
+Author{2}{Email}#=%=#tanviaanand@gmail.com
+Author{2}{Affiliation}#=%=#Manipal Academy of Higher Education
+
+==========

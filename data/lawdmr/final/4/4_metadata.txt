@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Towards a Methodology Supporting Semiautomatic Annotation of HeadMovements in Video-recorded Conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Patrizia Paggio
+JobTitle#==#
+Organization#==#Department of Nordic Studies and Linguistics 
+Faculty of Humanities
+University of Copenhagen
+Emil Holms Kanal 2
+DK-2300 Copenhagen S
+Denmark
+Abstract#==#We present a method to support the annotation of head movements in video-recorded conversations. Head movement segments from annotated multimodal data are used to train a model to detect head movements in unseen data. The resulting predicted movement sequences  are uploaded to the ANVIL tool for post-annotation editing. The automatically identified head movements and the original annotations are compared to assess the overlap between the two. This analysis showed that movement onsets were more easily detected than offsets, and pointed at a number of patterns in the mismatches between original annotations and model predictions that could be dealt with in general terms in post-annotation guidelines.
+Author{1}{Firstname}#=%=#Patrizia
+Author{1}{Lastname}#=%=#Paggio
+Author{1}{Username}#=%=#patrizia
+Author{1}{Email}#=%=#paggio@hum.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen and University of Malta
+Author{2}{Firstname}#=%=#Costanza
+Author{2}{Lastname}#=%=#Navarretta
+Author{2}{Username}#=%=#costanza
+Author{2}{Email}#=%=#costanza@hum.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Firstname}#=%=#Bart
+Author{3}{Lastname}#=%=#Jongejan
+Author{3}{Email}#=%=#bartj@hum.ku.dk
+Author{3}{Affiliation}#=%=#University of Copenhagen
+Author{4}{Firstname}#=%=#Manex
+Author{4}{Lastname}#=%=#Agirrezabal
+Author{4}{Username}#=%=#manex.agirrezabal
+Author{4}{Email}#=%=#manex.agirrezabal@gmail.com
+Author{4}{Affiliation}#=%=#University of Copenhagen
+
+==========

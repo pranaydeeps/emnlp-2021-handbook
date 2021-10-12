@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#What is SemEval evaluating? A Systematic Analysis of Evaluation Campaigns in NLP
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#21
+CopyrightSigned#=%=#Oskar Wysocki
+JobTitle#==#
+Organization#==#
+Abstract#==#SemEval is the primary venue in the NLP community for the proposal of new challenges and for the systematic empirical evaluation of NLP systems. This paper provides a systematic quantitative analysis of SemEval aiming to evidence the patterns of the contributions behind SemEval. By understanding the distribution of task types, metrics, architectures, participation and citations over time we aim to answer the question on what is being evaluated by SemEval.
+Author{1}{Firstname}#=%=#Oskar
+Author{1}{Lastname}#=%=#Wysocki
+Author{1}{Username}#=%=#oskarwysocki
+Author{1}{Email}#=%=#oskar.wysocki@manchester.ac.uk
+Author{1}{Affiliation}#=%=#The University of Manchester
+Author{2}{Firstname}#=%=#Malina
+Author{2}{Lastname}#=%=#Florea
+Author{2}{Username}#=%=#floreamalina
+Author{2}{Email}#=%=#malina.florea@student.manchester.ac.uk
+Author{2}{Affiliation}#=%=#Department of Computer Science, The University of Manchester, United Kingdom
+Author{3}{Firstname}#=%=#Dónal
+Author{3}{Lastname}#=%=#Landers
+Author{3}{Email}#=%=#Donal.Landers@digitalecmt.org
+Author{3}{Affiliation}#=%=#digital Experimental Cancer Medicine Team, Cancer Biomarker Centre, CRUK Manchester Institute, University of Manchester
+Author{4}{Firstname}#=%=#André
+Author{4}{Lastname}#=%=#Freitas
+Author{4}{Username}#=%=#andre.freitas_1
+Author{4}{Email}#=%=#andre.freitas@manchester.ac.uk
+Author{4}{Affiliation}#=%=#University of Manchester
+
+==========

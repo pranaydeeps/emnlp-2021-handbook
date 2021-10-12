@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#62
+FinalPaperTitle#=%=#Monolingual Pre-Trained Language Models for Tigrinya
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Much of the recent progress in natural language processing has been driven by large pre-trained transformer language models (PLMs). However, due to the resource-intensive nature of these models, under-represented languages have seen little to no benefit from the advancements of PLMs. Multilingual language models such as mBERT (Devlin et al., 2019) and XLM-RoBERTa (Conneau et al., 2020) have been introduced to bridge the gap, achieving a notable but varying degree of success across languages. Trained on a huge corpus of mixed languages, the models are expected to automatically capture the linguistic characteristics of the various languages so far as to even handle unknown languages. 
+Tigrinya [iso: tir] is one of the severely low-resourced languages of East Africa with over nine million native speakers. Recent studies show that the performance of the current multilingual models is unsatisfactory for Tigrinya even relative to other low-resource languages. We believe one of the reasons could be its unique linguistic characteristics, especially when compared to the Indo-European and other typologically distant languages used to train the models. In this work, we delineate the linguistic characteristics of Tigrinya in juxtaposition to English. We then present three monolingual PLMs for Tigrinya following the popular architectures based on the Transformer [Vaswani et al. 2017] and show that they significantly outperform their multilingual counterparts on two downstream tasks, achieving state-of-the-art results. Finally, the new dataset and trained models are made available.
+Author{1}{Firstname}#=%=#Fitsum
+Author{1}{Lastname}#=%=#Gaim
+Author{1}{Username}#=%=#fgaim
+Author{1}{Email}#=%=#fgaim@nlp.kaist.ac.kr
+Author{1}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+Author{2}{Firstname}#=%=#Wonsuk
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Username}#=%=#immanuelstone1789
+Author{2}{Email}#=%=#derrick0511@nlp.kaist.ac.kr
+Author{2}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+Author{3}{Firstname}#=%=#Jong C.
+Author{3}{Lastname}#=%=#Park
+Author{3}{Email}#=%=#park@nlp.kaist.ac.kr
+Author{3}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+
+==========

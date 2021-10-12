@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#Discovering changes in birthing narratives during COVID-19
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a study demonstrating how parents' self-described birthing experiences on Reddit significantly changed during COVID-19. Our results indicate that hospital policies may be reflected in birthing narratives. Our work presents a case study in how we can analyze patient experience from their own written narratives and perspectives.
+Author{1}{Firstname}#=%=#Daphna
+Author{1}{Lastname}#=%=#Spira
+Author{1}{Username}#=%=#daphnaspira
+Author{1}{Email}#=%=#des2188@barnard.edu
+Author{1}{Affiliation}#=%=#Barnard College, Columbia University
+Author{2}{Firstname}#=%=#Noreen
+Author{2}{Lastname}#=%=#Mayat
+Author{2}{Email}#=%=#nm3224@barnard.edu
+Author{2}{Affiliation}#=%=#Barnard College, Columbia University
+Author{3}{Firstname}#=%=#Caitlin
+Author{3}{Lastname}#=%=#Dreisbach
+Author{3}{Email}#=%=#c.dreisbach@columbia.edu
+Author{3}{Affiliation}#=%=#Data Science Institute, Columbia University
+Author{4}{Firstname}#=%=#Adam
+Author{4}{Lastname}#=%=#Poliak
+Author{4}{Username}#=%=#azpoliak
+Author{4}{Email}#=%=#apoliak@barnard.edu
+Author{4}{Affiliation}#=%=#Barnard College, Columbia University
+
+==========

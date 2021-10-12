@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Can predicate-argument relationships be extracted from UD trees?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Adam Ek
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper we investigate the possibility of
+extracting predicate-argument relations from
+UD trees (and enhanced UD graphs). Con-
+cretely, we apply UD parsers on an En-
+glish question answering/semantic-role label-
+ing data set (FitzGerald et al., 2018) and check
+if the annotations reflect the relations in the
+resulting parse trees, using a small number
+of rules to extract this information. We find
+that 79.1% of the argument-predicate pairs can
+be found in this way, on the basis of Ud-
+ify (Kondratyuk and Straka, 2019). Error anal-
+ysis reveals that half of the error cases are at-
+tributable to shortcomings in the dataset. The
+remaining errors are mostly due to predicate-
+argument relations not being extractible algo-
+rithmically from the UD trees (requiring se-
+mantic reasoning to be resolved). The parser
+itself is only responsible for a small portion
+of errors. Our analysis suggests a number of
+improvements to the UD annotation schema:
+we propose to enhance the schema in four
+ways, in order to capture argument-predicate
+relations. Additionally, we propose improve-
+ments regarding data collection for question
+answering/semantic-role labeling data.
+Author{1}{Firstname}#=%=#Adam
+Author{1}{Lastname}#=%=#Ek
+Author{1}{Username}#=%=#adamekgu
+Author{1}{Email}#=%=#adam.ek@gu.se
+Author{1}{Affiliation}#=%=#University of Gothenburg
+Author{2}{Firstname}#=%=#Jean-Philippe
+Author{2}{Lastname}#=%=#Bernardy
+Author{2}{Username}#=%=#jyp7
+Author{2}{Email}#=%=#jean-philippe.bernardy@gu.se
+Author{2}{Affiliation}#=%=#University of Gothenburg
+Author{3}{Firstname}#=%=#Stergios
+Author{3}{Lastname}#=%=#Chatzikyriakidis
+Author{3}{Username}#=%=#stergios
+Author{3}{Email}#=%=#kafouroutsos@hotmail.com
+Author{3}{Affiliation}#=%=#University of Gothenburg
+
+==========

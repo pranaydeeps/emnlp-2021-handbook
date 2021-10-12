@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Towards Text Simplification for Sinhala Language
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we present the first attempt towards text simplification for the Sinhala language. We introduce an evaluation dataset for evaluating text simplification in Sinhala thus motivating future text simplification research in the Sinhala language. Furthermore, we present a pivot-based simplification model which can be considered as a baseline for future work in Sinhala language text simplification.
+Author{1}{Firstname}#=%=#Rumesh
+Author{1}{Lastname}#=%=#Sirithunga
+Author{1}{Username}#=%=#rumeshsirithunga
+Author{1}{Email}#=%=#rumeshmadhusanka.17@cse.mrt.ac.lk
+Author{1}{Affiliation}#=%=#University of Moratuwa
+Author{2}{Firstname}#=%=#Lahiru
+Author{2}{Lastname}#=%=#De Silva
+Author{2}{Username}#=%=#lahiru
+Author{2}{Email}#=%=#lahirudesilva.17@cse.mrt.ac.lk
+Author{2}{Affiliation}#=%=#University of Moratuwa
+Author{3}{Firstname}#=%=#Thamindu
+Author{3}{Lastname}#=%=#Aluthwala
+Author{3}{Username}#=%=#thamindu
+Author{3}{Email}#=%=#thamindu.17@cse.mrt.ac.lk
+Author{3}{Affiliation}#=%=#University of Moratuwa
+
+==========

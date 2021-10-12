@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#56
+FinalPaperTitle#=%=#The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#Shreya Pathak
+JobTitle#==#
+Organization#==#Indian Institute of Technology Bombay, Powai, Mumbai, India, 400076
+Abstract#==#While recent benchmarks have spurred a lot of new work on improving the generalization of pretrained multilingual language models on multilingual tasks, techniques to improve code-switched natural language understanding tasks have been far less explored. In this work, we propose the use of \emph{bilingual intermediate pretraining} as a reliable technique to derive large and consistent performance gains using code-switched text on three different NLP tasks: Natural Language Inference (NLI), Question Answering (QA) and Sentiment Analysis (SA). We show consistent performance gains on four different code-switched language-pairs (Hindi-English, Spanish-English, Tamil-English and Malayalam-English) for SA and on Hindi-English for NLI and QA. We also present a code-switched masked language modeling (MLM) pretraining technique that consistently benefits SA compared to standard MLM pretraining using real code-switched text.
+Author{1}{Firstname}#=%=#Archiki
+Author{1}{Lastname}#=%=#Prasad
+Author{1}{Username}#=%=#archiki
+Author{1}{Email}#=%=#archiki@cs.unc.edu
+Author{1}{Affiliation}#=%=#UNC Chapel Hill
+Author{2}{Firstname}#=%=#Mohammad Ali
+Author{2}{Lastname}#=%=#Rehan
+Author{2}{Username}#=%=#alirehan
+Author{2}{Email}#=%=#a.rehan6947@gmail.com
+Author{2}{Affiliation}#=%=#Indian Institute of Technology Bombay
+Author{3}{Firstname}#=%=#Shreya
+Author{3}{Lastname}#=%=#Pathak
+Author{3}{Username}#=%=#shreyapathak
+Author{3}{Email}#=%=#shreyapathak9515@gmail.com
+Author{3}{Affiliation}#=%=#Indian Institute of Technology, Bombay
+Author{4}{Firstname}#=%=#Preethi
+Author{4}{Lastname}#=%=#Jyothi
+Author{4}{Username}#=%=#jyothi
+Author{4}{Email}#=%=#pjyothi@cse.iitb.ac.in
+Author{4}{Affiliation}#=%=#Indian Institute of Technology Bombay
+
+==========

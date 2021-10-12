@@ -1,0 +1,17 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Developing Language Technology and NLP tools for endangered languages: Torwali
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Torwali is an endangered and indigenous language spoken in North of Pakistan. It is a low-resource language written in RTL perso-arabic script. This paper discusses the challenges and approaches in processing of Torwali with various NLP techniques to develop tools and resources. This work contributes towards morphological analysis, word segmentation, POS tagging and transliteration of Torwali. This work, on which this paper is based, can be used as a resource for other lexically similar endangered languages of Pakistan and will help to improve the digital presence of Torwali language and will safe-guard it against endangerment.
+
+Keywords: NLP, Morphological analysis, Word segmentation, Transliteration, Endangered languages.
+Author{1}{Firstname}#=%=#Naeem Uddin
+Author{1}{Lastname}#=%=#Hadi
+Author{1}{Username}#=%=#naeem_uddin
+Author{1}{Email}#=%=#naeemuddinhadi@gmail.com
+Author{1}{Affiliation}#=%=#Torwali Research Forum - TRF
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#How Emotionally Stable is ALBERT? Testing Robustness with Stochastic Weight Averaging on a Sentiment Analysis Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Urja Khurana
+JobTitle#==#
+Organization#==#
+Abstract#==#Despite their success, modern language models are fragile. Even small changes in their training pipeline can lead to unexpected results. We study this phenomenon by examining the robustness of ALBERT (Lan et al., 2020) in combination with Stochastic Weight Averaging (SWA)—a cheap way of ensembling—on a sentiment analysis task (SST-2). In particular, we analyze SWA’s stability via CheckList criteria (Ribeiro et al., 2020), examining the agreement on errors made by models differing only in their random seed. We hypothesize that SWA is more stable because it ensembles model snapshots taken along the gradient descent trajectory. We quantify stability by comparing the models’ mistakes with Fleiss’ Kappa (Fleiss, 1971) and overlap ratio scores. We find that SWA reduces error rates in general; yet the models still suffer from their own distinct biases (according to CheckList).
+Author{1}{Firstname}#=%=#Urja
+Author{1}{Lastname}#=%=#Khurana
+Author{1}{Username}#=%=#ukh400
+Author{1}{Email}#=%=#u.khurana@vu.nl
+Author{1}{Affiliation}#=%=#Vrije Universiteit Amsterdam
+Author{2}{Firstname}#=%=#Eric
+Author{2}{Lastname}#=%=#Nalisnick
+Author{2}{Username}#=%=#enalisnick
+Author{2}{Email}#=%=#enalisni@uci.edu
+Author{2}{Affiliation}#=%=#University of California, Irvine
+Author{3}{Firstname}#=%=#Antske
+Author{3}{Lastname}#=%=#Fokkens
+Author{3}{Username}#=%=#antske
+Author{3}{Email}#=%=#antske.fokkens@vu.nl
+Author{3}{Affiliation}#=%=#VU Amsterdam
+
+==========

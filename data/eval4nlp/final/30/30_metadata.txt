@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Trainable Ranking Models to Evaluate the Semantic Accuracy of Data-to-Text Neural Generator
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nicolas Garneau
+JobTitle#==#
+Organization#==#Université Laval, 2325 Rue de l'Université, Québec, QC G1V 0A6
+Abstract#==#In this paper, we introduce a new embedding-based metric relying on trainable ranking models to evaluate the semantic accuracy of neural data-to-text generators.
+This metric is especially well suited to semantically and factually assess the performance of a text generator when tables can be associated with multiple references and table values contain textual utterances.
+We first present how one can implement and further specialize the metric by training the underlying ranking models on a legal Data-to-Text dataset.
+We show how it may provide a more robust evaluation than other evaluation schemes in challenging settings using a dataset comprising paraphrases between the table values and their respective references.
+Finally, we evaluate its generalization capabilities on a well-known dataset, WebNLG, by comparing it with human evaluation and a recently introduced metric based on natural language inference.
+We then illustrate how it naturally characterizes, both quantitatively and qualitatively, omissions and hallucinations.
+Author{1}{Firstname}#=%=#Nicolas
+Author{1}{Lastname}#=%=#Garneau
+Author{1}{Username}#=%=#ngarneau
+Author{1}{Email}#=%=#nicolas.garneau@ift.ulaval.ca
+Author{1}{Affiliation}#=%=#Université Laval
+Author{2}{Firstname}#=%=#Luc
+Author{2}{Lastname}#=%=#Lamontagne
+Author{2}{Username}#=%=#lulam50
+Author{2}{Email}#=%=#luc.lamontagne@ift.ulaval.ca
+Author{2}{Affiliation}#=%=#Laval University
+
+==========

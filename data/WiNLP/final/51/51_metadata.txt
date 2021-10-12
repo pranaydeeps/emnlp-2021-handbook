@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#51
+FinalPaperTitle#=%=#Characterizing Test Anxiety on Social Media
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#We characterize how students use Reddit to express their test anxiety and look for advice on relieving or overcoming their test-related stress. We identify words that discriminate between different types of online communities. Our results suggest that users seek out different online communities to discuss distinct ways that test anxiety affects them or find solutions or outlets to relieve stress.
+Author{1}{Firstname}#=%=#Esha
+Author{1}{Lastname}#=%=#Julka
+Author{1}{Email}#=%=#ej2422@Barnard.edu
+Author{1}{Affiliation}#=%=#Barnard College
+Author{2}{Firstname}#=%=#Olivia
+Author{2}{Lastname}#=%=#Kowalishin
+Author{2}{Username}#=%=#ok2270
+Author{2}{Email}#=%=#ok2270@barnard.edu
+Author{2}{Affiliation}#=%=#Barnard College
+Author{3}{Firstname}#=%=#Jalisha B.
+Author{3}{Lastname}#=%=#Jenifer
+Author{3}{Email}#=%=#jjenifer@barnard.edu
+Author{3}{Affiliation}#=%=#Barnard College
+Author{4}{Firstname}#=%=#Adam
+Author{4}{Lastname}#=%=#Poliak
+Author{4}{Username}#=%=#azpoliak
+Author{4}{Email}#=%=#apoliak@barnard.edu
+Author{4}{Affiliation}#=%=#Barnard College, Columbia University
+
+==========

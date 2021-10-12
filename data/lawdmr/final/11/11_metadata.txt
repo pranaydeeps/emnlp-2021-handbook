@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Classifying Divergences in Cross-lingual AMR Pairs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shira Wein
+JobTitle#==#
+Organization#==#
+Abstract#==#Translation divergences are varied and widespread, challenging approaches that rely on parallel text. To annotate translation divergences, we propose a schema grounded in the Abstract Meaning Representation (AMR), a sentence-level semantic framework instantiated for a number of languages. By comparing parallel AMR graphs, we can identify specific points of divergence. Each divergence is labeled with both a type and a cause. We release a small corpus of annotated English-Spanish data, and analyze the annotations in our corpus.
+Author{1}{Firstname}#=%=#Shira
+Author{1}{Lastname}#=%=#Wein
+Author{1}{Username}#=%=#shirawein
+Author{1}{Email}#=%=#sw1158@georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Nathan
+Author{2}{Lastname}#=%=#Schneider
+Author{2}{Username}#=%=#nschneid
+Author{2}{Email}#=%=#nathan.schneider@georgetown.edu
+Author{2}{Affiliation}#=%=#Georgetown University
+
+==========

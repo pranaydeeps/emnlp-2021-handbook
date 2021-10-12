@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#Evaluation of Unsupervised Automatic Readability Assessors Using Rank Correlations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yo Ehara
+JobTitle#==#
+Organization#==#
+Abstract#==#Automatic readability assessment (ARA) is the task of automatically assessing readability with little or no human supervision.
+ARA is essential for many second language acquisition applications to reduce the workload of annotators, who are usually language teachers.
+Previous unsupervised approaches manually searched textual features that correlated well with readability labels, such as perplexity scores of large language models.
+This paper argues that, to evaluate an assessors' performance, rank-correlation coefficients should be used instead of Pearson's correlation coefficient ($\rho$).
+In the experiments, we show that its performance can be easily underestimated using Pearson's $\rho$, which is significantly affected by the linearity of the output readability scores.
+We also propose a lightweight unsupervised readability assessor that achieved the best performance in both the rank correlations and Pearson's $\rho$ among all unsupervised assessors compared.
+Author{1}{Firstname}#=%=#Yo
+Author{1}{Lastname}#=%=#Ehara
+Author{1}{Username}#=%=#yeut
+Author{1}{Email}#=%=#i@yoehara.com
+Author{1}{Affiliation}#=%=#Tokyo Gakugei University
+
+==========

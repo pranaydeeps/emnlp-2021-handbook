@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#56
+FinalPaperTitle#=%=#Detoxifying Language Models with Proximal Policy Optimization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we conduct experiments with Proximal Policy Optimization (PPO), a reinforcement
+learning algorithm, for detoxifying language models. We fine-tune pre-trained language models
+with PPO using a reward model trained from human assessment of toxicity. We measure and
+observe a dip in toxicity and stereotypical bias in the detoxified language models.
+Author{1}{Firstname}#=%=#Taaha
+Author{1}{Lastname}#=%=#Kazi
+Author{1}{Username}#=%=#taahakazi
+Author{1}{Email}#=%=#taahakazi@gmail.com
+Author{1}{Affiliation}#=%=#Don Bosco Institute of Technology at Mumbai
+
+==========

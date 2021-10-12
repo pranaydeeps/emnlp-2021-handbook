@@ -1,0 +1,462 @@
+% This must be in the first 5 lines to tell arXiv to use pdfLaTeX, which is strongly recommended.
+\pdfoutput=1
+% In particular, the hyperref package requires pdfLaTeX in order to break URLs across lines.
+\documentclass[11pt]{article}
+
+% Remove the "review" option to generate the final version.
+\usepackage[]{emnlp2021}
+
+% Standard package includes
+\usepackage{times}
+\usepackage{booktabs}
+\usepackage{latexsym}
+
+% For proper rendering and hyphenation of words containing Latin characters (including in bib files)
+\usepackage[T1]{fontenc}
+% For Vietnamese characters
+% \usepackage[T5]{fontenc}
+% See https://www.latex-project.org/help/documentation/encguide.pdf for other character sets
+
+% This assumes your files are encoded as UTF8
+\usepackage[utf8]{inputenc}
+
+% This is not strictly necessary, and may be commented out,
+% but it will improve the layout of the manuscript,
+% and will typically save some space.
+\usepackage{microtype}
+
+%%%
+% my packages:
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+%%%
+
+% If the title and author information does not fit in the area allocated, uncomment the following
+%
+%\setlength\titlebox{<dim>}
+%
+% and set <dim> to something 5cm or larger.
+
+\title{Identifying the Importance of Content Overlap for Better Cross-lingual Embedding Mappings}
+
+% Author information can be set in various styles:
+% For several authors from the same institution:
+\author{Réka Cserháti \and Gábor Berend \\
+        Department of Computer Science \\
+	    University of Szeged  \\
+	{\tt \{cserhatir,berendg\}@inf.u-szeged.hu}}
+% if the names do not fit well on one line use
+%         Author 1 \\ {\bf Author 2} \\ ... \\ {\bf Author n} \\
+% For authors from different institutions:
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \And  ... \And
+%         Author n \\ Address line \\ ... \\ Address line}
+% To start a seperate ``row'' of authors use \AND, as in
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \AND
+%         Author 2 \\ Address line \\ ... \\ Address line \And
+%         Author 3 \\ Address line \\ ... \\ Address line}
+
+% \author{First Author \\
+%   Affiliation / Address line 1 \\
+%   Affiliation / Address line 2 \\
+%   Affiliation / Address line 3 \\
+%   \texttt{email@domain} \\\And
+%   Second Author \\
+%   Affiliation / Address line 1 \\
+%   Affiliation / Address line 2 \\
+%   Affiliation / Address line 3 \\
+%   \texttt{email@domain} \\}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+In this work, we analyze the performance and properties of cross-lingual word embedding models created by mapping-based alignment methods.
+We use several measures of corpus and embedding similarity to predict BLI scores of cross-lingual embedding mappings over three types of corpora, three embedding methods and 55 language pairs.
+Our experimental results corroborate that instead of mere size, the amount of common content in the training corpora is essential. This phenomenon manifests in that i) despite of the smaller corpus sizes, using only the comparable parts of Wikipedia for training the monolingual embedding spaces to be mapped is often more efficient than relying on all the contents of Wikipedia, ii) the smaller, in return less diversified Spanish Wikipedia works almost always much better as a training corpus for bilingual mappings than the ubiquitously used English Wikipedia.
+% We hypothesise that this can be attributed to the fact that the English Wikipedia -- owing to its size -- contains abundant such topics and semantics contents that are missing in other Wikipedias.
+\end{abstract}
+
+\section{Introduction}
+
+Word embedding methods (e.g. \citealp{mikolov-distributed}, \citealp{pennington-etal-2014-glove}, \citealp{bojanowski-etal-2017-enriching}) have become an essential tool for representing words in most NLP tasks. These algorithms assign a low-dimensional vector to words based on the patterns of their contexts in a training corpus, and this way they locate the words in the vector space in a consistent way, so that words with similar meaning are assigned to similar vectors. Therefore, it can be assumed that the layout of the word vectors are near equivalent in independently trained models, so word embedding models in different languages can be aligned into a common space. Such alignments are a standard way of creating bi- or multilingual word embedding spaces, which are very useful for machine translation and a wide range of cross-lingual NLP tasks. 
+
+Although large pre-trained language models are superior to traditional word embeddings in many NLP tasks, one strength of these mapping-based methods is their extensive applicability, e.g. for low-resource languages or special domain (e.g. medical) data. Additionally, probably due to significantly lower resource requirements \cite{strubell2019energy} and often competitive results \cite{DBLP:conf/ecir/LitschkoVPG21}, a large proportion of industrial NLP applications is still based on static word embeddings \cite{arora-etal-2020-contextual}. 
+
+On the other hand, the results of the mappings and the performance of the multilingual models was still shown to be extremely dependent on the mapping scenario \cite{sogaard-etal-2018-limitations, vulic-etal-2019-really, vulic-etal-2020-good}. 
+Previous work attributes low performance and non-isomorphism of monolingual embedding models to typological differences between languages, domain differences in the training corpora, insufficient resources, and under-training \cite{doval-etal-2020-robustness, sogaard-etal-2018-limitations, vulic-etal-2020-good}. 
+
+We rely on popular bilingual alignment methods, and conduct a thorough analysis of the connection between the evaluation scores of the mappings and language relatedness, isomorphism of the source embeddings measured by several metrics, and some newly identified, easy to calculate corpus properties that
+are highly predictive of the bilingual mapping performance:
+the token overlap ratio in the vocabularies, and the distance between word distributions of the corpora. These combined with corpus size surpass existing isomorphism measures as predictors of bilingual mapping score.
+
+Our goal is to help researchers and developers use resources more efficiently, and find the most appropriate setting for creating bilingual word embedding models. \footnote{Our codes, mapping dictionaries, and more mapping results are available at \href{https://github.com/xerevity/mappability}{https://github.com/xerevity/mappability} }
+
+\section{Related Work}
+\subsection{Mapping Algorithms}
+	The success of the pioneering neural word embedding models \cite{mikolov-distributed} almost immediately led to the idea of creating bilingual models using linear transformations \cite{mikolov-exploiting}. The original problem is finding a mapping that transforms an embedding matrix close to another in a different language. \newcite{mikolov-exploiting} solve this with stochastic gradient descent, minimizing the squared euclidean distance of word pairs from a seed dictionary. 
+
+	% supervised
+	Subsequently, several works improved this mapping method: for example, \newcite{xing-etal-2015-normalized} normalize the source and target embeddings, and constrain the mapping to be orthogonal; \newcite{artetxe-etal-2016-learning} center the mean, and find the transformation in closed form, solving a least squares problem. Later \newcite{artetxe2018aaai} proposed a multi-step framework consisting of mean-centering, normalization, whitening, and an orthogonal transformation. In contrast, \textit{RCSLS} \cite{joulin-etal-2018-loss} is based on relaxing the orthogonal restriction and returning to stochastic gradient descent with a different loss function, aiming to be consistent with the \textit{CSLS} (Cross-domain Similarity Local Scaling; \citealp{Conneau2018WordTW}) retrieval method. 
+	
+	% unsupervised
+	Additionally, aligning word embeddings in an unsupervised way, without any cross-lingual signal has also become an exciting topic, giving rise to diverse approaches of unsupervised embedding mappings. The first really successful solution by \newcite{Conneau2018WordTW} is based on adversarial learning; \newcite{artetxe2018acl} proposed an iterative self-learning method initialized by sorting embedding values; and Non-adversarial Translation by \newcite{hoshen-wolf-2018-non} also uses self-learning, but a different method, initialized using PCA.
+	
+\subsection{Analysis of Cross-Lingual Word Embeddings}
+	Several works have already analyzed performance of cross-lingual embedding mappings (e.g.~\citealp{kementchedjhieva-etal-2019-lost, glavas-etal-2019-properly, vulic-etal-2019-really}). More related to this paper, reasons why some settings do not work well were also investigated. 
+	For instance, \newcite{sogaard-etal-2018-limitations} use eigenvector similarity of nearest neighbor graphs to show that the isomorphic assumption does not hold in many cases, and report the negative effect of language and domain dissimilarity on the unsupervised embedding alignment method of \newcite{Conneau2018WordTW}. 
+	
+	In addition, \newcite{vulic-etal-2020-good} states that small corpora and under-training also play a significant role in non-isomorphism of word embeddings. 
+	\newcite{dubossarsky-etal-2020-secret} also examine isomorphism, and suggest some new measures to quantify transferability of embedding spaces based on their spectral statistics: how similar their singular values are on the one hand, and their individual robustness measured by condition numbers, on the other hand.
+	% bővíthető
+	
+	In the rest of this paper, we supplement isomorphism measures with corpus similarity measures, and show that corpus similarity is one of the key factors influencing mapping scores in both supervised and unsupervised cases. We show that two corpora of sufficient size, coming from the same domain (Wikipedia in this case) can still be too different for good mapping scores, while good mappings are possible on relatively small corpora if other important conditions are met.
+
+\section{Experimental Setup}
+\subsection{Corpora}
+    In our experiments, we compare BLI (Bilingual Lexicon Induction) scores of embeddings trained on three types of corpora, all of them extracted from Wikipedia:
+    \begin{enumerate}
+        \item We use the full Wikipedia texts\footnote{As available at: \href{https://linguatools.org/tools/corpora/wikipedia-monolingual-corpora/}{https://linguatools.org/tools/corpora/wikipedia-monolingual-corpora/}} of our 11 languages studied: Czech, Danish, German, Greek, English, Spanish, Finnish, Hungarian, Norwegian, Romanian and Turkish. These all come from the same domain (encyclopedia articles), which condition was reported to be necessary for sufficient unsupervised mappings by \newcite{sogaard-etal-2018-limitations}. Nevertheless, this type is the least restricted in our experiments, and the sizes may be very dissimilar for different languages, but these are the largest among our experiments. We call this type of corpora loosely-comparable Wikipedia, or \textbf{L-Wiki} for short.
+        
+        \item Even within the same domain, the content of the corpora may be very different, which might (and, according to our hypothesis, does) have a negative influence on the mappings. Therefore, we create a mildly-comparable (\textbf{M-Wiki}) corpus, separately for all of our 55 language pairs, by filtering articles with bidirectional cross-language links between the two Wikipedias. This is also expected to make sizes comparable within a language pair, but the different length of the articles may still cause dissimilarity in size. Additionally, the amount of filtered parts between different language pairs is especially variable.
+        
+        \item In terms of both size and content, a parallel corpus between two languages is as similar as possible. As such, we use the WikiMatrix \cite{schwenk-etal-2021-wikimatrix} parallel corpus (hereafter strictly-comparable Wiki or \textbf{S-Wiki}), which is also extracted from Wikipedia. The sizes here are substantially smaller than in the previous types, but also vary by language pairs.
+    \end{enumerate}
+    
+    This way, we have various levels of corpus size, language relatedness, and proportion of overlapping information among our experimental language pairs.
+    To the best of our knowledge, our experiments are the first 
+    to analyze different corpus types, and to dissect the effects of corpus similarity on the quality of bilingual embedding mapping.
+    
+\subsection{Training and Test Dictionaries}
+    Since there is no available gold standard dictionary for most of our language pairs, we create silver dictionaries from the WikiMatrix parallel corpora using the word2word \cite{choe-etal-2020-word2word} tool, which generates translations for words based on parallel sentences. To ensure the quality of these, we generate two translations for each word above the mean frequency in the corpus, and only keep pairs that are mutual translations of each other. Then we randomly select (disjoint) training and test dictionaries with 3000 and 1000 source words, respectively. 
+
+\subsection{Word Embedding Models}
+    We train FastText \cite{bojanowski-etal-2017-enriching} word vectors on all of the above corpora using Gensim \cite{rehurek_lrec}, with the following hyperparameters: dimensions: 300, negative samples: 5, context window: 5, minimum word count: 5, maximum vocabulary size: 200~000. 
+    
+    To create the cross-lingual models we use three mapping methods: supervised VecMap \cite{artetxe2018aaai}, RCSLS \cite{joulin-etal-2018-loss}, and Non-adversarial Translation (NAT; \citealp{hoshen-wolf-2018-non}) on the embeddings trained on three types of corpora and 110 language pairs, performing a total of 990 mappings as we separate different source--target directions of the same language pair.
+    
+    We evaluate the models with P@1 scores, i.e. by finding the nearest neighbor of a source word among the target language embeddings, and see whether it is a correct translation according to our dictionary. We experimented with other, more sophisticated evaluation methods as well, but the scores did not change relative to each other.
+
+\section{Results and Analysis}
+
+\subsection{Mapping Methods}
+ 
+    \begin{figure}[tbp]
+        \centering
+        \includegraphics[width=0.5\textwidth]{images/algorithm_boxplot.png}
+        \caption{Distributions of BLI scores of embedding mappings using different methods and corpus types.}
+        \label{fig:algorithm_boxplot}
+    \end{figure}
+    
+    
+    We show the distributions of the used mapping algorithms on separate corpus types in Figure~\ref{fig:algorithm_boxplot}. Our first important observation is that the results are much more dependent on the corpus type than on the mapping algorithm. While mappings of mildly and loosely comparable corpora reach similar median scores and extremes, the strictly-comparable (hence a lot smaller) corpus mapping scores range much wider. The median of the S-Wiki scores is very low, but the highest scores and quantiles are in line with the other corpus types. Later we will also investigate in which cases do these mappings perform well, and why.
+    
+    Another information visible in Figure~\ref{fig:algorithm_boxplot} is that in our settings, VecMap performs the best among these three algorithms. However, except some cases where it completely fails, Non-adversarial Translation reaches competitive results to the other methods, despite the lack of supervision.
+    
+       
+    \begin{figure}[htbp]
+         \centering
+         \begin{subfigure}[b]{0.5\textwidth}
+             \centering
+             \includegraphics[width=1.1\textwidth]{images/languages_boxplot_full.png}
+             \caption{Score distributions of languages involved in mapping embeddings trained on loosely-comparable full Wikipedia.}
+             \label{lang_boxplot}
+         \end{subfigure}
+         \hfill
+         \begin{subfigure}[b]{0.5\textwidth}
+             \centering
+             \includegraphics[width=1.1\textwidth]{images/languages_boxplot_comp.png}
+             \caption{Mapping scores of languages, with embeddings trained on mildly-comparable Wiki corpus.}
+             \label{mildly}
+         \end{subfigure}
+         \hfill
+         \begin{subfigure}[b]{0.5\textwidth}
+             \centering
+             \includegraphics[width=1.1\textwidth]{images/languages_boxplot_matrix.png}
+             \caption{Mapping scores of languages, with embeddings trained on a strictly-comparable (parallel) corpus.}
+         \end{subfigure}
+        \caption{Score distributions of embedding mappings involving a language (either as source or as target language).}
+        \label{fig:two graphs}
+    \end{figure}
+
+
+\subsection{Languages}
+    
+    \begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.55\textwidth]{images/languages_heatmap.png}
+        \caption{Average P@1 scores of loosely-comparable Wikipedia embedding mappings in all examined source--target pairs of languages.}
+        \label{fig:lang_heatmap}
+    \end{figure}
+    
+    The effect of the languages used on the performance of the cross-lingual embeddings has been widely studied \cite{vulic-etal-2019-really, dubossarsky-etal-2020-secret, doval-etal-2020-robustness}, but our evaluation on 110 pairs of 11 languages still shows interesting and instructive patterns. It is conspicuous in Figure \ref{lang_boxplot} that, despite the widespread use of English as a transfer language, mappings of loosely-comparable Wikipedia embeddings involving Spanish perform substantially better. In this case, English Wikipedia probably covers too diverse and deep articles that none of the other Wikipedias do, which makes Spanish Wikipedia a better corpus for embedding mappings. However, using mildly-comparable Wikipedia weakens this phenomenon (see Figure~\ref{mildly}), which might suggest that instead of the corpus size, the real indicator of performance is the amount of overlapping information between the two corpora. We will deal with this hypothesis a lot more in the rest of this article.
+ 
+    Figure~\ref{fig:lang_heatmap} shows the average performance of loosely-comparable Wikipedia mappings broken down by both source and target language. Beside some other interesting details, an outstanding result of the Danish--Norwegian mapping is clear. In this case, language relatedness, geographical and cultural similarity are all given, therefore we can assume that the two Wikipedias are also very similar in topics, style, editing, etc. This can be considered a case where all the necessary factors are met for obtaining a high-performing mapping.
+    
+    From this figure it seems that only very close language relatedness is really beneficial, e.g. between Germanic and Romance languages, but Germanic languages, for example, can be mapped to linguistically very distant Finno-Ugrian languages just as well as to non-Germanic Indo-European languages, which might also be a useful observation for future work.
+    
+
+\subsection{Corpus Size and Similarity}
+    Our key observation is that one of the most required condition for good embedding mappings is corpus similarity, more precisely the amount of common contexts the words appear in, as a complement to previous claims pointing to language similarity and corpus size \cite{dubossarsky-etal-2020-secret, vulic-etal-2020-good}.
+    
+    \begin{figure}[htbp]
+         \centering
+         \begin{subfigure}[b]{0.52\textwidth}
+             \centering
+             \includegraphics[width=1.1\textwidth]{images/overlap_scatter.png}
+             \caption{Connection of mapping score to the proportion of overlapping tokens}
+             \label{fig:three sin x}
+         \end{subfigure}
+         \hfill
+         \begin{subfigure}[b]{0.52\textwidth}
+             \centering
+             \includegraphics[width=1.1\textwidth]{images/jsd_scatter.png}
+             \caption{Connection of mapping score to word distribution distance}
+             \label{fig:five over x}
+         \end{subfigure}
+         \hfill
+         \begin{subfigure}[b]{0.52\textwidth}
+             \centering
+             \includegraphics[width=1.1\textwidth]{images/mintoken_scatter.png}
+             \caption{Connection of mapping score to corpus size (on a logarithmic scale)}
+             \label{fig:corpsize}
+         \end{subfigure}
+            \caption{Relationship between performance of bilingual mappings and corpus properties.}
+            \label{fig:three graphs}
+    \end{figure}
+     
+    \begin{table}[tbp]
+        \resizebox{\linewidth}{!}{
+        \begin{tabular}{lccc}
+        \toprule
+                & \textbf{L-Wiki} & \textbf{M-Wiki}     & \textbf{S-Wiki}  \\
+        \midrule
+        \textbf{Token overlap} & 0.458  & \textbf{0.747}  & \textbf{0.942} \\
+        \textbf{Word distributions}   & \textbf{--0.603} & --0.708 & --0.616 \\
+        \textbf{Size (log)}    & 0.306 & 0.552 & 0.877 \\
+        \bottomrule
+        \end{tabular}
+        }
+        \caption{Pearson correlation coefficients between P@1 scores and corpus properties.}
+        \label{tab:corp}
+    \end{table}
+
+    We introduce two measures to quantify corpus similarity:
+    \begin{itemize}
+    
+         \item \textit{Token Overlap} is the ratio of token forms used in both corpora to the number of tokens used in one or both of them. $$ {TO} (V_1, V_2) = \frac{| V_1 \cap V_2 |}{| V_1 \cup V_2 |} $$ Most of these shared tokens are probably words of foreign origin, having the same meaning, therefore their presence in large proportions indicates similar content in the texts. However, this measure is affected by language similarity as well, and is unusable with languages written in different scripts.
+            
+        \item As \textit{Word Distribution Distance} between two corpora we take the normalized frequency distribution of words from our silver dictionary between the languages of the two corpora, and compute Jensen--Shannon divergence between them. 
+        This way, we use the words of the dictionary as keywords, and the divergence will be small only if the respective topics appear in a similar proportion in the corpora.
+        %TODO math formula?
+        
+     \end{itemize}
+     
+    As \newcite{vulic-etal-2020-good} showed, mapping scores are greatly influenced by the size of the training corpora, therefore we include this information to our corpus data as well. We examined correlations using the token numbers of the source and the target corpus, the arithmetic and harmonic mean of them, and the minimum of them. The latter of these proved to be the most powerful indicator of mapping scores, so we use the minimum of token numbers of the two training corpora involved in the mapping to represent corpus size.
+     
+    Figure~\ref{fig:three graphs} shows the connection of the mapping scores to the above defined corpus similarity measures and corpus size. All of these corpus properties seem to indicate performance well, as models with more overlap in their vocabularies, with more similar word distributions, or trained on a larger corpora perform generally better. 
+    
+    However, the parameters of the regression lines for corpus types differ clearly, implying that when we make the corpora mildly and strictly comparable, so overlap ratio and word distribution similarity increase, the results are not improving as much as we could have expected by extrapolating the scores of the full Wikipedia corpus. But similarly, the smaller size of comparable and parallel corpora does not directly lead to a decrease in performance either.
+    
+    It can be clearly seen from Figure~\ref{fig:corpsize}, that although there is a connection between corpus size and cross-lingual mapping score as well, big corpora are neither necessary nor sufficient for good results: some of the best scores are reached by mapping embeddings trained on the Danish--Norwegian parallel corpus, having less than 10 million tokens, while the biggest corpora consist of approximately 1 billion tokens.
+     
+    Also, correlations in Table~\ref{tab:corp} show that the relationship between corpus size and performance gets stronger as the corpus is filtered for overlapping articles (M-Wiki), and even stronger for parallel sentences (S-Wiki), again supporting our hypothesis that the amount of common information is an important factor for mappings. We measured corpus similarity by the number of common tokens and the distribution of dictionary words successfully, but there are probably other, more widely usable measures to be found in future work.
+    
+\subsection{Content Overlap}
+
+    \begin{figure}[th]
+        \centering
+        \includegraphics[width=0.37\textwidth]{images/wikiparts_heatmap.png}
+        \caption{P@1 scores of RCSLS mappings of embeddings from Wikipedia parts of various overlap ratio and size.}
+        \label{fig:parts_heatmap}
+    \end{figure}
+    
+    To further validate our statement that common content in corpora greatly influences mapping scores, we conduct controlled experiments, in which we align embeddings of the same language, and construct the training corpora from subsets of a single Wikipedia.
+    For 3 languages (English, Spanish and Hungarian) we create corpora in different sizes, and for all of these we select subsets that are matching in size, but contain 0\%, 33\%, 66\%, or 100\% of the text in the first corpus.
+    
+    This methodology allows us to examine the effects of size and content overlap explicitly (and exclude the effects of typological differences between languages). These parts, however, may contain very similar articles in the same field, which are not accounted as overlap. Probably this is why small size and zero overlap still yield very high P@1 scores, as shown in Figure~\ref{fig:parts_heatmap}. Still, the trends are convincing that content overlap is at least as important as corpus size. We show the scores of the RCSLS mapping, but the same patterns can be seen with other methods.
+    
+    These results also imply that word embeddings represent word usage of a specific corpus, rather than a whole language, which is often forgotten in multilingual tasks. Therefore, it is possible that a corpus can even be too large compared to another if there are too many different contexts appearing in only one of them, which might explain why Spanish Wikipedia is superior to English as a training corpus. We can conclude that even among corpora of the same domain, corpus similarity is a major requirement for the success of word embedding alignment. 
+    
+    %
+
+\subsection{Embedding Isomorphism}
+
+    %TODO ne szedje szét a (non-)-t
+    Previous work has extensively studied the (non-) isomorphism of word embeddings, and its effect on bilingual alignments. This problem can be considered one of the core questions of bilingual mappings, since this method gains its inspiration and theoretical validity from the assumption that embeddings trained on different languages should be approximately isomorphic. However, our surprising results show that the degree of isomorphism is generally less correlated to BLI scores than corpus properties.
+
+    Measuring the degree of isomorphism between word embedding models is an interesting question in itself as well, and several solutions have already been proposed for it. We adopt five existing measures (for more details see the works cited below) and introduce a new one, based on the similarity of words.
+    
+    \begin{table}[htbp]
+        \centering
+        \resizebox{0.9\linewidth}{!}{
+        \begin{tabular}{lccc}
+        \toprule
+            & \textbf{L-Wiki}       & \textbf{M-Wiki} & \textbf{S-Wiki}  \\
+        \midrule
+        \textbf{Laplacian}          & --0.557 & \textbf{--0.777}  & \textbf{--0.396}  \\
+        \textbf{SVG}                & --0.174  & --0.275 & 0.157  \\
+        \textbf{Spectral}           & --0.392 & --0.290 & 0.061  \\
+        \textbf{Effective Spectral} & --0.251 & --0.236 & --0.224 \\
+        \textbf{Relational}         & \textbf{0.591}  & 0.486  & 0.262  \\
+        \textbf{Neighbors}           & 0.521  & 0.501   & --0.099 \\
+        \bottomrule
+        \end{tabular}
+        }
+        \caption{Pearson correlation coefficients between P@1 scores and isomorphism.}
+        \label{tab:isomorph}
+    \end{table}
+    
+    \begin{table}[htbp]
+        \centering
+        \resizebox{0.9\linewidth}{!}{
+        \begin{tabular}{lccc}
+        \toprule
+            & \textbf{L-Wiki}    & \textbf{M-Wiki} & \textbf{S-Wiki}\\
+        \# & 62 & 72 & 27 \\
+        \midrule
+        \textbf{Laplacian}          & --0.851 & --0.681 & \textbf{--0.926} \\
+        \textbf{SVG}                & --0.346 & --0.518 & --0.896 \\
+        \textbf{Spectral}           & --0.383 & 0.170  & --0.548 \\
+        \textbf{Effective Spectral} & --0.174  & 0.118 & 0.265 \\
+        \textbf{Relational}         & \textbf{0.895} & \textbf{0.879} & 0.921  \\
+        \textbf{Neighbors}           & 0.839  & 0.704  & 0.898 \\
+        \bottomrule
+        \end{tabular}
+        }
+        \caption{Pearson correlation coefficients between P@1 scores and isomorphism among mappings scoring 0.6 or higher. We indicate the number of mappings meeting this criterion below the corpus types.}
+        \label{tab:isomorph2}
+    \end{table}
+    
+    \begin{itemize}
+        \item \textit{Laplacian Isospectrality} \cite{sogaard-etal-2018-limitations} measures the difference between the Laplacian eigenvalues of word nearest neighbor graphs. We take the average isospectrality of 10 graphs, each constructed of 50 random words from our dictionary and their translations.
+        
+        \item \textit{Singular Value Gap} (SVG; \citealp{dubossarsky-etal-2020-secret}) is the distance between the sorted singular values of the two word embedding matrices.
+        
+        \item \textit{Spectral Condition} \cite{dubossarsky-etal-2020-secret} is the harmonic mean of the condition numbers of the two embedding matrices, which measure their sensitivity to noise.
+        
+        \item \textit{Effective Spectral Condition} \cite{dubossarsky-etal-2020-secret} is the harmonic mean of the effective condition numbers of the two embedding matrices.
+        
+        \item \textit{Relational Similarity} \cite{vulic-etal-2020-good} quantifies how similarly the two models rate the proximity of word pairs. We take 10,000 random word pairs and their translations from our dictionary, and compute the Pearson correlation coefficient between the two lists of cosine similarity scores between the pairs.
+        
+        \item \textit{Neighbor Overlap} quantifies the overlap between the neighborhood of words in the embedding models. We take a word from the dictionary in one language, and find its 10 nearest neighbors among the dictionary entries. Then we count how many of the translations of these appear among the nearest neighbors of the translation of the original word. We repeat this 1000 times, and compute the average of the outcomes. 
+        
+    \end{itemize}
+
+    In Table~\ref{tab:isomorph} we show the correlations between the above isomorphism measures and mapping scores. It is interesting that while the connection between corpus properties and bilingual scores was the strongest in strictly-comparable corpora, the opposite seems to be true in this case: the performance of mapping embeddings trained on S-Wiki seems not to be very dependent on isomorphism. Often it even happens that the correlation to embedding similarity/dissimilarity turns into negative/positive in the strictly-comparable case. 
+    
+    This raises the question if it is possible that two models, in which the same word has different neighbors, are transformed so that the appropriate words still become nearest neighbors, or above a certain score isomorphism remains a requirement for bilingual performance. To answer this, we compute the correlations between isomorphism measures and mapping scores again, but only among mappings with P@1 score 0.6 or higher. Table~\ref{tab:isomorph2} shows that in these cases performance does indeed depend on isomorphism, especially on Laplacian, relational, and neighbor similarities. 
+    
+    We can see that mapping scores are connected to the isomorphism of source embeddings, especially among the relatively well performing models. Therefore we can use both isomorphism and corpus similarity to predict bilingual performance, which we will do in the next section.
+    
+    %conclusion
+
+\subsection{Predicting BLI Scores}
+    In our final experiments, we try to predict the mapping scores from the above studied corpus and isomorphism measures. We make predictions based on our three corpus properties, six isomorphism measures, and all of these combined, using random forest regression with the default parameters in Scikit-learn \cite{scikit-learn}, evaluating the model with the Leave-One-Out method. 
+    
+    The results in Table~\ref{tab:pred} show that mapping scores are very well predictable in most cases, but this varies between corpus types and alignment methods. Properties of the corpus, however, are almost always better predictors than isomorphism; the only exception is Non-adversarial Translation of loosely-comparable Wikipedia embeddings. 
+    
+    Combining corpus and isomorphism measures usually does not lead to an improvement either, which could mean that isomorphism depends on corpus properties as well. To find this out, we make predictions of all isomorphism measures from our three corpus properties, and show the results in Table~\ref{tab:isopred}. From these we see that although isomorphism does not depend solely on corpus similarity, it is also greatly influenced by it.
+    
+    It is important to note that we did not use language information at all, therefore these high scores mean that the above corpus measures are more important than language similarity, or at least they carry this information as well. These results again support our observation on the importance of corpus similarity for good performance of bilingual word embedding mappings.
+    
+    \begin{table}[htbp]
+    \centering
+    \resizebox{0.8\linewidth}{!}{
+    \begin{tabular}{l|ccc}
+    \toprule
+    \multicolumn{4}{l}{\textbf{L-Wiki:}} \\
+    \midrule
+    & \textbf{VecMap}      & \textbf{RCSLS} &   \textbf{NAT} \\
+    \textbf{Corpus}      & 0.770 & 0.709 & 0.366 \\
+    \textbf{Isomorphism} & 0.720 & 0.654 & 0.481 \\
+    \textbf{All}         & 0.788 & 0.733 & 0.478 \\
+    \midrule
+    \multicolumn{4}{l}{\textbf{M-Wiki:}} \\
+    \midrule
+                & \textbf{VecMap}    & \textbf{RCSLS}     & \textbf{NAT}   \\
+    \textbf{Corpus}      & 0.797 & 0.794 & 0.664 \\
+    \textbf{Isomorphism} & 0.672 & 0.670 & 0.581 \\
+    \textbf{All}         & 0.799 & 0.780 & 0.658 \\
+    \midrule
+    \multicolumn{4}{l}{\textbf{S-Wiki:}} \\
+    \midrule
+                & \textbf{VecMap}     & \textbf{RCSLS}    & \textbf{NAT}     \\
+    \textbf{Corpus}      & 0.975 & 0.981 & 0.971 \\
+    \textbf{Isomorphism} & 0.777 & 0.793 & 0.765 \\
+    \textbf{All}         & 0.972 & 0.974 & 0.966 \\
+    \bottomrule
+    \end{tabular}
+    }
+    \caption{R2 scores of the predictions of P@1 scores, using random forest regression based on our three corpus properties combined, six isomorphism measures combined, and all of these.}
+    \label{tab:pred}
+    \end{table}
+    
+    
+\begin{table}[htbp]
+\centering
+\resizebox{0.8\linewidth}{!}{
+\begin{tabular}{l|ccc}
+\toprule
+\multicolumn{4}{l}{\textbf{L-Wiki:}}\\
+\midrule
+                   & \textbf{VecMap}              & \textbf{RCSLS}              & \textbf{NAT}                \\
+Laplacian          & 0.737  & 0.740 & 0.754 \\
+SVG                & 0.617  & 0.595 & 0.601 \\
+Spectral           & 0.760  & 0.777 & 0.770 \\
+Effective Spectral & 0.763  & 0.766 & 0.776 \\
+Relational         & 0.735  & 0.727 & 0.731 \\
+Neighbors          & 0.793  & 0.796 & 0.802 \\
+\midrule
+\multicolumn{4}{l}{\textbf{M-Wiki:}}\\
+\midrule
+                   & \textbf{VecMap}              & \textbf{RCSLS}              & \textbf{NAT}                \\
+Laplacian          & 0.524 & 0.517 & 0.537 \\
+SVG                & 0.746 & 0.731 & 0.737   \\
+Spectral           & 0.821  & 0.827 & 0.824 \\
+Effective Spectral & 0.815  & 0.832 & 0.824 \\
+Relational         & 0.681  & 0.678  & 0.660  \\
+Neighbors          & 0.553 & 0.570 & 0.564 \\
+\midrule
+\multicolumn{4}{l}{\textbf{S-Wiki:}}\\
+\midrule
+                   & \textbf{VecMap}              & \textbf{RCSLS} & \textbf{NAT}                \\
+Laplacian          & 0.443 & 0.453 & 0.437 \\
+SVG                & 0.621  & 0.655 & 0.649 \\
+Spectral           & 0.448  & 0.456 & 0.448  \\
+Effective Spectral & 0.537  & 0.552 & 0.548 \\
+Relational         & 0.746  & 0.724  & 0.743 \\
+Neighbors          & 0.642  & 0.655 & 0.645 \\
+\bottomrule
+\end{tabular}
+}
+\caption{R2 scores of the predictions of isomorphism, based on our three corpus properties combined, using random forest regression.}
+\label{tab:isopred}
+\end{table}
+
+    
+\section{Conclusion}
+    We examined the connection of embedding mapping scores to languages, corpus properties, and embedding isomorphism. We found that the Spanish Wikipedia is better for this purpose than the English Wikipedia, often used by default. This is explained by our other experiments on the relationship of corpus properties and mapping quality, where it turned out that corpus similarity is at least as important as corpus size, therefore the hugeness and wide diversity of the English Wikipedia can be harmful. 
+    
+    Moreover, we have seen that language similarity is really beneficial for very closely related languages only, e.g. between Germanic or Romance languages. Mapping scores are well predictable even without any information about the languages, based on three properties of the corpora: corpus size, proportion of common tokens, and distance of the word distributions. These data also surpass existing embedding isomorphism measures as predictors.
+    
+    On the other hand, this paper focuses on BLI scores only, which were shown to not correlate perfectly with bilingual performance on downstream tasks \cite{glavas-etal-2019-properly}. We suppose that to some extent our findings hold in downstream situations as well, since downstream performance cannot be independent of BLI scores, but this question should be part of further research. The main difference between downstream and BLI evaluation scores is probably the importance of monolingual embedding quality: while two embedding matrices can be trained almost perfectly isomorphically on a relatively small parallel corpus, the monolingual performance of these embeddings probably lags behind embeddings trained on a big corpus, Wikipedia for example. But at the same time, this also shows that embeddings can be mapped very well even if they are not of the highest quality, but their corpora are similar enough. 
+    
+\section*{Acknowledgements}
+Réka Cserháti was supported by the ÚNKP-21-1 -- New National Excellence Program of the Ministry for Innovation and Technology from the source of the National Research, Development and Innovation Fund.
+
+The research presented in this paper was partly supported by the Ministry of Innovation and the National Research, Development and Innovation Office within the framework of the Artificial Intelligence National Laboratory Programme.
+
+\nocite{lin-etal-2019-choosing} 
+\nocite{patra-etal-2019-bilingual}
+\nocite{ormazabal-etal-2019-analyzing}
+\nocite{ruder2019survey}
+
+
+% Entries for the entire Anthology, followed by custom entries
+\bibliography{anthology,custom}
+\bibliographystyle{acl_natbib}
+
+
+\end{document}

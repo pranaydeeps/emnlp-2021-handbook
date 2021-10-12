@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Subcategorizing Adverbials in Universal Conceptual Cognitive Annotation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ivy Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Universal Conceptual Cognitive Annotation (UCCA) is a semantic annotation scheme that organizes texts into coarse predicate-argument structure, offering broad coverage of semantic phenomena. At the same time, there is still need for a finer-grained treatment of many of the categories. The Adverbial category is of special interest, as it covers a wide range of fundamentally different meanings such as negation, causation, aspect, and event quantification. In this paper we introduce a refinement annotation scheme for UCCA's Adverbial category, showing that UCCA Adverbials can indeed be subcategorized into at least 7 semantic types, and doing so can help clarify and disambiguate the otherwise coarse-grained labels. We provide a preliminary set of annotation guidelines, as well as pilot annotation experiments with high inter-annotator agreement, confirming the validity of the scheme.
+Author{1}{Firstname}#=%=#Zhuxin
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Username}#=%=#ivywang
+Author{1}{Email}#=%=#ivywang0531@gmail.com
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Jakob
+Author{2}{Lastname}#=%=#Prange
+Author{2}{Username}#=%=#jprange
+Author{2}{Email}#=%=#jp1724@georgetown.edu
+Author{2}{Affiliation}#=%=#Georgetown University
+Author{3}{Firstname}#=%=#Nathan
+Author{3}{Lastname}#=%=#Schneider
+Author{3}{Username}#=%=#nschneid
+Author{3}{Email}#=%=#nathan.schneider@georgetown.edu
+Author{3}{Affiliation}#=%=#Georgetown University
+
+==========

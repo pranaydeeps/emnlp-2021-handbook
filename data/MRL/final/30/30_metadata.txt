@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Karthikeyan K
+JobTitle#==#
+Organization#==#Duke University, Durham, North Carolina USA
+Abstract#==#Multilingual language models achieve impressive zero-shot accuracies in many languages in complex tasks such as Natural Language Inference (NLI). Examples in NLI (and equivalent complex tasks) often pertain to various types of sub-tasks, requiring different kinds of reasoning. Certain types of reasoning have proven to be more difficult to learn in a monolingual context, and in the crosslingual context, similar observations may shed light on zero-shot transfer efficiency and few-shot sample selection. Hence, to investigate the effects of types of reasoning on transfer performance, we propose a category-annotated multilingual NLI dataset and discuss the challenges to scale monolingual annotations to multiple languages. We statistically observe interesting effects that the confluence of reasoning types and language similarities have on transfer performance.
+Author{1}{Firstname}#=%=#Karthikeyan
+Author{1}{Lastname}#=%=#K
+Author{1}{Username}#=%=#kkarthi
+Author{1}{Email}#=%=#karthikeyank2404@gmail.com
+Author{1}{Affiliation}#=%=#Duke University
+Author{2}{Firstname}#=%=#Aalok
+Author{2}{Lastname}#=%=#Sathe
+Author{2}{Username}#=%=#aalok.sathe
+Author{2}{Email}#=%=#aalok.sathe@richmond.edu
+Author{2}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{3}{Firstname}#=%=#Somak
+Author{3}{Lastname}#=%=#Aditya
+Author{3}{Username}#=%=#somakaditya
+Author{3}{Email}#=%=#saditya1@asu.edu
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Monojit
+Author{4}{Lastname}#=%=#Choudhury
+Author{4}{Username}#=%=#monojit
+Author{4}{Email}#=%=#monojitc@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+
+==========

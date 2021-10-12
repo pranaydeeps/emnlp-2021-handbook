@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#46
+FinalPaperTitle#=%=#{V}yākarana: {A} Colorless Green Benchmark for Syntactic Evaluation in Indic Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Rajaswa Patil
+JobTitle#==#
+Organization#==#BITS Pilani, Goa Campus. Goa, India.
+Abstract#==#While there has been significant progress towards developing NLU resources for Indic languages, syntactic evaluation has been relatively less explored. Unlike English, Indic languages have rich morphosyntax, grammatical genders, free linear word-order, and highly inflectional morphology. In this paper, we introduce Vyākarana: a benchmark of Colorless Green sentences in Indic languages for syntactic evaluation of multilingual language models. The benchmark comprises four syntax-related tasks: PoS Tagging, Syntax Tree-depth Prediction, Grammatical Case Marking, and Subject-Verb Agreement. We use the datasets from the evaluation tasks to probe five multilingual language models of varying architectures for syntax in Indic languages. Due to its prevalence, we also include a code-switching setting in our experiments. Our results show that the token-level and sentence-level representations from the Indic language models (IndicBERT and MuRIL) do not capture the syntax in Indic languages as efficiently as the other highly multilingual language models. Further, our layer-wise probing experiments reveal that while mBERT, DistilmBERT, and XLM-R localize the syntax in middle layers, the Indic language models do not show such syntactic localization.
+Author{1}{Firstname}#=%=#Rajaswa
+Author{1}{Lastname}#=%=#Patil
+Author{1}{Username}#=%=#rajaswa
+Author{1}{Email}#=%=#f20170334@goa.bits-pilani.ac.in
+Author{1}{Affiliation}#=%=#BITS Pilani, Goa Campus
+Author{2}{Firstname}#=%=#Jasleen
+Author{2}{Lastname}#=%=#Dhillon
+Author{2}{Username}#=%=#jasleendhillon
+Author{2}{Email}#=%=#jasleen1722@gmail.com
+Author{2}{Affiliation}#=%=#BITS Pilani, Goa Campus
+Author{3}{Firstname}#=%=#Siddhant
+Author{3}{Lastname}#=%=#Mahurkar
+Author{3}{Username}#=%=#siddhantm
+Author{3}{Email}#=%=#sm5129@columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+Author{4}{Firstname}#=%=#Saumitra
+Author{4}{Lastname}#=%=#Kulkarni
+Author{4}{Username}#=%=#saumitra98
+Author{4}{Email}#=%=#kulkarnisaumitra98@gmail.com
+Author{4}{Affiliation}#=%=#PICT, Maharashtra, India
+Author{5}{Firstname}#=%=#Manav
+Author{5}{Lastname}#=%=#Malhotra
+Author{5}{Username}#=%=#manavmalhotra
+Author{5}{Email}#=%=#f20171016@goa.bits-pilani.ac.in
+Author{5}{Affiliation}#=%=#BITS Pilani, Goa Campus
+Author{6}{Firstname}#=%=#Veeky
+Author{6}{Lastname}#=%=#Baths
+Author{6}{Username}#=%=#veekyb
+Author{6}{Email}#=%=#veeky@goa.bits-pilani.ac.in
+Author{6}{Affiliation}#=%=#BITS Pilani, Goa Campus
+
+==========

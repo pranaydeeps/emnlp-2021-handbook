@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Developing a Benchmark for Reducing Data Bias in Authorship Attribution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Benjamin Murauer
+JobTitle#==#
+Organization#==#Universität Innsbruck
+Technikerstraße 52a
+6020 Innsbruck
+Austria
+Abstract#==#Authorship attribution is the task of assigning an unknown document to an author from a set of candidates.
+  In the past, studies in this field use various evaluation datasets to demonstrate the effectiveness of preprocessing steps, features, and models. However, only a small fraction of works use more than one dataset to prove claims.
+  In this paper, we present a collection of highly diverse authorship attribution datasets, which better generalizes evaluation results from authorship attribution research. Furthermore, we implement a wide variety of previously used machine learning models and show that many approaches show vastly different performances when applied to different datasets. We include pre-trained language models, for the first time testing them in this field in a systematic way.
+  Finally, we propose a set of aggregated scores to evaluate different aspects of the dataset collection.
+Author{1}{Firstname}#=%=#Benjamin
+Author{1}{Lastname}#=%=#Murauer
+Author{1}{Username}#=%=#bmurauer
+Author{1}{Email}#=%=#benjamin.murauer@student.uibk.ac.at
+Author{1}{Affiliation}#=%=#Universität Innsbruck
+Author{2}{Firstname}#=%=#Günther
+Author{2}{Lastname}#=%=#Specht
+Author{2}{Email}#=%=#guenther.specht@uibk.ac.at
+Author{2}{Affiliation}#=%=#Universität Innsbruck
+
+==========

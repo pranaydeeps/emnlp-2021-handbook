@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#Explainable Quality Estimation: CUNI Eval4NLP Submission
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Peter Polak
+JobTitle#==#
+Organization#==#Institute of Formal and Applied Linguistics,
+Faculty of Mathematics and Physics,
+Charles University
+Malostranské náměstí 25
+118 00 Praha
+Czech Republic
+Abstract#==#This paper describes our participating system in the shared task Explainable quality estimation of 2nd Workshop on Evaluation & Comparison of NLP Systems. The task of quality estimation (QE, a.k.a. reference-free evaluation) is to predict the quality of MT output at inference time without access to reference translations. In this proposed work, we first build a word-level quality estimation model, then we finetune this model for sentence-level QE. Our proposed models achieve near state-of-the-art results. In the word-level QE, we place 2nd and 3rd on the supervised Ro-En and Et-En test sets. In the sentence-level QE, we achieve a relative improvement of 8.86% (Ro-En) and 10.6% (Et-En) in terms of the Pearson correlation coefficient over the baseline model.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Polák
+Author{1}{Username}#=%=#polak
+Author{1}{Email}#=%=#polak@ufal.mff.cuni.cz
+Author{1}{Affiliation}#=%=#Charles University, MFF UFAL
+Author{2}{Firstname}#=%=#Muskaan
+Author{2}{Lastname}#=%=#Singh
+Author{2}{Username}#=%=#muskaan122
+Author{2}{Email}#=%=#singh@ufal.mff.cuni.cz
+Author{2}{Affiliation}#=%=#UFAL,Charles University
+Author{3}{Firstname}#=%=#Ondřej
+Author{3}{Lastname}#=%=#Bojar
+Author{3}{Username}#=%=#bojar
+Author{3}{Email}#=%=#bojar@ufal.mff.cuni.cz
+Author{3}{Affiliation}#=%=#Charles University, MFF UFAL
+
+==========

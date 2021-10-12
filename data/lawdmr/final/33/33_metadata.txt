@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#On Releasing Annotator-Level Labels and Information in Datasets
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Vinodkumar Prabhakaran
+JobTitle#==#
+Organization#==#
+Abstract#==#A common practice in building NLP datasets, especially using crowd-sourced annotations, involves obtaining multiple annotator judgements on the same data instances, which are then flattened to produce a single “ground truth” label or score, through majority voting, averaging, or adjudication. While these approaches may be appropriate in certain annotation tasks, such aggregations overlook the socially constructed nature of human perceptions that annotations for relatively more subjective tasks are meant to capture. In particular, systematic disagreements between annotators owing to their socio-cultural backgrounds and/or lived experiences are often obfuscated through such aggregations. In this paper, we empirically demonstrate that label aggregation may introduce representational biases of individual and group perspectives. Based on this finding, we propose a set of recommendations for increased utility and transparency of datasets for downstream use cases.
+Author{1}{Firstname}#=%=#Vinodkumar
+Author{1}{Lastname}#=%=#Prabhakaran
+Author{1}{Username}#=%=#vinodkpg
+Author{1}{Email}#=%=#vinodkpg@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Aida
+Author{2}{Lastname}#=%=#Mostafazadeh Davani
+Author{2}{Username}#=%=#aidadavani
+Author{2}{Email}#=%=#mostafaz@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Diaz
+Author{3}{Email}#=%=#markdiaz@google.com
+Author{3}{Affiliation}#=%=#Google Research
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#48
+FinalPaperTitle#=%=#Identifying Significant Citations via Mining Paper Full-Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Literature search is the most crucial part of scientific work in NLP. It plays a vital role in devel- oping an understanding of a research problem, finding the previously explored frontiers, identi- fying research gaps, and leading to the development of new ideas. However, with the exponential growth of scientific literature (including published papers and pre-prints), it is almost impossible for a researcher to go through the entire body of the scholarly works even in a very narrow do- main. As a result, researchers spend a lot of their time searching for the most relevant papers to their research topic and locating the literature that carried forward a given scientific idea. Also, it is usually desirable for a researcher to understand the story behind a prior work, trace the emer- gence of the concept, and its gradual evolution through publications and identify the knowledge flow.
+Author{1}{Firstname}#=%=#Muskaan
+Author{1}{Lastname}#=%=#Singh
+Author{1}{Username}#=%=#muskaan122
+Author{1}{Email}#=%=#singh@ufal.mff.cuni.cz
+Author{1}{Affiliation}#=%=#UFAL,Charles University
+Author{2}{Firstname}#=%=#Tirthankar
+Author{2}{Lastname}#=%=#Ghosal
+Author{2}{Username}#=%=#pavel
+Author{2}{Email}#=%=#tirthankar.slg@gmail.com
+Author{2}{Affiliation}#=%=#Institute of Formal and Applied Linguistics, Charles University
+
+==========

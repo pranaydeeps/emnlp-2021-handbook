@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#59
+FinalPaperTitle#=%=#Sequence Mixup for Zero-Shot Cross-Lingual Part-Of-Speech Tagging
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Vishwa Shah
+JobTitle#==#
+Organization#==#
+Abstract#==#There have been efforts in cross-lingual transfer learning for various tasks. We present an approach utilizing an interpolative data augmentation method, Mixup, to improve the generalizability of models for part-of-speech tagging trained on a source language, improving its performance on unseen target languages. Through experiments on ten languages with diverse structures and language roots, we put forward its applicability for downstream zero-shot cross-lingual tasks.
+Author{1}{Firstname}#=%=#Megh
+Author{1}{Lastname}#=%=#Thakkar
+Author{1}{Username}#=%=#megh.1211
+Author{1}{Email}#=%=#megh.1211@gmail.com
+Author{1}{Affiliation}#=%=#BITS Pilani
+Author{2}{Firstname}#=%=#Vishwa
+Author{2}{Lastname}#=%=#Shah
+Author{2}{Username}#=%=#vishwa_shah_27
+Author{2}{Email}#=%=#f20180109@goa.bits-pilani.ac.in
+Author{2}{Affiliation}#=%=#BITS Pilani K. K. Birla Goa Campus
+Author{3}{Firstname}#=%=#Ramit
+Author{3}{Lastname}#=%=#Sawhney
+Author{3}{Username}#=%=#ramitsawhney
+Author{3}{Email}#=%=#ramits@iiitd.ac.in
+Author{3}{Affiliation}#=%=#IIIT Delhi
+Author{4}{Firstname}#=%=#Debdoot
+Author{4}{Lastname}#=%=#Mukherjee
+Author{4}{Username}#=%=#debdoot
+Author{4}{Email}#=%=#debdoot.iitd@gmail.com
+Author{4}{Affiliation}#=%=#Sharechat
+
+==========

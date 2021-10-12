@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Statistically Significant Detection of Semantic Shifts using Contextual Word Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Alan Medlar
+JobTitle#==#
+Organization#==#
+Abstract#==#Detecting lexical semantic change in smaller data sets, e.g. in historical linguistics and digital humanities, is challenging due to a lack of statistical power. This issue is exacerbated by non-contextual embedding models that produce one embedding per word and, therefore, mask the variability present in the data. In this article, we propose an approach to estimate semantic shift by combining contextual word embeddings with permutation-based statistical tests. We use the false discovery rate procedure to address the large number of hypothesis tests being conducted simultaneously. We demonstrate the performance of this approach in simulation where it achieves consistently high precision by suppressing false positives. We additionally analyze real-world data from SemEval-2020 Task 1 and the Liverpool FC subreddit corpus. We show that by taking sample variation into account, we can improve the robustness of individual semantic shift estimates without degrading overall performance.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Username}#=%=#liuyang_nfts
+Author{1}{Email}#=%=#yang.liu@helsinki.fi
+Author{1}{Affiliation}#=%=#University of Helsinki
+Author{2}{Firstname}#=%=#Alan
+Author{2}{Lastname}#=%=#Medlar
+Author{2}{Username}#=%=#ajmedlar
+Author{2}{Email}#=%=#alan.j.medlar@helsinki.fi
+Author{2}{Affiliation}#=%=#University of Helsinki
+Author{3}{Firstname}#=%=#Dorota
+Author{3}{Lastname}#=%=#Glowacka
+Author{3}{Username}#=%=#glowacka
+Author{3}{Email}#=%=#glowacka@cs.helsinki.fi
+Author{3}{Affiliation}#=%=#University of Helsinki
+
+==========

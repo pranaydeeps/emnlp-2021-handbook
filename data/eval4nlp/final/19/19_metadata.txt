@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#MIPE: A Metric Independent Pipeline for Effective Code-Mixed NLG Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Vivek Srivastava
+JobTitle#==#
+Organization#==#
+Abstract#==#Code-mixing is a phenomenon of mixing words and phrases from two or more languages in a single utterance of speech and text. Due to the high linguistic diversity, code-mixing presents several challenges in evaluating standard natural language generation (NLG) tasks. Various widely popular metrics perform poorly with the code-mixed NLG tasks. To address this challenge, we present a metric in- dependent evaluation pipeline MIPE that significantly improves the correlation between evaluation metrics and human judgments on the generated code-mixed text. As a use case, we demonstrate the performance of MIPE on the machine-generated Hinglish (code-mixing of Hindi and English languages) sentences from the HinGE corpus. We can extend the proposed evaluation strategy to other code-mixed language pairs, NLG tasks, and evaluation metrics with minimal to no effort.
+Author{1}{Firstname}#=%=#Ayush
+Author{1}{Lastname}#=%=#Garg
+Author{1}{Username}#=%=#ayushgarg
+Author{1}{Email}#=%=#ayush.g@alumni.iitgn.ac.in
+Author{1}{Affiliation}#=%=#Amazon, India
+Author{2}{Firstname}#=%=#Sammed
+Author{2}{Lastname}#=%=#Kagi
+Author{2}{Username}#=%=#sammed
+Author{2}{Email}#=%=#sammed98@gmail.com
+Author{2}{Affiliation}#=%=#IIT Gandhinagar
+Author{3}{Firstname}#=%=#Vivek
+Author{3}{Lastname}#=%=#Srivastava
+Author{3}{Username}#=%=#vivekiitgn
+Author{3}{Email}#=%=#vivek.srivastava@alumni.iitgn.ac.in
+Author{3}{Affiliation}#=%=#TCS Research
+Author{4}{Firstname}#=%=#Mayank
+Author{4}{Lastname}#=%=#Singh
+Author{4}{Username}#=%=#mayank_singh
+Author{4}{Email}#=%=#singh.mayank@iitgn.ac.in
+Author{4}{Affiliation}#=%=#IIT Gandhinagar
+
+==========

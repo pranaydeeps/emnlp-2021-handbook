@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Testing Cross-Database Semantic Parsers With Canonical Utterances
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Heather Lent
+JobTitle#==#
+Organization#==#
+Abstract#==#The benchmark performance of cross-database semantic parsing has climbed steadily in recent years, catalyzed by the wide adoption of pre-trained language models. Yet existing work have shown that state-of-the-art cross-database semantic parsers struggle to generalize to novel user utterances, databases and query structures.  To obtain transparent details on the strengths and limitation of these models, we propose a diagnostic testing approach based on controlled synthesis of canonical natural language and SQL pairs. Inspired by the CheckList, we characterize a set of essential capabilities for cross-database semantic parsing models, and detailed the method for synthesizing the corresponding test data. We evaluated a variety of high performing models using the proposed approach, and identified several non-obvious weaknesses across models (e.g. unable to correctly select many columns). Our dataset and code are released as a test suite at http://github.com/hclent/BehaviorCheckingSemPar.
+Author{1}{Firstname}#=%=#Heather
+Author{1}{Lastname}#=%=#Lent
+Author{1}{Username}#=%=#hclent
+Author{1}{Email}#=%=#hcl@di.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Semih
+Author{2}{Lastname}#=%=#Yavuz
+Author{2}{Username}#=%=#syavuz
+Author{2}{Email}#=%=#syavuz@salesforce.com
+Author{2}{Affiliation}#=%=#Salesforce Research
+Author{3}{Firstname}#=%=#Tao
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Username}#=%=#taoyds
+Author{3}{Email}#=%=#tao.yu@yale.edu
+Author{3}{Affiliation}#=%=#Yale University
+Author{4}{Firstname}#=%=#Tong
+Author{4}{Lastname}#=%=#Niu
+Author{4}{Username}#=%=#mrnt0810
+Author{4}{Email}#=%=#tniu@salesforce.com
+Author{4}{Affiliation}#=%=#Salesforce Research
+Author{5}{Firstname}#=%=#Yingbo
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Username}#=%=#yingbo.zhou
+Author{5}{Email}#=%=#yingbo.zhou@salesforce.com
+Author{5}{Affiliation}#=%=#Salesforce Research
+Author{6}{Firstname}#=%=#Dragomir
+Author{6}{Lastname}#=%=#Radev
+Author{6}{Username}#=%=#radev
+Author{6}{Email}#=%=#dragomir.radev@yale.edu
+Author{6}{Affiliation}#=%=#Yale University
+Author{7}{Firstname}#=%=#Xi Victoria
+Author{7}{Lastname}#=%=#Lin
+Author{7}{Username}#=%=#xilin
+Author{7}{Email}#=%=#xilin@cs.washington.edu
+Author{7}{Affiliation}#=%=#Facebook AI
+
+==========

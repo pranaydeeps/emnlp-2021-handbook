@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#36
+FinalPaperTitle#=%=#On the Cross-lingual Transferability of Contextualized Sense Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Kiamehr Rezaee
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper we analyze the extent to which contextualized sense embeddings, i.e., sense embeddings that are computed based on contextualized word embeddings, are transferable across languages.To this end, we compiled a unified cross-lingual benchmark for Word Sense Disambiguation. We then propose two simple strategies to transfer sense-specific knowledge across languages and test them on the benchmark.Experimental results show that this contextualized knowledge can be effectively transferred to similar languages through pre-trained multilingual language models, to the extent that they can out-perform  monolingual representations learnednfrom existing language-specific data.
+Author{1}{Firstname}#=%=#Kiamehr
+Author{1}{Lastname}#=%=#Rezaee
+Author{1}{Username}#=%=#kiamehr74
+Author{1}{Email}#=%=#kiamehrrezaee@gmail.com
+Author{1}{Affiliation}#=%=#Iran University of Science and Technology
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#Loureiro
+Author{2}{Username}#=%=#dloureiro
+Author{2}{Email}#=%=#dloureiro@fc.up.pt
+Author{2}{Affiliation}#=%=#University of Porto
+Author{3}{Firstname}#=%=#Jose
+Author{3}{Lastname}#=%=#Camacho-Collados
+Author{3}{Username}#=%=#pedrada
+Author{3}{Email}#=%=#camachocolladosj@cardiff.ac.uk
+Author{3}{Affiliation}#=%=#Cardiff University
+Author{4}{Firstname}#=%=#Mohammad Taher
+Author{4}{Lastname}#=%=#Pilehvar
+Author{4}{Username}#=%=#pilehvar
+Author{4}{Email}#=%=#mp792@cam.ac.uk
+Author{4}{Affiliation}#=%=#Tehran Institute for Advanced Studies
+
+==========

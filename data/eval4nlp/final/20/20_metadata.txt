@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#SeqScore: Addressing Barriers to Reproducible Named Entity Recognition Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chester Palen-Michel
+JobTitle#==#
+Organization#==#Brandeis University 
+415 South St, Waltham, MA 02453
+Abstract#==#To address a looming crisis of unreproducible evaluation for named entity recognition, we propose guidelines and introduce SeqScore, a software package to improve reproducibility.
+The guidelines we propose are extremely simple and center around transparency regarding how chunks are encoded and scored.
+We demonstrate that despite the apparent simplicity of NER evaluation, unreported differences in the scoring procedure can result in changes to scores that are both of noticeable magnitude and statistically significant.
+We describe SeqScore, which addresses many of the issues that cause replication failures.
+Author{1}{Firstname}#=%=#Chester
+Author{1}{Lastname}#=%=#Palen-Michel
+Author{1}{Username}#=%=#cpalemichel
+Author{1}{Email}#=%=#cpalenmichel@brandeis.edu
+Author{1}{Affiliation}#=%=#Brandeis University
+Author{2}{Firstname}#=%=#Nolan
+Author{2}{Lastname}#=%=#Holley
+Author{2}{Email}#=%=#nolanholley@brandeis.edu
+Author{2}{Affiliation}#=%=#Brandeis University
+Author{3}{Firstname}#=%=#Constantine
+Author{3}{Lastname}#=%=#Lignos
+Author{3}{Username}#=%=#lignos
+Author{3}{Email}#=%=#lignos@brandeis.edu
+Author{3}{Affiliation}#=%=#Brandeis University
+
+==========

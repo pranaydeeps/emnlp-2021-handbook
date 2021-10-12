@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#Sinhala-English Code-mixed and Code-switched Data Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This document presents a brief description about a proceeding research designed for Classification of Sinhala-English code-mixed and code-switched data. Further this contains detailed description about the dataset and the baseline models. The aim of this research is to find the best performing separate models for each task; language identification, hate speech detection, humor detection and sentiment analysis, and a multi tasking model to perform all these classification types. Through this paper, the preliminary steps followed in finding those models are reviewed.
+Author{1}{Firstname}#=%=#Janani
+Author{1}{Lastname}#=%=#Sumanapala
+Author{1}{Username}#=%=#janani
+Author{1}{Email}#=%=#jananisudeeptha.17@cse.mrt.ac.lk
+Author{1}{Affiliation}#=%=#University of Moratuwa, Sri Lanka
+Author{2}{Firstname}#=%=#Himashi
+Author{2}{Lastname}#=%=#Rathnayake
+Author{2}{Username}#=%=#himasirathnayake
+Author{2}{Email}#=%=#himashi.17@cse.mrt.ac.lk
+Author{2}{Affiliation}#=%=#University of Moratuwa
+Author{3}{Firstname}#=%=#Raveesha
+Author{3}{Lastname}#=%=#Rukshani
+Author{3}{Username}#=%=#raveeshar
+Author{3}{Email}#=%=#raveesha.17@cse.mrt.ac.lk
+Author{3}{Affiliation}#=%=#University of Moratuwa
+
+==========

@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Increasing Sentence-Level Comprehension Through Text Classification of Epistemic Functions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Maria Berger
+JobTitle#==#
+Organization#==#
+Abstract#==#Word embeddings capture semantic meaning of individual words. How to bridge word-level
+linguistic knowledge with sentence-level language representation is an open problem. This paper examines whether sentence-level representations can be achieved by building a custom sentence database focusing on one aspect of a sentence’s meaning. Our three separate
+semantic aspects are whether the sentence: (1) communicates a causal relationship, (2) indicates that two things are correlated with each other, and (3) expresses information or knowledge. The three classifiers provide epistemic information about a sentence’s content.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Berger
+Author{1}{Username}#=%=#mariamoritz
+Author{1}{Email}#=%=#mar.moritz04@googlemail.com
+Author{1}{Affiliation}#=%=#Ruhr University Bochum
+Author{2}{Firstname}#=%=#Elizabeth
+Author{2}{Lastname}#=%=#Goldstein
+Author{2}{Email}#=%=#lizgoldstein15@gmail.com
+Author{2}{Affiliation}#=%=#independent researcher
+
+==========

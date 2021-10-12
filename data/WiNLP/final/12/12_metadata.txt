@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Behavioral Testing of Knowledge Graph Embedding Models for Link Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#There are numerous applications for the prediction of new links within knowledge graphs. The best models for this task, knowledge graph embedding (KGE) models, are typically evaluated by computing some average performance metric on a test set. This approach makes it difficult to identify where the models might systematically fail. To combat this issue, we propose a new evaluation framework that builds upon the idea of behavioral testing, which allows us to target critical system capabilities and evaluate the performance of KGE models on them.
+Author{1}{Firstname}#=%=#Wiem
+Author{1}{Lastname}#=%=#Ben Rim
+Author{1}{Username}#=%=#wiem
+Author{1}{Email}#=%=#wiem.benrim@nlp.c.titech.ac.jp
+Author{1}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{2}{Firstname}#=%=#Carolin
+Author{2}{Lastname}#=%=#Lawrence
+Author{2}{Username}#=%=#carhaas
+Author{2}{Email}#=%=#Carolin.Lawrence@neclab.eu
+Author{2}{Affiliation}#=%=#NEC Laboratories Europe
+Author{3}{Firstname}#=%=#Kiril
+Author{3}{Lastname}#=%=#Gashteovski
+Author{3}{Username}#=%=#kgashteo
+Author{3}{Email}#=%=#kiril.gashteovski@gmail.com
+Author{3}{Affiliation}#=%=#NEC Laboratories Europe
+Author{4}{Firstname}#=%=#Mathias
+Author{4}{Lastname}#=%=#Niepert
+Author{4}{Username}#=%=#mniepert
+Author{4}{Email}#=%=#mathias.niepert@neclab.eu
+Author{4}{Affiliation}#=%=#NEC Labs Europe
+Author{5}{Firstname}#=%=#Naoaki
+Author{5}{Lastname}#=%=#Okazaki
+Author{5}{Username}#=%=#okazaki
+Author{5}{Email}#=%=#okazaki@c.titech.ac.jp
+Author{5}{Affiliation}#=%=#Tokyo Institute of Technology
+
+==========

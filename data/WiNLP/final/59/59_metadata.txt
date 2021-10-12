@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#59
+FinalPaperTitle#=%=#Towards Personalized Descriptions of Scientific Concepts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#A single scientific concept can be described in many different ways, and the most informative
+description depends on the audience. In this paper, we propose generating personalized scientific
+concept descriptions that are tailored to the user’s expertise and context. We outline a complete
+architecture for the task and release an expert-annotated resource, ACCoRD, which includes
+2360 labeled extractions and 1309 hand-authored concept descriptions for the key first step of
+extracting and generating multiple distinct descriptions of a concept in terms of different reference
+concepts. Our results show that existing models are not suitable for our task and that our
+extractive model substantially outperforms these baselines.
+Author{1}{Firstname}#=%=#Sonia
+Author{1}{Lastname}#=%=#Murthy
+Author{1}{Username}#=%=#soniam
+Author{1}{Email}#=%=#soniam@allenai.org
+Author{1}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#King
+Author{2}{Email}#=%=#daniel@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{3}{Firstname}#=%=#Tom
+Author{3}{Lastname}#=%=#Hope
+Author{3}{Email}#=%=#tomh@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{4}{Firstname}#=%=#Daniel
+Author{4}{Lastname}#=%=#Weld
+Author{4}{Email}#=%=#danw@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence, University of Washington
+Author{5}{Firstname}#=%=#Doug
+Author{5}{Lastname}#=%=#Downey
+Author{5}{Email}#=%=#dougd@allenai.org
+Author{5}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+
+==========

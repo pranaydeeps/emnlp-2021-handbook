@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#An interpretable representation that visually grounds dialog history
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Visual Dialog is assumed to require the dialog history to generate correct responses during a dialog. However,  it is not clear  from previous work how dialog history is needed for visualdialog. In this paper we define what it means for visual questions to  require dialog history and we propose a methodology for identifying them. We release a subset of the Guesswhat?! questions for which their dialog history completely changes their responses. We propose a novel interpretable representation that visually grounds dialog history: the Region under Discussion. It constrains the image’s spatial features according to a semantic representation of the history inspired by the information structure notion of Question  under Discussion. We evaluate the architecture on task-specific multimodal models and the visual transformer model LXMERT and show that there is still room for improvement
+Author{1}{Firstname}#=%=#Mauricio
+Author{1}{Lastname}#=%=#Mazuecos
+Author{1}{Username}#=%=#mmazuecos
+Author{1}{Email}#=%=#mmazuecos@mi.unc.edu.ar
+Author{1}{Affiliation}#=%=#Universidad Nacional de Córdoba, CONICET
+Author{2}{Firstname}#=%=#Franco M.
+Author{2}{Lastname}#=%=#Luque
+Author{2}{Username}#=%=#francolq
+Author{2}{Email}#=%=#francolq@famaf.unc.edu.ar
+Author{2}{Affiliation}#=%=#Universidad Nacional de Córdoba and CONICET
+Author{3}{Firstname}#=%=#Jorge
+Author{3}{Lastname}#=%=#Sánchez
+Author{3}{Username}#=%=#jrgsanchez
+Author{3}{Email}#=%=#jorge.sanchez@unc.edu.ar
+Author{3}{Affiliation}#=%=#CONICET
+Author{4}{Firstname}#=%=#Hernán
+Author{4}{Lastname}#=%=#Maina
+Author{4}{Username}#=%=#hernanmaina
+Author{4}{Email}#=%=#hernan.maina@mi.unc.edu.ar
+Author{4}{Affiliation}#=%=#Facultad de Matemática, Astronomía, Física y Computación - Universidad Nacional de Córdoba - CONICET
+Author{5}{Firstname}#=%=#Thomas
+Author{5}{Lastname}#=%=#Vadora
+Author{5}{Username}#=%=#thvadora
+Author{5}{Email}#=%=#thvadora@gmail.com
+Author{5}{Affiliation}#=%=#Universidad Nacional de Córdoba
+Author{6}{Firstname}#=%=#Luciana
+Author{6}{Lastname}#=%=#Benotti
+Author{6}{Username}#=%=#benotti
+Author{6}{Email}#=%=#luciana.benotti@unc.edu.ar
+Author{6}{Affiliation}#=%=#Universidad Nacional de Cordoba
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#58
+FinalPaperTitle#=%=#DMix: Distance Constrained Interpolative Mixup
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Shrey Pandit
+JobTitle#==#
+Organization#==#
+Abstract#==#Interpolation-based regularisation methods have proven to be effective for various tasks and modalities. 
+ Mixup is a data augmentation method that generates virtual training samples from convex combinations of individual inputs and labels. We extend Mixup and propose DMix, distance-constrained interpolative Mixup for sentence classification leveraging the hyperbolic space. DMix achieves state-of-the-art results on sentence classification over existing data augmentation methods across datasets in four languages.
+Author{1}{Firstname}#=%=#Ramit
+Author{1}{Lastname}#=%=#Sawhney
+Author{1}{Username}#=%=#ramitsawhney
+Author{1}{Email}#=%=#ramits@iiitd.ac.in
+Author{1}{Affiliation}#=%=#IIIT Delhi
+Author{2}{Firstname}#=%=#Megh
+Author{2}{Lastname}#=%=#Thakkar
+Author{2}{Username}#=%=#megh.1211
+Author{2}{Email}#=%=#megh.1211@gmail.com
+Author{2}{Affiliation}#=%=#BITS Pilani
+Author{3}{Firstname}#=%=#Shrey
+Author{3}{Lastname}#=%=#Pandit
+Author{3}{Username}#=%=#shrey_pandit
+Author{3}{Email}#=%=#f20190138@goa.bits-pilani.ac.in
+Author{3}{Affiliation}#=%=#BITS Pilani K. K. Birla Goa Campus
+Author{4}{Firstname}#=%=#Debdoot
+Author{4}{Lastname}#=%=#Mukherjee
+Author{4}{Username}#=%=#debdoot
+Author{4}{Email}#=%=#debdoot.iitd@gmail.com
+Author{4}{Affiliation}#=%=#Sharechat
+Author{5}{Firstname}#=%=#Lucie
+Author{5}{Lastname}#=%=#Flek
+Author{5}{Username}#=%=#flekova
+Author{5}{Email}#=%=#lucie.flek@uni-marburg.de
+Author{5}{Affiliation}#=%=#CAISA Lab, Faculty of Mathematics and Informatics, Philipps University of Marburg
+
+==========

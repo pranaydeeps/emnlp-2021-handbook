@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Neutralizing Gender Bias in Neural Machine Translation by Introducing Linguistic Knowledge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural Machine Translation has the power of learning from a large collection of data, which allows it to learn translations effectively and without requiring linguistic knowledge from the languages to translate. The main drawback is that this large collection of data may not exist (i.e. low-resource languages) or this data reproduces the social biases existing in the society. While introducing linguistic knowledge has been widely studied to reduce the impact of lack of data, it may also be interesting to use it as a potential tool to mitigate and neutralize biases. This paper explores the Factored Transformer, which is a neural machine translation architecture which allows for introducing linguistic features and its impact in gender bias mitigation. We investigate the influence of adding linguistic factors to Factored Transformer on 4 language pairs: English-French, English-Spanish, English-German and English-Russian and detect improvements using several types of linguistic input.
+Author{1}{Firstname}#=%=#Ksenia
+Author{1}{Lastname}#=%=#Kharitonova
+Author{1}{Username}#=%=#ksenia.kharitonova
+Author{1}{Email}#=%=#ksenia.kharitonova@gmail.com
+Author{1}{Affiliation}#=%=#Barcelona Supercomputing Center - Universitat Politècnica de Catalunya (UPC)
+Author{2}{Firstname}#=%=#Marta R.
+Author{2}{Lastname}#=%=#Costa-jussà
+Author{2}{Username}#=%=#marta.ruiz
+Author{2}{Email}#=%=#marta.ruiz@upc.edu
+Author{2}{Affiliation}#=%=#Universitat Politècnica de Catalunya
+Author{3}{Firstname}#=%=#Carlos
+Author{3}{Lastname}#=%=#Escolano
+Author{3}{Username}#=%=#carlos.escolano
+Author{3}{Email}#=%=#carlos.escolano@upc.edu
+Author{3}{Affiliation}#=%=#Universitat Politècnica de Catalunya
+Author{4}{Firstname}#=%=#Christine
+Author{4}{Lastname}#=%=#Basta
+Author{4}{Username}#=%=#christine.basta
+Author{4}{Email}#=%=#christine.raouf88@gmail.com
+Author{4}{Affiliation}#=%=#Universitat Politècnica de Catalunya
+Author{5}{Firstname}#=%=#Jordi
+Author{5}{Lastname}#=%=#Armengol-Estapé
+Author{5}{Username}#=%=#jordiae
+Author{5}{Email}#=%=#jordi.armengol.estape@gmail.com
+Author{5}{Affiliation}#=%=#Barcelona Supercomputing Center
+
+==========

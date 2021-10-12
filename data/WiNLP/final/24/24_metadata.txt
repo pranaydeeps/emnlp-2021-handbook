@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Nuanced Queerphobic Bias in Popular Sentiment Analysis Tools: A Data Set and Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Social biases such as queerphobia impact the development of NLP software meaning their output is often biased. In this paper we make the case for more nuanced tests for bias, and present a novel data set of 29,472 sentences to test for queerphobic bias in sentiment analysis tools. We use this data set to assess three commercially available models. None showed an overall bias against queer identities; however, we detected nuanced bias against minorities within the queer community, even in the two models which seem to have employed some superficial debiasing heuristic.
+Author{1}{Firstname}#=%=#Eddie
+Author{1}{Lastname}#=%=#Ungless
+Author{1}{Username}#=%=#mxeddieungless
+Author{1}{Email}#=%=#s2112744@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Björn
+Author{2}{Lastname}#=%=#Ross
+Author{2}{Username}#=%=#bjoernross
+Author{2}{Email}#=%=#b.ross@ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Vaishak
+Author{3}{Lastname}#=%=#Belle
+Author{3}{Username}#=%=#vaishakbelle
+Author{3}{Email}#=%=#vbelle@ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+
+==========

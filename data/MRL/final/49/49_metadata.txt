@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#Cross-Lingual Training of Dense Retrievers for Document Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Peng Shi
+JobTitle#==#
+Organization#==#
+Abstract#==#Dense retrieval has shown great success for passage ranking in English.
+However, its effectiveness for non-English languages remains unexplored due to limitation in training resources.
+In this work, we explore different transfer techniques for document ranking from English annotations to non-English languages.
+Our experiments reveal that zero-shot model-based transfer using mBERT improves search quality. 
+We find that weakly-supervised target language transfer is competitive compared to generation-based target language transfer, which requires translation models.
+Author{1}{Firstname}#=%=#Peng
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Username}#=%=#spone
+Author{1}{Email}#=%=#spone.2014@gmail.com
+Author{1}{Affiliation}#=%=#University of Waterloo
+Author{2}{Firstname}#=%=#Rui
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Username}#=%=#ryanzh
+Author{2}{Email}#=%=#rmz5227@psu.edu
+Author{2}{Affiliation}#=%=#Penn State University
+Author{3}{Firstname}#=%=#He
+Author{3}{Lastname}#=%=#Bai
+Author{3}{Username}#=%=#richardbai
+Author{3}{Email}#=%=#he.bai@uwaterloo.ca
+Author{3}{Affiliation}#=%=#University of Waterloo
+Author{4}{Firstname}#=%=#Jimmy
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Username}#=%=#jimmylin
+Author{4}{Email}#=%=#jimmylin@uwaterloo.ca
+Author{4}{Affiliation}#=%=#University of Waterloo
+
+==========

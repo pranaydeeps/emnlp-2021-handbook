@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#54
+FinalPaperTitle#=%=#The Development of Pre-processing Tools and Pre-trained Embedding Models for Amharic
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Tadesse Destaw
+JobTitle#==#
+Organization#==#Wollo University
+Abstract#==#Amharic is the second most spoken Semitic language after Arabic and serves as the official working language of Ethiopia. While Amharic NLP research is getting wider attention recently, the main bottleneck is that the resources and related tools are not publicly released, which makes it still a low-resource language. Due to this reason, we observe that different researchers try to repeat the same NLP research again and again. In this work, we investigate the existing approach in Amharic NLP and take
+the first step to publicly release tools, datasets, and models to advance Amharic NLP research. We build Python-based preprocessing tools for Amharic (tokenizer, sentence segmenter, and text cleaner) that can easily be used and integrated for the development of NLP applications. Furthermore, we compiled the first moderately large-scale Amharic text corpus (6.8m sentences) along with the word2Vec, fastText, RoBERTa, and FLAIR embeddings models. Finally, we compile benchmark datasets and build classification models for the named entity recognition task.
+Author{1}{Firstname}#=%=#Tadesse
+Author{1}{Lastname}#=%=#Destaw
+Author{1}{Username}#=%=#tadesseit
+Author{1}{Email}#=%=#tadesseit@gmail.com
+Author{1}{Affiliation}#=%=#Bahri Dar
+Author{2}{Firstname}#=%=#Abinew
+Author{2}{Lastname}#=%=#Ayele
+Author{2}{Username}#=%=#abinewali
+Author{2}{Email}#=%=#abinewaliayele@gmail.com
+Author{2}{Affiliation}#=%=#University of Hamburg, Bahir Dar University
+Author{3}{Firstname}#=%=#Seid Muhie
+Author{3}{Lastname}#=%=#Yimam
+Author{3}{Username}#=%=#seidm
+Author{3}{Email}#=%=#seidymam@gmail.com
+Author{3}{Affiliation}#=%=#Universität Hamburg
+
+==========

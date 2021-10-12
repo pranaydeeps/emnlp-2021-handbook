@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#SciBERT-based Multitasking Deep Neural Architecture to identify Contribution Statements from Scientific articles
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#The exponential growth in the scientific literature in recent years has lead to a serious scholarly
+information overload on researchers. Automatically identifying the specific contribution made
+in a research paper would help quicker comprehension of the work, faster literature survey, comparison
+with the related works, etc. Here in this work, we propose a method to automatically
+extract the contribution statements from research articles. We design a model (ContriSci) multitask
+deep neural network leveraging section identification and citance classification of scientific
+statements to predict whether a given scientific sentence specifies a contribution or not. Our
+long-term goal, we create a knowledge graph of scientific contributions for machine comprehension
+and more straightforward navigation of research contributions for a particular domain.
+Our proposed model achieves the best performance over earlier methods (a relative improvement
+of 8.08% in terms of F1 score) for contributing sentence identification over a dataset of Natural
+Language Processing (NLP) papers.
+Author{1}{Firstname}#=%=#Komal
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Username}#=%=#komalgupta
+Author{1}{Email}#=%=#krkomalgupta92@gmail.com
+Author{1}{Affiliation}#=%=#IIT Patna
+Author{2}{Firstname}#=%=#Tirthankar
+Author{2}{Lastname}#=%=#Ghosal
+Author{2}{Username}#=%=#pavel
+Author{2}{Email}#=%=#tirthankar.slg@gmail.com
+Author{2}{Affiliation}#=%=#Institute of Formal and Applied Linguistics, Charles University
+
+==========
