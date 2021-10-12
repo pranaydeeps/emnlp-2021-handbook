@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2021 00:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2021 01:23
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **handbook.tex
 (./handbook.tex
@@ -1013,7 +1014,8 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
 
-! LaTeX Error: Option clash for package biblatex.
+./content/special/preamble.tex:23: LaTeX Error: Option clash for package biblat
+ex.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1661,7 +1663,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 
 
 ]
-! Misplaced alignment tab character &.
+./handbook.toc:101: Misplaced alignment tab character &.
 <argument> ...MR: The 15th Linguistic Annotation &
                                                    3rd Designing Meaning Rep...
 l.101 ...ations Joint Workshop}{305}{section.7.14}
@@ -1709,7 +1711,7 @@ l.23 \item T
 
 
 ]
-! Misplaced alignment tab character &.
+./content/fmatter/preface-chair.tex:28: Misplaced alignment tab character &.
 l.28 \item The Diversity &
                            Inclusion Chairs -- Laura Alonso Alemany and Tosh...
 I can't figure out why you would want to use a tab mark
@@ -1834,7 +1836,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--267
 
  []
 
-! Misplaced alignment tab character &.
+./content/fmatter/committee.tex:274: Misplaced alignment tab character &.
 l.274 ...e*{0.2in} Steven Bedrick, Oregon Health &
                                                    Science University\\
 I can't figure out why you would want to use a tab mark
@@ -1939,7 +1941,8 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
  []
 
 
-! LaTeX Error: Command \tutorialmorningtime already defined.
+./content/tutorials/tutorials-overview-2.tex:10: LaTeX Error: Command \tutorial
+morningtime already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1970,7 +1973,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
  []
 
 (./auto/papers/Sunday-overview.tex
-! Undefined control sequence.
+./auto/papers/Sunday-overview.tex:5: Undefined control sequence.
 <recently read> \OpeningLoc 
                             
 l.5 ... Opening Remarks} \hfill \emph{\OpeningLoc}
@@ -1981,7 +1984,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./auto/papers/Sunday-overview.tex:11: Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.11 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -2197,7 +2200,7 @@ Overfull \hbox (29.23978pt too wide) in paragraph at lines 21--26
 []|[]|  
  []
 
-! Undefined control sequence.
+./auto/papers/Sunday-overview.tex:27: Undefined control sequence.
 <recently read> \MiniLoc 
                          
 l.27 ...fseries Mini Break} \hfill \emph{\MiniLoc}
@@ -2273,7 +2276,7 @@ Overfull \hbox (29.23978pt too wide) in paragraph at lines 30--36
 []|[]|  
  []
 
-! Undefined control sequence.
+./auto/papers/Sunday-overview.tex:37: Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.37 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -2374,7 +2377,7 @@ Overfull \hbox (29.23978pt too wide) in paragraph at lines 40--45
 []|[]|  
  []
 
-! Undefined control sequence.
+./auto/papers/Sunday-overview.tex:46: Undefined control sequence.
 <recently read> \VirtualLoc 
                             
 l.46 ...oster Session I} \hfill \emph{\VirtualLoc}
@@ -2386,7 +2389,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [31] [32]) (./content/day1/invited-talk.tex
-! Misplaced alignment tab character &.
+./content/day1/invited-talk.tex:35: Misplaced alignment tab character &.
 l.35 ...91) and a Member of Technical Staff at AT&
                                                   T Bell Laboratories (1992-...
 I can't figure out why you would want to use a tab mark
@@ -2464,7 +2467,8 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 45.
  (./auto/abstracts/papers-4268.tex
 
-! Package inputenc Error: Unicode char \u8:‚Üî not set up for use with LaTeX.
+./auto/abstracts/papers-4268.tex:1: Package inputenc Error: Unicode char \u8:‚Ü
+î not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -2478,7 +2482,8 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! Package textcomp Error: Symbol \textrightarrow not provided by
+./auto/abstracts/papers-4268.tex:1: Package textcomp Error: Symbol \textrightar
+row not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -2494,7 +2499,8 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! Package inputenc Error: Unicode char \u8:‚Üî not set up for use with LaTeX.
+./auto/abstracts/papers-4268.tex:1: Package inputenc Error: Unicode char \u8:‚Ü
+î not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -2625,8 +2631,13 @@ Package marginnote Info: Margin note 59.5 is on absolute page 60
 (marginnote)              on input line 34.
 Package marginnote Info: xpos seems to be 38.68724pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 34.
+Package marginnote Info: Suggest that margin note 59.6 will be on
+(marginnote)             absolute page 59.
+(marginnote)             This may be wrong on input line 38.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 38.
 
-Overfull \hbox (3.3298pt too wide) in paragraph at lines 29--37
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 29--41
  [] 
  []
 
@@ -2661,7 +2672,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-3437.tex) [60] (./auto/abstracts/papers-298.tex)
 (./auto/abstracts/papers-3294.tex) (./auto/abstracts/papers-3705.tex
 
-! Package inputenc Error: Unicode char \u8:‚âà not set up for use with LaTeX.
+./auto/abstracts/papers-3705.tex:1: Package inputenc Error: Unicode char \u8:‚â
+à not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -2675,7 +2687,8 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! Package inputenc Error: Unicode char \u8:‚âà not set up for use with LaTeX.
+./auto/abstracts/papers-3705.tex:1: Package inputenc Error: Unicode char \u8:‚â
+à not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -2738,26 +2751,75 @@ Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
  [] 
  []
 
+
+./auto/papers/Sunday-parallel-session-3.tex:25: LaTeX Error: \begin{SixSessionO
+verview} on input line 3 ended by \end{SixSessionsmall}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \end{SixSessionsmall}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 [67
 
 
-] (./auto/abstracts/papers-116.tex) (./auto/abstracts/papers-126.tex)
+]
+Package marginnote Info: Suggest that margin note 74.1 will be on
+(marginnote)             absolute page 74.
+(marginnote)             This may be wrong on input line 33.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 33.
+Package marginnote Info: Suggest that margin note 74.2 will be on
+(marginnote)             absolute page 74.
+(marginnote)             This may be wrong on input line 37.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 37.
+Package marginnote Info: Suggest that margin note 74.3 will be on
+(marginnote)             absolute page 74.
+(marginnote)             This may be wrong on input line 41.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 41.
+
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 32--44
+ [] 
+ []
+
+
+./auto/papers/Sunday-parallel-session-3.tex:44: LaTeX Error: \begin{SixSessionO
+verview} on input line 26 ended by \end{SixSessionsmall}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \end{SixSessionsmall}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[68] (./auto/abstracts/papers-116.tex) (./auto/abstracts/papers-126.tex)
 (./auto/abstracts/papers-2887.tex) (./auto/abstracts/papers-3389.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [68]
-[69] (./auto/abstracts/papers-3052.tex) (./auto/abstracts/papers-2024.tex)
+ [69]
+[70] (./auto/abstracts/papers-3052.tex) (./auto/abstracts/papers-2024.tex)
 (./auto/abstracts/papers-3049.tex) (./auto/abstracts/papers-4412.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70
+ [71
 
 ]
 (./auto/abstracts/papers-1501.tex) (./auto/abstracts/papers-2305.tex)
-(./auto/abstracts/papers-2831.tex) [71] (./auto/abstracts/papers-2759.tex)
+(./auto/abstracts/papers-2831.tex) [72] (./auto/abstracts/papers-2759.tex)
 (./auto/abstracts/papers-3133.tex) (./auto/abstracts/papers-4256.tex)
 (./auto/abstracts/papers-4329.tex
-! Undefined control sequence.
+./auto/abstracts/papers-4329.tex:1: Undefined control sequence.
 l.1 ...ation. Empirical results show that \mymodel
                                                    significantly outperforms...
 The control sequence at the end of the top line
@@ -2769,18 +2831,18 @@ and I'll forget about whatever was undefined.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [72
+ [73
 
 ]
-[73] (./auto/abstracts/papers-752.tex) (./auto/abstracts/papers-3384.tex)
+[74] (./auto/abstracts/papers-752.tex) (./auto/abstracts/papers-3384.tex)
 (./auto/abstracts/papers-3648.tex) (./auto/abstracts/papers-3661.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [74
+ [75
 
 ]
 (./auto/abstracts/papers-3917.tex
-! Undefined control sequence.
+./auto/abstracts/papers-3917.tex:1: Undefined control sequence.
 l.1 ...on.  In this paper, we evaluate leading \st
                                                    automatic metrics on the ...
 The control sequence at the end of the top line
@@ -2789,10 +2851,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) (./auto/abstracts/papers-4443.tex) [75] (./auto/abstracts/papers-979.tex)
+) (./auto/abstracts/papers-4443.tex) [76] (./auto/abstracts/papers-979.tex)
 (./auto/abstracts/papers-2039.tex) (./auto/abstracts/papers-2991.tex)
 (./auto/abstracts/papers-3019.tex) (./auto/abstracts/papers-3316.tex
-! Missing $ inserted.
+./auto/abstracts/papers-3316.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ..., making it intractable to do the full \$n^
@@ -2803,10 +2865,10 @@ you left one out. Proceed, with fingers crossed.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 )
-! Extra }, or forgotten $.
+./auto/papers/Sunday-parallel-session-3.tex:87: Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.68 ...tract{\day}{15:45--16:00}{}{}{papers-3316}
+l.87 ...tract{\day}{15:45--16:00}{}{}{papers-3316}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2814,16 +2876,16 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Sunday-parallel-session-3.tex:87: Missing $ inserted.
 <inserted text> 
                 $
-l.68 ...tract{\day}{15:45--16:00}{}{}{papers-3316}
+l.87 ...tract{\day}{15:45--16:00}{}{}{papers-3316}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (319.11441pt too wide) in paragraph at lines 68--68
+Overfull \hbox (319.11441pt too wide) in paragraph at lines 87--87
 \T1/ptm/m/n/7 men-tions, mak-ing it in-tractable to do the full $n$[]\OT1/cmr/m
 /n/7 $\OML/cmm/m/it/7 pairwisecomparisons:Existingapproachessimplifybyconsideri
 ngcoreferenceonlywithindocumentclusters; butthisfailstohandleinter \OMS/cmsy/m/
@@ -2831,7 +2893,7 @@ n/7 ^^@
  []
 
 
-Overfull \hbox (380.25197pt too wide) in paragraph at lines 68--68
+Overfull \hbox (380.25197pt too wide) in paragraph at lines 87--87
 \OML/cmm/m/it/7 clustercoreference; commoninmanyapplications:Asaresultcross \OM
 S/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 documentcoreferencealgorithmsarerarelyappliedt
 odownstreamtasks:Wedrawonaninsightfromdiscoursecoherencetheory \OT1/cmr/m/n/7 :
@@ -2839,7 +2901,7 @@ odownstreamtasks:Wedrawonaninsightfromdiscoursecoherencetheory \OT1/cmr/m/n/7 :
  []
 
 
-Overfull \hbox (904.75441pt too wide) in paragraph at lines 68--68
+Overfull \hbox (904.75441pt too wide) in paragraph at lines 87--87
 \OML/cmm/m/it/7 potentialcoreferencesareconstrainedbythereader[]sdiscoursefocus
 :Wemodeltheentities=eventsinareader[]sfocusasaneighborhoodwithinalearnedlatente
 mbeddingspacewhichminimizesthedistancebetweenmentionsandthecentroidsoftheirgold
@@ -2848,20 +2910,20 @@ afine \OMS/cmsy/m/n/7 ^^@
  []
 
 
-Overfull \hbox (36.43481pt too wide) in paragraph at lines 68--68
+Overfull \hbox (36.43481pt too wide) in paragraph at lines 87--87
 \OML/cmm/m/it/7 grainedclassifieronmentionpairsandtheirlocaldiscoursefeatures:O
 urapproachachievesstate \OMS/cmsy/m/n/7 ^^@
  []
 
 
-Overfull \hbox (77.32436pt too wide) in paragraph at lines 68--68
+Overfull \hbox (77.32436pt too wide) in paragraph at lines 87--87
 \OML/cmm/m/it/7 of \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 the \OMS/cmsy/m/n/7 ^^@ 
 \OML/cmm/m/it/7 artresultsforbotheventsandentitiesontheECB\OT1/cmr/m/n/7 +\OML/
 cmm/m/it/7 ; GunViolence; FootballCoreference; andCross \OMS/cmsy/m/n/7 ^^@
  []
 
 
-Overfull \hbox (578.12088pt too wide) in paragraph at lines 68--68
+Overfull \hbox (578.12088pt too wide) in paragraph at lines 87--87
 \OML/cmm/m/it/7 DomainCross \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 DocumentCorefer
 encecorpora:Furthermore; trainingonmultiplecorporaimprovesaverageperformanceacr
 ossalldatasetsby\OT1/cmr/m/n/7 17\OML/cmm/m/it/7 :\OT1/cmr/m/n/7 2\OML/cmm/m/it
@@ -2872,23 +2934,23 @@ onmodelthatisnowfeasibletoapplytodownstreamtasks:$
 (./auto/abstracts/papers-3857.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [76
+ [77
 
 ]
-[77] (./auto/abstracts/papers-2954.tex) (./auto/abstracts/papers-1437.tex)
+[78] (./auto/abstracts/papers-2954.tex) (./auto/abstracts/papers-1437.tex)
 (./auto/abstracts/papers-2014.tex) (./auto/abstracts/papers-2734.tex)
 (./auto/abstracts/papers-3013.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [78
+ [79
 
 ]
-(./auto/abstracts/papers-2835.tex) [79] (./auto/abstracts/papers-703.tex)
+(./auto/abstracts/papers-2835.tex) [80] (./auto/abstracts/papers-703.tex)
 (./auto/abstracts/papers-908.tex) (./auto/abstracts/papers-1402.tex)
 (./auto/abstracts/papers-2109.tex) (./auto/abstracts/papers-2440.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [80
+ [81
 
 ]
 (./auto/abstracts/papers-2936.tex) (./auto/abstracts/papers-3276.tex)
@@ -2896,11 +2958,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-096.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81]
+ [82]
 (./auto/abstracts/papers-485.tex) (./auto/abstracts/papers-1067.tex)
 (./auto/abstracts/papers-1496.tex) (./auto/abstracts/papers-2119.tex
 
-! Package textcomp Error: Symbol \textrightarrow not provided by
+./auto/abstracts/papers-2119.tex:1: Package textcomp Error: Symbol \textrightar
+row not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -2917,7 +2980,8 @@ or  <return>  to continue without it.
 
 ) (./auto/abstracts/papers-2219.tex
 
-! Package textcomp Error: Symbol \textrightarrow not provided by
+./auto/abstracts/papers-2219.tex:1: Package textcomp Error: Symbol \textrightar
+row not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -2935,57 +2999,68 @@ or  <return>  to continue without it.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82]
+ [83]
 (./auto/abstracts/papers-2381.tex) (./auto/abstracts/papers-3016.tex)
 (./auto/abstracts/papers-3643.tex) (./auto/abstracts/papers-3741.tex)
 (./auto/abstracts/papers-3803.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
-[84]) (./auto/papers/Sunday-parallel-session-4.tex
-Package marginnote Info: Margin note 91.1 is on absolute page 91
-(marginnote)              on input line 10.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 10.
-Package marginnote Info: Margin note 91.2 is on absolute page 91
-(marginnote)              on input line 14.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 14.
-Package marginnote Info: Margin note 91.3 is on absolute page 91
-(marginnote)              on input line 18.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 18.
-Package marginnote Info: Margin note 91.4 is on absolute page 91
-(marginnote)              on input line 22.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 22.
+ [84]
+[85]) (./auto/papers/Sunday-parallel-session-4.tex
+Package marginnote Info: Suggest that margin note 92.1 will be on
+(marginnote)             absolute page 92.
+(marginnote)             This may be wrong on input line 10.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 10.
+Package marginnote Info: Suggest that margin note 92.2 will be on
+(marginnote)             absolute page 92.
+(marginnote)             This may be wrong on input line 14.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 14.
+Package marginnote Info: Suggest that margin note 92.3 will be on
+(marginnote)             absolute page 92.
+(marginnote)             This may be wrong on input line 18.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 18.
+Package marginnote Info: Suggest that margin note 92.4 will be on
+(marginnote)             absolute page 92.
+(marginnote)             This may be wrong on input line 22.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 22.
 
 Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
  [] 
  []
 
-Package marginnote Info: Margin note 91.5 is on absolute page 92
-(marginnote)              on input line 35.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 35.
-Package marginnote Info: Margin note 91.6 is on absolute page 92
-(marginnote)              on input line 39.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 39.
+Package marginnote Info: Suggest that margin note 92.5 will be on
+(marginnote)             absolute page 92.
+(marginnote)             This may be wrong on input line 35.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 35.
+Package marginnote Info: Suggest that margin note 92.6 will be on
+(marginnote)             absolute page 92.
+(marginnote)             This may be wrong on input line 39.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 39.
+Package marginnote Info: Suggest that margin note 92.7 will be on
+(marginnote)             absolute page 92.
+(marginnote)             This may be wrong on input line 43.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 43.
 
-Overfull \hbox (3.3298pt too wide) in paragraph at lines 34--42
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 34--46
  [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85
+ [86
 
 
 ]
-[86] (./auto/abstracts/papers-1456.tex
-! Missing $ inserted.
+[87] (./auto/abstracts/papers-1456.tex
+./auto/abstracts/papers-1456.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...mer parameters to grow in magnitude (\$\ell
@@ -2994,10 +3069,10 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Sunday-parallel-session-4.tex:52: Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.48 ...tract{\day}{16:45--17:00}{}{}{papers-1456}
+l.52 ...tract{\day}{16:45--17:00}{}{}{papers-1456}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3005,16 +3080,16 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Sunday-parallel-session-4.tex:52: Missing $ inserted.
 <inserted text> 
                 $
-l.48 ...tract{\day}{16:45--17:00}{}{}{papers-1456}
+l.52 ...tract{\day}{16:45--17:00}{}{}{papers-1456}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (3340.11806pt too wide) in paragraph at lines 48--48
+Overfull \hbox (3340.11806pt too wide) in paragraph at lines 52--52
 \T1/ptm/m/n/7 ni-tude ($$\OML/cmm/m/it/7 `[]\OT1/cmr/m/n/7 2$\OML/cmm/m/it/7 no
 rm\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 duringtraining; anditsimplicationsfortheemerg
 entrepresentationswithinselfattentionlayers:Empirically; wedocumentnormgrowthin
@@ -3035,9 +3110,9 @@ hestructureofcomputationwithinlargetransformers:$
 (./auto/abstracts/papers-282.tex) (./auto/abstracts/papers-3340.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87]
-(./auto/abstracts/papers-1967.tex) [88] (./auto/abstracts/papers-2951.tex)
-Underfull \hbox (badness 5064) in paragraph at lines 58--58
+ [88]
+(./auto/abstracts/papers-1967.tex) [89] (./auto/abstracts/papers-2951.tex)
+Underfull \hbox (badness 5064) in paragraph at lines 62--62
 []\T1/ptm/b/n/8 DIALKI: Knowl-edge Iden-ti-fi-ca-tion in Con-ver-sa-tional Sys-
 tems through Dialogue-
  []
@@ -3047,12 +3122,12 @@ tems through Dialogue-
 (./auto/abstracts/papers-3293.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [89
+ [90
 
 ]
-(./auto/abstracts/papers-3634.tex) [90] (./auto/abstracts/papers-2665.tex)
+(./auto/abstracts/papers-3634.tex) [91] (./auto/abstracts/papers-2665.tex)
 (./auto/abstracts/papers-3127.tex) (./auto/abstracts/papers-3319.tex)
-(./auto/abstracts/papers-3489.tex) [91
+(./auto/abstracts/papers-3489.tex) [92
 
 ] (./auto/abstracts/papers-344.tex)
 (./auto/abstracts/papers-770.tex) (./auto/abstracts/papers-1010.tex)
@@ -3060,11 +3135,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-2072.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [92
+ [93
 
 ]
 (./auto/abstracts/papers-4018.tex
-! Undefined control sequence.
+./auto/abstracts/papers-4018.tex:1: Undefined control sequence.
 l.1 ...ed recurrent unit (GRU) network, \cryptogru
                                                   , for low-latency secure i...
 The control sequence at the end of the top line
@@ -3073,7 +3148,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./auto/abstracts/papers-4018.tex:1: Undefined control sequence.
 l.1 ...r low-latency secure inferences. \cryptogru
                                                    replaces computationally ...
 The control sequence at the end of the top line
@@ -3082,7 +3157,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./auto/abstracts/papers-4018.tex:1: Undefined control sequence.
 l.1 ...ctivations in a GRU. We evaluate \cryptogru
                                                    with multiple GRU models ...
 The control sequence at the end of the top line
@@ -3091,7 +3166,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./auto/abstracts/papers-4018.tex:1: Undefined control sequence.
 l.1 ...asets. Experimental results show \cryptogru
                                                    achieves top-notch accura...
 The control sequence at the end of the top line
@@ -3100,7 +3175,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Missing $ inserted.
+./auto/abstracts/papers-4018.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...cure inference latency by up to \$138\times
@@ -3109,10 +3184,10 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Sunday-parallel-session-4.tex:84: Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.80 ...tract{\day}{18:05--18:15}{}{}{papers-4018}
+l.84 ...tract{\day}{18:05--18:15}{}{}{papers-4018}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3120,23 +3195,23 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Sunday-parallel-session-4.tex:84: Missing $ inserted.
 <inserted text> 
                 $
-l.80 ...tract{\day}{18:05--18:15}{}{}{papers-4018}
+l.84 ...tract{\day}{18:05--18:15}{}{}{papers-4018}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[93] (./auto/abstracts/papers-577.tex)
-Underfull \hbox (badness 1383) in paragraph at lines 85--85
+[94] (./auto/abstracts/papers-577.tex)
+Underfull \hbox (badness 1383) in paragraph at lines 89--89
 []\T1/ptm/b/n/8 Segment, Mask, and Pre-dict: Aug-ment-ing Chi-nese Word Seg-men
 -ta-tion with Self-
  []
 
 (./auto/abstracts/papers-2098.tex) (./auto/abstracts/papers-2347.tex)
 (./auto/abstracts/papers-3029.tex
-! Missing $ inserted.
+./auto/abstracts/papers-3029.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 .... The best known algorithms so far are O(n^
@@ -3145,10 +3220,10 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Sunday-parallel-session-4.tex:91: Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.87 ...tract{\day}{17:30--17:45}{}{}{papers-3029}
+l.91 ...tract{\day}{17:30--17:45}{}{}{papers-3029}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3156,16 +3231,16 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Sunday-parallel-session-4.tex:91: Missing $ inserted.
 <inserted text> 
                 $
-l.87 ...tract{\day}{17:30--17:45}{}{}{papers-3029}
+l.91 ...tract{\day}{17:30--17:45}{}{}{papers-3029}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (564.36697pt too wide) in paragraph at lines 87--87
+Overfull \hbox (564.36697pt too wide) in paragraph at lines 91--91
 \T1/ptm/m/n/7 as max-i-mum match-ing. The best known al-go-rithms so far are O(
 n$[]\OT1/cmr/m/n/7 )(\OML/cmm/m/it/7 wherenistheinputlength\OT1/cmr/m/n/7 )\OML
 /cmm/m/it/7 orO\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 nm\OT1/cmr/m/n/7 )(\OML/cmm/m/it
@@ -3176,7 +3251,7 @@ msy/m/n/7 ^^@
  []
 
 
-Overfull \hbox (495.98639pt too wide) in paragraph at lines 87--87
+Overfull \hbox (495.98639pt too wide) in paragraph at lines 91--91
 \OML/cmm/m/it/7 Corasickalgorithm:Weintroduceadditionallinkagesontopofthetriebu
 iltfromthevocabulary; allowingsmarttransitionswhenthetriematchingcannotcontinue
 :Forgeneraltext; wefurtherproposeanalgorithmthatcombinespre \OMS/cmsy/m/n/7 ^^@
@@ -3184,7 +3259,7 @@ iltfromthevocabulary; allowingsmarttransitionswhenthetriematchingcannotcontinue
  []
 
 
-Overfull \hbox (611.43831pt too wide) in paragraph at lines 87--87
+Overfull \hbox (611.43831pt too wide) in paragraph at lines 91--91
 \OML/cmm/m/it/7 tokenization\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 splittingthetextint
 owords\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 andourlinear \OMS/cmsy/m/n/7 ^^@ \OML/cmm
 /m/it/7 timeWordPiecemethodintoasinglepass:Experimentalresultsshowthatourmethod
@@ -3196,11 +3271,11 @@ m/m/it/7 xfasterthanTensorFlowTextonaverageforgeneraltexttokenization:$
 (./auto/abstracts/papers-3144.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [94
+ [95
 
 ]
-[95] (./auto/abstracts/papers-1356.tex) (./auto/abstracts/papers-1600.tex)
-Overfull \hbox (3.50215pt too wide) in paragraph at lines 93--93
+[96] (./auto/abstracts/papers-1356.tex) (./auto/abstracts/papers-1600.tex)
+Overfull \hbox (3.50215pt too wide) in paragraph at lines 97--97
 \T1/ptm/m/n/7 We present a grounded neu-ral di-a-logue model that suc-cess-full
 y col-lab-o-rates with peo-ple in a partially-observable
  []
@@ -3209,10 +3284,10 @@ y col-lab-o-rates with peo-ple in a partially-observable
 (./auto/abstracts/papers-3642.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [96
+ [97
 
 ]
-(./auto/abstracts/papers-3778.tex) [97])
+(./auto/abstracts/papers-3778.tex) [98])
 (./auto/papers/Sunday-Virtual-Poster-Session-I.tex
 (./auto/abstracts/papers-320.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
@@ -3223,7 +3298,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 (./auto/abstracts/papers-439.tex) (./auto/abstracts/papers-635.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98
+ [99
 
 ]
 (./auto/abstracts/papers-676.tex) (./auto/abstracts/papers-884.tex)
@@ -3231,43 +3306,43 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-1649.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [99]
+ [100]
 (./auto/abstracts/papers-1775.tex) (./auto/abstracts/papers-1985.tex)
 (./auto/abstracts/papers-2333.tex) (./auto/abstracts/papers-3002.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [100]
+ [101]
 (./auto/abstracts/papers-3809.tex) (./auto/abstracts/papers-4169.tex)
 (./auto/abstracts/papers-4451.tex) (./auto/abstracts/papers-4705.tex)
 (./auto/abstracts/papers-809.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101]
+ [102]
 (./auto/abstracts/papers-1264.tex) (./auto/abstracts/papers-1779.tex)
 (./auto/abstracts/papers-1048.tex) (./auto/abstracts/papers-1116.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [102]
+ [103]
 (./auto/abstracts/papers-4042.tex) (./auto/abstracts/papers-4447.tex)
 (./auto/abstracts/papers-2081.tex) (./auto/abstracts/papers-584.tex)
 (./auto/abstracts/papers-818.tex) (./auto/abstracts/papers-1250.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [103]
+ [104]
 (./auto/abstracts/papers-1308.tex) (./auto/abstracts/papers-2121.tex)
 (./auto/abstracts/papers-2298.tex) (./auto/abstracts/papers-3850.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [104]
+ [105]
 (./auto/abstracts/papers-3921.tex) (./auto/abstracts/papers-4601.tex)
 (./auto/abstracts/papers-4739.tex) (./auto/abstracts/papers-420.tex)
 (./auto/abstracts/papers-924.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105]
+ [106]
 (./auto/abstracts/papers-1077.tex) (./auto/abstracts/papers-1079.tex)
 (./auto/abstracts/papers-1340.tex) (./auto/abstracts/papers-1551.tex
-! Undefined control sequence.
+./auto/abstracts/papers-1551.tex:1: Undefined control sequence.
 l.1 ...imilarly, for short social media posts (\eg
                                                   , tweets), scarce context ...
 The control sequence at the end of the top line
@@ -3279,27 +3354,27 @@ and I'll forget about whatever was undefined.
 ) (./auto/abstracts/papers-1625.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [106]
+ [107]
 (./auto/abstracts/papers-1648.tex) (./auto/abstracts/papers-1924.tex)
 (./auto/abstracts/papers-2046.tex) (./auto/abstracts/papers-2141.tex)
 (./auto/abstracts/papers-2221.tex) (./auto/abstracts/papers-2725.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [107]
+ [108]
 (./auto/abstracts/papers-3861.tex) (./auto/abstracts/papers-4134.tex)
 (./auto/abstracts/papers-4519.tex) (./auto/abstracts/papers-4622.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108]
+ [109]
 (./auto/abstracts/papers-349.tex) (./auto/abstracts/papers-819.tex)
 (./auto/abstracts/papers-1433.tex) (./auto/abstracts/papers-2031.tex)
 (./auto/abstracts/papers-2182.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [109]
+ [110]
 (./auto/abstracts/papers-2362.tex) (./auto/abstracts/papers-2643.tex)
 (./auto/abstracts/papers-3463.tex
-! Missing $ inserted.
+./auto/abstracts/papers-3463.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...--space trade-offs, for example, \$48\times
@@ -3308,7 +3383,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-! LaTeX Error: Command $ invalid in math mode.
+./auto/abstracts/papers-3463.tex:1: LaTeX Error: Command $ invalid in math mode
+.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -3320,7 +3396,8 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-! LaTeX Error: Command \ttfamily invalid in math mode.
+./auto/abstracts/papers-3463.tex:1: LaTeX Error: Command \ttfamily invalid in m
+ath mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -3330,7 +3407,7 @@ l.1 ... are available at \url{http://pyserini.io/}
                                                   .
 Please use the math alphabet \mathtt instead of the \ttfamily command. 
 
-! Missing } inserted.
+./auto/abstracts/papers-3463.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3341,7 +3418,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing \endgroup inserted.
+./auto/abstracts/papers-3463.tex:1: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3352,7 +3429,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing \endgroup inserted.
+./auto/abstracts/papers-3463.tex:1: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3363,7 +3440,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing \endgroup inserted.
+./auto/abstracts/papers-3463.tex:1: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3374,7 +3451,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Undefined control sequence.
+./auto/abstracts/papers-3463.tex:1: Undefined control sequence.
 \Url@FormatString ...ndafter \UrlLeft \Url@String 
                                                   \UrlRight \m@th $
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3385,7 +3462,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Extra }, or forgotten $.
+./auto/abstracts/papers-3463.tex:1: Extra }, or forgotten $.
 <recently read> }
                  
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3396,7 +3473,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/abstracts/papers-3463.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3407,7 +3484,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-3463.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3418,7 +3495,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-3463.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3429,7 +3506,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-3463.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3440,7 +3517,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-3463.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3451,7 +3528,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-3463.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3462,7 +3539,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-3463.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3473,7 +3550,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-3463.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3484,21 +3561,21 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Extra \endgroup.
+./auto/abstracts/papers-3463.tex:1: Extra \endgroup.
 <recently read> \endgroup 
                           
 l.1 ... are available at \url{http://pyserini.io/}
                                                   .
 Things are pretty mixed up, but I think the worst is over.
 
-! Extra \endgroup.
+./auto/abstracts/papers-3463.tex:1: Extra \endgroup.
 \Hy@endcolorlink ->\endgroup 
                              
 l.1 ... are available at \url{http://pyserini.io/}
                                                   .
 Things are pretty mixed up, but I think the worst is over.
 
-! Extra \endgroup.
+./auto/abstracts/papers-3463.tex:1: Extra \endgroup.
 \hyper@linkurl ...ce@end \close@pdflink \endgroup 
                                                   
 l.1 ... are available at \url{http://pyserini.io/}
@@ -3506,7 +3583,7 @@ l.1 ... are available at \url{http://pyserini.io/}
 Things are pretty mixed up, but I think the worst is over.
 
 )
-! Too many }'s.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:65: Too many }'s.
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.65 \posterabstract{papers-3463}
@@ -3525,10 +3602,10 @@ OT1/cmr/m/n/7 $100$\OML/cmm/m/it/7 retrievalaccuracyonaverageor\OT1/cmr/m/n/7 $
 (./auto/abstracts/papers-4321.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [110]
+ [111]
 (./auto/abstracts/papers-777.tex) (./auto/abstracts/papers-815.tex)
 (./auto/abstracts/papers-1553.tex
-! Undefined control sequence.
+./auto/abstracts/papers-1553.tex:1: Undefined control sequence.
 l.1 ...formance of, a trained Transformer\$\_\text
                                                   {small/base}\$ on IWSLT14/...
 The control sequence at the end of the top line
@@ -3540,9 +3617,9 @@ and I'll forget about whatever was undefined.
 ) (./auto/abstracts/papers-4090.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [111]
+ [112]
 (./auto/abstracts/papers-4311.tex
-! Missing $ inserted.
+./auto/abstracts/papers-4311.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...model as the teacher, while being up to 10^
@@ -3551,7 +3628,7 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:71: Extra }, or forgotten $.
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.71 \posterabstract{papers-4311}
@@ -3562,7 +3639,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:71: Missing $ inserted.
 <inserted text> 
                 $
 l.71 \posterabstract{papers-4311}
@@ -3578,7 +3655,7 @@ tiesofthestudentexplainer:Ourcodeisavailableathttps \OT1/cmr/m/n/7 :
  []
 
 (./auto/abstracts/papers-3880.tex
-! Missing $ inserted.
+./auto/abstracts/papers-3880.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...ected attachment score of at most \$\approx
@@ -3587,7 +3664,7 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:72: Extra }, or forgotten $.
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.72 \posterabstract{papers-3880}
@@ -3598,7 +3675,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:72: Missing $ inserted.
 <inserted text> 
                 $
 l.72 \posterabstract{papers-3880}
@@ -3622,16 +3699,16 @@ tratinghowtheirdifferenttrainingschemesaffectthetypeofdependenciestheycapture:$
 (./auto/abstracts/papers-402.tex) (./auto/abstracts/papers-415.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [112]
+ [113]
 (./auto/abstracts/papers-491.tex) (./auto/abstracts/papers-498.tex)
 (./auto/abstracts/papers-595.tex) (./auto/abstracts/papers-738.tex)
 (./auto/abstracts/papers-763.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [113]
+ [114]
 (./auto/abstracts/papers-1055.tex) (./auto/abstracts/papers-1930.tex)
 (./auto/abstracts/papers-2283.tex) (./auto/abstracts/papers-2293.tex)
-! Missing $ inserted.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:86: Missing $ inserted.
 <inserted text> 
                 $
 l.86 \posterabstract{papers-2353}
@@ -3645,23 +3722,24 @@ my insertion and my current dilemma will both disappear.
 (./auto/abstracts/papers-2353.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [114]
+ [115]
 (./auto/abstracts/papers-2460.tex) (./auto/abstracts/papers-2752.tex)
 (./auto/abstracts/papers-4161.tex) (./auto/abstracts/papers-4265.tex)
 (./auto/abstracts/papers-4292.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [115]
+ [116]
 (./auto/abstracts/papers-4468.tex) (./auto/abstracts/papers-510.tex)
 (./auto/abstracts/papers-528.tex) (./auto/abstracts/papers-565.tex)
 (./auto/abstracts/papers-609.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [116]
+ [117]
 (./auto/abstracts/papers-854.tex) (./auto/abstracts/papers-918.tex)
 (./auto/abstracts/papers-1155.tex) (./auto/abstracts/papers-1211.tex
 
-! Package inputenc Error: Unicode char \u8:‚Üî not set up for use with LaTeX.
+./auto/abstracts/papers-1211.tex:1: Package inputenc Error: Unicode char \u8:‚Ü
+î not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -3675,7 +3753,8 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! Package textcomp Error: Symbol \textrightarrow not provided by
+./auto/abstracts/papers-1211.tex:1: Package textcomp Error: Symbol \textrightar
+row not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -3691,7 +3770,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ) (./auto/abstracts/papers-1425.tex
-! Missing $ inserted.
+./auto/abstracts/papers-1425.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...he training samples from ``src\$\rightarrow
@@ -3700,7 +3779,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:101: Extra }, or forgotten $.
+
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.101 \posterabstract{papers-1425}
@@ -3711,7 +3791,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:101: Missing $ inserted.
 <inserted text> 
                 $
 l.101 \posterabstract{papers-1425}
@@ -3738,27 +3818,27 @@ howthatourapproachfunctionsasanovelbilingualcode \OMS/cmsy/m/n/7 ^^@
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [117]
+ [118]
 (./auto/abstracts/papers-1691.tex) (./auto/abstracts/papers-1716.tex)
 (./auto/abstracts/papers-1954.tex) (./auto/abstracts/papers-2714.tex)
 (./auto/abstracts/papers-3922.tex) (./auto/abstracts/papers-412.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118]
+ [119]
 (./auto/abstracts/papers-529.tex) (./auto/abstracts/papers-535.tex)
 (./auto/abstracts/papers-829.tex) (./auto/abstracts/papers-852.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [119]
+ [120]
 (./auto/abstracts/papers-953.tex) (./auto/abstracts/papers-1410.tex)
 (./auto/abstracts/papers-1637.tex) (./auto/abstracts/papers-1854.tex)
 (./auto/abstracts/papers-1964.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [120]
+ [121]
 (./auto/abstracts/papers-2112.tex) (./auto/abstracts/papers-2127.tex)
 (./auto/abstracts/papers-2138.tex) (./auto/abstracts/papers-2236.tex
-! Missing $ inserted.
+./auto/abstracts/papers-2236.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...eral framework (called Fix-Filter-Fix or F^
@@ -3767,7 +3847,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:120: Extra }, or forgotten $.
+
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.120 \posterabstract{papers-2236}
@@ -3778,7 +3859,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:120: Missing $ inserted.
 <inserted text> 
                 $
 l.120 \posterabstract{papers-2236}
@@ -3803,33 +3884,33 @@ indingsandmethodology:$
 (./auto/abstracts/papers-2301.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [121]
+ [122]
 (./auto/abstracts/papers-2432.tex) (./auto/abstracts/papers-2581.tex)
 (./auto/abstracts/papers-2635.tex) (./auto/abstracts/papers-4027.tex)
 (./auto/abstracts/papers-4231.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122]
+ [123]
 (./auto/abstracts/papers-4258.tex) (./auto/abstracts/papers-4273.tex)
 (./auto/abstracts/papers-734.tex) (./auto/abstracts/papers-219.tex)
 (./auto/abstracts/papers-1457.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [123]
+ [124]
 (./auto/abstracts/papers-1922.tex) (./auto/abstracts/papers-2019.tex)
 (./auto/abstracts/papers-2994.tex) (./auto/abstracts/papers-3235.tex)
 (./auto/abstracts/papers-3873.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [124]
+ [125]
 (./auto/abstracts/papers-4272.tex) (./auto/abstracts/papers-1179.tex)
 (./auto/abstracts/papers-1307.tex) (./auto/abstracts/papers-3048.tex)
 (./auto/abstracts/papers-3856.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [125]
+ [126]
 (./auto/abstracts/papers-4504.tex
-! Missing $ inserted.
+./auto/abstracts/papers-4504.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...se pretrained language model PanGu-\$\alpha
@@ -3838,7 +3919,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:142: Extra }, or forgotten $.
+
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.142 \posterabstract{papers-4504}
@@ -3849,7 +3931,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Sunday-Virtual-Poster-Session-I.tex:142: Missing $ inserted.
 <inserted text> 
                 $
 l.142 \posterabstract{papers-4504}
@@ -3870,15 +3952,15 @@ llengingdataset:Thedatasetispubliclyavailableathttps \OT1/cmr/m/n/7 :
 (./auto/abstracts/papers-1727.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126]
+ [127]
 (./auto/abstracts/papers-1736.tex) (./auto/abstracts/papers-2312.tex)
 (./auto/abstracts/papers-2419.tex) (./auto/abstracts/papers-4449.tex)
 (./auto/abstracts/papers-4566.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [127]
+ [128]
 (./auto/abstracts/papers-365.tex
-! Undefined control sequence.
+./auto/abstracts/papers-365.tex:1: Undefined control sequence.
 l.1 ...SemEval Restaurant14{\textasciitilde}\citep
                                                   {Pontiki2014SemEval2014T4}...
 The control sequence at the end of the top line
@@ -3891,28 +3973,29 @@ and I'll forget about whatever was undefined.
 (./auto/abstracts/papers-3910.tex) (./auto/abstracts/papers-4310.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [128]
+ [129]
 (./auto/abstracts/papers-4760.tex) (./auto/abstracts/papers-399.tex)
 (./auto/abstracts/papers-970.tex) (./auto/abstracts/papers-1535.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [129]
+ [130]
 (./auto/abstracts/papers-1766.tex) (./auto/abstracts/papers-2130.tex)
 (./auto/abstracts/papers-2838.tex) (./auto/abstracts/papers-4553.tex)
 (./auto/abstracts/papers-236.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [130]
+ [131]
 (./auto/abstracts/papers-341.tex) (./auto/abstracts/papers-373.tex)
 (./auto/abstracts/papers-1168.tex) (./auto/abstracts/papers-1641.tex)
 (./auto/abstracts/papers-1796.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [131]
+ [132]
 (./auto/abstracts/papers-1953.tex) (./auto/abstracts/papers-4290.tex)
 (./auto/abstracts/papers-4243.tex
 
-! Package inputenc Error: Keyboard character used is undefined
+./auto/abstracts/papers-4243.tex:1: Package inputenc Error: Keyboard character 
+used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -3926,7 +4009,8 @@ You need to provide a definition with \DeclareInputText
 or \DeclareInputMath before using this key.
 
 
-! Package inputenc Error: Keyboard character used is undefined
+./auto/abstracts/papers-4243.tex:1: Package inputenc Error: Keyboard character 
+used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -3940,7 +4024,8 @@ You need to provide a definition with \DeclareInputText
 or \DeclareInputMath before using this key.
 
 
-! Package inputenc Error: Keyboard character used is undefined
+./auto/abstracts/papers-4243.tex:1: Package inputenc Error: Keyboard character 
+used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -3954,7 +4039,8 @@ You need to provide a definition with \DeclareInputText
 or \DeclareInputMath before using this key.
 
 
-! Package inputenc Error: Keyboard character used is undefined
+./auto/abstracts/papers-4243.tex:1: Package inputenc Error: Keyboard character 
+used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -3967,7 +4053,9 @@ l.1 ...aper, we build structured prediction mod^^B
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-) (./auto/abstracts/papers-4253.tex))) (./content/day2/day2.tex [132]
+) (./auto/abstracts/papers-4253.tex))) (./content/day2/day2.tex [133] [134
+
+]
 Chapter 5.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
@@ -4049,7 +4137,7 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 5--11
 []|[]|  
  []
 
-! Undefined control sequence.
+./auto/papers/Monday-overview.tex:12: Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.12 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -4060,7 +4148,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./auto/papers/Monday-overview.tex:18: Undefined control sequence.
 <recently read> \VirtualLoc 
                             
 l.18 ...oster Session 2} \hfill \emph{\VirtualLoc}
@@ -4071,7 +4159,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./auto/papers/Monday-overview.tex:21: Undefined control sequence.
 <recently read> \MiniLoc 
                          
 l.21 ...fseries Mini Break} \hfill \emph{\MiniLoc}
@@ -4172,7 +4260,7 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 24--30
 []|[]|  
  []
 
-! Undefined control sequence.
+./auto/papers/Monday-overview.tex:31: Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.31 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -4248,10 +4336,8 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 34--39
 []|[]|  
  []
 
-[133
-
-]) (./content/day2/invited-talk.tex
-! Misplaced alignment tab character &.
+[135]) (./content/day2/invited-talk.tex
+./content/day2/invited-talk.tex:18: Misplaced alignment tab character &.
 l.18 ...ition (e.g., Wittgenstein, 1921; Berwick &
                                                    Chomsky, 2016). I will us...
 I can't figure out why you would want to use a tab mark
@@ -4261,42 +4347,49 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[134
+[136
 
 ]) (./auto/papers/Monday-parallel-session-5.tex
-Package marginnote Info: Margin note 141.1 is on absolute page 141
-(marginnote)              on input line 10.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 10.
-Package marginnote Info: Margin note 141.2 is on absolute page 141
-(marginnote)              on input line 14.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 14.
-Package marginnote Info: Margin note 141.3 is on absolute page 141
-(marginnote)              on input line 18.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 18.
-Package marginnote Info: Margin note 141.4 is on absolute page 141
-(marginnote)              on input line 22.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 22.
+Package marginnote Info: Suggest that margin note 143.1 will be on
+(marginnote)             absolute page 143.
+(marginnote)             This may be wrong on input line 10.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 10.
+Package marginnote Info: Suggest that margin note 143.2 will be on
+(marginnote)             absolute page 143.
+(marginnote)             This may be wrong on input line 14.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 14.
+Package marginnote Info: Suggest that margin note 143.3 will be on
+(marginnote)             absolute page 143.
+(marginnote)             This may be wrong on input line 18.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 18.
+Package marginnote Info: Suggest that margin note 143.4 will be on
+(marginnote)             absolute page 143.
+(marginnote)             This may be wrong on input line 22.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 22.
 
 Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
  [] 
  []
 
-Package marginnote Info: Margin note 141.5 is on absolute page 142
-(marginnote)              on input line 33.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 33.
-Package marginnote Info: Margin note 141.6 is on absolute page 142
-(marginnote)              on input line 37.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 37.
-Package marginnote Info: Margin note 141.7 is on absolute page 142
-(marginnote)              on input line 41.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 41.
+Package marginnote Info: Suggest that margin note 143.5 will be on
+(marginnote)             absolute page 143.
+(marginnote)             This may be wrong on input line 33.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 33.
+Package marginnote Info: Suggest that margin note 143.6 will be on
+(marginnote)             absolute page 143.
+(marginnote)             This may be wrong on input line 37.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 37.
+Package marginnote Info: Suggest that margin note 143.7 will be on
+(marginnote)             absolute page 143.
+(marginnote)             This may be wrong on input line 41.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 41.
 
 Overfull \hbox (3.3298pt too wide) in paragraph at lines 32--44
  [] 
@@ -4305,24 +4398,24 @@ Overfull \hbox (3.3298pt too wide) in paragraph at lines 32--44
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [135
+ [137
 
 ]
-[136] (./auto/abstracts/papers-808.tex) (./auto/abstracts/papers-810.tex)
+[138] (./auto/abstracts/papers-808.tex) (./auto/abstracts/papers-810.tex)
 (./auto/abstracts/papers-1940.tex) (./auto/abstracts/papers-4164.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [137]
+ [139]
 (./auto/abstracts/papers-194.tex) (./auto/abstracts/papers-2920.tex)
-(./auto/abstracts/papers-3216.tex) [138] (./auto/abstracts/papers-1201.tex)
+(./auto/abstracts/papers-3216.tex) [140] (./auto/abstracts/papers-1201.tex)
 (./auto/abstracts/papers-398.tex) (./auto/abstracts/papers-2847.tex)
 (./auto/abstracts/papers-1115.tex) (./auto/abstracts/papers-394.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [139
+ [141
 
 ]
-(./auto/abstracts/papers-3083.tex) [140] (./auto/abstracts/papers-029.tex)
+(./auto/abstracts/papers-3083.tex) [142] (./auto/abstracts/papers-029.tex)
 Underfull \hbox (badness 1082) in paragraph at lines 71--71
 []\T1/ptm/b/n/8 Efficient Di-a-logue Com-ple-men-tary Pol-icy Learn-ing via Dee
 p Q-network Pol-icy and
@@ -4332,35 +4425,35 @@ p Q-network Pol-icy and
 (./auto/abstracts/papers-2150.tex) (./auto/abstracts/papers-2785.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [141
-
-]
-[142] (./auto/abstracts/papers-1752.tex) (./auto/abstracts/papers-4195.tex)
-(./auto/abstracts/papers-1212.tex) (./auto/abstracts/papers-1266.tex)
-(./auto/abstracts/papers-788.tex) (./auto/abstracts/papers-3003.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [143
 
 ]
-(./auto/abstracts/papers-3354.tex) [144] (./auto/abstracts/papers-2021.tex)
-(./auto/abstracts/papers-2350.tex) (./auto/abstracts/papers-2779.tex)
-(./auto/abstracts/papers-652.tex) (./auto/abstracts/papers-3098.tex)
-(./auto/abstracts/papers-4102.tex)
+[144] (./auto/abstracts/papers-1752.tex) (./auto/abstracts/papers-4195.tex)
+(./auto/abstracts/papers-1212.tex) (./auto/abstracts/papers-1266.tex)
+(./auto/abstracts/papers-788.tex) (./auto/abstracts/papers-3003.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [145
 
 ]
-[146] (./auto/abstracts/papers-1147.tex) (./auto/abstracts/papers-3168.tex)
-(./auto/abstracts/papers-4156.tex) (./auto/abstracts/papers-4507.tex)
-(./auto/abstracts/papers-294.tex)
+(./auto/abstracts/papers-3354.tex) [146] (./auto/abstracts/papers-2021.tex)
+(./auto/abstracts/papers-2350.tex) (./auto/abstracts/papers-2779.tex)
+(./auto/abstracts/papers-652.tex) (./auto/abstracts/papers-3098.tex)
+(./auto/abstracts/papers-4102.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [147
 
 ]
-(./auto/abstracts/papers-2703.tex) (./auto/abstracts/papers-3252.tex) [148]
+[148] (./auto/abstracts/papers-1147.tex) (./auto/abstracts/papers-3168.tex)
+(./auto/abstracts/papers-4156.tex) (./auto/abstracts/papers-4507.tex)
+(./auto/abstracts/papers-294.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [149
+
+]
+(./auto/abstracts/papers-2703.tex) (./auto/abstracts/papers-3252.tex) [150]
 (./auto/abstracts/papers-1181.tex) (./auto/abstracts/papers-2603.tex)
 (./auto/abstracts/papers-3311.tex)
 Underfull \hbox (badness 5446) in paragraph at lines 110--110
@@ -4372,7 +4465,7 @@ s: Dataset and
 (./auto/abstracts/papers-4493.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [149
+ [151
 
 ]
 (./auto/abstracts/papers-1426.tex) (./auto/abstracts/papers-1989.tex)
@@ -4380,59 +4473,81 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-4173.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [150]
+ [152]
 (./auto/abstracts/papers-4215.tex) (./auto/abstracts/papers-492.tex)
 (./auto/abstracts/papers-1565.tex) (./auto/abstracts/papers-2055.tex)
 (./auto/abstracts/papers-3438.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [151]
+ [153]
 (./auto/abstracts/papers-760.tex) (./auto/abstracts/papers-1421.tex)
-(./auto/abstracts/papers-3283.tex) [152])
+(./auto/abstracts/papers-3283.tex) [154])
 (./auto/papers/Monday-parallel-session-6.tex
-Package marginnote Info: Margin note 159.1 is on absolute page 159
-(marginnote)              on input line 10.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 10.
-Package marginnote Info: Margin note 159.2 is on absolute page 159
-(marginnote)              on input line 14.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 14.
-Package marginnote Info: Margin note 159.3 is on absolute page 159
-(marginnote)              on input line 18.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 18.
-Package marginnote Info: Margin note 159.4 is on absolute page 159
-(marginnote)              on input line 22.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 22.
+Package marginnote Info: Suggest that margin note 161.1 will be on
+(marginnote)             absolute page 161.
+(marginnote)             This may be wrong on input line 10.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 10.
+Package marginnote Info: Suggest that margin note 161.2 will be on
+(marginnote)             absolute page 161.
+(marginnote)             This may be wrong on input line 14.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 14.
+Package marginnote Info: Suggest that margin note 161.3 will be on
+(marginnote)             absolute page 161.
+(marginnote)             This may be wrong on input line 18.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 18.
+Package marginnote Info: Suggest that margin note 161.4 will be on
+(marginnote)             absolute page 161.
+(marginnote)             This may be wrong on input line 22.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 22.
 
 Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
  [] 
  []
 
-Package marginnote Info: Margin note 159.5 is on absolute page 160
-(marginnote)              on input line 33.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 33.
-Package marginnote Info: Margin note 159.6 is on absolute page 160
-(marginnote)              on input line 37.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 37.
+Package marginnote Info: Suggest that margin note 161.5 will be on
+(marginnote)             absolute page 161.
+(marginnote)             This may be wrong on input line 33.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 33.
+Package marginnote Info: Suggest that margin note 161.6 will be on
+(marginnote)             absolute page 161.
+(marginnote)             This may be wrong on input line 37.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 37.
 
-Overfull \hbox (3.3298pt too wide) in paragraph at lines 32--40
+Overfull \hbox (1.0724pt too wide) in paragraph at lines 38--38
+[]|\T1/ptm/m/n/7 NewsCLIPpings: 
+ []
+
+Package marginnote Info: Suggest that margin note 161.7 will be on
+(marginnote)             absolute page 161.
+(marginnote)             This may be wrong on input line 41.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 41.
+
+LaTeX Warning: Citation '3978' on page 155 undefined on input line 42.
+
+
+LaTeX Warning: Citation '3978' on page 155 undefined on input line 42.
+
+
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 32--45
  [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [153
+ [155
 
 
 ]
-[154] (./auto/abstracts/papers-077.tex) (./auto/abstracts/papers-302.tex
-! Undefined control sequence.
+[156] (./auto/abstracts/papers-077.tex) (./auto/abstracts/papers-302.tex
+./auto/abstracts/papers-302.tex:1: Undefined control sequence.
 l.1 ...replace the softmax activation with a \relu
                                                   , and show that sparsity n...
 The control sequence at the end of the top line
@@ -4445,18 +4560,19 @@ and I'll forget about whatever was undefined.
 (./auto/abstracts/papers-4621.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [155]
-(./auto/abstracts/papers-2554.tex) [156] (./auto/abstracts/papers-1076.tex)
+ [157]
+(./auto/abstracts/papers-2554.tex) [158] (./auto/abstracts/papers-1076.tex)
 (./auto/abstracts/papers-2062.tex) (./auto/abstracts/papers-3142.tex)
 (./auto/abstracts/papers-3660.tex) (./auto/abstracts/papers-3990.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [157
+ [159
 
 ]
-[158] (./auto/abstracts/papers-2648.tex) (./auto/abstracts/papers-2990.tex
+[160] (./auto/abstracts/papers-2648.tex) (./auto/abstracts/papers-2990.tex
 
-! Package textcomp Error: Symbol \textrightarrow not provided by
+./auto/abstracts/papers-2990.tex:1: Package textcomp Error: Symbol \textrightar
+row not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -4472,7 +4588,8 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! Package textcomp Error: Symbol \textrightarrow not provided by
+./auto/abstracts/papers-2990.tex:1: Package textcomp Error: Symbol \textrightar
+row not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -4488,7 +4605,8 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! Package textcomp Error: Symbol \textrightarrow not provided by
+./auto/abstracts/papers-2990.tex:1: Package textcomp Error: Symbol \textrightar
+row not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -4504,7 +4622,8 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! Package textcomp Error: Symbol \textrightarrow not provided by
+./auto/abstracts/papers-2990.tex:1: Package textcomp Error: Symbol \textrightar
+row not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -4523,11 +4642,11 @@ or  <return>  to continue without it.
 (./auto/abstracts/papers-1866.tex) (./auto/abstracts/papers-3754.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [159
+ [161
 
 ]
-(./auto/abstracts/papers-3978.tex) [160] (./auto/abstracts/papers-458.tex)
-Overfull \hbox (0.56895pt too wide) in paragraph at lines 73--73
+(./auto/abstracts/papers-3978.tex) [162] (./auto/abstracts/papers-458.tex)
+Overfull \hbox (0.56895pt too wide) in paragraph at lines 78--78
 \T1/ptm/m/n/7 Interactive ma-chine read-ing com-pre-hen-sion (iMRC) is ma-chine
  com-pre-hen-sion tasks where knowl-edge sources
  []
@@ -4537,11 +4656,11 @@ Overfull \hbox (0.56895pt too wide) in paragraph at lines 73--73
 (./auto/abstracts/papers-4020.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [161
+ [163
 
 ]
-[162]
-Underfull \hbox (badness 1117) in paragraph at lines 82--82
+[164]
+Underfull \hbox (badness 1117) in paragraph at lines 87--87
 []\T1/ptm/b/n/8 Powering Com-par-a-tive Clas-si-fi-ca-tion with Sen-ti-ment Ana
 l-y-sis via Do-main Adap-tive
  []
@@ -4551,24 +4670,24 @@ l-y-sis via Do-main Adap-tive
 (./auto/abstracts/papers-3764.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [163
+ [165
 
 ]
-(./auto/abstracts/papers-4419.tex) [164] (./auto/abstracts/papers-331.tex)
+(./auto/abstracts/papers-4419.tex) [166] (./auto/abstracts/papers-331.tex)
 (./auto/abstracts/papers-2756.tex) (./auto/abstracts/papers-2157.tex)
 (./auto/abstracts/papers-254.tex) (./auto/abstracts/papers-1262.tex)
 (./auto/abstracts/papers-4098.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [165
+ [167
 
 ]
-[166] (./auto/abstracts/papers-789.tex) (./auto/abstracts/papers-1470.tex)
+[168] (./auto/abstracts/papers-789.tex) (./auto/abstracts/papers-1470.tex)
 (./auto/abstracts/papers-071.tex) (./auto/abstracts/papers-1694.tex)
 (./auto/abstracts/papers-2050.tex) (./auto/abstracts/papers-2110.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [167
+ [169
 
 ]
 (./auto/abstracts/papers-3669.tex) (./auto/abstracts/papers-4163.tex)
@@ -4576,97 +4695,108 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-467.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [168]
+ [170]
 (./auto/abstracts/papers-721.tex) (./auto/abstracts/papers-785.tex)
 (./auto/abstracts/papers-949.tex) (./auto/abstracts/papers-1536.tex)
 (./auto/abstracts/papers-1537.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [169]
-(./auto/abstracts/papers-3279.tex) (./auto/abstracts/papers-4319.tex) [170])
+ [171]
+(./auto/abstracts/papers-3279.tex) (./auto/abstracts/papers-4319.tex) [172])
 (./auto/papers/Monday-parallel-session-7.tex
-Package marginnote Info: Margin note 177.1 is on absolute page 177
-(marginnote)              on input line 10.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 10.
-Package marginnote Info: Margin note 177.2 is on absolute page 177
-(marginnote)              on input line 14.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 14.
-Package marginnote Info: Margin note 177.3 is on absolute page 177
-(marginnote)              on input line 18.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 18.
-Package marginnote Info: Margin note 177.4 is on absolute page 177
-(marginnote)              on input line 22.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 22.
+Package marginnote Info: Suggest that margin note 179.1 will be on
+(marginnote)             absolute page 179.
+(marginnote)             This may be wrong on input line 10.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 10.
+Package marginnote Info: Suggest that margin note 179.2 will be on
+(marginnote)             absolute page 179.
+(marginnote)             This may be wrong on input line 14.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 14.
+Package marginnote Info: Suggest that margin note 179.3 will be on
+(marginnote)             absolute page 179.
+(marginnote)             This may be wrong on input line 18.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 18.
+Package marginnote Info: Suggest that margin note 179.4 will be on
+(marginnote)             absolute page 179.
+(marginnote)             This may be wrong on input line 22.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 22.
 
 Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
  [] 
  []
 
-Package marginnote Info: Margin note 177.5 is on absolute page 178
-(marginnote)              on input line 34.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 34.
-Package marginnote Info: Margin note 177.6 is on absolute page 178
-(marginnote)              on input line 38.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 38.
+Package marginnote Info: Suggest that margin note 179.5 will be on
+(marginnote)             absolute page 179.
+(marginnote)             This may be wrong on input line 34.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 34.
+Package marginnote Info: Suggest that margin note 179.6 will be on
+(marginnote)             absolute page 179.
+(marginnote)             This may be wrong on input line 38.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 38.
+Package marginnote Info: Suggest that margin note 179.7 will be on
+(marginnote)             absolute page 179.
+(marginnote)             This may be wrong on input line 42.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 42.
 
-Overfull \hbox (3.3298pt too wide) in paragraph at lines 33--41
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 33--45
  [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [171
+ [173
 
 
 ]
-[172] (./auto/abstracts/papers-257.tex) (./auto/abstracts/papers-1027.tex)
+[174] (./auto/abstracts/papers-257.tex) (./auto/abstracts/papers-1027.tex)
 (./auto/abstracts/papers-4337.tex) (./auto/abstracts/papers-4055.tex)
 (./auto/abstracts/papers-860.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [173]
-(./auto/abstracts/papers-948.tex) [174] (./auto/abstracts/papers-1054.tex)
+ [175]
+(./auto/abstracts/papers-948.tex) [176] (./auto/abstracts/papers-1054.tex)
 (./auto/abstracts/papers-1448.tex) (./auto/abstracts/papers-1696.tex)
 (./auto/abstracts/papers-3542.tex) (./auto/abstracts/papers-3574.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [175
-
-]
-[176] (./auto/abstracts/papers-3248.tex) (./auto/abstracts/papers-702.tex)
-(./auto/abstracts/papers-802.tex) (./auto/abstracts/papers-3811.tex)
-(./auto/abstracts/papers-3182.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [177
 
 ]
-(./auto/abstracts/papers-3465.tex) (./auto/abstracts/papers-4151.tex) [178]
-(./auto/abstracts/papers-043.tex) (./auto/abstracts/papers-517.tex)
-(./auto/abstracts/papers-1907.tex) (./auto/abstracts/papers-3314.tex)
-(./auto/abstracts/papers-3565.tex)
+[178] (./auto/abstracts/papers-3248.tex) (./auto/abstracts/papers-702.tex)
+(./auto/abstracts/papers-802.tex) (./auto/abstracts/papers-3811.tex)
+(./auto/abstracts/papers-3182.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [179
 
 ]
-(./auto/abstracts/papers-4083.tex) [180] (./auto/abstracts/papers-377.tex)
-(./auto/abstracts/papers-1717.tex) (./auto/abstracts/papers-3594.tex)
-(./auto/abstracts/papers-4045.tex) (./auto/abstracts/papers-674.tex)
+(./auto/abstracts/papers-3465.tex) (./auto/abstracts/papers-4151.tex) [180]
+(./auto/abstracts/papers-043.tex) (./auto/abstracts/papers-517.tex)
+(./auto/abstracts/papers-1907.tex) (./auto/abstracts/papers-3314.tex)
+(./auto/abstracts/papers-3565.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [181
 
 ]
+(./auto/abstracts/papers-4083.tex) [182] (./auto/abstracts/papers-377.tex)
+(./auto/abstracts/papers-1717.tex) (./auto/abstracts/papers-3594.tex)
+(./auto/abstracts/papers-4045.tex) (./auto/abstracts/papers-674.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [183
+
+]
 (./auto/abstracts/papers-724.tex
-! Missing $ inserted.
+./auto/abstracts/papers-724.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...ord spans. As the number of spans is \$O(n^
@@ -4675,10 +4805,10 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Monday-parallel-session-7.tex:92: Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.88 ...stract{\day}{17:55--18:05}{}{}{papers-724}
+l.92 ...stract{\day}{17:55--18:05}{}{}{papers-724}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4686,16 +4816,16 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Monday-parallel-session-7.tex:92: Missing $ inserted.
 <inserted text> 
                 $
-l.88 ...stract{\day}{17:55--18:05}{}{}{papers-724}
+l.92 ...stract{\day}{17:55--18:05}{}{}{papers-724}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (2242.10332pt too wide) in paragraph at lines 88--88
+Overfull \hbox (2242.10332pt too wide) in paragraph at lines 92--92
 \T1/ptm/m/n/7 word spans. As the num-ber of spans is $O(n$[]\OT1/cmr/m/n/7 )$\O
 ML/cmm/m/it/7 inthelengthoftextandthenumberofpotentiallinksis\OT1/cmr/m/n/7 $\O
 ML/cmm/m/it/7 O\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 n[]\OT1/cmr/m/n/7 )$\OML/cmm/m/i
@@ -4710,15 +4840,15 @@ nceresolutionwillbesignificantlyoutperformedbyRoBERTa:Whilebeinghighlyefficient
 otesbenchmark:$ 
  []
 
-(./auto/abstracts/papers-3296.tex) [182] (./auto/abstracts/papers-3246.tex)
+(./auto/abstracts/papers-3296.tex) [184] (./auto/abstracts/papers-3246.tex)
 (./auto/abstracts/papers-3398.tex) (./auto/abstracts/papers-3499.tex)
 (./auto/abstracts/papers-3689.tex) (./auto/abstracts/papers-1025.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [183
+ [185
 
 ]
-(./auto/abstracts/papers-1317.tex) [184])
+(./auto/abstracts/papers-1317.tex) [186])
 (./auto/papers/Monday-Virtual-Poster-Session-2.tex
 (./auto/abstracts/papers-3132.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
@@ -4729,7 +4859,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 (./auto/abstracts/papers-474.tex) (./auto/abstracts/papers-1848.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [185
+ [187
 
 ]
 (./auto/abstracts/papers-2996.tex) (./auto/abstracts/papers-3477.tex)
@@ -4737,65 +4867,65 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-2881.tex)
 Underfull \vbox (badness 4060) has occurred while \output is active []
 
- [186]
+ [188]
 (./auto/abstracts/papers-138.tex) (./auto/abstracts/papers-266.tex)
 (./auto/abstracts/papers-1140.tex) (./auto/abstracts/papers-3772.tex)
 (./auto/abstracts/papers-1484.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [187]
+ [189]
 (./auto/abstracts/papers-130.tex) (./auto/abstracts/papers-487.tex)
 (./auto/abstracts/papers-1003.tex) (./auto/abstracts/papers-1614.tex)
 (./auto/abstracts/papers-1830.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [188]
+ [190]
 (./auto/abstracts/papers-1885.tex) (./auto/abstracts/papers-2389.tex)
 (./auto/abstracts/papers-2862.tex) (./auto/abstracts/papers-3487.tex)
 (./auto/abstracts/papers-3559.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [189]
+ [191]
 (./auto/abstracts/papers-176.tex) (./auto/abstracts/papers-264.tex)
 (./auto/abstracts/papers-506.tex) (./auto/abstracts/papers-767.tex)
 (./auto/abstracts/papers-1040.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [190]
+ [192]
 (./auto/abstracts/papers-1226.tex) (./auto/abstracts/papers-1538.tex)
 (./auto/abstracts/papers-1777.tex) (./auto/abstracts/papers-1878.tex)
 (./auto/abstracts/papers-2230.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [191]
+ [193]
 (./auto/abstracts/papers-2551.tex) (./auto/abstracts/papers-3230.tex)
 (./auto/abstracts/papers-3282.tex) (./auto/abstracts/papers-3288.tex)
 (./auto/abstracts/papers-3339.tex) (./auto/abstracts/papers-3392.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [192]
+ [194]
 (./auto/abstracts/papers-3480.tex) (./auto/abstracts/papers-3543.tex)
 (./auto/abstracts/papers-3694.tex) (./auto/abstracts/papers-4050.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [193]
+ [195]
 (./auto/abstracts/papers-4187.tex) (./auto/abstracts/papers-3703.tex)
 (./auto/abstracts/papers-211.tex) (./auto/abstracts/papers-256.tex)
 (./auto/abstracts/papers-1232.tex) (./auto/abstracts/papers-1541.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [194]
+ [196]
 (./auto/abstracts/papers-3306.tex) (./auto/abstracts/papers-3431.tex)
 (./auto/abstracts/papers-3796.tex) (./auto/abstracts/papers-3808.tex)
 (./auto/abstracts/papers-4223.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [195]
+ [197]
 (./auto/abstracts/papers-4264.tex) (./auto/abstracts/papers-3858.tex)
 (./auto/abstracts/papers-489.tex) (./auto/abstracts/papers-757.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [196]
+ [198]
 (./auto/abstracts/papers-1106.tex) (./auto/abstracts/papers-1833.tex)
 (./auto/abstracts/papers-2587.tex)
 Overfull \hbox (0.80042pt too wide) in paragraph at lines 67--67
@@ -4806,21 +4936,21 @@ ch as, mBERT and XLM-RoBERTa, have achieved
 (./auto/abstracts/papers-2826.tex) (./auto/abstracts/papers-2963.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [197]
+ [199]
 (./auto/abstracts/papers-3254.tex) (./auto/abstracts/papers-3295.tex)
 (./auto/abstracts/papers-3325.tex) (./auto/abstracts/papers-3470.tex)
 (./auto/abstracts/papers-3544.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [198]
+ [200]
 (./auto/abstracts/papers-3550.tex) (./auto/abstracts/papers-3563.tex)
 (./auto/abstracts/papers-3745.tex) (./auto/abstracts/papers-1015.tex)
 (./auto/abstracts/papers-2761.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [199]
+ [201]
 (./auto/abstracts/papers-2894.tex) (./auto/abstracts/papers-3104.tex
-! Missing $ inserted.
+./auto/abstracts/papers-3104.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...translation. Experiments on Zh\$\rightarrow
@@ -4829,7 +4959,7 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Monday-Virtual-Poster-Session-2.tex:81: Extra }, or forgotten $.
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.81 \posterabstract{papers-3104}
@@ -4840,7 +4970,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Monday-Virtual-Poster-Session-2.tex:81: Missing $ inserted.
 <inserted text> 
                 $
 l.81 \posterabstract{papers-3104}
@@ -4860,41 +4990,42 @@ onofthesegeneratedpseudo \OMS/cmsy/m/n/7 ^^@
 (./auto/abstracts/papers-3902.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [200]
+ [202]
 (./auto/abstracts/papers-3933.tex) (./auto/abstracts/papers-463.tex)
 (./auto/abstracts/papers-527.tex) (./auto/abstracts/papers-1440.tex)
 (./auto/abstracts/papers-2765.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [201]
+ [203]
 (./auto/abstracts/papers-3321.tex) (./auto/abstracts/papers-3504.tex)
 (./auto/abstracts/papers-3761.tex) (./auto/abstracts/papers-3954.tex)
 (./auto/abstracts/papers-3980.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [202]
+ [204]
 (./auto/abstracts/papers-4128.tex) (./auto/abstracts/papers-4309.tex)
 (./auto/abstracts/papers-1022.tex) (./auto/abstracts/papers-1968.tex)
 (./auto/abstracts/papers-2034.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [203]
+ [205]
 (./auto/abstracts/papers-3473.tex) (./auto/abstracts/papers-3802.tex)
 (./auto/abstracts/papers-3814.tex) (./auto/abstracts/papers-3870.tex)
 (./auto/abstracts/papers-4200.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [204]
+ [206]
 (./auto/abstracts/papers-700.tex) (./auto/abstracts/papers-3292.tex)
 (./auto/abstracts/papers-3592.tex) (./auto/abstracts/papers-4827.tex)
 (./auto/abstracts/papers-1017.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [205]
+ [207]
 (./auto/abstracts/papers-1678.tex) (./auto/abstracts/papers-1784.tex)
 (./auto/abstracts/papers-3234.tex
 
-! Package inputenc Error: Unicode char \u8:‚â§ not set up for use with LaTeX.
+./auto/abstracts/papers-3234.tex:1: Package inputenc Error: Unicode char \u8:‚â
+§ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -4910,21 +5041,21 @@ or  <return>  to continue without it.
 ) (./auto/abstracts/papers-3474.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [206]
+ [208]
 (./auto/abstracts/papers-3987.tex) (./auto/abstracts/papers-4085.tex)
 (./auto/abstracts/papers-3053.tex) (./auto/abstracts/papers-3378.tex)
 (./auto/abstracts/papers-3393.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [207]
+ [209]
 (./auto/abstracts/papers-1062.tex) (./auto/abstracts/papers-1813.tex)
 (./auto/abstracts/papers-3059.tex) (./auto/abstracts/papers-3452.tex)
 (./auto/abstracts/papers-3625.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [208]
+ [210]
 (./auto/abstracts/papers-3682.tex
-! Missing $ inserted.
+./auto/abstracts/papers-3682.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...in https://github.com/luomancs/retriever\\_
@@ -4933,7 +5064,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Monday-Virtual-Poster-Session-2.tex:124: Extra }, or forgotten $.
+
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.124 \posterabstract{papers-3682}
@@ -4944,7 +5076,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Monday-Virtual-Poster-Session-2.tex:124: Missing $ inserted.
 <inserted text> 
                 $
 l.124 \posterabstract{papers-3682}
@@ -4956,11 +5088,11 @@ you left one out. Proceed, with fingers crossed.
 (./auto/abstracts/papers-3859.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [209]
-(./auto/abstracts/papers-070.tex)) (./content/day2/banquet.tex [210]))
-(./content/day3/day3.tex [211
+ [211]
+(./auto/abstracts/papers-070.tex)) (./content/day2/banquet.tex [212]))
+(./content/day3/day3.tex [213
 
-] [212
+] [214
 
 ]
 Chapter 6.
@@ -4970,7 +5102,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
  []
 
 (./auto/papers/Tuesday-overview.tex
-! Undefined control sequence.
+./auto/papers/Tuesday-overview.tex:5: Undefined control sequence.
 <recently read> \VirtualLoc 
                             
 l.5 ...Poster Session 3} \hfill \emph{\VirtualLoc}
@@ -4981,7 +5113,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./auto/papers/Tuesday-overview.tex:8: Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.8 ...ries Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -5047,7 +5179,7 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 11--17
 []|[]|  
  []
 
-! Undefined control sequence.
+./auto/papers/Tuesday-overview.tex:18: Undefined control sequence.
 <recently read> \SigdatLoc 
                            
 l.18 ...Business Meeting} \hfill \emph{\SigdatLoc}
@@ -5128,7 +5260,7 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 21--27
 []|[]|  
  []
 
-! Undefined control sequence.
+./auto/papers/Tuesday-overview.tex:28: Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.28 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -5139,7 +5271,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
+./auto/papers/Tuesday-overview.tex:34: Undefined control sequence.
 <recently read> \ClosingLoc 
                             
 l.34 ...losing Ceremony} \hfill \emph{\ClosingLoc}
@@ -5150,37 +5282,43 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[213]) (./content/day3/invited-talk.tex [214
+[215]) (./content/day3/invited-talk.tex [216
 
 ])
 (./auto/papers/Tuesday-parallel-session-8.tex
-Package marginnote Info: Margin note 221.1 is on absolute page 221
-(marginnote)              on input line 10.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 10.
+Package marginnote Info: Suggest that margin note 223.1 will be on
+(marginnote)             absolute page 223.
+(marginnote)             This may be wrong on input line 10.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 10.
 
 Overfull \hbox (1.24747pt too wide) in paragraph at lines 11--11
 \T1/ptm/m/n/7 Shrink:Enriching 
  []
 
-Package marginnote Info: Margin note 221.2 is on absolute page 221
-(marginnote)              on input line 14.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 14.
-Package marginnote Info: Margin note 221.3 is on absolute page 221
-(marginnote)              on input line 18.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 18.
-Package marginnote Info: Margin note 221.4 is on absolute page 221
-(marginnote)              on input line 22.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 22.
-Package marginnote Info: Margin note 221.5 is on absolute page 221
-(marginnote)              on input line 26.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 26.
+Package marginnote Info: Suggest that margin note 223.2 will be on
+(marginnote)             absolute page 223.
+(marginnote)             This may be wrong on input line 14.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 14.
+Package marginnote Info: Suggest that margin note 223.3 will be on
+(marginnote)             absolute page 223.
+(marginnote)             This may be wrong on input line 18.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 18.
+Package marginnote Info: Suggest that margin note 223.4 will be on
+(marginnote)             absolute page 223.
+(marginnote)             This may be wrong on input line 22.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 22.
+Package marginnote Info: Suggest that margin note 223.5 will be on
+(marginnote)             absolute page 223.
+(marginnote)             This may be wrong on input line 26.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 26.
 
-! Package inputenc Error: Keyboard character used is undefined
+./auto/papers/Tuesday-parallel-session-8.tex:27: Package inputenc Error: Keyboa
+rd character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -5198,42 +5336,16 @@ Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--29
  [] 
  []
 
-Package marginnote Info: Margin note 221.6 is on absolute page 222
-(marginnote)              on input line 37.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 37.
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 ...pers-3454} & \papertableentry{papers-2934}
-                                                   & \papertableentry{papers...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-Package marginnote Info: Margin note 221.7 is on absolute page 222
-(marginnote)              on input line 41.
-Package marginnote Info: xpos seems to be 38.68724pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 41.
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 ...pers-3454} & \papertableentry{papers-2934}
-                                                   & \papertableentry{papers...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
+Package marginnote Info: Suggest that margin note 223.6 will be on
+(marginnote)             absolute page 223.
+(marginnote)             This may be wrong on input line 37.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 37.
+Package marginnote Info: Suggest that margin note 223.7 will be on
+(marginnote)             absolute page 223.
+(marginnote)             This may be wrong on input line 41.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 41.
 
 Overfull \hbox (3.3298pt too wide) in paragraph at lines 36--44
  [] 
@@ -5242,28 +5354,29 @@ Overfull \hbox (3.3298pt too wide) in paragraph at lines 36--44
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [215
+ [217
 
 ]
-[216] (./auto/abstracts/papers-2695.tex) (./auto/abstracts/papers-321.tex)
+[218] (./auto/abstracts/papers-2695.tex) (./auto/abstracts/papers-321.tex)
 (./auto/abstracts/papers-388.tex) (./auto/abstracts/papers-4641.tex)
 (./auto/abstracts/papers-2327.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [217]
-(./auto/abstracts/papers-2913.tex) (./auto/abstracts/papers-1026.tex) [218]
+ [219]
+(./auto/abstracts/papers-2913.tex) (./auto/abstracts/papers-1026.tex) [220]
 (./auto/abstracts/papers-710.tex) (./auto/abstracts/papers-1000.tex)
 (./auto/abstracts/papers-1532.tex) (./auto/abstracts/papers-1673.tex)
 (./auto/abstracts/papers-3454.tex) (./auto/abstracts/papers-4467.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [219
+ [221
 
 ]
-[220] (./auto/abstracts/papers-629.tex) (./auto/abstracts/papers-1093.tex)
+[222] (./auto/abstracts/papers-629.tex) (./auto/abstracts/papers-1093.tex)
 (./auto/abstracts/papers-1927.tex) (./auto/abstracts/papers-2083.tex)
 
-! Package inputenc Error: Keyboard character used is undefined
+./auto/papers/Tuesday-parallel-session-8.tex:72: Package inputenc Error: Keyboa
+rd character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -5278,18 +5391,18 @@ or \DeclareInputMath before using this key.
 (./auto/abstracts/papers-2934.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [221
+ [223
 
 ]
-(./auto/abstracts/papers-4189.tex) [222] (./auto/abstracts/papers-4372.tex)
+(./auto/abstracts/papers-4189.tex) [224] (./auto/abstracts/papers-4372.tex)
 (./auto/abstracts/papers-089.tex) (./auto/abstracts/papers-611.tex)
 (./auto/abstracts/papers-1007.tex) (./auto/abstracts/papers-2634.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [223
+ [225
 
 ]
-(./auto/abstracts/papers-2852.tex) [224] (./auto/abstracts/papers-081.tex)
+(./auto/abstracts/papers-2852.tex) [226] (./auto/abstracts/papers-081.tex)
 (./auto/abstracts/papers-605.tex) (./auto/abstracts/papers-1203.tex)
 (./auto/abstracts/papers-2947.tex)
 Overfull \hbox (0.79314pt too wide) in paragraph at lines 89--89
@@ -5300,10 +5413,10 @@ ions that com-bine in-for-ma-tion from both modal-
 (./auto/abstracts/papers-4629.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [225
+ [227
 
 ]
-[226] (./auto/abstracts/papers-2970.tex)
+[228] (./auto/abstracts/papers-2970.tex)
 Underfull \hbox (badness 1163) in paragraph at lines 95--95
 []\T1/ptm/b/n/8 QA-Align: Rep-re-sent-ing Cross-Text Con-tent Over-lap by Align
 -ing Question-Answer
@@ -5313,15 +5426,15 @@ Underfull \hbox (badness 1163) in paragraph at lines 95--95
 (./auto/abstracts/papers-2938.tex) (./auto/abstracts/papers-3800.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [227
+ [229
 
 ]
-[228] (./auto/abstracts/papers-275.tex) (./auto/abstracts/papers-857.tex)
+[230] (./auto/abstracts/papers-275.tex) (./auto/abstracts/papers-857.tex)
 (./auto/abstracts/papers-870.tex) (./auto/abstracts/papers-926.tex)
 (./auto/abstracts/papers-1195.tex) (./auto/abstracts/papers-1596.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [229
+ [231
 
 ]
 (./auto/abstracts/papers-2870.tex) (./auto/abstracts/papers-2952.tex)
@@ -5329,68 +5442,96 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-3175.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [230]
+ [232]
 (./auto/abstracts/papers-791.tex) (./auto/abstracts/papers-3241.tex)
 (./auto/abstracts/papers-662.tex) (./auto/abstracts/papers-3947.tex)
 (./auto/abstracts/papers-2438.tex) (./auto/abstracts/papers-4462.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [231]
-[232]) (./auto/papers/Tuesday-parallel-session-9.tex
-Package marginnote Info: Margin note 239.1 is on absolute page 239
-(marginnote)              on input line 11.
-Package marginnote Info: xpos seems to be 62.00475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 11.
-Package marginnote Info: Margin note 239.2 is on absolute page 239
-(marginnote)              on input line 15.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 15.
-Package marginnote Info: Margin note 239.3 is on absolute page 239
-(marginnote)              on input line 19.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 19.
-Package marginnote Info: Margin note 239.4 is on absolute page 239
-(marginnote)              on input line 23.
-Package marginnote Info: xpos seems to be 56.75475pt,
-(marginnote)             \marginnoterightadjust ignored on input line 23.
+ [233]
+[234]) (./auto/papers/Tuesday-parallel-session-9.tex
+Package marginnote Info: Suggest that margin note 241.1 will be on
+(marginnote)             absolute page 241.
+(marginnote)             This may be wrong on input line 11.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 11.
+Package marginnote Info: Suggest that margin note 241.2 will be on
+(marginnote)             absolute page 241.
+(marginnote)             This may be wrong on input line 15.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 15.
+Package marginnote Info: Suggest that margin note 241.3 will be on
+(marginnote)             absolute page 241.
+(marginnote)             This may be wrong on input line 19.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 19.
+Package marginnote Info: Suggest that margin note 241.4 will be on
+(marginnote)             absolute page 241.
+(marginnote)             This may be wrong on input line 23.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 23.
 
 Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--26
  [] 
  []
 
-[233
+Package marginnote Info: Suggest that margin note 241.5 will be on
+(marginnote)             absolute page 241.
+(marginnote)             This may be wrong on input line 35.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 35.
+Package marginnote Info: Suggest that margin note 241.6 will be on
+(marginnote)             absolute page 241.
+(marginnote)             This may be wrong on input line 39.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 39.
+Package marginnote Info: Suggest that margin note 241.7 will be on
+(marginnote)             absolute page 241.
+(marginnote)             This may be wrong on input line 43.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoterightadjust on input line 43.
+
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 33--46
+ [] 
+ []
 
 
-] (./auto/abstracts/papers-063.tex) (./auto/abstracts/papers-196.tex)
-(./auto/abstracts/papers-1489.tex) (./auto/abstracts/papers-2490.tex) [234]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [235
+
+
+]
+[236] (./auto/abstracts/papers-063.tex) (./auto/abstracts/papers-196.tex)
+(./auto/abstracts/papers-1489.tex) (./auto/abstracts/papers-2490.tex) [237]
 (./auto/abstracts/papers-1021.tex) (./auto/abstracts/papers-2691.tex)
 (./auto/abstracts/papers-2836.tex) (./auto/abstracts/papers-3061.tex)
 (./auto/abstracts/papers-3348.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [235
+ [238
 
 ]
-(./auto/abstracts/papers-3486.tex) [236] (./auto/abstracts/papers-1061.tex)
+(./auto/abstracts/papers-3486.tex) [239] (./auto/abstracts/papers-1061.tex)
 (./auto/abstracts/papers-2789.tex) (./auto/abstracts/papers-3562.tex)
 (./auto/abstracts/papers-3909.tex) (./auto/abstracts/papers-3032.tex)
 (./auto/abstracts/papers-3957.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [237
+ [240
 
 ]
-(./auto/abstracts/papers-4470.tex) [238] (./auto/abstracts/papers-887.tex)
+(./auto/abstracts/papers-4470.tex) [241] (./auto/abstracts/papers-887.tex)
 (./auto/abstracts/papers-1401.tex) (./auto/abstracts/papers-2045.tex)
 (./auto/abstracts/papers-2168.tex) (./auto/abstracts/papers-2240.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [239
+ [242
 
 ]
-(./auto/abstracts/papers-2873.tex) [240] (./auto/abstracts/papers-1567.tex)
+(./auto/abstracts/papers-2873.tex) [243] (./auto/abstracts/papers-1567.tex)
 (./auto/abstracts/papers-2229.tex
-! Missing $ inserted.
+./auto/abstracts/papers-2229.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...mpling algorithm has a running time of O(N^
@@ -5399,10 +5540,10 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Tuesday-parallel-session-9.tex:88: Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.68 ...tract{\day}{14:45--15:00}{}{}{papers-2229}
+l.88 ...tract{\day}{14:45--15:00}{}{}{papers-2229}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5410,16 +5551,16 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Tuesday-parallel-session-9.tex:88: Missing $ inserted.
 <inserted text> 
                 $
-l.68 ...tract{\day}{14:45--15:00}{}{}{papers-2229}
+l.88 ...tract{\day}{14:45--15:00}{}{}{papers-2229}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (571.14717pt too wide) in paragraph at lines 68--68
+Overfull \hbox (571.14717pt too wide) in paragraph at lines 88--88
 \T1/ptm/m/n/7 bourn (1996)'s sam-pling al-go-rithm has a run-ning time of O(N$[
 ]\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 ; whichisoftengreaterthanthemeanhittingtimeofa
 directedgraph:Additionally; webuilduponColbourn[]salgorithmandpresentanovelexte
@@ -5428,13 +5569,13 @@ nsionthatcansampleKtreeswithoutreplacementinO\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 KN
  []
 
 
-Overfull \hbox (174.41281pt too wide) in paragraph at lines 68--68
+Overfull \hbox (174.41281pt too wide) in paragraph at lines 88--88
 \OML/cmm/m/it/7 K[]N\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 time:Tothebestofourknowledg
 e; noalgorithmhasbeengivenforsamplingspanningtreeswithoutreplacementfromadirect
 edgraph:$ 
  []
 
-(./auto/abstracts/papers-289.tex) (./auto/abstracts/papers-1640.tex) [241
+(./auto/abstracts/papers-289.tex) (./auto/abstracts/papers-1640.tex) [244
 
 ]
 (./auto/abstracts/papers-195.tex) (./auto/abstracts/papers-936.tex)
@@ -5442,15 +5583,15 @@ edgraph:$
 (./auto/abstracts/papers-2992.tex) (./auto/abstracts/papers-3143.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [242
+ [245
 
 ]
-(./auto/abstracts/papers-3472.tex) [243] (./auto/abstracts/papers-110.tex)
+(./auto/abstracts/papers-3472.tex) [246] (./auto/abstracts/papers-110.tex)
 (./auto/abstracts/papers-509.tex) (./auto/abstracts/papers-1811.tex)
 (./auto/abstracts/papers-2247.tex) (./auto/abstracts/papers-3649.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [244
+ [247
 
 ]
 (./auto/abstracts/papers-1438.tex) (./auto/abstracts/papers-1552.tex)
@@ -5458,9 +5599,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-2849.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [245]
+ [248]
 (./auto/abstracts/papers-2923.tex) (./auto/abstracts/papers-3258.tex)
-(./auto/abstracts/papers-3405.tex) (./auto/abstracts/papers-3627.tex) [246])
+(./auto/abstracts/papers-3405.tex) (./auto/abstracts/papers-3627.tex) [249])
 (./auto/papers/Tuesday-Virtual-Poster-Session-3.tex
 (./auto/abstracts/papers-380.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
@@ -5471,11 +5612,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 (./auto/abstracts/papers-2876.tex) (./auto/abstracts/papers-185.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [247
+ [250
 
 ]
 (./auto/abstracts/papers-582.tex)
-! Missing $ inserted.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:11: Missing $ inserted.
 <inserted text> 
                 $
 l.11 \posterabstract{papers-684}
@@ -5493,7 +5634,7 @@ stencyinKnowledge \OMS/cmsy/m/n/8 ^^@
  []
 
 (./auto/abstracts/papers-684.tex
-! Missing $ inserted.
+./auto/abstracts/papers-684.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...uestion answering. Our metric, denoted \$Q^
@@ -5502,7 +5643,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:11: Extra }, or forgotten $.
+
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.11 \posterabstract{papers-684}
@@ -5513,7 +5655,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:11: Missing $ inserted.
 <inserted text> 
                 $
 l.11 \posterabstract{papers-684}
@@ -5552,7 +5694,7 @@ entlyshowshighercorrelationwithhumanjudgements:$
 (./auto/abstracts/papers-3860.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [248]
+ [251]
 (./auto/abstracts/papers-4701.tex) (./auto/abstracts/papers-2821.tex)
 (./auto/abstracts/papers-069.tex)
 Overfull \hbox (3.47449pt too wide) in paragraph at lines 17--17
@@ -5563,15 +5705,15 @@ Overfull \hbox (3.47449pt too wide) in paragraph at lines 17--17
 (./auto/abstracts/papers-621.tex) (./auto/abstracts/papers-2906.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [249]
+ [252]
 (./auto/abstracts/papers-431.tex) (./auto/abstracts/papers-258.tex)
 (./auto/abstracts/papers-715.tex) (./auto/abstracts/papers-931.tex)
 (./auto/abstracts/papers-2089.tex) (./auto/abstracts/papers-2176.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [250]
+ [253]
 (./auto/abstracts/papers-120.tex) (./auto/abstracts/papers-229.tex
-! Missing $ inserted.
+./auto/abstracts/papers-229.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...triples as \$subject + relation \rightarrow
@@ -5580,7 +5722,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-! LaTeX Error: Command $ invalid in math mode.
+./auto/abstracts/papers-229.tex:1: LaTeX Error: Command $ invalid in math mode.
+
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -5592,7 +5735,8 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-! LaTeX Error: Command \ttfamily invalid in math mode.
+./auto/abstracts/papers-229.tex:1: LaTeX Error: Command \ttfamily invalid in ma
+th mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -5602,7 +5746,7 @@ l.1 ...lable at \url{https://github.com/4AI/TDEER}
                                                   .
 Please use the math alphabet \mathtt instead of the \ttfamily command. 
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5613,7 +5757,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing \endgroup inserted.
+./auto/abstracts/papers-229.tex:1: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5624,7 +5768,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing \endgroup inserted.
+./auto/abstracts/papers-229.tex:1: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5635,7 +5779,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing \endgroup inserted.
+./auto/abstracts/papers-229.tex:1: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5646,7 +5790,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Undefined control sequence.
+./auto/abstracts/papers-229.tex:1: Undefined control sequence.
 \Url@FormatString ...ndafter \UrlLeft \Url@String 
                                                   \UrlRight \m@th $
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5657,7 +5801,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Extra }, or forgotten $.
+./auto/abstracts/papers-229.tex:1: Extra }, or forgotten $.
 <recently read> }
                  
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5668,7 +5812,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/abstracts/papers-229.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5679,7 +5823,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5690,7 +5834,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5701,7 +5845,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5712,7 +5856,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5723,7 +5867,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5734,7 +5878,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5745,7 +5889,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5756,7 +5900,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5767,7 +5911,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5778,7 +5922,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5789,7 +5933,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5800,7 +5944,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5811,7 +5955,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5822,7 +5966,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5833,7 +5977,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Missing } inserted.
+./auto/abstracts/papers-229.tex:1: Missing } inserted.
 <inserted text> 
                 }
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5844,21 +5988,21 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-! Extra \endgroup.
+./auto/abstracts/papers-229.tex:1: Extra \endgroup.
 <recently read> \endgroup 
                           
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
                                                   .
 Things are pretty mixed up, but I think the worst is over.
 
-! Extra \endgroup.
+./auto/abstracts/papers-229.tex:1: Extra \endgroup.
 \Hy@endcolorlink ->\endgroup 
                              
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
                                                   .
 Things are pretty mixed up, but I think the worst is over.
 
-! Extra \endgroup.
+./auto/abstracts/papers-229.tex:1: Extra \endgroup.
 \hyper@linkurl ...ce@end \close@pdflink \endgroup 
                                                   
 l.1 ...lable at \url{https://github.com/4AI/TDEER}
@@ -5866,7 +6010,7 @@ l.1 ...lable at \url{https://github.com/4AI/TDEER}
 Things are pretty mixed up, but I think the worst is over.
 
 )
-! Too many }'s.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:27: Too many }'s.
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.27 \posterabstract{papers-229}
@@ -5903,9 +6047,9 @@ ERismoreefficientthanpowerfulbaselines:Especially; theproposedTDEERis\OT1/cmr/m
 (./auto/abstracts/papers-1326.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [251]
+ [254]
 (./auto/abstracts/papers-1411.tex
-! Undefined control sequence.
+./auto/abstracts/papers-1411.tex:1: Undefined control sequence.
 l.1 ... prior results. For example, TTransE \citep
                                                   {leblay2018deriving}, one ...
 The control sequence at the end of the top line
@@ -5917,47 +6061,48 @@ and I'll forget about whatever was undefined.
 ) (./auto/abstracts/papers-166.tex) (./auto/abstracts/papers-277.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [252]
+ [255]
 (./auto/abstracts/papers-2598.tex) (./auto/abstracts/papers-2730.tex)
 (./auto/abstracts/papers-446.tex) (./auto/abstracts/papers-657.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [253]
+ [256]
 (./auto/abstracts/papers-1243.tex) (./auto/abstracts/papers-2727.tex)
 (./auto/abstracts/papers-2802.tex) (./auto/abstracts/papers-2986.tex)
 (./auto/abstracts/papers-3001.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [254]
+ [257]
 (./auto/abstracts/papers-4738.tex) (./auto/abstracts/papers-725.tex)
 (./auto/abstracts/papers-774.tex) (./auto/abstracts/papers-3401.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [255]
+ [258]
 (./auto/abstracts/papers-234.tex) (./auto/abstracts/papers-889.tex)
 (./auto/abstracts/papers-1304.tex) (./auto/abstracts/papers-1414.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [256]
+ [259]
 (./auto/abstracts/papers-2146.tex) (./auto/abstracts/papers-2710.tex)
 (./auto/abstracts/papers-3148.tex) (./auto/abstracts/papers-4460.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [257]
+ [260]
 (./auto/abstracts/papers-2043.tex) (./auto/abstracts/papers-2136.tex)
 (./auto/abstracts/papers-2140.tex) (./auto/abstracts/papers-2170.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [258]
+ [261]
 (./auto/abstracts/papers-2363.tex) (./auto/abstracts/papers-2609.tex)
 (./auto/abstracts/papers-2775.tex) (./auto/abstracts/papers-2883.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [259]
+ [262]
 (./auto/abstracts/papers-3075.tex) (./auto/abstracts/papers-3308.tex)
 (./auto/abstracts/papers-3374.tex) (./auto/abstracts/papers-3451.tex)
 
-! Package inputenc Error: Unicode char \u8:¬≠ not set up for use with LaTeX.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:67: Package inputenc Error: 
+Unicode char \u8:¬≠ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -5970,7 +6115,8 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-! Package inputenc Error: Unicode char \u8:¬≠ not set up for use with LaTeX.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:67: Package inputenc Error: 
+Unicode char \u8:¬≠ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -5985,7 +6131,7 @@ or  <return>  to continue without it.
 (./auto/abstracts/papers-4583.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [260]
+ [263]
 Underfull \hbox (badness 1755) in paragraph at lines 68--68
 []\T1/ptm/b/n/8 Comparing Feature-Engineering and Feature-Learning Ap-proaches 
 for Mul-ti-lin-gual
@@ -5995,76 +6141,76 @@ for Mul-ti-lin-gual
 (./auto/abstracts/papers-147.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [261]
+ [264]
 (./auto/abstracts/papers-227.tex) (./auto/abstracts/papers-756.tex)
 (./auto/abstracts/papers-1377.tex) (./auto/abstracts/papers-1430.tex)
 (./auto/abstracts/papers-1782.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [262]
+ [265]
 (./auto/abstracts/papers-1978.tex) (./auto/abstracts/papers-2027.tex)
 (./auto/abstracts/papers-2172.tex) (./auto/abstracts/papers-2193.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [263]
+ [266]
 (./auto/abstracts/papers-2207.tex) (./auto/abstracts/papers-2728.tex)
 (./auto/abstracts/papers-2965.tex) (./auto/abstracts/papers-4530.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [264]
+ [267]
 (./auto/abstracts/papers-1253.tex) (./auto/abstracts/papers-905.tex)
 (./auto/abstracts/papers-2217.tex) (./auto/abstracts/papers-2575.tex)
 (./auto/abstracts/papers-3045.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [265]
+ [268]
 (./auto/abstracts/papers-3253.tex) (./auto/abstracts/papers-395.tex)
 (./auto/abstracts/papers-417.tex) (./auto/abstracts/papers-1126.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [266]
+ [269]
 (./auto/abstracts/papers-1196.tex) (./auto/abstracts/papers-1836.tex)
 (./auto/abstracts/papers-2444.tex) (./auto/abstracts/papers-2995.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [267]
+ [270]
 (./auto/abstracts/papers-4025.tex) (./auto/abstracts/papers-072.tex)
 (./auto/abstracts/papers-199.tex) (./auto/abstracts/papers-504.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [268]
+ [271]
 (./auto/abstracts/papers-507.tex) (./auto/abstracts/papers-673.tex)
 (./auto/abstracts/papers-879.tex) (./auto/abstracts/papers-1322.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [269]
+ [272]
 (./auto/abstracts/papers-1548.tex) (./auto/abstracts/papers-1608.tex)
 (./auto/abstracts/papers-2841.tex) (./auto/abstracts/papers-2985.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [270]
+ [273]
 (./auto/abstracts/papers-3706.tex) (./auto/abstracts/papers-4495.tex)
 (./auto/abstracts/papers-4635.tex) (./auto/abstracts/papers-354.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [271]
+ [274]
 (./auto/abstracts/papers-416.tex) (./auto/abstracts/papers-591.tex)
 (./auto/abstracts/papers-1449.tex) (./auto/abstracts/papers-2115.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [272]
+ [275]
 (./auto/abstracts/papers-2143.tex) (./auto/abstracts/papers-2259.tex)
 (./auto/abstracts/papers-2276.tex) (./auto/abstracts/papers-3187.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [273]
+ [276]
 (./auto/abstracts/papers-4120.tex) (./auto/abstracts/papers-4127.tex)
 (./auto/abstracts/papers-4155.tex) (./auto/abstracts/papers-151.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [274]
+ [277]
 (./auto/abstracts/papers-152.tex) (./auto/abstracts/papers-160.tex)
-! Missing $ inserted.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:127: Missing $ inserted.
 <inserted text> 
                 $
 l.127 \posterabstract{papers-171}
@@ -6072,7 +6218,7 @@ l.127 \posterabstract{papers-171}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-! Missing $ inserted.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:127: Missing $ inserted.
 <inserted text> 
                 $
 l.127 \posterabstract{papers-171}
@@ -6091,7 +6237,7 @@ orkforChangeCaptioning$
  []
 
 (./auto/abstracts/papers-171.tex
-! Missing $ inserted.
+./auto/abstracts/papers-171.tex:1: Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...d Representation Reconstruction Network (R^
@@ -6100,7 +6246,8 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-! Extra }, or forgotten $.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:127: Extra }, or forgotten $
+.
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.127 \posterabstract{papers-171}
@@ -6111,7 +6258,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Missing $ inserted.
+./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:127: Missing $ inserted.
 <inserted text> 
                 $
 l.127 \posterabstract{papers-171}
@@ -6143,18 +6290,16 @@ y/m/n/7 ^^@
 (./auto/abstracts/papers-723.tex) (./auto/abstracts/papers-1768.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [275]
+ [278]
 (./auto/abstracts/papers-2448.tex) (./auto/abstracts/papers-693.tex)
 (./auto/abstracts/papers-2245.tex) (./auto/abstracts/papers-2959.tex)
 (./auto/abstracts/papers-2979.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [276]
+ [279]
 (./auto/abstracts/papers-3484.tex) (./auto/abstracts/papers-4048.tex)
 (./auto/abstracts/papers-2396.tex) (./auto/abstracts/papers-2413.tex)))
-(./content/workshops/workshops.tex [277] [278
-
-]
+(./content/workshops/workshops.tex [280]
 Chapter 7.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
@@ -6163,13 +6308,16 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 
 (./content/workshops/overview.tex
 
-LaTeX Warning: Reference `WShopA' on page 279 undefined on input line 15.
+LaTeX Warning: Reference `WShopA' on page 281 undefined on input line 15.
 
 
-LaTeX Warning: Reference `WShopF' on page 279 undefined on input line 24.
+LaTeX Warning: Reference `WShopF' on page 281 undefined on input line 24.
 
-) [279] (./auto/conll/schedule.tex
-! You can't use `macro parameter character #' in horizontal mode.
+) [281
+
+] (./auto/conll/schedule.tex
+./auto/conll/schedule.tex:8: You can't use `macro parameter character #' in hor
+izontal mode.
 l.8 ... dialogue, and grounded language learning #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6177,7 +6325,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:15: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.15 \item[11:30--12:00] {\bfseries  Break #
                                             }
 Sorry, but I'm not programmed to handle this case;
@@ -6185,7 +6334,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:20: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.20 \item[1:10--2:10] {\bfseries  Lunch break #
                                                 }
 Sorry, but I'm not programmed to handle this case;
@@ -6193,7 +6343,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:23: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.23 ..., and interpretation of language  models #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6201,7 +6352,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:31: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.31 \item[3:50--4:20] {\bfseries  Break #
                                           }
 Sorry, but I'm not programmed to handle this case;
@@ -6209,7 +6361,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:34: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.34 ...4:20--6:00] {\bfseries  Poster session 1 #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6217,11 +6370,12 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[280
+[282
 
 
 ]
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:55: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.55 ...nal, and discourse semantics; Pragmatics #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6229,7 +6383,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:63: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.63 ...1:40--1:20] {\bfseries  Poster session 2 #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6240,8 +6395,9 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [281]
-! You can't use `macro parameter character #' in horizontal mode.
+ [283]
+./auto/conll/schedule.tex:84: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.84 \item[1:20--2:20] {\bfseries  Lunch break #
                                                 }
 Sorry, but I'm not programmed to handle this case;
@@ -6249,7 +6405,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:89: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.89 \item[3:30--3:50] {\bfseries  Break #
                                           }
 Sorry, but I'm not programmed to handle this case;
@@ -6257,7 +6414,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:92: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.92 ...ion, acquisition and linguistic theories #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6265,7 +6423,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:98: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.98 \item[4:50--5:10] {\bfseries  Break #
                                           }
 Sorry, but I'm not programmed to handle this case;
@@ -6273,7 +6432,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:101: You can't use `macro parameter character #' in h
+orizontal mode.
 l.101 ...s  Oral session 5: Speech and phonology #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6281,7 +6441,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/conll/schedule.tex:106: You can't use `macro parameter character #' in h
+orizontal mode.
 l.106 ...ies  Best Paper Award and Closing Words #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6289,19 +6450,20 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [282] (./auto/argmining/schedule.tex [283
+) [284] (./auto/argmining/schedule.tex [285
 
-]) [284] (./auto/codi/schedule.tex
+]) [286] (./auto/codi/schedule.tex
 Overfull \hbox (15.83023pt too wide) in paragraph at lines 31--32
 \T1/ptm/b/n/7 net Oguz, Ta-tiana Anikina, Siyu Tao, Sharmila Upad-hyaya and Iva
 na Kruijff-Korbayova) 
  []
 
-[285
+[287
 
 ]
 
-! Package inputenc Error: Unicode char \u8:‚Äë not set up for use with LaTeX.
+./auto/codi/schedule.tex:92: Package inputenc Error: Unicode char \u8:‚Äë not s
+et up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -6316,12 +6478,12 @@ or  <return>  to continue without it.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [286])
-[287] (./auto/nlp4convai/schedule.tex [288
+ [288])
+[289] (./auto/nlp4convai/schedule.tex [290
 
-]) [289]
+]) [291]
 (./auto/eval4nlp/schedule.tex
-! Misplaced alignment tab character &.
+./auto/eval4nlp/schedule.tex:53: Misplaced alignment tab character &.
 l.53 ...:00--5:45] {\bfseries  Award Announcment &
                                                    Shared Task Winners Prese...
 I can't figure out why you would want to use a tab mark
@@ -6331,10 +6493,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[290
+[292
 
-]) [291] (./auto/ci+nlp/schedule.tex
-! You can't use `macro parameter character #' in horizontal mode.
+]) [293] (./auto/ci+nlp/schedule.tex
+./auto/ci+nlp/schedule.tex:3: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.3 ...m[9:00--9:10] {\bfseries  Opening Remarks #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6342,9 +6505,9 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [292
+) [294
 
-] (./auto/insights/schedule.tex) [293
+] (./auto/insights/schedule.tex) [295
 
 ] (./auto/mrqa/schedule.tex
 Overfull \hbox (1.01765pt too wide) in paragraph at lines 51--52
@@ -6352,7 +6515,7 @@ Overfull \hbox (1.01765pt too wide) in paragraph at lines 51--52
  (Re-vanth Gangi Reddy,
  []
 
-[294
+[296
 
 ]
 Overfull \hbox (16.39642pt too wide) in paragraph at lines 60--61
@@ -6375,14 +6538,14 @@ Overfull \hbox (15.8994pt too wide) in paragraph at lines 117--118
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [295])
-[296] (./auto/nllp/schedule.tex [297
+ [297])
+[298] (./auto/nllp/schedule.tex [299
 
-]) [298] (./auto/sustainlp/schedule.tex)
-[299
+]) [300] (./auto/sustainlp/schedule.tex)
+[301
 
 ] (./auto/fever/schedule.tex
-! Misplaced alignment tab character &.
+./auto/fever/schedule.tex:14: Misplaced alignment tab character &.
 l.14 \item[10:05--10:20] {\bfseries  Q&
                                        A}
 I can't figure out why you would want to use a tab mark
@@ -6392,7 +6555,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-! Misplaced alignment tab character &.
+./auto/fever/schedule.tex:21: Misplaced alignment tab character &.
 l.21 \item[10:50--11:00] {\bfseries  Q&
                                        A}
 I can't figure out why you would want to use a tab mark
@@ -6402,7 +6565,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-! Misplaced alignment tab character &.
+./auto/fever/schedule.tex:33: Misplaced alignment tab character &.
 l.33 \item[12:15--12:30] {\bfseries  Q&
                                        A}
 I can't figure out why you would want to use a tab mark
@@ -6412,7 +6575,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-! You can't use `macro parameter character #' in vertical mode.
+./auto/fever/schedule.tex:43: You can't use `macro parameter character #' in ve
+rtical mode.
 l.43 \item[2:00--2:10] {\bfseries  #
                                      The Fact Extraction and VERification Ov...
 Sorry, but I'm not programmed to handle this case;
@@ -6420,7 +6584,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! Misplaced alignment tab character &.
+./auto/fever/schedule.tex:47: Misplaced alignment tab character &.
 l.47 \item[2:30--2:45] {\bfseries  Q&
                                      A}
 I can't figure out why you would want to use a tab mark
@@ -6430,10 +6594,10 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[300
+[302
 
 ]
-! Misplaced alignment tab character &.
+./auto/fever/schedule.tex:67: Misplaced alignment tab character &.
 l.67 \item[5:15--5:30] {\bfseries  Q&
                                      A}
 I can't figure out why you would want to use a tab mark
@@ -6443,8 +6607,9 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [301] (./auto/newsum/schedule.tex
-! You can't use `macro parameter character #' in horizontal mode.
+) [303] (./auto/newsum/schedule.tex
+./auto/newsum/schedule.tex:3: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.3 ...:00--10:30] {\bfseries  Morning Session I #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6452,7 +6617,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/newsum/schedule.tex:17: You can't use `macro parameter character #' in h
+orizontal mode.
 l.17 ...0--12:00] {\bfseries  Morning session II #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6460,7 +6626,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/newsum/schedule.tex:26: You can't use `macro parameter character #' in h
+orizontal mode.
 l.26 ...0--2:30] {\bfseries  Afternoon session I #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6468,7 +6635,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/newsum/schedule.tex:39: You can't use `macro parameter character #' in h
+orizontal mode.
 l.39 ...--3:35] {\bfseries  Afternoon session II #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6476,7 +6644,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/newsum/schedule.tex:46: You can't use `macro parameter character #' in h
+orizontal mode.
 l.46 ...es  EMNLP Finding papers - Summarization #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6484,7 +6653,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/newsum/schedule.tex:52: You can't use `macro parameter character #' in h
+orizontal mode.
 l.52 ...-6:00] {\bfseries  Afternoon session III #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6492,10 +6662,10 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[302
+[304
 
-]) [303] (./auto/econlp/schedule.tex
-! Misplaced alignment tab character &.
+]) [305] (./auto/econlp/schedule.tex
+./auto/econlp/schedule.tex:4: Misplaced alignment tab character &.
 l.4 ...ng remarks and status report on economics &
                                                    NLP (Udo Hahn)}
 I can't figure out why you would want to use a tab mark
@@ -6505,10 +6675,10 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [304
+) [306
 
 ]
-! Misplaced alignment tab character &.
+./content/workshops/workshops.tex:158: Misplaced alignment tab character &.
 <argument> ...MR: The 15th Linguistic Annotation &
                                                    3rd Designing Meaning Rep...
 l.158   {\WShopLocJ}
@@ -6525,7 +6695,8 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `alignment tab' on input line 158.
 
 (./auto/lawdmr/schedule.tex
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/lawdmr/schedule.tex:5: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.5 \item[8:45--9:00] {\bfseries  Introduction #
                                                 }
 Sorry, but I'm not programmed to handle this case;
@@ -6533,7 +6704,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/lawdmr/schedule.tex:8: You can't use `macro parameter character #' in ho
+rizontal mode.
 l.8 ...bfseries  Session A: Oral presentations:  #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6541,7 +6713,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/lawdmr/schedule.tex:18: You can't use `macro parameter character #' in h
+orizontal mode.
 l.18 ...eries  Session B: Poster presentations:  #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6549,7 +6722,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/lawdmr/schedule.tex:34: You can't use `macro parameter character #' in h
+orizontal mode.
 l.34 ...t's the future of linguistic annotation? #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6557,7 +6731,8 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/lawdmr/schedule.tex:37: You can't use `macro parameter character #' in h
+orizontal mode.
 l.37 ...fseries  Session C: Oral presentations:  #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6565,10 +6740,11 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[305
+[307
 
 ]
-! You can't use `macro parameter character #' in horizontal mode.
+./auto/lawdmr/schedule.tex:47: You can't use `macro parameter character #' in h
+orizontal mode.
 l.47 ...00--4:15] {\bfseries  Concluding remarks #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -6576,14 +6752,15 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [306] (./auto/w-nut/schedule.tex [307
+) [308] (./auto/w-nut/schedule.tex [309
 
-]) [308]
-(./auto/latech-clfl/schedule.tex) [309
+]) [310]
+(./auto/latech-clfl/schedule.tex) [311
 
 ] (./auto/mrl/schedule.tex
 
-! Package inputenc Error: Unicode char \u8:ƒÅ not set up for use with LaTeX.
+./auto/mrl/schedule.tex:22: Package inputenc Error: Unicode char \u8:ƒÅ not set
+ up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -6595,11 +6772,12 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[310
+[312
 
-]) [311] (./auto/winlp/schedule.tex
+]) [313] (./auto/winlp/schedule.tex
 
-! Package inputenc Error: Unicode char \u8:ÔøΩ not set up for use with LaTeX.
+./auto/winlp/schedule.tex:32: Package inputenc Error: Unicode char \u8:ÔøΩ not 
+set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -6611,10 +6789,10 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[312
+[314
 
 ]
-! Misplaced alignment tab character &.
+./auto/winlp/schedule.tex:85: Misplaced alignment tab character &.
 l.85 \item[4:35--5:30] {\bfseries  Social &
                                             Coffee}
 I can't figure out why you would want to use a tab mark
@@ -6624,18 +6802,18 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [313] (./auto/eancs/schedule.tex) [314
+) [315] (./auto/eancs/schedule.tex) [316
 
-] (./auto/crac/schedule.tex [315
+] (./auto/crac/schedule.tex [317
 
 ])
-[316] (./auto/blackbox/schedule.tex [317
+[318] (./auto/blackbox/schedule.tex [319
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [318])
-[319] [320
+ [320])
+[321] [322
 
 
 ]) (./content/anti-harassment-policy.tex
@@ -6645,17 +6823,17 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-) [321
+) [323
 
-] [322
+] [324
 
-] (./handbook.ind [323
+] (./handbook.ind [325
 
-] [324] [325] [326] [327] [328] [329]
-[330] [331] [332] [333] [334] [335] [336] [337
+] [326] [327] [328] [329] [330] [331]
+[332] [333] [334] [335] [336] [337] [338] [339
 
 ])
-(./content/local-guide/local-guide.tex [338
+(./content/local-guide/local-guide.tex [340
 
 
 ]
@@ -6665,7 +6843,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4101, 614.295pt x 794.97pt>
+<content/local-guide/EMNLP-localGuide.pdf, id=4110, 614.295pt x 794.97pt>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf>
@@ -6679,7 +6857,7 @@ Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf used on input
  line 6.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4104, page=1, 614.295pt x 794.97p
+<content/local-guide/EMNLP-localGuide.pdf, id=4113, page=1, 614.295pt x 794.97p
 t>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
  <use content/local-guide/EMNLP-localGuide.pdf, page 1>
@@ -6704,15 +6882,15 @@ File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [339]
+ [341]
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf, page 1>
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [340 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
-<content/ads/silver/Naver-EMNLP2021.pdf, id=4145, 597.23125pt x 845.1575pt>
+ [342 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
+<content/ads/silver/Naver-EMNLP2021.pdf, id=4154, 597.23125pt x 845.1575pt>
 File: content/ads/silver/Naver-EMNLP2021.pdf Graphic file (type pdf)
 
 <use content/ads/silver/Naver-EMNLP2021.pdf>
@@ -6721,11 +6899,11 @@ ine 10.
 (pdftex.def)             Requested size: 289.07999pt x 409.08844pt.
 
 
-pdfTeX warning: pdflatex (file ./content/ads/silver/duolingo-emnlp21-quarter-ad
-.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
-d
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./content/ads/silver/duoling
+o-emnlp21-quarter-ad.pdf): PDF inclusion: found PDF version <1.7>, but at most 
+version <1.5> allowed
 
-<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4146, 190.311pt x 325.2
+<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4155, 190.311pt x 325.2
 15pt>
 File: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf Graphic file (type pdf
 )
@@ -6734,10 +6912,10 @@ Package pdftex.def Info: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf use
 d on input line 12.
 (pdftex.def)             Requested size: 289.07999pt x 494.06892pt.
 
-<content/ads/silver/emnlp_ad.pdf, id=4147, 325.215pt x 144.54pt>
+<content/ads/silver/emnlp_ad.pdf, id=4156, 325.215pt x 144.54pt>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [341
+ [343
 
 
  <./content/ads/silver/Naver-EMNLP2021.pdf>]
@@ -6749,13 +6927,13 @@ Package pdftex.def Info: content/ads/silver/emnlp_ad.pdf used on input line 14.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [342 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
+ [344 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
 Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
 (./content/sponsors/sponsors.tex
-<content/sponsors/diamond/apple.png, id=4190, 150.5625pt x 150.5625pt>
+<content/sponsors/diamond/apple.png, id=4200, 150.5625pt x 150.5625pt>
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 
 <use content/sponsors/diamond/apple.png>
@@ -6763,7 +6941,7 @@ Package pdftex.def Info: content/sponsors/diamond/apple.png used on input line
 6.
 (pdftex.def)             Requested size: 36.135pt x 36.13573pt.
 
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4192, 220.825pt x 132.495
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4202, 220.825pt x 132.495
 pt>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
  <use content/sponsors/diamond/Bloomberg-logo-2019.png>
@@ -6771,14 +6949,14 @@ Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png used
 on input line 7.
 (pdftex.def)             Requested size: 36.135pt x 21.68079pt.
 
-<content/sponsors/diamond/Facebook-AI2020.png, id=4193, 2342.7525pt x 529.98pt>
+<content/sponsors/diamond/Facebook-AI2020.png, id=4203, 2342.7525pt x 529.98pt>
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
 (pdftex.def)             Requested size: 72.26999pt x 16.34348pt.
 
-<content/sponsors/diamond/google.png, id=4194, 672.5125pt x 96.36pt>
+<content/sponsors/diamond/google.png, id=4204, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
 
 <use content/sponsors/diamond/google.png>
@@ -6790,7 +6968,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
 
-! Extra alignment tab has been changed to \cr.
+./content/sponsors/sponsors.tex:13: Extra alignment tab has been changed to \cr
+.
 <template> \endtemplate 
                         
 l.13   \multicolumn{4}{l}{\small\textbf Platinum}
@@ -6799,7 +6978,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/amazon-logo.png, id=4195, 1003.75pt x 526.96875pt>
+<content/sponsors/platinum/amazon-logo.png, id=4205, 1003.75pt x 526.96875pt>
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/amazon-logo.png>
@@ -6807,7 +6986,7 @@ Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
 
-<content/sponsors/platinum/deepmind-logo.png, id=4196, 1066.98625pt x 401.5pt>
+<content/sponsors/platinum/deepmind-logo.png, id=4206, 1066.98625pt x 401.5pt>
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/deepmind-logo.png>
@@ -6816,7 +6995,8 @@ put line 15.
 (pdftex.def)             Requested size: 72.26999pt x 27.1889pt.
 
 
-! LaTeX Error: Unknown graphics extension: .svg.
+./content/sponsors/sponsors.tex:16: LaTeX Error: Unknown graphics extension: .s
+vg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -6827,7 +7007,8 @@ l.16 ...ontent/sponsors/platinum/ByteDance_EN.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-! Extra alignment tab has been changed to \cr.
+./content/sponsors/sponsors.tex:17: Extra alignment tab has been changed to \cr
+.
 <recently read> \endtemplate 
                              
 l.17      &
@@ -6836,7 +7017,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/g-research.png, id=4197, 451.6875pt x 451.6875pt>
+<content/sponsors/platinum/g-research.png, id=4207, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
@@ -6844,7 +7025,7 @@ Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
 
-<content/sponsors/platinum/megagon-logo-2019.png, id=4198, 240.9pt x 240.9pt>
+<content/sponsors/platinum/megagon-logo-2019.png, id=4208, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
@@ -6856,7 +7037,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
  []
 
-<content/sponsors/gold/grammarly.png, id=4199, 1028.84375pt x 240.9pt>
+<content/sponsors/gold/grammarly.png, id=4209, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
@@ -6864,7 +7045,7 @@ Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
  23.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
 
-<content/sponsors/gold/MSFT.jpg, id=4200, 582.175pt x 124.465pt>
+<content/sponsors/gold/MSFT.jpg, id=4210, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
@@ -6876,7 +7057,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--26
  []
 
 
-! LaTeX Error: Unknown graphics extension: .svg.
+./content/sponsors/sponsors.tex:29: LaTeX Error: Unknown graphics extension: .s
+vg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -6887,7 +7069,7 @@ l.29 ...1in]{content/sponsors/silver/duolingo.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<content/sponsors/silver/Naver.jpg, id=4201, 301.125pt x 301.125pt>
+<content/sponsors/silver/Naver.jpg, id=4211, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
@@ -6895,7 +7077,7 @@ Package pdftex.def Info: content/sponsors/silver/Naver.jpg used on input line 3
 0.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4202, 2603.7275pt x 552.0625
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4212, 2603.7275pt x 552.0625
 pt>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
@@ -6907,8 +7089,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
 
  []
 
-[343 <./content/ads/silver/emnlp_ad.pdf>]
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4228
+[345 <./content/ads/silver/emnlp_ad.pdf>]
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4237
 , 455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
@@ -6918,14 +7100,14 @@ Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
 kup_Red_RGB.png used on input line 36.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 
-<content/sponsors/bronze/Babelscape_colori.png, id=4229, 474.573pt x 94.1919pt>
+<content/sponsors/bronze/Babelscape_colori.png, id=4238, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
 input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
 
-<content/sponsors/bronze/HLTCOE-Logo.png, id=4230, 226.8475pt x 117.43875pt>
+<content/sponsors/bronze/HLTCOE-Logo.png, id=4239, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
@@ -6933,7 +7115,8 @@ Package pdftex.def Info: content/sponsors/bronze/HLTCOE-Logo.png used on input
 line 38.
 (pdftex.def)             Requested size: 86.72377pt x 44.89597pt.
 
-! Extra alignment tab has been changed to \cr.
+./content/sponsors/sponsors.tex:39: Extra alignment tab has been changed to \cr
+.
 <recently read> \endtemplate 
                              
 l.39     &
@@ -6943,7 +7126,7 @@ in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=4231, 173.03503pt x 190.99928pt
+<content/sponsors/bronze/LegalForce_new.jpg, id=4240, 173.03503pt x 190.99928pt
 >
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
  <use content/sponsors/bronze/LegalForce_new.jpg>
@@ -6958,14 +7141,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [344 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
+ [346 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
 erg-logo-2019.png> <./content/sponsors/diamond/Facebook-AI2020.png> <./content/
 sponsors/diamond/google.png> <./content/sponsors/platinum/amazon-logo.png> <./c
 ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-rese
 arch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponso
 rs/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/s
 ilver/Naver.jpg> <./content/sponsors/silver/Naver_Labs_Europe.jpg>]
-<content/sponsors/supporter/ServiceNow.png, id=4244, 253.6677pt x 72.87225pt>
+<content/sponsors/supporter/ServiceNow.png, id=4253, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
@@ -6978,7 +7161,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--46
  []
 
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=4245, 1003.75pt x 526.9
+<content/sponsors/diversityChampion/amazon-logo.png, id=4254, 1003.75pt x 526.9
 6875pt>
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
@@ -6987,7 +7170,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
 d on input line 49.
 (pdftex.def)             Requested size: 86.72377pt x 45.52748pt.
 
-<content/sponsors/diversityChampion/deepmind-logo.png, id=4246, 1066.98625pt x 
+<content/sponsors/diversityChampion/deepmind-logo.png, id=4255, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
@@ -6996,7 +7179,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
 sed on input line 50.
 (pdftex.def)             Requested size: 86.72377pt x 32.62914pt.
 
-<content/sponsors/diversityChampion/google.png, id=4247, 672.5125pt x 96.36pt>
+<content/sponsors/diversityChampion/google.png, id=4256, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
@@ -7004,7 +7187,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on
 input line 51.
 (pdftex.def)             Requested size: 86.72377pt x 12.42578pt.
 
-<content/sponsors/diversityChampion/MSFT.png, id=4248, 415.01584pt x 88.72752pt
+<content/sponsors/diversityChampion/MSFT.png, id=4257, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
@@ -7022,7 +7205,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--54
  []
 
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4249, 417.22887pt x 280.
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4258, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
@@ -7031,7 +7214,7 @@ Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
  on input line 57.
 (pdftex.def)             Requested size: 86.72377pt x 58.22829pt.
 
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4250, 714.7
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4259, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
@@ -7042,7 +7225,7 @@ _RGB.jpg used on input line 62.
 (pdftex.def)             Requested size: 72.26999pt x 48.10323pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-B.png, id=4251, 455.5419pt x 118.7637pt>
+B.png, id=4260, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
@@ -7057,7 +7240,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--232
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
-[345 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
+[347 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
 <./content/sponsors/bronze/Babelscape_colori.png> <./content/sponsors/bronze/HL
 TCOE-Logo.png> <./content/sponsors/bronze/LegalForce_new.jpg> <./content/sponso
 rs/supporter/ServiceNow.png> <./content/sponsors/diversityChampion/amazon-logo.
@@ -7071,11 +7254,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
 (./handbook.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
-Package rerunfilecheck Info: File `handbook.out' has not changed.
-(rerunfilecheck)             Checksum: DA1E8067D671D87C1B3A3E233358CD64;5201.
 
+
+Package rerunfilecheck Warning: File `handbook.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `handbook.out':
+(rerunfilecheck)             Before: DA1E8067D671D87C1B3A3E233358CD64;5201
+(rerunfilecheck)             After:  E43BE3425596640A04E67B4283A7C3D0;5257.
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                handbook
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'handbook.run.xml'.
 \openout1 = `handbook.run.xml'.
@@ -7086,10 +7283,10 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 ### simple group (level 1) entered at line 127 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27084 strings out of 493089
- 484309 string characters out of 6134842
- 1606059 words of memory out of 5000000
- 26997 multiletter control sequences out of 15000+600000
+ 27133 strings out of 493089
+ 484923 string characters out of 6134842
+ 1606042 words of memory out of 5000000
+ 27043 multiletter control sequences out of 15000+600000
  54953 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,19n,55p,2264b,1822s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -7114,10 +7311,10 @@ w/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (351 pages, 4524731 bytes).
+Output written on handbook.pdf (353 pages, 4531001 bytes).
 PDF statistics:
- 4421 PDF objects out of 5155 (max. 8388607)
- 3916 compressed objects within 40 object streams
- 411 named destinations out of 1000 (max. 500000)
+ 4430 PDF objects out of 5155 (max. 8388607)
+ 3923 compressed objects within 40 object streams
+ 414 named destinations out of 1000 (max. 500000)
  653 words of extra memory for PDF output out of 10000 (max. 10000000)
 
