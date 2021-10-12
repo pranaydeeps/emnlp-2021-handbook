@@ -1,0 +1,121 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Table of Contents}{i}{Doc-Start}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Conference Information}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Message from the General Chair}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Message from the Program Committee Co-Chairs}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Organizing Committee}{7}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Program Committee}{8}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Welcome Reception}{15}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Tutorials: Wednesday, November 10\xspace }{17}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T1:} {Crowdsourcing Beyond Annotation: \\ Case Studies in Benchmark Data Collection}}{18}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T2:} {Financial Opinion Mining}}{20}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T3:} {Knowledge-Enriched Natural Language Generation}}{22}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Tutorials: Thursday, November 11\xspace }{25}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T4:} {Multi-Domain Multilingual Question Answering}}{26}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T5:} {Robustness and Adversarial Examples in Natural Language Processing}}{27}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T6:} {Syntax in End-to-End Natural Language Processing}}{29}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Main Conference: Sunday, November 7\xspace }{31}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Keynote Address: Ido Dagan}{33}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 1}{35}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 2}{53}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 3}{67}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 4}{85}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Virtual Poster Session I}{98}{section.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Main Conference: Monday, November 8\xspace }{133}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Keynote Address: Evelina Fedorenko}{134}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 5}{135}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 6}{153}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 7}{171}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Virtual Poster Session 2}{185}{section.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Social Event}{211}{section.5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Main Conference: Tuesday, November 9\xspace }{213}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Keynote Address: Steven Bird}{214}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 8}{215}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 9}{233}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Virtual Poster Session 3}{247}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Workshops: Thursday--Friday, November 10--11\xspace }{279}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W22:} The 25th Conference on Computational Natural Language Learning (CoNLL)}{280}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W9:} 8th International Workshop on Argument Mining}{283}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W16:} 2nd Workshop on Computational Approaches to Discourse (CODI)}{285}{section.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W3:} 3rd Workshop on NLP for Conversational AI (NLP4ConvAI)}{288}{section.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W5:} 2nd Workshop on Evaluation and Comparison of NLP Systems (Eval4NLP)}{290}{section.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W6:} CI+NLP: First Workshop on Causal Inference in NLP}{292}{section.7.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W10:} The Second Workshop on Insights from Negative Results in NLP}{293}{section.7.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W12:} The 3rd Workshop on Machine Reading for Question Answering}{294}{section.7.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W15:} The Natural Legal Language Processing Workshop 2021 (NLLP) }{297}{section.7.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W18:} SustaiNLP 2021: The Second Workshop on Simple and Efficient Natural Language Processing}{299}{section.7.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W20:} Fourth Workshop on Fact Extraction and VERification (FEVER)}{300}{section.7.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W21:} Third Workshop on New Frontiers in Summarization (NewSum)}{302}{section.7.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W1:} 3rd Workshop on Economics and Natural Language Processing (ECONLP)}{304}{section.7.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W2:} LAW-DMR: The 15th Linguistic Annotation & 3rd Designing Meaning Representations Joint Workshop}{305}{section.7.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W7:} 7th Workshop on Noisy User-generated Text (W-NUT 2021)}{307}{section.7.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W8:} The 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)}{309}{section.7.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W13:} The 1st Workshop on Multi-lingual Representation Learning (MRL)}{310}{section.7.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W14:} The Fifth Widening NLP Workshop (WiNLP 2021)}{312}{section.7.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W17:} Workshop on Evaluations and Assessments of Neural Conversation Systems}{314}{section.7.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W19:} Fourth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2021)}{315}{section.7.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W23:} BlackboxNLP: Analyzing and interpreting neural networks for NLP}{317}{section.7.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Anti-harassment policy}{321}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Author Index}{323}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Local Guide}{339}{chapter.9}

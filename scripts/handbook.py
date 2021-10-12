@@ -67,6 +67,10 @@ class Session:
             self.desc = self.name[colonpos+2:]
             self.name = self.name[:colonpos]
             self.num = self.name.split(' ')[-1][:-1]
+        else:
+            self.desc = self.name
+            self.name = self.name
+            self.num = 0
         # print >> sys.stderr, "LINE %s NAME %s DESC %s" % (line, self.name, self.desc)
 
         self.poster = False

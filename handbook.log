@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 OCT 2021 23:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2021 00:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1664,7 +1664,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 ! Misplaced alignment tab character &.
 <argument> ...MR: The 15th Linguistic Annotation &
                                                    3rd Designing Meaning Rep...
-l.101 ...ations Joint Workshop}{303}{section.7.14}
+l.101 ...ations Joint Workshop}{305}{section.7.14}
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2375,9 +2375,9 @@ Overfull \hbox (29.23978pt too wide) in paragraph at lines 40--45
  []
 
 ! Undefined control sequence.
-<recently read> \TODO 
-                      
-l.46 ...on I None} \hfill \emph{\TODO LocationLoc}
+<recently read> \VirtualLoc 
+                            
+l.46 ...oster Session I} \hfill \emph{\VirtualLoc}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2399,151 +2399,69 @@ might try typing `S' now just to see what is salvageable.
 [33
 
 ] [34]) (./auto/papers/Sunday-parallel-session-1.tex
-Package marginnote Info: Margin note 41.1 is on absolute page 42
-(marginnote)              on input line 11.
-Package marginnote Info: xpos seems to be 72.07715pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 11.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...pers-442} & \papertableentry{papers-091} &
-                                                   \papertableentry{papers-0...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...ers-748} & \papertableentry{papers-2864} &
-                                                   \papertableentry{papers-668}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 41.2 is on absolute page 42
-(marginnote)              on input line 15.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 15.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...ers-1737} & \papertableentry{papers-231} &
-                                                   \papertableentry{papers-6...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...ers-1611} & \papertableentry{papers-909} &
-                                                   \papertableentry{papers-669}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 41.3 is on absolute page 42
-(marginnote)              on input line 19.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 19.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...ers-2578} & \papertableentry{papers-404} &
-                                                   \papertableentry{papers-8...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...rs-3211} & \papertableentry{papers-1469} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 41.4 is on absolute page 42
-(marginnote)              on input line 23.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 23.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...ers-3930} & \papertableentry{papers-532} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...ers-3645} & \papertableentry{papers-969} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 41.5 is on absolute page 42
-(marginnote)              on input line 27.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 27.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.28 ...pers-921} & \papertableentry{papers-538} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.28 ...rs-3708} & \papertableentry{papers-1418} &
-                                                   \papertableentry{papers-466}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 41.6 is on absolute page 42
-(marginnote)              on input line 31.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 31.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.32 ...pers-921} & \papertableentry{papers-538} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.32 ...rs-3708} & \papertableentry{papers-1418} &
-                                                   \papertableentry{papers-466}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (1.4725pt too wide) in paragraph at lines 9--9
+[]|\T1/ptm/m/it/8 Summarization 
+ []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (1.03255pt too wide) in paragraph at lines 9--9
+[]|\T1/ptm/m/it/8 Computational 
+ []
 
- [35
+Package marginnote Info: Margin note 41.1 is on absolute page 41
+(marginnote)              on input line 10.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 10.
+Package marginnote Info: Margin note 41.2 is on absolute page 41
+(marginnote)              on input line 14.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 14.
+Package marginnote Info: Margin note 41.3 is on absolute page 41
+(marginnote)              on input line 18.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 18.
+
+Overfull \hbox (2.80026pt too wide) in paragraph at lines 19--19
+[]|\T1/ptm/m/n/8 (Mis)alignment 
+ []
+
+
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--21
+ [] 
+ []
+
+[35
 
 ]
-Overfull \vbox (465.24144pt too high) has occurred while \output is active []
+Overfull \hbox (1.4725pt too wide) in paragraph at lines 29--29
+[]|\T1/ptm/m/it/8 Summarization 
+ []
 
+
+Overfull \hbox (1.03255pt too wide) in paragraph at lines 29--29
+[]|\T1/ptm/m/it/8 Computational 
+ []
+
+Package marginnote Info: Margin note 42.1 is on absolute page 42
+(marginnote)              on input line 30.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 30.
+Package marginnote Info: Margin note 42.2 is on absolute page 42
+(marginnote)              on input line 34.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 34.
+Package marginnote Info: Margin note 42.3 is on absolute page 42
+(marginnote)              on input line 38.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 38.
+
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 29--41
+ [] 
+ []
 
 [36]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 38.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 45.
  (./auto/abstracts/papers-4268.tex
 
 ! Package inputenc Error: Unicode char \u8:↔ not set up for use with LaTeX.
@@ -2604,7 +2522,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 (./auto/abstracts/papers-921.tex) (./auto/abstracts/papers-4537.tex)
 (./auto/abstracts/papers-1707.tex) [40] (./auto/abstracts/papers-091.tex)
-Underfull \hbox (badness 1728) in paragraph at lines 60--60
+Underfull \hbox (badness 1728) in paragraph at lines 67--67
 []\T1/ptm/b/n/8 Distantly Su-per-vised Re-la-tion Ex-trac-tion us-ing Multi-Lay
 er Re-vi-sion Net-work and
  []
@@ -2668,71 +2586,49 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51]
 [52]) (./auto/papers/Sunday-parallel-session-2.tex
-Package marginnote Info: Margin note 59.1 is on absolute page 60
+Overfull \hbox (1.61617pt too wide) in paragraph at lines 9--9
+[]|\T1/ptm/m/it/8 Interpretability 
+ []
+
+Package marginnote Info: Margin note 59.1 is on absolute page 59
 (marginnote)              on input line 10.
-Package marginnote Info: xpos seems to be 85.62117pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 10.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.11 ...rs-3531} & \papertableentry{papers-2944} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 59.2 is on absolute page 60
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 10.
+Package marginnote Info: Margin note 59.2 is on absolute page 59
 (marginnote)              on input line 14.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 14.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.15 ...rs-2905} & \papertableentry{papers-2830} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 59.3 is on absolute page 60
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 14.
+Package marginnote Info: Margin note 59.3 is on absolute page 59
 (marginnote)              on input line 18.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 18.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.19 ...rs-3476} & \papertableentry{papers-3200} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 18.
+
+Overfull \hbox (1.34448pt too wide) in paragraph at lines 19--19
+[]|\T1/ptm/m/n/8 Contextualized 
+ []
+
+
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--21
+ [] 
+ []
+
+
+Overfull \hbox (1.61617pt too wide) in paragraph at lines 29--29
+[]|\T1/ptm/m/it/8 Interpretability 
+ []
 
 Package marginnote Info: Margin note 59.4 is on absolute page 60
-(marginnote)              on input line 22.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 22.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.23 ...rs-1060} & \papertableentry{papers-3332} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
+(marginnote)              on input line 30.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 30.
 Package marginnote Info: Margin note 59.5 is on absolute page 60
-(marginnote)              on input line 26.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 26.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.27 ...rs-1060} & \papertableentry{papers-3332} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+(marginnote)              on input line 34.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 34.
+
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 29--37
+ [] 
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2741,9 +2637,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \vbox (37.69057pt too high) has occurred while \output is active []
-
-
 [54] (./auto/abstracts/papers-2487.tex) (./auto/abstracts/papers-2711.tex)
 (./auto/abstracts/papers-3008.tex) (./auto/abstracts/papers-3082.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2819,119 +2712,49 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 (./auto/abstracts/papers-3056.tex) [66])
 (./auto/papers/Sunday-parallel-session-3.tex
-Package marginnote Info: Margin note 73.1 is on absolute page 74
-(marginnote)              on input line 11.
-Package marginnote Info: xpos seems to be 72.07715pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 11.
+Package marginnote Info: Margin note 73.1 is on absolute page 73
+(marginnote)              on input line 10.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 10.
+Package marginnote Info: Margin note 73.2 is on absolute page 73
+(marginnote)              on input line 14.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 14.
+Package marginnote Info: Margin note 73.3 is on absolute page 73
+(marginnote)              on input line 18.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 18.
+Package marginnote Info: Margin note 73.4 is on absolute page 73
+(marginnote)              on input line 22.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 22.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...rs-3052} & \papertableentry{papers-2759} &
-                                                   \papertableentry{papers-7...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...ers-979} & \papertableentry{papers-2954} &
-                                                   \papertableentry{papers-703}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 73.2 is on absolute page 74
-(marginnote)              on input line 15.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 15.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...rs-2024} & \papertableentry{papers-3133} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...rs-2039} & \papertableentry{papers-1437} &
-                                                   \papertableentry{papers-908}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 73.3 is on absolute page 74
-(marginnote)              on input line 19.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 19.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...rs-3049} & \papertableentry{papers-4256} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...rs-2991} & \papertableentry{papers-2014} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 73.4 is on absolute page 74
-(marginnote)              on input line 23.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 23.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...rs-4412} & \papertableentry{papers-4329} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...rs-3019} & \papertableentry{papers-2734} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (9.79233pt too wide) in paragraph at lines 23--23
+\T1/ptm/m/n/8 Contextualization 
+ []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
+ [] 
+ []
 
- [67
-
-
-]
-Overfull \vbox (96.18236pt too high) has occurred while \output is active []
+[67
 
 
-[68] (./auto/abstracts/papers-116.tex) (./auto/abstracts/papers-126.tex)
+] (./auto/abstracts/papers-116.tex) (./auto/abstracts/papers-126.tex)
 (./auto/abstracts/papers-2887.tex) (./auto/abstracts/papers-3389.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
-[70] (./auto/abstracts/papers-3052.tex) (./auto/abstracts/papers-2024.tex)
+ [68]
+[69] (./auto/abstracts/papers-3052.tex) (./auto/abstracts/papers-2024.tex)
 (./auto/abstracts/papers-3049.tex) (./auto/abstracts/papers-4412.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [71
+ [70
 
 ]
 (./auto/abstracts/papers-1501.tex) (./auto/abstracts/papers-2305.tex)
-(./auto/abstracts/papers-2831.tex) [72] (./auto/abstracts/papers-2759.tex)
+(./auto/abstracts/papers-2831.tex) [71] (./auto/abstracts/papers-2759.tex)
 (./auto/abstracts/papers-3133.tex) (./auto/abstracts/papers-4256.tex)
 (./auto/abstracts/papers-4329.tex
 ! Undefined control sequence.
@@ -2946,14 +2769,14 @@ and I'll forget about whatever was undefined.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [73
+ [72
 
 ]
-[74] (./auto/abstracts/papers-752.tex) (./auto/abstracts/papers-3384.tex)
+[73] (./auto/abstracts/papers-752.tex) (./auto/abstracts/papers-3384.tex)
 (./auto/abstracts/papers-3648.tex) (./auto/abstracts/papers-3661.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [75
+ [74
 
 ]
 (./auto/abstracts/papers-3917.tex
@@ -2966,7 +2789,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) (./auto/abstracts/papers-4443.tex) [76] (./auto/abstracts/papers-979.tex)
+) (./auto/abstracts/papers-4443.tex) [75] (./auto/abstracts/papers-979.tex)
 (./auto/abstracts/papers-2039.tex) (./auto/abstracts/papers-2991.tex)
 (./auto/abstracts/papers-3019.tex) (./auto/abstracts/papers-3316.tex
 ! Missing $ inserted.
@@ -2983,7 +2806,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ! Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.69 ...tract{\day}{15:45--16:00}{}{}{papers-3316}
+l.68 ...tract{\day}{15:45--16:00}{}{}{papers-3316}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2994,13 +2817,13 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.69 ...tract{\day}{15:45--16:00}{}{}{papers-3316}
+l.68 ...tract{\day}{15:45--16:00}{}{}{papers-3316}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (319.11441pt too wide) in paragraph at lines 69--69
+Overfull \hbox (319.11441pt too wide) in paragraph at lines 68--68
 \T1/ptm/m/n/7 men-tions, mak-ing it in-tractable to do the full $n$[]\OT1/cmr/m
 /n/7 $\OML/cmm/m/it/7 pairwisecomparisons:Existingapproachessimplifybyconsideri
 ngcoreferenceonlywithindocumentclusters; butthisfailstohandleinter \OMS/cmsy/m/
@@ -3008,7 +2831,7 @@ n/7 ^^@
  []
 
 
-Overfull \hbox (380.25197pt too wide) in paragraph at lines 69--69
+Overfull \hbox (380.25197pt too wide) in paragraph at lines 68--68
 \OML/cmm/m/it/7 clustercoreference; commoninmanyapplications:Asaresultcross \OM
 S/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 documentcoreferencealgorithmsarerarelyappliedt
 odownstreamtasks:Wedrawonaninsightfromdiscoursecoherencetheory \OT1/cmr/m/n/7 :
@@ -3016,7 +2839,7 @@ odownstreamtasks:Wedrawonaninsightfromdiscoursecoherencetheory \OT1/cmr/m/n/7 :
  []
 
 
-Overfull \hbox (904.75441pt too wide) in paragraph at lines 69--69
+Overfull \hbox (904.75441pt too wide) in paragraph at lines 68--68
 \OML/cmm/m/it/7 potentialcoreferencesareconstrainedbythereader[]sdiscoursefocus
 :Wemodeltheentities=eventsinareader[]sfocusasaneighborhoodwithinalearnedlatente
 mbeddingspacewhichminimizesthedistancebetweenmentionsandthecentroidsoftheirgold
@@ -3025,20 +2848,20 @@ afine \OMS/cmsy/m/n/7 ^^@
  []
 
 
-Overfull \hbox (36.43481pt too wide) in paragraph at lines 69--69
+Overfull \hbox (36.43481pt too wide) in paragraph at lines 68--68
 \OML/cmm/m/it/7 grainedclassifieronmentionpairsandtheirlocaldiscoursefeatures:O
 urapproachachievesstate \OMS/cmsy/m/n/7 ^^@
  []
 
 
-Overfull \hbox (77.32436pt too wide) in paragraph at lines 69--69
+Overfull \hbox (77.32436pt too wide) in paragraph at lines 68--68
 \OML/cmm/m/it/7 of \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 the \OMS/cmsy/m/n/7 ^^@ 
 \OML/cmm/m/it/7 artresultsforbotheventsandentitiesontheECB\OT1/cmr/m/n/7 +\OML/
 cmm/m/it/7 ; GunViolence; FootballCoreference; andCross \OMS/cmsy/m/n/7 ^^@
  []
 
 
-Overfull \hbox (578.12088pt too wide) in paragraph at lines 69--69
+Overfull \hbox (578.12088pt too wide) in paragraph at lines 68--68
 \OML/cmm/m/it/7 DomainCross \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 DocumentCorefer
 encecorpora:Furthermore; trainingonmultiplecorporaimprovesaverageperformanceacr
 ossalldatasetsby\OT1/cmr/m/n/7 17\OML/cmm/m/it/7 :\OT1/cmr/m/n/7 2\OML/cmm/m/it
@@ -3049,23 +2872,23 @@ onmodelthatisnowfeasibletoapplytodownstreamtasks:$
 (./auto/abstracts/papers-3857.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77
+ [76
 
 ]
-[78] (./auto/abstracts/papers-2954.tex) (./auto/abstracts/papers-1437.tex)
+[77] (./auto/abstracts/papers-2954.tex) (./auto/abstracts/papers-1437.tex)
 (./auto/abstracts/papers-2014.tex) (./auto/abstracts/papers-2734.tex)
 (./auto/abstracts/papers-3013.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79
+ [78
 
 ]
-(./auto/abstracts/papers-2835.tex) [80] (./auto/abstracts/papers-703.tex)
+(./auto/abstracts/papers-2835.tex) [79] (./auto/abstracts/papers-703.tex)
 (./auto/abstracts/papers-908.tex) (./auto/abstracts/papers-1402.tex)
 (./auto/abstracts/papers-2109.tex) (./auto/abstracts/papers-2440.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81
+ [80
 
 ]
 (./auto/abstracts/papers-2936.tex) (./auto/abstracts/papers-3276.tex)
@@ -3073,7 +2896,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-096.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82]
+ [81]
 (./auto/abstracts/papers-485.tex) (./auto/abstracts/papers-1067.tex)
 (./auto/abstracts/papers-1496.tex) (./auto/abstracts/papers-2119.tex
 
@@ -3112,97 +2935,56 @@ or  <return>  to continue without it.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
+ [82]
 (./auto/abstracts/papers-2381.tex) (./auto/abstracts/papers-3016.tex)
 (./auto/abstracts/papers-3643.tex) (./auto/abstracts/papers-3741.tex)
 (./auto/abstracts/papers-3803.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [84]
-[85]) (./auto/papers/Sunday-parallel-session-4.tex
-Package marginnote Info: Margin note 92.1 is on absolute page 92
+ [83]
+[84]) (./auto/papers/Sunday-parallel-session-4.tex
+Package marginnote Info: Margin note 91.1 is on absolute page 91
 (marginnote)              on input line 10.
-Package marginnote Info: xpos seems to be 104.54993pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 10.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.11 ...rs-2951} & \papertableentry{papers-2665} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 92.2 is on absolute page 92
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 10.
+Package marginnote Info: Margin note 91.2 is on absolute page 91
 (marginnote)              on input line 14.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 14.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.15 ...rs-3373} & \papertableentry{papers-3127} &
-                                                   \papertableentry{papers-7...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 92.3 is on absolute page 92
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 14.
+Package marginnote Info: Margin note 91.3 is on absolute page 91
 (marginnote)              on input line 18.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 18.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.19 ...rs-3692} & \papertableentry{papers-3319} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 92.4 is on absolute page 92
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 18.
+Package marginnote Info: Margin note 91.4 is on absolute page 91
 (marginnote)              on input line 22.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 22.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.23 ...rs-3788} & \papertableentry{papers-3489} &
-                                                   \papertableentry{papers-4...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 22.
 
-Package marginnote Info: Margin note 92.5 is on absolute page 92
-(marginnote)              on input line 26.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 26.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.27 ...rs-3788} & \papertableentry{papers-3489} &
-                                                   \papertableentry{papers-4...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
+ [] 
+ []
 
-Package marginnote Info: Margin note 92.6 is on absolute page 92
-(marginnote)              on input line 30.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 30.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.31 ...rs-3788} & \papertableentry{papers-3489} &
-                                                   \papertableentry{papers-4...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Package marginnote Info: Margin note 91.5 is on absolute page 92
+(marginnote)              on input line 35.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 35.
+Package marginnote Info: Margin note 91.6 is on absolute page 92
+(marginnote)              on input line 39.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 39.
 
-[86
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 34--42
+ [] 
+ []
 
 
-] (./auto/abstracts/papers-1456.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85
+
+
+]
+[86] (./auto/abstracts/papers-1456.tex
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -3215,7 +2997,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.39 ...tract{\day}{16:45--17:00}{}{}{papers-1456}
+l.48 ...tract{\day}{16:45--17:00}{}{}{papers-1456}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3226,13 +3008,13 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.39 ...tract{\day}{16:45--17:00}{}{}{papers-1456}
+l.48 ...tract{\day}{16:45--17:00}{}{}{papers-1456}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (3340.11806pt too wide) in paragraph at lines 39--39
+Overfull \hbox (3340.11806pt too wide) in paragraph at lines 48--48
 \T1/ptm/m/n/7 ni-tude ($$\OML/cmm/m/it/7 `[]\OT1/cmr/m/n/7 2$\OML/cmm/m/it/7 no
 rm\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 duringtraining; anditsimplicationsfortheemerg
 entrepresentationswithinselfattentionlayers:Empirically; wedocumentnormgrowthin
@@ -3255,7 +3037,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [87]
 (./auto/abstracts/papers-1967.tex) [88] (./auto/abstracts/papers-2951.tex)
-Underfull \hbox (badness 5064) in paragraph at lines 49--49
+Underfull \hbox (badness 5064) in paragraph at lines 58--58
 []\T1/ptm/b/n/8 DIALKI: Knowl-edge Iden-ti-fi-ca-tion in Con-ver-sa-tional Sys-
 tems through Dialogue-
  []
@@ -3330,7 +3112,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.71 ...tract{\day}{18:05--18:15}{}{}{papers-4018}
+l.80 ...tract{\day}{18:05--18:15}{}{}{papers-4018}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3341,13 +3123,13 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.71 ...tract{\day}{18:05--18:15}{}{}{papers-4018}
+l.80 ...tract{\day}{18:05--18:15}{}{}{papers-4018}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 [93] (./auto/abstracts/papers-577.tex)
-Underfull \hbox (badness 1383) in paragraph at lines 76--76
+Underfull \hbox (badness 1383) in paragraph at lines 85--85
 []\T1/ptm/b/n/8 Segment, Mask, and Pre-dict: Aug-ment-ing Chi-nese Word Seg-men
 -ta-tion with Self-
  []
@@ -3366,7 +3148,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.78 ...tract{\day}{17:30--17:45}{}{}{papers-3029}
+l.87 ...tract{\day}{17:30--17:45}{}{}{papers-3029}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3377,13 +3159,13 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.78 ...tract{\day}{17:30--17:45}{}{}{papers-3029}
+l.87 ...tract{\day}{17:30--17:45}{}{}{papers-3029}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (564.36697pt too wide) in paragraph at lines 78--78
+Overfull \hbox (564.36697pt too wide) in paragraph at lines 87--87
 \T1/ptm/m/n/7 as max-i-mum match-ing. The best known al-go-rithms so far are O(
 n$[]\OT1/cmr/m/n/7 )(\OML/cmm/m/it/7 wherenistheinputlength\OT1/cmr/m/n/7 )\OML
 /cmm/m/it/7 orO\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 nm\OT1/cmr/m/n/7 )(\OML/cmm/m/it
@@ -3394,7 +3176,7 @@ msy/m/n/7 ^^@
  []
 
 
-Overfull \hbox (495.98639pt too wide) in paragraph at lines 78--78
+Overfull \hbox (495.98639pt too wide) in paragraph at lines 87--87
 \OML/cmm/m/it/7 Corasickalgorithm:Weintroduceadditionallinkagesontopofthetriebu
 iltfromthevocabulary; allowingsmarttransitionswhenthetriematchingcannotcontinue
 :Forgeneraltext; wefurtherproposeanalgorithmthatcombinespre \OMS/cmsy/m/n/7 ^^@
@@ -3402,7 +3184,7 @@ iltfromthevocabulary; allowingsmarttransitionswhenthetriematchingcannotcontinue
  []
 
 
-Overfull \hbox (611.43831pt too wide) in paragraph at lines 78--78
+Overfull \hbox (611.43831pt too wide) in paragraph at lines 87--87
 \OML/cmm/m/it/7 tokenization\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 splittingthetextint
 owords\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 andourlinear \OMS/cmsy/m/n/7 ^^@ \OML/cmm
 /m/it/7 timeWordPiecemethodintoasinglepass:Experimentalresultsshowthatourmethod
@@ -3418,7 +3200,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [95] (./auto/abstracts/papers-1356.tex) (./auto/abstracts/papers-1600.tex)
-Overfull \hbox (3.50215pt too wide) in paragraph at lines 84--84
+Overfull \hbox (3.50215pt too wide) in paragraph at lines 93--93
 \T1/ptm/m/n/7 We present a grounded neu-ral di-a-logue model that suc-cess-full
 y col-lab-o-rates with peo-ple in a partially-observable
  []
@@ -4279,9 +4061,9 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-<recently read> \TODO 
-                      
-l.18 ...on 2 None} \hfill \emph{\TODO LocationLoc}
+<recently read> \VirtualLoc 
+                            
+l.18 ...oster Session 2} \hfill \emph{\VirtualLoc}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4482,160 +4264,43 @@ might try typing `S' now just to see what is salvageable.
 [134
 
 ]) (./auto/papers/Monday-parallel-session-5.tex
-Package marginnote Info: Margin note 141.1 is on absolute page 142
-(marginnote)              on input line 11.
-Package marginnote Info: xpos seems to be 68.57715pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 11.
+Package marginnote Info: Margin note 141.1 is on absolute page 141
+(marginnote)              on input line 10.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 10.
+Package marginnote Info: Margin note 141.2 is on absolute page 141
+(marginnote)              on input line 14.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 14.
+Package marginnote Info: Margin note 141.3 is on absolute page 141
+(marginnote)              on input line 18.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 18.
+Package marginnote Info: Margin note 141.4 is on absolute page 141
+(marginnote)              on input line 22.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 22.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...ers-1201} & \papertableentry{papers-029} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...rs-2021} & \papertableentry{papers-1147} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 141.2 is on absolute page 142
-(marginnote)              on input line 15.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 15.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...pers-398} & \papertableentry{papers-079} &
-                                                   \papertableentry{papers-4...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...rs-2350} & \papertableentry{papers-3168} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 141.3 is on absolute page 142
-(marginnote)              on input line 19.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 19.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...ers-2847} & \papertableentry{papers-468} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...rs-2779} & \papertableentry{papers-4156} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 141.4 is on absolute page 142
-(marginnote)              on input line 23.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 23.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...rs-1115} & \papertableentry{papers-2150} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...ers-652} & \papertableentry{papers-4507} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
+ [] 
+ []
 
 Package marginnote Info: Margin note 141.5 is on absolute page 142
-(marginnote)              on input line 27.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 27.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.28 ...ers-394} & \papertableentry{papers-2785} &
-                                                   \papertableentry{papers-7...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.28 ...ers-3098} & \papertableentry{papers-294} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
+(marginnote)              on input line 33.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 33.
 Package marginnote Info: Margin note 141.6 is on absolute page 142
-(marginnote)              on input line 31.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 31.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.32 ...ers-394} & \papertableentry{papers-2785} &
-                                                   \papertableentry{papers-7...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.32 ...ers-3098} & \papertableentry{papers-294} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
+(marginnote)              on input line 37.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 37.
 Package marginnote Info: Margin note 141.7 is on absolute page 142
-(marginnote)              on input line 35.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 35.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.36 ...ers-394} & \papertableentry{papers-2785} &
-                                                   \papertableentry{papers-7...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+(marginnote)              on input line 41.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 41.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.36 ...ers-3098} & \papertableentry{papers-294} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 32--44
+ [] 
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -4643,9 +4308,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [135
 
 ]
-Overfull \vbox (219.45238pt too high) has occurred while \output is active []
-
-
 [136] (./auto/abstracts/papers-808.tex) (./auto/abstracts/papers-810.tex)
 (./auto/abstracts/papers-1940.tex) (./auto/abstracts/papers-4164.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -4661,7 +4323,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 (./auto/abstracts/papers-3083.tex) [140] (./auto/abstracts/papers-029.tex)
-Underfull \hbox (badness 1082) in paragraph at lines 64--64
+Underfull \hbox (badness 1082) in paragraph at lines 71--71
 []\T1/ptm/b/n/8 Efficient Di-a-logue Com-ple-men-tary Pol-icy Learn-ing via Dee
 p Q-network Pol-icy and
  []
@@ -4701,7 +4363,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-2703.tex) (./auto/abstracts/papers-3252.tex) [148]
 (./auto/abstracts/papers-1181.tex) (./auto/abstracts/papers-2603.tex)
 (./auto/abstracts/papers-3311.tex)
-Underfull \hbox (badness 5446) in paragraph at lines 103--103
+Underfull \hbox (badness 5446) in paragraph at lines 110--110
 []\T1/ptm/b/n/8 Extracting Fine-Grained Knowl-edge Graphs of Sci-en-tific Claim
 s: Dataset and
  []
@@ -4728,138 +4390,39 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-760.tex) (./auto/abstracts/papers-1421.tex)
 (./auto/abstracts/papers-3283.tex) [152])
 (./auto/papers/Monday-parallel-session-6.tex
-Package marginnote Info: Margin note 159.1 is on absolute page 160
-(marginnote)              on input line 11.
-Package marginnote Info: xpos seems to be 102.40092pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 11.
+Package marginnote Info: Margin note 159.1 is on absolute page 159
+(marginnote)              on input line 10.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 10.
+Package marginnote Info: Margin note 159.2 is on absolute page 159
+(marginnote)              on input line 14.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 14.
+Package marginnote Info: Margin note 159.3 is on absolute page 159
+(marginnote)              on input line 18.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 18.
+Package marginnote Info: Margin note 159.4 is on absolute page 159
+(marginnote)              on input line 22.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 22.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...rs-1076} & \papertableentry{papers-2648} &
-                                                   \papertableentry{papers-4...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...ers-1731} & \papertableentry{papers-331} &
-                                                   \papertableentry{papers-789}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 159.2 is on absolute page 160
-(marginnote)              on input line 15.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 15.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...rs-2062} & \papertableentry{papers-2990} &
-                                                   \papertableentry{papers-7...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...rs-3027} & \papertableentry{papers-2756} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 159.3 is on absolute page 160
-(marginnote)              on input line 19.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 19.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...rs-3142} & \papertableentry{papers-3519} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...rs-3095} & \papertableentry{papers-2157} &
-                                                   \papertableentry{papers-071}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 159.4 is on absolute page 160
-(marginnote)              on input line 23.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 23.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...rs-3660} & \papertableentry{papers-3588} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...ers-3394} & \papertableentry{papers-254} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
+ [] 
+ []
 
 Package marginnote Info: Margin note 159.5 is on absolute page 160
-(marginnote)              on input line 27.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 27.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.28 ...rs-3990} & \papertableentry{papers-1866} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.28 ...rs-3764} & \papertableentry{papers-1262} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
+(marginnote)              on input line 33.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 33.
 Package marginnote Info: Margin note 159.6 is on absolute page 160
-(marginnote)              on input line 31.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 31.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.32 ...rs-3990} & \papertableentry{papers-1866} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+(marginnote)              on input line 37.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 37.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.32 ...rs-3764} & \papertableentry{papers-1262} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 32--40
+ [] 
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -4868,9 +4431,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \vbox (163.35326pt too high) has occurred while \output is active []
-
-
 [154] (./auto/abstracts/papers-077.tex) (./auto/abstracts/papers-302.tex
 ! Undefined control sequence.
 l.1 ...replace the softmax activation with a \relu
@@ -4967,7 +4527,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 (./auto/abstracts/papers-3978.tex) [160] (./auto/abstracts/papers-458.tex)
-Overfull \hbox (0.56895pt too wide) in paragraph at lines 67--67
+Overfull \hbox (0.56895pt too wide) in paragraph at lines 73--73
 \T1/ptm/m/n/7 Interactive ma-chine read-ing com-pre-hen-sion (iMRC) is ma-chine
  com-pre-hen-sion tasks where knowl-edge sources
  []
@@ -4981,7 +4541,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [162]
-Underfull \hbox (badness 1117) in paragraph at lines 76--76
+Underfull \hbox (badness 1117) in paragraph at lines 82--82
 []\T1/ptm/b/n/8 Powering Com-par-a-tive Clas-si-fi-ca-tion with Sen-ti-ment Ana
 l-y-sis via Do-main Adap-tive
  []
@@ -5027,123 +4587,82 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/papers/Monday-parallel-session-7.tex
 Package marginnote Info: Margin note 177.1 is on absolute page 177
 (marginnote)              on input line 10.
-Package marginnote Info: xpos seems to be 103.17145pt,
+Package marginnote Info: xpos seems to be 56.75475pt,
 (marginnote)             \marginnoterightadjust ignored on input line 10.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.11 ...rs-1054} & \papertableentry{papers-3248} &
-                                                   \papertableentry{papers-0...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Package marginnote Info: Margin note 177.2 is on absolute page 177
 (marginnote)              on input line 14.
-Package marginnote Info: xpos seems to be 62.14493pt,
+Package marginnote Info: xpos seems to be 56.75475pt,
 (marginnote)             \marginnoterightadjust ignored on input line 14.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.15 ...ers-1448} & \papertableentry{papers-702} &
-                                                   \papertableentry{papers-5...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Package marginnote Info: Margin note 177.3 is on absolute page 177
 (marginnote)              on input line 18.
-Package marginnote Info: xpos seems to be 62.14493pt,
+Package marginnote Info: xpos seems to be 56.75475pt,
 (marginnote)             \marginnoterightadjust ignored on input line 18.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.19 ...ers-1696} & \papertableentry{papers-802} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 Package marginnote Info: Margin note 177.4 is on absolute page 177
 (marginnote)              on input line 22.
-Package marginnote Info: xpos seems to be 62.14493pt,
+Package marginnote Info: xpos seems to be 56.75475pt,
 (marginnote)             \marginnoterightadjust ignored on input line 22.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.23 ...rs-3542} & \papertableentry{papers-3811} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
 
-Package marginnote Info: Margin note 177.5 is on absolute page 177
-(marginnote)              on input line 26.
-Package marginnote Info: xpos seems to be 62.14493pt,
-(marginnote)             \marginnoterightadjust ignored on input line 26.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.27 ...rs-3574} & \papertableentry{papers-3182} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--25
+ [] 
+ []
 
-Package marginnote Info: Margin note 177.6 is on absolute page 177
-(marginnote)              on input line 30.
-Package marginnote Info: xpos seems to be 62.14493pt,
-(marginnote)             \marginnoterightadjust ignored on input line 30.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.31 ...rs-3574} & \papertableentry{papers-3182} &
-                                                   \papertableentry{papers-3...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Package marginnote Info: Margin note 177.5 is on absolute page 178
+(marginnote)              on input line 34.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 34.
+Package marginnote Info: Margin note 177.6 is on absolute page 178
+(marginnote)              on input line 38.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 38.
 
-[171
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 33--41
+ [] 
+ []
 
 
-] (./auto/abstracts/papers-257.tex) (./auto/abstracts/papers-1027.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [171
+
+
+]
+[172] (./auto/abstracts/papers-257.tex) (./auto/abstracts/papers-1027.tex)
 (./auto/abstracts/papers-4337.tex) (./auto/abstracts/papers-4055.tex)
 (./auto/abstracts/papers-860.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [172]
-(./auto/abstracts/papers-948.tex) [173] (./auto/abstracts/papers-1054.tex)
+ [173]
+(./auto/abstracts/papers-948.tex) [174] (./auto/abstracts/papers-1054.tex)
 (./auto/abstracts/papers-1448.tex) (./auto/abstracts/papers-1696.tex)
 (./auto/abstracts/papers-3542.tex) (./auto/abstracts/papers-3574.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [174
+ [175
 
 ]
-[175] (./auto/abstracts/papers-3248.tex) (./auto/abstracts/papers-702.tex)
+[176] (./auto/abstracts/papers-3248.tex) (./auto/abstracts/papers-702.tex)
 (./auto/abstracts/papers-802.tex) (./auto/abstracts/papers-3811.tex)
 (./auto/abstracts/papers-3182.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [176
+ [177
 
 ]
-(./auto/abstracts/papers-3465.tex) (./auto/abstracts/papers-4151.tex) [177]
+(./auto/abstracts/papers-3465.tex) (./auto/abstracts/papers-4151.tex) [178]
 (./auto/abstracts/papers-043.tex) (./auto/abstracts/papers-517.tex)
 (./auto/abstracts/papers-1907.tex) (./auto/abstracts/papers-3314.tex)
 (./auto/abstracts/papers-3565.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [178
+ [179
 
 ]
-(./auto/abstracts/papers-4083.tex) [179] (./auto/abstracts/papers-377.tex)
+(./auto/abstracts/papers-4083.tex) [180] (./auto/abstracts/papers-377.tex)
 (./auto/abstracts/papers-1717.tex) (./auto/abstracts/papers-3594.tex)
 (./auto/abstracts/papers-4045.tex) (./auto/abstracts/papers-674.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [180
+ [181
 
 ]
 (./auto/abstracts/papers-724.tex
@@ -5159,7 +4678,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 \paperabstract ...mall \input {auto/abstracts/#5}}
                                                   \par 
-l.80 ...stract{\day}{17:55--18:05}{}{}{papers-724}
+l.88 ...stract{\day}{17:55--18:05}{}{}{papers-724}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5170,13 +4689,13 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.80 ...stract{\day}{17:55--18:05}{}{}{papers-724}
+l.88 ...stract{\day}{17:55--18:05}{}{}{papers-724}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (2242.10332pt too wide) in paragraph at lines 80--80
+Overfull \hbox (2242.10332pt too wide) in paragraph at lines 88--88
 \T1/ptm/m/n/7 word spans. As the num-ber of spans is $O(n$[]\OT1/cmr/m/n/7 )$\O
 ML/cmm/m/it/7 inthelengthoftextandthenumberofpotentiallinksis\OT1/cmr/m/n/7 $\O
 ML/cmm/m/it/7 O\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 n[]\OT1/cmr/m/n/7 )$\OML/cmm/m/i
@@ -5191,15 +4710,15 @@ nceresolutionwillbesignificantlyoutperformedbyRoBERTa:Whilebeinghighlyefficient
 otesbenchmark:$ 
  []
 
-(./auto/abstracts/papers-3296.tex) [181] (./auto/abstracts/papers-3246.tex)
+(./auto/abstracts/papers-3296.tex) [182] (./auto/abstracts/papers-3246.tex)
 (./auto/abstracts/papers-3398.tex) (./auto/abstracts/papers-3499.tex)
 (./auto/abstracts/papers-3689.tex) (./auto/abstracts/papers-1025.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [182
+ [183
 
 ]
-(./auto/abstracts/papers-1317.tex) [183])
+(./auto/abstracts/papers-1317.tex) [184])
 (./auto/papers/Monday-Virtual-Poster-Session-2.tex
 (./auto/abstracts/papers-3132.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
@@ -5210,7 +4729,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 (./auto/abstracts/papers-474.tex) (./auto/abstracts/papers-1848.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [184
+ [185
 
 ]
 (./auto/abstracts/papers-2996.tex) (./auto/abstracts/papers-3477.tex)
@@ -5218,65 +4737,65 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-2881.tex)
 Underfull \vbox (badness 4060) has occurred while \output is active []
 
- [185]
+ [186]
 (./auto/abstracts/papers-138.tex) (./auto/abstracts/papers-266.tex)
 (./auto/abstracts/papers-1140.tex) (./auto/abstracts/papers-3772.tex)
 (./auto/abstracts/papers-1484.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [186]
+ [187]
 (./auto/abstracts/papers-130.tex) (./auto/abstracts/papers-487.tex)
 (./auto/abstracts/papers-1003.tex) (./auto/abstracts/papers-1614.tex)
 (./auto/abstracts/papers-1830.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [187]
+ [188]
 (./auto/abstracts/papers-1885.tex) (./auto/abstracts/papers-2389.tex)
 (./auto/abstracts/papers-2862.tex) (./auto/abstracts/papers-3487.tex)
 (./auto/abstracts/papers-3559.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [188]
+ [189]
 (./auto/abstracts/papers-176.tex) (./auto/abstracts/papers-264.tex)
 (./auto/abstracts/papers-506.tex) (./auto/abstracts/papers-767.tex)
 (./auto/abstracts/papers-1040.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [189]
+ [190]
 (./auto/abstracts/papers-1226.tex) (./auto/abstracts/papers-1538.tex)
 (./auto/abstracts/papers-1777.tex) (./auto/abstracts/papers-1878.tex)
 (./auto/abstracts/papers-2230.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [190]
+ [191]
 (./auto/abstracts/papers-2551.tex) (./auto/abstracts/papers-3230.tex)
 (./auto/abstracts/papers-3282.tex) (./auto/abstracts/papers-3288.tex)
 (./auto/abstracts/papers-3339.tex) (./auto/abstracts/papers-3392.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [191]
+ [192]
 (./auto/abstracts/papers-3480.tex) (./auto/abstracts/papers-3543.tex)
 (./auto/abstracts/papers-3694.tex) (./auto/abstracts/papers-4050.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [192]
+ [193]
 (./auto/abstracts/papers-4187.tex) (./auto/abstracts/papers-3703.tex)
 (./auto/abstracts/papers-211.tex) (./auto/abstracts/papers-256.tex)
 (./auto/abstracts/papers-1232.tex) (./auto/abstracts/papers-1541.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [193]
+ [194]
 (./auto/abstracts/papers-3306.tex) (./auto/abstracts/papers-3431.tex)
 (./auto/abstracts/papers-3796.tex) (./auto/abstracts/papers-3808.tex)
 (./auto/abstracts/papers-4223.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [194]
+ [195]
 (./auto/abstracts/papers-4264.tex) (./auto/abstracts/papers-3858.tex)
 (./auto/abstracts/papers-489.tex) (./auto/abstracts/papers-757.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [195]
+ [196]
 (./auto/abstracts/papers-1106.tex) (./auto/abstracts/papers-1833.tex)
 (./auto/abstracts/papers-2587.tex)
 Overfull \hbox (0.80042pt too wide) in paragraph at lines 67--67
@@ -5287,19 +4806,19 @@ ch as, mBERT and XLM-RoBERTa, have achieved
 (./auto/abstracts/papers-2826.tex) (./auto/abstracts/papers-2963.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [196]
+ [197]
 (./auto/abstracts/papers-3254.tex) (./auto/abstracts/papers-3295.tex)
 (./auto/abstracts/papers-3325.tex) (./auto/abstracts/papers-3470.tex)
 (./auto/abstracts/papers-3544.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [197]
+ [198]
 (./auto/abstracts/papers-3550.tex) (./auto/abstracts/papers-3563.tex)
 (./auto/abstracts/papers-3745.tex) (./auto/abstracts/papers-1015.tex)
 (./auto/abstracts/papers-2761.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [198]
+ [199]
 (./auto/abstracts/papers-2894.tex) (./auto/abstracts/papers-3104.tex
 ! Missing $ inserted.
 <inserted text> 
@@ -5341,37 +4860,37 @@ onofthesegeneratedpseudo \OMS/cmsy/m/n/7 ^^@
 (./auto/abstracts/papers-3902.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [199]
+ [200]
 (./auto/abstracts/papers-3933.tex) (./auto/abstracts/papers-463.tex)
 (./auto/abstracts/papers-527.tex) (./auto/abstracts/papers-1440.tex)
 (./auto/abstracts/papers-2765.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [200]
+ [201]
 (./auto/abstracts/papers-3321.tex) (./auto/abstracts/papers-3504.tex)
 (./auto/abstracts/papers-3761.tex) (./auto/abstracts/papers-3954.tex)
 (./auto/abstracts/papers-3980.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [201]
+ [202]
 (./auto/abstracts/papers-4128.tex) (./auto/abstracts/papers-4309.tex)
 (./auto/abstracts/papers-1022.tex) (./auto/abstracts/papers-1968.tex)
 (./auto/abstracts/papers-2034.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [202]
+ [203]
 (./auto/abstracts/papers-3473.tex) (./auto/abstracts/papers-3802.tex)
 (./auto/abstracts/papers-3814.tex) (./auto/abstracts/papers-3870.tex)
 (./auto/abstracts/papers-4200.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [203]
+ [204]
 (./auto/abstracts/papers-700.tex) (./auto/abstracts/papers-3292.tex)
 (./auto/abstracts/papers-3592.tex) (./auto/abstracts/papers-4827.tex)
 (./auto/abstracts/papers-1017.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [204]
+ [205]
 (./auto/abstracts/papers-1678.tex) (./auto/abstracts/papers-1784.tex)
 (./auto/abstracts/papers-3234.tex
 
@@ -5391,19 +4910,19 @@ or  <return>  to continue without it.
 ) (./auto/abstracts/papers-3474.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [205]
+ [206]
 (./auto/abstracts/papers-3987.tex) (./auto/abstracts/papers-4085.tex)
 (./auto/abstracts/papers-3053.tex) (./auto/abstracts/papers-3378.tex)
 (./auto/abstracts/papers-3393.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [206]
+ [207]
 (./auto/abstracts/papers-1062.tex) (./auto/abstracts/papers-1813.tex)
 (./auto/abstracts/papers-3059.tex) (./auto/abstracts/papers-3452.tex)
 (./auto/abstracts/papers-3625.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [207]
+ [208]
 (./auto/abstracts/papers-3682.tex
 ! Missing $ inserted.
 <inserted text> 
@@ -5437,9 +4956,11 @@ you left one out. Proceed, with fingers crossed.
 (./auto/abstracts/papers-3859.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [208]
-(./auto/abstracts/papers-070.tex)) (./content/day2/banquet.tex [209]))
-(./content/day3/day3.tex [210
+ [209]
+(./auto/abstracts/papers-070.tex)) (./content/day2/banquet.tex [210]))
+(./content/day3/day3.tex [211
+
+] [212
 
 ]
 Chapter 6.
@@ -5450,9 +4971,9 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 
 (./auto/papers/Tuesday-overview.tex
 ! Undefined control sequence.
-<recently read> \TODO 
-                      
-l.5 ...ion 3 None} \hfill \emph{\TODO LocationLoc}
+<recently read> \VirtualLoc 
+                            
+l.5 ...Poster Session 3} \hfill \emph{\VirtualLoc}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5629,105 +5150,35 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[211
-
-]) (./content/day3/invited-talk.tex [212
+[213]) (./content/day3/invited-talk.tex [214
 
 ])
 (./auto/papers/Tuesday-parallel-session-8.tex
-Package marginnote Info: Margin note 219.1 is on absolute page 220
-(marginnote)              on input line 11.
-Package marginnote Info: xpos seems to be 88.989pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 11.
+Package marginnote Info: Margin note 221.1 is on absolute page 221
+(marginnote)              on input line 10.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 10.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...pers-710} & \papertableentry{papers-629} &
-                                                   \papertableentry{papers-4...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (1.24747pt too wide) in paragraph at lines 11--11
+\T1/ptm/m/n/7 Shrink:Enriching 
+ []
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...ers-081} & \papertableentry{papers-2970} &
-                                                   \papertableentry{papers-275}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 219.2 is on absolute page 220
-(marginnote)              on input line 15.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 15.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...rs-1000} & \papertableentry{papers-1093} &
-                                                   \papertableentry{papers-0...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...ers-605} & \papertableentry{papers-3475} &
-                                                   \papertableentry{papers-857}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 219.3 is on absolute page 220
-(marginnote)              on input line 19.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 19.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...rs-1532} & \papertableentry{papers-1927} &
-                                                   \papertableentry{papers-6...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...rs-1203} & \papertableentry{papers-3310} &
-                                                   \papertableentry{papers-870}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 219.4 is on absolute page 220
-(marginnote)              on input line 23.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 23.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...rs-1673} & \papertableentry{papers-2083} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...rs-2947} & \papertableentry{papers-2938} &
-                                                   \papertableentry{papers-926}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 219.5 is on absolute page 220
-(marginnote)              on input line 27.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 27.
+Package marginnote Info: Margin note 221.2 is on absolute page 221
+(marginnote)              on input line 14.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 14.
+Package marginnote Info: Margin note 221.3 is on absolute page 221
+(marginnote)              on input line 18.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 18.
+Package marginnote Info: Margin note 221.4 is on absolute page 221
+(marginnote)              on input line 22.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 22.
+Package marginnote Info: Margin note 221.5 is on absolute page 221
+(marginnote)              on input line 26.
+Package marginnote Info: xpos seems to be 56.75475pt,
+(marginnote)             \marginnoterightadjust ignored on input line 26.
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
@@ -5736,34 +5187,21 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 ...pers-3454} & \papertableentry{papers-2934}
+l.27 ...pers-3454} & \papertableentry{papers-2934}
                                                    & \papertableentry{papers...
 
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.28 ...rs-3454} & \papertableentry{papers-2934} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.28 ...rs-4629} & \papertableentry{papers-3800} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--29
+ [] 
+ []
 
-Package marginnote Info: Margin note 219.6 is on absolute page 220
-(marginnote)              on input line 31.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 31.
+Package marginnote Info: Margin note 221.6 is on absolute page 222
+(marginnote)              on input line 37.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 37.
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
@@ -5772,34 +5210,16 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 ...pers-3454} & \papertableentry{papers-2934}
+l.38 ...pers-3454} & \papertableentry{papers-2934}
                                                    & \papertableentry{papers...
 
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.32 ...rs-3454} & \papertableentry{papers-2934} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.32 ...rs-4629} & \papertableentry{papers-3800} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 219.7 is on absolute page 220
-(marginnote)              on input line 35.
-Package marginnote Info: xpos seems to be 44.07742pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 35.
+Package marginnote Info: Margin note 221.7 is on absolute page 222
+(marginnote)              on input line 41.
+Package marginnote Info: xpos seems to be 38.68724pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 41.
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
@@ -5808,55 +5228,39 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 ...pers-3454} & \papertableentry{papers-2934}
+l.42 ...pers-3454} & \papertableentry{papers-2934}
                                                    & \papertableentry{papers...
 
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.36 ...rs-3454} & \papertableentry{papers-2934} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.36 ...rs-4629} & \papertableentry{papers-3800} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 36--44
+ [] 
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [213
+ [215
 
 ]
-Overfull \vbox (215.296pt too high) has occurred while \output is active []
-
-
-[214] (./auto/abstracts/papers-2695.tex) (./auto/abstracts/papers-321.tex)
+[216] (./auto/abstracts/papers-2695.tex) (./auto/abstracts/papers-321.tex)
 (./auto/abstracts/papers-388.tex) (./auto/abstracts/papers-4641.tex)
 (./auto/abstracts/papers-2327.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [215]
-(./auto/abstracts/papers-2913.tex) (./auto/abstracts/papers-1026.tex) [216]
+ [217]
+(./auto/abstracts/papers-2913.tex) (./auto/abstracts/papers-1026.tex) [218]
 (./auto/abstracts/papers-710.tex) (./auto/abstracts/papers-1000.tex)
 (./auto/abstracts/papers-1532.tex) (./auto/abstracts/papers-1673.tex)
 (./auto/abstracts/papers-3454.tex) (./auto/abstracts/papers-4467.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [217
+ [219
 
 ]
-[218] (./auto/abstracts/papers-629.tex) (./auto/abstracts/papers-1093.tex)
+[220] (./auto/abstracts/papers-629.tex) (./auto/abstracts/papers-1093.tex)
 (./auto/abstracts/papers-1927.tex) (./auto/abstracts/papers-2083.tex)
 
 ! Package inputenc Error: Keyboard character used is undefined
@@ -5866,7 +5270,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67 ...tract{\day}{12:00--12:15}{}{}{papers-2934}
+l.72 ...tract{\day}{12:00--12:15}{}{}{papers-2934}
                                                   
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
@@ -5874,21 +5278,21 @@ or \DeclareInputMath before using this key.
 (./auto/abstracts/papers-2934.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [219
+ [221
 
 ]
-(./auto/abstracts/papers-4189.tex) [220] (./auto/abstracts/papers-4372.tex)
+(./auto/abstracts/papers-4189.tex) [222] (./auto/abstracts/papers-4372.tex)
 (./auto/abstracts/papers-089.tex) (./auto/abstracts/papers-611.tex)
 (./auto/abstracts/papers-1007.tex) (./auto/abstracts/papers-2634.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [221
+ [223
 
 ]
-(./auto/abstracts/papers-2852.tex) [222] (./auto/abstracts/papers-081.tex)
+(./auto/abstracts/papers-2852.tex) [224] (./auto/abstracts/papers-081.tex)
 (./auto/abstracts/papers-605.tex) (./auto/abstracts/papers-1203.tex)
 (./auto/abstracts/papers-2947.tex)
-Overfull \hbox (0.79314pt too wide) in paragraph at lines 84--84
+Overfull \hbox (0.79314pt too wide) in paragraph at lines 89--89
 \T1/ptm/m/n/7 Pretrained vision-and-language BERTs aim to learn rep-re-sen-ta-t
 ions that com-bine in-for-ma-tion from both modal-
  []
@@ -5896,11 +5300,11 @@ ions that com-bine in-for-ma-tion from both modal-
 (./auto/abstracts/papers-4629.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [223
+ [225
 
 ]
-[224] (./auto/abstracts/papers-2970.tex)
-Underfull \hbox (badness 1163) in paragraph at lines 90--90
+[226] (./auto/abstracts/papers-2970.tex)
+Underfull \hbox (badness 1163) in paragraph at lines 95--95
 []\T1/ptm/b/n/8 QA-Align: Rep-re-sent-ing Cross-Text Con-tent Over-lap by Align
 -ing Question-Answer
  []
@@ -5909,15 +5313,15 @@ Underfull \hbox (badness 1163) in paragraph at lines 90--90
 (./auto/abstracts/papers-2938.tex) (./auto/abstracts/papers-3800.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [225
+ [227
 
 ]
-[226] (./auto/abstracts/papers-275.tex) (./auto/abstracts/papers-857.tex)
+[228] (./auto/abstracts/papers-275.tex) (./auto/abstracts/papers-857.tex)
 (./auto/abstracts/papers-870.tex) (./auto/abstracts/papers-926.tex)
 (./auto/abstracts/papers-1195.tex) (./auto/abstracts/papers-1596.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [227
+ [229
 
 ]
 (./auto/abstracts/papers-2870.tex) (./auto/abstracts/papers-2952.tex)
@@ -5925,134 +5329,66 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-3175.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [228]
+ [230]
 (./auto/abstracts/papers-791.tex) (./auto/abstracts/papers-3241.tex)
 (./auto/abstracts/papers-662.tex) (./auto/abstracts/papers-3947.tex)
 (./auto/abstracts/papers-2438.tex) (./auto/abstracts/papers-4462.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [229]
-[230]) (./auto/papers/Tuesday-parallel-session-9.tex
-Package marginnote Info: Margin note 237.1 is on absolute page 237
+ [231]
+[232]) (./auto/papers/Tuesday-parallel-session-9.tex
+Package marginnote Info: Margin note 239.1 is on absolute page 239
 (marginnote)              on input line 11.
-Package marginnote Info: xpos seems to be 115.21843pt,
+Package marginnote Info: xpos seems to be 62.00475pt,
 (marginnote)             \marginnoterightadjust ignored on input line 11.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...rs-1021} & \papertableentry{papers-1061} &
-                                                   \papertableentry{papers-8...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.12 ...ers-1567} & \papertableentry{papers-195} &
-                                                   \papertableentry{papers-110}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 237.2 is on absolute page 237
+Package marginnote Info: Margin note 239.2 is on absolute page 239
 (marginnote)              on input line 15.
-Package marginnote Info: xpos seems to be 62.14493pt,
+Package marginnote Info: xpos seems to be 56.75475pt,
 (marginnote)             \marginnoterightadjust ignored on input line 15.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...rs-2691} & \papertableentry{papers-2789} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.16 ...ers-2229} & \papertableentry{papers-936} &
-                                                   \papertableentry{papers-509}
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 237.3 is on absolute page 237
+Package marginnote Info: Margin note 239.3 is on absolute page 239
 (marginnote)              on input line 19.
-Package marginnote Info: xpos seems to be 62.14493pt,
+Package marginnote Info: xpos seems to be 56.75475pt,
 (marginnote)             \marginnoterightadjust ignored on input line 19.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...rs-2836} & \papertableentry{papers-3562} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.20 ...ers-289} & \papertableentry{papers-3495} &
-                                                   \papertableentry{papers-1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-Package marginnote Info: Margin note 237.4 is on absolute page 237
+Package marginnote Info: Margin note 239.4 is on absolute page 239
 (marginnote)              on input line 23.
-Package marginnote Info: xpos seems to be 62.14493pt,
+Package marginnote Info: xpos seems to be 56.75475pt,
 (marginnote)             \marginnoterightadjust ignored on input line 23.
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...rs-3061} & \papertableentry{papers-3909} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
 
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.24 ...ers-1640} & \papertableentry{papers-316} &
-                                                   \papertableentry{papers-2...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+Overfull \hbox (3.3298pt too wide) in paragraph at lines 9--26
+ [] 
+ []
 
-[231
+[233
 
 
 ] (./auto/abstracts/papers-063.tex) (./auto/abstracts/papers-196.tex)
-(./auto/abstracts/papers-1489.tex) (./auto/abstracts/papers-2490.tex) [232]
+(./auto/abstracts/papers-1489.tex) (./auto/abstracts/papers-2490.tex) [234]
 (./auto/abstracts/papers-1021.tex) (./auto/abstracts/papers-2691.tex)
 (./auto/abstracts/papers-2836.tex) (./auto/abstracts/papers-3061.tex)
 (./auto/abstracts/papers-3348.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [233
+ [235
 
 ]
-(./auto/abstracts/papers-3486.tex) [234] (./auto/abstracts/papers-1061.tex)
+(./auto/abstracts/papers-3486.tex) [236] (./auto/abstracts/papers-1061.tex)
 (./auto/abstracts/papers-2789.tex) (./auto/abstracts/papers-3562.tex)
 (./auto/abstracts/papers-3909.tex) (./auto/abstracts/papers-3032.tex)
 (./auto/abstracts/papers-3957.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [235
+ [237
 
 ]
-(./auto/abstracts/papers-4470.tex) [236] (./auto/abstracts/papers-887.tex)
+(./auto/abstracts/papers-4470.tex) [238] (./auto/abstracts/papers-887.tex)
 (./auto/abstracts/papers-1401.tex) (./auto/abstracts/papers-2045.tex)
 (./auto/abstracts/papers-2168.tex) (./auto/abstracts/papers-2240.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [237
+ [239
 
 ]
-(./auto/abstracts/papers-2873.tex) [238] (./auto/abstracts/papers-1567.tex)
+(./auto/abstracts/papers-2873.tex) [240] (./auto/abstracts/papers-1567.tex)
 (./auto/abstracts/papers-2229.tex
 ! Missing $ inserted.
 <inserted text> 
@@ -6098,7 +5434,7 @@ e; noalgorithmhasbeengivenforsamplingspanningtreeswithoutreplacementfromadirect
 edgraph:$ 
  []
 
-(./auto/abstracts/papers-289.tex) (./auto/abstracts/papers-1640.tex) [239
+(./auto/abstracts/papers-289.tex) (./auto/abstracts/papers-1640.tex) [241
 
 ]
 (./auto/abstracts/papers-195.tex) (./auto/abstracts/papers-936.tex)
@@ -6106,15 +5442,15 @@ edgraph:$
 (./auto/abstracts/papers-2992.tex) (./auto/abstracts/papers-3143.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [240
+ [242
 
 ]
-(./auto/abstracts/papers-3472.tex) [241] (./auto/abstracts/papers-110.tex)
+(./auto/abstracts/papers-3472.tex) [243] (./auto/abstracts/papers-110.tex)
 (./auto/abstracts/papers-509.tex) (./auto/abstracts/papers-1811.tex)
 (./auto/abstracts/papers-2247.tex) (./auto/abstracts/papers-3649.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [242
+ [244
 
 ]
 (./auto/abstracts/papers-1438.tex) (./auto/abstracts/papers-1552.tex)
@@ -6122,9 +5458,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-2849.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [243]
+ [245]
 (./auto/abstracts/papers-2923.tex) (./auto/abstracts/papers-3258.tex)
-(./auto/abstracts/papers-3405.tex) (./auto/abstracts/papers-3627.tex) [244])
+(./auto/abstracts/papers-3405.tex) (./auto/abstracts/papers-3627.tex) [246])
 (./auto/papers/Tuesday-Virtual-Poster-Session-3.tex
 (./auto/abstracts/papers-380.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
@@ -6135,7 +5471,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 (./auto/abstracts/papers-2876.tex) (./auto/abstracts/papers-185.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [245
+ [247
 
 ]
 (./auto/abstracts/papers-582.tex)
@@ -6216,7 +5552,7 @@ entlyshowshighercorrelationwithhumanjudgements:$
 (./auto/abstracts/papers-3860.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [246]
+ [248]
 (./auto/abstracts/papers-4701.tex) (./auto/abstracts/papers-2821.tex)
 (./auto/abstracts/papers-069.tex)
 Overfull \hbox (3.47449pt too wide) in paragraph at lines 17--17
@@ -6227,13 +5563,13 @@ Overfull \hbox (3.47449pt too wide) in paragraph at lines 17--17
 (./auto/abstracts/papers-621.tex) (./auto/abstracts/papers-2906.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [247]
+ [249]
 (./auto/abstracts/papers-431.tex) (./auto/abstracts/papers-258.tex)
 (./auto/abstracts/papers-715.tex) (./auto/abstracts/papers-931.tex)
 (./auto/abstracts/papers-2089.tex) (./auto/abstracts/papers-2176.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [248]
+ [250]
 (./auto/abstracts/papers-120.tex) (./auto/abstracts/papers-229.tex
 ! Missing $ inserted.
 <inserted text> 
@@ -6567,7 +5903,7 @@ ERismoreefficientthanpowerfulbaselines:Especially; theproposedTDEERis\OT1/cmr/m
 (./auto/abstracts/papers-1326.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [249]
+ [251]
 (./auto/abstracts/papers-1411.tex
 ! Undefined control sequence.
 l.1 ... prior results. For example, TTransE \citep
@@ -6581,43 +5917,43 @@ and I'll forget about whatever was undefined.
 ) (./auto/abstracts/papers-166.tex) (./auto/abstracts/papers-277.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [250]
+ [252]
 (./auto/abstracts/papers-2598.tex) (./auto/abstracts/papers-2730.tex)
 (./auto/abstracts/papers-446.tex) (./auto/abstracts/papers-657.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [251]
+ [253]
 (./auto/abstracts/papers-1243.tex) (./auto/abstracts/papers-2727.tex)
 (./auto/abstracts/papers-2802.tex) (./auto/abstracts/papers-2986.tex)
 (./auto/abstracts/papers-3001.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [252]
+ [254]
 (./auto/abstracts/papers-4738.tex) (./auto/abstracts/papers-725.tex)
 (./auto/abstracts/papers-774.tex) (./auto/abstracts/papers-3401.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [253]
+ [255]
 (./auto/abstracts/papers-234.tex) (./auto/abstracts/papers-889.tex)
 (./auto/abstracts/papers-1304.tex) (./auto/abstracts/papers-1414.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [254]
+ [256]
 (./auto/abstracts/papers-2146.tex) (./auto/abstracts/papers-2710.tex)
 (./auto/abstracts/papers-3148.tex) (./auto/abstracts/papers-4460.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [255]
+ [257]
 (./auto/abstracts/papers-2043.tex) (./auto/abstracts/papers-2136.tex)
 (./auto/abstracts/papers-2140.tex) (./auto/abstracts/papers-2170.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [256]
+ [258]
 (./auto/abstracts/papers-2363.tex) (./auto/abstracts/papers-2609.tex)
 (./auto/abstracts/papers-2775.tex) (./auto/abstracts/papers-2883.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [257]
+ [259]
 (./auto/abstracts/papers-3075.tex) (./auto/abstracts/papers-3308.tex)
 (./auto/abstracts/papers-3374.tex) (./auto/abstracts/papers-3451.tex)
 
@@ -6649,7 +5985,7 @@ or  <return>  to continue without it.
 (./auto/abstracts/papers-4583.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [258]
+ [260]
 Underfull \hbox (badness 1755) in paragraph at lines 68--68
 []\T1/ptm/b/n/8 Comparing Feature-Engineering and Feature-Learning Ap-proaches 
 for Mul-ti-lin-gual
@@ -6659,74 +5995,74 @@ for Mul-ti-lin-gual
 (./auto/abstracts/papers-147.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [259]
+ [261]
 (./auto/abstracts/papers-227.tex) (./auto/abstracts/papers-756.tex)
 (./auto/abstracts/papers-1377.tex) (./auto/abstracts/papers-1430.tex)
 (./auto/abstracts/papers-1782.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [260]
+ [262]
 (./auto/abstracts/papers-1978.tex) (./auto/abstracts/papers-2027.tex)
 (./auto/abstracts/papers-2172.tex) (./auto/abstracts/papers-2193.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [261]
+ [263]
 (./auto/abstracts/papers-2207.tex) (./auto/abstracts/papers-2728.tex)
 (./auto/abstracts/papers-2965.tex) (./auto/abstracts/papers-4530.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [262]
+ [264]
 (./auto/abstracts/papers-1253.tex) (./auto/abstracts/papers-905.tex)
 (./auto/abstracts/papers-2217.tex) (./auto/abstracts/papers-2575.tex)
 (./auto/abstracts/papers-3045.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [263]
+ [265]
 (./auto/abstracts/papers-3253.tex) (./auto/abstracts/papers-395.tex)
 (./auto/abstracts/papers-417.tex) (./auto/abstracts/papers-1126.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [264]
+ [266]
 (./auto/abstracts/papers-1196.tex) (./auto/abstracts/papers-1836.tex)
 (./auto/abstracts/papers-2444.tex) (./auto/abstracts/papers-2995.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [265]
+ [267]
 (./auto/abstracts/papers-4025.tex) (./auto/abstracts/papers-072.tex)
 (./auto/abstracts/papers-199.tex) (./auto/abstracts/papers-504.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [266]
+ [268]
 (./auto/abstracts/papers-507.tex) (./auto/abstracts/papers-673.tex)
 (./auto/abstracts/papers-879.tex) (./auto/abstracts/papers-1322.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [267]
+ [269]
 (./auto/abstracts/papers-1548.tex) (./auto/abstracts/papers-1608.tex)
 (./auto/abstracts/papers-2841.tex) (./auto/abstracts/papers-2985.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [268]
+ [270]
 (./auto/abstracts/papers-3706.tex) (./auto/abstracts/papers-4495.tex)
 (./auto/abstracts/papers-4635.tex) (./auto/abstracts/papers-354.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [269]
+ [271]
 (./auto/abstracts/papers-416.tex) (./auto/abstracts/papers-591.tex)
 (./auto/abstracts/papers-1449.tex) (./auto/abstracts/papers-2115.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [270]
+ [272]
 (./auto/abstracts/papers-2143.tex) (./auto/abstracts/papers-2259.tex)
 (./auto/abstracts/papers-2276.tex) (./auto/abstracts/papers-3187.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [271]
+ [273]
 (./auto/abstracts/papers-4120.tex) (./auto/abstracts/papers-4127.tex)
 (./auto/abstracts/papers-4155.tex) (./auto/abstracts/papers-151.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [272]
+ [274]
 (./auto/abstracts/papers-152.tex) (./auto/abstracts/papers-160.tex)
 ! Missing $ inserted.
 <inserted text> 
@@ -6807,16 +6143,16 @@ y/m/n/7 ^^@
 (./auto/abstracts/papers-723.tex) (./auto/abstracts/papers-1768.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [273]
+ [275]
 (./auto/abstracts/papers-2448.tex) (./auto/abstracts/papers-693.tex)
 (./auto/abstracts/papers-2245.tex) (./auto/abstracts/papers-2959.tex)
 (./auto/abstracts/papers-2979.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [274]
+ [276]
 (./auto/abstracts/papers-3484.tex) (./auto/abstracts/papers-4048.tex)
 (./auto/abstracts/papers-2396.tex) (./auto/abstracts/papers-2413.tex)))
-(./content/workshops/workshops.tex [275] [276
+(./content/workshops/workshops.tex [277] [278
 
 ]
 Chapter 7.
@@ -6827,12 +6163,12 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 
 (./content/workshops/overview.tex
 
-LaTeX Warning: Reference `WShopA' on page 277 undefined on input line 15.
+LaTeX Warning: Reference `WShopA' on page 279 undefined on input line 15.
 
 
-LaTeX Warning: Reference `WShopF' on page 277 undefined on input line 24.
+LaTeX Warning: Reference `WShopF' on page 279 undefined on input line 24.
 
-) [277] (./auto/conll/schedule.tex
+) [279] (./auto/conll/schedule.tex
 ! You can't use `macro parameter character #' in horizontal mode.
 l.8 ... dialogue, and grounded language learning #
                                                   }
@@ -6881,7 +6217,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[278
+[280
 
 
 ]
@@ -6904,7 +6240,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [279]
+ [281]
 ! You can't use `macro parameter character #' in horizontal mode.
 l.84 \item[1:20--2:20] {\bfseries  Lunch break #
                                                 }
@@ -6953,15 +6289,15 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [280] (./auto/argmining/schedule.tex [281
+) [282] (./auto/argmining/schedule.tex [283
 
-]) [282] (./auto/codi/schedule.tex
+]) [284] (./auto/codi/schedule.tex
 Overfull \hbox (15.83023pt too wide) in paragraph at lines 31--32
 \T1/ptm/b/n/7 net Oguz, Ta-tiana Anikina, Siyu Tao, Sharmila Upad-hyaya and Iva
 na Kruijff-Korbayova) 
  []
 
-[283
+[285
 
 ]
 
@@ -6980,10 +6316,10 @@ or  <return>  to continue without it.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [284])
-[285] (./auto/nlp4convai/schedule.tex [286
+ [286])
+[287] (./auto/nlp4convai/schedule.tex [288
 
-]) [287]
+]) [289]
 (./auto/eval4nlp/schedule.tex
 ! Misplaced alignment tab character &.
 l.53 ...:00--5:45] {\bfseries  Award Announcment &
@@ -6995,9 +6331,9 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[288
+[290
 
-]) [289] (./auto/ci+nlp/schedule.tex
+]) [291] (./auto/ci+nlp/schedule.tex
 ! You can't use `macro parameter character #' in horizontal mode.
 l.3 ...m[9:00--9:10] {\bfseries  Opening Remarks #
                                                   }
@@ -7006,9 +6342,9 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [290
+) [292
 
-] (./auto/insights/schedule.tex) [291
+] (./auto/insights/schedule.tex) [293
 
 ] (./auto/mrqa/schedule.tex
 Overfull \hbox (1.01765pt too wide) in paragraph at lines 51--52
@@ -7016,7 +6352,7 @@ Overfull \hbox (1.01765pt too wide) in paragraph at lines 51--52
  (Re-vanth Gangi Reddy,
  []
 
-[292
+[294
 
 ]
 Overfull \hbox (16.39642pt too wide) in paragraph at lines 60--61
@@ -7039,11 +6375,11 @@ Overfull \hbox (15.8994pt too wide) in paragraph at lines 117--118
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [293])
-[294] (./auto/nllp/schedule.tex [295
+ [295])
+[296] (./auto/nllp/schedule.tex [297
 
-]) [296] (./auto/sustainlp/schedule.tex)
-[297
+]) [298] (./auto/sustainlp/schedule.tex)
+[299
 
 ] (./auto/fever/schedule.tex
 ! Misplaced alignment tab character &.
@@ -7094,7 +6430,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[298
+[300
 
 ]
 ! Misplaced alignment tab character &.
@@ -7107,7 +6443,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [299] (./auto/newsum/schedule.tex
+) [301] (./auto/newsum/schedule.tex
 ! You can't use `macro parameter character #' in horizontal mode.
 l.3 ...:00--10:30] {\bfseries  Morning Session I #
                                                   }
@@ -7156,9 +6492,9 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[300
+[302
 
-]) [301] (./auto/econlp/schedule.tex
+]) [303] (./auto/econlp/schedule.tex
 ! Misplaced alignment tab character &.
 l.4 ...ng remarks and status report on economics &
                                                    NLP (Udo Hahn)}
@@ -7169,7 +6505,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [302
+) [304
 
 ]
 ! Misplaced alignment tab character &.
@@ -7229,7 +6565,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[303
+[305
 
 ]
 ! You can't use `macro parameter character #' in horizontal mode.
@@ -7240,10 +6576,10 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [304] (./auto/w-nut/schedule.tex [305
+) [306] (./auto/w-nut/schedule.tex [307
 
-]) [306]
-(./auto/latech-clfl/schedule.tex) [307
+]) [308]
+(./auto/latech-clfl/schedule.tex) [309
 
 ] (./auto/mrl/schedule.tex
 
@@ -7259,9 +6595,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[308
+[310
 
-]) [309] (./auto/winlp/schedule.tex
+]) [311] (./auto/winlp/schedule.tex
 
 ! Package inputenc Error: Unicode char \u8:� not set up for use with LaTeX.
 
@@ -7275,7 +6611,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[310
+[312
 
 ]
 ! Misplaced alignment tab character &.
@@ -7288,18 +6624,18 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [311] (./auto/eancs/schedule.tex) [312
+) [313] (./auto/eancs/schedule.tex) [314
 
-] (./auto/crac/schedule.tex [313
+] (./auto/crac/schedule.tex [315
 
 ])
-[314] (./auto/blackbox/schedule.tex [315
+[316] (./auto/blackbox/schedule.tex [317
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [316])
-[317] [318
+ [318])
+[319] [320
 
 
 ]) (./content/anti-harassment-policy.tex
@@ -7309,17 +6645,17 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-) [319
+) [321
 
-] [320
+] [322
 
-] (./handbook.ind [321
+] (./handbook.ind [323
 
-] [322] [323] [324] [325] [326] [327]
-[328] [329] [330] [331] [332] [333] [334] [335
+] [324] [325] [326] [327] [328] [329]
+[330] [331] [332] [333] [334] [335] [336] [337
 
 ])
-(./content/local-guide/local-guide.tex [336
+(./content/local-guide/local-guide.tex [338
 
 
 ]
@@ -7329,7 +6665,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4092, 614.295pt x 794.97pt>
+<content/local-guide/EMNLP-localGuide.pdf, id=4101, 614.295pt x 794.97pt>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf>
@@ -7343,7 +6679,7 @@ Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf used on input
  line 6.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4095, page=1, 614.295pt x 794.97p
+<content/local-guide/EMNLP-localGuide.pdf, id=4104, page=1, 614.295pt x 794.97p
 t>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
  <use content/local-guide/EMNLP-localGuide.pdf, page 1>
@@ -7368,15 +6704,15 @@ File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [337]
+ [339]
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf, page 1>
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [338 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
-<content/ads/silver/Naver-EMNLP2021.pdf, id=4137, 597.23125pt x 845.1575pt>
+ [340 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
+<content/ads/silver/Naver-EMNLP2021.pdf, id=4145, 597.23125pt x 845.1575pt>
 File: content/ads/silver/Naver-EMNLP2021.pdf Graphic file (type pdf)
 
 <use content/ads/silver/Naver-EMNLP2021.pdf>
@@ -7389,7 +6725,7 @@ pdfTeX warning: pdflatex (file ./content/ads/silver/duolingo-emnlp21-quarter-ad
 .pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
 d
 
-<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4138, 190.311pt x 325.2
+<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4146, 190.311pt x 325.2
 15pt>
 File: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf Graphic file (type pdf
 )
@@ -7398,10 +6734,10 @@ Package pdftex.def Info: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf use
 d on input line 12.
 (pdftex.def)             Requested size: 289.07999pt x 494.06892pt.
 
-<content/ads/silver/emnlp_ad.pdf, id=4139, 325.215pt x 144.54pt>
+<content/ads/silver/emnlp_ad.pdf, id=4147, 325.215pt x 144.54pt>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [339
+ [341
 
 
  <./content/ads/silver/Naver-EMNLP2021.pdf>]
@@ -7413,13 +6749,13 @@ Package pdftex.def Info: content/ads/silver/emnlp_ad.pdf used on input line 14.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [340 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
+ [342 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
 Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
 (./content/sponsors/sponsors.tex
-<content/sponsors/diamond/apple.png, id=4182, 150.5625pt x 150.5625pt>
+<content/sponsors/diamond/apple.png, id=4190, 150.5625pt x 150.5625pt>
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 
 <use content/sponsors/diamond/apple.png>
@@ -7427,7 +6763,7 @@ Package pdftex.def Info: content/sponsors/diamond/apple.png used on input line
 6.
 (pdftex.def)             Requested size: 36.135pt x 36.13573pt.
 
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4184, 220.825pt x 132.495
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4192, 220.825pt x 132.495
 pt>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
  <use content/sponsors/diamond/Bloomberg-logo-2019.png>
@@ -7435,14 +6771,14 @@ Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png used
 on input line 7.
 (pdftex.def)             Requested size: 36.135pt x 21.68079pt.
 
-<content/sponsors/diamond/Facebook-AI2020.png, id=4185, 2342.7525pt x 529.98pt>
+<content/sponsors/diamond/Facebook-AI2020.png, id=4193, 2342.7525pt x 529.98pt>
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
 (pdftex.def)             Requested size: 72.26999pt x 16.34348pt.
 
-<content/sponsors/diamond/google.png, id=4186, 672.5125pt x 96.36pt>
+<content/sponsors/diamond/google.png, id=4194, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
 
 <use content/sponsors/diamond/google.png>
@@ -7463,7 +6799,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/amazon-logo.png, id=4187, 1003.75pt x 526.96875pt>
+<content/sponsors/platinum/amazon-logo.png, id=4195, 1003.75pt x 526.96875pt>
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/amazon-logo.png>
@@ -7471,7 +6807,7 @@ Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
 
-<content/sponsors/platinum/deepmind-logo.png, id=4188, 1066.98625pt x 401.5pt>
+<content/sponsors/platinum/deepmind-logo.png, id=4196, 1066.98625pt x 401.5pt>
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/deepmind-logo.png>
@@ -7500,7 +6836,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/g-research.png, id=4189, 451.6875pt x 451.6875pt>
+<content/sponsors/platinum/g-research.png, id=4197, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
@@ -7508,7 +6844,7 @@ Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
 
-<content/sponsors/platinum/megagon-logo-2019.png, id=4190, 240.9pt x 240.9pt>
+<content/sponsors/platinum/megagon-logo-2019.png, id=4198, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
@@ -7520,7 +6856,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
  []
 
-<content/sponsors/gold/grammarly.png, id=4191, 1028.84375pt x 240.9pt>
+<content/sponsors/gold/grammarly.png, id=4199, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
@@ -7528,7 +6864,7 @@ Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
  23.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
 
-<content/sponsors/gold/MSFT.jpg, id=4192, 582.175pt x 124.465pt>
+<content/sponsors/gold/MSFT.jpg, id=4200, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
@@ -7551,7 +6887,7 @@ l.29 ...1in]{content/sponsors/silver/duolingo.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<content/sponsors/silver/Naver.jpg, id=4193, 301.125pt x 301.125pt>
+<content/sponsors/silver/Naver.jpg, id=4201, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
@@ -7559,7 +6895,7 @@ Package pdftex.def Info: content/sponsors/silver/Naver.jpg used on input line 3
 0.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4194, 2603.7275pt x 552.0625
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4202, 2603.7275pt x 552.0625
 pt>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
@@ -7571,8 +6907,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
 
  []
 
-[341 <./content/ads/silver/emnlp_ad.pdf>]
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4219
+[343 <./content/ads/silver/emnlp_ad.pdf>]
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4228
 , 455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
@@ -7582,14 +6918,14 @@ Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
 kup_Red_RGB.png used on input line 36.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 
-<content/sponsors/bronze/Babelscape_colori.png, id=4220, 474.573pt x 94.1919pt>
+<content/sponsors/bronze/Babelscape_colori.png, id=4229, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
 input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
 
-<content/sponsors/bronze/HLTCOE-Logo.png, id=4221, 226.8475pt x 117.43875pt>
+<content/sponsors/bronze/HLTCOE-Logo.png, id=4230, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
@@ -7607,7 +6943,7 @@ in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=4222, 173.03503pt x 190.99928pt
+<content/sponsors/bronze/LegalForce_new.jpg, id=4231, 173.03503pt x 190.99928pt
 >
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
  <use content/sponsors/bronze/LegalForce_new.jpg>
@@ -7622,14 +6958,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [342 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
+ [344 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
 erg-logo-2019.png> <./content/sponsors/diamond/Facebook-AI2020.png> <./content/
 sponsors/diamond/google.png> <./content/sponsors/platinum/amazon-logo.png> <./c
 ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-rese
 arch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponso
 rs/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/s
 ilver/Naver.jpg> <./content/sponsors/silver/Naver_Labs_Europe.jpg>]
-<content/sponsors/supporter/ServiceNow.png, id=4235, 253.6677pt x 72.87225pt>
+<content/sponsors/supporter/ServiceNow.png, id=4244, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
@@ -7642,7 +6978,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--46
  []
 
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=4236, 1003.75pt x 526.9
+<content/sponsors/diversityChampion/amazon-logo.png, id=4245, 1003.75pt x 526.9
 6875pt>
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
@@ -7651,7 +6987,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
 d on input line 49.
 (pdftex.def)             Requested size: 86.72377pt x 45.52748pt.
 
-<content/sponsors/diversityChampion/deepmind-logo.png, id=4237, 1066.98625pt x 
+<content/sponsors/diversityChampion/deepmind-logo.png, id=4246, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
@@ -7660,7 +6996,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
 sed on input line 50.
 (pdftex.def)             Requested size: 86.72377pt x 32.62914pt.
 
-<content/sponsors/diversityChampion/google.png, id=4238, 672.5125pt x 96.36pt>
+<content/sponsors/diversityChampion/google.png, id=4247, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
@@ -7668,7 +7004,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on
 input line 51.
 (pdftex.def)             Requested size: 86.72377pt x 12.42578pt.
 
-<content/sponsors/diversityChampion/MSFT.png, id=4239, 415.01584pt x 88.72752pt
+<content/sponsors/diversityChampion/MSFT.png, id=4248, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
@@ -7686,7 +7022,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--54
  []
 
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4240, 417.22887pt x 280.
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4249, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
@@ -7695,7 +7031,7 @@ Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
  on input line 57.
 (pdftex.def)             Requested size: 86.72377pt x 58.22829pt.
 
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4241, 714.7
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4250, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
@@ -7706,7 +7042,7 @@ _RGB.jpg used on input line 62.
 (pdftex.def)             Requested size: 72.26999pt x 48.10323pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-B.png, id=4242, 455.5419pt x 118.7637pt>
+B.png, id=4251, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
@@ -7721,7 +7057,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--232
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
-[343 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
+[345 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
 <./content/sponsors/bronze/Babelscape_colori.png> <./content/sponsors/bronze/HL
 TCOE-Logo.png> <./content/sponsors/bronze/LegalForce_new.jpg> <./content/sponso
 rs/supporter/ServiceNow.png> <./content/sponsors/diversityChampion/amazon-logo.
@@ -7750,9 +7086,9 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 ### simple group (level 1) entered at line 127 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27082 strings out of 493089
- 484287 string characters out of 6134842
- 1607061 words of memory out of 5000000
+ 27084 strings out of 493089
+ 484309 string characters out of 6134842
+ 1606059 words of memory out of 5000000
  26997 multiletter control sequences out of 15000+600000
  54953 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -7778,10 +7114,10 @@ w/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (349 pages, 4521494 bytes).
+Output written on handbook.pdf (351 pages, 4524731 bytes).
 PDF statistics:
- 4413 PDF objects out of 5155 (max. 8388607)
- 3910 compressed objects within 40 object streams
- 409 named destinations out of 1000 (max. 500000)
+ 4421 PDF objects out of 5155 (max. 8388607)
+ 3916 compressed objects within 40 object streams
+ 411 named destinations out of 1000 (max. 500000)
  653 words of extra memory for PDF output out of 10000 (max. 10000000)
 

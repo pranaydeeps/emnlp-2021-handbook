@@ -159,14 +159,24 @@ for date in dates:
 
             for event in events:
                 # A regular event
-                print "event:", event, " ", type(event)
-                print >>out, '  %s & -- & %s &' % (minus12(start), minus12(stop))
-                try:
-                    loc = event.split(' ')[0].capitalize()
-                except AttributeError:
-                    loc = "TODO Location"
-                print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event, loc.replace('Mini-break','Coffee'))
-                print >>out, '  \\\\'
+                if not isinstance(event, basestring):
+                    print "event:", event.desc, " ", type(event)
+                    print >>out, '  %s & -- & %s &' % (minus12(start), minus12(stop))
+                    try:
+                        loc = event.split(' ')[0].capitalize()
+                    except AttributeError:
+                        loc = "Virtual"
+                    print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event.desc, loc.replace('Mini-break','Coffee'))
+                    print >>out, '  \\\\'
+                else:
+                    print "event:", event, " ", type(event)
+                    print >>out, '  %s & -- & %s &' % (minus12(start), minus12(stop))
+                    try:
+                        loc = event.split(' ')[0].capitalize()
+                    except AttributeError:
+                        loc = "TODO Location"
+                    print >>out, '  {\\bfseries %s} \\hfill \emph{\\%sLoc}' % (event, loc.replace('Mini-break','Coffee'))
+                    print >>out, '  \\\\'
 
     print >>out, '\\end{SingleTrackSchedule}'
     print >>out, '\\clearpage'
