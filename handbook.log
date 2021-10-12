@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 OCT 2021 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 OCT 2021 21:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1664,7 +1664,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 ! Misplaced alignment tab character &.
 <argument> ...MR: The 15th Linguistic Annotation &
                                                    3rd Designing Meaning Rep...
-l.101 ...ations Joint Workshop}{301}{section.7.14}
+l.101 ...ations Joint Workshop}{303}{section.7.14}
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -6085,11 +6085,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [229]
 [230]) (./auto/papers/Tuesday-parallel-session-9.tex
-Package marginnote Info: Suggest that margin note 237.1 will be on
-(marginnote)             absolute page 237.
-(marginnote)             This may be wrong on input line 11.
-Package marginnote Info: xpos not known,
-(marginnote)             using \marginnoterightadjust on input line 11.
+Package marginnote Info: Margin note 237.1 is on absolute page 237
+(marginnote)              on input line 11.
+Package marginnote Info: xpos seems to be 115.21843pt,
+(marginnote)             \marginnoterightadjust ignored on input line 11.
 
 ! Extra alignment tab has been changed to \cr.
 <template> ... width\arrayrulewidth }\endtemplate 
@@ -6109,11 +6108,10 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-Package marginnote Info: Suggest that margin note 237.2 will be on
-(marginnote)             absolute page 237.
-(marginnote)             This may be wrong on input line 15.
-Package marginnote Info: xpos not known,
-(marginnote)             using \marginnoterightadjust on input line 15.
+Package marginnote Info: Margin note 237.2 is on absolute page 237
+(marginnote)              on input line 15.
+Package marginnote Info: xpos seems to be 62.14493pt,
+(marginnote)             \marginnoterightadjust ignored on input line 15.
 ! Extra alignment tab has been changed to \cr.
 <template> ... width\arrayrulewidth }\endtemplate 
                                                   
@@ -6132,11 +6130,10 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-Package marginnote Info: Suggest that margin note 237.3 will be on
-(marginnote)             absolute page 237.
-(marginnote)             This may be wrong on input line 19.
-Package marginnote Info: xpos not known,
-(marginnote)             using \marginnoterightadjust on input line 19.
+Package marginnote Info: Margin note 237.3 is on absolute page 237
+(marginnote)              on input line 19.
+Package marginnote Info: xpos seems to be 62.14493pt,
+(marginnote)             \marginnoterightadjust ignored on input line 19.
 ! Extra alignment tab has been changed to \cr.
 <template> ... width\arrayrulewidth }\endtemplate 
                                                   
@@ -6155,11 +6152,10 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-Package marginnote Info: Suggest that margin note 237.4 will be on
-(marginnote)             absolute page 237.
-(marginnote)             This may be wrong on input line 23.
-Package marginnote Info: xpos not known,
-(marginnote)             using \marginnoterightadjust on input line 23.
+Package marginnote Info: Margin note 237.4 is on absolute page 237
+(marginnote)              on input line 23.
+Package marginnote Info: xpos seems to be 62.14493pt,
+(marginnote)             \marginnoterightadjust ignored on input line 23.
 ! Extra alignment tab has been changed to \cr.
 <template> ... width\arrayrulewidth }\endtemplate 
                                                   
@@ -7469,16 +7465,23 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 
 ] [320
 
+] (./handbook.ind [321
+
+] [322] [323] [324] [325] [326] [327]
+[328] [329] [330] [331] [332] [333] [334] [335
+
+])
+(./content/local-guide/local-guide.tex [336
+
+
 ]
-No file handbook.ind.
-(./content/local-guide/local-guide.tex
 Chapter 9.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-<content/local-guide/EMNLP-localGuide.pdf, id=1802, 614.295pt x 794.97pt>
+<content/local-guide/EMNLP-localGuide.pdf, id=4152, 614.295pt x 794.97pt>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf>
@@ -7492,7 +7495,7 @@ Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf used on input
  line 6.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/local-guide/EMNLP-localGuide.pdf, id=1805, page=1, 614.295pt x 794.97p
+<content/local-guide/EMNLP-localGuide.pdf, id=4155, page=1, 614.295pt x 794.97p
 t>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
  <use content/local-guide/EMNLP-localGuide.pdf, page 1>
@@ -7517,16 +7520,14 @@ File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [321
-
-]
+ [337]
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf, page 1>
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [322 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
+ [338 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
 
 LaTeX Warning: File `content/ads/silver/Naver-EMNLP2021.pdf' not found on input
  line 9.
@@ -7551,7 +7552,7 @@ pdfTeX warning: pdflatex (file ./content/ads/silver/duolingo-emnlp21-quarter-ad
 .pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
 d
 
-<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=1846, 190.311pt x 325.2
+<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4197, 190.311pt x 325.2
 15pt>
 File: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf Graphic file (type pdf
 )
@@ -7560,22 +7561,31 @@ Package pdftex.def Info: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf use
 d on input line 10.
 (pdftex.def)             Requested size: 289.07999pt x 494.06892pt.
 
+<content/ads/silver/emnlp_ad.pdf, id=4198, 325.215pt x 144.54pt>
+File: content/ads/silver/emnlp_ad.pdf Graphic file (type pdf)
+
+<use content/ads/silver/emnlp_ad.pdf>
+Package pdftex.def Info: content/ads/silver/emnlp_ad.pdf used on input line 11.
+
+(pdftex.def)             Requested size: 289.07999pt x 128.4902pt.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [323
+ [339
 
 
 ]
-Overfull \vbox (277.34944pt too high) has occurred while \output is active []
+Overfull \vbox (408.34523pt too high) has occurred while \output is active []
 
 
-[324 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
+[340 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf> <./content/ads/silv
+er/emnlp_ad.pdf>])
 Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
 (./content/sponsors/sponsors.tex
-<content/sponsors/diamond/apple.png, id=1876, 150.5625pt x 150.5625pt>
+<content/sponsors/diamond/apple.png, id=4248, 150.5625pt x 150.5625pt>
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 
 <use content/sponsors/diamond/apple.png>
@@ -7583,7 +7593,7 @@ Package pdftex.def Info: content/sponsors/diamond/apple.png used on input line
 6.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
 
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=1878, 220.825pt x 132.495
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4250, 220.825pt x 132.495
 pt>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
  <use content/sponsors/diamond/Bloomberg-logo-2019.png>
@@ -7591,14 +7601,14 @@ Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png used
 on input line 7.
 (pdftex.def)             Requested size: 72.26999pt x 43.36159pt.
 
-<content/sponsors/diamond/Facebook-AI2020.png, id=1879, 2342.7525pt x 529.98pt>
+<content/sponsors/diamond/Facebook-AI2020.png, id=4251, 2342.7525pt x 529.98pt>
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
 (pdftex.def)             Requested size: 36.135pt x 8.1677pt.
 
-<content/sponsors/diamond/google.png, id=1880, 672.5125pt x 96.36pt>
+<content/sponsors/diamond/google.png, id=4252, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
 
 <use content/sponsors/diamond/google.png>
@@ -7619,7 +7629,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/amazon-logo.png, id=1881, 1003.75pt x 526.96875pt>
+<content/sponsors/platinum/amazon-logo.png, id=4253, 1003.75pt x 526.96875pt>
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/amazon-logo.png>
@@ -7627,7 +7637,7 @@ Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
 
-<content/sponsors/platinum/deepmind-logo.png, id=1882, 1066.98625pt x 401.5pt>
+<content/sponsors/platinum/deepmind-logo.png, id=4254, 1066.98625pt x 401.5pt>
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/deepmind-logo.png>
@@ -7656,7 +7666,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/g-research.png, id=1883, 451.6875pt x 451.6875pt>
+<content/sponsors/platinum/g-research.png, id=4255, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
@@ -7664,7 +7674,7 @@ Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
 
-<content/sponsors/platinum/megagon-logo-2019.png, id=1884, 240.9pt x 240.9pt>
+<content/sponsors/platinum/megagon-logo-2019.png, id=4256, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
@@ -7676,7 +7686,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
  []
 
-<content/sponsors/gold/grammarly.png, id=1885, 1028.84375pt x 240.9pt>
+<content/sponsors/gold/grammarly.png, id=4257, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
@@ -7684,7 +7694,7 @@ Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
  23.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
 
-<content/sponsors/gold/MSFT.jpg, id=1886, 582.175pt x 124.465pt>
+<content/sponsors/gold/MSFT.jpg, id=4258, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
@@ -7708,7 +7718,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=1887, 2603.7275pt x 552.0625
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4259, 2603.7275pt x 552.0625
 pt>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
@@ -7716,7 +7726,7 @@ Package pdftex.def Info: content/sponsors/silver/Naver_Labs_Europe.jpg used on
 input line 30.
 (pdftex.def)             Requested size: 72.26999pt x 15.32286pt.
 
-<content/sponsors/silver/Naver.jpg, id=1888, 301.125pt x 301.125pt>
+<content/sponsors/silver/Naver.jpg, id=4260, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
@@ -7729,7 +7739,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
  []
 
 
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=1889
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4261
 , 455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
@@ -7739,14 +7749,14 @@ Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
 kup_Red_RGB.png used on input line 36.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 
-<content/sponsors/bronze/Babelscape_colori.png, id=1890, 474.573pt x 94.1919pt>
+<content/sponsors/bronze/Babelscape_colori.png, id=4262, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
 input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
 
-<content/sponsors/bronze/HLTCOE-Logo.png, id=1891, 226.8475pt x 117.43875pt>
+<content/sponsors/bronze/HLTCOE-Logo.png, id=4263, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
@@ -7764,7 +7774,7 @@ in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=1892, 173.03503pt x 190.99928pt
+<content/sponsors/bronze/LegalForce_new.jpg, id=4264, 173.03503pt x 190.99928pt
 >
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
  <use content/sponsors/bronze/LegalForce_new.jpg>
@@ -7779,14 +7789,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [325 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
+ [341 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
 erg-logo-2019.png> <./content/sponsors/diamond/Facebook-AI2020.png> <./content/
 sponsors/diamond/google.png> <./content/sponsors/platinum/amazon-logo.png> <./c
 ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-rese
 arch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponso
 rs/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/s
 ilver/Naver_Labs_Europe.jpg> <./content/sponsors/silver/Naver.jpg>]
-<content/sponsors/supporter/ServiceNow.png, id=1906, 253.6677pt x 72.87225pt>
+<content/sponsors/supporter/ServiceNow.png, id=4277, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
@@ -7799,7 +7809,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--46
  []
 
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=1907, 1003.75pt x 526.9
+<content/sponsors/diversityChampion/amazon-logo.png, id=4278, 1003.75pt x 526.9
 6875pt>
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
@@ -7808,7 +7818,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
 d on input line 49.
 (pdftex.def)             Requested size: 50.58878pt x 26.55904pt.
 
-<content/sponsors/diversityChampion/deepmind-logo.png, id=1908, 1066.98625pt x 
+<content/sponsors/diversityChampion/deepmind-logo.png, id=4279, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
@@ -7817,7 +7827,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
 sed on input line 50.
 (pdftex.def)             Requested size: 65.04256pt x 24.47491pt.
 
-<content/sponsors/diversityChampion/google.png, id=1909, 672.5125pt x 96.36pt>
+<content/sponsors/diversityChampion/google.png, id=4280, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
@@ -7825,7 +7835,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on
 input line 51.
 (pdftex.def)             Requested size: 65.04256pt x 9.31897pt.
 
-<content/sponsors/diversityChampion/MSFT.png, id=1910, 415.01584pt x 88.72752pt
+<content/sponsors/diversityChampion/MSFT.png, id=4281, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
@@ -7838,7 +7848,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--54
  []
 
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=1911, 417.22887pt x 280.
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4282, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
@@ -7848,7 +7858,7 @@ Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
 (pdftex.def)             Requested size: 57.81621pt x 38.81743pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-B.png, id=1912, 455.5419pt x 118.7637pt>
+B.png, id=4283, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
@@ -7858,7 +7868,7 @@ Package pdftex.def Info: content/sponsors/diversityContributor/Adobe_Corporate_
 Horizontal_Lockup_Red_RGB.png used on input line 62.
 (pdftex.def)             Requested size: 50.58878pt x 13.18727pt.
 
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1913, 714.7
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4284, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
@@ -7873,7 +7883,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--232
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
-[326 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
+[342 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
 <./content/sponsors/bronze/Babelscape_colori.png> <./content/sponsors/bronze/HL
 TCOE-Logo.png> <./content/sponsors/bronze/LegalForce_new.jpg> <./content/sponso
 rs/supporter/ServiceNow.png> <./content/sponsors/diversityChampion/amazon-logo.
@@ -7893,9 +7903,6 @@ Package rerunfilecheck Info: File `handbook.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package logreq Info: Writing requests to 'handbook.run.xml'.
 \openout1 = `handbook.run.xml'.
 
@@ -7905,9 +7912,9 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 ### simple group (level 1) entered at line 127 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27057 strings out of 493089
- 483843 string characters out of 6134842
- 1606865 words of memory out of 5000000
+ 27076 strings out of 493089
+ 484100 string characters out of 6134842
+ 1606976 words of memory out of 5000000
  26992 multiletter control sequences out of 15000+600000
  54953 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -7933,10 +7940,10 @@ w/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (332 pages, 4236806 bytes).
+Output written on handbook.pdf (348 pages, 4382188 bytes).
 PDF statistics:
- 2079 PDF objects out of 2487 (max. 8388607)
- 1627 compressed objects within 17 object streams
- 392 named destinations out of 1000 (max. 500000)
- 643 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4453 PDF objects out of 5155 (max. 8388607)
+ 3954 compressed objects within 40 object streams
+ 408 named destinations out of 1000 (max. 500000)
+ 648 words of extra memory for PDF output out of 10000 (max. 10000000)
 
