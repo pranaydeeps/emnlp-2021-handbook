@@ -1,18 +1,36 @@
+* Wednesday, November 10, 2021
+! 09:00--09:30 Opening remarks
+! 09:30--10:30 Invited Talk 1
+= 10:30--11:00 Coffee Break
+= 11:00--12:00 Session 1
 9   # Argument Mining on Twitter: A Case Study on the Planned Parenthood Debate
 11   # Multi-task and Multi-corpora Training Strategies to Enhance Argumentative Sentence Linking Performance
 14   # Explainable Unsupervised Argument Similarity Rating with Abstract Meaning Representation and Conclusion Generation
-19   # Image Retrieval for Arguments Using Stance-Aware Query Expansion
-29   # Is Stance Detection Topic-Independent and Cross-topic Generalizable? - A Reproduction Study
-26   # Exploring Methodologies for Collecting High-Quality Implicit Reasoning in Arguments
-22   # Assessing the Sufficiency of Arguments through Conclusion Generation
-35   # M-Arg: Multimodal Argument Mining Dataset for Political Debates with Audio and Transcripts
-20   # Citizen Involvement in Urban Planning - How Can Municipalities Be Supported in Evaluating Public Participation Processes for Mobility Transitions?
-33   # Argumentation Mining in Scientific Literature for Sustainable Development
-41   # Bayesian Argumentation-Scheme Networks: {A} Probabilistic Model of Argument Validity Facilitated by Argumentation Schemes
+= 12:00--13:00 Lunch Break
+= 13:00--14:30 Session 2
 7   # Multilingual Counter Narrative Type Classification
 16   # Predicting Moderation of Deliberative Arguments: Is Argument Quality the Key?
 36   # Self-trained Pretrained Language Models for Evidence Detection
 37   # Multi-task Learning in Argument Mining for Persuasive Online Discussions
+= 14:30--14:45 Coffee Break
+= 14:45--16:15 Panel Talks and Discussion
+= 16:15--16:45 Coffee Break
+= 16:45--17:45 Session 3
+19   # Image Retrieval for Arguments Using Stance-Aware Query Expansion
+29   # Is Stance Detection Topic-Independent and Cross-topic Generalizable? - A Reproduction Study
+26   # Exploring Methodologies for Collecting High-Quality Implicit Reasoning in Arguments
+* Thursday, November 11, 2021
+! 09:00--10:00 Invited Talk 2
+= 10:00--10:40 Session 4
+22   # Assessing the Sufficiency of Arguments through Conclusion Generation
+35   # M-Arg: Multimodal Argument Mining Dataset for Political Debates with Audio and Transcripts
+= 10:40--11:00 Coffee Break
+= 11:00--12:00 Session 5
+20   # Citizen Involvement in Urban Planning - How Can Municipalities Be Supported in Evaluating Public Participation Processes for Mobility Transitions?
+33   # Argumentation Mining in Scientific Literature for Sustainable Development
+41   # Bayesian Argumentation-Scheme Networks: {A} Probabilistic Model of Argument Validity Facilitated by Argumentation Schemes
+= 12:00--13:00 Lunch Break
+= 13:00--14:30 Shared Task Presentation
 46   # Overview of the 2021 Key Point Analysis Shared Task
 17   # Matching The Statements: A Simple and Accurate Model for Key Point Analysis
 6   # Modern Talking in Key Point Analysis: Key Point Matching using Pretrained Encoders
@@ -20,3 +38,5 @@
 27   # Key Point Matching with Transformers
 31   # Team Enigma at ArgMining-EMNLP 2021: Leveraging Pre-trained Language Models for Key Point Matching
 43   # Key Point Analysis with a siamese transformer
+= 14:30--14:45 Break
+= 14:45--15:00 Concluding Remarks
