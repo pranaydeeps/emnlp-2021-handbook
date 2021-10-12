@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 OCT 2021 17:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 OCT 2021 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1321,35 +1321,7 @@ Package biblatex Info: ... file 'handbook.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Heng Ji
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Wenhao Yu
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Chung-Chi Chen
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Rui Wang
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Meng Jiang
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1363,126 +1335,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Yoav Artzi
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Maarten Sap
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Robin Jia
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Kehai Chen
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Clara Vania
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Mark Yatskar
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Qingyun Wang
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Samuel R. Bowman
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                He He
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Hen-Hsen Huang
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Nazneen Rajani
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Avirup Sil
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Alane Suhr
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Hsin-Hsi Chen
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Kai-Wei Chang
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Hai Zhao
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Nikita Nangia
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                huang2019syntax
+(biblatex)                Rui Wang
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1496,7 +1349,28 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Sebastian Ruder
+(biblatex)                Hen-Hsen Huang
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Meng Jiang
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kehai Chen
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Alane Suhr
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1504,6 +1378,132 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                Zhiting Hu
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Hsin-Hsi Chen
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                huang2019syntax
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Mark Yatskar
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Hai Zhao
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Nazneen Rajani
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Robin Jia
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Wenhao Yu
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Sebastian Ruder
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Clara Vania
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Qingyun Wang
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Maarten Sap
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Samuel R. Bowman
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kai-Wei Chang
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Nikita Nangia
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                He He
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Heng Ji
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Avirup Sil
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Yoav Artzi
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1626,16 +1626,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
 
-
-pdfTeX warning: pdflatex (file ./content/2021-EMNLP-Bavaro-Floorplan.pdf): PDF 
-inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<content/2021-EMNLP-Bavaro-Floorplan.pdf, id=270, 613.29124pt x 794.97pt>
+<content/2021-EMNLP-Bavaro-Floorplan.pdf, id=270, 1927.2pt x 1084.05pt>
 File: content/2021-EMNLP-Bavaro-Floorplan.pdf Graphic file (type pdf)
 
 <use content/2021-EMNLP-Bavaro-Floorplan.pdf>
 Package pdftex.def Info: content/2021-EMNLP-Bavaro-Floorplan.pdf used on input 
 line 6.
-(pdftex.def)             Requested size: 274.6262pt x 355.9743pt.
+(pdftex.def)             Requested size: 274.6262pt x 154.46219pt.
 ) [2 <./content/2021-EMNLP-Bavaro-Floorplan.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 111--115
 
@@ -1664,7 +1661,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 ! Misplaced alignment tab character &.
 <argument> ...MR: The 15th Linguistic Annotation &
                                                    3rd Designing Meaning Rep...
-l.101 ...ations Joint Workshop}{298}{section.7.14}
+l.101 ...ations Joint Workshop}{301}{section.7.14}
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2591,7 +2588,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
-l.44 ...Poster Session I} \hfill \emph{\CoffeeLoc}
+l.44 ...r Session I None} \hfill \emph{\CoffeeLoc}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2610,7 +2607,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[32] [33]) (./auto/papers/Sunday-parallel-session-1.tex
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+[33]) (./auto/papers/Sunday-parallel-session-1.tex
 Package marginnote Info: Margin note 40.1 is on absolute page 41
 (marginnote)              on input line 11.
 Package marginnote Info: xpos seems to be 90.14465pt,
@@ -2833,7 +2834,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackDLoc 
                            
 l.66 \TrackDLoc
-               \hfill\sessionchair{Ivan}{Habernal}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2858,7 +2859,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackELoc 
                            
 l.75 \TrackELoc
-               \hfill\sessionchair{David}{Jurgens}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2878,7 +2879,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackFLoc 
                            
 l.83 \TrackFLoc
-               \hfill\sessionchair{Tong}{Xiao}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3029,7 +3030,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackDLoc 
                            
 l.59 \TrackDLoc
-               \hfill\sessionchair{Chrysoula}{Zerva}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3077,7 +3078,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackELoc 
                            
 l.68 \TrackELoc
-               \hfill\sessionchair{Diana}{Inkpen}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3096,7 +3097,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackFLoc 
                            
 l.75 \TrackFLoc
-               \hfill\sessionchair{Thuy}{Vu}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5228,7 +5229,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackDLoc 
                            
 l.70 \TrackDLoc
-               \hfill\sessionchair{Veronique}{Hoste}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5248,7 +5249,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackELoc 
                            
 l.80 \TrackELoc
-               \hfill\sessionchair{Annemarie}{Friedrich}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5268,7 +5269,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackFLoc 
                            
 l.89 \TrackFLoc
-               \hfill\sessionchair{Leila}{Arras}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5567,7 +5568,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackDLoc 
                            
 l.66 \TrackDLoc
-               \hfill\sessionchair{Pranava}{Madhyastha}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5593,7 +5594,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackELoc 
                            
 l.75 \TrackELoc
-               \hfill\sessionchair{Zhongyu}{Wei}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5619,7 +5620,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackFLoc 
                            
 l.84 \TrackFLoc
-               \hfill\sessionchair{Diyi}{Yang}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5777,7 +5778,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackDLoc 
                            
 l.65 \TrackDLoc
-               \hfill\sessionchair{Ajay}{Nagesh}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5797,7 +5798,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <recently read> \TrackELoc 
                            
 l.74 \TrackELoc
-               \hfill\sessionchair{Jesse}{Dodge}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5862,7 +5863,7 @@ otesbenchmark:$
 <recently read> \TrackFLoc 
                            
 l.84 \TrackFLoc
-               \hfill\sessionchair{Swabha}{Swayamdipta}
+               \hfill\sessionchair{}{}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -6130,7 +6131,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 ! Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
-l.5 ... Poster Session 3} \hfill \emph{\CoffeeLoc}
+l.5 ...er Session 3 None} \hfill \emph{\CoffeeLoc}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7846,15 +7847,15 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [278] (./auto/argmining/schedule.tex) [279
+) [278] (./auto/argmining/schedule.tex [279
 
-] (./auto/codi/schedule.tex
-Overfull \hbox (15.83023pt too wide) in paragraph at lines 25--27
+]) [280] (./auto/codi/schedule.tex
+Overfull \hbox (15.83023pt too wide) in paragraph at lines 31--32
 \T1/ptm/b/n/7 net Oguz, Ta-tiana Anikina, Siyu Tao, Sharmila Upad-hyaya and Iva
-na Kruijff-Korbayova)
+na Kruijff-Korbayova) 
  []
 
-[280
+[281
 
 ]
 
@@ -7864,7 +7865,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.85 \item[11:05--11:15] \wspaperentry{codi-019}
+l.92 \item[11:05--11:15] \wspaperentry{codi-019}
                                                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -7873,10 +7874,10 @@ or  <return>  to continue without it.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [281])
-[282] (./auto/nlp4convai/schedule.tex [283
+ [282])
+[283] (./auto/nlp4convai/schedule.tex [284
 
-]) [284]
+]) [285]
 (./auto/eval4nlp/schedule.tex
 ! Misplaced alignment tab character &.
 l.53 ...:00--5:45] {\bfseries  Award Announcment &
@@ -7888,9 +7889,9 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[285
+[286
 
-]) [286] (./auto/ci+nlp/schedule.tex
+]) [287] (./auto/ci+nlp/schedule.tex
 ! You can't use `macro parameter character #' in horizontal mode.
 l.3 ...m[9:00--9:10] {\bfseries  Opening Remarks #
                                                   }
@@ -7899,32 +7900,32 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [287
+) [288
 
-] (./auto/insights/schedule.tex) [288
+] (./auto/insights/schedule.tex) [289
 
 ] (./auto/mrqa/schedule.tex
-Overfull \hbox (1.01765pt too wide) in paragraph at lines 50--52
+Overfull \hbox (1.01765pt too wide) in paragraph at lines 51--52
 []\T1/ptm/b/n/7 Synthetic Tar-get Do-main Su-per-vi-sion for Open Re-trieval QA
  (Re-vanth Gangi Reddy,
  []
 
-[289
+[290
 
 ]
-Overfull \hbox (16.39642pt too wide) in paragraph at lines 56--58
+Overfull \hbox (16.39642pt too wide) in paragraph at lines 60--61
 []\T1/ptm/b/n/7 Generative Con-text Pair Se-lec-tion for Multi-hop Ques-tion An
 -swer-ing (Dheeru Dua,Cicero
  []
 
 
-Overfull \hbox (5.23201pt too wide) in paragraph at lines 56--58
+Overfull \hbox (5.23201pt too wide) in paragraph at lines 60--61
 \T1/ptm/b/n/7 Nogueira dos San-tos,Patrick Ng,Ben Athi-waratkun,Bing Xi-ang,Mat
 t Gard-ner,Sameer
  []
 
 
-Overfull \hbox (15.8994pt too wide) in paragraph at lines 94--95
+Overfull \hbox (15.8994pt too wide) in paragraph at lines 117--118
 []\T1/ptm/b/n/7 AutoEQA: Auto-Encoding Ques-tions for Ex-trac-tive Ques-tion An
 -swer-ing (Stalin Varanasi,
  []
@@ -7932,15 +7933,75 @@ Overfull \hbox (15.8994pt too wide) in paragraph at lines 94--95
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [290])
-[291] (./auto/nllp/schedule.tex) [292
+ [291])
+[292] (./auto/nllp/schedule.tex [293
 
-] (./auto/sustainlp/schedule.tex) [293
+]) [294] (./auto/sustainlp/schedule.tex)
+[295
+
+] (./auto/fever/schedule.tex
+! Misplaced alignment tab character &.
+l.14 \item[10:05--10:20] {\bfseries  Q&
+                                       A}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.21 \item[10:50--11:00] {\bfseries  Q&
+                                       A}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.33 \item[12:15--12:30] {\bfseries  Q&
+                                       A}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.43 \item[2:00--2:10] {\bfseries  #
+                                     The Fact Extraction and VERification Ov...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Misplaced alignment tab character &.
+l.47 \item[2:30--2:45] {\bfseries  Q&
+                                     A}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[296
 
 ]
-(./auto/fever/schedule.tex) [294
+! Misplaced alignment tab character &.
+l.67 \item[5:15--5:30] {\bfseries  Q&
+                                     A}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-] (./auto/newsum/schedule.tex
+) [297] (./auto/newsum/schedule.tex
 ! You can't use `macro parameter character #' in horizontal mode.
 l.3 ...:00--10:30] {\bfseries  Morning Session I #
                                                   }
@@ -7989,9 +8050,9 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[295
+[298
 
-]) [296] (./auto/econlp/schedule.tex
+]) [299] (./auto/econlp/schedule.tex
 ! Misplaced alignment tab character &.
 l.4 ...ng remarks and status report on economics &
                                                    NLP (Udo Hahn)}
@@ -8002,7 +8063,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [297
+) [300
 
 ]
 ! Misplaced alignment tab character &.
@@ -8062,7 +8123,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[298
+[301
 
 ]
 ! You can't use `macro parameter character #' in horizontal mode.
@@ -8073,10 +8134,10 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [299] (./auto/w-nut/schedule.tex [300
+) [302] (./auto/w-nut/schedule.tex [303
 
-]) [301]
-(./auto/latech-clfl/schedule.tex) [302
+]) [304]
+(./auto/latech-clfl/schedule.tex) [305
 
 ] (./auto/mrl/schedule.tex
 
@@ -8086,15 +8147,15 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 \item[$\bullet$] \wspaperentry{MRL-046}
+l.22 \item[$\bullet$] \wspaperentry{MRL-046}
                                             
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[303
+[306
 
-]) [304] (./auto/winlp/schedule.tex
+]) [307] (./auto/winlp/schedule.tex
 
 ! Package inputenc Error: Unicode char \u8:� not set up for use with LaTeX.
 
@@ -8108,7 +8169,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[305
+[308
 
 ]
 ! Misplaced alignment tab character &.
@@ -8121,26 +8182,30 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [306] (./auto/eancs/schedule.tex) [307
+) [309] (./auto/eancs/schedule.tex) [310
 
-] (./auto/crac/schedule.tex [308
-
-])
-[309] (./auto/blackbox/schedule.tex) [310
+] (./auto/crac/schedule.tex [311
 
 ])
-(./content/anti-harassment-policy.tex
+[312] (./auto/blackbox/schedule.tex [313
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [314])
+[315] [316
+
+
+]) (./content/anti-harassment-policy.tex
 Chapter 8.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-) [311
+) [317
 
-
-
-] [312
+] [318
 
 ]
 No file handbook.ind.
@@ -8151,7 +8216,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-<content/local-guide/EMNLP-localGuide.pdf, id=1720, 614.295pt x 794.97pt>
+<content/local-guide/EMNLP-localGuide.pdf, id=1792, 614.295pt x 794.97pt>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf>
@@ -8165,7 +8230,7 @@ Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf used on input
  line 6.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/local-guide/EMNLP-localGuide.pdf, id=1723, page=1, 614.295pt x 794.97p
+<content/local-guide/EMNLP-localGuide.pdf, id=1795, page=1, 614.295pt x 794.97p
 t>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
  <use content/local-guide/EMNLP-localGuide.pdf, page 1>
@@ -8190,7 +8255,7 @@ File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [313
+ [319
 
 ]
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
@@ -8199,16 +8264,22 @@ File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [314 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
+ [320 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
 
-! LaTeX Error: Unknown graphics extension: .jpg.pdf.
+LaTeX Warning: File `content/ads/silver/Naver-EMNLP2021.pdf' not found on input
+ line 9.
 
-See the LaTeX manual or LaTeX Companion for explanation.
+
+! Package pdftex.def Error: File `content/ads/silver/Naver-EMNLP2021.pdf' not f
+ound.
+
+See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 ...s/silver/Naver_EMNLP_2021_print_ad.jpg.pdf}
+l.9 ...in]{content/ads/silver/Naver-EMNLP2021.pdf}
                                                    \\
+Using draft setting for this image.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -8218,7 +8289,7 @@ pdfTeX warning: pdflatex (file ./content/ads/silver/duolingo-emnlp21-quarter-ad
 .pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
 d
 
-<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=1765, 190.311pt x 325.2
+<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=1838, 190.311pt x 325.2
 15pt>
 File: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf Graphic file (type pdf
 )
@@ -8226,20 +8297,23 @@ File: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf Graphic file (type pdf
 Package pdftex.def Info: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf use
 d on input line 10.
 (pdftex.def)             Requested size: 289.07999pt x 494.06892pt.
-)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [321
+
+
+]
+Overfull \vbox (277.34944pt too high) has occurred while \output is active []
+
+
+[322 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
 Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [315
-
-
- <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>]
 (./content/sponsors/sponsors.tex
-<content/sponsors/diamond/apple.png, id=1791, 150.5625pt x 150.5625pt>
+<content/sponsors/diamond/apple.png, id=1868, 150.5625pt x 150.5625pt>
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 
 <use content/sponsors/diamond/apple.png>
@@ -8247,7 +8321,7 @@ Package pdftex.def Info: content/sponsors/diamond/apple.png used on input line
 6.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
 
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=1793, 220.825pt x 132.495
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=1870, 220.825pt x 132.495
 pt>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
  <use content/sponsors/diamond/Bloomberg-logo-2019.png>
@@ -8255,14 +8329,14 @@ Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png used
 on input line 7.
 (pdftex.def)             Requested size: 72.26999pt x 43.36159pt.
 
-<content/sponsors/diamond/Facebook-AI2020.png, id=1794, 2342.7525pt x 529.98pt>
+<content/sponsors/diamond/Facebook-AI2020.png, id=1871, 2342.7525pt x 529.98pt>
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
 (pdftex.def)             Requested size: 36.135pt x 8.1677pt.
 
-<content/sponsors/diamond/google.png, id=1795, 672.5125pt x 96.36pt>
+<content/sponsors/diamond/google.png, id=1872, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
 
 <use content/sponsors/diamond/google.png>
@@ -8283,7 +8357,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/amazon-logo.png, id=1796, 1003.75pt x 526.96875pt>
+<content/sponsors/platinum/amazon-logo.png, id=1873, 1003.75pt x 526.96875pt>
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/amazon-logo.png>
@@ -8291,7 +8365,7 @@ Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
 
-<content/sponsors/platinum/deepmind-logo.png, id=1797, 1066.98625pt x 401.5pt>
+<content/sponsors/platinum/deepmind-logo.png, id=1874, 1066.98625pt x 401.5pt>
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/deepmind-logo.png>
@@ -8320,7 +8394,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/g-research.png, id=1798, 451.6875pt x 451.6875pt>
+<content/sponsors/platinum/g-research.png, id=1875, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
@@ -8328,7 +8402,7 @@ Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
 
-<content/sponsors/platinum/megagon-logo-2019.png, id=1799, 240.9pt x 240.9pt>
+<content/sponsors/platinum/megagon-logo-2019.png, id=1876, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
@@ -8340,7 +8414,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
  []
 
-<content/sponsors/gold/grammarly.png, id=1800, 1028.84375pt x 240.9pt>
+<content/sponsors/gold/grammarly.png, id=1877, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
@@ -8348,7 +8422,7 @@ Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
  23.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
 
-<content/sponsors/gold/MSFT.jpg, id=1801, 582.175pt x 124.465pt>
+<content/sponsors/gold/MSFT.jpg, id=1878, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
@@ -8372,7 +8446,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=1802, 2603.7275pt x 552.0625
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=1879, 2603.7275pt x 552.0625
 pt>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
@@ -8380,7 +8454,7 @@ Package pdftex.def Info: content/sponsors/silver/Naver_Labs_Europe.jpg used on
 input line 30.
 (pdftex.def)             Requested size: 72.26999pt x 15.32286pt.
 
-<content/sponsors/silver/Naver.jpg, id=1803, 301.125pt x 301.125pt>
+<content/sponsors/silver/Naver.jpg, id=1880, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
@@ -8393,7 +8467,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
  []
 
 
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=1804
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=1881
 , 455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
@@ -8403,14 +8477,14 @@ Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
 kup_Red_RGB.png used on input line 36.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 
-<content/sponsors/bronze/Babelscape_colori.png, id=1805, 474.573pt x 94.1919pt>
+<content/sponsors/bronze/Babelscape_colori.png, id=1882, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
 input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
 
-<content/sponsors/bronze/HLTCOE-Logo.png, id=1806, 226.8475pt x 117.43875pt>
+<content/sponsors/bronze/HLTCOE-Logo.png, id=1883, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
@@ -8428,7 +8502,7 @@ in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=1807, 173.03503pt x 190.99928pt
+<content/sponsors/bronze/LegalForce_new.jpg, id=1884, 173.03503pt x 190.99928pt
 >
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
  <use content/sponsors/bronze/LegalForce_new.jpg>
@@ -8443,14 +8517,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [316 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
+ [323 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
 erg-logo-2019.png> <./content/sponsors/diamond/Facebook-AI2020.png> <./content/
 sponsors/diamond/google.png> <./content/sponsors/platinum/amazon-logo.png> <./c
 ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-rese
 arch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponso
 rs/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/s
 ilver/Naver_Labs_Europe.jpg> <./content/sponsors/silver/Naver.jpg>]
-<content/sponsors/supporter/ServiceNow.png, id=1820, 253.6677pt x 72.87225pt>
+<content/sponsors/supporter/ServiceNow.png, id=1897, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
@@ -8463,7 +8537,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--46
  []
 
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=1821, 1003.75pt x 526.9
+<content/sponsors/diversityChampion/amazon-logo.png, id=1898, 1003.75pt x 526.9
 6875pt>
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
@@ -8472,7 +8546,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
 d on input line 49.
 (pdftex.def)             Requested size: 50.58878pt x 26.55904pt.
 
-<content/sponsors/diversityChampion/deepmind-logo.png, id=1822, 1066.98625pt x 
+<content/sponsors/diversityChampion/deepmind-logo.png, id=1899, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
@@ -8481,7 +8555,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
 sed on input line 50.
 (pdftex.def)             Requested size: 65.04256pt x 24.47491pt.
 
-<content/sponsors/diversityChampion/google.png, id=1823, 672.5125pt x 96.36pt>
+<content/sponsors/diversityChampion/google.png, id=1900, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
@@ -8489,7 +8563,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on
 input line 51.
 (pdftex.def)             Requested size: 65.04256pt x 9.31897pt.
 
-<content/sponsors/diversityChampion/MSFT.png, id=1824, 415.01584pt x 88.72752pt
+<content/sponsors/diversityChampion/MSFT.png, id=1901, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
@@ -8502,7 +8576,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--54
  []
 
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=1825, 417.22887pt x 280.
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=1902, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
@@ -8512,7 +8586,7 @@ Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
 (pdftex.def)             Requested size: 57.81621pt x 38.81743pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-B.png, id=1826, 455.5419pt x 118.7637pt>
+B.png, id=1903, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
@@ -8522,7 +8596,7 @@ Package pdftex.def Info: content/sponsors/diversityContributor/Adobe_Corporate_
 Horizontal_Lockup_Red_RGB.png used on input line 62.
 (pdftex.def)             Requested size: 50.58878pt x 13.18727pt.
 
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1827, 714.7
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=1904, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
@@ -8537,7 +8611,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--232
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
-[317 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
+[324 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
 <./content/sponsors/bronze/Babelscape_colori.png> <./content/sponsors/bronze/HL
 TCOE-Logo.png> <./content/sponsors/bronze/LegalForce_new.jpg> <./content/sponso
 rs/supporter/ServiceNow.png> <./content/sponsors/diversityChampion/amazon-logo.
@@ -8557,9 +8631,6 @@ Package rerunfilecheck Info: File `handbook.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package logreq Info: Writing requests to 'handbook.run.xml'.
 \openout1 = `handbook.run.xml'.
 
@@ -8569,10 +8640,10 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 ### simple group (level 1) entered at line 127 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27002 strings out of 493089
- 482589 string characters out of 6134842
- 1579115 words of memory out of 5000000
- 26946 multiletter control sequences out of 15000+600000
+ 27051 strings out of 493089
+ 483775 string characters out of 6134842
+ 1606838 words of memory out of 5000000
+ 26988 multiletter control sequences out of 15000+600000
  54953 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,19n,55p,2264b,1822s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -8597,10 +8668,10 @@ w/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (323 pages, 4553483 bytes).
+Output written on handbook.pdf (330 pages, 4235603 bytes).
 PDF statistics:
- 1990 PDF objects out of 2073 (max. 8388607)
- 1562 compressed objects within 16 object streams
- 383 named destinations out of 1000 (max. 500000)
+ 2069 PDF objects out of 2073 (max. 8388607)
+ 1619 compressed objects within 17 object streams
+ 390 named destinations out of 1000 (max. 500000)
  643 words of extra memory for PDF output out of 10000 (max. 10000000)
 
