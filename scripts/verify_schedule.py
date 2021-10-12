@@ -16,10 +16,10 @@ DAYS = 'Sunday Monday Tuesday Wednesday Thursday Friday Saturday'.split(' ')
 MONTHS = 'January February March April May June July August September October November December'.split(' ')
 
 def general_error(lineno, found, expected, eg):
-    print 'Format error on line %d' % (lineno)
-    print '  ->    found: %s' % found
-    print '  -> expected: %s' % expected
-    print '     e.g.,', eg
+    print('Format error on line %d' % (lineno))
+    print('  ->    found: %s' % found)
+    print('  -> expected: %s' % expected)
+    print('     e.g.,', eg)
 
     global error_count
     error_count += 1
@@ -35,13 +35,13 @@ def timerange_error(lineno, line):
     general_error(lineno, line, 'HH:MM--HH:MM (time range, 24-hour format, two dashes)', '12:30--13:30')
 
 def header_error(lineno, line):
-    print 'Warning on line %d' % (lineno)
-    print '  -> Header lines do not contain time ranges'
-    print '  -> Use "=" for headers (display only) and "+" for timed events, e.g.,'
-    print '     + 11:00--12:30 Poster Session: Shared Task'
-    print '     16  # Paper 1'
-    print '     18  # Paper 2'
-    print '     ...'
+    print('Warning on line %d' % (lineno))
+    print('  -> Header lines do not contain time ranges')
+    print('  -> Use "=" for headers (display only) and "+" for timed events, e.g.,')
+    print('     + 11:00--12:30 Poster Session: Shared Task')
+    print('     16  # Paper 1')
+    print('     18  # Paper 2')
+    print('     ...')
 
 error_count = 0
 for i, line in enumerate(sys.stdin, 1):
@@ -65,7 +65,7 @@ for i, line in enumerate(sys.stdin, 1):
             star_error(i, month)
         elif not re.match(r'\d+', date) or int(date) < 1 or int(date) > 31:
             star_error(i, date)
-        elif year != '2014':
+        elif year != '2021':
             star_error(i, year)
 
     elif line.startswith('+'):
@@ -90,5 +90,5 @@ for i, line in enumerate(sys.stdin, 1):
         if re.match(r'\d', timerange) and not re.match(TIMERANGE_REGEXP, timerange):
             timerange_error(i, timerange)
             
-print "Found %d errors" % (error_count)
+print("Found %d errors" % (error_count))
 sys.exit(error_count)
