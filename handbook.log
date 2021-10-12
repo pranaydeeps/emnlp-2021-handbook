@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 OCT 2021 22:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 OCT 2021 22:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7595,7 +7595,7 @@ File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
-(pdftex.def)             Requested size: 36.135pt x 8.1677pt.
+(pdftex.def)             Requested size: 72.26999pt x 16.34348pt.
 
 <content/sponsors/diamond/google.png, id=4265, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
@@ -7603,7 +7603,7 @@ File: content/sponsors/diamond/google.png Graphic file (type png)
 <use content/sponsors/diamond/google.png>
 Package pdftex.def Info: content/sponsors/diamond/google.png used on input line
  9.
-(pdftex.def)             Requested size: 36.135pt x 5.17703pt.
+(pdftex.def)             Requested size: 72.26999pt x 10.35408pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
@@ -7626,9 +7626,13 @@ Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
 
+<content/sponsors/platinum/deepmind-logo.png, id=4267, 1066.98625pt x 401.5pt>
+File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
-LaTeX Warning: File `content/sponsors/platinum/deepmind-logo.svg' not found on 
-input line 15.
+<use content/sponsors/platinum/deepmind-logo.png>
+Package pdftex.def Info: content/sponsors/platinum/deepmind-logo.png used on in
+put line 15.
+(pdftex.def)             Requested size: 72.26999pt x 27.1889pt.
 
 
 ! LaTeX Error: Unknown graphics extension: .svg.
@@ -7637,26 +7641,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...ntent/sponsors/platinum/deepmind-logo.svg}
+l.16 ...ontent/sponsors/platinum/ByteDance_EN.svg}
                                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `content/sponsors/platinum/ByteDance_EN.png' not found on i
-nput line 16.
-
-
-! Package pdftex.def Error: File `content/sponsors/platinum/ByteDance_EN.png' n
-ot found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 ...ontent/sponsors/platinum/ByteDance_EN.png}
-                                                  
-Using draft setting for this image.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -7669,7 +7655,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/g-research.png, id=4267, 451.6875pt x 451.6875pt>
+<content/sponsors/platinum/g-research.png, id=4268, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
@@ -7677,7 +7663,7 @@ Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
 
-<content/sponsors/platinum/megagon-logo-2019.png, id=4268, 240.9pt x 240.9pt>
+<content/sponsors/platinum/megagon-logo-2019.png, id=4269, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
@@ -7689,7 +7675,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
  []
 
-<content/sponsors/gold/grammarly.png, id=4269, 1028.84375pt x 240.9pt>
+<content/sponsors/gold/grammarly.png, id=4270, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
@@ -7697,7 +7683,7 @@ Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
  23.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
 
-<content/sponsors/gold/MSFT.jpg, id=4270, 582.175pt x 124.465pt>
+<content/sponsors/gold/MSFT.jpg, id=4271, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
@@ -7720,7 +7706,7 @@ l.29 ...1in]{content/sponsors/silver/duolingo.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<content/sponsors/silver/Naver.jpg, id=4271, 301.125pt x 301.125pt>
+<content/sponsors/silver/Naver.jpg, id=4272, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
@@ -7728,7 +7714,7 @@ Package pdftex.def Info: content/sponsors/silver/Naver.jpg used on input line 3
 0.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4272, 2603.7275pt x 552.0625
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4273, 2603.7275pt x 552.0625
 pt>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
@@ -7741,7 +7727,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
  []
 
 
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4273
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4274
 , 455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
@@ -7751,14 +7737,14 @@ Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
 kup_Red_RGB.png used on input line 36.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 
-<content/sponsors/bronze/Babelscape_colori.png, id=4274, 474.573pt x 94.1919pt>
+<content/sponsors/bronze/Babelscape_colori.png, id=4275, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
 input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
 
-<content/sponsors/bronze/HLTCOE-Logo.png, id=4275, 226.8475pt x 117.43875pt>
+<content/sponsors/bronze/HLTCOE-Logo.png, id=4276, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
@@ -7776,7 +7762,7 @@ in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=4276, 173.03503pt x 190.99928pt
+<content/sponsors/bronze/LegalForce_new.jpg, id=4277, 173.03503pt x 190.99928pt
 >
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
  <use content/sponsors/bronze/LegalForce_new.jpg>
@@ -7794,11 +7780,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [341 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
 erg-logo-2019.png> <./content/sponsors/diamond/Facebook-AI2020.png> <./content/
 sponsors/diamond/google.png> <./content/sponsors/platinum/amazon-logo.png> <./c
-ontent/sponsors/platinum/g-research.png> <./content/sponsors/platinum/megagon-l
-ogo-2019.png> <./content/sponsors/gold/grammarly.png> <./content/sponsors/gold/
-MSFT.jpg> <./content/sponsors/silver/Naver.jpg> <./content/sponsors/silver/Nave
-r_Labs_Europe.jpg>]
-<content/sponsors/supporter/ServiceNow.png, id=4288, 253.6677pt x 72.87225pt>
+ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-rese
+arch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponso
+rs/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/s
+ilver/Naver.jpg> <./content/sponsors/silver/Naver_Labs_Europe.jpg>]
+<content/sponsors/supporter/ServiceNow.png, id=4290, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
@@ -7811,7 +7797,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--46
  []
 
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=4289, 1003.75pt x 526.9
+<content/sponsors/diversityChampion/amazon-logo.png, id=4291, 1003.75pt x 526.9
 6875pt>
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
@@ -7820,7 +7806,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
 d on input line 49.
 (pdftex.def)             Requested size: 86.72377pt x 45.52748pt.
 
-<content/sponsors/diversityChampion/deepmind-logo.png, id=4290, 1066.98625pt x 
+<content/sponsors/diversityChampion/deepmind-logo.png, id=4292, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
@@ -7829,7 +7815,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
 sed on input line 50.
 (pdftex.def)             Requested size: 86.72377pt x 32.62914pt.
 
-<content/sponsors/diversityChampion/google.png, id=4291, 672.5125pt x 96.36pt>
+<content/sponsors/diversityChampion/google.png, id=4293, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
@@ -7837,7 +7823,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on
 input line 51.
 (pdftex.def)             Requested size: 86.72377pt x 12.42578pt.
 
-<content/sponsors/diversityChampion/MSFT.png, id=4292, 415.01584pt x 88.72752pt
+<content/sponsors/diversityChampion/MSFT.png, id=4294, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
@@ -7855,7 +7841,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--54
  []
 
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4293, 417.22887pt x 280.
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4295, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
@@ -7864,7 +7850,7 @@ Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
  on input line 57.
 (pdftex.def)             Requested size: 86.72377pt x 58.22829pt.
 
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4294, 714.7
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4296, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
@@ -7875,7 +7861,7 @@ _RGB.jpg used on input line 62.
 (pdftex.def)             Requested size: 72.26999pt x 48.10323pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-B.png, id=4295, 455.5419pt x 118.7637pt>
+B.png, id=4297, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
@@ -7919,10 +7905,10 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 ### simple group (level 1) entered at line 127 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27076 strings out of 493089
- 484080 string characters out of 6134842
- 1606995 words of memory out of 5000000
- 26992 multiletter control sequences out of 15000+600000
+ 27080 strings out of 493089
+ 484275 string characters out of 6134842
+ 1607050 words of memory out of 5000000
+ 26996 multiletter control sequences out of 15000+600000
  54953 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,19n,55p,2264b,1822s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -7947,10 +7933,10 @@ w/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times
 /utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (348 pages, 4509728 bytes).
+Output written on handbook.pdf (348 pages, 4521851 bytes).
 PDF statistics:
- 4464 PDF objects out of 5155 (max. 8388607)
+ 4466 PDF objects out of 5155 (max. 8388607)
  3964 compressed objects within 40 object streams
  408 named destinations out of 1000 (max. 500000)
- 648 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 653 words of extra memory for PDF output out of 10000 (max. 10000000)
 
