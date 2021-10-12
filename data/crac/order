@@ -1,16 +1,16 @@
 * Wednesday, November 10, 2021
 = Session 1: Opening Remarks and System Talks (Part 1)
-+ 9:00--9:30 Welcome and Task Overview
-+ 9:30--9:45 Neural Anaphora Resolution in Dialogue
-+ 9:45--10:00 Anaphora Resolution in Dialogue: Description of the DFKI-TalkingRobots System for the CODI-CRAC 2021 Shared-Task
-+ 10:00--10:30 Coffee Break
+= 9:00--9:30 Welcome and Task Overview
+= 9:30--9:45 Neural Anaphora Resolution in Dialogue
+= 9:45--10:00 Anaphora Resolution in Dialogue: Description of the DFKI-TalkingRobots System for the CODI-CRAC 2021 Shared-Task
+= 10:00--10:30 Coffee Break
 = Session 2: System Talks (Part 2), Cross-Team Analyses, and Discussion
-+ 10:30--10:45 The Pipeline Model for Resolution of Anaphoric Reference and Resolution of Entity Reference
-+ 10:45--11:00 An End-to-End Approach for Full Bridging Resolution
-+ 11:00--11:15 Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues
-+ 11:15--11:30 Anaphora Resolution in Dialogue: Cross-Team Analysis of the DFKI-TalkingRobots Team Submissions for the CODI-CRAC 2021 Shared-Task
-+ 11:30--11:45 The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis Resolution: A Cross-Team Analysis
-+ 11:45--12:00 Visioning Discussion and Next Steps
+= 10:30--10:45 The Pipeline Model for Resolution of Anaphoric Reference and Resolution of Entity Reference
+= 10:45--11:00 An End-to-End Approach for Full Bridging Resolution
+= 11:00--11:15 Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues
+= 11:15--11:30 Anaphora Resolution in Dialogue: Cross-Team Analysis of the DFKI-TalkingRobots Team Submissions for the CODI-CRAC 2021 Shared-Task
+= 11:30--11:45 The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis Resolution: A Cross-Team Analysis
+= 11:45--12:00 Visioning Discussion and Next Steps
 * Thursday, November 11, 2021
 + 9:00--9:05 Opening Remarks
 = Paper Session 1
@@ -25,9 +25,9 @@
 + 12:00--1:00 Lunch Break
 = Paper Session 2
 6 13:00--13:10  # Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools
-+ 13:10--13:20 Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation
-+ 13:20--13:30 Do UD Trees Match Mention Spans in Coreference Annotations?
-+ 13:30--13:40 End-to-end Neural Information Status Classification
+= 13:10--13:20 Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation
+= 13:20--13:30 Do UD Trees Match Mention Spans in Coreference Annotations?
+= 13:30--13:40 End-to-end Neural Information Status Classification
 7 13:40--13:50  # Resources and Evaluations for Danish Entity Resolution
 4 13:50--14:05  # CoreLM: Coreference-aware Language Model Fine-Tuning
 10 14:05--14:20  # Data Augmentation Methods for Anaphoric Zero Pronouns
