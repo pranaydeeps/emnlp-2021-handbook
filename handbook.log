@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2021 23:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2021 23:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -4811,20 +4811,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [249
 
 ]
-(./auto/abstracts/papers-3472.tex) [250] (./auto/abstracts/papers-110.tex))
-Runaway argument?
-{{}{}{papers-509} \paperabstract {\day }{}{}{}{papers-1811} \paperabstract \ETC
-.
-./content/day3/day3.tex:16: File ended while scanning use of \paperabstract.
-<inserted text> 
-                \par 
-l.16 ...uto/papers/Tuesday-parallel-session-9.tex}
-                                                  
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+(./auto/abstracts/papers-3472.tex) [250] (./auto/abstracts/papers-110.tex)
+(./auto/abstracts/papers-509.tex) (./auto/abstracts/papers-1811.tex)
+(./auto/abstracts/papers-2247.tex) (./auto/abstracts/papers-3649.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [251
+
+]
+(./auto/abstracts/papers-1438.tex) (./auto/abstracts/papers-1552.tex)
+(./auto/abstracts/papers-1571.tex) (./auto/abstracts/papers-2148.tex)
+(./auto/abstracts/papers-2849.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [252]
+(./auto/abstracts/papers-2923.tex) (./auto/abstracts/papers-3258.tex)
+(./auto/abstracts/papers-3405.tex) (./auto/abstracts/papers-3627.tex) [253])
 (./auto/papers/Tuesday-Virtual-Poster-Session-3.tex
 (./auto/abstracts/papers-380.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
@@ -4832,13 +4834,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
  []
 
 (./auto/abstracts/papers-2655.tex) (./auto/abstracts/papers-2721.tex)
-(./auto/abstracts/papers-2876.tex)
+(./auto/abstracts/papers-2876.tex) (./auto/abstracts/papers-185.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [251
+ [254
 
 ]
-(./auto/abstracts/papers-185.tex) (./auto/abstracts/papers-582.tex)
+(./auto/abstracts/papers-582.tex)
 ./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:11: Missing $ inserted.
 <inserted text> 
                 $
@@ -4857,34 +4859,33 @@ stencyinKnowledge \OMS/cmsy/m/n/8 ^^@
  []
 
 (./auto/abstracts/papers-684.tex) (./auto/abstracts/papers-2439.tex)
-(./auto/abstracts/papers-2642.tex)
+(./auto/abstracts/papers-2642.tex) (./auto/abstracts/papers-3860.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [252]
-(./auto/abstracts/papers-3860.tex) (./auto/abstracts/papers-4701.tex)
-(./auto/abstracts/papers-2821.tex) (./auto/abstracts/papers-069.tex)
+ [255]
+(./auto/abstracts/papers-4701.tex) (./auto/abstracts/papers-2821.tex)
+(./auto/abstracts/papers-069.tex)
 Overfull \hbox (3.47449pt too wide) in paragraph at lines 17--17
 \T1/ptm/m/n/7 Knowledge graph em-bed-ding, rep-re-sent-ing en-ti-ties and re-la
 -tions in the knowl-edge graphs with high-dimensional
  []
 
-(./auto/abstracts/papers-621.tex)
+(./auto/abstracts/papers-621.tex) (./auto/abstracts/papers-2906.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [253]
-(./auto/abstracts/papers-2906.tex) (./auto/abstracts/papers-431.tex)
-(./auto/abstracts/papers-258.tex) (./auto/abstracts/papers-715.tex)
-(./auto/abstracts/papers-931.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [254]
+ [256]
+(./auto/abstracts/papers-431.tex) (./auto/abstracts/papers-258.tex)
+(./auto/abstracts/papers-715.tex) (./auto/abstracts/papers-931.tex)
 (./auto/abstracts/papers-2089.tex) (./auto/abstracts/papers-2176.tex)
-(./auto/abstracts/papers-120.tex) (./auto/abstracts/papers-229.tex)
-(./auto/abstracts/papers-385.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [255]
-(./auto/abstracts/papers-1209.tex) (./auto/abstracts/papers-1326.tex)
+ [257]
+(./auto/abstracts/papers-120.tex) (./auto/abstracts/papers-229.tex)
+(./auto/abstracts/papers-385.tex) (./auto/abstracts/papers-1209.tex)
+(./auto/abstracts/papers-1326.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [258]
 (./auto/abstracts/papers-1411.tex
 ./auto/abstracts/papers-1411.tex:1: Undefined control sequence.
 l.1 ... prior results. For example, TTransE \citep
@@ -4896,44 +4897,46 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ) (./auto/abstracts/papers-166.tex) (./auto/abstracts/papers-277.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [256]
-(./auto/abstracts/papers-2598.tex) (./auto/abstracts/papers-2730.tex)
-(./auto/abstracts/papers-446.tex) (./auto/abstracts/papers-657.tex)
-(./auto/abstracts/papers-1243.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [257]
-(./auto/abstracts/papers-2727.tex) (./auto/abstracts/papers-2802.tex)
-(./auto/abstracts/papers-2986.tex) (./auto/abstracts/papers-3001.tex)
-(./auto/abstracts/papers-4738.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [258]
-(./auto/abstracts/papers-725.tex) (./auto/abstracts/papers-774.tex)
-(./auto/abstracts/papers-3401.tex) (./auto/abstracts/papers-234.tex)
+(./auto/abstracts/papers-2598.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [259]
-(./auto/abstracts/papers-889.tex) (./auto/abstracts/papers-1304.tex)
-(./auto/abstracts/papers-1414.tex) (./auto/abstracts/papers-2146.tex)
-(./auto/abstracts/papers-2710.tex) (./auto/abstracts/papers-3148.tex)
+(./auto/abstracts/papers-2730.tex) (./auto/abstracts/papers-446.tex)
+(./auto/abstracts/papers-657.tex) (./auto/abstracts/papers-1243.tex)
+(./auto/abstracts/papers-2727.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [260]
-(./auto/abstracts/papers-4460.tex) (./auto/abstracts/papers-2043.tex)
-(./auto/abstracts/papers-2136.tex) (./auto/abstracts/papers-2140.tex)
+(./auto/abstracts/papers-2802.tex) (./auto/abstracts/papers-2986.tex)
+(./auto/abstracts/papers-3001.tex) (./auto/abstracts/papers-4738.tex)
+(./auto/abstracts/papers-725.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [261]
-(./auto/abstracts/papers-2170.tex) (./auto/abstracts/papers-2363.tex)
-(./auto/abstracts/papers-2609.tex) (./auto/abstracts/papers-2775.tex)
-(./auto/abstracts/papers-2883.tex)
+(./auto/abstracts/papers-774.tex) (./auto/abstracts/papers-3401.tex)
+(./auto/abstracts/papers-234.tex) (./auto/abstracts/papers-889.tex)
+(./auto/abstracts/papers-1304.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [262]
-(./auto/abstracts/papers-3075.tex) (./auto/abstracts/papers-3308.tex)
+(./auto/abstracts/papers-1414.tex) (./auto/abstracts/papers-2146.tex)
+(./auto/abstracts/papers-2710.tex) (./auto/abstracts/papers-3148.tex)
+(./auto/abstracts/papers-4460.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [263]
+(./auto/abstracts/papers-2043.tex) (./auto/abstracts/papers-2136.tex)
+(./auto/abstracts/papers-2140.tex) (./auto/abstracts/papers-2170.tex)
+(./auto/abstracts/papers-2363.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [264]
+(./auto/abstracts/papers-2609.tex) (./auto/abstracts/papers-2775.tex)
+(./auto/abstracts/papers-2883.tex) (./auto/abstracts/papers-3075.tex)
+(./auto/abstracts/papers-3308.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [265]
 (./auto/abstracts/papers-3374.tex) (./auto/abstracts/papers-3451.tex)
 
 ./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:67: Package inputenc Error: 
@@ -4969,76 +4972,74 @@ Underfull \hbox (badness 1755) in paragraph at lines 68--68
 for Mul-ti-lin-gual
  []
 
-(./auto/abstracts/papers-4685.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [263]
-(./auto/abstracts/papers-4740.tex) (./auto/abstracts/papers-147.tex)
-(./auto/abstracts/papers-227.tex) (./auto/abstracts/papers-756.tex)
-(./auto/abstracts/papers-1377.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [264]
-(./auto/abstracts/papers-1430.tex) (./auto/abstracts/papers-1782.tex)
-(./auto/abstracts/papers-1978.tex) (./auto/abstracts/papers-2027.tex)
-(./auto/abstracts/papers-2172.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [265]
-(./auto/abstracts/papers-2193.tex) (./auto/abstracts/papers-2207.tex)
-(./auto/abstracts/papers-2728.tex) (./auto/abstracts/papers-2965.tex)
-(./auto/abstracts/papers-4530.tex)
+(./auto/abstracts/papers-4685.tex) (./auto/abstracts/papers-4740.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [266]
-(./auto/abstracts/papers-1253.tex) (./auto/abstracts/papers-905.tex)
-(./auto/abstracts/papers-2217.tex) (./auto/abstracts/papers-2575.tex)
-(./auto/abstracts/papers-3045.tex)
+(./auto/abstracts/papers-147.tex) (./auto/abstracts/papers-227.tex)
+(./auto/abstracts/papers-756.tex) (./auto/abstracts/papers-1377.tex)
+(./auto/abstracts/papers-1430.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [267]
-(./auto/abstracts/papers-3253.tex) (./auto/abstracts/papers-395.tex)
-(./auto/abstracts/papers-417.tex) (./auto/abstracts/papers-1126.tex)
-(./auto/abstracts/papers-1196.tex)
+(./auto/abstracts/papers-1782.tex) (./auto/abstracts/papers-1978.tex)
+(./auto/abstracts/papers-2027.tex) (./auto/abstracts/papers-2172.tex)
+(./auto/abstracts/papers-2193.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [268]
-(./auto/abstracts/papers-1836.tex) (./auto/abstracts/papers-2444.tex)
-(./auto/abstracts/papers-2995.tex) (./auto/abstracts/papers-4025.tex)
-(./auto/abstracts/papers-072.tex)
+(./auto/abstracts/papers-2207.tex) (./auto/abstracts/papers-2728.tex)
+(./auto/abstracts/papers-2965.tex) (./auto/abstracts/papers-4530.tex)
+(./auto/abstracts/papers-1253.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [269]
-(./auto/abstracts/papers-199.tex) (./auto/abstracts/papers-504.tex)
-(./auto/abstracts/papers-507.tex) (./auto/abstracts/papers-673.tex)
-(./auto/abstracts/papers-879.tex)
+(./auto/abstracts/papers-905.tex) (./auto/abstracts/papers-2217.tex)
+(./auto/abstracts/papers-2575.tex) (./auto/abstracts/papers-3045.tex)
+(./auto/abstracts/papers-3253.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [270]
+(./auto/abstracts/papers-395.tex) (./auto/abstracts/papers-417.tex)
+(./auto/abstracts/papers-1126.tex) (./auto/abstracts/papers-1196.tex)
+(./auto/abstracts/papers-1836.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [271]
+(./auto/abstracts/papers-2444.tex) (./auto/abstracts/papers-2995.tex)
+(./auto/abstracts/papers-4025.tex) (./auto/abstracts/papers-072.tex)
+(./auto/abstracts/papers-199.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [272]
+(./auto/abstracts/papers-504.tex) (./auto/abstracts/papers-507.tex)
+(./auto/abstracts/papers-673.tex) (./auto/abstracts/papers-879.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [273]
 (./auto/abstracts/papers-1322.tex) (./auto/abstracts/papers-1548.tex)
 (./auto/abstracts/papers-1608.tex) (./auto/abstracts/papers-2841.tex)
 (./auto/abstracts/papers-2985.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [271]
+ [274]
 (./auto/abstracts/papers-3706.tex) (./auto/abstracts/papers-4495.tex)
 (./auto/abstracts/papers-4635.tex) (./auto/abstracts/papers-354.tex)
-(./auto/abstracts/papers-416.tex)
+(./auto/abstracts/papers-416.tex) (./auto/abstracts/papers-591.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [272]
-(./auto/abstracts/papers-591.tex) (./auto/abstracts/papers-1449.tex)
-(./auto/abstracts/papers-2115.tex) (./auto/abstracts/papers-2143.tex)
-(./auto/abstracts/papers-2259.tex)
+ [275]
+(./auto/abstracts/papers-1449.tex) (./auto/abstracts/papers-2115.tex)
+(./auto/abstracts/papers-2143.tex) (./auto/abstracts/papers-2259.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [273]
+ [276]
 (./auto/abstracts/papers-2276.tex) (./auto/abstracts/papers-3187.tex)
 (./auto/abstracts/papers-4120.tex) (./auto/abstracts/papers-4127.tex)
 (./auto/abstracts/papers-4155.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [274]
+ [277]
 (./auto/abstracts/papers-151.tex) (./auto/abstracts/papers-152.tex)
 (./auto/abstracts/papers-160.tex)
 ./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:127: Missing $ inserted.
@@ -5067,23 +5068,25 @@ on \OMS/cmsy/m/n/8 ^^@ \OML/cmm/m/it/8 embeddedRepresentationReconstructionNetw
 orkforChangeCaptioning$ 
  []
 
-(./auto/abstracts/papers-171.tex)
+(./auto/abstracts/papers-171.tex) (./auto/abstracts/papers-723.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [275]
-(./auto/abstracts/papers-723.tex) (./auto/abstracts/papers-1768.tex)
-(./auto/abstracts/papers-2448.tex) (./auto/abstracts/papers-693.tex)
-(./auto/abstracts/papers-2245.tex)
+ [278]
+(./auto/abstracts/papers-1768.tex) (./auto/abstracts/papers-2448.tex)
+(./auto/abstracts/papers-693.tex) (./auto/abstracts/papers-2245.tex)
+(./auto/abstracts/papers-2959.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [276]
-(./auto/abstracts/papers-2959.tex) (./auto/abstracts/papers-2979.tex)
-(./auto/abstracts/papers-3484.tex) (./auto/abstracts/papers-4048.tex)
-(./auto/abstracts/papers-2396.tex) (./auto/abstracts/papers-2413.tex)
+ [279]
+(./auto/abstracts/papers-2979.tex) (./auto/abstracts/papers-3484.tex)
+(./auto/abstracts/papers-4048.tex) (./auto/abstracts/papers-2396.tex)
+(./auto/abstracts/papers-2413.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [277]))
-(./content/workshops/workshops.tex [278]
+ [280]))
+(./content/workshops/workshops.tex [281] [282
+
+]
 Chapter 7.
 
 Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
@@ -5092,14 +5095,12 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 
 (./content/workshops/overview.tex
 
-LaTeX Warning: Reference `WShopA' on page 279 undefined on input line 15.
+LaTeX Warning: Reference `WShopA' on page 283 undefined on input line 15.
 
 
-LaTeX Warning: Reference `WShopF' on page 279 undefined on input line 24.
+LaTeX Warning: Reference `WShopF' on page 283 undefined on input line 24.
 
-) [279
-
-] (./auto/conll/schedule.tex
+) [283] (./auto/conll/schedule.tex
 ./auto/conll/schedule.tex:8: You can't use `macro parameter character #' in hor
 izontal mode.
 l.8 ... dialogue, and grounded language learning #
@@ -5154,7 +5155,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[280
+[284
 
 
 ]
@@ -5179,7 +5180,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [281]
+ [285]
 ./auto/conll/schedule.tex:84: You can't use `macro parameter character #' in ho
 rizontal mode.
 l.84 \item[1:20--2:20] {\bfseries  Lunch break #
@@ -5234,9 +5235,9 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [282] (./auto/argmining/schedule.tex [283
+) [286] (./auto/argmining/schedule.tex [287
 
-]) [284] (./auto/codi/schedule.tex
+]) [288] (./auto/codi/schedule.tex
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 []\T1/ptm/m/n/7 Neural Anaphora Res-o-lu-tion in Di-a-logues
  []
@@ -5247,7 +5248,7 @@ Overfull \hbox (15.83023pt too wide) in paragraph at lines 31--32
 na Kruijff-Korbayova) 
  []
 
-[285
+[289
 
 ]
 
@@ -5267,10 +5268,10 @@ or  <return>  to continue without it.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [286])
-[287] (./auto/nlp4convai/schedule.tex [288
+ [290])
+[291] (./auto/nlp4convai/schedule.tex [292
 
-]) [289]
+]) [293]
 (./auto/eval4nlp/schedule.tex
 ./auto/eval4nlp/schedule.tex:53: Misplaced alignment tab character &.
 l.53 ...:00--5:45] {\bfseries  Award Announcment &
@@ -5282,9 +5283,9 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[290
+[294
 
-]) [291] (./auto/ci+nlp/schedule.tex
+]) [295] (./auto/ci+nlp/schedule.tex
 ./auto/ci+nlp/schedule.tex:3: You can't use `macro parameter character #' in ho
 rizontal mode.
 l.3 ...m[9:00--9:10] {\bfseries  Opening Remarks #
@@ -5294,9 +5295,9 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [292
+) [296
 
-] (./auto/insights/schedule.tex) [293
+] (./auto/insights/schedule.tex) [297
 
 ] (./auto/mrqa/schedule.tex
 Overfull \hbox (1.01765pt too wide) in paragraph at lines 51--52
@@ -5304,7 +5305,7 @@ Overfull \hbox (1.01765pt too wide) in paragraph at lines 51--52
  (Re-vanth Gangi Reddy,
  []
 
-[294
+[298
 
 ]
 Overfull \hbox (16.39642pt too wide) in paragraph at lines 60--61
@@ -5327,11 +5328,11 @@ Overfull \hbox (15.8994pt too wide) in paragraph at lines 117--118
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [295])
-[296] (./auto/nllp/schedule.tex [297
+ [299])
+[300] (./auto/nllp/schedule.tex [301
 
-]) [298] (./auto/sustainlp/schedule.tex)
-[299
+]) [302] (./auto/sustainlp/schedule.tex)
+[303
 
 ] (./auto/fever/schedule.tex
 ./auto/fever/schedule.tex:14: Misplaced alignment tab character &.
@@ -5383,7 +5384,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[300
+[304
 
 ]
 ./auto/fever/schedule.tex:67: Misplaced alignment tab character &.
@@ -5396,7 +5397,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [301] (./auto/newsum/schedule.tex
+) [305] (./auto/newsum/schedule.tex
 ./auto/newsum/schedule.tex:3: You can't use `macro parameter character #' in ho
 rizontal mode.
 l.3 ...:00--10:30] {\bfseries  Morning Session I #
@@ -5451,9 +5452,9 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[302
+[306
 
-]) [303] (./auto/econlp/schedule.tex
+]) [307] (./auto/econlp/schedule.tex
 ./auto/econlp/schedule.tex:4: Misplaced alignment tab character &.
 l.4 ...ng remarks and status report on economics &
                                                    NLP (Udo Hahn)}
@@ -5464,7 +5465,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [304
+) [308
 
 ]
 ./content/workshops/workshops.tex:158: Misplaced alignment tab character &.
@@ -5529,7 +5530,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[305
+[309
 
 ]
 ./auto/lawdmr/schedule.tex:47: You can't use `macro parameter character #' in h
@@ -5541,10 +5542,10 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [306] (./auto/w-nut/schedule.tex [307
+) [310] (./auto/w-nut/schedule.tex [311
 
-]) [308]
-(./auto/latech-clfl/schedule.tex) [309
+]) [312]
+(./auto/latech-clfl/schedule.tex) [313
 
 ] (./auto/mrl/schedule.tex
 
@@ -5561,9 +5562,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[310
+[314
 
-]) [311] (./auto/winlp/schedule.tex
+]) [315] (./auto/winlp/schedule.tex
 
 ./auto/winlp/schedule.tex:32: Package inputenc Error: Unicode char \u8:� not 
 set up for use with LaTeX.
@@ -5578,7 +5579,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[312
+[316
 
 ]
 ./auto/winlp/schedule.tex:85: Misplaced alignment tab character &.
@@ -5591,18 +5592,18 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [313] (./auto/eancs/schedule.tex) [314
+) [317] (./auto/eancs/schedule.tex) [318
 
-] (./auto/crac/schedule.tex [315
+] (./auto/crac/schedule.tex [319
 
 ])
-[316] (./auto/blackbox/schedule.tex [317
+[320] (./auto/blackbox/schedule.tex [321
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [318])
-[319] [320
+ [322])
+[323] [324
 
 
 ]) (./content/anti-harassment-policy.tex
@@ -5612,17 +5613,17 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-) [321
+) [325
 
-] [322
+] [326
 
-] (./handbook.ind [323
+] (./handbook.ind [327
 
-] [324] [325] [326] [327] [328] [329]
-[330] [331] [332] [333] [334] [335] [336] [337
+] [328] [329] [330] [331] [332] [333]
+[334] [335] [336] [337] [338] [339] [340] [341
 
 ])
-(./content/local-guide/local-guide.tex [338
+(./content/local-guide/local-guide.tex [342
 
 
 ]
@@ -5632,7 +5633,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4130, 614.295pt x 794.97pt>
+<content/local-guide/EMNLP-localGuide.pdf, id=4146, 614.295pt x 794.97pt>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf>
@@ -5646,7 +5647,7 @@ Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf used on input
  line 6.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4133, page=1, 614.295pt x 794.97p
+<content/local-guide/EMNLP-localGuide.pdf, id=4149, page=1, 614.295pt x 794.97p
 t>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
  <use content/local-guide/EMNLP-localGuide.pdf, page 1>
@@ -5671,15 +5672,15 @@ File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [339]
+ [343]
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf, page 1>
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [340 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
-<content/ads/silver/Naver-EMNLP2021.pdf, id=4175, 597.23125pt x 845.1575pt>
+ [344 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
+<content/ads/silver/Naver-EMNLP2021.pdf, id=4192, 597.23125pt x 845.1575pt>
 File: content/ads/silver/Naver-EMNLP2021.pdf Graphic file (type pdf)
 
 <use content/ads/silver/Naver-EMNLP2021.pdf>
@@ -5692,7 +5693,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./content/ads/silver/duoling
 o-emnlp21-quarter-ad.pdf): PDF inclusion: found PDF version <1.7>, but at most 
 version <1.5> allowed
 
-<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4176, 190.311pt x 325.2
+<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4193, 190.311pt x 325.2
 15pt>
 File: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf Graphic file (type pdf
 )
@@ -5701,10 +5702,10 @@ Package pdftex.def Info: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf use
 d on input line 12.
 (pdftex.def)             Requested size: 289.07999pt x 494.06892pt.
 
-<content/ads/silver/emnlp_ad.pdf, id=4177, 325.215pt x 144.54pt>
+<content/ads/silver/emnlp_ad.pdf, id=4194, 325.215pt x 144.54pt>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [341
+ [345
 
 
  <./content/ads/silver/Naver-EMNLP2021.pdf>]
@@ -5716,13 +5717,13 @@ Package pdftex.def Info: content/ads/silver/emnlp_ad.pdf used on input line 14.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [342 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
+ [346 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
 Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
 (./content/sponsors/sponsors.tex
-<content/sponsors/diamond/apple.png, id=4219, 150.5625pt x 150.5625pt>
+<content/sponsors/diamond/apple.png, id=4236, 150.5625pt x 150.5625pt>
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 
 <use content/sponsors/diamond/apple.png>
@@ -5730,7 +5731,7 @@ Package pdftex.def Info: content/sponsors/diamond/apple.png used on input line
 6.
 (pdftex.def)             Requested size: 36.135pt x 36.13573pt.
 
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4221, 220.825pt x 132.495
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4238, 220.825pt x 132.495
 pt>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
  <use content/sponsors/diamond/Bloomberg-logo-2019.png>
@@ -5738,14 +5739,14 @@ Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png used
 on input line 7.
 (pdftex.def)             Requested size: 36.135pt x 21.68079pt.
 
-<content/sponsors/diamond/Facebook-AI2020.png, id=4222, 2342.7525pt x 529.98pt>
+<content/sponsors/diamond/Facebook-AI2020.png, id=4239, 2342.7525pt x 529.98pt>
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
 (pdftex.def)             Requested size: 72.26999pt x 16.34348pt.
 
-<content/sponsors/diamond/google.png, id=4223, 672.5125pt x 96.36pt>
+<content/sponsors/diamond/google.png, id=4240, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
 
 <use content/sponsors/diamond/google.png>
@@ -5767,7 +5768,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/amazon-logo.png, id=4224, 1003.75pt x 526.96875pt>
+<content/sponsors/platinum/amazon-logo.png, id=4241, 1003.75pt x 526.96875pt>
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/amazon-logo.png>
@@ -5775,7 +5776,7 @@ Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
 
-<content/sponsors/platinum/deepmind-logo.png, id=4225, 1066.98625pt x 401.5pt>
+<content/sponsors/platinum/deepmind-logo.png, id=4242, 1066.98625pt x 401.5pt>
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/deepmind-logo.png>
@@ -5783,7 +5784,7 @@ Package pdftex.def Info: content/sponsors/platinum/deepmind-logo.png used on in
 put line 15.
 (pdftex.def)             Requested size: 72.26999pt x 27.1889pt.
 
-<content/sponsors/platinum/bytedance.png, id=4226, 361.35pt x 65.24374pt>
+<content/sponsors/platinum/bytedance.png, id=4243, 361.35pt x 65.24374pt>
 File: content/sponsors/platinum/bytedance.png Graphic file (type png)
 
 <use content/sponsors/platinum/bytedance.png>
@@ -5801,7 +5802,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/g-research.png, id=4227, 451.6875pt x 451.6875pt>
+<content/sponsors/platinum/g-research.png, id=4244, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
@@ -5809,7 +5810,7 @@ Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
 
-<content/sponsors/platinum/Baidu.png, id=4228, 339.669pt x 134.904pt>
+<content/sponsors/platinum/Baidu.png, id=4245, 339.669pt x 134.904pt>
 File: content/sponsors/platinum/Baidu.png Graphic file (type png)
 
 <use content/sponsors/platinum/Baidu.png>
@@ -5817,7 +5818,7 @@ Package pdftex.def Info: content/sponsors/platinum/Baidu.png used on input line
  18.
 (pdftex.def)             Requested size: 72.26999pt x 28.70325pt.
 
-<content/sponsors/platinum/megagon-logo-2019.png, id=4229, 240.9pt x 240.9pt>
+<content/sponsors/platinum/megagon-logo-2019.png, id=4246, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
@@ -5829,7 +5830,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--21
 
  []
 
-<content/sponsors/gold/grammarly.png, id=4230, 1028.84375pt x 240.9pt>
+<content/sponsors/gold/grammarly.png, id=4247, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
@@ -5837,7 +5838,7 @@ Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
  24.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
 
-<content/sponsors/gold/MSFT.jpg, id=4231, 582.175pt x 124.465pt>
+<content/sponsors/gold/MSFT.jpg, id=4248, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
@@ -5861,7 +5862,7 @@ l.30 ...1in]{content/sponsors/silver/duolingo.svg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<content/sponsors/silver/Naver.jpg, id=4232, 301.125pt x 301.125pt>
+<content/sponsors/silver/Naver.jpg, id=4249, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
@@ -5869,7 +5870,7 @@ Package pdftex.def Info: content/sponsors/silver/Naver.jpg used on input line 3
 1.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4233, 2603.7275pt x 552.0625
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4250, 2603.7275pt x 552.0625
 pt>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
@@ -5881,8 +5882,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--34
 
  []
 
-[343 <./content/ads/silver/emnlp_ad.pdf>]
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4259
+[347 <./content/ads/silver/emnlp_ad.pdf>]
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4275
 , 455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
@@ -5892,14 +5893,14 @@ Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
 kup_Red_RGB.png used on input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 
-<content/sponsors/bronze/Babelscape_colori.png, id=4260, 474.573pt x 94.1919pt>
+<content/sponsors/bronze/Babelscape_colori.png, id=4276, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
 input line 38.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
 
-<content/sponsors/bronze/HLTCOE-Logo.png, id=4261, 226.8475pt x 117.43875pt>
+<content/sponsors/bronze/HLTCOE-Logo.png, id=4277, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
@@ -5918,7 +5919,7 @@ in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=4262, 173.03503pt x 190.99928pt
+<content/sponsors/bronze/LegalForce_new.jpg, id=4278, 173.03503pt x 190.99928pt
 >
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
  <use content/sponsors/bronze/LegalForce_new.jpg>
@@ -5933,7 +5934,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--42
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [344 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
+ [348 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
 erg-logo-2019.png> <./content/sponsors/diamond/Facebook-AI2020.png> <./content/
 sponsors/diamond/google.png> <./content/sponsors/platinum/amazon-logo.png> <./c
 ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/byteda
@@ -5941,7 +5942,7 @@ nce.png> <./content/sponsors/platinum/g-research.png> <./content/sponsors/plati
 num/Baidu.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/s
 ponsors/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/spons
 ors/silver/Naver.jpg> <./content/sponsors/silver/Naver_Labs_Europe.jpg>]
-<content/sponsors/supporter/ServiceNow.png, id=4277, 253.6677pt x 72.87225pt>
+<content/sponsors/supporter/ServiceNow.png, id=4293, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
@@ -5954,7 +5955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--47
  []
 
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=4278, 1003.75pt x 526.9
+<content/sponsors/diversityChampion/amazon-logo.png, id=4294, 1003.75pt x 526.9
 6875pt>
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
@@ -5963,7 +5964,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
 d on input line 50.
 (pdftex.def)             Requested size: 86.72377pt x 45.52748pt.
 
-<content/sponsors/diversityChampion/deepmind-logo.png, id=4279, 1066.98625pt x 
+<content/sponsors/diversityChampion/deepmind-logo.png, id=4295, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
@@ -5972,7 +5973,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
 sed on input line 51.
 (pdftex.def)             Requested size: 86.72377pt x 32.62914pt.
 
-<content/sponsors/diversityChampion/google.png, id=4280, 672.5125pt x 96.36pt>
+<content/sponsors/diversityChampion/google.png, id=4296, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
@@ -5980,7 +5981,7 @@ Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on
 input line 52.
 (pdftex.def)             Requested size: 86.72377pt x 12.42578pt.
 
-<content/sponsors/diversityChampion/MSFT.png, id=4281, 415.01584pt x 88.72752pt
+<content/sponsors/diversityChampion/MSFT.png, id=4297, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
@@ -5998,7 +5999,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--55
  []
 
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4282, 417.22887pt x 280.
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4298, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
@@ -6007,7 +6008,7 @@ Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
  on input line 58.
 (pdftex.def)             Requested size: 86.72377pt x 58.22829pt.
 
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4283, 714.7
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4299, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
@@ -6018,7 +6019,7 @@ _RGB.jpg used on input line 63.
 (pdftex.def)             Requested size: 72.26999pt x 48.10323pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-B.png, id=4284, 455.5419pt x 118.7637pt>
+B.png, id=4300, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
@@ -6033,7 +6034,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--232
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
-[345 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
+[349 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
 <./content/sponsors/bronze/Babelscape_colori.png> <./content/sponsors/bronze/HL
 TCOE-Logo.png> <./content/sponsors/bronze/LegalForce_new.jpg> <./content/sponso
 rs/supporter/ServiceNow.png> <./content/sponsors/diversityChampion/amazon-logo.
@@ -6052,6 +6053,9 @@ Package rerunfilecheck Info: File `handbook.out' has not changed.
 
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -6073,10 +6077,10 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 ### simple group (level 1) entered at line 1 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27048 strings out of 493089
- 483474 string characters out of 6134842
- 1606426 words of memory out of 5000000
- 27005 multiletter control sequences out of 15000+600000
+ 27104 strings out of 493089
+ 484620 string characters out of 6134842
+ 1607201 words of memory out of 5000000
+ 27018 multiletter control sequences out of 15000+600000
  54953 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,19n,55p,2264b,1822s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -6100,10 +6104,10 @@ urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/tim
 es/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (351 pages, 4510459 bytes).
+Output written on handbook.pdf (355 pages, 4523466 bytes).
 PDF statistics:
- 4452 PDF objects out of 5155 (max. 8388607)
- 3944 compressed objects within 40 object streams
- 417 named destinations out of 1000 (max. 500000)
+ 4470 PDF objects out of 5155 (max. 8388607)
+ 3958 compressed objects within 40 object streams
+ 421 named destinations out of 1000 (max. 500000)
  711 words of extra memory for PDF output out of 10000 (max. 10000000)
 
