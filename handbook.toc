@@ -38,13 +38,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Session 1}{35}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 2}{53}{section.4.3}
+\contentsline {section}{Poster session 1}{49}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 3}{67}{section.4.4}
+\contentsline {section}{Session 2}{53}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 4}{86}{section.4.5}
+\contentsline {section}{Session 3}{67}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Virtual Poster Session I}{99}{section.4.6}
+\contentsline {section}{Poster session 2}{81}{section.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 4}{86}{section.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Virtual Poster Session I}{99}{section.4.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Main Conference: Monday, November 8\xspace }{141}{chapter.5}
 \defcounter {refsection}{0}\relax 
@@ -52,13 +56,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Session 5}{143}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 6}{161}{section.5.3}
+\contentsline {section}{Poster session 3}{157}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 7}{178}{section.5.4}
+\contentsline {section}{Session 6}{161}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Virtual Poster Session 2}{192}{section.5.5}
+\contentsline {section}{Poster session 4}{175}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Social Event}{218}{section.5.6}
+\contentsline {section}{Session 7}{178}{section.5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Virtual Poster Session 2}{192}{section.5.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Social Event}{218}{section.5.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Main Conference: Tuesday, November 9\xspace }{219}{chapter.6}
 \defcounter {refsection}{0}\relax 
@@ -66,9 +74,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Session 8}{221}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 9}{239}{section.6.3}
+\contentsline {section}{Poster session 5}{235}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Virtual Poster Session 3}{251}{section.6.4}
+\contentsline {section}{Session 9}{239}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Poster session 6}{251}{section.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Virtual Poster Session 3}{251}{section.6.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Workshops: Thursday--Friday, November 10--11\xspace }{279}{chapter.7}
 \defcounter {refsection}{0}\relax 

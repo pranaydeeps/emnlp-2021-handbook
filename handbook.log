@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2021 14:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2021 23:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1569,7 +1569,7 @@ Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 95.
 
-<content/fmatter/cover.pdf, id=240, 597.23125pt x 844.15375pt>
+<content/fmatter/cover.pdf, id=264, 597.23125pt x 844.15375pt>
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 
 <use content/fmatter/cover.pdf>
@@ -1580,7 +1580,7 @@ File: content/fmatter/cover.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/fmatter/cover.pdf used on input line 102.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
 
-<content/fmatter/cover.pdf, id=243, page=1, 597.23125pt x 844.15375pt>
+<content/fmatter/cover.pdf, id=267, page=1, 597.23125pt x 844.15375pt>
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 
 <use content/fmatter/cover.pdf, page 1>
@@ -1628,7 +1628,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
 
-<content/2021-EMNLP-Bavaro-Floorplan.pdf, id=270, 1927.2pt x 1084.05pt>
+<content/2021-EMNLP-Bavaro-Floorplan.pdf, id=294, 1927.2pt x 1084.05pt>
 File: content/2021-EMNLP-Bavaro-Floorplan.pdf Graphic file (type pdf)
 
 <use content/2021-EMNLP-Bavaro-Floorplan.pdf>
@@ -1663,10 +1663,10 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 
 
 ]
-./handbook.toc:101: Misplaced alignment tab character &.
+./handbook.toc:113: Misplaced alignment tab character &.
 <argument> ...MR: The 15th Linguistic Annotation &
                                                    3rd Designing Meaning Rep...
-l.101 ...ations Joint Workshop}{305}{section.7.14}
+l.113 ...ations Joint Workshop}{305}{section.7.14}
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1832,12 +1832,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--246
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Underfull \hbox (badness 10000) in paragraph at lines 247--267
+Underfull \hbox (badness 10000) in paragraph at lines 247--266
 
  []
 
-./content/fmatter/committee.tex:274: Misplaced alignment tab character &.
-l.274 ...e*{0.2in} Steven Bedrick, Oregon Health &
+./content/fmatter/committee.tex:273: Misplaced alignment tab character &.
+l.273 ...e*{0.2in} Steven Bedrick, Oregon Health &
                                                    Science University\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1847,7 +1847,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--297
+Underfull \hbox (badness 10000) in paragraph at lines 267--296
 
  []
 
@@ -1855,22 +1855,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--297
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-Underfull \hbox (badness 10000) in paragraph at lines 298--305
+Underfull \hbox (badness 10000) in paragraph at lines 297--303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--322
+Underfull \hbox (badness 10000) in paragraph at lines 304--320
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--333
+Underfull \hbox (badness 10000) in paragraph at lines 321--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--353
+Underfull \hbox (badness 10000) in paragraph at lines 332--350
 
  []
 
@@ -1878,33 +1878,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 334--353
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-Underfull \hbox (badness 10000) in paragraph at lines 354--369
+Underfull \hbox (badness 10000) in paragraph at lines 351--366
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 370--383
+Underfull \hbox (badness 10000) in paragraph at lines 367--380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--396
+Underfull \hbox (badness 10000) in paragraph at lines 381--393
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--404
+Underfull \hbox (badness 10000) in paragraph at lines 394--400
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 401--150
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13])
-Underfull \hbox (badness 10000) in paragraph at lines 405--150
-
- []
-
+ [13]
 [14] (./content/tutorials/welcome_reception.tex)
 (./content/tutorials/tutorials-overview-1.tex [15
 
@@ -2579,15 +2580,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 (./auto/abstracts/papers-1933.tex) (./auto/abstracts/papers-4382.tex)
 (./auto/abstracts/papers-1526.tex) (./auto/abstracts/papers-3023.tex)
-(./auto/abstracts/papers-3426.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [50]
-(./auto/abstracts/papers-1439.tex) (./auto/abstracts/papers-2383.tex
+(./auto/abstracts/papers-3426.tex) (./auto/abstracts/papers-1439.tex)
+(./auto/abstracts/papers-2383.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
-)
-(./auto/abstracts/papers-1807.tex) (./auto/abstracts/papers-3894.tex)
+) (./auto/abstracts/papers-1807.tex)
+(./auto/abstracts/papers-3894.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51]
@@ -2840,19 +2841,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-3013.tex) (./auto/abstracts/papers-2835.tex) [80]
 (./auto/abstracts/papers-703.tex) (./auto/abstracts/papers-908.tex)
 (./auto/abstracts/papers-1402.tex) (./auto/abstracts/papers-2109.tex)
-(./auto/abstracts/papers-2440.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [81
 
 ]
-(./auto/abstracts/papers-2936.tex) (./auto/abstracts/papers-3276.tex)
-(./auto/abstracts/papers-4452.tex) (./auto/abstracts/papers-4606.tex)
+(./auto/abstracts/papers-2440.tex) (./auto/abstracts/papers-2936.tex)
+(./auto/abstracts/papers-3276.tex) (./auto/abstracts/papers-4452.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [82]
-(./auto/abstracts/papers-096.tex) (./auto/abstracts/papers-485.tex)
-(./auto/abstracts/papers-1067.tex) (./auto/abstracts/papers-1496.tex)
+(./auto/abstracts/papers-4606.tex) (./auto/abstracts/papers-096.tex)
+(./auto/abstracts/papers-485.tex) (./auto/abstracts/papers-1067.tex)
+(./auto/abstracts/papers-1496.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [83]
@@ -3855,21 +3856,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-2703.tex) (./auto/abstracts/papers-3252.tex) [156]
 (./auto/abstracts/papers-1181.tex) (./auto/abstracts/papers-2603.tex)
 (./auto/abstracts/papers-3311.tex)
-Underfull \hbox (badness 5446) in paragraph at lines 110--110
+Underfull \hbox (badness 5446) in paragraph at lines 111--111
 []\T1/ptm/b/n/8 Extracting Fine-Grained Knowl-edge Graphs of Sci-en-tific Claim
 s: Dataset and
  []
 
 (./auto/abstracts/papers-3768.tex) (./auto/abstracts/papers-3916.tex)
-(./auto/abstracts/papers-4493.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [157
 
 ]
-(./auto/abstracts/papers-1426.tex) (./auto/abstracts/papers-1989.tex)
-(./auto/abstracts/papers-2525.tex) (./auto/abstracts/papers-2639.tex)
-(./auto/abstracts/papers-4173.tex)
+(./auto/abstracts/papers-4493.tex) (./auto/abstracts/papers-1426.tex)
+(./auto/abstracts/papers-1989.tex) (./auto/abstracts/papers-2525.tex)
+(./auto/abstracts/papers-2639.tex) (./auto/abstracts/papers-4173.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [158]
@@ -4076,15 +4076,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 [174] (./auto/abstracts/papers-789.tex) (./auto/abstracts/papers-1470.tex)
 (./auto/abstracts/papers-071.tex) (./auto/abstracts/papers-1694.tex)
-(./auto/abstracts/papers-2050.tex) (./auto/abstracts/papers-2110.tex)
+(./auto/abstracts/papers-2050.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [175
 
 ]
-(./auto/abstracts/papers-3669.tex) (./auto/abstracts/papers-4163.tex)
-(./auto/abstracts/papers-4205.tex) (./auto/abstracts/papers-059.tex)
-(./auto/abstracts/papers-467.tex)
+(./auto/abstracts/papers-2110.tex) (./auto/abstracts/papers-3669.tex)
+(./auto/abstracts/papers-4163.tex) (./auto/abstracts/papers-4205.tex)
+(./auto/abstracts/papers-059.tex) (./auto/abstracts/papers-467.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [176]
@@ -4720,11 +4720,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [236]
 (./auto/abstracts/papers-791.tex) (./auto/abstracts/papers-3241.tex)
 (./auto/abstracts/papers-662.tex) (./auto/abstracts/papers-3947.tex)
-(./auto/abstracts/papers-2438.tex) (./auto/abstracts/papers-4462.tex)
+(./auto/abstracts/papers-2438.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [237]
-[238]) (./auto/papers/Tuesday-parallel-session-9.tex
+(./auto/abstracts/papers-4462.tex) [238])
+(./auto/papers/Tuesday-parallel-session-9.tex
 Package marginnote Info: Margin note 245.1 is on absolute page 245
 (marginnote)              on input line 11.
 Package marginnote Info: xpos seems to be 62.00475pt,
@@ -5236,6 +5237,11 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ) [282] (./auto/argmining/schedule.tex [283
 
 ]) [284] (./auto/codi/schedule.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+[]\T1/ptm/m/n/7 Neural Anaphora Res-o-lu-tion in Di-a-logues
+ []
+
+
 Overfull \hbox (15.83023pt too wide) in paragraph at lines 31--32
 \T1/ptm/b/n/7 net Oguz, Ta-tiana Anikina, Siyu Tao, Sharmila Upad-hyaya and Iva
 na Kruijff-Korbayova) 
@@ -5626,7 +5632,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4100, 614.295pt x 794.97pt>
+<content/local-guide/EMNLP-localGuide.pdf, id=4130, 614.295pt x 794.97pt>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf>
@@ -5640,7 +5646,7 @@ Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf used on input
  line 6.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4103, page=1, 614.295pt x 794.97p
+<content/local-guide/EMNLP-localGuide.pdf, id=4133, page=1, 614.295pt x 794.97p
 t>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
  <use content/local-guide/EMNLP-localGuide.pdf, page 1>
@@ -5673,7 +5679,7 @@ Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
  [340 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
-<content/ads/silver/Naver-EMNLP2021.pdf, id=4144, 597.23125pt x 845.1575pt>
+<content/ads/silver/Naver-EMNLP2021.pdf, id=4175, 597.23125pt x 845.1575pt>
 File: content/ads/silver/Naver-EMNLP2021.pdf Graphic file (type pdf)
 
 <use content/ads/silver/Naver-EMNLP2021.pdf>
@@ -5686,7 +5692,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./content/ads/silver/duoling
 o-emnlp21-quarter-ad.pdf): PDF inclusion: found PDF version <1.7>, but at most 
 version <1.5> allowed
 
-<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4145, 190.311pt x 325.2
+<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4176, 190.311pt x 325.2
 15pt>
 File: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf Graphic file (type pdf
 )
@@ -5695,7 +5701,7 @@ Package pdftex.def Info: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf use
 d on input line 12.
 (pdftex.def)             Requested size: 289.07999pt x 494.06892pt.
 
-<content/ads/silver/emnlp_ad.pdf, id=4146, 325.215pt x 144.54pt>
+<content/ads/silver/emnlp_ad.pdf, id=4177, 325.215pt x 144.54pt>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [341
@@ -5716,7 +5722,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--230
  []
 
 (./content/sponsors/sponsors.tex
-<content/sponsors/diamond/apple.png, id=4189, 150.5625pt x 150.5625pt>
+<content/sponsors/diamond/apple.png, id=4219, 150.5625pt x 150.5625pt>
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 
 <use content/sponsors/diamond/apple.png>
@@ -5724,7 +5730,7 @@ Package pdftex.def Info: content/sponsors/diamond/apple.png used on input line
 6.
 (pdftex.def)             Requested size: 36.135pt x 36.13573pt.
 
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4191, 220.825pt x 132.495
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4221, 220.825pt x 132.495
 pt>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
  <use content/sponsors/diamond/Bloomberg-logo-2019.png>
@@ -5732,14 +5738,14 @@ Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png used
 on input line 7.
 (pdftex.def)             Requested size: 36.135pt x 21.68079pt.
 
-<content/sponsors/diamond/Facebook-AI2020.png, id=4192, 2342.7525pt x 529.98pt>
+<content/sponsors/diamond/Facebook-AI2020.png, id=4222, 2342.7525pt x 529.98pt>
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
 (pdftex.def)             Requested size: 72.26999pt x 16.34348pt.
 
-<content/sponsors/diamond/google.png, id=4193, 672.5125pt x 96.36pt>
+<content/sponsors/diamond/google.png, id=4223, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
 
 <use content/sponsors/diamond/google.png>
@@ -5761,7 +5767,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/amazon-logo.png, id=4194, 1003.75pt x 526.96875pt>
+<content/sponsors/platinum/amazon-logo.png, id=4224, 1003.75pt x 526.96875pt>
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/amazon-logo.png>
@@ -5769,7 +5775,7 @@ Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
 
-<content/sponsors/platinum/deepmind-logo.png, id=4195, 1066.98625pt x 401.5pt>
+<content/sponsors/platinum/deepmind-logo.png, id=4225, 1066.98625pt x 401.5pt>
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/deepmind-logo.png>
@@ -5777,18 +5783,13 @@ Package pdftex.def Info: content/sponsors/platinum/deepmind-logo.png used on in
 put line 15.
 (pdftex.def)             Requested size: 72.26999pt x 27.1889pt.
 
+<content/sponsors/platinum/bytedance.png, id=4226, 361.35pt x 65.24374pt>
+File: content/sponsors/platinum/bytedance.png Graphic file (type png)
 
-./content/sponsors/sponsors.tex:16: LaTeX Error: Unknown graphics extension: .s
-vg.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 ...ontent/sponsors/platinum/ByteDance_EN.svg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<use content/sponsors/platinum/bytedance.png>
+Package pdftex.def Info: content/sponsors/platinum/bytedance.png used on input 
+line 16.
+(pdftex.def)             Requested size: 72.26999pt x 13.04851pt.
 
 ./content/sponsors/sponsors.tex:17: Extra alignment tab has been changed to \cr
 .
@@ -5800,7 +5801,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/g-research.png, id=4196, 451.6875pt x 451.6875pt>
+<content/sponsors/platinum/g-research.png, id=4227, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
@@ -5808,116 +5809,124 @@ Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
 
-<content/sponsors/platinum/megagon-logo-2019.png, id=4197, 240.9pt x 240.9pt>
+<content/sponsors/platinum/Baidu.png, id=4228, 339.669pt x 134.904pt>
+File: content/sponsors/platinum/Baidu.png Graphic file (type png)
+
+<use content/sponsors/platinum/Baidu.png>
+Package pdftex.def Info: content/sponsors/platinum/Baidu.png used on input line
+ 18.
+(pdftex.def)             Requested size: 72.26999pt x 28.70325pt.
+
+<content/sponsors/platinum/megagon-logo-2019.png, id=4229, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
 Package pdftex.def Info: content/sponsors/platinum/megagon-logo-2019.png used o
-n input line 18.
+n input line 19.
 (pdftex.def)             Requested size: 72.26999pt x 72.26688pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--20
+Underfull \hbox (badness 10000) in paragraph at lines 12--21
 
  []
 
-<content/sponsors/gold/grammarly.png, id=4198, 1028.84375pt x 240.9pt>
+<content/sponsors/gold/grammarly.png, id=4230, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
 Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
- 23.
+ 24.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
 
-<content/sponsors/gold/MSFT.jpg, id=4199, 582.175pt x 124.465pt>
+<content/sponsors/gold/MSFT.jpg, id=4231, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
-Package pdftex.def Info: content/sponsors/gold/MSFT.jpg used on input line 24.
+Package pdftex.def Info: content/sponsors/gold/MSFT.jpg used on input line 25.
 (pdftex.def)             Requested size: 72.26999pt x 15.44983pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
+Underfull \hbox (badness 10000) in paragraph at lines 22--27
 
  []
 
 
-./content/sponsors/sponsors.tex:29: LaTeX Error: Unknown graphics extension: .s
+./content/sponsors/sponsors.tex:30: LaTeX Error: Unknown graphics extension: .s
 vg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...1in]{content/sponsors/silver/duolingo.svg}
+l.30 ...1in]{content/sponsors/silver/duolingo.svg}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<content/sponsors/silver/Naver.jpg, id=4200, 301.125pt x 301.125pt>
+<content/sponsors/silver/Naver.jpg, id=4232, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
 Package pdftex.def Info: content/sponsors/silver/Naver.jpg used on input line 3
-0.
+1.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4201, 2603.7275pt x 552.0625
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4233, 2603.7275pt x 552.0625
 pt>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
 Package pdftex.def Info: content/sponsors/silver/Naver_Labs_Europe.jpg used on 
-input line 31.
+input line 32.
 (pdftex.def)             Requested size: 72.26999pt x 15.32286pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--33
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
 
  []
 
 [343 <./content/ads/silver/emnlp_ad.pdf>]
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4227
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4259
 , 455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
 
 <use content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png>
 Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
-kup_Red_RGB.png used on input line 36.
+kup_Red_RGB.png used on input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 
-<content/sponsors/bronze/Babelscape_colori.png, id=4228, 474.573pt x 94.1919pt>
+<content/sponsors/bronze/Babelscape_colori.png, id=4260, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
-input line 37.
+input line 38.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
 
-<content/sponsors/bronze/HLTCOE-Logo.png, id=4229, 226.8475pt x 117.43875pt>
+<content/sponsors/bronze/HLTCOE-Logo.png, id=4261, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
 Package pdftex.def Info: content/sponsors/bronze/HLTCOE-Logo.png used on input 
-line 38.
+line 39.
 (pdftex.def)             Requested size: 86.72377pt x 44.89597pt.
 
-./content/sponsors/sponsors.tex:39: Extra alignment tab has been changed to \cr
+./content/sponsors/sponsors.tex:40: Extra alignment tab has been changed to \cr
 .
 <recently read> \endtemplate 
                              
-l.39     &
+l.40     &
             \includegraphics[width=1in]{content/sponsors/bronze/LegalForce_n...
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=4230, 173.03503pt x 190.99928pt
+<content/sponsors/bronze/LegalForce_new.jpg, id=4262, 173.03503pt x 190.99928pt
 >
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
  <use content/sponsors/bronze/LegalForce_new.jpg>
 Package pdftex.def Info: content/sponsors/bronze/LegalForce_new.jpg used on inp
-ut line 39.
+ut line 40.
 (pdftex.def)             Requested size: 72.26999pt x 79.77324pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--41
+Underfull \hbox (badness 10000) in paragraph at lines 35--42
 
  []
 
@@ -5927,98 +5936,99 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [344 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
 erg-logo-2019.png> <./content/sponsors/diamond/Facebook-AI2020.png> <./content/
 sponsors/diamond/google.png> <./content/sponsors/platinum/amazon-logo.png> <./c
-ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-rese
-arch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponso
-rs/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/s
-ilver/Naver.jpg> <./content/sponsors/silver/Naver_Labs_Europe.jpg>]
-<content/sponsors/supporter/ServiceNow.png, id=4243, 253.6677pt x 72.87225pt>
+ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/byteda
+nce.png> <./content/sponsors/platinum/g-research.png> <./content/sponsors/plati
+num/Baidu.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/s
+ponsors/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/spons
+ors/silver/Naver.jpg> <./content/sponsors/silver/Naver_Labs_Europe.jpg>]
+<content/sponsors/supporter/ServiceNow.png, id=4277, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
 Package pdftex.def Info: content/sponsors/supporter/ServiceNow.png used on inpu
-t line 44.
+t line 45.
 (pdftex.def)             Requested size: 86.72377pt x 24.913pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--46
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
 
  []
 
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=4244, 1003.75pt x 526.9
+<content/sponsors/diversityChampion/amazon-logo.png, id=4278, 1003.75pt x 526.9
 6875pt>
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
  <use content/sponsors/diversityChampion/amazon-logo.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
-d on input line 49.
+d on input line 50.
 (pdftex.def)             Requested size: 86.72377pt x 45.52748pt.
 
-<content/sponsors/diversityChampion/deepmind-logo.png, id=4245, 1066.98625pt x 
+<content/sponsors/diversityChampion/deepmind-logo.png, id=4279, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
  <use content/sponsors/diversityChampion/deepmind-logo.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
-sed on input line 50.
+sed on input line 51.
 (pdftex.def)             Requested size: 86.72377pt x 32.62914pt.
 
-<content/sponsors/diversityChampion/google.png, id=4246, 672.5125pt x 96.36pt>
+<content/sponsors/diversityChampion/google.png, id=4280, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on 
-input line 51.
+input line 52.
 (pdftex.def)             Requested size: 86.72377pt x 12.42578pt.
 
-<content/sponsors/diversityChampion/MSFT.png, id=4247, 415.01584pt x 88.72752pt
+<content/sponsors/diversityChampion/MSFT.png, id=4281, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/MSFT.png used on in
-put line 52.
+put line 53.
 (pdftex.def)             Requested size: 86.72377pt x 18.5399pt.
 
-Overfull \hbox (54.81335pt too wide) in alignment at lines 47--53
+Overfull \hbox (54.81335pt too wide) in alignment at lines 48--54
 [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--54
+Underfull \hbox (badness 10000) in paragraph at lines 48--55
 
  []
 
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4248, 417.22887pt x 280.
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4282, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
  <use content/sponsors/diversityAlly/Morgan-Stanley.png>
 Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
- on input line 57.
+ on input line 58.
 (pdftex.def)             Requested size: 86.72377pt x 58.22829pt.
 
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4249, 714.7
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4283, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
 
 <use content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg>
 Package pdftex.def Info: content/sponsors/diversityContributor/IBM_logoR_blue60
-_RGB.jpg used on input line 62.
+_RGB.jpg used on input line 63.
 (pdftex.def)             Requested size: 72.26999pt x 48.10323pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-B.png, id=4250, 455.5419pt x 118.7637pt>
+B.png, id=4284, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
 <use content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Re
 d_RGB.png>
 Package pdftex.def Info: content/sponsors/diversityContributor/Adobe_Corporate_
-Horizontal_Lockup_Red_RGB.png used on input line 63.
+Horizontal_Lockup_Red_RGB.png used on input line 64.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 60--232
+Underfull \hbox (badness 10000) in paragraph at lines 61--232
 
  []
 
@@ -6038,7 +6048,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
 Package rerunfilecheck Info: File `handbook.out' has not changed.
-(rerunfilecheck)             Checksum: DA1E8067D671D87C1B3A3E233358CD64;5201.
+(rerunfilecheck)             Checksum: 732BE24A3CFF417FD9A8154D06C3ECE0;5579.
 
 
 LaTeX Warning: There were undefined references.
@@ -6063,10 +6073,10 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 ### simple group (level 1) entered at line 1 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27027 strings out of 493089
- 482986 string characters out of 6134842
- 1605324 words of memory out of 5000000
- 26991 multiletter control sequences out of 15000+600000
+ 27048 strings out of 493089
+ 483474 string characters out of 6134842
+ 1606426 words of memory out of 5000000
+ 27005 multiletter control sequences out of 15000+600000
  54953 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,19n,55p,2264b,1822s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -6090,10 +6100,10 @@ urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/tim
 es/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (351 pages, 4500274 bytes).
+Output written on handbook.pdf (351 pages, 4510459 bytes).
 PDF statistics:
- 4417 PDF objects out of 5155 (max. 8388607)
- 3913 compressed objects within 40 object streams
- 411 named destinations out of 1000 (max. 500000)
- 653 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4452 PDF objects out of 5155 (max. 8388607)
+ 3944 compressed objects within 40 object streams
+ 417 named destinations out of 1000 (max. 500000)
+ 711 words of extra memory for PDF output out of 10000 (max. 10000000)
 
