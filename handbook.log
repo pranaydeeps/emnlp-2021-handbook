@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2021 14:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 OCT 2021 00:15
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**handbook.tex
+**handbook
 (./handbook.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -252,72 +251,57 @@ Now handling font encoding U ...
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/combelow/combelow.sty
-Package: combelow 2010/05/02 v0.99f comma below command
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
-Package: newunicodechar 2012/11/12 v1.1 Defining Unicode characters
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2015/05/11 v0.4x Insert pages of external PDF documents (AM)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2012/09/05 v1.0 SVG inclusion and extraction
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count88
-\calc@Bcount=\count89
-\calc@Adimen=\dimen103
-\calc@Bdimen=\dimen104
-\calc@Askip=\skip43
-\calc@Bskip=\skip44
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count90
-\calc@Cskip=\skip45
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count88
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count91
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-))
+\c@ContinuedFloat=\count89
+)
+\c@KVtest=\count90
+\sf@farskip=\skip43
+\sf@captopadj=\dimen110
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count91
+\c@subfigure@save=\count92
+\c@lofdepth=\count93
+\c@subtable=\count94
+\c@subtable@save=\count95
+\c@lotdepth=\count96
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -331,19 +315,92 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-\Gin@req@height=\dimen105
-\Gin@req@width=\dimen106
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\AM@pagewidth=\dimen107
-\AM@pageheight=\dimen108
+\Gread@gobject=\count97
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/transparent.sty
+Package: transparent 2007/01/08 v1.0 Transparency via pdfTeX's color stack (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+\SVG@out@width=\skip48
+\SVG@out@height=\skip49
+\c@svgfigure=\count98
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/combelow/combelow.sty
+Package: combelow 2010/05/02 v0.99f comma below command
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+Package: newunicodechar 2012/11/12 v1.1 Defining Unicode characters
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/05/11 v0.4x Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count99
+\calc@Bcount=\count100
+\calc@Adimen=\dimen113
+\calc@Bdimen=\dimen114
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count101
+\calc@Cskip=\skip52
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen115
+\AM@pageheight=\dimen116
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2015/05/11 v0.4x Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box26
-\AM@toc@title=\toks17
-\c@AM@survey=\count92
+\AM@toc@title=\toks18
+\c@AM@survey=\count102
 \AM@templatesizebox=\box27
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -355,7 +412,7 @@ B)
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count93
+\etb@tempcnta=\count103
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
@@ -377,7 +434,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count94
+\lrq@indent=\count104
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -386,135 +443,135 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count95
-\c@listtotal=\count96
-\c@listcount=\count97
-\c@liststart=\count98
-\c@liststop=\count99
-\c@citecount=\count100
-\c@citetotal=\count101
-\c@multicitecount=\count102
-\c@multicitetotal=\count103
-\c@instcount=\count104
-\c@maxnames=\count105
-\c@minnames=\count106
-\c@maxitems=\count107
-\c@minitems=\count108
-\c@citecounter=\count109
-\c@savedcitecounter=\count110
-\c@uniquelist=\count111
-\c@uniquename=\count112
-\c@refsection=\count113
-\c@refsegment=\count114
-\c@maxextratitle=\count115
-\c@maxextratitleyear=\count116
-\c@maxextrayear=\count117
-\c@maxextraalpha=\count118
-\c@abbrvpenalty=\count119
-\c@highnamepenalty=\count120
-\c@lownamepenalty=\count121
-\c@maxparens=\count122
-\c@parenlevel=\count123
-\blx@tempcnta=\count124
-\blx@tempcntb=\count125
-\blx@tempcntc=\count126
-\blx@maxsection=\count127
-\blx@maxsegment@0=\count128
-\blx@notetype=\count129
-\blx@parenlevel@text=\count130
-\blx@parenlevel@foot=\count131
-\blx@sectionciteorder@0=\count132
-\labelnumberwidth=\skip46
-\labelalphawidth=\skip47
-\biblabelsep=\skip48
-\bibitemsep=\skip49
-\bibnamesep=\skip50
-\bibinitsep=\skip51
-\bibparsep=\skip52
-\bibhang=\skip53
+\c@tabx@nest=\count105
+\c@listtotal=\count106
+\c@listcount=\count107
+\c@liststart=\count108
+\c@liststop=\count109
+\c@citecount=\count110
+\c@citetotal=\count111
+\c@multicitecount=\count112
+\c@multicitetotal=\count113
+\c@instcount=\count114
+\c@maxnames=\count115
+\c@minnames=\count116
+\c@maxitems=\count117
+\c@minitems=\count118
+\c@citecounter=\count119
+\c@savedcitecounter=\count120
+\c@uniquelist=\count121
+\c@uniquename=\count122
+\c@refsection=\count123
+\c@refsegment=\count124
+\c@maxextratitle=\count125
+\c@maxextratitleyear=\count126
+\c@maxextrayear=\count127
+\c@maxextraalpha=\count128
+\c@abbrvpenalty=\count129
+\c@highnamepenalty=\count130
+\c@lownamepenalty=\count131
+\c@maxparens=\count132
+\c@parenlevel=\count133
+\blx@tempcnta=\count134
+\blx@tempcntb=\count135
+\blx@tempcntc=\count136
+\blx@maxsection=\count137
+\blx@maxsegment@0=\count138
+\blx@notetype=\count139
+\blx@parenlevel@text=\count140
+\blx@parenlevel@foot=\count141
+\blx@sectionciteorder@0=\count142
+\labelnumberwidth=\skip53
+\labelalphawidth=\skip54
+\biblabelsep=\skip55
+\bibitemsep=\skip56
+\bibnamesep=\skip57
+\bibinitsep=\skip58
+\bibparsep=\skip59
+\bibhang=\skip60
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count133
-\c@maxcomprange=\count134
-\c@mincompwidth=\count135
+\c@mincomprange=\count143
+\c@maxcomprange=\count144
+\c@mincompwidth=\count145
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count136
-\c@savedafterword=\count137
-\c@annotator=\count138
-\c@savedannotator=\count139
-\c@author=\count140
-\c@savedauthor=\count141
-\c@bookauthor=\count142
-\c@savedbookauthor=\count143
-\c@commentator=\count144
-\c@savedcommentator=\count145
-\c@editor=\count146
-\c@savededitor=\count147
-\c@editora=\count148
-\c@savededitora=\count149
-\c@editorb=\count150
-\c@savededitorb=\count151
-\c@editorc=\count152
-\c@savededitorc=\count153
-\c@foreword=\count154
-\c@savedforeword=\count155
-\c@holder=\count156
-\c@savedholder=\count157
-\c@introduction=\count158
-\c@savedintroduction=\count159
-\c@namea=\count160
-\c@savednamea=\count161
-\c@nameb=\count162
-\c@savednameb=\count163
-\c@namec=\count164
-\c@savednamec=\count165
-\c@translator=\count166
-\c@savedtranslator=\count167
-\c@shortauthor=\count168
-\c@savedshortauthor=\count169
-\c@shorteditor=\count170
-\c@savedshorteditor=\count171
-\c@labelname=\count172
-\c@savedlabelname=\count173
-\c@institution=\count174
-\c@savedinstitution=\count175
-\c@lista=\count176
-\c@savedlista=\count177
-\c@listb=\count178
-\c@savedlistb=\count179
-\c@listc=\count180
-\c@savedlistc=\count181
-\c@listd=\count182
-\c@savedlistd=\count183
-\c@liste=\count184
-\c@savedliste=\count185
-\c@listf=\count186
-\c@savedlistf=\count187
-\c@location=\count188
-\c@savedlocation=\count189
-\c@organization=\count190
-\c@savedorganization=\count191
-\c@origlocation=\count192
-\c@savedoriglocation=\count193
-\c@origpublisher=\count194
-\c@savedorigpublisher=\count195
-\c@publisher=\count196
-\c@savedpublisher=\count197
-\c@language=\count198
-\c@savedlanguage=\count199
-\c@pageref=\count200
-\c@savedpageref=\count201
-\shorthandwidth=\skip54
-\shortjournalwidth=\skip55
-\shortserieswidth=\skip56
-\shorttitlewidth=\skip57
-\shortauthorwidth=\skip58
-\shorteditorwidth=\skip59
+\c@afterword=\count146
+\c@savedafterword=\count147
+\c@annotator=\count148
+\c@savedannotator=\count149
+\c@author=\count150
+\c@savedauthor=\count151
+\c@bookauthor=\count152
+\c@savedbookauthor=\count153
+\c@commentator=\count154
+\c@savedcommentator=\count155
+\c@editor=\count156
+\c@savededitor=\count157
+\c@editora=\count158
+\c@savededitora=\count159
+\c@editorb=\count160
+\c@savededitorb=\count161
+\c@editorc=\count162
+\c@savededitorc=\count163
+\c@foreword=\count164
+\c@savedforeword=\count165
+\c@holder=\count166
+\c@savedholder=\count167
+\c@introduction=\count168
+\c@savedintroduction=\count169
+\c@namea=\count170
+\c@savednamea=\count171
+\c@nameb=\count172
+\c@savednameb=\count173
+\c@namec=\count174
+\c@savednamec=\count175
+\c@translator=\count176
+\c@savedtranslator=\count177
+\c@shortauthor=\count178
+\c@savedshortauthor=\count179
+\c@shorteditor=\count180
+\c@savedshorteditor=\count181
+\c@labelname=\count182
+\c@savedlabelname=\count183
+\c@institution=\count184
+\c@savedinstitution=\count185
+\c@lista=\count186
+\c@savedlista=\count187
+\c@listb=\count188
+\c@savedlistb=\count189
+\c@listc=\count190
+\c@savedlistc=\count191
+\c@listd=\count192
+\c@savedlistd=\count193
+\c@liste=\count194
+\c@savedliste=\count195
+\c@listf=\count196
+\c@savedlistf=\count197
+\c@location=\count198
+\c@savedlocation=\count199
+\c@organization=\count200
+\c@savedorganization=\count201
+\c@origlocation=\count202
+\c@savedoriglocation=\count203
+\c@origpublisher=\count204
+\c@savedorigpublisher=\count205
+\c@publisher=\count206
+\c@savedpublisher=\count207
+\c@language=\count208
+\c@savedlanguage=\count209
+\c@pageref=\count210
+\c@savedpageref=\count211
+\shorthandwidth=\skip61
+\shortjournalwidth=\skip62
+\shortserieswidth=\skip63
+\shorttitlewidth=\skip64
+\shortauthorwidth=\skip65
+\shorteditorwidth=\skip66
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -526,13 +583,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 
-\c@textcitecount=\count202
-\c@textcitetotal=\count203
-\c@textcitemaxnames=\count204
-\c@biburlnumpenalty=\count205
-\c@biburlucpenalty=\count206
-\c@biburllcpenalty=\count207
-\c@smartand=\count208
+\c@textcitecount=\count212
+\c@textcitetotal=\count213
+\c@textcitemaxnames=\count214
+\c@biburlnumpenalty=\count215
+\c@biburlucpenalty=\count216
+\c@biburllcpenalty=\count217
+\c@smartand=\count218
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -544,8 +601,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count209
-\c@bbx:relatedtotal=\count210
+\c@bbx:relatedcount=\count219
+\c@bbx:relatedtotal=\count220
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -580,18 +637,18 @@ Package ifvtex Info: VTeX not detected.
 (/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count211
-\Gm@cntv=\count212
-\c@Gm@tempcnt=\count213
-\Gm@bindingoffset=\dimen109
-\Gm@wd@mp=\dimen110
-\Gm@odd@mp=\dimen111
-\Gm@even@mp=\dimen112
-\Gm@layoutwidth=\dimen113
-\Gm@layoutheight=\dimen114
-\Gm@layouthoffset=\dimen115
-\Gm@layoutvoffset=\dimen116
-\Gm@dimlist=\toks18
+\Gm@cnth=\count221
+\Gm@cntv=\count222
+\c@Gm@tempcnt=\count223
+\Gm@bindingoffset=\dimen117
+\Gm@wd@mp=\dimen118
+\Gm@odd@mp=\dimen119
+\Gm@even@mp=\dimen120
+\Gm@layoutwidth=\dimen121
+\Gm@layoutheight=\dimen122
+\Gm@layouthoffset=\dimen123
+\Gm@layoutvoffset=\dimen124
+\Gm@dimlist=\toks19
 )
 (./content/special/preamble.tex
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
@@ -641,19 +698,16 @@ Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-\@linkdim=\dimen117
-\Hy@linkcounter=\count214
-\Hy@pagecounter=\count215
+\@linkdim=\dimen125
+\Hy@linkcounter=\count224
+\Hy@pagecounter=\count225
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count216
+\Hy@SavedSpaceFactor=\count226
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -665,12 +719,12 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count217
+\c@Hy@tempcnt=\count227
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen118
-\Fld@menulength=\count218
-\Field@Width=\dimen119
-\Fld@charsize=\dimen120
+\XeTeXLinkMargin=\dimen126
+\Fld@menulength=\count228
+\Field@Width=\dimen127
+\Fld@charsize=\dimen128
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -680,24 +734,24 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count219
-\c@Item=\count220
-\c@Hfootnote=\count221
+\Hy@abspage=\count229
+\c@Item=\count230
+\c@Hfootnote=\count231
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count222
-\c@bookmark@seq@number=\count223
+\Fld@listcount=\count232
+\c@bookmark@seq@number=\count233
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip60
+\Hy@SectionHShift=\skip67
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
@@ -860,76 +914,76 @@ Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen121
-\extrarowheight=\dimen122
-\NC@list=\toks19
-\extratabsurround=\skip61
-\backup@length=\skip62
+\col@sep=\dimen129
+\extrarowheight=\dimen130
+\NC@list=\toks20
+\extratabsurround=\skip68
+\backup@length=\skip69
 )
-\everycr=\toks20
-\minrowclearance=\skip63
+\everycr=\toks21
+\minrowclearance=\skip70
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip64
-\f@ncyO@elh=\skip65
-\f@ncyO@erh=\skip66
-\f@ncyO@olh=\skip67
-\f@ncyO@orh=\skip68
-\f@ncyO@elf=\skip69
-\f@ncyO@erf=\skip70
-\f@ncyO@olf=\skip71
-\f@ncyO@orf=\skip72
+\fancy@headwidth=\skip71
+\f@ncyO@elh=\skip72
+\f@ncyO@erh=\skip73
+\f@ncyO@olh=\skip74
+\f@ncyO@orh=\skip75
+\f@ncyO@elf=\skip76
+\f@ncyO@erf=\skip77
+\f@ncyO@olf=\skip78
+\f@ncyO@orf=\skip79
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fncychap/fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
-\RW=\skip73
-\mylen=\skip74
-\myhi=\skip75
-\px=\skip76
-\py=\skip77
-\pyy=\skip78
-\pxx=\skip79
+\RW=\skip80
+\mylen=\skip81
+\myhi=\skip82
+\px=\skip83
+\py=\skip84
+\pyy=\skip85
+\pxx=\skip86
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip80
-\LTright=\skip81
-\LTpre=\skip82
-\LTpost=\skip83
-\LTchunksize=\count224
-\LTcapwidth=\dimen123
+\LTleft=\skip87
+\LTright=\skip88
+\LTpre=\skip89
+\LTpost=\skip90
+\LTchunksize=\count266
+\LTcapwidth=\dimen131
 \LT@head=\box28
 \LT@firsthead=\box29
 \LT@foot=\box30
 \LT@lastfoot=\box31
-\LT@cols=\count225
-\LT@rows=\count226
-\c@LT@tables=\count227
-\c@LT@chunks=\count228
-\LT@p@ftn=\toks21
+\LT@cols=\count267
+\LT@rows=\count268
+\c@LT@tables=\count269
+\c@LT@chunks=\count270
+\LT@p@ftn=\toks22
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
-\TX@col@width=\dimen124
-\TX@old@table=\dimen125
-\TX@old@col=\dimen126
-\TX@target=\dimen127
-\TX@delta=\dimen128
-\TX@cols=\count229
-\TX@ftn=\toks22
+\TX@col@width=\dimen132
+\TX@old@table=\dimen133
+\TX@old@col=\dimen134
+\TX@target=\dimen135
+\TX@delta=\dimen136
+\TX@cols=\count271
+\TX@ftn=\toks23
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2015/04/15 v5.1e context-sensitive quotations (JAW)
-\csq@reset=\count230
-\csq@gtype=\count231
-\csq@glevel=\count232
-\csq@qlevel=\count233
-\csq@maxlvl=\count266
-\csq@tshold=\count267
-\csq@ltx@everypar=\toks23
+\csq@reset=\count272
+\csq@gtype=\count273
+\csq@glevel=\count274
+\csq@qlevel=\count275
+\csq@maxlvl=\count276
+\csq@tshold=\count277
+\csq@ltx@everypar=\toks24
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2015/04/15 v5.1e csquotes generic definitions (JAW)
@@ -948,8 +1002,8 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/09/25 3.9l Babel common definitions
-\babel@savecnt=\count268
-\U@D=\dimen129
+\babel@savecnt=\count278
+\U@D=\dimen137
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
@@ -957,23 +1011,23 @@ File: babel.def 2014/09/25 3.9l Babel common definitions
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
-\c@tracingmulticols=\count269
+\c@tracingmulticols=\count279
 \mult@box=\box32
-\multicol@leftmargin=\dimen130
-\c@unbalance=\count270
-\c@collectmore=\count271
-\doublecol@number=\count272
-\multicoltolerance=\count273
-\multicolpretolerance=\count274
-\full@width=\dimen131
-\page@free=\dimen132
-\premulticols=\dimen133
-\postmulticols=\dimen134
-\multicolsep=\skip84
-\multicolbaselineskip=\skip85
+\multicol@leftmargin=\dimen138
+\c@unbalance=\count280
+\c@collectmore=\count281
+\doublecol@number=\count282
+\multicoltolerance=\count283
+\multicolpretolerance=\count284
+\full@width=\dimen139
+\page@free=\dimen140
+\premulticols=\dimen141
+\postmulticols=\dimen142
+\multicolsep=\skip91
+\multicolbaselineskip=\skip92
 \partial@page=\box33
 \last@line=\box34
-\maxbalancingoverflow=\dimen135
+\maxbalancingoverflow=\dimen143
 \mult@rightbox=\box35
 \mult@grightbox=\box36
 \mult@gfirstbox=\box37
@@ -995,17 +1049,17 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \@tempa=\box53
 \@tempa=\box54
 \@tempa=\box55
-\c@columnbadness=\count275
-\c@finalcolumnbadness=\count276
-\last@try=\dimen136
-\multicolovershoot=\dimen137
-\multicolundershoot=\dimen138
+\c@columnbadness=\count285
+\c@finalcolumnbadness=\count286
+\last@try=\dimen144
+\multicolovershoot=\dimen145
+\multicolundershoot=\dimen146
 \mult@nat@firstbox=\box56
 \colbreak@box=\box57
-\mc@col@check@num=\count277
+\mc@col@check@num=\count287
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen139
+\bigstrutjot=\dimen147
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
@@ -1014,8 +1068,7 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
 
-./content/special/preamble.tex:23: LaTeX Error: Option clash for package biblat
-ex.
+! LaTeX Error: Option clash for package biblatex.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1037,72 +1090,61 @@ Package: pstricks 2013/12/12 v0.60 LaTeX wrapper for `PSTricks' (RN,HV)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks24
-\XKV@tempa@toks=\toks25
 )
-\XKV@depth=\count278
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count279
-\pstFP@xia=\count280
-\pstFP@xib=\count281
-\pstFP@xfa=\count282
-\pstFP@xfb=\count283
-\pstFP@rega=\count284
-\pstFP@regb=\count285
-\pstFP@regs=\count286
-\pstFP@times=\count287
+\pstFP@xs=\count288
+\pstFP@xia=\count289
+\pstFP@xib=\count290
+\pstFP@xfa=\count291
+\pstFP@xfb=\count292
+\pstFP@rega=\count293
+\pstFP@regb=\count294
+\pstFP@regs=\count295
+\pstFP@times=\count296
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks26
-\pgfutil@tempdima=\dimen140
-\pgfutil@tempdimb=\dimen141
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
 ode.tex
-\pgfkeys@tmptoks=\toks29
+\pgfkeys@tmptoks=\toks28
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
-\pgf@x=\dimen142
-\pgf@xa=\dimen143
-\pgf@xb=\dimen144
-\pgf@xc=\dimen145
-\pgf@y=\dimen146
-\pgf@ya=\dimen147
-\pgf@yb=\dimen148
-\pgf@yc=\dimen149
-\c@pgf@counta=\count288
-\c@pgf@countb=\count289
-\c@pgf@countc=\count290
-\c@pgf@countd=\count291
-\pgfutil@tempcnta=\count292
-\pgfutil@tempcntb=\count293
+\pgf@x=\dimen150
+\pgf@xa=\dimen151
+\pgf@xb=\dimen152
+\pgf@xc=\dimen153
+\pgf@y=\dimen154
+\pgf@ya=\dimen155
+\pgf@yb=\dimen156
+\pgf@yc=\dimen157
+\c@pgf@counta=\count297
+\c@pgf@countb=\count298
+\c@pgf@countc=\count299
+\c@pgf@countd=\count300
+\pgfutil@tempcnta=\count301
+\pgfutil@tempcntb=\count302
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen150
-\pgfmath@count=\count294
+\pgfmath@dimen=\dimen158
+\pgfmath@count=\count303
 \pgfmath@box=\box58
-\pgfmath@toks=\toks30
-\pgfmath@stack@operand=\toks31
-\pgfmath@stack@operation=\toks32
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex
@@ -1123,60 +1165,60 @@ code.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count295
+\c@pgfmathroundto@lastzeros=\count304
 ))
-\pgffor@iter=\dimen151
-\pgffor@skip=\dimen152
-\pgffor@stack=\toks33
-\pgffor@toks=\toks34
+\pgffor@iter=\dimen159
+\pgffor@skip=\dimen160
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
 )
-\psLoopIndex=\count296
+\psLoopIndex=\count305
 
 `PSTricks' v2.60  <2014/10/25> (tvz)
-\pst@dima=\dimen153
-\pst@dimb=\dimen154
-\pst@dimc=\dimen155
-\pst@dimd=\dimen156
-\pst@dimg=\dimen157
-\pst@dimh=\dimen158
-\pst@dimm=\dimen159
-\pst@dimn=\dimen160
-\pst@dimo=\dimen161
-\pst@dimp=\dimen162
+\pst@dima=\dimen161
+\pst@dimb=\dimen162
+\pst@dimc=\dimen163
+\pst@dimd=\dimen164
+\pst@dimg=\dimen165
+\pst@dimh=\dimen166
+\pst@dimm=\dimen167
+\pst@dimn=\dimen168
+\pst@dimo=\dimen169
+\pst@dimp=\dimen170
 \pst@hbox=\box59
 \pst@ibox=\box60
 \pst@boxg=\box61
-\pst@cnta=\count297
-\pst@cntb=\count298
-\pst@cntc=\count299
-\pst@cntd=\count300
-\pst@cntg=\count301
-\pst@cnth=\count302
-\pst@cntm=\count303
-\pst@cntn=\count304
-\pst@cnto=\count305
-\pst@cntp=\count306
-\@zero=\count307
-\pst@toks=\toks35
+\pst@cnta=\count306
+\pst@cntb=\count307
+\pst@cntc=\count308
+\pst@cntd=\count309
+\pst@cntg=\count310
+\pst@cnth=\count311
+\pst@cntm=\count312
+\pst@cntn=\count313
+\pst@cnto=\count314
+\pst@cntp=\count315
+\@zero=\count316
+\pst@toks=\toks34
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pstricks/pstricks.con)
-\psunit=\dimen163
-\psxunit=\dimen164
-\psyunit=\dimen165
-\pst@C@@rType=\count308
-\pslinewidth=\dimen166
-\psk@startLW=\dimen167
-\psk@endLW=\dimen168
-\pst@customdefs=\toks36
-\pslinearc=\dimen169
-\pst@symbolStep=\dimen170
-\pst@symbolWidth=\dimen171
-\pst@symbolLinewidth=\dimen172
-\everypsbox=\toks37
-\psframesep=\dimen173
-\pslabelsep=\dimen174
-\sh@wgridXunit=\dimen175
-\sh@wgridYunit=\dimen176
-\pst@shift=\dimen177
+\psunit=\dimen171
+\psxunit=\dimen172
+\psyunit=\dimen173
+\pst@C@@rType=\count317
+\pslinewidth=\dimen174
+\psk@startLW=\dimen175
+\psk@endLW=\dimen176
+\pst@customdefs=\toks35
+\pslinearc=\dimen177
+\pst@symbolStep=\dimen178
+\pst@symbolWidth=\dimen179
+\pst@symbolLinewidth=\dimen180
+\everypsbox=\toks36
+\psframesep=\dimen181
+\pslabelsep=\dimen182
+\sh@wgridXunit=\dimen183
+\sh@wgridYunit=\dimen184
+\pst@shift=\dimen185
 )
 File: pstricks.tex 2014/10/25 v2.60 `PSTricks' (tvz,hv)
 
@@ -1185,18 +1227,18 @@ File: pst-fp.tex 2014/10/25 v2.60 `PST-fp' (hv)
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-\c@r@tfl@t=\count309
-\rotFPtop=\skip86
-\rotFPbot=\skip87
+\c@r@tfl@t=\count318
+\rotFPtop=\skip93
+\rotFPbot=\skip94
 \rot@float@box=\box62
-\rot@mess@toks=\toks38
+\rot@mess@toks=\toks37
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/marginnote/marginnote.sty
 Package: marginnote 2012/03/29 v1.1i non floating margin notes for LaTeX
-\c@mn@abspage=\count310
+\c@mn@abspage=\count319
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
@@ -1204,33 +1246,33 @@ Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip88
-\RaggedLeftLeftskip=\skip89
-\RaggedRightLeftskip=\skip90
-\CenteringRightskip=\skip91
-\RaggedLeftRightskip=\skip92
-\RaggedRightRightskip=\skip93
-\CenteringParfillskip=\skip94
-\RaggedLeftParfillskip=\skip95
-\RaggedRightParfillskip=\skip96
-\JustifyingParfillskip=\skip97
-\CenteringParindent=\skip98
-\RaggedLeftParindent=\skip99
-\RaggedRightParindent=\skip100
-\JustifyingParindent=\skip101
+\CenteringLeftskip=\skip95
+\RaggedLeftLeftskip=\skip96
+\RaggedRightLeftskip=\skip97
+\CenteringRightskip=\skip98
+\RaggedLeftRightskip=\skip99
+\RaggedRightRightskip=\skip100
+\CenteringParfillskip=\skip101
+\RaggedLeftParfillskip=\skip102
+\RaggedRightParfillskip=\skip103
+\JustifyingParfillskip=\skip104
+\CenteringParindent=\skip105
+\RaggedLeftParindent=\skip106
+\RaggedRightParindent=\skip107
+\JustifyingParindent=\skip108
 )
 \@indexfile=\write4
 \openout4 = `handbook.idx'.
 
 
 Writing index file handbook.idx
-\mycolumnwidth=\skip102
+\mycolumnwidth=\skip109
 ) (./content/special/macros.tex
-\w=\skip103
-\tsl=\skip104
-\en=\skip105
-\c@WorkshopCounter=\count311
-\c@TutorialCounter=\count312
+\w=\skip110
+\tsl=\skip111
+\en=\skip112
+\c@WorkshopCounter=\count320
+\c@TutorialCounter=\count321
 ) (./content/setup/venues.tex)
 (./content/setup/sessions.tex)
 Package biblatex Info: Trying to load language 'american'...
@@ -1281,21 +1323,30 @@ LaTeX Font Info:    Try loading font information for T1+ptm on input line 95.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-\AtBeginShipoutBox=\box63
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
-\scratchdimen=\dimen178
-\scratchbox=\box64
-\nofMPsegments=\count314
-\nofMParguments=\count315
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count316
-\MPscratchDim=\dimen179
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count322
+\scratchdimen=\dimen186
+\scratchbox=\box63
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen187
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks39
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1311,6 +1362,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\AtBeginShipoutBox=\box64
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -1323,48 +1375,6 @@ Package biblatex Info: ... file 'handbook.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Chung-Chi Chen
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                radford2019language
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Rui Wang
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Sameer Singh
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Hen-Hsen Huang
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Meng Jiang
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Kehai Chen
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1372,49 +1382,14 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Alane Suhr
+(biblatex)                3978
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Zhiting Hu
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Hsin-Hsi Chen
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                huang2019syntax
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Mark Yatskar
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Hai Zhao
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Nazneen Rajani
+(biblatex)                Heng Ji
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1428,14 +1403,56 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Wenhao Yu
+(biblatex)                Kai-Wei Chang
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Sebastian Ruder
+(biblatex)                Alane Suhr
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Hen-Hsen Huang
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                wmt-161
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Zhiting Hu
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Meng Jiang
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Sameer Singh
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Maarten Sap
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1456,28 +1473,21 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Maarten Sap
+(biblatex)                Avirup Sil
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Samuel R. Bowman
+(biblatex)                Hai Zhao
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Kai-Wei Chang
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Nikita Nangia
+(biblatex)                Hsin-Hsi Chen
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1491,14 +1501,56 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Heng Ji
+(biblatex)                Wenhao Yu
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Avirup Sil
+(biblatex)                Chung-Chi Chen
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Samuel R. Bowman
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Rui Wang
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Nikita Nangia
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Sebastian Ruder
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                huang2019syntax
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Mark Yatskar
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1506,6 +1558,20 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                Yoav Artzi
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Nazneen Rajani
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                radford2019language
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1554,7 +1620,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count319
+\c@section@level=\count328
 )
 LaTeX Info: Redefining \ref on input line 95.
 LaTeX Info: Redefining \pageref on input line 95.
@@ -1569,7 +1635,7 @@ Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 95.
 
-<content/fmatter/cover.pdf, id=240, 597.23125pt x 844.15375pt>
+<content/fmatter/cover.pdf, id=248, 597.23125pt x 844.15375pt>
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 
 <use content/fmatter/cover.pdf>
@@ -1580,7 +1646,7 @@ File: content/fmatter/cover.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/fmatter/cover.pdf used on input line 102.
 (pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
 
-<content/fmatter/cover.pdf, id=243, page=1, 597.23125pt x 844.15375pt>
+<content/fmatter/cover.pdf, id=251, page=1, 597.23125pt x 844.15375pt>
 File: content/fmatter/cover.pdf Graphic file (type pdf)
 
 <use content/fmatter/cover.pdf, page 1>
@@ -1628,7 +1694,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
 
-<content/2021-EMNLP-Bavaro-Floorplan.pdf, id=270, 1927.2pt x 1084.05pt>
+<content/2021-EMNLP-Bavaro-Floorplan.pdf, id=278, 1927.2pt x 1084.05pt>
 File: content/2021-EMNLP-Bavaro-Floorplan.pdf Graphic file (type pdf)
 
 <use content/2021-EMNLP-Bavaro-Floorplan.pdf>
@@ -1663,10 +1729,10 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 
 
 ]
-./handbook.toc:101: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 <argument> ...MR: The 15th Linguistic Annotation &
                                                    3rd Designing Meaning Rep...
-l.101 ...ations Joint Workshop}{305}{section.7.14}
+l.105 ...ations Joint Workshop}{307}{section.7.16}
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1711,7 +1777,7 @@ l.23 \item T
 
 
 ]
-./content/fmatter/preface-chair.tex:28: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.28 \item The Diversity &
                            Inclusion Chairs -- Laura Alonso Alemany and Tosh...
 I can't figure out why you would want to use a tab mark
@@ -1832,12 +1898,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--246
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Underfull \hbox (badness 10000) in paragraph at lines 247--267
+Underfull \hbox (badness 10000) in paragraph at lines 247--266
 
  []
 
-./content/fmatter/committee.tex:274: Misplaced alignment tab character &.
-l.274 ...e*{0.2in} Steven Bedrick, Oregon Health &
+! Misplaced alignment tab character &.
+l.273 ...e*{0.2in} Steven Bedrick, Oregon Health &
                                                    Science University\\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1847,7 +1913,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--297
+Underfull \hbox (badness 10000) in paragraph at lines 267--296
 
  []
 
@@ -1855,22 +1921,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--297
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-Underfull \hbox (badness 10000) in paragraph at lines 298--305
+Underfull \hbox (badness 10000) in paragraph at lines 297--303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--322
+Underfull \hbox (badness 10000) in paragraph at lines 304--320
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--333
+Underfull \hbox (badness 10000) in paragraph at lines 321--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--353
+Underfull \hbox (badness 10000) in paragraph at lines 332--350
 
  []
 
@@ -1878,33 +1944,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 334--353
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-Underfull \hbox (badness 10000) in paragraph at lines 354--369
+Underfull \hbox (badness 10000) in paragraph at lines 351--366
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 370--383
+Underfull \hbox (badness 10000) in paragraph at lines 367--380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--396
+Underfull \hbox (badness 10000) in paragraph at lines 381--393
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--404
+Underfull \hbox (badness 10000) in paragraph at lines 394--400
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 401--150
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13])
-Underfull \hbox (badness 10000) in paragraph at lines 405--150
-
- []
-
+ [13]
 [14] (./content/tutorials/welcome_reception.tex)
 (./content/tutorials/tutorials-overview-1.tex [15
 
@@ -1941,8 +2008,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 3--3
  []
 
 
-./content/tutorials/tutorials-overview-2.tex:10: LaTeX Error: Command \tutorial
-morningtime already defined.
+! LaTeX Error: Command \tutorialmorningtime already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1973,7 +2039,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
  []
 
 (./auto/papers/Sunday-overview.tex
-./auto/papers/Sunday-overview.tex:5: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \OpeningLoc 
                             
 l.5 ... Opening Remarks} \hfill \emph{\OpeningLoc}
@@ -1984,7 +2050,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./auto/papers/Sunday-overview.tex:11: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.11 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -2200,7 +2266,7 @@ Overfull \hbox (29.23978pt too wide) in paragraph at lines 21--26
 []|[]|  
  []
 
-./auto/papers/Sunday-overview.tex:27: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \MiniLoc 
                          
 l.27 ...fseries Mini Break} \hfill \emph{\MiniLoc}
@@ -2276,7 +2342,7 @@ Overfull \hbox (29.23978pt too wide) in paragraph at lines 30--36
 []|[]|  
  []
 
-./auto/papers/Sunday-overview.tex:37: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.37 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -2377,7 +2443,7 @@ Overfull \hbox (29.23978pt too wide) in paragraph at lines 40--45
 []|[]|  
  []
 
-./auto/papers/Sunday-overview.tex:46: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \VirtualLoc 
                             
 l.46 ...oster Session I} \hfill \emph{\VirtualLoc}
@@ -2389,7 +2455,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [31] [32]) (./content/day1/invited-talk.tex
-./content/day1/invited-talk.tex:35: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.35 ...91) and a Member of Technical Staff at AT&
                                                   T Bell Laboratories (1992-...
 I can't figure out why you would want to use a tab mark
@@ -2467,8 +2533,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 45.
  (./auto/abstracts/papers-4268.tex
 
-./auto/abstracts/papers-4268.tex:1: Package inputenc Error: Unicode char \u8:‚Ü
-î not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:‚Üî not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -2482,8 +2547,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./auto/abstracts/papers-4268.tex:1: Package textcomp Error: Symbol \textrightar
-row not provided by
+! Package textcomp Error: Symbol \textrightarrow not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -2499,8 +2563,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./auto/abstracts/papers-4268.tex:1: Package inputenc Error: Unicode char \u8:‚Ü
-î not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:‚Üî not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -2671,8 +2734,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-3437.tex) [60] (./auto/abstracts/papers-298.tex)
 (./auto/abstracts/papers-3294.tex) (./auto/abstracts/papers-3705.tex
 
-./auto/abstracts/papers-3705.tex:1: Package inputenc Error: Unicode char \u8:‚â
-à not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:‚âà not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -2686,8 +2748,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./auto/abstracts/papers-3705.tex:1: Package inputenc Error: Unicode char \u8:‚â
-à not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:‚âà not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -2786,7 +2847,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-2831.tex) [72] (./auto/abstracts/papers-2759.tex)
 (./auto/abstracts/papers-3133.tex) (./auto/abstracts/papers-4256.tex)
 (./auto/abstracts/papers-4329.tex
-./auto/abstracts/papers-4329.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...ation. Empirical results show that \mymodel
                                                    significantly outperforms...
 The control sequence at the end of the top line
@@ -2809,7 +2870,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 (./auto/abstracts/papers-3917.tex
-./auto/abstracts/papers-3917.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...on.  In this paper, we evaluate leading \st
                                                    automatic metrics on the ...
 The control sequence at the end of the top line
@@ -2858,8 +2919,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [83]
 (./auto/abstracts/papers-2119.tex
 
-./auto/abstracts/papers-2119.tex:1: Package textcomp Error: Symbol \textrightar
-row not provided by
+! Package textcomp Error: Symbol \textrightarrow not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -2876,8 +2936,7 @@ or  <return>  to continue without it.
 
 ) (./auto/abstracts/papers-2219.tex
 
-./auto/abstracts/papers-2219.tex:1: Package textcomp Error: Symbol \textrightar
-row not provided by
+! Package textcomp Error: Symbol \textrightarrow not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -2965,7 +3024,7 @@ Underfull \vbox (badness 2495) has occurred while \output is active []
 
 ]
 [87] (./auto/abstracts/papers-1456.tex
-./auto/abstracts/papers-1456.tex:1: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...ormer parameters to grow in magnitude (\ell
@@ -2973,7 +3032,7 @@ l.1 ...ormer parameters to grow in magnitude (\ell
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./auto/abstracts/papers-1456.tex:1: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...mer parameters to grow in magnitude (\ell$_
@@ -3014,7 +3073,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 (./auto/abstracts/papers-2072.tex) (./auto/abstracts/papers-4018.tex
-./auto/abstracts/papers-4018.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...ed recurrent unit (GRU) network, \cryptogru
                                                   , for low-latency secure i...
 The control sequence at the end of the top line
@@ -3023,7 +3082,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./auto/abstracts/papers-4018.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...r low-latency secure inferences. \cryptogru
                                                    replaces computationally ...
 The control sequence at the end of the top line
@@ -3032,7 +3091,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./auto/abstracts/papers-4018.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...ctivations in a GRU. We evaluate \cryptogru
                                                    with multiple GRU models ...
 The control sequence at the end of the top line
@@ -3041,7 +3100,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./auto/abstracts/papers-4018.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...asets. Experimental results show \cryptogru
                                                    achieves top-notch accura...
 The control sequence at the end of the top line
@@ -3137,7 +3196,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [108]
 (./auto/abstracts/papers-1551.tex
-./auto/abstracts/papers-1551.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...imilarly, for short social media posts (\eg
                                                   , tweets), scarce context ...
 The control sequence at the end of the top line
@@ -3173,7 +3232,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [113]
 (./auto/abstracts/papers-4321.tex) (./auto/abstracts/papers-777.tex)
 (./auto/abstracts/papers-815.tex) (./auto/abstracts/papers-1553.tex
-./auto/abstracts/papers-1553.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...formance of, a trained Transformer\$\_\text
                                                   {small/base}\$ on IWSLT14/...
 The control sequence at the end of the top line
@@ -3203,19 +3262,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [117]
 (./auto/abstracts/papers-1930.tex) (./auto/abstracts/papers-2283.tex)
-(./auto/abstracts/papers-2293.tex)
-./auto/papers/Sunday-Virtual-Poster-Session-I.tex:86: Missing $ inserted.
-<inserted text> 
-                $
-l.86 \posterabstract{papers-2353}
-                                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-(./auto/abstracts/papers-2353.tex)
+(./auto/abstracts/papers-2293.tex) (./auto/abstracts/papers-2353.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [118]
@@ -3237,8 +3284,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [121]
 (./auto/abstracts/papers-1211.tex
 
-./auto/abstracts/papers-1211.tex:1: Package inputenc Error: Unicode char \u8:‚Ü
-î not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:‚Üî not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -3252,8 +3298,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./auto/abstracts/papers-1211.tex:1: Package textcomp Error: Symbol \textrightar
-row not provided by
+! Package textcomp Error: Symbol \textrightarrow not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -3321,7 +3366,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [131]
 (./auto/abstracts/papers-3856.tex) (./auto/abstracts/papers-4504.tex
-./auto/abstracts/papers-4504.tex:1: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.1 ...org.cn/PCL-Platform.Intelligence/Chinese\\_
@@ -3330,8 +3375,7 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 )
-./auto/papers/Sunday-Virtual-Poster-Session-I.tex:142: Extra }, or forgotten $.
-
+! Extra }, or forgotten $.
 \posterabstract ...all \input {auto/abstracts/#1}}
                                                   \par 
 l.142 \posterabstract{papers-4504}
@@ -3342,7 +3386,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./auto/papers/Sunday-Virtual-Poster-Session-I.tex:142: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.142 \posterabstract{papers-4504}
@@ -3362,7 +3406,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [133]
 (./auto/abstracts/papers-4566.tex) (./auto/abstracts/papers-365.tex
-./auto/abstracts/papers-365.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...SemEval Restaurant14{\textasciitilde}\citep
                                                   {Pontiki2014SemEval2014T4}...
 The control sequence at the end of the top line
@@ -3396,8 +3440,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-1953.tex) (./auto/abstracts/papers-4290.tex)
 (./auto/abstracts/papers-4243.tex
 
-./auto/abstracts/papers-4243.tex:1: Package inputenc Error: Keyboard character 
-used is undefined
+! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -3411,8 +3454,7 @@ You need to provide a definition with \DeclareInputText
 or \DeclareInputMath before using this key.
 
 
-./auto/abstracts/papers-4243.tex:1: Package inputenc Error: Keyboard character 
-used is undefined
+! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -3426,8 +3468,7 @@ You need to provide a definition with \DeclareInputText
 or \DeclareInputMath before using this key.
 
 
-./auto/abstracts/papers-4243.tex:1: Package inputenc Error: Keyboard character 
-used is undefined
+! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -3441,8 +3482,7 @@ You need to provide a definition with \DeclareInputText
 or \DeclareInputMath before using this key.
 
 
-./auto/abstracts/papers-4243.tex:1: Package inputenc Error: Keyboard character 
-used is undefined
+! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -3543,7 +3583,7 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 5--11
 []|[]|  
  []
 
-./auto/papers/Monday-overview.tex:12: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.12 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -3554,7 +3594,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./auto/papers/Monday-overview.tex:18: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \VirtualLoc 
                             
 l.18 ...oster Session 2} \hfill \emph{\VirtualLoc}
@@ -3565,7 +3605,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./auto/papers/Monday-overview.tex:21: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \MiniLoc 
                          
 l.21 ...fseries Mini Break} \hfill \emph{\MiniLoc}
@@ -3666,7 +3706,7 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 24--30
 []|[]|  
  []
 
-./auto/papers/Monday-overview.tex:31: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.31 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -3743,7 +3783,7 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 34--39
  []
 
 [141]) (./content/day2/invited-talk.tex
-./content/day2/invited-talk.tex:18: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.18 ...ition (e.g., Wittgenstein, 1921; Berwick &
                                                    Chomsky, 2016). I will us...
 I can't figure out why you would want to use a tab mark
@@ -3921,12 +3961,6 @@ Package marginnote Info: Margin note 167.7 is on absolute page 168
 Package marginnote Info: xpos seems to be 38.68724pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 41.
 
-LaTeX Warning: Citation '3978' on page 161 undefined on input line 42.
-
-
-LaTeX Warning: Citation '3978' on page 161 undefined on input line 42.
-
-
 Overfull \hbox (3.3298pt too wide) in paragraph at lines 32--45
  [] 
  []
@@ -3939,7 +3973,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [162] (./auto/abstracts/papers-077.tex) (./auto/abstracts/papers-302.tex
-./auto/abstracts/papers-302.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ...replace the softmax activation with a \relu
                                                   , and show that sparsity n...
 The control sequence at the end of the top line
@@ -3963,8 +3997,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 [166] (./auto/abstracts/papers-2648.tex) (./auto/abstracts/papers-2990.tex
 
-./auto/abstracts/papers-2990.tex:1: Package textcomp Error: Symbol \textrightar
-row not provided by
+! Package textcomp Error: Symbol \textrightarrow not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -3980,8 +4013,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./auto/abstracts/papers-2990.tex:1: Package textcomp Error: Symbol \textrightar
-row not provided by
+! Package textcomp Error: Symbol \textrightarrow not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -3997,8 +4029,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./auto/abstracts/papers-2990.tex:1: Package textcomp Error: Symbol \textrightar
-row not provided by
+! Package textcomp Error: Symbol \textrightarrow not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -4014,8 +4045,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./auto/abstracts/papers-2990.tex:1: Package textcomp Error: Symbol \textrightar
-row not provided by
+! Package textcomp Error: Symbol \textrightarrow not provided by
 (textcomp)                font family ptm in TS1 encoding.
 (textcomp)                Default family used instead.
 
@@ -4093,7 +4123,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Runaway argument?
 {{}{}{papers-1536} \paperabstract {\day }{}{}{}{papers-1537} \paperabstract \ET
 C.
-./content/day2/day2.tex:15: File ended while scanning use of \paperabstract.
+! File ended while scanning use of \paperabstract.
 <inserted text> 
                 \par 
 l.15 ...auto/papers/Monday-parallel-session-6.tex}
@@ -4336,8 +4366,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-1678.tex) (./auto/abstracts/papers-1784.tex)
 (./auto/abstracts/papers-3234.tex
 
-./auto/abstracts/papers-3234.tex:1: Package inputenc Error: Unicode char \u8:‚â
-§ not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:‚â§ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -4382,7 +4411,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
  []
 
 (./auto/papers/Tuesday-overview.tex
-./auto/papers/Tuesday-overview.tex:5: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \VirtualLoc 
                             
 l.5 ...Poster Session 3} \hfill \emph{\VirtualLoc}
@@ -4393,7 +4422,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./auto/papers/Tuesday-overview.tex:8: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.8 ...ries Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -4459,7 +4488,7 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 11--17
 []|[]|  
  []
 
-./auto/papers/Tuesday-overview.tex:18: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \SigdatLoc 
                            
 l.18 ...Business Meeting} \hfill \emph{\SigdatLoc}
@@ -4540,7 +4569,7 @@ Overfull \hbox (24.08188pt too wide) in paragraph at lines 21--27
 []|[]|  
  []
 
-./auto/papers/Tuesday-overview.tex:28: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \CoffeeLoc 
                            
 l.28 ...ies Coffee Break} \hfill \emph{\CoffeeLoc}
@@ -4551,7 +4580,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./auto/papers/Tuesday-overview.tex:34: Undefined control sequence.
+! Undefined control sequence.
 <recently read> \ClosingLoc 
                             
 l.34 ...losing Ceremony} \hfill \emph{\ClosingLoc}
@@ -4594,8 +4623,7 @@ Package marginnote Info: Margin note 227.5 is on absolute page 227
 Package marginnote Info: xpos seems to be 56.75475pt,
 (marginnote)             \marginnoterightadjust ignored on input line 26.
 
-./auto/papers/Tuesday-parallel-session-8.tex:27: Package inputenc Error: Keyboa
-rd character used is undefined
+! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -4650,8 +4678,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [226] (./auto/abstracts/papers-629.tex) (./auto/abstracts/papers-1093.tex)
 (./auto/abstracts/papers-1927.tex) (./auto/abstracts/papers-2083.tex)
 
-./auto/papers/Tuesday-parallel-session-8.tex:72: Package inputenc Error: Keyboa
-rd character used is undefined
+! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
@@ -4814,7 +4841,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Runaway argument?
 {{}{}{papers-509} \paperabstract {\day }{}{}{}{papers-1811} \paperabstract \ETC
 .
-./content/day3/day3.tex:16: File ended while scanning use of \paperabstract.
+! File ended while scanning use of \paperabstract.
 <inserted text> 
                 \par 
 l.16 ...uto/papers/Tuesday-parallel-session-9.tex}
@@ -4838,7 +4865,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 (./auto/abstracts/papers-185.tex) (./auto/abstracts/papers-582.tex)
-./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:11: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.11 \posterabstract{papers-684}
@@ -4885,7 +4912,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [255]
 (./auto/abstracts/papers-1209.tex) (./auto/abstracts/papers-1326.tex)
 (./auto/abstracts/papers-1411.tex
-./auto/abstracts/papers-1411.tex:1: Undefined control sequence.
+! Undefined control sequence.
 l.1 ... prior results. For example, TTransE \citep
                                                   {leblay2018deriving}, one ...
 The control sequence at the end of the top line
@@ -4935,8 +4962,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 (./auto/abstracts/papers-3075.tex) (./auto/abstracts/papers-3308.tex)
 (./auto/abstracts/papers-3374.tex) (./auto/abstracts/papers-3451.tex)
 
-./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:67: Package inputenc Error: 
-Unicode char \u8:¬≠ not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:¬≠ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -4949,8 +4975,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:67: Package inputenc Error: 
-Unicode char \u8:¬≠ not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:¬≠ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -5040,7 +5065,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [274]
 (./auto/abstracts/papers-151.tex) (./auto/abstracts/papers-152.tex)
 (./auto/abstracts/papers-160.tex)
-./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:127: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.127 \posterabstract{papers-171}
@@ -5048,7 +5073,7 @@ l.127 \posterabstract{papers-171}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./auto/papers/Tuesday-Virtual-Poster-Session-3.tex:127: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.127 \posterabstract{papers-171}
@@ -5089,18 +5114,14 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-(./content/workshops/overview.tex
+(./content/workshops/overview.tex) [279
 
-LaTeX Warning: Reference `WShopA' on page 279 undefined on input line 15.
+] (./auto/wmt/schedule.tex [280
 
 
-LaTeX Warning: Reference `WShopF' on page 279 undefined on input line 24.
-
-) [279
-
-] (./auto/conll/schedule.tex
-./auto/conll/schedule.tex:8: You can't use `macro parameter character #' in hor
-izontal mode.
+])
+[281] (./auto/conll/schedule.tex
+! You can't use `macro parameter character #' in horizontal mode.
 l.8 ... dialogue, and grounded language learning #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5108,8 +5129,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:15: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.15 \item[11:30--12:00] {\bfseries  Break #
                                             }
 Sorry, but I'm not programmed to handle this case;
@@ -5117,8 +5137,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:20: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.20 \item[1:10--2:10] {\bfseries  Lunch break #
                                                 }
 Sorry, but I'm not programmed to handle this case;
@@ -5126,8 +5145,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:23: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.23 ..., and interpretation of language  models #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5135,8 +5153,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:31: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.31 \item[3:50--4:20] {\bfseries  Break #
                                           }
 Sorry, but I'm not programmed to handle this case;
@@ -5144,8 +5161,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:34: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.34 ...4:20--6:00] {\bfseries  Poster session 1 #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5153,12 +5169,10 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[280
-
+[282
 
 ]
-./auto/conll/schedule.tex:55: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.55 ...nal, and discourse semantics; Pragmatics #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5166,8 +5180,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:63: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.63 ...1:40--1:20] {\bfseries  Poster session 2 #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5178,9 +5191,8 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [281]
-./auto/conll/schedule.tex:84: You can't use `macro parameter character #' in ho
-rizontal mode.
+ [283]
+! You can't use `macro parameter character #' in horizontal mode.
 l.84 \item[1:20--2:20] {\bfseries  Lunch break #
                                                 }
 Sorry, but I'm not programmed to handle this case;
@@ -5188,8 +5200,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:89: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.89 \item[3:30--3:50] {\bfseries  Break #
                                           }
 Sorry, but I'm not programmed to handle this case;
@@ -5197,8 +5208,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:92: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.92 ...ion, acquisition and linguistic theories #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5206,8 +5216,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:98: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.98 \item[4:50--5:10] {\bfseries  Break #
                                           }
 Sorry, but I'm not programmed to handle this case;
@@ -5215,8 +5224,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:101: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.101 ...s  Oral session 5: Speech and phonology #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5224,8 +5232,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/conll/schedule.tex:106: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.106 ...ies  Best Paper Award and Closing Words #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5233,40 +5240,37 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [282] (./auto/argmining/schedule.tex [283
+) [284] (./auto/argmining/schedule.tex [285
 
-]) [284] (./auto/codi/schedule.tex
-Overfull \hbox (15.83023pt too wide) in paragraph at lines 31--32
-\T1/ptm/b/n/7 net Oguz, Ta-tiana Anikina, Siyu Tao, Sharmila Upad-hyaya and Iva
-na Kruijff-Korbayova) 
- []
-
-[285
+]) [286] (./auto/codi/schedule.tex
+[287
 
 ]
 
-./auto/codi/schedule.tex:92: Package inputenc Error: Unicode char \u8:‚Äë not s
-et up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:‚Äë not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92 \item[11:05--11:15] \wspaperentry{codi-019}
+l.89 \item[11:05--11:15] \wspaperentry{codi-019}
                                                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (8.85735pt too wide) in paragraph at lines 116--117
+[]\T1/ptm/m/n/7 A Uni-fied Ap-proach to Dis-course Re-la-tion Clas-si-fi-ca-tio
+n in nine Lan-guages (Hanna Varachk-
+ []
 
- [286])
-[287] (./auto/nlp4convai/schedule.tex [288
+) [288] (./auto/nlp4convai/schedule.tex [289
 
-]) [289]
-(./auto/eval4nlp/schedule.tex
-./auto/eval4nlp/schedule.tex:53: Misplaced alignment tab character &.
+]) [290] (./auto/NILLI/schedule.tex) [291
+
+] (./auto/eval4nlp/schedule.tex
+! Misplaced alignment tab character &.
 l.53 ...:00--5:45] {\bfseries  Award Announcment &
                                                    Shared Task Winners Prese...
 I can't figure out why you would want to use a tab mark
@@ -5276,11 +5280,11 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[290
+[292
 
-]) [291] (./auto/ci+nlp/schedule.tex
-./auto/ci+nlp/schedule.tex:3: You can't use `macro parameter character #' in ho
-rizontal mode.
+
+]) [293] (./auto/ci+nlp/schedule.tex
+! You can't use `macro parameter character #' in horizontal mode.
 l.3 ...m[9:00--9:10] {\bfseries  Opening Remarks #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5288,47 +5292,71 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [292
+) [294
 
-] (./auto/insights/schedule.tex) [293
+] (./auto/insights/schedule.tex) [295
 
 ] (./auto/mrqa/schedule.tex
-Overfull \hbox (1.01765pt too wide) in paragraph at lines 51--52
-[]\T1/ptm/b/n/7 Synthetic Tar-get Do-main Su-per-vi-sion for Open Re-trieval QA
- (Re-vanth Gangi Reddy,
+Overfull \hbox (10.01268pt too wide) in paragraph at lines 54--55
+[]\T1/ptm/m/n/7 Entity-based Knowl-edge Con-flicts in Ques-tion An-swer-ing (Sh
+ayne Long-pre, Kar-tik Perisetla,
  []
 
-[294
+[296
 
 ]
-Overfull \hbox (16.39642pt too wide) in paragraph at lines 60--61
-[]\T1/ptm/b/n/7 Generative Con-text Pair Se-lec-tion for Multi-hop Ques-tion An
+Overfull \hbox (0.84982pt too wide) in paragraph at lines 60--61
+[]\T1/ptm/m/n/7 Generative Con-text Pair Se-lec-tion for Multi-hop Ques-tion An
 -swer-ing (Dheeru Dua,Cicero
  []
 
 
-Overfull \hbox (5.23201pt too wide) in paragraph at lines 60--61
-\T1/ptm/b/n/7 Nogueira dos San-tos,Patrick Ng,Ben Athi-waratkun,Bing Xi-ang,Mat
-t Gard-ner,Sameer
+Overfull \hbox (8.34691pt too wide) in paragraph at lines 60--61
+\T1/ptm/m/n/7 Nogueira dos San-tos,Patrick Ng,Ben Athi-waratkun,Bing Xi-ang,Mat
+t Gard-ner,Sameer Singh) 
  []
 
 
-Overfull \hbox (15.8994pt too wide) in paragraph at lines 117--118
-[]\T1/ptm/b/n/7 AutoEQA: Auto-Encoding Ques-tions for Ex-trac-tive Ques-tion An
+Overfull \hbox (24.7127pt too wide) in paragraph at lines 63--64
+[]\T1/ptm/m/n/7 Learning with In-stance Bun-dles for Read-ing Com-pre-hen-sion 
+(Dheeru Dua, Pradeep Dasigi,Sameer
+ []
+
+
+Overfull \hbox (4.81184pt too wide) in paragraph at lines 72--73
+[]\T1/ptm/m/n/7 RocketQA: An Op-ti-mized Train-ing Ap-proach to Dense Pas-sage 
+Re-trieval for Open-Domain
+ []
+
+
+Overfull \hbox (3.30647pt too wide) in paragraph at lines 96--97
+[]\T1/ptm/m/n/7 When Retriever-Reader Meets Scenario-Based Multiple-Choice Ques
+-tions (ZiX-ian Huang,
+ []
+
+
+Overfull \hbox (1.79492pt too wide) in paragraph at lines 105--106
+[]\T1/ptm/m/n/7 Reference-based Weak Su-per-vi-sion for An-swer Sen-tence Se-le
+c-tion us-ing Web Data (Vivek
+ []
+
+
+Overfull \hbox (0.90579pt too wide) in paragraph at lines 117--118
+[]\T1/ptm/m/n/7 AutoEQA: Auto-Encoding Ques-tions for Ex-trac-tive Ques-tion An
 -swer-ing (Stalin Varanasi,
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [295])
-[296] (./auto/nllp/schedule.tex [297
+ [297])
+[298] (./auto/nllp/schedule.tex [299
 
-]) [298] (./auto/sustainlp/schedule.tex)
-[299
+]) [300] (./auto/sustainlp/schedule.tex)
+[301
 
 ] (./auto/fever/schedule.tex
-./auto/fever/schedule.tex:14: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.14 \item[10:05--10:20] {\bfseries  Q&
                                        A}
 I can't figure out why you would want to use a tab mark
@@ -5338,7 +5366,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./auto/fever/schedule.tex:21: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.21 \item[10:50--11:00] {\bfseries  Q&
                                        A}
 I can't figure out why you would want to use a tab mark
@@ -5348,7 +5376,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./auto/fever/schedule.tex:33: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.33 \item[12:15--12:30] {\bfseries  Q&
                                        A}
 I can't figure out why you would want to use a tab mark
@@ -5358,8 +5386,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-./auto/fever/schedule.tex:43: You can't use `macro parameter character #' in ve
-rtical mode.
+! You can't use `macro parameter character #' in vertical mode.
 l.43 \item[2:00--2:10] {\bfseries  #
                                      The Fact Extraction and VERification Ov...
 Sorry, but I'm not programmed to handle this case;
@@ -5367,7 +5394,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/fever/schedule.tex:47: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.47 \item[2:30--2:45] {\bfseries  Q&
                                      A}
 I can't figure out why you would want to use a tab mark
@@ -5377,10 +5404,10 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[300
+[302
 
 ]
-./auto/fever/schedule.tex:67: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.67 \item[5:15--5:30] {\bfseries  Q&
                                      A}
 I can't figure out why you would want to use a tab mark
@@ -5390,9 +5417,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [301] (./auto/newsum/schedule.tex
-./auto/newsum/schedule.tex:3: You can't use `macro parameter character #' in ho
-rizontal mode.
+) [303] (./auto/newsum/schedule.tex
+! You can't use `macro parameter character #' in horizontal mode.
 l.3 ...:00--10:30] {\bfseries  Morning Session I #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5400,8 +5426,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/newsum/schedule.tex:17: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.17 ...0--12:00] {\bfseries  Morning session II #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5409,8 +5434,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/newsum/schedule.tex:26: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.26 ...0--2:30] {\bfseries  Afternoon session I #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5418,8 +5442,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/newsum/schedule.tex:39: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.39 ...--3:35] {\bfseries  Afternoon session II #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5427,8 +5450,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/newsum/schedule.tex:46: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.46 ...es  EMNLP Finding papers - Summarization #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5436,8 +5458,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/newsum/schedule.tex:52: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.52 ...-6:00] {\bfseries  Afternoon session III #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5445,10 +5466,10 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[302
+[304
 
-]) [303] (./auto/econlp/schedule.tex
-./auto/econlp/schedule.tex:4: Misplaced alignment tab character &.
+]) [305] (./auto/econlp/schedule.tex
+! Misplaced alignment tab character &.
 l.4 ...ng remarks and status report on economics &
                                                    NLP (Udo Hahn)}
 I can't figure out why you would want to use a tab mark
@@ -5458,10 +5479,10 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [304
+) [306
 
 ]
-./content/workshops/workshops.tex:158: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 <argument> ...MR: The 15th Linguistic Annotation &
                                                    3rd Designing Meaning Rep...
 l.158   {\WShopLocJ}
@@ -5478,8 +5499,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `alignment tab' on input line 158.
 
 (./auto/lawdmr/schedule.tex
-./auto/lawdmr/schedule.tex:5: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.5 \item[8:45--9:00] {\bfseries  Introduction #
                                                 }
 Sorry, but I'm not programmed to handle this case;
@@ -5487,8 +5507,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/lawdmr/schedule.tex:8: You can't use `macro parameter character #' in ho
-rizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.8 ...bfseries  Session A: Oral presentations:  #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5496,8 +5515,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/lawdmr/schedule.tex:18: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.18 ...eries  Session B: Poster presentations:  #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5505,8 +5523,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/lawdmr/schedule.tex:34: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.34 ...t's the future of linguistic annotation? #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5514,8 +5531,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./auto/lawdmr/schedule.tex:37: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.37 ...fseries  Session C: Oral presentations:  #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5523,11 +5539,10 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[305
+[307
 
 ]
-./auto/lawdmr/schedule.tex:47: You can't use `macro parameter character #' in h
-orizontal mode.
+! You can't use `macro parameter character #' in horizontal mode.
 l.47 ...00--4:15] {\bfseries  Concluding remarks #
                                                   }
 Sorry, but I'm not programmed to handle this case;
@@ -5535,15 +5550,14 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-) [306] (./auto/w-nut/schedule.tex [307
+) [308] (./auto/w-nut/schedule.tex [309
 
-]) [308]
-(./auto/latech-clfl/schedule.tex) [309
+]) [310]
+(./auto/latech-clfl/schedule.tex) [311
 
 ] (./auto/mrl/schedule.tex
 
-./auto/mrl/schedule.tex:22: Package inputenc Error: Unicode char \u8:ƒÅ not set
- up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:ƒÅ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -5555,12 +5569,11 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[310
+[312
 
-]) [311] (./auto/winlp/schedule.tex
+]) [313] (./auto/winlp/schedule.tex
 
-./auto/winlp/schedule.tex:32: Package inputenc Error: Unicode char \u8:ÔøΩ not 
-set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u8:ÔøΩ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -5572,10 +5585,10 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[312
+[314
 
 ]
-./auto/winlp/schedule.tex:85: Misplaced alignment tab character &.
+! Misplaced alignment tab character &.
 l.85 \item[4:35--5:30] {\bfseries  Social &
                                             Coffee}
 I can't figure out why you would want to use a tab mark
@@ -5585,18 +5598,18 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [313] (./auto/eancs/schedule.tex) [314
+) [315] (./auto/eancs/schedule.tex) [316
 
-] (./auto/crac/schedule.tex [315
+] (./auto/crac/schedule.tex [317
 
 ])
-[316] (./auto/blackbox/schedule.tex [317
+[318] (./auto/blackbox/schedule.tex [319
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [318])
-[319] [320
+ [320])
+[321] [322
 
 
 ]) (./content/anti-harassment-policy.tex
@@ -5606,17 +5619,17 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-) [321
+) [323
 
-] [322
+] [324
 
-] (./handbook.ind [323
+] (./handbook.ind [325
 
-] [324] [325] [326] [327] [328] [329]
-[330] [331] [332] [333] [334] [335] [336] [337
+] [326] [327] [328] [329] [330] [331]
+[332] [333] [334] [335] [336] [337] [338] [339
 
 ])
-(./content/local-guide/local-guide.tex [338
+(./content/local-guide/local-guide.tex [340
 
 
 ]
@@ -5626,7 +5639,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
  []
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4100, 614.295pt x 794.97pt>
+<content/local-guide/EMNLP-localGuide.pdf, id=4127, 614.295pt x 794.97pt>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf>
@@ -5640,7 +5653,7 @@ Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf used on input
  line 6.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<content/local-guide/EMNLP-localGuide.pdf, id=4103, page=1, 614.295pt x 794.97p
+<content/local-guide/EMNLP-localGuide.pdf, id=4130, page=1, 614.295pt x 794.97p
 t>
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
  <use content/local-guide/EMNLP-localGuide.pdf, page 1>
@@ -5665,15 +5678,15 @@ File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [339]
+ [341]
 File: content/local-guide/EMNLP-localGuide.pdf Graphic file (type pdf)
 
 <use content/local-guide/EMNLP-localGuide.pdf, page 1>
 Package pdftex.def Info: content/local-guide/EMNLP-localGuide.pdf, page1 used o
 n input line 6.
 (pdftex.def)             Requested size: 676.37334pt x 875.3067pt.
- [340 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
-<content/ads/silver/Naver-EMNLP2021.pdf, id=4144, 597.23125pt x 845.1575pt>
+ [342 <./content/local-guide/EMNLP-localGuide.pdf>]) (./content/ads/ads.tex
+<content/ads/silver/Naver-EMNLP2021.pdf, id=4172, 597.23125pt x 845.1575pt>
 File: content/ads/silver/Naver-EMNLP2021.pdf Graphic file (type pdf)
 
 <use content/ads/silver/Naver-EMNLP2021.pdf>
@@ -5682,11 +5695,11 @@ ine 10.
 (pdftex.def)             Requested size: 289.07999pt x 409.08844pt.
 
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./content/ads/silver/duoling
-o-emnlp21-quarter-ad.pdf): PDF inclusion: found PDF version <1.7>, but at most 
-version <1.5> allowed
+pdfTeX warning: pdflatex (file ./content/ads/silver/duolingo-emnlp21-quarter-ad
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
 
-<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4145, 190.311pt x 325.2
+<content/ads/silver/duolingo-emnlp21-quarter-ad.pdf, id=4173, 190.311pt x 325.2
 15pt>
 File: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf Graphic file (type pdf
 )
@@ -5695,10 +5708,10 @@ Package pdftex.def Info: content/ads/silver/duolingo-emnlp21-quarter-ad.pdf use
 d on input line 12.
 (pdftex.def)             Requested size: 289.07999pt x 494.06892pt.
 
-<content/ads/silver/emnlp_ad.pdf, id=4146, 325.215pt x 144.54pt>
+<content/ads/silver/emnlp_ad.pdf, id=4174, 325.215pt x 144.54pt>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [341
+ [343
 
 
  <./content/ads/silver/Naver-EMNLP2021.pdf>]
@@ -5710,13 +5723,13 @@ Package pdftex.def Info: content/ads/silver/emnlp_ad.pdf used on input line 14.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [342 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
+ [344 <./content/ads/silver/duolingo-emnlp21-quarter-ad.pdf>])
 Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
 (./content/sponsors/sponsors.tex
-<content/sponsors/diamond/apple.png, id=4189, 150.5625pt x 150.5625pt>
+<content/sponsors/diamond/apple.png, id=4217, 150.5625pt x 150.5625pt>
 File: content/sponsors/diamond/apple.png Graphic file (type png)
 
 <use content/sponsors/diamond/apple.png>
@@ -5724,7 +5737,7 @@ Package pdftex.def Info: content/sponsors/diamond/apple.png used on input line
 6.
 (pdftex.def)             Requested size: 36.135pt x 36.13573pt.
 
-<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4191, 220.825pt x 132.495
+<content/sponsors/diamond/Bloomberg-logo-2019.png, id=4219, 220.825pt x 132.495
 pt>
 File: content/sponsors/diamond/Bloomberg-logo-2019.png Graphic file (type png)
  <use content/sponsors/diamond/Bloomberg-logo-2019.png>
@@ -5732,14 +5745,14 @@ Package pdftex.def Info: content/sponsors/diamond/Bloomberg-logo-2019.png used
 on input line 7.
 (pdftex.def)             Requested size: 36.135pt x 21.68079pt.
 
-<content/sponsors/diamond/Facebook-AI2020.png, id=4192, 2342.7525pt x 529.98pt>
+<content/sponsors/diamond/Facebook-AI2020.png, id=4220, 2342.7525pt x 529.98pt>
 File: content/sponsors/diamond/Facebook-AI2020.png Graphic file (type png)
 <use content/sponsors/diamond/Facebook-AI2020.png>
 Package pdftex.def Info: content/sponsors/diamond/Facebook-AI2020.png used on i
 nput line 8.
 (pdftex.def)             Requested size: 72.26999pt x 16.34348pt.
 
-<content/sponsors/diamond/google.png, id=4193, 672.5125pt x 96.36pt>
+<content/sponsors/diamond/google.png, id=4221, 672.5125pt x 96.36pt>
 File: content/sponsors/diamond/google.png Graphic file (type png)
 
 <use content/sponsors/diamond/google.png>
@@ -5751,8 +5764,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
 
-./content/sponsors/sponsors.tex:13: Extra alignment tab has been changed to \cr
-.
+! Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
 l.13   \multicolumn{4}{l}{\small\textbf Platinum}
@@ -5761,7 +5773,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/amazon-logo.png, id=4194, 1003.75pt x 526.96875pt>
+<content/sponsors/platinum/amazon-logo.png, id=4222, 1003.75pt x 526.96875pt>
 File: content/sponsors/platinum/amazon-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/amazon-logo.png>
@@ -5769,7 +5781,7 @@ Package pdftex.def Info: content/sponsors/platinum/amazon-logo.png used on inpu
 t line 14.
 (pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
 
-<content/sponsors/platinum/deepmind-logo.png, id=4195, 1066.98625pt x 401.5pt>
+<content/sponsors/platinum/deepmind-logo.png, id=4223, 1066.98625pt x 401.5pt>
 File: content/sponsors/platinum/deepmind-logo.png Graphic file (type png)
 
 <use content/sponsors/platinum/deepmind-logo.png>
@@ -5777,21 +5789,15 @@ Package pdftex.def Info: content/sponsors/platinum/deepmind-logo.png used on in
 put line 15.
 (pdftex.def)             Requested size: 72.26999pt x 27.1889pt.
 
+<content/sponsors/platinum/bytedance.png, id=4224, 361.35pt x 65.24374pt>
+File: content/sponsors/platinum/bytedance.png Graphic file (type png)
 
-./content/sponsors/sponsors.tex:16: LaTeX Error: Unknown graphics extension: .s
-vg.
+<use content/sponsors/platinum/bytedance.png>
+Package pdftex.def Info: content/sponsors/platinum/bytedance.png used on input 
+line 16.
+(pdftex.def)             Requested size: 72.26999pt x 13.04851pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 ...ontent/sponsors/platinum/ByteDance_EN.svg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./content/sponsors/sponsors.tex:17: Extra alignment tab has been changed to \cr
-.
+! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
 l.17      &
@@ -5800,7 +5806,7 @@ You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-<content/sponsors/platinum/g-research.png, id=4196, 451.6875pt x 451.6875pt>
+<content/sponsors/platinum/g-research.png, id=4225, 451.6875pt x 451.6875pt>
 File: content/sponsors/platinum/g-research.png Graphic file (type png)
 
 <use content/sponsors/platinum/g-research.png>
@@ -5808,222 +5814,221 @@ Package pdftex.def Info: content/sponsors/platinum/g-research.png used on input
  line 17.
 (pdftex.def)             Requested size: 72.26999pt x 72.26457pt.
 
-<content/sponsors/platinum/megagon-logo-2019.png, id=4197, 240.9pt x 240.9pt>
+<content/sponsors/platinum/Baidu.png, id=4226, 339.669pt x 134.904pt>
+File: content/sponsors/platinum/Baidu.png Graphic file (type png)
+
+<use content/sponsors/platinum/Baidu.png>
+Package pdftex.def Info: content/sponsors/platinum/Baidu.png used on input line
+ 18.
+(pdftex.def)             Requested size: 72.26999pt x 28.70325pt.
+
+<content/sponsors/platinum/megagon-logo-2019.png, id=4227, 240.9pt x 240.9pt>
 File: content/sponsors/platinum/megagon-logo-2019.png Graphic file (type png)
 
 <use content/sponsors/platinum/megagon-logo-2019.png>
 Package pdftex.def Info: content/sponsors/platinum/megagon-logo-2019.png used o
-n input line 18.
+n input line 19.
 (pdftex.def)             Requested size: 72.26999pt x 72.26688pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--20
+Underfull \hbox (badness 10000) in paragraph at lines 12--21
 
  []
 
-<content/sponsors/gold/grammarly.png, id=4198, 1028.84375pt x 240.9pt>
+<content/sponsors/gold/grammarly.png, id=4228, 1028.84375pt x 240.9pt>
 File: content/sponsors/gold/grammarly.png Graphic file (type png)
 
 <use content/sponsors/gold/grammarly.png>
 Package pdftex.def Info: content/sponsors/gold/grammarly.png used on input line
- 23.
+ 24.
 (pdftex.def)             Requested size: 72.26999pt x 16.91985pt.
 
-<content/sponsors/gold/MSFT.jpg, id=4199, 582.175pt x 124.465pt>
+<content/sponsors/gold/MSFT.jpg, id=4229, 582.175pt x 124.465pt>
 File: content/sponsors/gold/MSFT.jpg Graphic file (type jpg)
 
 <use content/sponsors/gold/MSFT.jpg>
-Package pdftex.def Info: content/sponsors/gold/MSFT.jpg used on input line 24.
+Package pdftex.def Info: content/sponsors/gold/MSFT.jpg used on input line 25.
 (pdftex.def)             Requested size: 72.26999pt x 15.44983pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
+Underfull \hbox (badness 10000) in paragraph at lines 22--27
 
  []
 
+<content/sponsors/silver/duolingo.png, id=4230, 401.5pt x 302.12875pt>
+File: content/sponsors/silver/duolingo.png Graphic file (type png)
 
-./content/sponsors/sponsors.tex:29: LaTeX Error: Unknown graphics extension: .s
-vg.
+<use content/sponsors/silver/duolingo.png>
+Package pdftex.def Info: content/sponsors/silver/duolingo.png used on input lin
+e 30.
+(pdftex.def)             Requested size: 72.26999pt x 54.38081pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 ...1in]{content/sponsors/silver/duolingo.svg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-<content/sponsors/silver/Naver.jpg, id=4200, 301.125pt x 301.125pt>
+<content/sponsors/silver/Naver.jpg, id=4231, 301.125pt x 301.125pt>
 File: content/sponsors/silver/Naver.jpg Graphic file (type jpg)
 
 <use content/sponsors/silver/Naver.jpg>
 Package pdftex.def Info: content/sponsors/silver/Naver.jpg used on input line 3
-0.
+1.
 (pdftex.def)             Requested size: 72.26999pt x 72.27147pt.
 
-<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4201, 2603.7275pt x 552.0625
+<content/sponsors/silver/Naver_Labs_Europe.jpg, id=4232, 2603.7275pt x 552.0625
 pt>
 File: content/sponsors/silver/Naver_Labs_Europe.jpg Graphic file (type jpg)
  <use content/sponsors/silver/Naver_Labs_Europe.jpg>
 Package pdftex.def Info: content/sponsors/silver/Naver_Labs_Europe.jpg used on 
-input line 31.
+input line 32.
 (pdftex.def)             Requested size: 72.26999pt x 15.32286pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--33
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
 
  []
 
-[343 <./content/ads/silver/emnlp_ad.pdf>]
-<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4227
+[345 <./content/ads/silver/emnlp_ad.pdf>]
+<content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png, id=4257
 , 455.5419pt x 118.7637pt>
 File: content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png Gra
 phic file (type png)
 
 <use content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png>
 Package pdftex.def Info: content/sponsors/bronze/Adobe_Corporate_Horizontal_Loc
-kup_Red_RGB.png used on input line 36.
+kup_Red_RGB.png used on input line 37.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 
-<content/sponsors/bronze/Babelscape_colori.png, id=4228, 474.573pt x 94.1919pt>
+<content/sponsors/bronze/Babelscape_colori.png, id=4258, 474.573pt x 94.1919pt>
 File: content/sponsors/bronze/Babelscape_colori.png Graphic file (type png)
 <use content/sponsors/bronze/Babelscape_colori.png>
 Package pdftex.def Info: content/sponsors/bronze/Babelscape_colori.png used on 
-input line 37.
+input line 38.
 (pdftex.def)             Requested size: 72.26999pt x 14.34375pt.
 
-<content/sponsors/bronze/HLTCOE-Logo.png, id=4229, 226.8475pt x 117.43875pt>
+<content/sponsors/bronze/HLTCOE-Logo.png, id=4259, 226.8475pt x 117.43875pt>
 File: content/sponsors/bronze/HLTCOE-Logo.png Graphic file (type png)
 
 <use content/sponsors/bronze/HLTCOE-Logo.png>
 Package pdftex.def Info: content/sponsors/bronze/HLTCOE-Logo.png used on input 
-line 38.
+line 39.
 (pdftex.def)             Requested size: 86.72377pt x 44.89597pt.
 
-./content/sponsors/sponsors.tex:39: Extra alignment tab has been changed to \cr
-.
+! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.39     &
+l.40     &
             \includegraphics[width=1in]{content/sponsors/bronze/LegalForce_n...
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-<content/sponsors/bronze/LegalForce_new.jpg, id=4230, 173.03503pt x 190.99928pt
+<content/sponsors/bronze/LegalForce_new.jpg, id=4260, 173.03503pt x 190.99928pt
 >
 File: content/sponsors/bronze/LegalForce_new.jpg Graphic file (type jpg)
  <use content/sponsors/bronze/LegalForce_new.jpg>
 Package pdftex.def Info: content/sponsors/bronze/LegalForce_new.jpg used on inp
-ut line 39.
+ut line 40.
 (pdftex.def)             Requested size: 72.26999pt x 79.77324pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--41
+Underfull \hbox (badness 10000) in paragraph at lines 35--42
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [344 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
+ [346 <./content/sponsors/diamond/apple.png> <./content/sponsors/diamond/Bloomb
 erg-logo-2019.png> <./content/sponsors/diamond/Facebook-AI2020.png> <./content/
 sponsors/diamond/google.png> <./content/sponsors/platinum/amazon-logo.png> <./c
-ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/g-rese
-arch.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/sponso
-rs/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/sponsors/s
-ilver/Naver.jpg> <./content/sponsors/silver/Naver_Labs_Europe.jpg>]
-<content/sponsors/supporter/ServiceNow.png, id=4243, 253.6677pt x 72.87225pt>
+ontent/sponsors/platinum/deepmind-logo.png> <./content/sponsors/platinum/byteda
+nce.png> <./content/sponsors/platinum/g-research.png> <./content/sponsors/plati
+num/Baidu.png> <./content/sponsors/platinum/megagon-logo-2019.png> <./content/s
+ponsors/gold/grammarly.png> <./content/sponsors/gold/MSFT.jpg> <./content/spons
+ors/silver/duolingo.png> <./content/sponsors/silver/Naver.jpg> <./content/spons
+ors/silver/Naver_Labs_Europe.jpg>]
+<content/sponsors/supporter/ServiceNow.png, id=4276, 253.6677pt x 72.87225pt>
 File: content/sponsors/supporter/ServiceNow.png Graphic file (type png)
 
 <use content/sponsors/supporter/ServiceNow.png>
 Package pdftex.def Info: content/sponsors/supporter/ServiceNow.png used on inpu
-t line 44.
+t line 45.
 (pdftex.def)             Requested size: 86.72377pt x 24.913pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--46
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
 
  []
 
 
-<content/sponsors/diversityChampion/amazon-logo.png, id=4244, 1003.75pt x 526.9
+<content/sponsors/diversityChampion/amazon-logo.png, id=4277, 1003.75pt x 526.9
 6875pt>
 File: content/sponsors/diversityChampion/amazon-logo.png Graphic file (type png
 )
  <use content/sponsors/diversityChampion/amazon-logo.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/amazon-logo.png use
-d on input line 49.
-(pdftex.def)             Requested size: 86.72377pt x 45.52748pt.
+d on input line 50.
+(pdftex.def)             Requested size: 72.26999pt x 37.93689pt.
 
-<content/sponsors/diversityChampion/deepmind-logo.png, id=4245, 1066.98625pt x 
+<content/sponsors/diversityChampion/deepmind-logo.png, id=4278, 1066.98625pt x 
 401.5pt>
 File: content/sponsors/diversityChampion/deepmind-logo.png Graphic file (type p
 ng)
  <use content/sponsors/diversityChampion/deepmind-logo.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/deepmind-logo.png u
-sed on input line 50.
-(pdftex.def)             Requested size: 86.72377pt x 32.62914pt.
+sed on input line 51.
+(pdftex.def)             Requested size: 72.26999pt x 27.1889pt.
 
-<content/sponsors/diversityChampion/google.png, id=4246, 672.5125pt x 96.36pt>
+<content/sponsors/diversityChampion/google.png, id=4279, 672.5125pt x 96.36pt>
 File: content/sponsors/diversityChampion/google.png Graphic file (type png)
 
 <use content/sponsors/diversityChampion/google.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/google.png used on 
-input line 51.
-(pdftex.def)             Requested size: 86.72377pt x 12.42578pt.
+input line 52.
+(pdftex.def)             Requested size: 72.26999pt x 10.35408pt.
 
-<content/sponsors/diversityChampion/MSFT.png, id=4247, 415.01584pt x 88.72752pt
+<content/sponsors/diversityChampion/MSFT.png, id=4280, 415.01584pt x 88.72752pt
 >
 File: content/sponsors/diversityChampion/MSFT.png Graphic file (type png)
  <use content/sponsors/diversityChampion/MSFT.png>
 Package pdftex.def Info: content/sponsors/diversityChampion/MSFT.png used on in
-put line 52.
-(pdftex.def)             Requested size: 86.72377pt x 18.5399pt.
+put line 53.
+(pdftex.def)             Requested size: 72.26999pt x 15.45036pt.
 
-Overfull \hbox (54.81335pt too wide) in alignment at lines 47--53
-[] [] [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--54
+Underfull \hbox (badness 10000) in paragraph at lines 48--55
 
  []
 
 
-<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4248, 417.22887pt x 280.
+<content/sponsors/diversityAlly/Morgan-Stanley.png, id=4281, 417.22887pt x 280.
 13939pt>
 File: content/sponsors/diversityAlly/Morgan-Stanley.png Graphic file (type png)
 
  <use content/sponsors/diversityAlly/Morgan-Stanley.png>
 Package pdftex.def Info: content/sponsors/diversityAlly/Morgan-Stanley.png used
- on input line 57.
+ on input line 58.
 (pdftex.def)             Requested size: 86.72377pt x 58.22829pt.
 
-<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4249, 714.7
+<content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg, id=4282, 714.7
 503pt x 475.7775pt>
 File: content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg Graphic fi
 le (type jpg)
 
 <use content/sponsors/diversityContributor/IBM_logoR_blue60_RGB.jpg>
 Package pdftex.def Info: content/sponsors/diversityContributor/IBM_logoR_blue60
-_RGB.jpg used on input line 62.
+_RGB.jpg used on input line 63.
 (pdftex.def)             Requested size: 72.26999pt x 48.10323pt.
 
 <content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Red_RG
-B.png, id=4250, 455.5419pt x 118.7637pt>
+B.png, id=4283, 455.5419pt x 118.7637pt>
 File: content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_R
 ed_RGB.png Graphic file (type png)
 
 <use content/sponsors/diversityContributor/Adobe_Corporate_Horizontal_Lockup_Re
 d_RGB.png>
 Package pdftex.def Info: content/sponsors/diversityContributor/Adobe_Corporate_
-Horizontal_Lockup_Red_RGB.png used on input line 63.
+Horizontal_Lockup_Red_RGB.png used on input line 64.
 (pdftex.def)             Requested size: 72.26999pt x 18.8413pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 60--232
+Underfull \hbox (badness 10000) in paragraph at lines 61--232
 
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
-[345 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
+[347 <./content/sponsors/bronze/Adobe_Corporate_Horizontal_Lockup_Red_RGB.png> 
 <./content/sponsors/bronze/Babelscape_colori.png> <./content/sponsors/bronze/HL
 TCOE-Logo.png> <./content/sponsors/bronze/LegalForce_new.jpg> <./content/sponso
 rs/supporter/ServiceNow.png> <./content/sponsors/diversityChampion/amazon-logo.
@@ -6038,16 +6043,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
 Package rerunfilecheck Info: File `handbook.out' has not changed.
-(rerunfilecheck)             Checksum: DA1E8067D671D87C1B3A3E233358CD64;5201.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                handbook
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 2CC5A35BDE48861DCFDC99D0E6DE8EE8;5397.
 Package logreq Info: Writing requests to 'handbook.run.xml'.
 \openout1 = `handbook.run.xml'.
 
@@ -6063,13 +6059,13 @@ Package logreq Info: Writing requests to 'handbook.run.xml'.
 ### simple group (level 1) entered at line 1 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27027 strings out of 493089
- 482986 string characters out of 6134842
- 1605324 words of memory out of 5000000
- 26991 multiletter control sequences out of 15000+600000
+ 28347 strings out of 493089
+ 507012 string characters out of 6134842
+ 1614856 words of memory out of 5000000
+ 28272 multiletter control sequences out of 15000+600000
  54953 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,19n,55p,2264b,1822s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,19n,98p,2260b,1822s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced bu
 t does not exist, replaced by a fixed one
 
@@ -6090,10 +6086,10 @@ urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/tim
 es/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on handbook.pdf (351 pages, 4500274 bytes).
+Output written on handbook.pdf (353 pages, 4533256 bytes).
 PDF statistics:
- 4417 PDF objects out of 5155 (max. 8388607)
- 3913 compressed objects within 40 object streams
- 411 named destinations out of 1000 (max. 500000)
- 653 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4452 PDF objects out of 5155 (max. 8388607)
+ 3940 compressed objects within 40 object streams
+ 422 named destinations out of 1000 (max. 500000)
+ 684 words of extra memory for PDF output out of 10000 (max. 10000000)
 

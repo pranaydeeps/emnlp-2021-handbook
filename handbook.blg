@@ -1,0 +1,165 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is 'handbook.blg'
+[32] biber-darwin:276> INFO - === Thu Oct 14, 2021, 00:14:15
+[32] Biber.pm:333> INFO - Reading 'handbook.bcf'
+[241] Biber.pm:645> INFO - Found 1371 citekeys in bib section 0
+[255] Biber.pm:2977> INFO - Processing section 0
+[265] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/argmining/papers.bib' for section 0
+[267] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[267] bibtex.pm:895> INFO - Found BibTeX data source 'auto/argmining/papers.bib'
+[309] Utils.pm:146> WARN - Couldn't determine Last Name for name "elaraby, mohamed" - ignoring name
+[310] Utils.pm:146> WARN - Couldn't determine Last Name for name "elaraby, mohamed" - ignoring name
+[351] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/blackbox/papers.bib' for section 0
+[353] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[354] bibtex.pm:895> INFO - Found BibTeX data source 'auto/blackbox/papers.bib'
+[447] Utils.pm:146> WARN - Couldn't determine Last Name for name "banerjee, debapriya" - ignoring name
+[448] Utils.pm:146> WARN - Couldn't determine Last Name for name "banerjee, debapriya" - ignoring name
+[457] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/ci+nlp/papers.bib' for section 0
+[459] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[459] bibtex.pm:895> INFO - Found BibTeX data source 'auto/ci+nlp/papers.bib'
+[514] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/codi/papers.bib' for section 0
+[516] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[517] bibtex.pm:895> INFO - Found BibTeX data source 'auto/codi/papers.bib'
+[554] Utils.pm:146> WARN - Couldn't determine Last Name for name "demily, caroline" - ignoring name
+[555] Utils.pm:146> WARN - Couldn't determine Last Name for name "demily, caroline" - ignoring name
+[588] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/conll/papers.bib' for section 0
+[590] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[592] bibtex.pm:895> INFO - Found BibTeX data source 'auto/conll/papers.bib'
+[715] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/crac/papers.bib' for section 0
+[717] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[717] bibtex.pm:895> INFO - Found BibTeX data source 'auto/crac/papers.bib'
+[780] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/eancs/papers.bib' for section 0
+[781] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[781] bibtex.pm:895> INFO - Found BibTeX data source 'auto/eancs/papers.bib'
+[828] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/econlp/papers.bib' for section 0
+[829] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[829] bibtex.pm:895> INFO - Found BibTeX data source 'auto/econlp/papers.bib'
+[885] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/eval4nlp/papers.bib' for section 0
+[887] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[888] bibtex.pm:895> INFO - Found BibTeX data source 'auto/eval4nlp/papers.bib'
+[960] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/fever/papers.bib' for section 0
+[962] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[962] bibtex.pm:895> INFO - Found BibTeX data source 'auto/fever/papers.bib'
+[1015] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/insights/papers.bib' for section 0
+[1016] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1017] bibtex.pm:895> INFO - Found BibTeX data source 'auto/insights/papers.bib'
+[1048] Utils.pm:146> WARN - Couldn't determine Last Name for name "park, chanjun" - ignoring name
+[1049] Utils.pm:146> WARN - Couldn't determine Last Name for name "park, chanjun" - ignoring name
+[1078] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/latech-clfl/papers.bib' for section 0
+[1079] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1080] bibtex.pm:895> INFO - Found BibTeX data source 'auto/latech-clfl/papers.bib'
+[1145] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/lawdmr/papers.bib' for section 0
+[1147] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1148] bibtex.pm:895> INFO - Found BibTeX data source 'auto/lawdmr/papers.bib'
+[1207] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/MRL/papers.bib' for section 0
+[1208] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1209] bibtex.pm:895> INFO - Found BibTeX data source 'auto/MRL/papers.bib'
+[1279] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/mrqa/papers.bib' for section 0
+[1280] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1281] bibtex.pm:895> INFO - Found BibTeX data source 'auto/mrqa/papers.bib'
+[1335] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/newsum/papers.bib' for section 0
+[1338] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1339] bibtex.pm:895> INFO - Found BibTeX data source 'auto/newsum/papers.bib'
+[1378] Utils.pm:146> WARN - Couldn't determine Last Name for name "lee, chanhee" - ignoring name
+[1379] Utils.pm:146> WARN - Couldn't determine Last Name for name "lee, chanhee" - ignoring name
+[1398] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/nllp/papers.bib' for section 0
+[1399] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1400] bibtex.pm:895> INFO - Found BibTeX data source 'auto/nllp/papers.bib'
+[1469] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/nlp4convai/papers.bib' for section 0
+[1470] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1472] bibtex.pm:895> INFO - Found BibTeX data source 'auto/nlp4convai/papers.bib'
+[1548] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/papers/papers.bib' for section 0
+[1590] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[1629] bibtex.pm:895> INFO - Found BibTeX data source 'auto/papers/papers.bib'
+[1715] Utils.pm:146> WARN - Couldn't determine Last Name for name "an, zijian" - ignoring name
+[1716] Utils.pm:146> WARN - Couldn't determine Last Name for name "an, zijian" - ignoring name
+[1733] Utils.pm:146> WARN - Couldn't determine Last Name for name "wen, zhiyuan" - ignoring name
+[1734] Utils.pm:146> WARN - Couldn't determine Last Name for name "wen, zhiyuan" - ignoring name
+[1978] Utils.pm:146> WARN - Couldn't determine Last Name for name "liu, jinghua" - ignoring name
+[1979] Utils.pm:146> WARN - Couldn't determine Last Name for name "liu, jinghua" - ignoring name
+[1987] Utils.pm:146> WARN - Couldn't determine Last Name for name "xiao, chi" - ignoring name
+[1988] Utils.pm:146> WARN - Couldn't determine Last Name for name "xiao, chi" - ignoring name
+[1990] Utils.pm:146> WARN - Couldn't determine Last Name for name "li, changliang" - ignoring name
+[1991] Utils.pm:146> WARN - Couldn't determine Last Name for name "li, changliang" - ignoring name
+[1992] Utils.pm:146> WARN - Couldn't determine Last Name for name "mengchao, zhang" - ignoring name
+[1992] Utils.pm:146> WARN - Couldn't determine Last Name for name "mengchao, zhang" - ignoring name
+[2038] Utils.pm:146> WARN - Couldn't determine Last Name for name "shi, xiaodong" - ignoring name
+[2038] Utils.pm:146> WARN - Couldn't determine Last Name for name "shi, xiaodong" - ignoring name
+[2042] Utils.pm:146> WARN - Couldn't determine Last Name for name "huang, jun" - ignoring name
+[2043] Utils.pm:146> WARN - Couldn't determine Last Name for name "huang, jun" - ignoring name
+[2051] Utils.pm:146> WARN - Couldn't determine Last Name for name "wang, wenting" - ignoring name
+[2051] Utils.pm:146> WARN - Couldn't determine Last Name for name "wang, wenting" - ignoring name
+[2069] Utils.pm:146> WARN - Couldn't determine Last Name for name "mao, yuzhao" - ignoring name
+[2070] Utils.pm:146> WARN - Couldn't determine Last Name for name "mao, yuzhao" - ignoring name
+[2132] Utils.pm:146> WARN - Couldn't determine Last Name for name "seo, dongpil" - ignoring name
+[2134] Utils.pm:146> WARN - Couldn't determine Last Name for name "suh, soobin" - ignoring name
+[2138] Utils.pm:146> WARN - Couldn't determine Last Name for name "seo, dongpil" - ignoring name
+[2140] Utils.pm:146> WARN - Couldn't determine Last Name for name "suh, soobin" - ignoring name
+[2169] Utils.pm:146> WARN - Couldn't determine Last Name for name "zhu, yingying" - ignoring name
+[2170] Utils.pm:146> WARN - Couldn't determine Last Name for name "zhu, yingying" - ignoring name
+[2303] Utils.pm:146> WARN - Couldn't determine Last Name for name ", Mausam" - ignoring name
+[2304] Utils.pm:146> WARN - Couldn't determine Last Name for name ", Mausam" - ignoring name
+[2480] Utils.pm:146> WARN - Couldn't determine Last Name for name "rudnicky, alexander" - ignoring name
+[2480] Utils.pm:146> WARN - Couldn't determine Last Name for name "rudnicky, alexander" - ignoring name
+[2679] Utils.pm:146> WARN - Couldn't determine Last Name for name "huang, jun" - ignoring name
+[2680] Utils.pm:146> WARN - Couldn't determine Last Name for name "huang, jun" - ignoring name
+[2683] Utils.pm:146> WARN - Couldn't determine Last Name for name "vahdati, sahar" - ignoring name
+[2684] Utils.pm:146> WARN - Couldn't determine Last Name for name "vahdati, sahar" - ignoring name
+[2687] Utils.pm:146> WARN - Couldn't determine Last Name for name "cheng, kewei" - ignoring name
+[2687] Utils.pm:146> WARN - Couldn't determine Last Name for name "yang, ziqing" - ignoring name
+[2687] Utils.pm:146> WARN - Couldn't determine Last Name for name "cheng, kewei" - ignoring name
+[2687] Utils.pm:146> WARN - Couldn't determine Last Name for name "yang, ziqing" - ignoring name
+[2830] Utils.pm:146> WARN - Couldn't determine Last Name for name "giunchiglia, fausto" - ignoring name
+[2830] Utils.pm:146> WARN - Couldn't determine Last Name for name "giunchiglia, fausto" - ignoring name
+[2856] Utils.pm:146> WARN - Couldn't determine Last Name for name "sifre, laurent" - ignoring name
+[2857] Utils.pm:146> WARN - Couldn't determine Last Name for name "sifre, laurent" - ignoring name
+[2975] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/sustainlp/papers.bib' for section 0
+[2977] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[2978] bibtex.pm:895> INFO - Found BibTeX data source 'auto/sustainlp/papers.bib'
+[3007] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/WiNLP/papers.bib' for section 0
+[3009] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[3011] bibtex.pm:895> INFO - Found BibTeX data source 'auto/WiNLP/papers.bib'
+[3055] Utils.pm:146> WARN - Couldn't determine Last Name for name "park, chanjun" - ignoring name
+[3056] Utils.pm:146> WARN - Couldn't determine Last Name for name "park, chanjun" - ignoring name
+[3066] Biber.pm:3115> INFO - Looking for bibtex format file 'auto/w-nut/papers.bib' for section 0
+[3069] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[3070] bibtex.pm:895> INFO - Found BibTeX data source 'auto/w-nut/papers.bib'
+[3135] Biber.pm:3115> INFO - Looking for bibtex format file 'content/workshops/papers.bib' for section 0
+[3137] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[3139] bibtex.pm:895> INFO - Found BibTeX data source 'content/workshops/papers.bib'
+[3188] Utils.pm:146> WARN - I didn't find a database entry for 'Alane Suhr' (section 0)
+[3189] Utils.pm:146> WARN - I didn't find a database entry for 'Clara Vania' (section 0)
+[3189] Utils.pm:146> WARN - I didn't find a database entry for 'Nikita Nangia' (section 0)
+[3189] Utils.pm:146> WARN - I didn't find a database entry for 'Maarten Sap' (section 0)
+[3189] Utils.pm:146> WARN - I didn't find a database entry for 'Mark Yatskar' (section 0)
+[3190] Utils.pm:146> WARN - I didn't find a database entry for 'Samuel R. Bowman' (section 0)
+[3190] Utils.pm:146> WARN - I didn't find a database entry for 'Yoav Artzi' (section 0)
+[3190] Utils.pm:146> WARN - I didn't find a database entry for 'Hsin-Hsi Chen' (section 0)
+[3190] Utils.pm:146> WARN - I didn't find a database entry for 'Hen-Hsen Huang' (section 0)
+[3191] Utils.pm:146> WARN - I didn't find a database entry for 'Chung-Chi Chen' (section 0)
+[3191] Utils.pm:146> WARN - I didn't find a database entry for 'Wenhao Yu' (section 0)
+[3191] Utils.pm:146> WARN - I didn't find a database entry for 'Meng Jiang' (section 0)
+[3191] Utils.pm:146> WARN - I didn't find a database entry for 'Zhiting Hu' (section 0)
+[3191] Utils.pm:146> WARN - I didn't find a database entry for 'Qingyun Wang' (section 0)
+[3192] Utils.pm:146> WARN - I didn't find a database entry for 'Heng Ji' (section 0)
+[3192] Utils.pm:146> WARN - I didn't find a database entry for 'Nazneen Rajani' (section 0)
+[3192] Utils.pm:146> WARN - I didn't find a database entry for 'Sebastian Ruder' (section 0)
+[3192] Utils.pm:146> WARN - I didn't find a database entry for 'Avirup Sil' (section 0)
+[3193] Utils.pm:146> WARN - I didn't find a database entry for 'Kai-Wei Chang' (section 0)
+[3193] Utils.pm:146> WARN - I didn't find a database entry for 'He He' (section 0)
+[3193] Utils.pm:146> WARN - I didn't find a database entry for 'Robin Jia' (section 0)
+[3193] Utils.pm:146> WARN - I didn't find a database entry for 'Sameer Singh' (section 0)
+[3193] Utils.pm:146> WARN - I didn't find a database entry for 'Hai Zhao' (section 0)
+[3194] Utils.pm:146> WARN - I didn't find a database entry for 'Rui Wang' (section 0)
+[3194] Utils.pm:146> WARN - I didn't find a database entry for 'Kehai Chen' (section 0)
+[3194] Utils.pm:146> WARN - I didn't find a database entry for 'huang2019syntax' (section 0)
+[3194] Utils.pm:146> WARN - I didn't find a database entry for '3978' (section 0)
+[3195] Utils.pm:146> WARN - I didn't find a database entry for 'radford2019language' (section 0)
+[3195] Utils.pm:146> WARN - I didn't find a database entry for 'wmt-161' (section 0)
+[10503] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[10503] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[10503] Biber.pm:2854> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'en-US'
+[10503] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[14097] bbl.pm:505> INFO - Writing 'handbook.bbl' with encoding 'UTF-8'
+[14189] bbl.pm:596> INFO - Output to handbook.bbl
+[14189] Biber.pm:106> INFO - WARNINGS: 83

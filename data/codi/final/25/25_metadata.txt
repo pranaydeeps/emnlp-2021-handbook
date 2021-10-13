@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis Resolution in Dialogue
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Chuyuan Li
+JobTitle#==#
+Organization#==#Universite de Lorraine, CNRS, Inria, LORIA, F-54000 Nancy, France
+Abstract#==#We investigate linguistic markers associated with schizophrenia in clinical conversations by detecting predictive features among French-speaking patients. Dealing with human-human dialogues makes for a realistic situation, but it calls for strategies to represent the context and face data sparsity. We compare different approaches for data representation – from individual speech turns to entire conversations –, and data modeling, using lexical, morphological, syntactic, and discourse features, dimensions presumed to be tightly connected to the language of schizophrenia. Previous English models were mostly lexical and reached high performance, here replicated  (93.7% acc.). However, our analysis reveals that these models are heavily biased, which probably concerns most datasets on this task. Our new delexicalized models are more general and robust, with the best accuracy score at 77.9%.
+Author{1}{Firstname}#=%=#Sapan
+Author{1}{Lastname}#=%=#Khosla
+Author{1}{Firstname}#=%=#Juntao
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Firstname}#=%=#Ramesh
+Author{1}{Lastname}#=%=#Manuvinakurike
+Author{1}{Firstname}#=%=#Vincent
+Author{1}{Lastname}#=%=#Ng
+Author{1}{Firstname}#=%=#Massimo
+Author{1}{Lastname}#=%=#Poesio
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Lastname}#=%=#Strube
+Author{1}{Firstname}#=%=#Carolyn
+Author{1}{Lastname}#=%=#Ros{\'e}
+
+
+
+

@@ -1,15 +1,15 @@
 * Wednesday, November 10, 2021
 ! 09:00--12:00 CODI-CRAC Shared Task
 + 09:05--09:30 Welcome
-= 09:05--09:30 The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis Resolution in Dialogue %by Sopan Khosla, Juntao Yu, Ramesh Manuvinakurike, Vincent Ng, Massimo Poesio, Michael Strube and Carolyn Ros{\'e}
-= 09:30--09:45 Neural Anaphora Resolution in Dialogues %by Hideo Kobayashi, Shengjie Li and Vincent Ng
-= 09:45--10:00 Anaphora Resolution in Dialogue: Description of the DFKI-TalkingRobots System for the CODI-CRAC 2021 Shared-Task %by Tatiana Anikina, Cennet Oguz, Natalia Skachkova, Siyu Tao, Sharmila Upadhyaya and Ivana Kruijff-Korbayova
+25 09:05--09:30 # The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis Resolution in Dialogue %by Sopan Khosla, Juntao Yu, Ramesh Manuvinakurike, Vincent Ng, Massimo Poesio, Michael Strube and Carolyn Ros{\'e}
++ 09:30--09:45 Neural Anaphora Resolution in Dialogues %by Hideo Kobayashi, Shengjie Li and Vincent Ng
++ 09:45--10:00 Anaphora Resolution in Dialogue: Description of the DFKI-TalkingRobots System for the CODI-CRAC 2021 Shared-Task %by Tatiana Anikina, Cennet Oguz, Natalia Skachkova, Siyu Tao, Sharmila Upadhyaya and Ivana Kruijff-Korbayova
 + 10:00--10:30 Coffee Break
-= 10:30--10:45 The Pipeline Model for Resolution of Anaphoric Reference and Resolution of Entity Reference %by Hongjin Kim, Damrin Kim and Harksoo Kim
-= 10:45--11:00 An End-to-End Approach for Full Bridging Resolution %by Joseph Renner, Priyansh Trivedi, Gaurav Maheshwari, R{\'e}mi Gilleron and Pascal Denis
-= 11:00--11:15 Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues %by Liyan Xu and Jinho D. D. Choi
-= 11:15--11:30 Anaphora Resolution in Dialogue: Cross-Team Analysis of the DFKI-TalkingRobots Team Submissions for the CODI-CRAC 2021 Shared-Task %by Natalia Skachkova, Cennet Oguz, Tatiana Anikina, Siyu Tao, Sharmila Upadhyaya and Ivana Kruijff-Korbayova
-= 11:30--11:45 The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis Resolution in Dialogue: A Cross-Team Analysis %by Shengjie Li, Hideo Kobayashi, and Vincent Ng
++ 10:30--10:45 The Pipeline Model for Resolution of Anaphoric Reference and Resolution of Entity Reference %by Hongjin Kim, Damrin Kim and Harksoo Kim
++ 10:45--11:00 An End-to-End Approach for Full Bridging Resolution %by Joseph Renner, Priyansh Trivedi, Gaurav Maheshwari, R{\'e}mi Gilleron and Pascal Denis
++ 11:00--11:15 Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues %by Liyan Xu and Jinho D. D. Choi
++ 11:15--11:30 Anaphora Resolution in Dialogue: Cross-Team Analysis of the DFKI-TalkingRobots Team Submissions for the CODI-CRAC 2021 Shared-Task %by Natalia Skachkova, Cennet Oguz, Tatiana Anikina, Siyu Tao, Sharmila Upadhyaya and Ivana Kruijff-Korbayova
++ 11:30--11:45 The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis Resolution in Dialogue: A Cross-Team Analysis %by Shengjie Li, Hideo Kobayashi, and Vincent Ng
 = 11:45--12:00 Plenary Session
 + 11:45--12:00 Visioning Discussion and Next Steps
 + 12:00--13:30 Lunch Break
