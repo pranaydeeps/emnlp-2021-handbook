@@ -1,5 +1,5 @@
 SubmissionNumber#=%=#2353
-FinalPaperTitle#=%=#$k$Folden: $k$-Fold Ensemble for Out-Of-Distribution Detection
+FinalPaperTitle#=%=#kFolden: k-Fold Ensemble for Out-Of-Distribution Detection
 ShortPaperTitle#=%=#
 NumberOfPages#=%=#14
 CopyrightSigned#=%=#Jiwei Li
