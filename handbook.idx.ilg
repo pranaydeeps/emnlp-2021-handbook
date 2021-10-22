@@ -1,0 +1,9 @@
+This is makeindex, version 2.15 [TeX Live 2015] (kpathsea + Thai support).
+Scanning input file handbook.idx.fixed......
+!! Input index error (file = handbook.idx.fixed, line = 2809):
+   -- First argument too long (max 1024).
+...done (5709 entries accepted, 1 rejected).
+Sorting entries..........................................................done (81790 comparisons).
+Generating output file handbook.ind.........done (4625 lines written, 0 warnings).
+Output written in handbook.ind.
+Transcript written in handbook.idx.ilg.
