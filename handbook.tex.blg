@@ -1,0 +1,5 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is 'handbook.tex.blg'
+[34] biber-darwin:276> INFO - === do okt 28, 2021, 16:29:20
+[118] Utils.pm:162> ERROR - Cannot find control file 'handbook.tex.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[118] Biber.pm:110> INFO - ERRORS: 1
