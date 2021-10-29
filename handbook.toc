@@ -38,49 +38,49 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Session 1}{33}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster session 1}{47}{section.4.3}
+\contentsline {section}{Poster and Demo session 1}{47}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 2}{53}{section.4.4}
+\contentsline {section}{Session 2}{52}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 3}{67}{section.4.5}
+\contentsline {section}{Session 3}{66}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster session 2}{81}{section.4.6}
+\contentsline {section}{Poster and Demo session 2}{80}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 4}{88}{section.4.7}
+\contentsline {section}{Session 4}{86}{section.4.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Virtual Poster Session I}{102}{section.4.8}
+\contentsline {section}{Virtual Poster and Demo Session I}{100}{section.4.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Main Conference: Monday, November 8\xspace }{161}{chapter.5}
+\contentsline {chapter}{\numberline {5}Main Conference: Monday, November 8\xspace }{159}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Keynote Address: Evelina Fedorenko}{162}{section.5.1}
+\contentsline {section}{Keynote Address: Evelina Fedorenko}{160}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 5}{163}{section.5.2}
+\contentsline {section}{Session 5}{161}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster session 3}{177}{section.5.3}
+\contentsline {section}{Poster and Demo session 3}{175}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 6}{183}{section.5.4}
+\contentsline {section}{Session 6}{181}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster session 4}{197}{section.5.5}
+\contentsline {section}{Poster and Demo session 4}{195}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 7}{200}{section.5.6}
+\contentsline {section}{Session 7}{201}{section.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Virtual Poster Session 2}{214}{section.5.7}
+\contentsline {section}{Virtual Poster and Demo Session 2}{215}{section.5.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Social Event}{276}{section.5.8}
+\contentsline {section}{Social Event}{277}{section.5.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Main Conference: Tuesday, November 9\xspace }{277}{chapter.6}
+\contentsline {chapter}{\numberline {6}Main Conference: Tuesday, November 9\xspace }{279}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Keynote Address: Steven Bird}{278}{section.6.1}
+\contentsline {section}{Keynote Address: Steven Bird}{280}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 8}{279}{section.6.2}
+\contentsline {section}{Session 8}{281}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster session 5}{293}{section.6.3}
+\contentsline {section}{Poster and Demo session 5}{295}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 9}{299}{section.6.4}
+\contentsline {section}{Session 9}{301}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster session 6}{313}{section.6.5}
+\contentsline {section}{Poster and Demo session 6}{315}{section.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Virtual Poster Session 3}{320}{section.6.6}
+\contentsline {section}{Virtual Poster Session 3}{321}{section.6.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Workshops: Thursday--Friday, November 10--11\xspace }{381}{chapter.7}
 \defcounter {refsection}{0}\relax 
